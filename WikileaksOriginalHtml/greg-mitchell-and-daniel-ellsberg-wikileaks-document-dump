@@ -1,0 +1,1123 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN" "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html 
+     xmlns="http://www.w3.org/1999/xhtml" 
+     xmlns:dc="http://purl.org/dc/elements/1.1/" 
+     xmlns:ctag="http://commontag.org/ns#" 
+     lang="en" 
+     dir="ltr"
+     version="XHTML+RDFa 1.0" >
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <!-- 74.121.192.98-->
+  <title>Greg Mitchell and Daniel Ellsberg on the WikiLeaks Document Dump | The Nation</title>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js"></script>
+<link rel="shortcut icon" href="/sites/thenation.com/files/favicon.ico" type="image/x-icon" />
+<meta name="keywords" content="Wikileaks, confidential, US diplomatic cables, Democracy Now!, Amy Goodman, leaks, Greg Mitchell, Daniel Ellsberg, Julian Assange, Foreign Policy, World Leaders, Sanctions" />
+<meta name="description" content="The morning after WikiLeaks began releasing its trove of   confidential US diplomatic cables, Democracy Now! hosts a  round-table  about the possible impact of these leaks." />
+  <link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/views/css/views.css?S" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/default/files/css/css_6389381872121e9064699f4115767be5.css" />
+<link type="text/css" rel="stylesheet" media="screen" href="/sites/default/files/css/css_64e26a2a28b4dc8bd1c33ebc428d75b4.css" />
+<link type="text/css" rel="stylesheet" media="print" href="/sites/default/files/css/css_5381aaa66cc28734cbd616137cdc4016.css" />
+  
+  
+  
+  <script type="text/javascript" src="/sites/default/files/js/js_48391cac939966b28844ed15988ba4ef.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","apture":{"basePath":"\/"},"googleanalytics":{"trackOutgoing":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|avi|csv|doc|exe|flv|gif|gz|jpe?g|js|mp(3|4|e?g)|mov|pdf|phps|png|ppt|rar|sit|tar|torrent|txt|wma|wmv|xls|xml|zip"},"thickbox":{"close":"Close","next":"Next \x3e","prev":"\x3c Prev","esc_key":"or Esc Key","next_close":"Next \/ Close on last","image_count":"Image !current of !total"},"labelInFieldSelector":"#section-front-student label, .newsletter-label, #newsletter-strip label, #premium-login label","jcarousel":{"#viewscarousel-multimedia-block-5":{"scroll":1,"animation":"fast","skin":"custom","initCallback":"multimedia_initCallback","itemVisibleInCallback":"multimedia_swap"},"#viewscarousel-hot-topic-block-1":{"scroll":1,"animation":"slow","wrap":"last","skin":"custom","initCallback":"hot_topic_initCallback"}},"views":{"ajax_path":"\/views\/ajax","ajaxViews":[{"view_name":"comments","view_display_id":"default","view_args":"156709","view_path":"node\/156709","view_base_path":null,"view_dom_id":9,"pager_element":3}]}});
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+AudioPlayer.setup("/sites/all/modules/mp3player/mp3player/player.swf", {width:610,animation: "no",remaining: "yes",noinfo: "yes",transparentpagebg: "yes"});
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+  Drupal.behaviors.labelTitle = function (context) {
+    selector = Drupal.settings.labelInFieldSelector;
+    $(selector).each( function () {
+      var forid = $(this).attr("for");
+      var labelregex = /[^:]*/;
+      var label = labelregex.exec($(this).text());
+      var input = $("#" + forid);
+      var itype = $(input).attr("type");
+      if (itype == 'text' || itype =='password') {
+        $("#" + forid).val(label);
+        $(input).attr("emptyText", label);
+        $(input).focus(function () {
+          if( $(this).val() == $(this).attr('emptyText') ) {
+            $(this).val("");
+          }
+        }).blur(function() {
+          if( $(this).val() == "" ) {
+            $(this).val($(this).attr('emptyText') );
+          }
+        });
+        $(this).css("display","none");
+      }
+    })
+  }
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+
+Drupal.behaviors.navHover = function (context) {
+  var initial_menu_id = '';
+  $('#nav ul li').each(function() { if($(this).hasClass('active')) { var classarr = $(this).attr('class').split(' '); initial_menu_id = classarr[0]; }});
+  if(initial_menu_id == '') { $('#menu_spill').css('display','none'); $('#menu_spill').addClass('inactive_start'); }
+
+  $('#nav-container').hover(
+    function() {
+    },
+    function() {
+      $('#menu_spill div').css('display','none');
+      if(initial_menu_id == '') { $('#menu_spill').css('display','none'); }
+      else { $('#menu_spill #topic'+initial_menu_id).css('display','block'); }
+    }
+  );
+ 
+  var hovered_id = '';
+  $('#nav ul li').hover(
+    function() {
+      if(initial_menu_id == '') { $('#menu_spill').css('display','block'); }
+      var menu_css = $(this).attr('class').split(' ');
+      var menu_id = menu_css[0];
+      $('#menu_spill div').css('display','none');
+      $('#menu_spill #topic'+menu_id).css('display','block');
+      hovered_id = menu_css[menu_css.length-1];
+    },
+    function() {
+    
+    }
+  );
+}
+$(document).ready(function() {
+  $('.ui-tabs-nav #tab-read').bind('click', function() {
+    $('.ui-tabs-nav #tab-read').addClass('ui-tabs-selected');
+    $('.ui-tabs-nav #tab-commented').removeClass('ui-tabs-selected');
+    $('#popular #most-read').css('display','block');
+    $('#popular #most-commented').css('display','none');
+    return false;
+  });
+  $('.ui-tabs-nav #tab-commented').bind('click', function() {
+    $('.ui-tabs-nav #tab-read').removeClass('ui-tabs-selected');
+    $('.ui-tabs-nav #tab-commented').addClass('ui-tabs-selected');
+    $('#popular #most-read').css('display','none');
+    $('#popular #most-commented').css('display','block');
+    return false;
+  });  
+});
+
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+Drupal.behaviors.ajaxComment = function (context) {
+
+  $('.recommend a.flag-action').click(function() {
+    count = parseInt($('.recommend .recommend-count').html()) +1;
+    $('.recommend .recommend-count').html(count);
+    $('.recommend .flag-recommend a').addClass('unflag-action');
+    $('.recommend .flag-recommend a').removeClass('flag-action');
+  });
+  $('.recommend a.unflag-action').click(function() {
+    count = $('.recommend .recommend-count').html();
+    count = parseInt($('.recommend .recommend-count').html()) - 1;
+    $('.recommend .recommend-count').html('' + count);
+    $('.recommend .flag-recommend a').addClass('flag-action');
+    $('.recommend .flag-recommend a').removeClass('unflag-action');
+  });
+}
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+      var addthis_config = {
+        services_compact : 'buzz, delicious, digg, newsvine,mixx, reddit, www.thenation.com',
+        services_custom: {
+          name: "Chicklets",
+          url: "http://www.thenation.com/about/chicklets",
+          icon: "http://www.clearspring.com/favicon.png"}
+
+      }
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+
+    function image_popup(url,title,attr) {
+      popup = window.open(url,'Image',attr);
+      popup.focus;
+    }
+  
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+
+function multimedia_initCallback(carousel) {
+  $('#media-sidebar .prev').bind('click', function() {
+    carousel.prev();
+    return false;
+  });
+  $('#media-sidebar .next').bind('click', function() {
+    carousel.next();
+    return false;
+  });    
+}
+number_slides = 1;
+function multimedia_swap(carousel, item, idx, state) {
+  for(var i=1;i<number_slides+1;i++) {
+    if(i == idx) { 
+      $('#media-sidebar .multimedia_caption_'+i).css('display','block'); 
+      $('#media-sidebar .multimedia_link_'+i).css('display','inline'); 
+    }
+    else { 
+      $('#media-sidebar .multimedia_caption_'+i).css('display','none'); 
+      $('#media-sidebar .multimedia_link_'+i).css('display','none'); 
+    }
+  }
+  
+  if(idx == 1) { $('#media-sidebar .prev').css('display','none'); }
+  else { $('#media-sidebar .prev').css('display','inline'); }
+  if(idx == (number_slides)) { $('#media-sidebar .next').css('display','none'); }
+  else { $('#media-sidebar .next').css('display','inline'); }
+}
+
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+
+function hot_topic_initCallback(carousel) {
+  var paused = 0;
+  $('#block-views-hot_topic-block_1 .prev').bind('click', function() {
+    carousel.prev();
+    return false;
+  });
+  $('#block-views-hot_topic-block_1 .pause').bind('click', function() {
+    if(paused) { carousel.startAuto(); paused = 0; }
+    else { carousel.stopAuto(); paused = 1; }
+    return false;
+  });
+  $('#block-views-hot_topic-block_1 .next').bind('click', function() {
+    carousel.next();
+    return false;
+  });    
+  $('#viewscarousel-hot-topic-block-1 li div').removeClass('hot_topic_hidden');
+}
+
+//--><!]]>
+</script>
+<script type="text/javascript"> var googletag = googletag || {};  googletag.cmd = googletag.cmd || []; (function() {var gads = document.createElement('script'); gads.async = true; gads.type = 'text/javascript';gads.src = "http://www.googletagservices.com/tag/js/gpt.js"; var node = document.getElementsByTagName('script')[0]; node.parentNode.insertBefore(gads, node); })(); </script> <script type="text/javascript"> googletag.cmd.push(function() {googletag.defineUnit('/1004953/ca-pub-7565666144516430/NationintheNews_Leaderboard1', [728, 90], 'gpt-ad-leaderboard1').addService(googletag.pubads());googletag.defineUnit('/1004953/ca-pub-7565666144516430/NationintheNews_HalfPage', [300, 600], 'gpt-ad-halfpage').addService(googletag.pubads());googletag.defineUnit('/1004953/ca-pub-7565666144516430/NationintheNews_Skyscraper', [160, 600], 'gpt-ad-skyscraper').addService(googletag.pubads());googletag.defineUnit('/1004953/ca-pub-7565666144516430/NationintheNews_Rectangle1', [300, 250], 'gpt-ad-rectangle1').addService(googletag.pubads());googletag.defineUnit('/1004953/ca-pub-7565666144516430/NationintheNews_Rectangle2', [300, 250], 'gpt-ad-rectangle2').addService(googletag.pubads());googletag.defineUnit('/1004953/ca-pub-7565666144516430/NationintheNews_Rectangle3', [300, 250], 'gpt-ad-rectangle3').addService(googletag.pubads());googletag.defineUnit('/1004953/ca-pub-7565666144516430/NationintheNews_Story_Rectangle3', [300, 250], 'gpt-ad-story_rectangle3').addService(googletag.pubads());googletag.defineUnit('/1004953/ca-pub-7565666144516430/NationintheNews_Leaderboard2', [728, 90], 'gpt-ad-leaderboard2').addService(googletag.pubads());googletag.defineUnit('/1004953/ca-pub-7565666144516430/Pop_under_1x1', [1,1], 'gpt-ad-pop_under_1x1').addService(googletag.pubads());googletag.enableServices(); }); </script>  
+
+
+ <!--[if IE]>
+  <link type="text/css" rel="stylesheet" media="all" href="/sites/default/themes/thenation/css/ie.css" />
+  <![endif]-->
+  <!--[if IE 6]>
+  <link type="text/css" rel="stylesheet" media="all" href="/sites/default/themes/thenation/css/ie6.css" />
+  <![endif]-->
+  <script type='text/javascript'>var _sf_startpt=(new Date()).getTime()</script>
+</head>
+<body
+ class=" not-front not-logged-in page-node node-type-blog two-sidebars">
+   
+
+  
+  <div id="wrapper">    	
+ <div id="header">
+
+<div id="top_ad_zone">
+  <div id="gpt-ad-leaderboard1"; style="width: 728px; height: 90px"> 
+  <script type="text/javascript"> googletag.cmd.push(function() {googletag.display('gpt-ad-leaderboard1'); }); </script>
+</div>
+
+
+  </div>
+
+<div id="header-body">
+
+	<div id="hook-menu">
+      <div class="view view-issuances view-id-issuances view-display-id-block_2 view-dom-id-16">
+    
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last clear">
+      
+  <div class="views-field-field-header-cover-image-fid">
+                <span class="field-content"><a href="/issue/january-10-2011" class="imagecache imagecache-header_cover_image imagecache-linked imagecache-header_cover_image_linked"><img src="http://www.thenation.com/sites/default/files/imagecache/header_cover_image/cover0110-tilt.jpg" alt="" title=""  class="imagecache imagecache-header_cover_image" width="130" height="109" /></a></span>
+  </div>
+  </div>
+      </div>
+  
+  
+  
+  
+  
+  
+</div>       <ul><li class="left-top-1"><a href="https://ssl.thenation.com/sumo/TOPTOOLPM">Subscribe</a></li><li class="left-top-2"><a href="http://donate.thenation.com/">Donate</a></li><li class="left-top-3"><a href="http://www.philosophersguild.com/nation/index.lasso?page_mode=home">Store</a></li><li class="left-top-4"><a href="http://www.thenation.com/programs">Programs</a></li>  </div><!--/#hook menu-->
+	 
+	 	
+     <a href="/"><img src="/sites/default/themes/thenation/images/logo-main.gif" id="logo-main"/></a>
+     <a href="/nation-email-subscription-center" ><img src="/sites/default/themes/thenation/images/buttons/button_newsletters.png" id="header-newsletters"/></a>
+	 	
+	   	 
+	   <a href="/user?destination=blog/156709/greg-mitchell-and-daniel-ellsberg-wikileaks-document-dump"><img src="/sites/default/themes/thenation/images/buttons/button_login_register_noarrow.png" id="header-login-register"/></a>
+	 	 
+	 <form action="/search/apachesolr_search" method="post" id="header_search"><input type="hidden" name="form_build_id" id="6960eb4804107a6139e33dc6e29c4b01" value="6960eb4804107a6139e33dc6e29c4b01"  /><input type="hidden" name="form_token" id="edit-search-theme-form-form-token" value="47f2c70990fee8d8b5e74b5ac160b815"  /><input type="hidden" name="form_id" id="edit-search-theme-form" value="search_theme_form"  /><input class="search_query" type="text" value="Search the Nation" onfocus="if(this.value==this.defaultValue){this.value=''};" onblur="if(this.value==''){this.value=this.defaultValue;}" name="search_theme_form" id="edit-search-theme-form-1" /><input id="form-submit" class="submit_input" style="display:none" type="submit" value="" /></form>	
+
+	<div class="site_menu" id="site_menu_a"><a href="/">Home</a>
+<a href="/blogs">Blogs</a>
+<a href="/columns">Columnists</a>
+              <a href="/issue/january-10-2011">Current Issue</a>
+<a href="/archive">Magazine Archive</a>
+<a href="/multimedia" class="last">Multimedia</a>
+</div><div id="site_menu_b" class="site_menu"><a href="/community">Community</a>
+<a href="/educators/december-6-2010-teaching-guide">Educators</a>
+<a href="/students" class="last">Students</a></div>	
+				
+	<div id="head-help">
+	<a href="/help">? Help</a>
+	</div>
+	
+
+</div> <!-- closes "header_body" -->
+
+		
+</div> <!-- closes "header" -->
+
+<div id="nav-container">
+  <div id="nav">
+          <ul class="links primary-links"><li class="menu-20742 first"><a href="/politics" title="">Politics</a></li>
+<li class="menu-20743"><a href="/world" title="">World</a></li>
+<li class="menu-20748"><a href="/books-and-arts" title="">Books &amp; Arts</a></li>
+<li class="menu-20744"><a href="/economy" title="">Economy</a></li>
+<li class="menu-20745"><a href="/environment" title="">Environment</a></li>
+<li class="menu-20746"><a href="/activism" title="">Activism</a></li>
+<li class="menu-20747"><a href="/society" title="">Society</a></li>
+<li class="menu-20908 last"><a href="/lived-history" title="">Lived History</a></li>
+</ul>                    </div> 
+  <!--cutup for spill menu -->
+  <div id="menu_spill">
+    <div id="topicmenu-20746"  style="display:none;" ><a href="/section/movements">Movements</a>
+<a href="/section/social-justice">Social Justice</a></div>
+<div id="topicmenu-20748"  style="display:none;" ><a href="/section/arts-and-entertainment">Arts and Entertainment</a>
+<a href="/section/books-and-ideas">Books and Ideas</a></div>
+<div id="topicmenu-20744"  style="display:none;" ><a href="/section/business">Business</a>
+<a href="/section/economics">Economics</a>
+<a href="/section/labor">Labor</a></div>
+<div id="topicmenu-20745"  style="display:none;" ><a href="/section/environmental-issues">Environmental Issues</a>
+<a href="/section/science">Science</a></div>
+<div id="topicmenu-20745"  style="display:none;" ><a href="/section/historical-books">Historical Books</a>
+<a href="/section/historical-events">Historical Events</a>
+<a href="/section/historical-films">Historical Films</a>
+<a href="/section/historical-people">Historical People</a></div>
+<div id="topicmenu-20742"  style="display:none;" ><a href="/section/us-politics">US Politics</a>
+<a href="/section/government">Government</a>
+<a href="/section/political-figures">Political Figures</a>
+<a href="/section/cities">Cities</a>
+<a href="/section/states">States</a></div>
+<div id="topicmenu-20747"  style="display:none;" ><a href="/section/education">Education</a>
+<a href="/section/gender-and-sexuality">Gender and Sexuality</a>
+<a href="/section/health">Health</a>
+<a href="/section/law">Law</a>
+<a href="/section/media">Media</a>
+<a href="/section/race-and-religion">Race and Religion</a>
+<a href="/section/sports">Sports</a></div>
+<div id="topicmenu-20743"  style="display:none;" ><a href="/section/foreign-policy">Foreign Policy</a>
+<a href="/section/war-and-peace">War and Peace</a>
+<a href="/section/world-leaders">World Leaders</a>
+<a href="/section/global-organizations">Global Organizations</a>
+<a href="/section/regions-and-countries">Regions and Countries</a></div>
+  </div>
+</div>
+
+
+<div id="center">
+    <br/>
+                
+  <div id="op-over-content">
+        
+  </div>
+      <div class="head_title"><h1>Greg Mitchell and Daniel Ellsberg on the WikiLeaks Document Dump | The Nation</h1></div>
+    
+
+  <div class="container clearfix">
+    <div id="center-sidebar-right" class="clearfix">    <h2 class="page-title"><a href="/blogs">Blogs</a> > Nation in the News</h2>    <div id="block-views-hot_topic-block_1" class="block block-views">
+
+  
+  <div class="content">
+    
+
+<div id="block-views-hot_topic-block_1">
+<div id="ticker">  <ul class="ticker-ul">
+    <ul id="viewscarousel-hot-topic-block-1" class="jcarousel-skin-custom"><li><div style="display:inline;"><a href="/blog/157252/top-political-buzzwords-2010">The Top Political Buzzwords of 2010</a></div> </li><li><div class="hot_topic_hidden"><a href="/article/156991/spread-joy">Katha Pollitt&#039;s Holiday Giving Guide for Nation Readers</a></div> </li><li><div class="hot_topic_hidden"><a href="/article/157279/what-newark-schools-need">Facebook&#039;s Mark Zuckerberg and Newark&#039;s Schools</a></div> </li><li><div class="hot_topic_hidden"><a href="/article/157281/progressive-honor-roll-2010">The Progressive Honor Roll of 2010</a></div> </li></ul> 
+  </ul>
+  <div id="ticker-controls">
+    <a href="#" class="prev"><img src="/sites/default/themes/thenation/images/buttons/carousel_nav_left.png"/></a>
+   <!-- <a href="#" class="pause"><img src="/sites/default/themes/thenation/images/buttons/carousel_nav_pause.png"/></a> -->
+    <a href="#" class="next"><img src="/sites/default/themes/thenation/images/buttons/carousel_nav_right.png"/></a>
+  </div><!--/#ticker controls-->
+</div>
+</div>
+  </div>
+
+</div>
+    <div id='article-body'>
+      <h3 class = 'article-subheader'>
+    <a href="/blogs/nation-news" style="background-image: url(http://www.thenation.com/sites/default/files/imagecache/blog_header_large/nation-news.jpg)" class="image-header-link-large">Nation in the News</a>    </h3>
+        <h2 property="dc:title">
+    Greg Mitchell and Daniel Ellsberg on the WikiLeaks Document Dump    </h2>
+    
+  <div class="views-field-value byline">
+    <a href="/authors/nation-news"><span property="dc:creator">Nation in the News</span></a>   </div><!--/views-field-value-->
+  <div class="article-info-string">
+    <span class="article-date">November 29, 2010</span>&nbsp;&nbsp;
+      </div><!--/article info string-->
+
+  <div class="item-list"><ul class="tweet-string clear clearfix"><li class="first"><a name="fb_share" type="button_count" href="http://www.facebook.com/sharer.php">Share</a><script src="http://static.ak.fbcdn.net/connect.php/js/FB.Share" type="text/javascript"></script></li>
+<li class="border">|</li>
+<li> <script type="text/javascript">
+  tweetmeme_url = "http://www.thenation.com/blog/156709/greg-mitchell-and-daniel-ellsberg-wikileaks-document-dump";
+  tweetmeme_style = "compact";</script><script type="text/javascript" src="http://tweetmeme.com/i/scripts/button.js"></script></li>
+<li class="border">|</li>
+<li><a href="http://www.stumbleupon.com/submit?url=http://www.thenation.com/blog/156709/greg-mitchell-and-daniel-ellsberg-wikileaks-document-dump&title=Greg+Mitchell+and+Daniel+Ellsberg+on+the+WikiLeaks+Document+Dump"><img src="http://cdn.stumble-upon.com/images/badgeStumble.png" alt="StumbleUpon.com"/></a></li>
+<li class="border">|</li>
+<li>
+  <div class='recommend'> 
+    Recommended by <span class='recommend-count'>0</span>
+      </div>
+</li>
+<li class="border">|</li>
+<li class="last"><div class="enlarge_font_size">
+  Text Size 
+  <span class="font_size_normal"><a rel="nofollow" href="javascript:enlargeFont(0);">A</a></span>
+  <span class="bar">|</span> 
+  <span class="font_size_med"><a rel="nofollow" href="javascript:enlargeFont(1);">A</a></span> 
+  <span class="bar">|</span> 
+  <span class="font_size_large"><a rel="nofollow" href="javascript:enlargeFont(2);">A</a></span>
+</div></li>
+</ul></div> 
+  <div class="item-list"><ul class="article-actions-bar clearfix clear"><li class="first"><a href="/printmail/blog/156709/greg-mitchell-and-daniel-ellsberg-wikileaks-document-dump">Email</a></li>
+<li class="border">|</li>
+<li><a href="/print/blog/156709/greg-mitchell-and-daniel-ellsberg-wikileaks-document-dump">Print</a></li>
+<li class="border">|</li>
+<li><a href="http://www.addthis.com/bookmark.php?v=250" class="addthis_button">Share</a></li>
+<li class="border">|</li>
+<li><a href="/blog/156709/greg-mitchell-and-daniel-ellsberg-wikileaks-document-dump?page=full" class="active">Single Page</a></li>
+<li class="border">|</li>
+<li><a href="/blog/Greg-Mitchell-and-Daniel-Ellsberg-WikiLeaks-Document-Dump/web-letters">Web Letter (0)</a></li>
+<li class="border">|</li>
+<li><a href="/web-letters/add/156709?destination=node%2F156709">Write a Letter</a></li>
+<li class="border">|</li>
+<li><a href="http://salsa.wiredforchange.com/o/1555/t/510/campaign.jsp">Take Action</a></li>
+<li class="border">|</li>
+<li class="last"><a href="https://ssl.thenation.com/sumo/article">Subscribe Now</a></li>
+</ul></div> 
+
+  <div class="clear"></div>
+  <div id="wysiwyg">
+
+<span class="print-link"></span><!--paging_filter--><p>Yesterday, the whistle-blowing website WikiLeaks began releasing  their giant trove  of confidential US diplomatic cables. This morning, <em>Democracy  Now!</em>&nbsp;host Amy Goodman summarizes some of these documents'  revelations, which include evidence of Arab leaders urging the US to  attack Iran, the US using its embassies as part of a global spy network  and the US asking diplomats to gather intelligence.</p><div id='article-left-sidebar'><div class="cp_tile ">
+
+<div class="section-each clearfix" id="media-sidebar">
+  <div class="header clearfix">
+    <h2>Media</h2> 
+    <div class="more">[ <a href="/multimedia">Click for More</a> ]</div><!--/more-->
+  </div><!--/header-->
+  
+  <ul id="viewscarousel-multimedia-block-5" class="jcarousel-skin-custom"><li><a href="/video/156707/greg-mitchell-and-daniel-ellsberg-wikileaks-document-dump" class="imagecache imagecache-media_thumbnail_250x158 imagecache-linked imagecache-media_thumbnail_250x158_linked"><img src="http://www.thenation.com/sites/default/files/imagecache/media_thumbnail_250x158/greg_demnow_mthumb.jpg" alt="" title=""  class="imagecache imagecache-media_thumbnail_250x158" width="250" height="158" /></a>
+      
+
+</li></ul>  
+  <div class="detail clearfix">
+    <div class="media-enlarge float-left">[<a href="/video/156707/greg-mitchell-and-daniel-ellsberg-wikileaks-document-dump" class="multimedia_link_1">Click to View</a>]</div><!--/enlarge-->
+  
+    
+    <div class="clear"></div>
+    <div class="caption clearfix multimedia_caption_1" style="display:none" id="video-caption">Greg Mitchell and Daniel Ellsberg on the WikiLeaks Document Dump</div>  </div><!--/detail-->  
+</div><div id="block-morelikethis-taxonomy" class="section-each block block-morelikethis">
+  <div class="header clearfix"><h2>Related Content</h2></div>
+
+  <div class="content view-articles">
+    <div class="views-field-title"><a href="/blog/157037/week-thenationcom-continued-wikileaks-coverage-plus-two-slideshows-and-award">This Week at TheNation.com: Continued WikiLeaks Coverage. Plus: Two Slideshows and an Award</a></div><div class="views-separator"></div><div class="views-field-title"><a href="/blog/156837/greg-mitchell-and-chris-hayes-examine-wikileaks-outrage">Greg Mitchell And Chris Hayes Examine the WikiLeaks Outrage</a></div><div class="views-separator"></div><div class="views-field-title"><a href="/blog/156688/leaders-30-media-heroes-announced-voting-ends-here-tonight">Leaders in &#039;30 Media Heroes&#039; Announced—Voting Ends Here Tonight</a></div><div class="views-separator"></div><div class="views-field-title"><a href="/blog/156401/greg-mitchell-and-howard-kurtz-olbermanns-countdown-can-journalists-make-political-donat">Greg Mitchell and Howard Kurtz on Olbermann&#039;s &#039;Countdown&#039;: Can Journalists Make Political Donations?</a></div><div class="views-separator"></div><div class="views-field-title"><a href="/blog/156208/rove-scandal-new-mysteries-new-props-new-legal-theories">Rove Scandal: New Mysteries, New Props, New Legal Theories</a></div>  </div>
+
+</div>
+<div class="section-each clearfix views-authors-block_3">
+  <div class="header clearfix">
+    <h2 >About the Author</h2> 
+      </div><!--/header-->
+  <div class = 'article-left-block-content'>
+    <div class="view view-authors view-id-authors view-display-id-block_3 view-dom-id-5">
+    
+  
+  
+      <div class="view-content">
+        <div class ='about-the-author'>
+<h5>
+  <a href="/authors/nation-news">Nation in the News</a></h5>
+<div class="blurb">
+  </div><!--/blurb-->
+           
+</div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>   </div>
+</div>
+
+
+    
+<div class="section-each clearfix views-articles-block_6">
+  <div class="header clearfix">
+    <h2 >Also by The Author</h2> 
+          <div class="more">
+        [ <a href="/authors/nation-news">Click for More</a> ]
+      </div><!--/more-->
+      </div><!--/header-->
+  <div class = 'article-left-block-content'>
+    <div class="view view-articles view-id-articles view-display-id-block_6 view-dom-id-7">
+    
+  
+  
+      <div class="view-content">
+        <div class="views-field-title">              
+  <a href="/blog/157327/how-911-responders-bill-finally-got-through">How the 9/11 Responders Bill Finally Got Through</a>  <span class="subject-topic">(<a href="/section/politics">Politics</a>)</span></div><!--/views-field-title--> 
+<div class="blurb">
+  <p>Chris Hayes speaks with Rep. Anthony Weiner (D-New York) about how progressive legislation ever makes it through Congress.</p></div>
+<div class="views-field-value byline">
+ <a href="/authors/nation-news">Nation in the News</a></div><!--/views field value-->
+<div class = 'clear' ></div>
+<div class="views-separator"></div><div class="views-field-title">              
+  <a href="/blog/157324/fight-civil-rights-beyond-dont-ask-dont-tell">The Fight For Civil Rights Beyond Don&#039;t Ask, Don&#039;t Tell</a>  <span class="subject-topic">(<a href="/section/activism">Activism</a>, <a href="/section/sex-and-sexuality">Sex and Sexuality</a>, <a href="/section/politics">Politics</a>)</span></div><!--/views-field-title--> 
+<div class="blurb">
+  <p>Civil rights issues will be central to the success or failure of the Obama presidency.</p></div>
+<div class="views-field-value byline">
+ <a href="/authors/nation-news">Nation in the News</a></div><!--/views field value-->
+<div class = 'clear' ></div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>   </div>
+</div>
+
+
+
+<div class="section-each clearfix views-calaisrelated-block_1">
+  <div class="header clearfix">
+    <h2 >Related Topics</h2> 
+      </div><!--/header-->
+  <div class = 'article-left-block-content'>
+    <div class="view view-calaisrelated view-id-calaisrelated view-display-id-block_1 view-dom-id-8">
+    
+  
+  
+      <div class="view-content">
+          <span class = "tag" style="font-size:0.659em">
+<a typeof="ctag:Tag"  href="/section/Amy-Goodman">Amy Goodman</a></span>
+    <span class = "tag" style="font-size:0.638em">
+<a typeof="ctag:Tag"  href="/section/California-State-University">California State University</a></span>
+    <span class = "tag" style="font-size:0.638em">
+<a typeof="ctag:Tag"  href="/section/Carne-Ross">Carne Ross</a></span>
+    <span class = "tag" style="font-size:0.722em">
+<a typeof="ctag:Tag"  href="/section/Daniel-Ellsberg">Daniel Ellsberg</a></span>
+    <span class = "tag" style="font-size:0.881em">
+<a typeof="ctag:Tag"  href="/section/Greg-Mitchell">Greg Mitchell</a></span>
+    <span class = "tag" style="font-size:1em">
+<a typeof="ctag:Tag"  href="/section/Technology">Technology</a></span>
+    <span class = "tag" style="font-size:0.638em">
+<a typeof="ctag:Tag"  href="/section/diplomat">diplomat</a></span>
+    <span class = "tag" style="font-size:0.638em">
+<a typeof="ctag:Tag"  href="/section/judge">judge</a></span>
+    <span class = "tag" style="font-size:0.659em">
+<a typeof="ctag:Tag"  href="/section/spy">spy</a></span>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>   </div>
+</div>
+
+</div></div>
+<p>In a <em>Democracy Now! </em>round-table discussion with Pentagon  Papers  whistle-blower Daniel Ellsberg, <em>The Nation's</em> Greg  Mitchell, who has been <a href="http://www.thenation.com/blog/156704/daybook-monday-special-edition-new-wikileaks-day-2">blogging  about WikiLeaks on Media Fix</a>, Carne Ross, a British diplomat who  resigned before the Iraq War, and As&rsquo;ad AbuKhalil, a professor of   political science at California State University, Ellsberg says that "it  is too early to judge the values and dangers"&nbsp;of the new WikiLeaks  documents, but he reminds viewers that "not one single soldier or  informant has been in danger from any of the WikiLeaks releases.... That  risk has been largely overblown."</p>
+<p>Greg Mitchell agrees that it is too early to assess the WikiLeaks  documents, but he compares the new batch of WikiLeaks documents with the  previous releases from July and October of this year. Mitchell says  that while the earlier documents garnered "one-day stories," media  coverage about the new WikiLeaks information "will be emerging over the  next nine days in the <em>New York Times</em> for example, and WikiLeaks  has said on their own site that it will be going on for months."</p>
+<p>Stay tuned for more breaking news coverage of the WikiLeaks releases  from Greg Mitchell on <a href="http://www.thenation.com/blog/156704/daybook-monday-special-edition-new-wikileaks-day-2">Media  Fix</a>.</p>
+<p><em>&mdash;Joanna Chiu </em></p>
+
+</div>
+    
+  <div class="views-field-value byline">
+    <a href="/authors/nation-news"><span property="dc:creator">Nation in the News</span></a>   </div><!--/views-field-value-->
+  <div class="article-info-string">
+    <span class="article-date">November 29, 2010</span>&nbsp;&nbsp;
+      </div><!--/article info string-->
+
+  <div class="item-list"><ul class="tweet-string clear clearfix"><li class="first"><a name="fb_share" type="button_count" href="http://www.facebook.com/sharer.php">Share</a><script src="http://static.ak.fbcdn.net/connect.php/js/FB.Share" type="text/javascript"></script></li>
+<li class="border">|</li>
+<li> <script type="text/javascript">
+  tweetmeme_url = "http://www.thenation.com/blog/156709/greg-mitchell-and-daniel-ellsberg-wikileaks-document-dump";
+  tweetmeme_style = "compact";</script><script type="text/javascript" src="http://tweetmeme.com/i/scripts/button.js"></script></li>
+<li class="border">|</li>
+<li><a href="http://www.stumbleupon.com/submit?url=http://www.thenation.com/blog/156709/greg-mitchell-and-daniel-ellsberg-wikileaks-document-dump&title=Greg+Mitchell+and+Daniel+Ellsberg+on+the+WikiLeaks+Document+Dump"><img src="http://cdn.stumble-upon.com/images/badgeStumble.png" alt="StumbleUpon.com"/></a></li>
+<li class="border">|</li>
+<li>
+  <div class='recommend'> 
+    Recommended by <span class='recommend-count'>0</span>
+      </div>
+</li>
+<li class="border">|</li>
+<li class="last"><div class="enlarge_font_size">
+  Text Size 
+  <span class="font_size_normal"><a rel="nofollow" href="javascript:enlargeFont(0);">A</a></span>
+  <span class="bar">|</span> 
+  <span class="font_size_med"><a rel="nofollow" href="javascript:enlargeFont(1);">A</a></span> 
+  <span class="bar">|</span> 
+  <span class="font_size_large"><a rel="nofollow" href="javascript:enlargeFont(2);">A</a></span>
+</div></li>
+</ul></div> 
+  <div class="item-list"><ul class="article-actions-bar clearfix clear"><li class="first"><a href="/printmail/blog/156709/greg-mitchell-and-daniel-ellsberg-wikileaks-document-dump">Email</a></li>
+<li class="border">|</li>
+<li><a href="/print/blog/156709/greg-mitchell-and-daniel-ellsberg-wikileaks-document-dump">Print</a></li>
+<li class="border">|</li>
+<li><a href="http://www.addthis.com/bookmark.php?v=250" class="addthis_button">Share</a></li>
+<li class="border">|</li>
+<li><a href="/blog/156709/greg-mitchell-and-daniel-ellsberg-wikileaks-document-dump?page=full" class="active">Single Page</a></li>
+<li class="border">|</li>
+<li><a href="/blog/Greg-Mitchell-and-Daniel-Ellsberg-WikiLeaks-Document-Dump/web-letters">Web Letter (0)</a></li>
+<li class="border">|</li>
+<li><a href="/web-letters/add/156709?destination=node%2F156709">Write a Letter</a></li>
+<li class="border">|</li>
+<li><a href="http://salsa.wiredforchange.com/o/1555/t/510/campaign.jsp">Take Action</a></li>
+<li class="border">|</li>
+<li class="last"><a href="https://ssl.thenation.com/sumo/article">Subscribe Now</a></li>
+</ul></div> 
+
+  <div class="clear"></div>
+
+  <div class="donation-strip clearfix">
+    <p>If you like this article, consider making a donation.</p>
+    <div class="btn-make-a-donation"><a href="https://salsa.wiredforchange.com/o/1555/t/2923/shop/custom.jsp?donate_page_KEY=1976">make a donation</a></div><!--/btn make a donation-->
+    <p>Reprint this article. Click here for rights and information.</p>
+    <div class="btn-reprint-info"><a href="mailto:rights@agenceglobal.com?subject=The Nation Reprint Request&body=Greg Mitchell and Daniel Ellsberg on the WikiLeaks Document Dump ">reprint information</a></div><!--/btn reprint info-->
+
+  </div><!--/donation strip-->
+  
+<div class="section-each clearfix" id="comments">
+  <div class="header clearfix">
+    <h2>Comments</h2> 
+    <div class="post-your-comment">[ <a href="#post-your-comments">Post Your Comment</a> ]</div><!--/more-->
+  </div><!--/header-->
+    <div class="sort-show-strip clearfix">
+      <div class="show">Showing 0 comments of 0</div><!--/show-->
+            <div class="sort">Current Sort: <a href="/blog/156709/greg-mitchell-and-daniel-ellsberg-wikileaks-document-dump?comment_sort=ASC#comments" class="active">last to first</a></div><!--/sort-->
+    </div><!--/sort show strip-->
+        <div class="sort-show-strip end-strip clearfix">
+      <div class="show">Showing 0 comments of 0</div><!--/show-->
+      <div class="sort">Current Sort: <a href="/blog/156709/greg-mitchell-and-daniel-ellsberg-wikileaks-document-dump?comment_sort=ASC#comments" class="active">last to first</a></div><!--/sort-->
+    
+  </div><!--/sort show strip-->
+  <div class="divide-border"></div>
+  <div id="post-your-comments-strip">
+    <div class="section-each clearfix" id="post-your-comments">
+      <div class="header clearfix"><h2>Post Your Comments</h2></div><!--/header-->
+            <form action="/blog/156709/greg-mitchell-and-daniel-ellsberg-wikileaks-document-dump"  accept-charset="UTF-8" method="post" id="user_login">
+<div>You must be logged in to post a comment<div class="form-item" id="edit-name-wrapper">
+ <label for="edit-name">Username: <span class="form-required" title="This field is required.">*</span></label>
+ <input type="text" maxlength="60" name="name" id="edit-name" size="30" value="" tabindex="11" class="form-text required" />
+</div>
+<div class="form-item" id="edit-pass-wrapper">
+ <label for="edit-pass">Password: <span class="form-required" title="This field is required.">*</span></label>
+ <input type="password" name="pass" id="edit-pass"  maxlength="128"  size="30"  tabindex="12" class="form-text required" />
+</div>
+<input type="hidden" name="form_build_id" id="form-a0ac63e8ea9ed389ab4beaa09c8208e7" value="form-a0ac63e8ea9ed389ab4beaa09c8208e7"  />
+<input type="hidden" name="form_id" id="edit-user-login-comments" value="user_login_comments"  />
+<input type="hidden" name="openid.return_to" id="edit-openid.return-to" value="http://www.thenation.com/openid/authenticate?destination=node%2F156709"  />
+<input type="submit" name="op" id="edit-submit" value="Login"  tabindex="14" class="form-submit" />
+<div class="form-item" id="edit-remember-me-wrapper">
+ <label class="option" for="edit-remember-me"><input type="checkbox" name="remember_me" id="edit-remember-me" value="1"   tabindex="3" class="form-checkbox" /> Remember me</label>
+</div>
+
+</div></form>
+<div class="user-name-signup"><a href="/user/register">Get your FREE!
+Nation User Name</a></div>
+              
+    </div><!--/#post your comments-->
+
+    <div id="story-ad-block">
+      <div id="gpt-ad-story_rectangle3"; style="width: 300px; height: 250px"> 
+  <script type="text/javascript"> googletag.cmd.push(function() {googletag.display('gpt-ad-story_rectangle3'); }); </script>
+</div>
+
+
+    </div>
+  </div><!--/#post-your-comments-strip-->
+</div><!--/#comments-->
+
+    
+  <div class="section-each clearfix three-column-strip-block" id="more-politics">
+   <div class="header clearfix"><h2>More World</h2></div>
+     <div class="entry clearfix">
+  <div class="views-field-title">              
+    <a href="/blog/157318/assange-vs-manning-bernie-sanders-vs-obama">Assange vs. Manning, Bernie Sanders vs. Obama</a>    <span class="subject-topic">(<a href="/section/politics">Politics</a>, <a href="/section/world">World</a>)</span>  </div>
+</div>
+<div class="views-separator"></div><div class="entry clearfix">
+  <div class="views-field-title">              
+    <a href="/blog/157313/blogging-wikileaks-news-views-thursday-day-26">Blogging WikiLeaks News &amp; Views, for Thursday, Day 26</a>    <span class="subject-topic">(<a href="/section/war-and-peace">War and Peace</a>, <a href="/section/media">Media</a>)</span>  </div>
+</div>
+<div class="views-separator"></div><div class="entry clearfix">
+  <div class="views-field-title">              
+    <a href="/blog/156800/cheneys-christmas-present-massive-payoff-allows-him-avoid-criminal-trial-nigeria">Cheney&#039;s Christmas Present: A Massive Payoff Allows Him to Avoid Criminal Trial in Nigeria</a>    <span class="subject-topic">(<a href="/section/foreign-policy">Foreign Policy</a>, <a href="/section/corporate-responsibility">Corporate Responsibility</a>, <a href="/section/politics">Politics</a>)</span>  </div>
+</div>
+<div class="views-separator"></div><div class="entry clearfix">
+  <div class="views-field-title">              
+    <a href="/blog/157286/gays-lesbians-can-openly-slaughter-afghans-quote-day">Gays, Lesbians Can Openly Slaughter Afghans: Quote of the Day</a>    <span class="subject-topic">(<a href="/section/foreign-policy">Foreign Policy</a>, <a href="/section/war-and-peace">War and Peace</a>)</span>  </div>
+</div>
+
+</div>
+<div class="section-each clearfix three-column-strip-block" id="more-politics">
+   <div class="header clearfix"><h2>Nation Media</h2></div>
+     <div class="views-row views-row-1 views-row-odd views-row-first clear">
+    
+
+
+<div class="entry blurb">
+  <a href="/video/157326/how-911-responders-bill-finally-got-through" class="imagecache imagecache-tiny_thumbnail_33x22 imagecache-linked imagecache-tiny_thumbnail_33x22_linked"><img src="http://www.thenation.com/sites/default/files/imagecache/tiny_thumbnail_33x22/hayes_911_mthumb.jpg" alt="" title=""  class="imagecache imagecache-tiny_thumbnail_33x22" width="33" height="22" /></a>  <a href="/video/157326/how-911-responders-bill-finally-got-through">How the 9/11 Responders Bill Finally Got Through</a></div><!--/entry-->
+  
+      
+
+  </div>
+    <div class="views-row views-row-2 views-row-even clear">
+    
+
+
+<div class="entry blurb">
+  <a href="/video/157322/fight-civil-rights-beyond-dont-ask-dont-tell" class="imagecache imagecache-tiny_thumbnail_33x22 imagecache-linked imagecache-tiny_thumbnail_33x22_linked"><img src="http://www.thenation.com/sites/default/files/imagecache/tiny_thumbnail_33x22/rsz_maddow_mhp.jpg" alt="" title=""  class="imagecache imagecache-tiny_thumbnail_33x22" width="33" height="22" /></a>  <a href="/video/157322/fight-civil-rights-beyond-dont-ask-dont-tell">The Fight For Civil Rights Beyond Don&#039;t Ask, Don&#039;t Tell</a></div><!--/entry-->
+  
+      
+
+  </div>
+    <div class="views-row views-row-3 views-row-odd clear">
+    
+
+
+<div class="entry blurb">
+    <a href="/video/157321/fight-civil-rights-beyond-dont-ask-dont-tell">The Fight For Civil Rights Beyond Don&#039;t Ask Don&#039;t Tell</a></div><!--/entry-->
+  
+      
+
+  </div>
+    <div class="views-row views-row-4 views-row-even views-row-last clear">
+    
+
+
+<div class="entry blurb">
+  <a href="/video/157309/assange-vs-manning-bernie-sanders-vs-obama" class="imagecache imagecache-tiny_thumbnail_33x22 imagecache-linked imagecache-tiny_thumbnail_33x22_linked"><img src="http://www.thenation.com/sites/default/files/imagecache/tiny_thumbnail_33x22/berman_tv_mthumb.jpg" alt="" title=""  class="imagecache imagecache-tiny_thumbnail_33x22" width="33" height="22" /></a>  <a href="/video/157309/assange-vs-manning-bernie-sanders-vs-obama">Assange vs. Manning, Bernie Sanders vs. Obama</a></div><!--/entry-->
+  
+      
+
+  </div>
+  </div><div class="section-each clearfix three-column-strip-block" id="also-from-the-nation">
+   <div class="header clearfix"><h2>Also From The Nation</h2></div>
+     <div class="views-row views-row-1 views-row-odd views-row-first clear">
+    <div class="entry clearfix">
+  <div class="views-field-title">              
+    <a href="/blog/157317/christmas-congress-and-times-try-mens-souls">Christmas, Congress and the Times That Try Men&#039;s Souls</a>    <span class="subject-topic">(<a href="/section/religion">Religion</a>, <a href="/section/senate">Senate</a>, <a href="/section/politics">Politics</a>)</span>  </div>
+</div>  </div>
+    <div class="views-row views-row-2 views-row-even clear">
+    <div class="entry clearfix">
+  <div class="views-field-title">              
+    <a href="/blog/157328/wikileaks-news-views-blog-special-holiday-weekend-edition">THE WIKILEAKS NEWS &amp; VIEWS BLOG, Special Holiday Weekend Edition!</a>      </div>
+</div>  </div>
+    <div class="views-row views-row-3 views-row-odd clear">
+    <div class="entry clearfix">
+  <div class="views-field-title">              
+    <a href="/blog/157327/how-911-responders-bill-finally-got-through">How the 9/11 Responders Bill Finally Got Through</a>    <span class="subject-topic">(<a href="/section/politics">Politics</a>)</span>  </div>
+</div>  </div>
+    <div class="views-row views-row-4 views-row-even views-row-last clear">
+    <div class="entry clearfix">
+  <div class="views-field-title">              
+    <a href="/article/157325/new-orleans-christmas-lower-ninth">A New Orleans Christmas in the Lower Ninth</a>    <span class="subject-topic">(<a href="/section/politics">Politics</a>, <a href="/section/society">Society</a>)</span>  </div>
+</div>  </div>
+  </div>  <div class="advertisement margin-15">
+  <div id="gpt-ad-bottom_adsense_650"; style="width: px; height: px"> 
+  <script type="text/javascript"> googletag.cmd.push(function() {googletag.display('gpt-ad-bottom_adsense_650'); }); </script>
+</div>
+
+
+  </div><!--/advertisement-->
+</div>
+
+	
+
+
+	
+
+    </div>          <div id="sidebar-right" class="sidebar clearfix">
+  	    <div id="block-panels_mini-standard_right" class="block block-panels_mini">
+
+      <h3>Standard Right</h3>
+  
+  <div class="content">
+    <div class="panel-display panel-1col clear-block" id="mini-panel-standard_right">
+  <div class="panel-panel panel-col">
+    <div><div class="panel-pane pane-block pane-nation-theme-most-popular-most-commented" >
+  
+  
+  
+  <div class="pane-content">
+    <div id="block-nation_theme-most_popular_most_commented" class="block block-nation_theme">
+
+  
+  <div class="content">
+    <div id="popular">
+  <ul class="ui-tabs-nav clearfix">
+    <li id="tab-read" class="ui-tabs-selected"><a href="#"><span>Most Read</span></a></li>	 
+    <li id="tab-commented"><a href="#"><span>Most Commented</span></a></li>
+  </ul><!--/.ui tabs nav-->
+
+  <div class="listing ui-tabs-panel" id="most-read">
+    <ul>
+    <div class="views-row views-row-1 views-row-odd views-row-first clear">
+    <li><a href="/blog/157328/wikileaks-news-views-blog-special-holiday-weekend-edition">THE WIKILEAKS NEWS &amp; VIEWS BLOG, Special Holiday Weekend Edition!</a></li>  </div>
+    <div class="views-row views-row-2 views-row-even clear">
+    <li><a href="/blog/157320/vicious-mendacious-horrible-monster">&#039;A Vicious, Mendacious, Horrible Monster....&#039;</a></li>  </div>
+    <div class="views-row views-row-3 views-row-odd clear">
+    <li><a href="/article/157288/case-julian-assange">The Case of Julian Assange</a></li>  </div>
+    <div class="views-row views-row-4 views-row-even clear">
+    <li><a href="/article/157281/progressive-honor-roll-2010">The Progressive Honor Roll of 2010</a></li>  </div>
+    <div class="views-row views-row-5 views-row-odd views-row-last clear">
+    <li><a href="/blog/157214/blogging-wikileaks-news-views-monday-day-23">Blogging WikiLeaks News &amp; Views for Monday, Day 23</a></li>  </div>
+  </ul>  </div><!--/#most-viewed-->
+
+  <div class="listing ui-tabs-panel" id="most-commented" style="display:none;">
+    <ul>
+    <div class="views-row views-row-1 views-row-odd views-row-first clear">
+    <li><a href="/blog/157179/obama-gets-his-tax-deal-reanimating-reaganomics">Obama Gets His Tax Deal, Reanimating Reaganomics</a></li>  </div>
+    <div class="views-row views-row-2 views-row-even clear">
+    <li><a href="/article/157016/tax-cuts-forever">Tax Cuts Forever?</a></li>  </div>
+    <div class="views-row views-row-3 views-row-odd clear">
+    <li><a href="/article/157162/how-be-president-fact-free-america">How to Be President in a Fact-Free America</a></li>  </div>
+    <div class="views-row views-row-4 views-row-even clear">
+    <li><a href="/blog/157121/progressives-answer-obama">A Progressive&#039;s Answer to Obama</a></li>  </div>
+    <div class="views-row views-row-5 views-row-odd views-row-last clear">
+    <li><a href="/article/157288/case-julian-assange">The Case of Julian Assange</a></li>  </div>
+  </ul>    
+  </div><!--/#most commented-->
+  <div class="clear"></div>
+</div><!--/#popular-->
+
+  </div>
+
+</div>
+  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-block pane-dynamic-ads-halfpage" >
+  
+  
+  
+  <div class="pane-content">
+    <div id="block-dynamic_ads-halfpage" class="block block-dynamic_ads">
+
+      <h3><none></h3>
+  
+  <div class="content">
+    <div id="gpt-ad-halfpage"; style="width: 300px; height: 600px"> 
+  <script type="text/javascript"> googletag.cmd.push(function() {googletag.display('gpt-ad-halfpage'); }); </script>
+</div>
+
+
+  </div>
+
+</div>
+  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-block pane-dynamic-ads-rectangle1" >
+  
+  
+  
+  <div class="pane-content">
+    <div id="block-dynamic_ads-rectangle1" class="block block-dynamic_ads">
+
+      <h3><none></h3>
+  
+  <div class="content">
+    <div id="gpt-ad-rectangle1"; style="width: 300px; height: 250px"> 
+  <script type="text/javascript"> googletag.cmd.push(function() {googletag.display('gpt-ad-rectangle1'); }); </script>
+</div>
+
+
+  </div>
+
+</div>
+  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-block pane-nodeblock-83" >
+  
+      <h2 class="pane-title">Right Promo block</h2>
+  
+  
+  <div class="pane-content">
+    <div id="block-nodeblock-83" class="block block-nodeblock">
+  <div class="content">
+    <div id="node-83" class="node">
+  <div class="content">
+    <!--paging_filter--><p><img src="http://www.thenation.com/sites/default/files/circ-sub-sblock-topper-v4.gif" alt="Subscribe" width="300" border="0" style="margin:5px" /></p>
+<form action="https://ssl.thenation.com/sumo/DIGCOLRGTWARC" method="post" border="0" style="margin:0px; padding:0px">
+	    <fieldset style="position:relative; border:0px; font-size:9px">
+<div style="float:left; column-width:9.375em; column-gap: 0em; column-rule: 0px; padding:0px 5px 0px 0px">
+<ul style="width:120px; position:relative; margin: 0; list-style: none; margin:0px">
+<li style="margin-bottom:2px"><label for="sub-name">Name</label> <input name="FullName" value="" type="text" style="width:120px;" /></li>
+<li style="margin-bottom:2px"><label for="sub-address">Mailing Address</label> <input name="StreetAdr" value="" type="text" style="width:120px;" /></li>
+<li style="margin-bottom:2px"><label for="sub-city">City</label> <input name="City" value="" type="text" style="width:120px;" /></li>
+</ul>
+</div>
+<div style="float:right; column-width:9.375em; column-gap: 0em; column-rule: 0px; padding:9px 15px 0px 0px">
+<ul style="width:120px; position:relative; margin: 0; list-style: none; margin-top:2px">
+<li style="margin-bottom:2px">
+			<label for="sub-state">State</label>
+<select syle="font-size: 0.55em;" name="State">
+				<option value=""></option><br />
+				<option value="AL">Alabama</option><br />
+				<option value="AK">Alaska</option><br />
+				<option value="AZ">Arizona</option>
+<p>				<option value="AR">Arkansas</option><br />
+				<option value="CA">California</option><br />
+				<option value="CO">Colorado</option><br />
+				<option value="CT">Connecticut</option><br />
+				<option value="DE">Delaware</option><br />
+				<option value="DC">DC</option></p>
+<p>				<option value="FL">Florida</option><br />
+				<option value="GA">Georgia</option><br />
+				<option value="HI">Hawaii</option><br />
+				<option value="ID">Idaho</option><br />
+				<option value="IL">Illinois</option><br />
+				<option value="IN">Indiana</option></p>
+<p>				<option value="IA">Iowa</option><br />
+				<option value="KS">Kansas</option><br />
+				<option value="KY">Kentucky</option><br />
+				<option value="LA">Louisiana</option><br />
+				<option value="ME">Maine</option><br />
+				<option value="MD">Maryland</option></p>
+<p>				<option value="MA">Massachusetts</option><br />
+				<option value="MI">Michigan</option><br />
+				<option value="MN">Minnesota</option><br />
+				<option value="MS">Mississippi</option><br />
+				<option value="MO">Missouri</option><br />
+				<option value="MT">Montana</option></p>
+<p>				<option value="NE">Nebraska</option><br />
+				<option value="NV">Nevada</option><br />
+				<option value="NH">New Hampshire</option><br />
+				<option value="NJ">New Jersey</option><br />
+				<option value="NM">New Mexico</option><br />
+				<option value="NY">New York</option></p>
+<p>				<option value="NC">North Carolina</option><br />
+				<option value="ND">North Dakota</option><br />
+				<option value="OH">Ohio</option><br />
+				<option value="OK">Oklahoma</option><br />
+				<option value="OR">Oregon</option><br />
+				<option value="PA">Pennsylvania</option></p>
+<p>				<option value="RI">Rhode Island</option><br />
+				<option value="SC">South Carolina</option><br />
+				<option value="SD">South Dakota</option><br />
+				<option value="TN">Tennessee</option><br />
+				<option value="TX">Texas</option><br />
+				<option value="UT">Utah</option></p>
+<p>				<option value="VT">Vermont</option><br />
+				<option value="VA">Virginia</option><br />
+				<option value="WA">Washington</option><br />
+				<option value="WV">West Virginia</option><br />
+				<option value="WI">Wisconsin</option><br />
+				<option value="WY">Wyoming</option></p>
+</select>
+</li>
+<li style="margin-bottom:6px"><label for="sub-zip">ZIP Code</label> <input name="PostalCode" value="" type="text" style="width:120px;" /></li>
+<li><label for="sub-email">Email Address</label> <input name="EmailAdr" value="" type="text" style="width:120px;" /></li>
+<li><input value="Subscribe to the Nation" src="http://www.thenation.com/sites/default/files/sub_06.png" alt="Print Subscription" type="image" border="0" style="margin-top:5px" /></li>
+</ul>
+</div>
+<p>        </p></fieldset><br />
+</form>
+<p><a href="https://ssl.thenation.com/sumo/giftholidaybanners"><img width="295" src="http://fridrichdesign.com/nation/banners/300x80banner_gift.gif" alt="Gift Nation" style="padding:2px; margin-top:0px" /></a></p>
+<p><a href="http://itunes.apple.com/us/app/nationnow/id399704758?mt=8"><img  width="295" src="http://s3.amazonaws.com/thenation/ads/house/ed-promo-307x80.png" alt="Nation Now App" style="padding:2px; margin-top:0px" /></a></p>
+<p><a href="http://www.thenation.com/50ways"><img  width="295" src="http://www.thenation.com/sites/default/files/circ-housead-300x80-1.gif" alt="50 Ways Ad" style="padding:2px; margin-top:0px" /></a></p>
+<p><a href="http://www.thenation.com/creditcard"><img src="http://www.thenation.com/sites/default/files/nationcreditcard300x120.gif" border="0" width="295" style="padding:2px; margin-top:0px" /></a></p>
+  </div>
+</div>
+  </div>
+</div>
+  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-block pane-dynamic-ads-skyscraper" >
+  
+  
+  
+  <div class="pane-content">
+    <div id="block-dynamic_ads-skyscraper" class="block block-dynamic_ads">
+
+      <h3><none></h3>
+  
+  <div class="content">
+    <div id="gpt-ad-skyscraper"; style="width: 160px; height: 600px"> 
+  <script type="text/javascript"> googletag.cmd.push(function() {googletag.display('gpt-ad-skyscraper'); }); </script>
+</div>
+
+
+  </div>
+
+</div>
+  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-block pane-dynamic-ads-rectangle2" >
+  
+  
+  
+  <div class="pane-content">
+    <div id="block-dynamic_ads-rectangle2" class="block block-dynamic_ads">
+
+      <h3><none></h3>
+  
+  <div class="content">
+    <div id="gpt-ad-rectangle2"; style="width: 300px; height: 250px"> 
+  <script type="text/javascript"> googletag.cmd.push(function() {googletag.display('gpt-ad-rectangle2'); }); </script>
+</div>
+
+
+  </div>
+
+</div>
+  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-block pane-nodeblock-33" >
+  
+      <h2 class="pane-title">Editorial Promo</h2>
+  
+  
+  <div class="pane-content">
+    <div id="block-nodeblock-33" class="block block-nodeblock">
+  <div class="content">
+    <a href="http://www.thenation.com/50progressives"><img src="http://www.thenation.com/sites/default/files/imagecache/promo/50progressives307x80v2.jpg" alt="" title=""  class="imagecache imagecache-promo" width="307" height="80" /><!--paging_filter--></a>  </div>
+</div>
+  </div>
+
+  
+  </div>
+</div>
+  </div>
+</div>
+  </div>
+
+</div>
+      </div> <!-- /#sidebar-right -->
+      </div>
+  
+  <div id="op-under-content">
+      
+  </div>
+ 
+</div> <!-- /#center -->
+      
+        <div class="clear"></div>	
+        
+        
+             <div id="footer" class="clear">
+             
+             <div id="foot-feeds">
+             <a class="foot-rss" href="http://www.facebook.com/TheNationMagazine?ref=mf"><img src="/sites/default/themes/thenation/images/foot-facebook.png"/></a>
+              <a class="foot-rss" href="http://twitter.com/THENATION"><img src="/sites/default/themes/thenation/images/foot-twitter.png"/></a>
+              <a class="foot-rss" href="/rss"><img src="/sites/default/themes/thenation/images/foot-rss-icon.png"/></a>
+		<a href="/rss">RSS</a>
+</div>
+             
+             
+             <div id="foot-menu" class="clearfix">
+             <ul><li><a href="/">Home</a></li><li><a href="/blogs">Blogs</a></li><li><a href="/columns">Columns</a></li><li>              <a href="/issue/january-10-2011">Current Issue</a></li><li><a href="/archive">Magazine Archive</a></li><li><a href="/multimedia">Multimedia</a></li><li><a href="/community">Community</a></li><li><a href="/educators">Educators</a></li><li><a href="/students">Students</a></li></ul><ul><li><a href="/politics">Politics</a></li><li><a href="/world">World</a></li><li><a href="/books-and-arts">Books &amp; Arts</a></li><li><a href="/economy">Economy</a></li><li><a href="/environment">Environment</a></li><li><a href="/activism">Activism</a></li><li><a href="/society">Society</a></li></ul><ul><li><a href="/media-kit">Advertise</a></li><li><a href="/subscription-services">Subscription Services</a></li><li><a href="http://associates.thenation.com/">The Nation Associates</a></li><li><a href="/newsletter-signup">Newsletter</a></li><li><a href="/blogs/nation-news">Nation in the News</a></li><li><a href="http://www.thenationmart.com">Store</a></li></ul><ul id="last-menu"><li><a href="/help">Help</a></li><li><a href="/about-and-contact">About &amp; Contact</a></li><li><a href="http://www.thenation.com/50ways">Digital, Mobile and E-Reader</a></li><li><a href="/jobs">Work for Us</a></li><li><a href="/privacy-policy">Privacy Policy</a></li><li><a href="/terms-use">Terms of Use</a></li></ul>             
+<div id="badge">
+<div class="badge-image"><a href="/">The Nation Since 1855</a></div>
+<div id="copyright">Copyright &copy; 2010 The Nation</div><!--/copyright--></div><!--/#badge-->
+
+</div>
+
+             
+      <!--  <div id="footer-menu-primary"></div>
+          <div id="footer-feed-icon"><a href=""><img src="/misc/feed.png" width="16" height="16" alt="Get the main site RSS feed"/></a></div>
+          <div id="footer-menu-secondary"></div>
+          <div class="clear"></div>
+                    
+        </div>-->
+        <span class="clear"></span>
+   
+    </div> <!--/#wrapper -->
+   
+  <!--/layout -->
+  <script id="aptureScript" type="text/javascript" src="http://www.apture.com/js/apture.js?siteToken=USKcBel" charset="utf-8"></script><script type="text/javascript" src="/sites/default/files/js/js_7778421b890f325ba37c3d92308a9c41.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+try{var pageTracker = _gat._getTracker("UA-82883-1");pageTracker._trackPageview();} catch(err) {}
+//--><!]]>
+</script>
+<script type='text/javascript'>
+  GA_googleFillSlot('Pop_under_1x1');
+</script>
+  
+
+<!-- Start Quantcast tag -->
+<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
+<script type="text/javascript">_qacct="p-94ogF8e_UUwF6";quantserve();</script>
+<noscript>
+<a href="http://www.quantcast.com/p-94ogF8e_UUwF6" target="_blank"><img src="http://pixel.quantserve.com/pixel/p-94ogF8e_UUwF6.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/></a>
+</noscript>
+<!-- End Quantcast tag -->
+  
+<script type="text/javascript">
+var _sf_async_config={uid:7841,domain:"thenation.com"};
+(function(){
+ function loadChartbeat() {
+  window._sf_endpt=(new Date()).getTime();
+   var e = document.createElement('script');
+   e.setAttribute('language', 'javascript');
+   e.setAttribute('type', 'text/javascript');
+   e.setAttribute('src',
+     (("https:" == document.location.protocol) ? "https://s3.amazonaws.com/" : "http://") +
+     "static.chartbeat.com/js/chartbeat.js");
+   document.body.appendChild(e);
+ }
+ var oldonload = window.onload;
+ window.onload = (typeof window.onload != 'function') ?
+    loadChartbeat : function() { oldonload(); loadChartbeat(); };
+})();
+</script>  
+</body>
+</html>

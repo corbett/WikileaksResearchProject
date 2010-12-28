@@ -1,0 +1,164 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<link rel="icon" type="image/ico" href="//awsmedia.s3.amazonaws.com/favicon.ico">
+<link rel="shortcut icon" type="image/ico" href="//awsmedia.s3.amazonaws.com/favicon.ico">
+<meta name="description" content="">
+<meta name="keywords" content="Amazon Web Services, AWS, S3, EC2, Amazon Simple Storage Service, Amazon Elastic Compute Cloud, Cloud Computing, Web Hosting, Grid Computing, Utility Computing, Amazon Mechanical Turk, Simple Queue Service, SimpleDB, Flexible Payments Service, Amazon Payments, DevPay, Alexa, Developer Forum, AWS User Group, Developer Tools, APIs, Web Application Development">
+<title>Message</title>
+<link rel="stylesheet" href="/css/screen_1.css" type="text/css">
+<!--[if lt IE 7]>
+    <link rel="stylesheet" href="/css/awsGlobalNav2IE6.css" type="text/css" />
+    <link rel="stylesheet" href="/css/documentationIE6.css" type="text/css" />
+  <![endif]--><script src="/js/all_1.js" type="text/javascript"></script><script src="/js/urchin.js" type="text/javascript"></script><script type="text/javascript">
+  _udn="amazon.com";
+  urchinTracker();
+</script>
+</head>
+<body id="top" class="yui-skin-sam">
+<!-- layout _300_right --><div id="doc4" class="yui-t6">
+    <div id="hd">
+
+
+
+
+
+
+
+
+  <!-- header -->
+<div id="mainNav" class="withSearch">
+  <a href="/">
+    <img src="//awsmedia.s3.amazonaws.com/logo_aws.gif" id="awsHeaderLogo" width="164" height="60" alt="Amazon Web Services"></a>
+
+  <div id="globalTopLinks">
+    <a href="https://console.aws.amazon.com/s3/home" class="signIn"><img src="//awsmedia.s3.amazonaws.com/globalNav/img/laptop-icon-16x13.png" width="16" height="13" alt=""><span>Sign in to the AWS Management Console</span></a>
+    <a href="https://aws-portal.amazon.com/gp/aws/developer/registration/index.html" class="create"><img src="//awsmedia.s3.amazonaws.com/globalNav/img/aws-box-13x13.png" width="13" height="13" alt=""><span>Create an AWS Account</span></a>
+  </div>
+<div id="globalSearch">
+    <form method="get" action="/search">
+      <div class="liner">
+        <label>Search:</label>
+        <input type="hidden" name="searchPath" value="all"><div class="buttonInput">
+          <input type="text" name="searchQuery" class="query input"><input class="submit" type="image" src="//awsmedia.s3.amazonaws.com/globalNav/search-submit-23x23.png" width="23" height="23" alt="Go">
+</div>
+      </div>
+    </form>
+  </div>
+
+
+
+  <ul id="tabs">
+<li class="first tab" id="awsTab">
+      <div class="liner">
+        <span class="icon"></span><a href="/about-aws/">AWS</a>
+      </div>
+    </li>
+    <li class="tab" id="productsTab">
+      <div class="liner">
+        <span class="icon"></span><a href="/products/">Products</a>
+      </div>
+    </li>
+    <li class="tab" id="developersTab">
+      <div class="liner">
+        <span class="icon"></span><a href="/resources/">Developers</a>
+      </div>
+    </li>
+    <li class="tab" id="communityTab">
+      <div class="liner">
+        <span class="icon"></span><a href="/resources/">Community</a>
+      </div>
+    </li>
+    <li class="tab" id="supportTab">
+      <div class="liner">
+        <span class="icon"></span><a href="http://developer.amazonwebservices.com/connect/support.jspa">Support</a>
+      </div>
+    </li>
+    <li class="last tab" id="accountTab">
+      <div class="liner">
+        <span class="icon"></span><a href="/account/">Account</a>
+      </div>
+    </li>
+  </ul>
+<div class="flyout">
+    <div class="liner">
+      <div class="content"></div>
+      <a href="#" class="close">
+        close <img src="//awsmedia.s3.amazonaws.com/globalNav/img/close-14x14.png" height="14" width="14" alt=""></a>
+    </div>
+  </div>
+</div>
+
+
+
+<noscript>
+  
+</noscript>
+
+
+<script type="text/javascript">
+  if ( ! window.AWSGlobalNav ) {
+      AWSGlobalNav = {};
+  }
+
+  // This has to be set early (before the onload handlers execute)
+  AWSGlobalNav.acceptLanguage = '';
+
+
+  jQuery(function($) {
+      $.extend(AWSGlobalNav, {
+          tabContentBaseURL: '//aws.amazon.com',
+          smartLanguageChange: true
+      });
+  });
+</script><!-- /header -->
+</div> 
+    <div id="bd"><div style="line-height:1.5;font-size:110%">
+
+	<p>There have been reports that a government inquiry prompted us not to serve WikiLeaks any longer.  That is inaccurate.</p>
+
+
+	<p>There have also been reports that it was prompted by massive <span class="caps">DDOS</span> attacks.  That too is inaccurate.  There were indeed large-scale <span class="caps">DDOS</span> attacks, but they were successfully defended against.</p>
+
+
+	<p>Amazon Web Services (AWS) rents computer infrastructure on a self-service basis.  <span class="caps">AWS</span> does not pre-screen its customers, but it does have terms of service that must be followed.  WikiLeaks was not following them.  There were several parts they were violating.  For example, our terms of service state that “you represent and warrant that you own or otherwise control all of the rights to the content… that use of the content you supply does not violate this policy and will not cause injury to any person or entity.”  It’s clear that WikiLeaks doesn’t own or otherwise control all the rights to this classified content.  Further, it is not credible that the extraordinary volume of 250,000 classified documents that WikiLeaks is publishing could have been carefully redacted in such a way as to ensure that they weren’t putting innocent people in jeopardy.  Human rights organizations have in fact written to WikiLeaks asking them to exercise caution and not release the names or identities of human rights defenders who might be persecuted by their governments.</p>
+
+
+	<p>We’ve been running <span class="caps">AWS</span> for over four years and have hundreds of thousands of customers storing all kinds of data on <span class="caps">AWS</span>.  Some of this data is controversial, and that’s perfectly fine.  But, when companies or people go about securing and storing large quantities of data that isn’t rightfully theirs, and publishing this data without ensuring it won’t injure others, it’s a violation of our terms of service, and folks need to go operate elsewhere.</p>
+
+
+	<p>We look forward to continuing to serve our <span class="caps">AWS</span> customers and are excited about several new things we have coming your way in the next few months.</p>
+
+
+	<p>— Amazon Web Services</p>
+
+
+</div></div>
+    <div id="ft">
+
+
+
+
+
+
+
+
+  <div style="border-top: 1px solid #ccc; margin-bottom: 12px; margin-top: 10px; padding-top: 2px;">
+  <ul class="h_bar">
+<li class="first">
+      <a href="http://aws.typepad.com/" target="_blank"><span class="caps">AWS</span> Blog <img src="//awsmedia.s3.amazonaws.com/icon_offsite.gif" width="15" height="13" border="0" alt="This link will launch a new browser window or tab."></a>
+    </li>
+    <li><a href="http://phx.corporate-ir.net/phoenix.zhtml?c=176060&amp;p=irol-InfoReq">Press Inquiries</a></li>
+    <li><a href="/careers/">Careers at <span class="caps">AWS</span></a></li>
+    <li><a href="/contact-us/">Contact Us</a></li>
+    <li><a href="/privacy/">Privacy Policy</a></li>
+    <li><a href="/terms/">Terms of Use</a></li>
+  </ul>
+<div class="grey666">©2010, Amazon Web Services <span class="caps">LLC</span> or its affiliates. All rights reserved.</div>
+  <img src="//awsmedia.s3.amazonaws.com/awsmedia/logo_an_amazon_company.gif" width="160" height="21" vspace="8">
+</div>
+</div> 
+  </div>
+</body>
+</html>

@@ -1,0 +1,1753 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+    <head>
+            <script type="text/javascript">
+        if (((document.domain.indexOf("smh.com.au") != -1) || (document.domain.indexOf("theage.com.au") != -1) ||
+                (document.domain.indexOf("watoday.com.au") != -1) ||
+                (document.domain.indexOf("brisbanetimes.com.au") != -1) ||
+                (document.domain.indexOf("businessday.com.au") != -1)) && (isSmartPhone()) &&
+                (document.cookie.indexOf("iphone_redirect=false") == -1)) {
+            var currentLocation = document.location.href;
+            if (currentLocation.indexOf("www.") != -1) {
+                currentLocation = currentLocation.replace("www.", "m.");
+                window.location = currentLocation;
+            }
+        }
+
+        /**
+         * Returns a <code>Boolean</code> indicating whether or not the user agent represents a smart phone.
+         *
+         * @return True if the user agent represents a smart phone; otherwise false.
+         */
+        function isSmartPhone() {
+            var userAgent = navigator.userAgent
+            return ((matchesSmartPhoneUserAgentRegularExpressions(userAgent)) &&
+                    (!matchesTabletUserAgentRegularExpressions(userAgent)));
+        }
+
+        /**
+         * Returns a <code>Boolean</code> indicating whether or not the specified user agent represents a smart phone.
+         * If any of the regular expressions are updated then they should be updated in
+         * <code>SmartPhoneHelper.java</code>.
+         *
+         * @param userAgent User agent to test.
+         * @return True if the user agent represents a smart phone; otherwise false.
+         */
+        function matchesSmartPhoneUserAgentRegularExpressions(userAgent) {
+            var smartPhoneUserAgentRegularExpressions = ["^Mozilla/5.0.*iPhone.*", "^Mozilla/5.0.*iPod.*",
+                "^Mozilla/5.0.*Android [1-2].*", "^Mozilla/5.0.*SymbianOS/9.*", "^Mozilla/5.0.*Symbian/3.*",
+                "^Mozilla/5.0.*Mobile Safari/.*5[2-3][0-9].*", ".*Dolfin/[1-2].[0-9].*"];
+            if ((userAgent) && (userAgent.length > 0)) {
+                var index = 0;
+                for (; index < smartPhoneUserAgentRegularExpressions.length; index++) {
+                    if (userAgent.match(smartPhoneUserAgentRegularExpressions[index])) {
+                        return true;
+                    }
+                }
+            }
+            return false;
+        }
+        /**
+         * Returns a <code>Boolean</code> indicating whether or not the specified user agent represents a tablet. If any
+         * of the regular expressions are updated then they should be updated in <code>SmartPhoneHelper.java</code>.
+         *
+         * @param userAgent User agent to test.
+         * @return True if the user agent represents a tablet; otherwise false.
+         */
+        function matchesTabletUserAgentRegularExpressions(userAgent) {
+            var tableUserAgentRegularExpressions = ["^Mozilla/5.0.*iPad.*", "^Mozilla/5.0.*GT-P1000.*"];
+            if ((userAgent) && (userAgent.length > 0)) {
+                var index = 0;
+                for (; index < tableUserAgentRegularExpressions.length; index++) {
+                    if (userAgent.match(tableUserAgentRegularExpressions[index])) {
+                        return true;
+                    }
+                }
+            }
+            return false;
+        }
+
+    </script>
+
+        <title>Assange may have committed offence: ADA</title>
+        <meta http-equiv="content-language" content="en" />
+<meta http-equiv="imagetoolbar" content="no" />
+    <meta name="robots" content="noarchive,noodp" />
+<meta name="robots" content="ACAP allow-index" />
+<meta name="robots" content="ACAP allow-follow" />
+<meta name="robots" content="ACAP disallow-preserve" />
+<meta name="robots" content="ACAP allow-present prohibited-modification=annotation" />
+<meta name="description" content="" />
+<meta name="keywords" content="" />
+
+        
+<!-- Styles =================================================================== -->
+<!-- Have these styles for both screen and print to create a base for printing: -->
+<link rel="stylesheet" type="text/css" media="screen,print" href="http://resources.smh.com.au/common/media-common-1.0/css/base.css" />
+<!-- Skin CSS: -->
+<link rel="stylesheet" type="text/css" media="screen"       href="http://resources.smh.com.au/common/media-common-1.0/css/base-skin-news/skin-news.css" />
+<link rel="stylesheet" type="text/css" media="screen"       href="http://resources.smh.com.au/common/media-common-1.0/css/base-skin-smh/skin-smh.css" />
+<link rel="stylesheet" type="text/css" media="screen"       href="http://resources.smh.com.au/common/media-common-1.0/css/skin-breakingnewsnational/skin-breakingnewsnational.css" />
+    <link rel="stylesheet" type="text/css" media="screen" href="http://resources.smh.com.au/common/media-common-1.0/css/skin-promotions/skin-promotions.css" />
+<link rel="alternate stylesheet" type="text/css" media="screen" title="High contrast" href="http://resources.smh.com.au/common/media-common-1.0/css/base-skin-news/skin-news-low-vision.css" />
+<script type="text/javascript" >
+    var delayedAds = [];
+</script>
+
+    </head>
+    <body class="smh breakingnewsnational" >
+        <script type="text/javascript">
+// <![CDATA[
+	document.body.className += " scriptable";
+// ]]>
+</script>
+
+        <a class="skipLink" href="#nav">Skip to navigation</a>
+<a class="skipLink" href="#content">Skip to content</a>
+        <div class="wrap cfix">
+            <div id="adspot-1x10" class="">
+    <script type="text/javascript">
+        document.dcdAdsH = new Array();
+        document.dcdAdsI = new Array();
+        document.dcdAdsU = new Array();
+        document.dcdAdsR = new Array();
+        document.dcdAdsEH = new Array();
+        document.dcdAdsE = new Array();
+        document.dcdAdsEC = new Array();
+        var dcOrd = Math.floor(100000000*Math.random());
+
+        function getAdCookie(name) {
+            var regex = new RegExp(name + "=(.*?)(; |&|$)", "gi");
+            var value = regex.exec(document.cookie);
+            if (value && value.length == 3) {
+               value = value[1];
+            } else {
+                value = "";
+            }
+            return value;
+        }
+        document.dcAdsCParams = "";
+        var val = getAdCookie("by");
+        if (val && val.length > 0) {
+            document.dcAdsCParams = "by=" + val + ";";
+        }
+        val = getAdCookie("gen");
+        if (val && val.length > 0) {
+            document.dcAdsCParams = document.dcAdsCParams + "gen=" + val + ";";
+        }
+    </script>
+            <script type="text/javascript">
+                document.dcdAdsR.push("dcAd-1-1");
+                document.write('<iframe id="dcAd-1-1" src="http://ad-apac.doubleclick.net/adi/onl.smh.news/news/breakingnewsnational;cat1=national;ctype=article;cat=breakingnewsnational;dcopt=ist;' + document.dcAdsCParams + 'sz=1x10;tile=1;ord=' + dcOrd + '?" width="1" height="1" scrolling="no" marginheight="0" marginwidth="0" allowtransparency="true" frameborder="0"><\/iframe>');
+            </script>
+        <noscript>
+            <iframe id="dcAd-1-1" src="http://ad-apac.doubleclick.net/adi/onl.smh.news/news/breakingnewsnational;cat1=national;ctype=article;cat=breakingnewsnational;dcopt=ist;sz=1x10;tile=1;ord=6.4551271E7?"
+                    width='1'
+                    height='1'
+                    scrolling="no"
+                    marginheight="0" marginwidth="0" allowtransparency="true" frameborder="0">
+            </iframe>
+        </noscript>
+</div>
+            <!-- nN-whiteStrip -->
+<div class="nN-whiteStrip">
+    <ul class="linksLeft" id="nN-whiteStrip-linksLeft">
+    <li id="whiteStrip-time"><em>10:08AM</em> Monday Dec 27, 2010</li>
+    <li id="whiteStrip-users" class="online last">    2,695
+ online now</li>
+            <li class="last"><a href="http://www.smh.com.au/todays-paper" title="See today's paper">See today's paper</a></li>
+
+</ul>
+    <a class="logo" href="http://www.fairfaxdigital.com.au/" onclick="linktop(this);">Fairfax Digital</a>
+        <ul class="linksRight">
+        
+<li><a href="http://www.smh.com.au" onclick="trackCode(this, 'ws-top');">SMH</a></li>
+            <li><a href="http://www.domain.com.au/" onclick="linktop(this);">Domain</a></li>
+            <li><a href="http://www.drive.com.au/" onclick="linktop(this);">Drive</a></li>
+            <li><a href="http://mycareer.com.au/" onclick="linktop(this);">MyCareer</a></li>
+            <li><a href="http://www.rsvp.com.au/" onclick="linktop(this);">RSVP</a></li>
+            <li><a href="https://membercentre.fairfax.com.au/NewsletterSubscription.aspx" onclick="linktop(this);">Newsletters</a></li>
+            <li class="hasDropdown last"><a href="javascript:;">More</a>
+                <ul>
+                        <li><a href="http://www.essentialbaby.com.au/" onclick="linktop(this);">Essential Baby</a></li>
+                        <li><a href="http://www.stayz.com.au/" onclick="linktop(this);">Stayz</a></li>
+                        <li><a href="http://www.investsmart.com.au/" onclick="linktop(this);">InvestSMART</a></li>
+                        <li><a href="http://www.tradingroom.com.au" onclick="linktop(this);">Trading Room</a></li>
+                        <li><a href="http://www.weatherzone.com.au/" onclick="linktop(this);">Weatherzone</a></li>
+                    <li class="last"><a onclick="linktop(this);" href="http://www.fairfax.com.au/">More sites &raquo;</a></li>
+                </ul>
+            </li>
+    </ul>
+
+</div>
+<!-- End: nN-whiteStrip -->
+
+
+<!-- Header (class according to new HTML5 element 'header'; was 'masthead') (scope: network-wide) -->
+<div class="header span-24">
+    <div id="adspot-728x90,468x60-pos-1" class="ad">
+    <script>
+        document.dcdAdsH.push("adspot-728x90,468x60-pos-1");
+        document.dcdAdsI.push("dcAd-2");
+        document.dcdAdsU.push('http://ad-apac.doubleclick.net/adj/onl.smh.news/news/breakingnewsnational;cat1=national;ctype=article;cat=breakingnewsnational;pos=1;' + document.dcAdsCParams +'sz=728x90,468x60;tile=2;ord=' + dcOrd + '?');
+    </script>
+    <noscript>
+        <a href='http://ad-apac.doubleclick.net/jump/onl.smh.news/news/breakingnewsnational;cat1=national;ctype=article;cat=breakingnewsnational;pos=1;sz=728x90,468x60;tile=2;ord=6.4551271E7?' target="_blank">
+            <img src='http://ad-apac.doubleclick.net/ad/onl.smh.news/news/breakingnewsnational;cat1=national;ctype=article;cat=breakingnewsnational;pos=1;sz=728x90,468x60;tile=2;ord=6.4551271E7?' border="0" alt="">
+        </a>
+    </noscript>
+</div>
+    <p class="mh-logo"><a href="http://www.smh.com.au" title="The Sydney Morning Herald">The Sydney Morning Herald</a></p>
+            <h2><a href="http://www.smh.com.au/breaking-news-national" title="Breaking News National">Breaking News National</a></h2>
+        <!-- Navigation (scope: network-wide) -->
+    <ul id="nav">
+ 
+
+
+
+                <li>
+                    <a href="http://www.smh.com.au/nsw" title="NSW">NSW</a>
+
+
+
+                    </li>
+                    
+            
+ 
+
+
+
+                <li>
+                    <a href="http://www.smh.com.au/national" title="National">National</a>
+
+
+
+                    </li>
+                    
+            
+ 
+
+
+
+                <li>
+                    <a href="http://www.smh.com.au/world" title="World">World</a>
+
+
+
+                    </li>
+                    
+            
+ 
+
+
+
+                <li>
+                    <a href="http://www.smh.com.au/business" title="Business">Business</a>
+
+
+
+                    </li>
+                    
+            
+ 
+
+
+
+                <li>
+                    <a href="http://www.smh.com.au/sport" title="Sport">Sport</a>
+
+
+
+                    </li>
+                    
+            
+ 
+
+
+
+                <li>
+                    <a href="http://www.smh.com.au/environment" title="Environment">Environment</a>
+
+
+
+                    </li>
+                    
+            
+ 
+
+
+
+                <li>
+                    <a href="http://www.smh.com.au/opinion" title="National Times">National Times</a>
+
+
+
+                    </li>
+                    
+            
+ 
+
+
+
+                <li>
+                    <a href="http://www.smh.com.au/technology" title="Tech">Tech</a>
+
+
+
+                    </li>
+                    
+            
+ 
+
+
+
+                <li>
+                    <a href="http://www.smh.com.au/digital-life" title="Digital Life">Digital Life</a>
+
+
+
+                    </li>
+                    
+            
+ 
+
+
+
+                <li>
+                    <a href="http://www.smh.com.au/entertainment" title="Entertainment">Entertainment</a>
+
+
+
+                    </li>
+                    
+            
+ 
+
+
+
+                <li>
+                    <a href="http://www.smh.com.au/lifestyle" title="Life &amp; Style">Life &amp; Style</a>
+
+
+
+                    </li>
+                    
+            
+ 
+
+
+
+                <li>
+                    <a href="http://www.smh.com.au/travel" title="Travel">Travel</a>
+
+
+
+                    </li>
+                    
+            
+ 
+
+
+
+                <li>
+                    <a href="http://www.smh.com.au/drive" title="Cars">Cars</a>
+
+
+
+                    </li>
+                    
+            
+ 
+
+
+
+                <li>
+                    <a href="http://www.smh.com.au/executive-style" title="Exec Style">Exec Style</a>
+
+
+
+                    </li>
+                    
+            
+    </ul>
+    <!-- End module Navigation -->
+
+        <!-- Breadcrumb (scope: network-wide) -->
+    <p class="breadcrumb">
+        <span>You are here:</span>
+                <a href="http://www.smh.com.au">
+                    Home
+                </a>
+                &raquo;
+                <a href="http://www.smh.com.au/breaking-news-national">
+                    Breaking News National
+                </a>
+                &raquo;
+                <a href="http://news.smh.com.au/breaking-news-national/assange-may-have-committed-offence-ada-20100728-10vp8.html">
+                    Article
+                </a>
+    </p>
+
+        <div class="cN-searchBox cfix">
+    <form action="http://www.smh.com.au/execute_search.html" method="get">
+        <h2>Search smh:</h2>
+        <label for="search">
+            <input type="text" name="text" id="search" value='Search here...' onfocus="this.value='';" />
+        </label>
+        <h3>Search in:</h3>
+        <ul id="ddown" class="ddown">
+            <li><a class="selected" href="#">smh.com.au</a>
+                <div class="srch-wrap">
+					<div></div>
+                    <ul class="cfix">
+                            <li class="first"><a href="#">smh.com.au</a></li>
+                            <li><a href="#">Web</a></li>
+                    </ul>
+                </div>
+            </li>
+        </ul>
+        <input type="hidden" name="ss" value="smh.com.au" />
+        <input type="submit" class="btnSubmit" value="Search" />
+    </form>
+    </div>
+
+</div>
+<!-- End component: Header -->
+
+            
+            
+            <div id="adspot-940x20-pos-1" class="ad adPageTop">
+    <script>
+        document.dcdAdsH.push("adspot-940x20-pos-1");
+        document.dcdAdsI.push("dcAd-3");
+        document.dcdAdsU.push('http://ad-apac.doubleclick.net/adj/onl.smh.news/news/breakingnewsnational;cat1=national;ctype=article;cat=breakingnewsnational;pos=1;' + document.dcAdsCParams +'sz=940x20;tile=3;ord=' + dcOrd + '?');
+    </script>
+    <noscript>
+        <a href='http://ad-apac.doubleclick.net/jump/onl.smh.news/news/breakingnewsnational;cat1=national;ctype=article;cat=breakingnewsnational;pos=1;sz=940x20;tile=3;ord=6.4551271E7?' target="_blank">
+            <img src='http://ad-apac.doubleclick.net/ad/onl.smh.news/news/breakingnewsnational;cat1=national;ctype=article;cat=breakingnewsnational;pos=1;sz=940x20;tile=3;ord=6.4551271E7?' border="0" alt="">
+        </a>
+    </noscript>
+</div>            
+            <div id="content" class="span-16">
+                <h1 class="cN-headingPage prepend-5 span-11 last">
+                    Assange may have committed offence: ADA
+                </h1>
+                <div class="push-0 span-11 last">
+                        <!-- cT-storyDetails -->
+<div class="cT-storyDetails cfix">
+    <cite>July 28, 2010</cite>
+    <ul>
+    
+    </ul>
+</div>
+<BOD>
+    <div class="articleBody">
+            <p>
+                <strong>
+                    AAP
+                </strong>
+            </p>
+                
+            <p>Wikileaks founder Australian Julian Assange could have committed a serious criminal offence in helping an enemy of the Australian Defence Force (ADF), the lobby group, the Australia Defence Association (ADA) says.</p>
+            <p>ADA executive director Neil James said much of the 92,201 assorted US military, intelligence and diplomatic documents leaked by Wikileaks would not be new to anyone familiar with the Afghanistan war or wars in general.</p>
+            <p>But this latest material went well beyond justifiable whistleblowing, he said.</p>
+                <div id="adspot-300x250-pos-3" class="hidden">
+        <small>Advertisement: Story continues below</small>
+            <script type="text/javascript">
+                var erA = document.createElement('iframe');
+                erA.setAttribute("id", "dcAd-1-4");
+                erA.setAttribute("src", "http://ad-apac.doubleclick.net/adi/onl.smh.news/news/breakingnewsnational;cat1=national;ctype=article;cat=breakingnewsnational;pos=3;" + document.dcAdsCParams +"sz=300x250;tile=4;ord=" + dcOrd + "?");
+                erA.setAttribute("width", "300");
+                erA.setAttribute("height", "250");
+                erA.setAttribute("scrolling", "no");
+                erA.setAttribute("marginheight", "0");
+                erA.setAttribute("marginwidth", "0");
+                erA.setAttribute("allowtransparency", "true");
+                erA.setAttribute("frameborder", "0");
+                erA.frameBorder = 0;
+                document.dcdAdsE.push(erA);
+                document.dcdAdsEH.push("adspot-300x250-pos-3");
+                document.dcdAdsEC.push("ad adCentred");
+                document.dcdAdsR.push("dcAd-1-4");
+            </script>
+        <noscript>
+            <iframe id="dcAd-1-4" src="http://ad-apac.doubleclick.net/adi/onl.smh.news/news/breakingnewsnational;cat1=national;ctype=article;cat=breakingnewsnational;pos=3;sz=300x250;tile=4;ord=6.4551271E7?"
+                    width='300'
+                    height='250'
+                    scrolling="no"
+                    marginheight="0" marginwidth="0" allowtransparency="true" frameborder="0">
+            </iframe>
+        </noscript>
+</div>
+            <p>"Put bluntly, Wikileaks is not authorised in international or Australian law, nor equipped morally or operationally, to judge whether open publication of such material risks the safety, security, morale and legitimate objectives of Australian and allied troops fighting in a UN-endorsed military operation," he said in a statement.</p>
+            <p>Mr James said there were many alternative avenues available for legitimate dissent which did not endanger our troops.</p>
+            <p>"Moreover, as an Australian citizen, Wikileaks' Julian Assange may also be guilty of a serious criminal offence by assisting an enemy the ADF is fighting on behalf of all Australians, especially if the assistance was intentional," he said.</p>
+            <p>The documents cover the period 2004-09, with an initial tranche released to various US, UK and German publications by WikiLeaks.</p>
+            <p>The most controversial allegations centre around claims that Pakistan's intelligence service has continued to assist the Taliban insurgency despite Pakistan government insistence there was no ongoing relationship.</p>
+            <p>Australia is mentioned in some of the documents with the Australian Defence Department forming a task force to assess whether release of this information has endangered Australian troops.</p>
+            <p>Mr James said whatever Mr Assange's motives, his actions again highlighted the need to amend treachery laws to prohibit reckless assistance to an enemy.</p>
+            <p>"What Wikileaks and its apologists ignore is the clear legal and moral differences between the actions of rule-of-law democracies applying international humanitarian law in UN-endorsed warfighting (however imperfectly at times), and the deliberate rejection of such law by the Taliban and its Islamist allies," he said.</p>
+            <p>"ISAF's battlefield mistakes are the result of typical wartime tragedy, accidents and at times incompetence or personal failure, not deliberate or institutional policy."</p>
+    </div>
+    <!-- articleBody -->
+</BOD>
+    <p class="source">&#169; 2010
+    <a href="/action/displayCopyrightNotice?sourceOrganisation=AAP">AAP</a><br/>
+    <span style="font: normal 86% arial;color:#999">Brought to you by <img height="25" alt="aap"
+                                                                           src="http://resources.smh.com.au/core/2007-11/images/aaplogo.gif"
+                                                                           width="50" align="absmiddle"/></span>
+</p>
+
+
+
+
+
+
+
+                    
+                    <div id="moreGoogleAds" class="ad adSpot-textBox"></div><!-- id:moreGoogleAds -->
+                    
+                    
+                </div><!-- class:push-0 span-11 last -->
+                <div class="sidebar span-5">
+                    
+                    <div class="cT-socialCommenting accessibleSocialComment">
+        <h3>
+        Join the conversation
+    </h3>
+        <p class="tellFriends">
+            You're the only person reading this now.
+            <a href="javascript:;">
+                Tell your friends
+            </a>
+        </p>
+        <ul>
+            <li class="facebook">
+                <a href="http://www.facebook.com/share.php?u=http://news.smh.com.au/breaking-news-national/assange-may-have-committed-offence-ada-20100728-10vp8.html" onclick="javascript:u='http://news.smh.com.au/breaking-news-national/assange-may-have-committed-offence-ada-20100728-10vp8.html';t='Assange may have committed offence: ADA';window.open('http://www.facebook.com/sharer.php?u='+encodeURIComponent(u)+'&t='+encodeURIComponent(t),'sharer','toolbar=0,status=0,width=626,height=436');return false;" rel="nofollow">
+                    Add to Facebook
+                </a>
+            </li>
+            <li class="email">
+                <a href="/action/emailToFriend?id=1720700" onclick="var popup =window.open('/action/emailToFriend?id=1720700','EmailArticle','toolbar=no,menubar=no,width=760,height=680,resizable=yes,menubar=no,status=no,scrollbars=no');popup.focus();return false" title="Email to a friend" rel="nofollow">
+                    Email this story
+                </a>
+            </li>
+        </ul>
+        <p class="twitter">
+            <a href="http://twitter.com/home?status=%23fd10vp8 http://news.smh.com.au/breaking-news-national-10vp8.html" target="_blank">
+                Comment on Twitter
+            </a>
+            .<br />
+            <a href="http://search.twitter.com/search?q=%23fd10vp8" target="_blank">
+                <em>
+                    Read tweets
+                </em>
+            </a>
+            .
+        </p>
+</div>
+                    <div id="emptyAdspot-180x150"></div>
+                    
+                    
+                            <div class="cN-linkList">
+        <h3>Top Breaking News National articles</h3>
+        <ol>
+                    <li class="first">
+                <a href="http://news.smh.com.au/breaking-news-national/body-discovered-behind-childcare-centre-20101226-197tc.html" title="Body discovered behind childcare centre" style="">Body discovered behind childcare centre</a>
+                </li>
+                    <li>
+                <a href="http://news.smh.com.au/breaking-news-national/more-rain-but-second-qld-cyclone-unlikely-20101226-197t7.html" title="More rain, but second Qld cyclone unlikely" style="">More rain, but second Qld cyclone unlikely</a>
+                </li>
+                    <li>
+                <a href="http://news.smh.com.au/breaking-news-national/fears-for-missing-boat-groundless-20101226-197mr.html" title="Fears for missing boat groundless" style="">Fears for missing boat groundless</a>
+                </li>
+                    <li>
+                <a href="http://news.smh.com.au/breaking-news-national/three-teenagers-hurt-in-sydney-car-crash-20101226-197qe.html" title="Three teenagers hurt in Sydney car crash" style="">Three teenagers hurt in Sydney car crash</a>
+                </li>
+                    <li>
+                <a href="http://news.smh.com.au/breaking-news-national/australians-splurge-at-boxing-day-sales-20101226-197rj.html" title="Australians splurge at Boxing Day sales" style="">Australians splurge at Boxing Day sales</a>
+                </li>
+                <li class="last"><a href="http://www.smh.com.au/breaking-news-national">More Breaking News National articles</a></li>
+        </ol>
+    </div>
+
+
+
+                    
+                        
+                    
+<!-- cT-storyTools -->
+<div class="cT-storyTools cfix">
+	<!-- cT-strapHeading -->
+	<h3 class="cT-strapHeading">Story Tools</h3>
+
+    <ul class="accessibleStoryTools">
+        <li class="facebook"><a href="http://www.facebook.com/share.php?u=http://news.smh.com.au/breaking-news-national/assange-may-have-committed-offence-ada-20100728-10vp8.html" onclick="javascript:u='http://news.smh.com.au/breaking-news-national/assange-may-have-committed-offence-ada-20100728-10vp8.html';t='Assange may have committed offence: ADA';window.open('http://www.facebook.com/sharer.php?u='+encodeURIComponent(u)+'&t='+encodeURIComponent(t),'sharer','toolbar=0,status=0,width=626,height=436');return false;" rel="nofollow">Share on Facebook</a></li>
+		<li class="email"><a href="/action/emailToFriend?id=1720700" onclick="var popup =window.open('/action/emailToFriend?id=1720700','EmailArticle','toolbar=no,menubar=no,width=760,height=680,resizable=yes,menubar=no,status=no,scrollbars=no');popup.focus();return false" title="Email to a friend" rel="nofollow">Email this story</a></li>
+		<li class="print"><a href="/action/printArticle?id=1720700" onclick="var popup =window.open('/action/printArticle?id=1720700','PrintArticle','toolbar=no,menubar=no,width=1024,height=620,resizable=yes,menubar=no,status=no,scrollbars=yes');popup.focus();return false" title="Print this story" rel="nofollow">Print this story</a></li>
+
+	</ul>
+
+    <div id="adspot-180x44" class="ad">
+    <script>
+        document.dcdAdsH.push("adspot-180x44");
+        document.dcdAdsI.push("dcAd-5");
+        document.dcdAdsU.push('http://ad-apac.doubleclick.net/adj/onl.smh.news/news/breakingnewsnational;cat1=national;ctype=article;cat=breakingnewsnational;' + document.dcAdsCParams +'sz=180x44;tile=5;ord=' + dcOrd + '?');
+    </script>
+    <noscript>
+        <a href='http://ad-apac.doubleclick.net/jump/onl.smh.news/news/breakingnewsnational;cat1=national;ctype=article;cat=breakingnewsnational;sz=180x44;tile=5;ord=6.4551271E7?' target="_blank">
+            <img src='http://ad-apac.doubleclick.net/ad/onl.smh.news/news/breakingnewsnational;cat1=national;ctype=article;cat=breakingnewsnational;sz=180x44;tile=5;ord=6.4551271E7?' border="0" alt="">
+        </a>
+    </noscript>
+</div>
+
+</div>
+<!-- cT-storyTools -->
+
+                    <div class="cT-storyTools cfix">
+    <h3 class="cT-strapHeading">SMH Jobs</h3>
+    <div id="jobs" data-jobsBrand="smh" data-jobsSkew="generic"></div><!-- id:jobs -->
+</div><!-- class:cT-storyTools cfix -->
+                </div><!-- class:sidebar span-5 -->
+                <div class="span-16 last">
+                    
+                    
+                    
+                    
+                </div><!-- class:span-16 last -->
+            </div><!-- id:content -->
+            <div class="aside span-8 last">
+                
+                <div id="adspot-300x600,300x250-pos-1" class="ad">
+        <small>Advertisement</small>
+    <script>
+        document.dcdAdsH.push("adspot-300x600,300x250-pos-1");
+        document.dcdAdsI.push("dcAd-6");
+        document.dcdAdsU.push('http://ad-apac.doubleclick.net/adj/onl.smh.news/news/breakingnewsnational;cat1=national;ctype=article;cat=breakingnewsnational;pos=1;' + document.dcAdsCParams +'sz=300x600,300x250;tile=6;ord=' + dcOrd + '?');
+    </script>
+    <noscript>
+        <a href='http://ad-apac.doubleclick.net/jump/onl.smh.news/news/breakingnewsnational;cat1=national;ctype=article;cat=breakingnewsnational;pos=1;sz=300x600,300x250;tile=6;ord=6.4551271E7?' target="_blank">
+            <img src='http://ad-apac.doubleclick.net/ad/onl.smh.news/news/breakingnewsnational;cat1=national;ctype=article;cat=breakingnewsnational;pos=1;sz=300x600,300x250;tile=6;ord=6.4551271E7?' border="0" alt="">
+        </a>
+    </noscript>
+</div>
+                    <!-- cN-tabBox -->
+    <!-- UI NOTE: Javascript requires ids on the <ul> and all <li>.
+                  If JS is enabled it removes the 'accessibleTab' class.
+                  If JS is disabled style in an accessible way using that class.
+    -->
+    <ul id="cN-tabBox1" class="cN-tabBox accessibleTab cS-latestArticlesVideos">
+            <li class="tab1  selected">
+                <h4><a href="#">Latest videos</a></h4><!--TODO change this from H4 as it conficts with video headline-->
+                <div class="cfix">
+        <div class="cS-latestVideo">
+        <h3>Selections Video <a href="http://media.smh.com.au/national/selections">More video</a></h3>
+        <div class="media-video" id="video-player-latest">
+            <div id="video-player-latest-player" class="videoWrap">
+                    <a href="http://media.smh.com.au/national/selections/disgruntled-pilot-posts-security-videos-2109456.html" class="play-video" title="Disgruntled pilot posts security videos">
+        <img src="http://images.smh.com.au/2010/12/26/2109455/71849_widenative-408x264.jpg" width="300" height="170" alt="Thumbnail image for video asset."/>
+            <span class="size-lrg">
+                    Click to play video
+            </span>
+    </a>
+
+            </div><!-- id:video-player-latest-player -->
+            <div class="fdVideoWof accessibleWof">
+                <h4>Disgruntled pilot posts security videos</h4>
+                <p>US authorities are investigating a pilot who posted videos on YouTube that were critical of security at San Francisco International Airport.</p>
+            </div><!-- class:fdVideoWof accessibleWof -->
+            <ul class="span-5">
+                    <li>
+                                <a class="play-video" href="http://media.smh.com.au/national/selections/christmas-celebrations-around-the-world-2109451.html" title="Christmas celebrations around the world"><img src="http://images.smh.com.au/2010/12/26/2109450/71848_widenative-92x52.jpg" width="92" height="52" alt="Thumbnail image for video asset." /><span class="size-sml">Click to play video</span></a>
+
+                        <p><a href="http://media.smh.com.au/national/selections/christmas-celebrations-around-the-world-2109451.html">Christmas celebrations around the world</a></p>
+                    </li>
+                    <li>
+                                <a class="play-video" href="http://media.smh.com.au/national/selections/royal-family-christmas-service-2109464.html" title="Royal family Christmas service"><img src="http://images.smh.com.au/2010/12/26/2109463/71846_widenative-92x52.jpg" width="92" height="52" alt="Thumbnail image for video asset." /><span class="size-sml">Click to play video</span></a>
+
+                        <p><a href="http://media.smh.com.au/national/selections/royal-family-christmas-service-2109464.html">Royal family Christmas service</a></p>
+                    </li>
+                    <li>
+                                <a class="play-video" href="http://media.smh.com.au/outer-net/weird-week/waterskiing-santa-makes-a-splash-2108948.html" title="Water-skiing Santa makes a splash"><img src="http://images.smh.com.au/2010/12/25/2108947/71840_widenative-92x52.jpg" width="92" height="52" alt="Thumbnail image for video asset." /><span class="size-sml">Click to play video</span></a>
+
+                        <p><a href="http://media.smh.com.au/outer-net/weird-week/waterskiing-santa-makes-a-splash-2108948.html">Water-skiing Santa makes a splash</a></p>
+                    </li>
+            </ul>
+        </div><!-- id:video-player-latest -->
+    </div><!-- class:cS-latestVideo -->
+
+</div><!-- class:cfix -->
+            </li>
+    </ul>
+
+<div id="adspot-300x125" class="ad">
+        <small>Advertisement</small>
+            <script type="text/javascript">
+                document.dcdAdsR.push("dcAd-1-7");
+                document.write('<iframe id="dcAd-1-7" src="http://ad-apac.doubleclick.net/adi/onl.smh.news/news/breakingnewsnational;cat1=national;ctype=article;cat=breakingnewsnational;' + document.dcAdsCParams + 'sz=300x125;tile=7;ord=' + dcOrd + '?" width="300" height="125" scrolling="no" marginheight="0" marginwidth="0" allowtransparency="true" frameborder="0"><\/iframe>');
+            </script>
+        <noscript>
+            <iframe id="dcAd-1-7" src="http://ad-apac.doubleclick.net/adi/onl.smh.news/news/breakingnewsnational;cat1=national;ctype=article;cat=breakingnewsnational;sz=300x125;tile=7;ord=6.4551271E7?"
+                    width='300'
+                    height='125'
+                    scrolling="no"
+                    marginheight="0" marginwidth="0" allowtransparency="true" frameborder="0">
+            </iframe>
+        </noscript>
+</div>
+                <div id="adspot-149x170" class="ad adSpot-twin cfix">
+        <small>Featured advertisers</small>
+            <script type="text/javascript">
+                document.dcdAdsR.push("dcAd-1-8");
+                document.write('<iframe id="dcAd-1-8" src="http://ad-apac.doubleclick.net/adi/onl.smh.news/news/breakingnewsnational;cat1=national;ctype=article;cat=breakingnewsnational;' + document.dcAdsCParams + 'pos=1;sz=149x170;tile=8;ord=' + dcOrd + '?" width="149" height="170" scrolling="no" marginheight="0" marginwidth="0" allowtransparency="true" frameborder="0"><\/iframe>');
+            </script>
+        <noscript>
+            <iframe id="dcAd-1-8" src="http://ad-apac.doubleclick.net/adi/onl.smh.news/news/breakingnewsnational;cat1=national;ctype=article;cat=breakingnewsnational;pos=1;sz=149x170;tile=8;ord=6.4551271E7?"
+                    width='149'
+                    height='170'
+                    scrolling="no"
+                    marginheight="0" marginwidth="0" allowtransparency="true" frameborder="0">
+            </iframe>
+        </noscript>
+            <script type="text/javascript">
+                document.dcdAdsR.push("dcAd-2-9");
+                document.write('<iframe id="dcAd-2-9" src="http://ad-apac.doubleclick.net/adi/onl.smh.news/news/breakingnewsnational;cat1=national;ctype=article;cat=breakingnewsnational;' + document.dcAdsCParams + 'pos=2;sz=149x170;tile=9;ord=' + dcOrd + '?" width="149" height="170" scrolling="no" marginheight="0" marginwidth="0" allowtransparency="true" frameborder="0"><\/iframe>');
+            </script>
+        <noscript>
+            <iframe id="dcAd-2-9" src="http://ad-apac.doubleclick.net/adi/onl.smh.news/news/breakingnewsnational;cat1=national;ctype=article;cat=breakingnewsnational;pos=2;sz=149x170;tile=9;ord=6.4551271E7?"
+                    width='149'
+                    height='170'
+                    scrolling="no"
+                    marginheight="0" marginwidth="0" allowtransparency="true" frameborder="0">
+            </iframe>
+        </noscript>
+</div>
+                <!-- START digihub js  -->
+<script type="text/javascript">//<![CDATA[
+	// source: http://snippets.dzone.com/posts/show/2630
+	function removeClass(objElement, strClass) {
+	   // if there is a class
+	   if ( objElement.className ) {
+		  // the classes are just a space separated list, so first get the list
+		  var arrList = objElement.className.split(' ');
+		  // get uppercase class for comparison purposes
+		  var strClassUpper = strClass.toUpperCase();
+		  // find all instances and remove them
+		  for ( var i = 0; i < arrList.length; i++ ) {
+			 // if class found
+			 if ( arrList[i].toUpperCase() == strClassUpper ) {
+				// remove array item
+				arrList.splice(i, 1);
+				// decrement loop counter as we have adjusted the array's contents
+				i--;
+			 }
+		  }
+		  // assign modified class name attribute
+		  objElement.className = arrList.join(' ');
+	   }
+	}
+
+
+	function get_random_number(elemsLength) {
+	  var number = parseInt(elemsLength);
+	  var ranNum= Math.floor(Math.random()*number);
+	  return ranNum;
+	}
+	
+	function random_select(ulID, classname) {
+	  var elems = select_child_elements_by_classname(ulID, classname);
+	  var whichElem = get_random_number(elems.length);
+	  for(var i = 0; i < elems.length; i++) {
+//		elems[i].className.replace(/selected$/, '');
+		removeClass(elems[i], "selected"); 		// UI NOTE: Replaced with function due to malfunction of 'replace' method
+	  }
+	  elems[whichElem].className += ' selected';
+	}
+	
+	function select_child_elements_by_classname(ulID, classname) {
+	  var ulEl = document.getElementById(ulID);
+	  var elemsarr = ulEl.getElementsByTagName('li');
+	  var elems = Array();
+	  for(var i = 0; i < elemsarr.length; i++){
+		if (elemsarr[i].className.match(classname)) {
+		  elems.push(elemsarr[i]);
+		}
+	  }
+	  return elems;
+	}
+	
+	function navigateSmallDigihubBlock(ulID, prev, next) {
+	  var selectedSet = false;
+	  var nextEl = '';
+	  var elems = select_child_elements_by_classname(ulID, 'tab');
+	  while (selectedSet == false) {
+		for(var i = 0; i < elems.length; i++){
+		  var class_array = elems[i].className.split(' ');
+		  if (class_array[1] == 'selected') {
+			elems[i].className = class_array[0];
+			if (prev == true) {
+			  var nextEl = i-1;
+			  if (nextEl == -1) {
+				nextEl = elems.length - 1;
+			  }
+			}
+			if (next == true) {
+			  var nextEl = i+1;
+			  if (nextEl == elems.length) {
+				nextEl = 0;
+			  }
+			}
+		  }
+		  if (i === nextEl) {
+			elems[i].className += ' selected';
+			selectedSet = true;
+			break;
+		  }
+		}
+	  }
+	}
+	
+	window.onload = function() {
+          var dh = $("digiHub");
+          if (dh) {
+	    dh.className.replace(/accessibleTab$/, '');
+          }
+
+
+	  random_select('digiHub', 'tab');
+	  interval = setInterval("navigateSmallDigihubBlock('digiHub', false, true)", 7500 );
+	};
+//]]></script>
+<!-- END digihub js  -->
+
+
+<!-- START digihub external_export_small  -->
+<ul id="digiHub" class="digiHub cN-tabBox smallDigiHubTabBox accessibleTab">
+  <li class="tab1 selected">
+    <h4><a href="javascript:;">Blogs</a></h4>
+    <div class="cfix">
+      <h3>Latest Blogs</h3>
+      <div class="wof first">
+        <h5><a href="http://digihub.smh.com.au/node/1966">2010’s big gaming duds</a></h5>
+        <p><cite>December 26th</cite> Sometimes it’s more fun to look at what went wrong...
+
+The  ...</p>
+      </div>
+      <div class="lastDiv cfix">
+        <a href="http://digihub.smh.com.au/blog" class="more">More blogs</a>
+        <span><a href="javascript:;" class="prev" onclick="navigateSmallDigihubBlock('digiHub', true, false);">&laquo; Prev</a> | <a href="javascript:;" class="next" onclick="navigateSmallDigihubBlock('digiHub', false, true);">Next &raquo;</a></span>
+      </div>
+    </div>
+  </li>
+  <li class="tab2">
+    <h4><a href="javascript:;">Comments</a></h4>
+    <div class="cfix">
+      <h3>Latest Comments</h3>
+      <ul>
+        <li><h5><a href="http://digihub.smh.com.au/node/128">How much should I be paying for HDMI cables? Where are the cheapest options?</a></h5>
+            I recently looked into buying a TiVO, which retails for $599, but  ...        </li>
+      </ul>
+      <div class="lastDiv cfix">
+        <a href="http://digihub.smh.com.au/forum" class="more">More comments</a>
+        <span><a href="javascript:;" class="prev" onclick="navigateSmallDigihubBlock('digiHub', true, false);">&laquo; Prev</a> | <a href="javascript:;" class="next" onclick="navigateSmallDigihubBlock('digiHub', false, true);">Next &raquo;</a></span>
+      </div>
+    </div>
+  </li>
+  <li class="tab3">
+    <h4><a href="javascript:;">Latest</a></h4>
+    <div class="cfix">
+      <h3>Featured Products</h3>
+      <div class="cfix">
+        <h5><a href="http://digihub.smh.com.au/node/1959">U36JC</a></h5>
+        <a href="http://digihub.smh.com.au/node/1959"><img src="http://www.smh.com.au/images/files/products/thumbnails/U36JC 90.jpg" width="90" height="60" alt="U36JC" /></a>
+        <p>The first 19mm thin laptop with Intel standard voltage CPU in the world
+
+Ultra  ...</p>
+      </div>
+      <div class="lastDiv cfix">
+        <a href="http://digihub.smh.com.au/products" class="more">More products</a>
+        <span><a href="javascript:;" class="prev" onclick="navigateSmallDigihubBlock('digiHub', true, false);">&laquo; Prev</a> | <a href="javascript:;" class="next" onclick="navigateSmallDigihubBlock('digiHub', false, true);">Next &raquo;</a></span>
+      </div>
+    </div>
+  </li>
+  <li class="tab4">
+    <h4><a href="javascript:;">News</a></h4>
+    <div class="cfix">
+      <h3>Latest News</h3>
+      <div class="wof first">
+
+        <h5><a href="http://digihub.smh.com.au/node/1944">Move Over TV, Laptops Are Top Dogs in  ...</a></h5>
+        <p><cite>December 7th</cite> More Australians would give up their TVs before  ...</p>
+      </div>
+      <div class="lastDiv cfix">
+        <a href="http://digihub.smh.com.au/news" class="more">More news</a>
+        <span><a href="javascript:;" class="prev" onclick="navigateSmallDigihubBlock('digiHub', true, false);">&laquo; Prev</a> | <a href="javascript:;" class="next" onclick="navigateSmallDigihubBlock('digiHub', false, true);">Next &raquo;</a></span>
+
+      </div>
+    </div>
+  </li>
+</ul>
+<!-- END digihub external_export_small  -->
+
+
+
+
+                <div id="adspot-295x60" class="ad ">
+        <small>Sponsored links</small>
+            <script type="text/javascript">
+                document.dcdAdsR.push("dcAd-1-10");
+                document.write('<iframe id="dcAd-1-10" src="http://ad-apac.doubleclick.net/adi/onl.smh.news/news/breakingnewsnational;cat1=national;ctype=article;cat=breakingnewsnational;' + document.dcAdsCParams + 'pos=1;sz=295x60;tile=10;ord=' + dcOrd + '?" width="295" height="60" scrolling="no" marginheight="0" marginwidth="0" allowtransparency="true" frameborder="0"><\/iframe>');
+            </script>
+        <noscript>
+            <iframe id="dcAd-1-10" src="http://ad-apac.doubleclick.net/adi/onl.smh.news/news/breakingnewsnational;cat1=national;ctype=article;cat=breakingnewsnational;pos=1;sz=295x60;tile=10;ord=6.4551271E7?"
+                    width='295'
+                    height='60'
+                    scrolling="no"
+                    marginheight="0" marginwidth="0" allowtransparency="true" frameborder="0">
+            </iframe>
+        </noscript>
+            <script type="text/javascript">
+                document.dcdAdsR.push("dcAd-2-11");
+                document.write('<iframe id="dcAd-2-11" src="http://ad-apac.doubleclick.net/adi/onl.smh.news/news/breakingnewsnational;cat1=national;ctype=article;cat=breakingnewsnational;' + document.dcAdsCParams + 'pos=2;sz=295x60;tile=11;ord=' + dcOrd + '?" width="295" height="60" scrolling="no" marginheight="0" marginwidth="0" allowtransparency="true" frameborder="0"><\/iframe>');
+            </script>
+        <noscript>
+            <iframe id="dcAd-2-11" src="http://ad-apac.doubleclick.net/adi/onl.smh.news/news/breakingnewsnational;cat1=national;ctype=article;cat=breakingnewsnational;pos=2;sz=295x60;tile=11;ord=6.4551271E7?"
+                    width='295'
+                    height='60'
+                    scrolling="no"
+                    marginheight="0" marginwidth="0" allowtransparency="true" frameborder="0">
+            </iframe>
+        </noscript>
+            <script type="text/javascript">
+                document.dcdAdsR.push("dcAd-3-12");
+                document.write('<iframe id="dcAd-3-12" src="http://ad-apac.doubleclick.net/adi/onl.smh.news/news/breakingnewsnational;cat1=national;ctype=article;cat=breakingnewsnational;' + document.dcAdsCParams + 'pos=3;sz=295x60;tile=12;ord=' + dcOrd + '?" width="295" height="60" scrolling="no" marginheight="0" marginwidth="0" allowtransparency="true" frameborder="0"><\/iframe>');
+            </script>
+        <noscript>
+            <iframe id="dcAd-3-12" src="http://ad-apac.doubleclick.net/adi/onl.smh.news/news/breakingnewsnational;cat1=national;ctype=article;cat=breakingnewsnational;pos=3;sz=295x60;tile=12;ord=6.4551271E7?"
+                    width='295'
+                    height='60'
+                    scrolling="no"
+                    marginheight="0" marginwidth="0" allowtransparency="true" frameborder="0">
+            </iframe>
+        </noscript>
+</div>
+                <div id="adspot-1x4" class="ad">
+        <small>Advertisement</small>
+            <script type="text/javascript">
+                document.dcdAdsR.push("dcAd-1-13");
+                document.write('<iframe id="dcAd-1-13" src="http://ad-apac.doubleclick.net/adi/onl.smh.news/news/breakingnewsnational;cat1=national;ctype=article;cat=breakingnewsnational;' + document.dcAdsCParams + 'sz=1x4;tile=13;ord=' + dcOrd + '?" width="300" height="150" scrolling="no" marginheight="0" marginwidth="0" allowtransparency="true" frameborder="0"><\/iframe>');
+            </script>
+        <noscript>
+            <iframe id="dcAd-1-13" src="http://ad-apac.doubleclick.net/adi/onl.smh.news/news/breakingnewsnational;cat1=national;ctype=article;cat=breakingnewsnational;sz=1x4;tile=13;ord=6.4551271E7?"
+                    width='300'
+                    height='150'
+                    scrolling="no"
+                    marginheight="0" marginwidth="0" allowtransparency="true" frameborder="0">
+            </iframe>
+        </noscript>
+</div>
+                <div id="adspot-300x250-pos-2" class="ad">
+        <small>Advertisement</small>
+            <script type="text/javascript">
+                document.dcdAdsR.push("dcAd-1-14");
+                document.write('<iframe id="dcAd-1-14" src="http://ad-apac.doubleclick.net/adi/onl.smh.news/news/breakingnewsnational;cat1=national;ctype=article;cat=breakingnewsnational;pos=2;' + document.dcAdsCParams + 'sz=300x250;tile=14;ord=' + dcOrd + '?" width="300" height="250" scrolling="no" marginheight="0" marginwidth="0" allowtransparency="true" frameborder="0"><\/iframe>');
+            </script>
+        <noscript>
+            <iframe id="dcAd-1-14" src="http://ad-apac.doubleclick.net/adi/onl.smh.news/news/breakingnewsnational;cat1=national;ctype=article;cat=breakingnewsnational;pos=2;sz=300x250;tile=14;ord=6.4551271E7?"
+                    width='300'
+                    height='250'
+                    scrolling="no"
+                    marginheight="0" marginwidth="0" allowtransparency="true" frameborder="0">
+            </iframe>
+        </noscript>
+</div>
+                
+                
+            </div>
+            <!-- Footer fN-footerNetwork (class according to new HTML5 element 'footer'; scope: network-wide) -->
+<div class="footer span-24">
+    <script type="text/javascript">
+    function trackOmnitureClick(anchor, identifier, trackInTransit) {
+        var hash = "";
+        var hashIndex = anchor.href.indexOf("#");
+        if (hashIndex > -1) {
+            hash = anchor.href.substring(hashIndex);
+            anchor.href = anchor.href.substring(0, hashIndex);
+        }
+        if (anchor.href.indexOf("s_rid") > -1) {
+            // Remove any s_rid's
+            anchor.href = anchor.href.replace(/[\??|&?]s_rid=(.*)/i, "");
+        }
+        if (anchor.href.indexOf("s_cid") > -1) {
+            // Strip any s_cid's
+            anchor.href = anchor.href.replace(/[\??|&?]s_cid=(.*)/i, "");
+        }
+        var query = (anchor.href.indexOf("?") > -1) ? "&" : "?";
+        anchor.href += query + "s_rid=" + identifier;
+        if (hashIndex > -1) {
+            anchor.href += hash;
+        }
+        if (trackInTransit) {
+            var s = s_gi(s_account);
+            s.usePlugins = false;
+            s.linkTrackVars = 'eVar10';
+            s.eVar10 = s.getValOnce(identifier, "s_eVar10", 0);
+            s.tl(anchor, 'o', 'trackOmnitureClick');
+            s.usePlugins = true;
+        }
+        return true;
+    }
+</script>
+
+<div class="c5 classifieds cfix">
+
+                  <div class="s1 cDomain">
+                      <h2><a title="Real Estate" onclick="trackOmnitureClick(this,'smh:rainbowstrip:box1:campaign2:label:rent1');" href="http://www.domain.com.au">Real Estate</a></h2>
+                                <div class="puff">
+                                        <a href="http://news.domain.com.au/polls/domain/securing-your-dream-rental-property/20101216-18z1n.html" rel="nofollow" onclick="trackOmnitureClick(this,'smh:rainbowstrip:content1:17-12:rent1');" ><img src="http://images.smh.com.au/2010/12/17/2099601/rent1-172x115.jpg" width="172" alt="Securing your dream rental property"/></a>
+
+                                    <h5><a href="http://news.domain.com.au/polls/domain/securing-your-dream-rental-property/20101216-18z1n.html" rel="nofollow" onclick="trackOmnitureClick(this,'smh:rainbowstrip:box1:campaign2:content2:17-12:rent1:securingyourdreamrentalproperty');" title="securingyourdreamrentalproperty">Securing your dream rental property</a></h5>
+                                </div>
+                                <ul>
+                                    <li class="lDomain"><a href="http://www.domain.com.au" onclick="trackOmnitureClick(this,'smh:rainbowstrip:box1:campaign2:logo:17-12:rent1');">Domain.com.au</a></li>
+                               <li><a href="http://www.domain.com.au/?mode=buy" onclick="trackOmnitureClick(this,'smh:rainbowstrip:box1:campaign2:bullet1:08-12:rent1:buyrealestate');">Buy real estate</a></li>
+                               <li><a href="http://www.domain.com.au/Public/ContentDisplay.aspx?contentid=home_alerts" onclick="trackOmnitureClick(this,'smh:rainbowstrip:box1:campaign2:bullet2:17-12:rent1:dontmissthelatestlistings');">Don't miss the latest listings</a></li>
+                               <li><a href="http://news.domain.com.au/domain/blogs/talking-property/know-thy-neighbour/20101123-184nr.html" onclick="trackOmnitureClick(this,'smh:rainbowstrip:box1:campaign2:bullet3:17-12:rent1:knowthyneighbour');">Know thy neighbour</a></li>
+                      </ul>
+                  </div>
+                  <div class="s2 cMycareer">
+                      <h2><a title="Jobs" onclick="trackOmnitureClick(this,'smh:rainbowstrip:box2:campaign2:label:19-11_searchfinance');" href="http://www.mycareer.com.au">Jobs</a></h2>
+                                <div class="puff">
+                                        <a href="http://content.mycareer.com.au/salary-centre/" rel="nofollow" onclick="trackOmnitureClick(this,'smh:rainbowstrip:content1:17-12:19-11_searchfinance');" ><img src="http://images.smh.com.au/2010/12/17/2099622/19-11_SearchFinance-172x115.jpg" width="172" alt="Find out what you're worth"/></a>
+
+                                    <h5><a href="http://content.mycareer.com.au/salary-centre/" rel="nofollow" onclick="trackOmnitureClick(this,'smh:rainbowstrip:box2:campaign2:content2:17-12:19-11_searchfinance:findoutwhatyoureworth');" title="findoutwhatyoureworth">Find out what you're worth</a></h5>
+                                </div>
+                                <ul>
+                                    <li class="lMycareer"><a href="http://www.mycareer.com.au" onclick="trackOmnitureClick(this,'smh:rainbowstrip:box2:campaign2:logo:17-12:19-11_searchfinance');">Mycareer.com.au</a></li>
+                               <li><a href="http://content.mycareer.com.au/advice-research/workplace/are-you-bored-of-your-job.aspx" onclick="trackOmnitureClick(this,'smh:rainbowstrip:box2:campaign2:bullet1:17-12:19-11_searchfinance:areyouboredwithyourjob?');">Are you bored with your job?</a></li>
+                               <li><a href="http://content.mycareer.com.au/iphone.aspx" onclick="trackOmnitureClick(this,'smh:rainbowstrip:box2:campaign2:bullet2:17-12:19-11_searchfinance:searchforjobsonyouriphone');">Search for jobs on your iPhone</a></li>
+                               <li><a href="http://www.facebook.com/pages/MyCareercomau/105272595403?ref=ts" onclick="trackOmnitureClick(this,'smh:rainbowstrip:box2:campaign2:bullet3:17-12:19-11_searchfinance:followmycareeronfacebook');">Follow MyCareer on Facebook</a></li>
+                      </ul>
+                  </div>
+                  <div class="s3 cEssentialBaby">
+                      <h2><a title="Essential Baby" onclick="trackOmnitureClick(this,'smh:rainbowstrip:box3:campaign1:label:spoilt_172x115');" href="http://www.essentialbaby.com.au">Essential Baby</a></h2>
+                                <div class="puff">
+                                        <a href="http://www.essentialbaby.com.au/kids/kids-education-and-play/kids-hates-books-for-christmas-parents-put-video-on-youtube-20101223-196n9.html" rel="nofollow" onclick="trackOmnitureClick(this,'smh:rainbowstrip:content1:23-12:spoilt_172x115');" ><img src="http://images.smh.com.au/2010/12/23/2108143/spoilt_172x115-172x115.jpg" width="172" alt="Spoilt child"/></a>
+
+                                    <h5><a href="http://www.essentialbaby.com.au/kids/kids-education-and-play/kids-hates-books-for-christmas-parents-put-video-on-youtube-20101223-196n9.html" rel="nofollow" onclick="trackOmnitureClick(this,'smh:rainbowstrip:box3:campaign1:content2:23-12:spoilt_172x115:childsgifttantrumayoutubehit');" title="childsgifttantrumayoutubehit">Child's gift tantrum a YouTube hit</a></h5>
+                                </div>
+                                <ul>
+                                    <li class="lEssentialBaby"><a href="http://www.essentialbaby.com.au" onclick="trackOmnitureClick(this,'smh:rainbowstrip:box3:campaign1:logo:23-12:spoilt_172x115');">Essentialbaby.com.au</a></li>
+                               <li><a href="http://www.essentialbaby.com.au/conception/ovulation-calculator" onclick="trackOmnitureClick(this,'smh:rainbowstrip:box3:campaign1:bullet1:29-09:spoilt_172x115:ovulationcalculator');">Ovulation calculator</a></li>
+                               <li><a href="http://www.essentialbaby.com.au/pregnancy/baby-names" onclick="trackOmnitureClick(this,'smh:rainbowstrip:box3:campaign1:bullet2:14-09:spoilt_172x115:babynames');">Baby names</a></li>
+                               <li><a href="http://www.essentialbaby.com.au" onclick="trackOmnitureClick(this,'smh:rainbowstrip:box3:campaign1:bullet3:14-09:spoilt_172x115:parentingessentials');">Parenting essentials</a></li>
+                      </ul>
+                  </div>
+                  <div class="s4 cStayz">
+                      <h2><a title="Holidays" onclick="trackOmnitureClick(this,'smh:rainbowstrip:box4:campaign1:label:rb_couplebeachwalk');" href="http://www.stayz.com.au">Holidays</a></h2>
+                                <div class="puff">
+                                        <a href="http://www.stayz.com.au/romantic-honeymoon-accommodation/nsw" rel="nofollow" onclick="trackOmnitureClick(this,'smh:rainbowstrip:content1:16-12:rb_couplebeachwalk');" ><img src="http://images.smh.com.au/2010/05/27/1516155/RB_CoupleBeachWalk-172x115.jpg" width="172" alt="Find accommodation on Stayz"/></a>
+
+                                    <h5><a href="http://www.stayz.com.au/romantic-honeymoon-accommodation/nsw" rel="nofollow" onclick="trackOmnitureClick(this,'smh:rainbowstrip:box4:campaign1:content2:16-12:rb_couplebeachwalk:justfortwo-findtheperfectromanticescape');" title="justfortwo-findtheperfectromanticescape">Just for two - find the perfect romantic escape</a></h5>
+                                </div>
+                                <ul>
+                                    <li class="lStayz"><a href="http://www.stayz.com.au" onclick="trackOmnitureClick(this,'smh:rainbowstrip:box4:campaign1:logo:16-12:rb_couplebeachwalk');">Stayz.com.au</a></li>
+                               <li><a href="http://www.stayz.com.au/accommodation/nsw/north-coast/smiths-lake" onclick="trackOmnitureClick(this,'smh:rainbowstrip:box4:campaign1:bullet1:13-12:rb_couplebeachwalk:smithslakeholidays');">Smiths Lake holidays</a></li>
+                               <li><a href="http://www.stayz.com.au/lastminute-thisweek" onclick="trackOmnitureClick(this,'smh:rainbowstrip:box4:campaign1:bullet2:30-11:rb_couplebeachwalk:lastminutedeals');">Last minute deals</a></li>
+                               <li><a href="http://www.stayz.com.au/romantic-honeymoon-accommodation/nsw" onclick="trackOmnitureClick(this,'smh:rainbowstrip:box4:campaign1:bullet3:13-12:rb_couplebeachwalk:romanticescapes');">Romantic escapes</a></li>
+                      </ul>
+                  </div>
+                  <div class="s5 cInvestSmart">
+                      <h2><a title="Managed Funds" onclick="trackOmnitureClick(this,'smh:rainbowstrip:box5:campaign2:label:ny_celebrations172');" href="http://www.investsmart.com.au">Managed Funds</a></h2>
+                                <div class="puff">
+                                        <a href="http://www.investsmart.com.au/promo/default.asp?PageID=106&s_rid=edm:newyears5050" rel="nofollow" onclick="trackOmnitureClick(this,'smh:rainbowstrip:content1:15-12:ny_celebrations172');" ><img src="http://images.smh.com.au/2010/12/15/2096134/NY_celebrations172-172x115.gif" width="172" alt="InvestSMART top ten new year's resolutions"/></a>
+
+                                    <h5><a href="http://www.investsmart.com.au/promo/default.asp?PageID=106&s_rid=edm:newyears5050" rel="nofollow" onclick="trackOmnitureClick(this,'smh:rainbowstrip:box5:campaign2:content2:15-12:ny_celebrations172:toptennewyearsresolutions.startyours!');" title="toptennewyearsresolutions.startyours!">Top Ten New Year's Resolutions. Start Yours!</a></h5>
+                                </div>
+                                <ul>
+                                    <li class="lInvestSmart"><a href="http://www.investsmart.com.au" onclick="trackOmnitureClick(this,'smh:rainbowstrip:box5:campaign2:logo:15-12:ny_celebrations172');">Investsmart.com.au</a></li>
+                               <li><a href="http://cash.investsmart.com.au/savings-accounts?s_rid=rainbowstrip:savings" onclick="trackOmnitureClick(this,'smh:rainbowstrip:box5:campaign2:bullet1:03-11:ny_celebrations172:6%+onsavingsaccounts!');">6% + On Savings Accounts!</a></li>
+                               <li><a href="http://www.investsmart.com.au/managed-funds/top-managed-funds.asp?s_rid=rainbowstrip:bestperforming" onclick="trackOmnitureClick(this,'smh:rainbowstrip:box5:campaign2:bullet2:03-11:ny_celebrations172:bestperforminginvestments');">Best Performing Investments</a></li>
+                               <li><a href="http://www.investsmart.com.au/share_trading/one_off_sale.asp?s_rid=rainbowstrip" onclick="trackOmnitureClick(this,'smh:rainbowstrip:box5:campaign2:bullet3:22-04:ny_celebrations172:one-offsharesales');">One-off Share Sales</a></li>
+                      </ul>
+                  </div>
+
+</div>
+
+
+    <div class="fN-affiliateStrip">
+    <h2>Compare and Save</h2>
+    <ul>
+        <li ><a href="http://Broadband.smh.com.au/Broadband" onclick="trackOmnitureClick(this, 'smh:affiliatestrip:link')">Broadband</a></li>
+        <li ><a href="http://smh.goswitch.com.au" onclick="trackOmnitureClick(this, 'smh:affiliatestrip:link')">Energy</a></li>
+        <li ><a href="http://mobile-phones.smh.com.au/MobilePhones" onclick="trackOmnitureClick(this, 'smh:affiliatestrip:link')">Mobile</a></li>
+        <li ><a href="http://compare.smh.com.au/home-loans" onclick="trackOmnitureClick(this, 'smh:affiliatestrip:link')">Home Loans</a></li>
+        <li class="last"><a href="http://compare.smh.com.au/credit-cards" onclick="trackOmnitureClick(this, 'smh:affiliatestrip:link')">Savings Accounts</a></li>
+</ul>
+
+    <span></span>
+        <div class="one">
+            <h3><a href="http://compare.smh.com.au/savings-accounts" onclick="trackOmnitureClick(this, 'smh:affiliatestrip:content0')">Santa's Savings</a></h3>
+                <a href="http://compare.smh.com.au/savings-accounts" rel="nofollow" onclick="trackOmnitureClick(this,'smh:affiliatestrip:content0:santa-hat--ncs-');" ><img src="http://images.smh.com.au/2010/12/21/2104244/Santa-hat--NCS--60x50.gif" width="60" alt="Santa-hat--NCS-"/></a>
+
+            <p><a href="http://compare.smh.com.au/savings-accounts" onclick="trackOmnitureClick(this, 'smh:affiliatestrip:content0')">Will Santa bring you 6.25 percent?, Or...</a></p>
+            <span></span>
+            <p class="links"><a href="http://compare.smh.com.au/savings-accounts" onclick="trackOmnitureClick(this, 'smh:affiliatestrip:content0')">Compare Saving Accounts</a></p>
+    </div>
+    <div class="two">
+            <h3><a href="http://compare.smh.com.au/credit-cards" onclick="trackOmnitureClick(this, 'smh:affiliatestrip:content1')">Christmas Credit</a></h3>
+                <a href="http://compare.smh.com.au/credit-cards" rel="nofollow" onclick="trackOmnitureClick(this,'smh:affiliatestrip:content1:christmas-present--ncs-');" ><img src="http://images.smh.com.au/2010/12/21/2104242/Christmas-Present--NCS--60x50.gif" width="60" alt="Christmas-Present--NCS-"/></a>
+
+            <p><a href="http://compare.smh.com.au/credit-cards" onclick="trackOmnitureClick(this, 'smh:affiliatestrip:content1')">Zero fees this Christmas?</a></p>
+            <span></span>
+            <p class="links"><a href="http://compare.smh.com.au/credit-cards" onclick="trackOmnitureClick(this, 'smh:affiliatestrip:content1')">Compare all Credit Cards</a></p>
+    </div>
+    <div class="three">
+            <h3><a href="http://ad.doubleclick.net/clk;233977931;55066834;u?http://spreets_au.go2jump.org/aff_c?offer_id=1&aff_id=1001&url_id=1" onclick="trackOmnitureClick(this, 'smh:affiliatestrip:content2')">72% Off Massage & Foot Spa</a></h3>
+                <a href="http://ad.doubleclick.net/clk;233977931;55066834;u?http://spreets_au.go2jump.org/aff_c?offer_id=1&aff_id=1001&url_id=1" rel="nofollow" onclick="trackOmnitureClick(this,'smh:affiliatestrip:content2:sydney-fd-101225');" ><img src="http://images.smh.com.au/2010/12/24/2108728/Sydney-FD-101225-60x50.jpg" width="60" alt="Sydney-FD-101225"/></a>
+
+            <p><a href="http://ad.doubleclick.net/clk;233977931;55066834;u?http://spreets_au.go2jump.org/aff_c?offer_id=1&aff_id=1001&url_id=1" onclick="trackOmnitureClick(this, 'smh:affiliatestrip:content2')">45 min Thai Massage & Foot Spa - $39 for $140 Value</a></p>
+            <span></span>
+            <p class="links"><a href="http://ad.doubleclick.net/clk;233977931;55066834;u?http://spreets_au.go2jump.org/aff_c?offer_id=1&aff_id=1001&url_id=1" onclick="trackOmnitureClick(this, 'smh:affiliatestrip:content2')">See Today's Deal</a></p>
+    </div>
+    <div class="four">
+            <h3><a href="http://Broadband.smh.com.au/Broadband" onclick="trackOmnitureClick(this, 'smh:affiliatestrip:content3')">Slow Downloads? Upgrade</a></h3>
+                <a href="http://Broadband.smh.com.au/Broadband" rel="nofollow" onclick="trackOmnitureClick(this,'smh:affiliatestrip:content3:bband_60x50_slowtimer');" ><img src="http://images.smh.com.au/2010/12/17/2099681/bband_60x50_slowtimer-60x50.gif" width="60" alt="bband_60x50_slowtimer"/></a>
+
+            <p><a href="http://Broadband.smh.com.au/Broadband" onclick="trackOmnitureClick(this, 'smh:affiliatestrip:content3')">Upgrade your Broadband with one phone call</a></p>
+            <span></span>
+            <p class="links"><a href="http://broadband.smh.com.au/Broadband" onclick="trackOmnitureClick(this, 'smh:affiliatestrip:content3')">Compare Broadband Plans</a></p>
+    </div>
+    <div class="five">
+            <h3><a href="http://mobile-phones.smh.com.au/MobilePhones" onclick="trackOmnitureClick(this, 'smh:affiliatestrip:content4')">Android Phones & Deals</a></h3>
+                <a href="http://mobile-phones.smh.com.au/MobilePhones" rel="nofollow" onclick="trackOmnitureClick(this,'smh:affiliatestrip:content4:mobile_60x50_androidgift');" ><img src="http://images.smh.com.au/2010/12/17/2099680/mobile_60x50_androidgift-60x50.gif" width="60" alt="mobile_60x50_androidgift"/></a>
+
+            <p><a href="http://mobile-phones.smh.com.au/MobilePhones" onclick="trackOmnitureClick(this, 'smh:affiliatestrip:content4')">19 Android Phones - Hundreds of deals</a></p>
+            <span></span>
+            <p class="links"><a href="http://mobile-phones.smh.com.au/MobilePhones" onclick="trackOmnitureClick(this, 'smh:affiliatestrip:content4')">Compare Mobile Phones</a></p>
+    </div>
+
+</div>
+
+            
+<!-- Reader's most viewed -->
+<div class="c5 top5 cfix">
+    <h2 class="cfix">Readers' most viewed</h2>
+
+            <div class="s1 lBT">
+                <a href="http://www.brisbanetimes.com.au">Most viewed articles on Brisbane Times</a>
+                <h5>Top 5 <a href="http://www.brisbanetimes.com.au/breaking-news-national">Breaking News National</a> articles</h5>
+    <ol>
+            <li><a href="http://news.brisbanetimes.com.au/breaking-news-national/body-discovered-behind-childcare-centre-20101226-197tc.html" title="Body discovered behind childcare centre" style="">Body discovered behind childcare centre</a></li>
+            <li><a href="http://news.brisbanetimes.com.au/breaking-news-national/man-dies-after-fourcar-pileup-20101226-197r8.html" title="Man dies after four-car pile-up" style="">Man dies after four-car pile-up</a></li>
+            <li><a href="http://news.brisbanetimes.com.au/breaking-news-national/more-rain-but-second-qld-cyclone-unlikely-20101226-197t7.html" title="More rain, but second Qld cyclone unlikely" style="">More rain, but second Qld cyclone unlikely</a></li>
+            <li><a href="http://news.brisbanetimes.com.au/breaking-news-national/fears-for-missing-boat-groundless-20101226-197mr.html" title="Fears for missing boat groundless" style="">Fears for missing boat groundless</a></li>
+            <li><a href="http://news.brisbanetimes.com.au/breaking-news-national/australians-splurge-at-boxing-day-sales-20101226-197rj.html" title="Australians splurge at Boxing Day sales" style="">Australians splurge at Boxing Day sales</a></li>
+    </ol>
+
+            </div>
+            <div class="s2 lWAToday">
+                <a href="http://www.watoday.com.au">Most viewed articles on WA Today</a>
+                <h5>Top 5 <a href="http://www.watoday.com.au/breaking-news-national">Breaking News National</a> articles</h5>
+    <ol>
+            <li><a href="http://www.watoday.com.au/breaking-news-national/body-discovered-behind-childcare-centre-20101226-197tc.html" title="Body discovered behind childcare centre" style="">Body discovered behind childcare centre</a></li>
+            <li><a href="http://www.watoday.com.au/breaking-news-national/man-dies-after-fourcar-pileup-20101226-197r8.html" title="Man dies after four-car pile-up" style="">Man dies after four-car pile-up</a></li>
+            <li><a href="http://www.watoday.com.au/breaking-news-national/men-to-outspend-women-in-sales-20101226-197ob.html" title="Men to outspend women in sales" style="">Men to outspend women in sales</a></li>
+            <li><a href="http://www.watoday.com.au/breaking-news-national/national-road-toll-reaches-30-20101226-197tf.html" title="National road toll reaches 30" style="">National road toll reaches 30</a></li>
+            <li><a href="http://www.watoday.com.au/breaking-news-national/fears-for-missing-boat-groundless-20101226-197mr.html" title="Fears for missing boat groundless" style="">Fears for missing boat groundless</a></li>
+    </ol>
+
+            </div>
+            <div class="s3 lAge">
+                <a href="http://www.theage.com.au">Most viewed articles on The Age</a>
+                <h5>Top 5 <a href="http://www.theage.com.au/breaking-news-national">Breaking News National</a> articles</h5>
+    <ol>
+            <li><a href="http://news.theage.com.au/breaking-news-national/australians-splurge-at-boxing-day-sales-20101226-197rj.html" title="Australians splurge at Boxing Day sales" style="">Australians splurge at Boxing Day sales</a></li>
+            <li><a href="http://news.theage.com.au/breaking-news-national/man-dies-after-fourcar-pileup-20101226-197r8.html" title="Man dies after four-car pile-up" style="">Man dies after four-car pile-up</a></li>
+            <li><a href="http://news.theage.com.au/breaking-news-national/body-discovered-behind-childcare-centre-20101226-197tc.html" title="Body discovered behind childcare centre" style="">Body discovered behind childcare centre</a></li>
+            <li><a href="http://news.theage.com.au/breaking-news-national/fears-for-missing-boat-groundless-20101226-197mr.html" title="Fears for missing boat groundless" style="">Fears for missing boat groundless</a></li>
+            <li><a href="http://news.theage.com.au/breaking-news-national/men-to-outspend-women-in-sales-20101226-197ob.html" title="Men to outspend women in sales" style="">Men to outspend women in sales</a></li>
+    </ol>
+
+            </div>
+            <div class="s4 lSmh">
+                <a href="http://www.smh.com.au">Most viewed articles on The Sydney Morning Herald</a>
+                <h5>Top 5 <a href="http://www.smh.com.au/breaking-news-national">Breaking News National</a> articles</h5>
+    <ol>
+            <li><a href="http://news.smh.com.au/breaking-news-national/body-discovered-behind-childcare-centre-20101226-197tc.html" title="Body discovered behind childcare centre" style="">Body discovered behind childcare centre</a></li>
+            <li><a href="http://news.smh.com.au/breaking-news-national/more-rain-but-second-qld-cyclone-unlikely-20101226-197t7.html" title="More rain, but second Qld cyclone unlikely" style="">More rain, but second Qld cyclone unlikely</a></li>
+            <li><a href="http://news.smh.com.au/breaking-news-national/fears-for-missing-boat-groundless-20101226-197mr.html" title="Fears for missing boat groundless" style="">Fears for missing boat groundless</a></li>
+            <li><a href="http://news.smh.com.au/breaking-news-national/three-teenagers-hurt-in-sydney-car-crash-20101226-197qe.html" title="Three teenagers hurt in Sydney car crash" style="">Three teenagers hurt in Sydney car crash</a></li>
+            <li><a href="http://news.smh.com.au/breaking-news-national/australians-splurge-at-boxing-day-sales-20101226-197rj.html" title="Australians splurge at Boxing Day sales" style="">Australians splurge at Boxing Day sales</a></li>
+    </ol>
+
+            </div>
+            <div class="s5">
+                <h5>Videos</h5>
+    <ol>
+            <li><a href="http://media.smh.com.au/deadly-suicide-blast-in-pakistan-2109460.html" title="Deadly suicide blast in Pakistan" style="">Deadly suicide blast in Pakistan</a></li>
+            <li><a href="http://media.smh.com.au/national/selections/royal-family-christmas-service-2109464.html" title="Royal family Christmas service" style="">Royal family Christmas service</a></li>
+            <li><a href="http://media.smh.com.au/sport/sports-hq/boxing-day-test-woes-for-australia-2109983.html" title="Boxing Day Test woes for Australia" style="">Boxing Day Test woes for Australia</a></li>
+            <li><a href="http://media.smh.com.au/national/selections/ponting-right-to-play-2109048.html" title="Ponting right to play" style="">Ponting right to play</a></li>
+            <li><a href="http://media.smh.com.au/national/selections/disgruntled-pilot-posts-security-videos-2109456.html" title="Disgruntled pilot posts security videos" style="">Disgruntled pilot posts security videos</a></li>
+    </ol>
+
+            </div>
+</div>
+   
+
+        <div id="adspot-728x90,468x60-pos-2" class="ad">
+    <script>
+        document.dcdAdsH.push("adspot-728x90,468x60-pos-2");
+        document.dcdAdsI.push("dcAd-15");
+        document.dcdAdsU.push('http://ad-apac.doubleclick.net/adj/onl.smh.news/news/breakingnewsnational;cat1=national;ctype=article;cat=breakingnewsnational;pos=2;' + document.dcAdsCParams +'sz=728x90,468x60;tile=15;ord=' + dcOrd + '?');
+    </script>
+    <noscript>
+        <a href='http://ad-apac.doubleclick.net/jump/onl.smh.news/news/breakingnewsnational;cat1=national;ctype=article;cat=breakingnewsnational;pos=2;sz=728x90,468x60;tile=15;ord=6.4551271E7?' target="_blank">
+            <img src='http://ad-apac.doubleclick.net/ad/onl.smh.news/news/breakingnewsnational;cat1=national;ctype=article;cat=breakingnewsnational;pos=2;sz=728x90,468x60;tile=15;ord=6.4551271E7?' border="0" alt="">
+        </a>
+    </noscript>
+</div>
+    <!-- Footer section links -->
+    <ul class="fSectionLinks cfix">
+            <li ><a href="http://www.smh.com.au/" title="SMH Home">SMH Home</a></li>
+            <li ><a href="http://www.smh.com.au/nsw" title="NSW">NSW</a></li>
+            <li ><a href="http://www.smh.com.au/national" title="National">National</a></li>
+            <li ><a href="http://www.smh.com.au/world" title="World">World</a></li>
+            <li ><a href="http://www.smh.com.au/environment" title="Environment">Environment</a></li>
+            <li ><a href="http://www.smh.com.au/opinion" title="Opinion">Opinion</a></li>
+            <li ><a href="http://www.smh.com.au/business" title="Business">Business</a></li>
+            <li ><a href="http://www.smh.com.au/technology" title="Technology">Technology</a></li>
+            <li ><a href="http://www.smh.com.au/digital-life" title="Digital Life">Digital Life</a></li>
+            <li ><a href="http://www.smh.com.au/entertainment/" title="Entertainment">Entertainment</a></li>
+            <li ><a href="http://www.smh.com.au/lifestyle" title="Life &amp; Style">Life &amp; Style</a></li>
+            <li ><a href="http://www.smh.com.au/travel" title="Travel">Travel</a></li>
+            <li ><a href="http://www.smh.com.au/drive" title="Cars">Cars</a></li>
+            <li ><a href="http://www.smh.com.au/executive-style" title="Exec Style">Exec Style</a></li>
+            <li ><a href="http://www.smh.com.au/sport" title="Sport">Sport</a></li>
+            <li class="last"><a href="http://weather.smh.com.au/local.jsp" title="Weather">Weather</a></li>
+    </ul>
+
+    <!-- Footer masthead links and copyright -->
+<div class="fMastheadLinks cfix">
+        <ul class="span-4 cfix">
+        <li class="first"><h5>Sydney Morning Herald</h5></li>
+            <li><a href="http://www.smh.com.au/siteguide/" title="Sitemap">Sitemap</a></li>
+            <li><a href="http://www.smh.com.au/aboutsmh/index.html" title="About Us">About Us</a></li>
+            <li><a href="http://www.smh.com.au/support/" title="Contact Us">Contact Us</a></li>
+            <li><a href="http://www.fairfax.com.au/privacy" title="Privacy">Privacy</a></li>
+            <li><a href="http://www.fairfax.com.au/conditions" title="Conditions">Conditions</a></li>
+            <li><a href="http://www.adcentre.com.au/fairfax-digital-network.aspx" title="Advertise with Us">Advertise with Us</a></li>
+            <li><a href="http://www.fairfaxphotos.com" title="Photo Sales">Photo Sales</a></li>
+            <li><a href="http://www.goodguides.com.au/" title="Good Food Guide">Good Food Guide</a></li>
+    </ul>
+
+        <ul class="span-4 cfix">
+        <li class="first"><h5>Products & Services</h5></li>
+            <li><a href="http://www.smh.com.au/am/" title="AM Today">AM Today</a></li>
+            <li><a href="http://www.smh.com.au/newsstore/index.html" title="Last 8 days">Last 8 days</a></li>
+            <li><a class="vision" href="#" title="High Contrast">High Contrast</a></li>
+            <li><a href="http://www.smh.com.au/text/" title="Text">Text</a></li>
+            <li><a href="http://subscriptions.fairfax.com.au/smhlanding/" title="Newspaper subscription">Newspaper subscription</a></li>
+            <li><a href="http://www.smhshop.com.au/" title="Shop">Shop</a></li>
+            <li><a href="http://www.fairfaxevents.com.au/" title="Events">Events</a></li>
+            <li><a href="http://www.advantate.com.au" title="SEO">SEO</a></li>
+    </ul>
+
+        <ul class="span-4 cfix">
+        <li class="first"><h5>Connect</h5></li>
+            <li><a href="http://mobile.fairfax.com.au/smh" title="Mobile">Mobile</a></li>
+            <li><a href="https://membercentre.fairfax.com.au/NewsletterSubscription.aspx" title="Newsletters">Newsletters</a></li>
+            <li><a href="http://www.smh.com.au/rssheadlines" title="RSS">RSS</a></li>
+            <li><a href="http://twitter.com/smh_news" title="Twitter">Twitter</a></li>
+            <li><a href="http://www.facebook.com/sydneymorningherald" title="Facebook">Facebook</a></li>
+            <li><a href="http://www.smartedition.smh.com.au/" title="SmartEdition">SmartEdition</a></li>
+    </ul>
+
+        <ul class="span-4 cfix">
+        <li class="first"><h5>Classifieds</h5></li>
+            <li><a href="http://www.stayz.com.au/" title="Accommodation">Accommodation</a></li>
+            <li><a href="http://www.drive.com.au/" title="Cars">Cars</a></li>
+            <li><a href="http://www.rsvp.com.au/" title="Dating">Dating</a></li>
+            <li><a href="http://mycareer.com.au/" title="Jobs">Jobs</a></li>
+            <li><a href="http://www.domain.com.au/" title="Real Estate">Real Estate</a></li>
+            <li><a href="http://apm.com.au/" title="Property Price Data">Property Price Data</a></li>
+            <li><a href="http://tributes.smh.com.au/" title="Tributes & Celebrations">Tributes & Celebrations</a></li>
+            <li><a href="http://classifieds.fairfax.com.au/advertise/index.html" title="Place an ad">Place an ad</a></li>
+            <li><a href="http://www.smhfeatures.com.au" title="Special Reports">Special Reports</a></li>
+    </ul>
+
+</div>
+<!-- This comment fixes IE6's logo problem. Might be temporary until we've got content below this point -->
+    <div class="nN-footerLinks">
+	<a href="http://www.fairfaxdigital.com.au" class="logo">Fairfax Media</a>
+	<div>
+        
+<h3>Our Sites</h3>
+    <ul>
+            <li class="first">
+                <a title="The Sydney Morning Herald" href="http://www.smh.com.au/">The Sydney Morning Herald</a>
+            </li>
+            <li>
+                <a title="The Age" href="http://www.theage.com.au/">The Age</a>
+            </li>
+            <li>
+                <a title="MyCareer" href="http://mycareer.com.au/">MyCareer</a>
+            </li>
+            <li>
+                <a title="Domain" href="http://www.domain.com.au/">Domain</a>
+            </li>
+            <li>
+                <a title="Drive" href="http://www.drive.com.au/">Drive</a>
+            </li>
+            <li>
+                <a title="RSVP" href="http://www.rsvp.com.au/">RSVP</a>
+            </li>
+            <li>
+                <a title="Essential Baby" href="http://www.essentialbaby.com.au/">Essential Baby</a>
+            </li>
+            <li>
+                <a title="InvestSMART" href="http://www.investsmart.com.au/">InvestSMART</a>
+            </li>
+            <li>
+                <a title="APM" href="http://apm.com.au/">APM</a>
+            </li>
+            <li>
+                <a title="Stayz" href="http://www.stayz.com.au/">Stayz</a>
+            </li>
+            <li>
+                <a title="Weatherzone" href="http://www.weatherzone.com.au/">Weatherzone</a>
+            </li>
+            <li>
+                <a title="The Vine" href="http://www.thevine.com.au/">The Vine</a>
+            </li>
+    </ul>
+
+        
+<h3>Our Partners</h3>
+    <ul>
+            <li class="first">
+                <a title="Business" href="http://www.business.com.au/">Business</a>
+            </li>
+            <li>
+                <a title="Canberra" href="http://www.canberra.com.au/">Canberra</a>
+            </li>
+            <li>
+                <a title="Computer Repairs" href="http://www.computerrepairs.com.au/">Computer Repairs</a>
+            </li>
+            <li>
+                <a title="Darwin" href="http://www.darwin.com.au/">Darwin</a>
+            </li>
+            <li>
+                <a title="Finance Broker" href="http://www.financebroker.com.au/">Finance Broker</a>
+            </li>
+            <li>
+                <a title="Lawyers" href="http://www.lawyers.com.au/">Lawyers</a>
+            </li>
+            <li>
+                <a title="Mobiles" href="http://www.mobiles.com.au/">Mobiles</a>
+            </li>
+            <li>
+                <a title="Perth" href="http://www.perth.com.au/">Perth</a>
+            </li>
+            <li>
+                <a title="Stock Brokers" href="http://www.stockbrokers.com.au/">Stock Brokers</a>
+            </li>
+            <li>
+                <a title="Tax Refunds" href="http://www.taxrefunds.com.au/">Tax Refunds</a>
+            </li>
+            <li>
+                <a title="Weddings" href="http://www.wedding.com.au/">Weddings</a>
+            </li>
+    </ul>
+
+    </div>
+    <cite>Copyright &copy; 2010 Fairfax Media</cite>
+</div>
+    <script type="text/javascript">
+    var _rsCI="qt0303-fairfax";
+</script>
+
+</div>
+<!-- End fN-footerNetwork -->
+            <div><!-- Empty div fixes IE6 --></div>
+<div class="cN-flyIn" data-assetId="1720700">
+    <div class="flyInContent">
+        <a href="#" class="flyInClose">Close</a>
+                <div class="cN-storyHeadlineLead cfix hidden" data-assetId="2109648">
+            <h4>Also in Breaking News National:</h4>
+            <h3><a href="http://news.smh.com.au/breaking-news-national/body-discovered-behind-childcare-centre-20101226-197tc.html" onclick="s.linkTrackVars='prop10';s.prop10='also_in';s.tl(this,'o','Media Div Click')">Body discovered behind childcare centre</a></h3>
+            <p>The body of a woman was found behind a childcare centre in Geraldton, with the family of a missing mother of four informed about the discovery.</p>
+        </div><!-- class:cN-storyHeadlineLead cfix hidden -->
+        <div class="cN-storyHeadlineLead cfix hidden" data-assetId="2109977">
+            <h4>Also in Breaking News National:</h4>
+            <h3><a href="http://news.smh.com.au/breaking-news-national/flood-evacuations-in-central-west-nsw-20101227-1982h.html" onclick="s.linkTrackVars='prop10';s.prop10='also_in';s.tl(this,'o','Media Div Click')">Flood evacuations in central west NSW</a></h3>
+            <p>Flooding in central western NSW has forced the evacuation of two dozen properties, and flood warnings are in place for the northeast region.</p>
+        </div><!-- class:cN-storyHeadlineLead cfix hidden -->
+        <div class="cN-storyHeadlineLead cfix hidden" data-assetId="2109643">
+            <h4>Also in Breaking News National:</h4>
+            <h3><a href="http://news.smh.com.au/breaking-news-national/more-rain-but-second-qld-cyclone-unlikely-20101226-197t7.html" onclick="s.linkTrackVars='prop10';s.prop10='also_in';s.tl(this,'o','Media Div Click')">More rain, but second Qld cyclone unlikely</a></h3>
+            <p>There is no short-term relief in sight for rain-soaked Queensland, with downpours predicted for a further week, although a second cyclone is unlikely.</p>
+        </div><!-- class:cN-storyHeadlineLead cfix hidden -->
+        <div class="cN-storyHeadlineLead cfix hidden" data-assetId="2109651">
+            <h4>Also in Breaking News National:</h4>
+            <h3><a href="http://news.smh.com.au/breaking-news-national/national-road-toll-reaches-30-20101226-197tf.html" onclick="s.linkTrackVars='prop10';s.prop10='also_in';s.tl(this,'o','Media Div Click')">National road toll reaches 30</a></h3>
+            <p>The national road toll has climbed to 30, one day after Christmas, with the latest deaths recorded in Queensland and Victoria.</p>
+        </div><!-- class:cN-storyHeadlineLead cfix hidden -->
+        <div class="cN-storyHeadlineLead cfix hidden" data-assetId="2109542">
+            <h4>Also in Breaking News National:</h4>
+            <h3><a href="http://news.smh.com.au/breaking-news-national/three-teenagers-hurt-in-sydney-car-crash-20101226-197qe.html" onclick="s.linkTrackVars='prop10';s.prop10='also_in';s.tl(this,'o','Media Div Click')">Three teenagers hurt in Sydney car crash</a></h3>
+            <p>Three teenagers have been taken to hospital after their car hit a gutter and a power pole then rolled over in Sydney's southwest.</p>
+        </div><!-- class:cN-storyHeadlineLead cfix hidden -->
+        <div class="cN-storyHeadlineLead cfix hidden" data-assetId="2109956">
+            <h4>Also in Breaking News National:</h4>
+            <h3><a href="http://news.smh.com.au/breaking-news-national/family-escapes-house-fire-20101227-1981w.html" onclick="s.linkTrackVars='prop10';s.prop10='also_in';s.tl(this,'o','Media Div Click')">Family escapes house fire</a></h3>
+            <p>A young family had a lucky escape when their Melbourne house was damaged by fire early on Monday.</p>
+        </div><!-- class:cN-storyHeadlineLead cfix hidden -->
+        <div class="cN-storyHeadlineLead cfix hidden" data-assetId="2110029">
+            <h4>Also in Breaking News National:</h4>
+            <h3><a href="http://news.smh.com.au/breaking-news-national/qld-towns-braced-for-flooding-20101227-1983x.html" onclick="s.linkTrackVars='prop10';s.prop10='also_in';s.tl(this,'o','Media Div Click')">Qld towns braced for flooding</a></h3>
+            <p>Inland communities are braced for flooding as heavy rain continues to fall across north, central and southeast Queensland.</p>
+        </div><!-- class:cN-storyHeadlineLead cfix hidden -->
+        <div class="cN-storyHeadlineLead cfix hidden" data-assetId="2109583">
+            <h4>Also in Breaking News National:</h4>
+            <h3><a href="http://news.smh.com.au/breaking-news-national/australians-splurge-at-boxing-day-sales-20101226-197rj.html" onclick="s.linkTrackVars='prop10';s.prop10='also_in';s.tl(this,'o','Media Div Click')">Australians splurge at Boxing Day sales</a></h3>
+            <p>Retailers have welcomed a busy day at the Boxing Day sales, with Gen Y leading the dash to splash the cash on clothes and technology.</p>
+        </div><!-- class:cN-storyHeadlineLead cfix hidden -->
+        <div class="cN-storyHeadlineLead cfix hidden" data-assetId="2109411">
+            <h4>Also in Breaking News National:</h4>
+            <h3><a href="http://news.smh.com.au/breaking-news-national/fears-for-missing-boat-groundless-20101226-197mr.html" onclick="s.linkTrackVars='prop10';s.prop10='also_in';s.tl(this,'o','Media Div Click')">Fears for missing boat groundless</a></h3>
+            <p>Ninety-seven asylum seekers feared to have perished at sea are most likely on Christmas Island, a refugee advocate says.</p>
+        </div><!-- class:cN-storyHeadlineLead cfix hidden -->
+        <div class="cN-storyHeadlineLead cfix hidden" data-assetId="2108837">
+            <h4>Also in Breaking News National:</h4>
+            <h3><a href="http://news.smh.com.au/breaking-news-national/nongm-farm-contaminated-by-gm-canola-20101224-1976t.html" onclick="s.linkTrackVars='prop10';s.prop10='also_in';s.tl(this,'o','Media Div Click')">Non-GM farm contaminated by GM canola</a></h3>
+            <p>An organic cereal farmer in WA may consider suing for compensation after receiving confirmation his crops have been contaminated by GM canola.</p>
+        </div><!-- class:cN-storyHeadlineLead cfix hidden -->
+
+    </div><!-- class:flyInContent -->
+</div><!-- class:cN-flyIn -->
+<div><!-- Empty div fixes IE6 --></div>
+            <div id="adspot-1x1" class="ad">
+            <script type="text/javascript">
+                document.dcdAdsR.push("dcAd-1-16");
+                document.write('<iframe id="dcAd-1-16" src="http://ad-apac.doubleclick.net/adi/onl.smh.news/news/breakingnewsnational;cat1=national;ctype=article;cat=breakingnewsnational;' + document.dcAdsCParams + 'sz=1x1;tile=16;ord=' + dcOrd + '?" width="1" height="1" scrolling="no" marginheight="0" marginwidth="0" allowtransparency="true" frameborder="0"><\/iframe>');
+            </script>
+        <noscript>
+            <iframe id="dcAd-1-16" src="http://ad-apac.doubleclick.net/adi/onl.smh.news/news/breakingnewsnational;cat1=national;ctype=article;cat=breakingnewsnational;sz=1x1;tile=16;ord=6.4551271E7?"
+                    width='1'
+                    height='1'
+                    scrolling="no"
+                    marginheight="0" marginwidth="0" allowtransparency="true" frameborder="0">
+            </iframe>
+        </noscript>
+</div>
+            <div id="adspot-1x11" class="ad">
+    <script>
+        document.dcdAdsH.push("adspot-1x11");
+        document.dcdAdsI.push("dcAd-17");
+        document.dcdAdsU.push('http://ad-apac.doubleclick.net/adj/onl.smh.news/news/breakingnewsnational;cat1=national;ctype=article;cat=breakingnewsnational;' + document.dcAdsCParams +'sz=1x11;tile=17;ord=' + dcOrd + '?');
+    </script>
+    <noscript>
+        <a href='http://ad-apac.doubleclick.net/jump/onl.smh.news/news/breakingnewsnational;cat1=national;ctype=article;cat=breakingnewsnational;sz=1x11;tile=17;ord=6.4551271E7?' target="_blank">
+            <img src='http://ad-apac.doubleclick.net/ad/onl.smh.news/news/breakingnewsnational;cat1=national;ctype=article;cat=breakingnewsnational;sz=1x11;tile=17;ord=6.4551271E7?' border="0" alt="">
+        </a>
+    </noscript>
+</div>
+        </div><!-- class:wrap cfix -->
+                <script type="text/javascript" src="http://resources.smh.com.au/common/media-common-1.0/js/fdjsf/output/fd_min.js"></script>
+
+                <script type="text/javascript" src="http://resources.smh.com.au/common/media-common-1.0/js/fdjsf/output/fd.google_min.js"></script>
+
+                <script type="text/javascript" src="http://resources.smh.com.au/common/media-common-1.0/js/fdjsf/output/fd.registrars_min.js"></script>
+
+                <script type="text/javascript" src="http://resources.smh.com.au/common/media-common-1.0/js/fdjsf/output/fd.videoplayer_min.js"></script>
+
+        <script type="text/javascript">
+    function getGoogleAdChannel(showAboveArticle) {
+        var googleAdChannel = "breaking-news";
+        if (showAboveArticle) {
+            googleAdChannel += " abovearticle";
+        }
+        return googleAdChannel;
+    }
+    function google_ad_request_done(google_ads) {
+        var googleAd = new FD.GoogleAd({
+                adBlockTitle: "Ads by Google",
+                maximumAdsInBlock: 3,
+                checkExternalReferrer: true,
+                split: 1,
+            googleAds: google_ads,
+            googleAdsId: "googleAds",
+            moreGoogleAdsId: "moreGoogleAds"
+        });
+        googleAd.insertGoogleAds();
+    }
+    var google_ad_client = "ca-fairfax-smh_js";
+    var google_ad_channel = "National";
+        if (!FD.isInternalReferrer()) {
+            google_ad_channel = getGoogleAdChannel(true);
+        }
+    var google_ad_output = "js";
+    var google_max_num_ads = "4";
+    var google_ad_type = "text";
+    var google_encoding = "utf8";
+    var google_safe = "high";
+    var google_ad_section = "default";
+</script>
+<!-- The JavaScript returned from the following page uses the parameter values assigned above to populate an array of
+ad objects. Once that array has been populated, the JavaScript will call the google_ad_request_done function to display
+the ads. -->
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script> 
+        <script type="text/javascript">
+    FD.register(function() {
+        
+    });
+</script>
+        <script type="text/javascript">
+    FD.register(function() {
+                (function() {
+        FD.VideoPlayers.push(new FD.VideoPlayer({
+            "adServerUrl": "http://ad-apac.doubleclick.net/pfadx/vid.smh/news/selections;channel=news;show=selections;ctype=rhs;sz=4x1;dcmt=text/html;ord=765914",
+            "assetId": 2109456,
+            "bitRateImageUrl": "http://resources.smh.com.au/common/media-common-1.0/images/media_62k.gif?rand=",
+            "id": "video-player-latest",
+            "mainVideo": {
+    "clips": {
+                "100": "rtmp://mediastream.f2.com.au/ondemand/mp4:flash/media/2010/12/26/71849/71849_2.flv",
+                "28": "rtmp://mediastream.f2.com.au/ondemand/mp4:flash/media/2010/12/26/71849/71849_2.flv",
+                "300": "rtmp://mediastream.f2.com.au/ondemand/mp4:flash/media/2010/12/26/71849/71849_3.flv",
+                "600": "rtmp://mediastream.f2.com.au/ondemand/mp4:flash/media/2010/12/26/71849/71849_4.flv",
+                "iPad": "rtmp://mediastream.f2.com.au/ondemand/mp4:flash/media/2010/12/26/71849/iPad_vod.m3u8",
+                "iPhone": "rtmp://mediastream.f2.com.au/ondemand/mp4:flash/media/2010/12/26/71849/iPhone_vod.m3u8"
+    },
+    "clipDuration": "01:03",
+    "clipId": "2109456",
+    "instreamAdBreaks": [
+    ],
+    "nielsen": {
+    "brand": "smh",
+        "ou1": "news",
+        "ou2": "World",
+    "vc": "vc-smh-News-article_rhs-World_News-World_News-AP_Jude_Cobb-71849-Pilot_critical_of_security-01:03"
+},
+    "omniture": {
+    "account": "f2nsmh",
+    "assetId": "2109456",
+    "channel": "News",
+    "contentType": "video",
+    "context": "article_rhs",
+    "headline": "Disgruntled pilot posts security videos",
+    "masthead": "smh",
+        "milestones": "25,50,75",
+        "seconds": "",
+    "show": "World News"
+}
+},
+                "playerType": "article_rhs",
+            "playerId": "video-player-latest-player",
+            "playerUrl": "http://resources.smh.com.au/common/media-common-1.0/swf/flowplayer/flowplayer.commercial-3.2.5.swf"
+        }, {
+            "canvas": {
+                "backgroundColor": "#000000",
+                "backgroundGradient": "none"
+            },
+            "clip": {
+                "ads": [],
+                "provider": "rtmp",
+                "scaling": "fit"
+            },
+                "width": 300,
+                "height": 170,
+            "key": ["#@bf031429ed9f0dfe904", "#@53c3da205e97d481958", "#@abcecd558f4a4d77890", "#@723b85c8a619907ae87", "#@d92898b5d9ad99b3409", "#@a88e92c0bb52808f85d", "#@a43fc3099cb4a6144d7", "#@4b734d76f34621ab328", "#@658810cc83406a698ce"],
+            "plugins": {
+                "akamai": {
+                    "rtmpStreamServers": ["mediastream.f2.com.au", "tv.f2.com.au"],
+                    "url": "http://resources.smh.com.au/common/media-common-1.0/swf/flowplayer/flowplayer.akamai-3.2.2.swf"
+                },
+                "advertisementLabel": {
+                    "backgroundColor": "rgba(20, 20, 20, 0.5)",
+                    "backgroundGradient": "none",
+                    "border": "none",
+                    "display": "none",
+                    "height": 24,
+                    "style": {
+                        "body": {
+                            "color": "#ffffff",
+                            "textAlign": "center"
+                        }
+                    },
+                    top: 0,
+                    "url": "http://resources.smh.com.au/common/media-common-1.0/swf/flowplayer/flowplayer.content-3.2.0.swf"
+                },
+                "controls": {
+                        "fullscreen": false,
+                    "url": "http://resources.smh.com.au/common/media-common-1.0/swf/flowplayer/flowplayer.controls-3.2.3.swf"
+                },
+                "dfp": {
+                    "linearAdLabel": {
+                        "advertisementLabel": "advertisementLabel",
+                        "content": "Advertisement : Your video will resume in {time-left} seconds.",
+                        "type": "top"
+                    },
+                    "onAdLoaded": function(event) {
+                        var videoPlayer = $f("video-player-latest-player");
+                        if ((event) && (event.ad) && (event.ad.type == "flash") && (videoPlayer)) {
+                            FD.trigger("FDVideoPlayerFlashAdLoaded");
+                        }
+                    },
+                    "onCustomAdEvent": function(event) {
+                        var videoPlayer = $f("video-player-latest-player");
+                        if ((event) && (event.name == "pauseContent") && (videoPlayer)) {
+                            videoPlayer.pause();
+                        } else if ((event) && (event.name == "videoComplete") && (videoPlayer)) {
+                            var dfpPlugin = videoPlayer.getPlugin("dfp");
+                            if (dfpPlugin) {
+                                dfpPlugin.unloadAd();
+                            }
+                            videoPlayer.resume();
+                        }
+                    },
+                    "url": "http://resources.smh.com.au/common/media-common-1.0/swf/flowplayer/dfp/flowplayer.dfp-smh.com.au-1.3.swf"
+                },
+                "rtmp": {
+                    "url": "http://resources.smh.com.au/common/media-common-1.0/swf/flowplayer/flowplayer.rtmp-3.2.1.swf"
+                }
+            }
+        }));
+     })();
+
+
+    });
+</script>
+        <script type="text/javascript">
+    FD.baseAd = {
+        params: {
+        }
+    };
+</script>
+<div class="hidden" id="adShD0"><script type="text/javascript">document.write('<script type="text\/javascript" id="' + document.dcdAdsI[0] + '" src="' + document.dcdAdsU[0] + '"><\/script>');</script></div><div class="hidden" id="adShD1"><script type="text/javascript">document.write('<script type="text\/javascript" id="' + document.dcdAdsI[1] + '" src="' + document.dcdAdsU[1] + '"><\/script>');</script></div><div class="hidden" id="adShD2"><script type="text/javascript">document.write('<script type="text\/javascript" id="' + document.dcdAdsI[2] + '" src="' + document.dcdAdsU[2] + '"><\/script>');</script></div><div class="hidden" id="adShD3"><script type="text/javascript">document.write('<script type="text\/javascript" id="' + document.dcdAdsI[3] + '" src="' + document.dcdAdsU[3] + '"><\/script>');</script></div><div class="hidden" id="adShD4"><script type="text/javascript">document.write('<script type="text\/javascript" id="' + document.dcdAdsI[4] + '" src="' + document.dcdAdsU[4] + '"><\/script>');</script></div><div class="hidden" id="adShD5"><script type="text/javascript">document.write('<script type="text\/javascript" id="' + document.dcdAdsI[5] + '" src="' + document.dcdAdsU[5] + '"><\/script>');</script></div>
+<script type="text/javascript">
+    function er_showAd() {
+        var regex = new RegExp("externalReferrer=(.*?)(; |&|$)", "gi");
+        var value = regex.exec(document.cookie);
+        if (value && value.length == 3) {
+           var externalReferrer = value[1];
+           return (!FD.isInternalReferrer() || ((externalReferrer) && (externalReferrer > 0)));
+        }
+        return false;
+    }
+    for (var i=0;i< document.dcdAdsI.length; i++) {
+        var shadowHolder = document.getElementById("adShD" + i);
+        if (shadowHolder) {
+            shadowHolder.removeChild(document.getElementById(document.dcdAdsI[i]));
+            while (shadowHolder.childNodes.length > 0) {
+                var child = shadowHolder.childNodes[0];
+                shadowHolder.removeChild(child);
+                document.getElementById(document.dcdAdsH[i]).appendChild(child);
+            }
+        }
+    }
+    if (er_showAd()) {
+        for (var i=0;i< document.dcdAdsE.length; i++) {
+            var erAd = document.getElementById(document.dcdAdsEH[i]);
+            erAd.className = document.dcdAdsEC[i];
+            erAd.appendChild(document.dcdAdsE[i]);
+        }
+    }
+    document.refreshAds = function rAds(adID) {
+        if (document.dcdAdsR) {
+            for (var i=0;i< document.dcdAdsR.length; i++) {
+                var f = document.getElementById(document.dcdAdsR[i]);
+                if (f) {
+                    if (!adID || adID =="*" || f.parentNode.id==adID ) {
+                        f.parentNode.innerHTML = f.parentNode.innerHTML;
+                    }
+                }
+            }
+        }
+    }
+</script>
+        <!-- START Nielsen Online SiteCensus V6.0 -->
+<!-- COPYRIGHT 2009 Nielsen Online -->
+<script type="text/javascript" src="//secure-au.imrworldwide.com/v60.js"></script>
+<script type="text/javascript">
+    var pvar = {cid:"f2", content:"BreakingNews-Premium-BreakingNational-story-online", server:"secure-au"};
+    var trac = nol_t(pvar);
+    trac.record().post();
+</script>
+<noscript>
+    <div>
+        <img src="//secure-au.imrworldwide.com/cgi-bin/m?ci=f2&amp;cg=0&amp;cc=1&amp;ts=noscript" width="1" height="1" alt=""/>
+    </div>
+</noscript>
+<!-- END Nielsen Online SiteCensus V6.0 -->
+<!-- Start SiteCatalyst code version: H.20.2. -->
+<!-- Copyright 1997-2009 Omniture, Inc. More info available at http://www.omniture.com -->
+        <script type="text/javascript" src="http://resources.smh.com.au/common/media-common-1.0/js/fdjsf/output/fd.omniture.smh_min.js"></script>
+
+<script type="text/javascript">
+    s.pageName="Brea:Prem:Assange may have committed offence: ADA";
+    s.server="";
+    s.channel="BreakingNews";
+    s.pageType="";
+            s.prop3="breakingnews/premiumbreakingnational";
+            s.prop2="online";
+            s.prop1="brea:assange may have committed offence: ada";
+            s.prop5="1720700";
+            s.prop4="dcds:common templates";
+    s.campaign="";
+    s.state="";
+    s.zip="";
+    s.events="event1";
+    s.products="";
+    s.purchaseID="";
+    s.hier1="undefined|assange may have committed offence: ada";
+    var s_code=s.t();
+    if (s_code) {
+        document.write(s_code);
+    }
+</script>
+<script type="text/javascript">
+    if (navigator.appVersion.indexOf("MSIE") >= 0) {
+        document.write(unescape("%3C") + "\!-" + "-");
+    }
+</script>
+<noscript>
+    <img src="http://f2nsmh.112.2O7.net/b/ss/f2nsmh/1/H.20.2--NS/0?[AQB]&cdp=3&[AQE]" width="1" height="1" border="0" alt=""/>
+</noscript>
+<!-- End SiteCatalyst code version: H.20.2. -->
+        <script type="text/javascript">
+        if (window["FD"]) {
+            /**
+             * Updates the white strip with the new time and number of users.
+             *
+             * @param data Date to extract new time and number of users from.
+             * @private
+             */
+            function updateWhiteStrip(data) {
+                var response = $.parseJSON(data);
+                var whiteStripTimeElement = $("whiteStrip-time");
+                if ((whiteStripTimeElement) && (whiteStripTimeElement.length > 0)) {
+                    whiteStripTimeElement.empty();
+                    whiteStripTimeElement.html(response.time);
+                }
+                var whiteStripPeopleElement = $("whiteStrip-users");
+                if ((whiteStripPeopleElement) && (whiteStripPeopleElement.length > 0)) {
+                    whiteStripPeopleElement.empty();
+                    whiteStripPeopleElement.html(response.people + " online now");
+                }
+            }
+            /**
+             * Initiates the client side asset view tracking component (self executing).
+             */
+            (function() {
+                FD.pingServerWithSuccessCallback("1720700", "Article", "Breaking+News+National", updateWhiteStrip);
+            })();
+        }
+    </script>
+
+<!-- ED-7524 Add Nielsen code across all sites -->
+<script type="text/javascript" src="//secure-au.imrworldwide.com/survey/survey-launch.js?rj0054-other"></script>
+    </body>
+</html>

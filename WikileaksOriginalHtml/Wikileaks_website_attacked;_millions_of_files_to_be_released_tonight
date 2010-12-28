@@ -1,0 +1,483 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" dir="ltr">
+<head>
+<title>Wikileaks website attacked; millions of files to be released tonight - Wikinews, the free news source</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta http-equiv="Content-Style-Type" content="text/css" />
+<meta name="generator" content="MediaWiki 1.16wmf4" />
+<link rel="apple-touch-icon" href="http://upload.wikimedia.org/wikipedia/commons/4/43/Apple-touch-icon.png" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikinews (en)" />
+<link rel="copyright" href="http://creativecommons.org/licenses/by/2.5/" />
+<link rel="alternate" type="application/rss+xml" title="Wikinews RSS feed" href="http://feeds.feedburner.com/WikinewsLatestNews" />
+<link rel="stylesheet" href="http://bits.wikimedia.org/skins-1.5/vector/main-ltr.css?283-17" type="text/css" media="screen" />
+<link rel="stylesheet" href="http://bits.wikimedia.org/skins-1.5/common/shared.css?283-17" type="text/css" media="screen" />
+<link rel="stylesheet" href="http://bits.wikimedia.org/skins-1.5/common/commonPrint.css?283-17" type="text/css" media="print" />
+<link rel="stylesheet" href="/w/extensions/FlaggedRevs/client/flaggedrevs.css?85" type="text/css" media="all" />
+<link rel="stylesheet" href="http://bits.wikimedia.org/w/extensions/UsabilityInitiative/css/combined.min.css?117" type="text/css" media="all" />
+<link rel="stylesheet" href="http://bits.wikimedia.org/w/extensions/UsabilityInitiative/css/vector/jquery-ui-1.7.2.css?1.7.2y" type="text/css" media="all" />
+<link rel="stylesheet" href="/w/extensions/ReaderFeedback/readerfeedback.css?1" type="text/css" media="all" />
+<link rel="stylesheet" href="/w/index.php?title=MediaWiki:Common.css&amp;usemsgcache=yes&amp;ctype=text%2Fcss&amp;smaxage=2678400&amp;action=raw&amp;maxage=2678400" type="text/css" media="all" />
+<link rel="stylesheet" href="/w/index.php?title=MediaWiki:Print.css&amp;usemsgcache=yes&amp;ctype=text%2Fcss&amp;smaxage=2678400&amp;action=raw&amp;maxage=2678400" type="text/css" media="print" />
+<link rel="stylesheet" href="/w/index.php?title=MediaWiki:Handheld.css&amp;usemsgcache=yes&amp;ctype=text%2Fcss&amp;smaxage=2678400&amp;action=raw&amp;maxage=2678400" type="text/css" media="handheld" />
+<link rel="stylesheet" href="/w/index.php?title=MediaWiki:Vector.css&amp;usemsgcache=yes&amp;ctype=text%2Fcss&amp;smaxage=2678400&amp;action=raw&amp;maxage=2678400" type="text/css" media="all" />
+<link rel="stylesheet" href="/w/index.php?title=-&amp;action=raw&amp;maxage=2678400&amp;gen=css" type="text/css" media="all" />
+<script type="text/javascript">
+var skin="vector",
+stylepath="http://bits.wikimedia.org/skins-1.5",
+wgUrlProtocols="http\\:\\/\\/|https\\:\\/\\/|ftp\\:\\/\\/|irc\\:\\/\\/|gopher\\:\\/\\/|telnet\\:\\/\\/|nntp\\:\\/\\/|worldwind\\:\\/\\/|mailto\\:|news\\:|svn\\:\\/\\/",
+wgArticlePath="/wiki/$1",
+wgScriptPath="/w",
+wgScriptExtension=".php",
+wgScript="/w/index.php",
+wgVariantArticlePath=false,
+wgActionPaths={},
+wgServer="http://en.wikinews.org",
+wgCanonicalNamespace="",
+wgCanonicalSpecialPageName=false,
+wgNamespaceNumber=0,
+wgPageName="Wikileaks_website_attacked;_millions_of_files_to_be_released_tonight",
+wgTitle="Wikileaks website attacked; millions of files to be released tonight",
+wgAction="view",
+wgArticleId=224102,
+wgIsArticle=true,
+wgUserName=null,
+wgUserGroups=null,
+wgUserLanguage="en",
+wgContentLanguage="en",
+wgBreakFrames=false,
+wgCurRevisionId=1150425,
+wgVersion="1.16wmf4",
+wgEnableAPI=true,
+wgEnableWriteAPI=true,
+wgSeparatorTransformTable=["", ""],
+wgDigitTransformTable=["", ""],
+wgMainPageTitle="Main Page",
+wgFormattedNamespaces={"-2": "Media", "-1": "Special", "0": "", "1": "Talk", "2": "User", "3": "User talk", "4": "Wikinews", "5": "Wikinews talk", "6": "File", "7": "File talk", "8": "MediaWiki", "9": "MediaWiki talk", "10": "Template", "11": "Template talk", "12": "Help", "13": "Help talk", "14": "Category", "15": "Category talk", "90": "Thread", "91": "Thread talk", "92": "Summary", "93": "Summary talk", "100": "Portal", "101": "Portal talk", "102": "Comments", "103": "Comments talk"},
+wgNamespaceIds={"media": -2, "special": -1, "": 0, "talk": 1, "user": 2, "user_talk": 3, "wikinews": 4, "wikinews_talk": 5, "file": 6, "file_talk": 7, "mediawiki": 8, "mediawiki_talk": 9, "template": 10, "template_talk": 11, "help": 12, "help_talk": 13, "category": 14, "category_talk": 15, "thread": 90, "thread_talk": 91, "summary": 92, "summary_talk": 93, "portal": 100, "portal_talk": 101, "comments": 102, "comments_talk": 103, "wn": 4, "cat": 14, "image": 6, "image_talk": 7},
+wgSiteName="Wikinews",
+wgCategories=["November 28, 2010", "Internet", "Journalism", "Wikileaks", "Published", "Archived", "United States", "North America", "Computing", "Science and technology", "Politics and conflicts"],
+wgDBname="enwikinews",
+wgMWSuggestTemplate="http://en.wikinews.org/w/api.php?action=opensearch\x26search={searchTerms}\x26namespace={namespaces}\x26suggest",
+wgSearchNamespaces=[0, 100],
+wgMWSuggestMessages=["with suggestions", "no suggestions"],
+wgRestrictionEdit=["sysop"],
+wgRestrictionMove=["sysop"],
+wgFlaggedRevsParams={"tags": {"accuracy": {"levels": 2, "quality": 2, "pristine": 4}}},
+wgStableRevisionId=1150425,
+wgRevContents={"error": "Unable to get content.", "waiting": "Waiting for content"},
+wgCollapsibleNavBucketTest=false,
+wgCollapsibleNavForceNewVersion=false,
+wgVectorPreferences={"collapsiblenav": {"enable": 1}, "editwarning": {"enable": 1}, "simplesearch": {"enable": 1, "disablesuggest": 0}},
+wgVectorEnabledModules={"collapsiblenav": true, "collapsibletabs": true, "editwarning": true, "expandablesearch": false, "footercleanup": false, "simplesearch": true},
+wgFeedbackParams={"tags": {"reliability": 3, "completeness": 2, "npov": 2, "presentation": 1}},
+wgAjaxFeedback={"sendingMsg": "Submitting …", "sentMsg": "Thank you!"},
+Geo={"city": "", "country": ""},
+wgNoticeProject="wikinews";
+</script><script src="http://bits.wikimedia.org/skins-1.5/common/wikibits.js?283-17" type="text/javascript"></script>
+<script type="text/javascript" src="http://bits.wikimedia.org/skins-1.5/common/jquery.min.js?283-17"></script>
+<script src="http://bits.wikimedia.org/skins-1.5/common/ajax.js?283-17" type="text/javascript"></script>
+<script src="http://bits.wikimedia.org/skins-1.5/common/mwsuggest.js?283-17" type="text/javascript"></script>
+<script src="/w/extensions/FlaggedRevs/client/flaggedrevs.js?85&amp;283-17" type="text/javascript"></script>
+<script type="text/javascript">
+FlaggedRevs.messages = {"diffToggleShow": "show those changes", "diffToggleHide": "hide those changes", "logToggleShow": "show stability log", "logToggleHide": "hide stability log", "logDetailsShow": "show details", "logDetailsHide": "hide details", "toggleShow": "(+)", "toggleHide": "(-)"};
+</script>
+<script src="http://bits.wikimedia.org/w/extensions/UsabilityInitiative/js/plugins.combined.min.js?283-17" type="text/javascript"></script>
+<script src="http://bits.wikimedia.org/w/extensions/UsabilityInitiative/Vector/Vector.combined.min.js?283-17" type="text/javascript"></script>
+<script type="text/javascript">mw.usability.addMessages({'vector-collapsiblenav-more':'More languages','vector-editwarning-warning':'Leaving this page may cause you to lose any changes you have made.\nIf you are logged in, you can disable this warning in the \"Editing\" section of your preferences.','vector-simplesearch-search':'Search','vector-simplesearch-containing':'containing...'});</script>
+<script src="/w/index.php?title=Special:BannerController&amp;cache=/cn.js&amp;283-17" type="text/javascript"></script>
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/skins-1.5/vector/csshover.htc")}</style><![endif]-->
+<script src="/w/index.php?title=-&amp;action=raw&amp;gen=js&amp;useskin=vector&amp;283-17" type="text/javascript"></script>
+
+<script type="text/javascript" src="/w/extensions/ReaderFeedback/readerfeedback.js?1"></script>
+</head>
+<body class="mediawiki ltr ns-0 ns-subject page-Wikileaks_website_attacked_millions_of_files_to_be_released_tonight skin-vector">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<!-- content -->
+		<div id="content">
+			<a id="top"></a>
+			<div id="mw-js-message" style="display:none;"></div>
+						<!-- sitenotice -->
+			<div id="siteNotice"><!-- centralNotice loads here --><script type="text/javascript" language="JavaScript">
+/* <![CDATA[ */
+document.writeln("\x3cdiv id=\"localNotice\"\x3e\x3ccenter\x3eDon\'t forget, Wikinews is written by people like you! If you find a topic you want to see Wikinews cover, why not \x3ca href=\"/wiki/Special:CreateAccount\" title=\"Special:CreateAccount\"\x3ecreate an account\x3c/a\x3e and \x3ca href=\"/wiki/Wikinews:Writing_an_article\" title=\"Wikinews:Writing an article\"\x3ewrite an article\x3c/a\x3e on it?\x3c/center\x3e\n\x3c/div\x3e");
+/* ]]> */
+</script></div>
+			<!-- /sitenotice -->
+						<!-- firstHeading -->
+			<h1 id="firstHeading" class="firstHeading">Wikileaks website attacked; millions of files to be released tonight</h1>
+			<!-- /firstHeading -->
+			<!-- bodyContent -->
+			<div id="bodyContent">
+				<!-- tagline -->
+				<div id="siteSub">From Wikinews, the free news source you can write!</div>
+				<!-- /tagline -->
+				<!-- subtitle -->
+				<div id="contentSub"></div>
+				<!-- /subtitle -->
+																<!-- jumpto -->
+				<div id="jump-to-nav">
+					Jump to: <a href="#mw-head">navigation</a>,
+					<a href="#p-search">search</a>
+				</div>
+				<!-- /jumpto -->
+								<!-- bodytext -->
+				<p><b class="published"><span id="publishDate" class="value-title" title="2010-11-28"></span>Sunday, November 28, 2010</b></p>
+<div class="infobox" style="margin-left: 5px; float: right; width: 200px; background: #edf7ff; border: solid #666666 1px; padding: 0px; font-size: x-small; clear:right;">
+<div style="text-decoration:none; background: #7ec9fd; padding: 2px; text-align: center; style; font-size: 140%; border-bottom: solid 1px #666666;"><b><a href="/wiki/Category:Wikileaks" title="Category:Wikileaks">Wikileaks</a></b></div>
+<div style="background: #bce1ff; padding: 2px; text-align: center; style; font-size: normal;">Related stories</div>
+<div style="padding: 2px;">
+<ul>
+<li>23 December 2010: <a href="/wiki/UN_probing_allegations_US_is_%27torturing%27_soldier_over_leaks" title="UN probing allegations US is 'torturing' soldier over leaks">UN probing allegations US is 'torturing' soldier over leaks</a></li>
+<li>17 December 2010: <a href="/wiki/Wikileaks_founder_Julian_Assange_granted_bail,_set_free" title="Wikileaks founder Julian Assange granted bail, set free">Wikileaks founder Julian Assange granted bail, set free</a></li>
+<li>17 December 2010: <a href="/wiki/Australian_Federal_Police_say_Wikileaks_committed_no_crime" title="Australian Federal Police say Wikileaks committed no crime">Australian Federal Police say Wikileaks committed no crime</a></li>
+<li>15 December 2010: <a href="/wiki/Julian_Assange_held_while_Sweden_appeals_bail" title="Julian Assange held while Sweden appeals bail">Julian Assange held while Sweden appeals bail</a></li>
+<li>10 December 2010: <a href="/wiki/Leaked_cables_cause_Australian_concern" title="Leaked cables cause Australian concern">Leaked cables cause Australian concern</a></li>
+</ul>
+<p><br /></p>
+</div>
+<center><a href="/w/index.php?title=File:Wikileaks_logo.svg&amp;filetimestamp=20090221233926" class="image" title="Wikileaks"><img alt="Wikileaks" src="http://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Wikileaks_logo.svg/75px-Wikileaks_logo.svg.png" width="75" height="173" /></a></center>
+<center>More information on Wikileaks:</center>
+<ul>
+<li><a href="http://en.wikipedia.org/wiki/Wikileaks" class="extiw" title="w:Wikileaks">Wikileaks</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Bank_Julius_Baer_vs._Wikileaks_lawsuit" class="extiw" title="w:Bank Julius Baer vs. Wikileaks lawsuit"><i>Bank Julius Baer vs. Wikileaks</i></a></li>
+<li><a href="http://en.wikipedia.org/wiki/Freedom_of_information" class="extiw" title="w:Freedom of information">Freedom of information</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Streisand_effect" class="extiw" title="w:Streisand effect">Streisand effect</a></li>
+<li><a href="http://en.wikiquote.org/wiki/Wikileaks" class="extiw" title="q:Wikileaks">Quotes about Wikileaks</a></li>
+</ul>
+</div>
+<p><br /></p>
+<table cellpadding="5" align="right" style="border-collapse:collapse; width: 200px; border: 1px; background-color:#eeeeee; border-style:none; margin-left:15px;" class="cquote">
+<tr>
+<td width="10" valign="top"><a href="/wiki/Wikileaks_website_attacked;_millions_of_files_to_be_released_tonight" title="Wikileaks website attacked; millions of files to be released tonight"><img alt="Cquote1.svg" src="http://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Cquote1.svg/10px-Cquote1.svg.png" width="10" height="8" /></a></td>
+<td><span style="color: #0000CC; font-family: Verdana, sans-serif"><small><b>The material that we are about to release covers essentially every major issue in every country in the world.</b></small></span></td>
+<td width="10" valign="bottom"><a href="/wiki/Wikileaks_website_attacked;_millions_of_files_to_be_released_tonight" title="Wikileaks website attacked; millions of files to be released tonight"><img alt="Cquote2.svg" src="http://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Cquote2.svg/10px-Cquote2.svg.png" width="10" height="8" /></a></td>
+</tr>
+<tr>
+<td colspan="3" style="padding-top: 5px; background-color:#DDDDDD">
+<p style="font-size:smaller;line-height:1em;text-align: right"><cite style="font-style:normal;">—<a href="/wiki/Julian_Assange" title="Julian Assange" class="mw-redirect">Julian Assange</a>, <a href="/wiki/Wikileaks" title="Wikileaks" class="mw-redirect">Wikileaks</a> founder</cite></p>
+</td>
+</tr>
+</table>
+<p><a href="/wiki/Wikileaks" title="Wikileaks" class="mw-redirect">Wikileaks</a>' website is reportedly under attack as it prepares to release up to 2.7 million documents, described as "diplomatic dynamite", detailing communication between <a href="/wiki/United_States" title="United States" class="mw-redirect">United States</a> embassies. "We are currently under a mass <a href="http://en.wikipedia.org/wiki/Denial-of-service_attack" class="extiw" title="w:Denial-of-service attack">distributed denial of service attack</a>," the organisation said on its <a href="/wiki/Twitter" title="Twitter" class="mw-redirect">Twitter</a> feed. The website, run by <a href="/wiki/Julian_Assange" title="Julian Assange" class="mw-redirect">Julian Assange</a>, retaliated by saying that even if their website goes down, several newspapers will publish the leaked files this evening.</p>
+<p>The <a href="http://en.wikipedia.org/wiki/Presidency_of_Barack_Obama" class="extiw" title="w:Presidency of Barack Obama">Obama administration</a> wrote to Assange yesterday to warn him that "countless" lives would be put at risk should the documents be published. "We will not engage in a negotiation regarding the further release or dissemination of illegally obtained US government classified materials," the letter stated. <i><a href="/wiki/Wikinews" title="Wikinews" class="mw-redirect">Wikinews</a></i> reported on Saturday that officials in <a href="/wiki/Washington" title="Washington" class="mw-redirect">Washington</a> were contacting embassies around the world to warn diplomats of the leak.</p>
+<p>Assange told reporters on Sunday: "The material that we are about to release covers essentially every major issue in every country in the world." Wikileaks confirmed that <i><a href="http://en.wikipedia.org/wiki/El_Pais" class="extiw" title="w:El Pais">El Pais</a></i>, <i><a href="http://en.wikipedia.org/wiki/Le_Monde" class="extiw" title="w:Le Monde">Le Monde</a></i>, <i><a href="http://en.wikipedia.org/wiki/Der_Spiegel" class="extiw" title="w:Der Spiegel">Der Spiegel</a></i>, <i><a href="http://en.wikipedia.org/wiki/The_Guardian" class="extiw" title="w:The Guardian">The Guardian</a></i> and <i><a href="http://en.wikipedia.org/wiki/The_New_York_Times" class="extiw" title="w:The New York Times">The New York Times</a></i> will be publishing the documents this evening. "The greatest anxiety is that these leaks will reveal remarks [by U.S. diplomats] of a hostile nature towards various Islamic leaders and Islamic state policies," political analyst Peter Spencer said. Analysts have said that the letter to Obama reflects the U.S. administration's concern over possible publication of the files, which may contain <a href="http://en.wikipedia.org/wiki/List_of_diplomatic_missions_of_the_United_States" class="extiw" title="w:List of diplomatic missions of the United States">American diplomats'</a> opinions of other politicians, some of which may be candid and embarrassing.</p>
+<p><br style="clear:none;" /></p>
+<center>
+<div align="center" class="noprint messagebox boilerplate plainlinks" id="commentrequest" style="background-color:#FFFFFF; border:1px solid #CCCCCC; padding:2px;width:50%; text-size:smallest;">
+<p>Have an opinion on this story? <a href="/wiki/Comments:Wikileaks_website_attacked;_millions_of_files_to_be_released_tonight" title="Comments:Wikileaks website attacked; millions of files to be released tonight">Post it!</a></p>
+</div>
+</center>
+<h2><span class="mw-headline" id="Related_news">Related news</span></h2>
+<ul>
+<li><a href="/wiki/Files_will_risk_%27countless%27_lives,_Obama_administration_warns_Wikileaks" title="Files will risk 'countless' lives, Obama administration warns Wikileaks">"Files will risk 'countless' lives, Obama administration warns Wikileaks"</a> - <i><a href="/wiki/Main_Page" title="Main Page">Wikinews</a></i>, 28 November 2010</li>
+<li><a href="/wiki/Wikileaks_to_release_thousands_of_secret_documents;_%27international_embarrassment%27_likely" title="Wikileaks to release thousands of secret documents; 'international embarrassment' likely">"Wikileaks to release thousands of secret documents; 'international embarrassment' likely"</a> - <i><a href="/wiki/Main_Page" title="Main Page">Wikinews</a></i>, 27 November 2010</li>
+</ul>
+<h2><span class="mw-headline" id="Sources">Sources</span></h2>
+<ul>
+<li>"<a href="http://www.bbc.co.uk/news/world-us-canada-11858637" class="external text" rel="nofollow">Wikileaks 'hacked ahead of secret US document release'</a>" –&#160;<i><a href="http://en.wikipedia.org/wiki/BBC_News" class="extiw" title="w:BBC News">BBC News</a></i>, 28 November 2010</li>
+<li>Alison Chung "<a href="http://news.sky.com/skynews/Home/World-News/WikiLeaks-Set-To-Reveal-Secret-US-Files-Between-Washington-And-US-Embassies-Around-The-World/Article/201011415836445?lpos=World_News_First_World_News_Article_Teaser_Region_1&amp;lid=ARTICLE_15836445_WikiLeaks_Set_To_Reveal_Secret_US_Files_Between_Washington_And_US_Embassies_Around_The_World" class="external text" rel="nofollow">WikiLeaks Claim: 'We're Under Cyber Attack'</a>" –&#160;<i><a href="http://en.wikipedia.org/wiki/Sky_News" class="extiw" title="w:Sky News">Sky News</a></i>, 28 November 2010</li>
+<li>"<a href="http://news.blogs.cnn.com/2010/11/28/wikileaks-were-under-cyber-attack/" class="external text" rel="nofollow">Wikileaks: We're under cyber attack</a>" –&#160;<i><a href="http://en.wikipedia.org/wiki/CNN" class="extiw" title="w:CNN">CNN</a></i>, 28 November 2010<br style="clear:both" /></li>
+</ul>
+<table align="center" style="width:45%; background-color:#FFFFFF; border:1px solid #007F8F; -moz-border-radius: 9px;-webkit-border-radius: 9px; border-radius: 9px; padding:1px;" id="social_bookmarks" class="noprint">
+<tr>
+<td>
+<div class="floatleft"><a href="http://en.wikinews.org/wiki/Wikinews:Social_bookmarks"><img alt="Bookmark-new.svg" src="http://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Bookmark-new.svg/25px-Bookmark-new.svg.png" width="25" height="25" /></a></div>
+<div class="plainlinks" align="center">
+<p><b>Share this:</b>&#160; <span title="Share via e-mail" class="plainlinks"><a href="mailto:?subject=Wikileaks_website_attacked;_millions_of_files_to_be_released_tonight%20–%20Wikinews&amp;body=Wikileaks_website_attacked;_millions_of_files_to_be_released_tonight:%0Ahttp://en.wikinews.org/wiki/Wikileaks_website_attacked;_millions_of_files_to_be_released_tonight%0A%0AFrom%20Wikinews,%20the%20free%20news%20source%20you%20can%20write!" title="E-mail this story"><img alt="E-mail this story" src="http://upload.wikimedia.org/wikipedia/commons/5/5c/Email.png" width="16" height="16" /></a></span> <span title="Share on Facebook"><a href="http://www.facebook.com/sharer.php?u=http://en.wikinews.org/wiki/Wikileaks_website_attacked;_millions_of_files_to_be_released_tonight&amp;t=Wikileaks+website+attacked%3B+millions+of+files+to+be+released+tonight+-+Wikinews" title="Bookmark with Facebook"><img alt="Bookmark with Facebook" src="http://upload.wikimedia.org/wikinews/en/5/55/Facebook.png" width="16" height="16" /></a></span> <span title="Share on Digg"><a href="http://digg.com/submit?url=http://en.wikinews.org/wiki/Wikileaks_website_attacked;_millions_of_files_to_be_released_tonight&amp;title=Wikileaks+website+attacked%3B+millions+of+files+to+be+released+tonight+-+Wikinews" title="Share on Digg.com"><img alt="Share on Digg.com" src="http://upload.wikimedia.org/wikinews/en/9/95/Digg-icon.png" width="16" height="14" /></a></span> <span title="Share on delicious"><a href="http://delicious.com/post?url=http://en.wikinews.org/wiki/Wikileaks_website_attacked;_millions_of_files_to_be_released_tonight&amp;title=Wikileaks+website+attacked%3B+millions+of+files+to+be+released+tonight+-+Wikinews" title="Share on delicious"><img alt="Share on delicious" src="http://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Delicious.svg/16px-Delicious.svg.png" width="16" height="16" /></a></span> <span title="Share on reddit"><a href="http://reddit.com/submit?url=http://en.wikinews.org/wiki/Wikileaks_website_attacked;_millions_of_files_to_be_released_tonight&amp;title=Wikileaks+website+attacked%3B+millions+of+files+to+be+released+tonight+-+Wikinews" title="Share on reddit.com"><img alt="Share on reddit.com" src="http://upload.wikimedia.org/wikinews/en/1/10/Reddit.png" width="18" height="18" /></a></span> <span title="Share on StumbleUpon"><a href="http://stumbleupon.com/submit?url=http://en.wikinews.org/wiki/Wikileaks_website_attacked;_millions_of_files_to_be_released_tonight&amp;title=Wikileaks+website+attacked%3B+millions+of+files+to+be+released+tonight+-+Wikinews" title="Share on stumbleupon.com"><img alt="Share on stumbleupon.com" src="http://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Stumbleupon.svg/16px-Stumbleupon.svg.png" width="16" height="16" /></a></span> <span title="Share on Yahoo! Buzz"><a href="http://buzz.yahoo.com/buzz?targetUrl=http://en.wikinews.org/wiki/Wikileaks_website_attacked;_millions_of_files_to_be_released_tonight&amp;headline=Wikileaks+website+attacked%3B+millions+of+files+to+be+released+tonight+-+Wikinews" title="Share on Yahoo! Buzz"><img alt="Share on Yahoo! Buzz" src="http://upload.wikimedia.org/wikinews/en/d/de/Yahoo_buzz.png" width="16" height="16" /></a></span> <span title="Share on identi.ca"><a href="http://identi.ca/index.php?action=newnotice&amp;status_textarea=Look%20what%20I%20found%20on%20Wikinews:%20http://en.wikinews.org/wiki/Wikileaks_website_attacked;_millions_of_files_to_be_released_tonight"><img alt="Share on identi.ca" src="http://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Identica_Icon.png/16px-Identica_Icon.png" width="16" height="16" /></a></span> <span title="Share on Google Buzz"><a href="http://www.google.com/buzz/post?url=http://en.wikinews.org/wiki/Wikileaks_website_attacked;_millions_of_files_to_be_released_tonight" title="Share on Google Buzz"><img alt="Share on Google Buzz" src="http://upload.wikimedia.org/wikinews/en/4/4e/Buzz_icon.png" width="16" height="15" /></a></span> <span title="Share on Twitter"><a href="http://twitter.com/?status=Look%20what%20I%20found%20on%20Wikinews:%20http://en.wikinews.org/wiki/Wikileaks_website_attacked;_millions_of_files_to_be_released_tonight" title="Share on twitter.com"><img alt="Share on twitter.com" src="http://upload.wikimedia.org/wikinews/en/f/f7/Twitter.png" width="18" height="18" /></a></span> <span title="Review on NewsTrust"><a href="http://newstrust.net/submit?story%5Burl%5D=http://en.wikinews.org/wiki/Wikileaks_website_attacked;_millions_of_files_to_be_released_tonight&amp;story%5Btitle%5D=Wikileaks+website+attacked%3B+millions+of+files+to+be+released+tonight&amp;story%5Bauthorships_attributes%5D%5B%5D%5Bname%5D=Wikinews&amp;story%5Breferred_by%5D=en.wikinews.org&amp;popup=true" title="Review on NewsTrust"><img alt="Review on NewsTrust" src="http://upload.wikimedia.org/wikinews/en/0/00/Newstrust.gif" width="16" height="16" /></a></span></p>
+</div>
+</td>
+</tr>
+</table>
+<p><br style="clear:both;" /></p>
+<table class="metadata noprint plainlinks ambox ambox-notice">
+<tr>
+<td class="ambox-image"><a href="/w/index.php?title=File:Padlock-silver-medium.svg&amp;filetimestamp=20070327131926" class="image"><img alt="Padlock-silver-medium.svg" src="http://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Padlock-silver-medium.svg/40px-Padlock-silver-medium.svg.png" width="40" height="40" /></a></td>
+<td><b>This page is <a href="/wiki/Wikinews:Archive_conventions" title="Wikinews:Archive conventions">archived</a>, and is no longer publicly editable.</b>
+<div style="padding: 5px 40px 0px 40px; font-size:90%;">Articles presented on Wikinews reflect the specific time at which they were written and published, and do not attempt to encompass events or knowledge which occur or become known after their publication.</div>
+<p>Got a correction? Add the template {{<a href="/wiki/Template:Editprotected" title="Template:Editprotected">editprotected</a>}} to the <a href="/wiki/Talk:Wikileaks_website_attacked;_millions_of_files_to_be_released_tonight" title="Talk:Wikileaks website attacked; millions of files to be released tonight">talk page</a> along with your corrections, and it will be <a href="/wiki/Wikinews:Admin_action_alerts#Edits_to_protected_pages" title="Wikinews:Admin action alerts">brought to the attention of</a> the <a href="/wiki/Wikinews:Administrators" title="Wikinews:Administrators">administrators</a>.</p>
+<p><small>Please note that due to our <a href="/wiki/Wikinews:ARCHIVE" title="Wikinews:ARCHIVE" class="mw-redirect">archival policy</a>, we will not alter or update the content of articles that are archived, but will only accept requests to make grammatical and formatting corrections.</small></p>
+<small>Note that some listed sources or external links may no longer be available online due to age.</small></td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Preprocessor node count: 372/1000000
+Post-expand include size: 18288/2048000 bytes
+Template argument size: 2116/2048000 bytes
+Expensive parser function count: 0/500
+-->
+
+<!-- Saved in stable version parser cache with key enwikinews:stable-pcache:idhash:224102-0!1!0!default!!en!4!edit=0 and timestamp 20101226031933 --><div class="printfooter">
+Retrieved from "<a href="http://en.wikinews.org/wiki/Wikileaks_website_attacked;_millions_of_files_to_be_released_tonight">http://en.wikinews.org/wiki/Wikileaks_website_attacked;_millions_of_files_to_be_released_tonight</a>"</div>
+				<!-- /bodytext -->
+								<!-- catlinks -->
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: <span dir='ltr'><a href="/wiki/Category:November_28,_2010" title="Category:November 28, 2010">November 28, 2010</a></span> | <span dir='ltr'><a href="/wiki/Category:Internet" title="Category:Internet">Internet</a></span> | <span dir='ltr'><a href="/wiki/Category:Journalism" title="Category:Journalism">Journalism</a></span> | <span dir='ltr'><a href="/wiki/Category:Wikileaks" title="Category:Wikileaks">Wikileaks</a></span> | <span dir='ltr'><a href="/wiki/Category:Published" title="Category:Published">Published</a></span> | <span dir='ltr'><a href="/wiki/Category:Archived" title="Category:Archived">Archived</a></span> | <span dir='ltr'><a href="/wiki/Category:United_States" title="Category:United States">United States</a></span> | <span dir='ltr'><a href="/wiki/Category:North_America" title="Category:North America">North America</a></span> | <span dir='ltr'><a href="/wiki/Category:Computing" title="Category:Computing">Computing</a></span> | <span dir='ltr'><a href="/wiki/Category:Science_and_technology" title="Category:Science and technology">Science and technology</a></span> | <span dir='ltr'><a href="/wiki/Category:Politics_and_conflicts" title="Category:Politics and conflicts">Politics and conflicts</a></span></div></div>				<!-- /catlinks -->
+												<!-- dataAfterContent -->
+				<div id='mw-data-after-content'>
+	<form method="post" action="/w/index.php?title=Special:ReaderFeedback&amp;action=submit" id="mw-feedbackform"><fieldset class="feedback_reviewform noprint"><legend><strong>What do you think of this page?</strong></legend>
+<p><i>Please take a moment to rate this page below. Your feedback is valuable and helps us improve our website.</i>
+</p><span id="mw-feedbackselects"><b><label for="wpreliability">Reliability</label>:</b>&nbsp;<select name="wpreliability" id="wpreliability" onchange="updateFeedbackForm()"><option class="rfb-rating-option-4" value="4">Excellent</option>
+<option class="rfb-rating-option-3" value="3">High</option>
+<option class="rfb-rating-option-2" value="2">Fair</option>
+<option class="rfb-rating-option-1" value="1">Low</option>
+<option class="rfb-rating-option-0" value="0">Poor</option>
+<option value="-1" selected="selected">(unsure)</option>
+</select>
+<b><label for="wpcompleteness">Completeness</label>:</b>&nbsp;<select name="wpcompleteness" id="wpcompleteness" onchange="updateFeedbackForm()"><option class="rfb-rating-option-4" value="4">Excellent</option>
+<option class="rfb-rating-option-3" value="3">High</option>
+<option class="rfb-rating-option-2" value="2">Fair</option>
+<option class="rfb-rating-option-1" value="1">Low</option>
+<option class="rfb-rating-option-0" value="0">Poor</option>
+<option value="-1" selected="selected">(unsure)</option>
+</select>
+<b><label for="wpnpov">Neutrality</label>:</b>&nbsp;<select name="wpnpov" id="wpnpov" onchange="updateFeedbackForm()"><option class="rfb-rating-option-4" value="4">Excellent</option>
+<option class="rfb-rating-option-3" value="3">High</option>
+<option class="rfb-rating-option-2" value="2">Fair</option>
+<option class="rfb-rating-option-1" value="1">Low</option>
+<option class="rfb-rating-option-0" value="0">Poor</option>
+<option value="-1" selected="selected">(unsure)</option>
+</select>
+<b><label for="wppresentation">Presentation</label>:</b>&nbsp;<select name="wppresentation" id="wppresentation" onchange="updateFeedbackForm()"><option class="rfb-rating-option-4" value="4">Excellent</option>
+<option class="rfb-rating-option-3" value="3">High</option>
+<option class="rfb-rating-option-2" value="2">Fair</option>
+<option class="rfb-rating-option-1" value="1">Low</option>
+<option class="rfb-rating-option-0" value="0">Poor</option>
+<option value="-1" selected="selected">(unsure)</option>
+</select>
+</span><input type="submit" value="Submit" id="submitfeedback" accesskey="b" title="Submit feedback. [b]" /><input type="hidden" value="Special:ReaderFeedback" name="title" />
+<input type="hidden" value="Wikileaks_website_attacked;_millions_of_files_to_be_released_tonight" name="target" />
+<input type="hidden" value="1150425" name="oldid" />
+<input type="hidden" value="363e444157609aa6c0fd1e818a7f4811" name="validatedParams" /><input type="hidden" value="submit" name="action" />
+<input type="hidden" value="+\" name="wpEditToken" />
+<input name="commentary" size="12" value="" style="display:none;" />
+</fieldset></form>
+</div>
+				<!-- /dataAfterContent -->
+								<div class="visualClear"></div>
+			</div>
+			<!-- /bodyContent -->
+		</div>
+		<!-- /content -->
+		<!-- header -->
+		<div id="mw-head" class="noprint">
+			
+<!-- 0 -->
+<div id="p-personal" class="">
+	<h5>Personal tools</h5>
+	<ul>
+					<li  id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Wikileaks_website_attacked;_millions_of_files_to_be_released_tonight" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in / create account</a></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+			<div id="left-navigation">
+				
+<!-- 0 -->
+<div id="p-namespaces" class="vectorTabs">
+	<h5>Namespaces</h5>
+	<ul>
+					<li  id="ca-nstab-main" class="selected"><a href="/wiki/Wikileaks_website_attacked;_millions_of_files_to_be_released_tonight"  title="View the content page [c]" accesskey="c"><span>Article</span></a></li>
+					<li  id="ca-talk"><a href="/wiki/Talk:Wikileaks_website_attacked;_millions_of_files_to_be_released_tonight"  title="Discussion about the content page [t]" accesskey="t"><span>Collaboration</span></a></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+
+<!-- 1 -->
+<div id="p-variants" class="vectorMenu emptyPortlet">
+		<h5><span>Variants</span><a href="#"></a></h5>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+
+<!-- /1 -->
+			</div>
+			<div id="right-navigation">
+				
+<!-- 0 -->
+<div id="p-views" class="vectorTabs">
+	<h5>Views</h5>
+	<ul>
+					<li id="ca-view" class="selected"><a href="/wiki/Wikileaks_website_attacked;_millions_of_files_to_be_released_tonight" ><span>Read</span></a></li>
+					<li id="ca-viewsource"><a href="/w/index.php?title=Wikileaks_website_attacked;_millions_of_files_to_be_released_tonight&amp;action=edit"  title="This page is protected.&#10;You can view its source [e]" accesskey="e"><span>View source</span></a></li>
+					<li id="ca-history" class="collapsible "><a href="/w/index.php?title=Wikileaks_website_attacked;_millions_of_files_to_be_released_tonight&amp;action=history"  title="Past revisions of this page [h]" accesskey="h"><span>View history</span></a></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+
+<!-- 1 -->
+<div id="p-cactions" class="vectorMenu emptyPortlet">
+	<h5><span>Actions</span><a href="#"></a></h5>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+
+<!-- /1 -->
+
+<!-- 2 -->
+<div id="p-search">
+	<h5><label for="searchInput">Search</label></h5>
+	<form action="/w/index.php" id="searchform">
+		<input type='hidden' name="title" value="Special:Search"/>
+				<div id="simpleSearch">
+			<input id="searchInput" name="search" type="text"  title="Search Wikinews [f]" accesskey="f"  value="" />
+			<button id="searchButton" type='submit' name='button'  title="Search the pages for this text"><img src="http://bits.wikimedia.org/skins-1.5/vector/images/search-ltr.png?283-17" alt="Search" /></button>
+		</div>
+			</form>
+</div>
+
+<!-- /2 -->
+			</div>
+		</div>
+		<!-- /header -->
+		<!-- panel -->
+			<div id="mw-panel" class="noprint">
+				<!-- logo -->
+					<div id="p-logo"><a style="background-image: url(http://upload.wikimedia.org/wikinews/en/b/bc/Wiki.png);" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+				<!-- /logo -->
+				
+<!-- navigation -->
+<div class="portal" id='p-navigation'>
+	<h5>Navigation</h5>
+	<div class="body">
+				<ul>
+					<li id="n-mainpage"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main Page</a></li>
+					<li id="n-newsroom"><a href="/wiki/Wikinews:Newsroom">Newsroom</a></li>
+					<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="The list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+					<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random page [x]" accesskey="x">Random article</a></li>
+					<li id="n-Archives"><a href="/wiki/Wikinews:Archives">Archives</a></li>
+					<li id="n-Free-use-media-upload"><a href="http://commons.wikimedia.org/wiki/Commons:Upload">Free use media upload</a></li>
+				</ul>
+			</div>
+</div>
+
+<!-- /navigation -->
+
+<!-- Wikinews -->
+<div class="portal" id='p-Wikinews'>
+	<h5>Wikinews</h5>
+	<div class="body">
+				<ul>
+					<li id="n-help"><a href="/wiki/Wikinews:Introduction" title="The place to find out">Help</a></li>
+					<li id="n-Write-an-article"><a href="/wiki/Wikinews:Writing_an_article">Write an article</a></li>
+					<li id="n-Watercooler"><a href="/wiki/Wikinews:Water_cooler">Water cooler</a></li>
+					<li id="n-Styleguide"><a href="/wiki/Wikinews:Style_guide">Style guide</a></li>
+					<li id="n-livechat"><a href="/wiki/Wikinews:IRC" title="Talk with other Wikinewsies via Internet Relay Chat.">Live chat</a></li>
+					<li id="n-World-News-Quiz"><a href="/wiki/Wikinews:World_News_Quiz">World News Quiz</a></li>
+					<li id="n-Donate"><a href="http://wikimediafoundation.org/wiki/Special:Landingcheck?landing_page=WMFJA1&amp;language=en&amp;utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=20101204SB001">Donate</a></li>
+					<li id="n-contact"><a href="/wiki/Wikinews:Contact_us">Contact us</a></li>
+				</ul>
+			</div>
+</div>
+
+<!-- /Wikinews -->
+
+<!-- SEARCH -->
+
+<!-- /SEARCH -->
+
+<!-- Regions -->
+<div class="portal" id='p-Regions'>
+	<h5>Regions</h5>
+	<div class="body">
+				<ul>
+					<li id="n-Africa"><a href="/wiki/Portal:Africa">Africa</a></li>
+					<li id="n-Asia"><a href="/wiki/Portal:Asia">Asia</a></li>
+					<li id="n-CentralAmerica"><a href="/wiki/Portal:Central_America">Central America</a></li>
+					<li id="n-Europe"><a href="/wiki/Portal:Europe">Europe</a></li>
+					<li id="n-MiddleEast"><a href="/wiki/Portal:Middle_East">Middle East</a></li>
+					<li id="n-NorthAmerica"><a href="/wiki/Portal:North_America">North America</a></li>
+					<li id="n-Oceania"><a href="/wiki/Portal:Oceania">Oceania</a></li>
+					<li id="n-SouthAmerica"><a href="/wiki/Portal:South_America">South America</a></li>
+				</ul>
+			</div>
+</div>
+
+<!-- /Regions -->
+
+<!-- LANGUAGES -->
+<div class="portal" id="p-lang">
+	<h5>In other languages</h5>
+	<div class="body">
+		<ul>
+					<li class="interwiki-fr"><a href="http://fr.wikinews.org/wiki/Le_site_internet_de_WikiLeaks_attaqu%C3%A9_;_plusieurs_millions_de_fichiers_seront_divulgu%C3%A9s_ce_soir" title="Le site internet de WikiLeaks attaqué ; plusieurs millions de fichiers seront divulgués ce soir">Français</a></li>
+					<li class="interwiki-pl"><a href="http://pl.wikinews.org/wiki/Przecieki_z_Wikileaks_dt._raport%C3%B3w_dyplomatycznych_w_%C5%9Bwiatowych_mediach" title="Przecieki z Wikileaks dt. raportów dyplomatycznych w światowych mediach">Polski</a></li>
+					<li class="interwiki-ru"><a href="http://ru.wikinews.org/wiki/%D0%92%D0%B5%D1%87%D0%B5%D1%80%D0%BE%D0%BC_29_%D0%BD%D0%BE%D1%8F%D0%B1%D1%80%D1%8F_WikiLeaks_%D0%BE%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D1%83%D0%B5%D1%82_%D0%BC%D0%B8%D0%BB%D0%BB%D0%B8%D0%BE%D0%BD%D1%8B_%D1%81%D0%B5%D0%BA%D1%80%D0%B5%D1%82%D0%BD%D1%8B%D1%85_%D1%84%D0%B0%D0%B9%D0%BB%D0%BE%D0%B2" title="Вечером 29 ноября WikiLeaks опубликует миллионы секретных файлов">Русский</a></li>
+					<li class="interwiki-ta"><a href="http://ta.wikinews.org/wiki/%E0%AE%B5%E0%AE%BF%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AE%BF%E0%AE%B2%E0%AF%80%E0%AE%95%E0%AF%8D%E0%AE%B8%E0%AF%8D_%E0%AE%A8%E0%AE%BF%E0%AE%B1%E0%AF%81%E0%AE%B5%E0%AE%A9%E0%AE%B0%E0%AF%81%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AF%81_%E0%AE%85%E0%AE%9F%E0%AF%88%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AE%B2%E0%AE%AE%E0%AF%8D_%E0%AE%A4%E0%AE%B0_%E0%AE%8E%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AF%81%E0%AE%B5%E0%AE%9F%E0%AF%8B%E0%AE%B0%E0%AF%8D_%E0%AE%AE%E0%AF%81%E0%AE%A9%E0%AF%8D%E0%AE%B5%E0%AE%A8%E0%AF%8D%E0%AE%A4%E0%AE%A4%E0%AF%81" title="விக்கிலீக்ஸ் நிறுவனருக்கு அடைக்கலம் தர எக்குவடோர் முன்வந்தது">தமிழ்</a></li>
+					<li class="interwiki-uk"><a href="http://uk.wikinews.org/wiki/%D0%A1%D0%B0%D0%B9%D1%82_Wikileaks_%D0%BC%D0%B0%D1%94_%D0%BD%D0%B0%D0%BC%D1%96%D1%80_%D0%BE%D0%BF%D1%80%D0%B8%D0%BB%D1%8E%D0%B4%D0%BD%D0%B8%D1%82%D0%B8_%D0%BC%D1%96%D0%BB%D1%8C%D0%B9%D0%BE%D0%BD%D0%B8_%D1%81%D0%B5%D0%BA%D1%80%D0%B5%D1%82%D0%BD%D0%B8%D1%85_%D0%B4%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%96%D0%B2" title="Сайт Wikileaks має намір оприлюднити мільйони секретних документів">Українська</a></li>
+				</ul>
+	</div>
+</div>
+
+<!-- /LANGUAGES -->
+
+<!-- TOOLBOX -->
+<div class="portal" id="p-tb">
+	<h5>Toolbox</h5>
+	<div class="body">
+		<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Wikileaks_website_attacked;_millions_of_files_to_be_released_tonight" title="List of all wiki pages that link here [j]" accesskey="j">What links here</a></li>
+						<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Wikileaks_website_attacked;_millions_of_files_to_be_released_tonight" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+																																										<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="List of all special pages [q]" accesskey="q">Special pages</a></li>
+									<li id="t-print"><a href="/w/index.php?title=Wikileaks_website_attacked;_millions_of_files_to_be_released_tonight&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+						<li id="t-permalink"><a href="/w/index.php?title=Wikileaks_website_attacked;_millions_of_files_to_be_released_tonight&amp;oldid=1150425" title="Permanent link to this revision of the page">Permanent link</a></li>
+				<li id="t-rating"><a href="/w/index.php?title=Special:RatingHistory&amp;target=Wikileaks_website_attacked;_millions_of_files_to_be_released_tonight">Page rating</a></li>		</ul>
+	</div>
+</div>
+
+<!-- /TOOLBOX -->
+			</div>
+		<!-- /panel -->
+		<!-- footer -->
+		<div id="footer">
+											<ul id="footer-info">
+																	<li id="footer-info-lastmod"> This page was last modified on 26 December 2010, at 00:41.</li>
+																							<li id="footer-info-copyright"><div class="floatright"><!--Creative Commons License--><a rel="license" href="http://creativecommons.org/licenses/by/2.5/"><img id="license-logo" alt="Creative Commons License" border="0" src="http://upload.wikimedia.org/wikipedia/commons/d/d3/CCBY_yellow.png"/></a></div>
+<div align="left">All text created after September 25, 2005 is available under the terms of the <a href="http://creativecommons.org/licenses/by/2.5/" class="external ">Creative Commons Attribution 2.5</a> License unless otherwise specified. <br />Contributions must be attributed to Wikinews. <br />Copyright terms on images may vary, please check individual image pages prior to duplication.<br /> Wikinews&reg;, and the Wikinews logo are registered trademarks of the <a href="http://wikimediafoundation.org/">Wikimedia Foundation, Inc.</a><br /><br />Wikinews is not responsible for the content of external sites.
+</div>
+<!-- metadata so that people who search for us in cc-content only engines (like advanced google search) ''should'' be able to find us -->
+<!--/Creative Commons License--><!-- <rdf:RDF xmlns="http://web.resource.org/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+		<Work rdf:about="">
+			<license rdf:resource="http://creativecommons.org/licenses/by/2.5/" />
+	<dc:title>Wikinews, the free news source you can write!</dc:title>
+	<dc:description>We are a group of volunteers whose mission is to build a website with present up-to-date, relevant, newsworthy and entertaining content without bias.
+
+All content is released under a free license. By making our content perpetually available for free redistribution and use, we hope to contribute to a global digital commons.
+
+Wikinews also aims to write stories from a neutral point of view.
+
+Wikinews needs you! We want to create a diverse community where citizens from around the globe can collaborate to report the news on a wide variety of current events.</dc:description>
+	<dc:creator><Agent><dc:title>Wikinews Community</dc:title></Agent></dc:creator>
+	<dc:rights><Agent><dc:title>Wikinews Community</dc:title></Agent></dc:rights>
+	<dc:type rdf:resource="http://purl.org/dc/dcmitype/Text" />
+		</Work>
+		<License rdf:about="http://creativecommons.org/licenses/by/2.5/"><permits rdf:resource="http://web.resource.org/cc/Reproduction"/><permits rdf:resource="http://web.resource.org/cc/Distribution"/><requires rdf:resource="http://web.resource.org/cc/Notice"/><requires rdf:resource="http://web.resource.org/cc/Attribution"/><permits rdf:resource="http://web.resource.org/cc/DerivativeWorks"/></License></rdf:RDF> --></li>
+															</ul>
+															<ul id="footer-places">
+																	<li id="footer-places-privacy"><a href="http://wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+																							<li id="footer-places-about"><a href="/wiki/Wikinews:About" title="Wikinews:About">About Wikinews</a></li>
+																							<li id="footer-places-disclaimer"><a href="/wiki/Wikinews:General_disclaimer" title="Wikinews:General disclaimer">Disclaimers</a></li>
+															</ul>
+										<ul id="footer-icons" class="noprint">
+								<li id="footer-icon-poweredby"><a href="http://www.mediawiki.org/"><img src="http://bits.wikimedia.org/skins-1.5/common/images/poweredby_mediawiki_88x31.png" height="31" width="88" alt="Powered by MediaWiki" /></a></li>
+												<li id="footer-icon-copyright"><a href="http://wikimediafoundation.org/"><img src="/images/wikimedia-button.png" width="88" height="31" alt="Wikimedia Foundation"/></a></li>
+							</ul>
+			<div style="clear:both"></div>
+		</div>
+		<!-- /footer -->
+		<!-- fixalpha -->
+		<script type="text/javascript"> if ( window.isMSIE55 ) fixalpha(); </script>
+		<!-- /fixalpha -->
+		
+<script type="text/javascript">if (window.runOnloadHook) runOnloadHook();</script>
+<script type="text/javascript" src="http://geoiplookup.wikimedia.org/"></script>		<!-- Served by srv274 in 0.057 secs. -->			</body>
+</html>

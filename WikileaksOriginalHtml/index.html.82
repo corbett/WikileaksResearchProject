@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" 
+   "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"> 
+<html xmlns="http://www.w3.org/1999/xhtml"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xml:lang="en" > 
+<head> 
+	<meta http-equiv="Content-Type" content="application/xhtml+xml" /> 
+	<link rel="icon" type="image/png" href="img/favicon.ico" /> 
+	<link rel="stylesheet" href="css/css.css" type="text/css" /> 
+	<script src="js/twitter.js" type="text/javascript"></script> 
+	<script type="text/javascript" charset="utf-8"> 
+		getTwitters('tweet', { 
+		id: 'wikileaksNL', 
+		count: 3, 
+		enableLinks: true, 
+		ignoreReplies: true, 
+		clearContents: true,
+		template: '"%text%" <a href="http://twitter.com/%user_screen_name%/statuses/%id%/">%time%</a>',
+	});
+	</script> 
+	<title>WikiLeaks</title> 
+</head> 
+<body> 
+	<div class="main"> 
+		<div class="bar"></div> 
+		<div class="nav"> 
+			<a href=".">Main</a> 
+			<a href="video.html">Video</a> 
+			<a href="support.html">Support</a>
+			<a href="about.html">About</a>
+			<a href="submissions.html">Submissions</a> 
+			<a href="media.html">Medias</a>
+			<a href="mirrors.html">Mirrors</a>
+		</div> 
+		<div class="left"> 
+			<a href = "/"><img style="border:none;" src="img/wlogo.png" class="logo" alt="WikiLeaks Blog" /> </a> 
+ 
+			<a href="support.html" class="donate"><div class="donate"><script src="js/random.js" type="text/javascript"></script></div></a>			
+ 
+			<div class="leftbox"> 
+				<div id="tweet"> 
+					<p>Loading tweets...</p> 
+				</div>
+			<h3><a href="http://twitter.com/share" class="twitter-share-button" data-count="horizontal">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script></h3>
+			</div> 
+			<div style="margin: 0px 0px 20px 10px;"><script src="http://connect.facebook.net/en_US/all.js#xfbml=1"></script><fb:like-box href="http://www.facebook.com/wikileaks" width="157" connections="10" stream="false" header="false"></fb:like-box></div>
+			<div style="margin: 10px 10px 10px 0px; font-size: 90%; text-align:center;">
+			Feedback?<br>
+			<a href="mailto:info@wikileaks.nl">info@wikileaks.nl</a>			
+			</div>
+		</div> 
+
+		<p class="first"><a href="/support.html"><img src="img/ja-main.jpg"></a></p>
+		               
+		<p class="quote">"Could become as important a journalistic tool as the Freedom of Information Act." - Time Magazine</p>
+
+		<div class="newsbar">
+			<p>WikiLeaks is a non-profit media organization dedicated to bringing important news and information to the public. We provide an innovative, secure and anonymous way for independent sources around the world to leak information to our journalists. We publish material of ethical, political and historical significance while keeping the identity of our sources anonymous, thus providing a universal way for the revealing of suppressed and censored injustices.
+			<br /><br />
+			WikiLeaks relies on its supporters in order to stay strong. Please keep us at the forefront of anti-censorship and <a href="support.html">support us</a> today. You can also <a href="about.html"><b>read more about WikiLeaks, our mission and objectives</a></b>.</p>
+			<hr />
+		</div>
+			
+		<div class="newsbar">
+			<h2><a href="/cablegate.html">Cablegate: 250,000 US Embassy Diplomatic Cables</a></h2>
+			<span class="timestamp">2010-11-28</span>
+			<p>On Sunday 28th Novembre 2010, Wikileaks began publishing 251,287 leaked United States embassy cables, the largest set of confidential documents ever to be released into the public domain. The documents will give people around the world an unprecedented insight into the US Government's foreign activities.</p>
+		</div>
+
+		<div class="newsbar">
+			<h2><a href="/file/wikileaks_archive.7z">All released leaks archived</a></h2>
+			<span class="timestamp">2010-11-28</span>
+			<p>Due to recent attacks on our infrastructure, we've decided to make sure everyone can reach our content. As part of this process we're releasing archived copy of all files we ever released - that's almost 20,000 files. The archive linked here contains a torrent generated for each file and each directory. </p>
+		</div>		
+		
+		<div class="newsbar">
+			<h2><a href= 'http://www.diarydig.org/'>War Diary: Iraq War Logs</a></h2>
+			<span class="timestamp">2010-10-22</span>
+			<p>The 391,832 reports ('The Iraq War Logs'), document the war and occupation in Iraq, from 1st January 2004 to 31st December 2009 (except for the months of May 2004 and March 2009) as told by soldiers in the United States Army. Each is a 'SIGACT' or Significant Action in the war. They detail events as seen and heard by the US military troops on the ground in Iraq and are the first real glimpse into the secret history of the war that the United States government has been privy to throughout.</p>
+		</div>
+		
+		<div class="newsbar">
+			<h2><a href= 'http://www.diarydig.org/'>War Diary: Afghanistan War Logs</a></h2>
+			<span class="timestamp">2010-07-25</span>
+			<p>From here, you can browse through all of the documents that have been released, organized by type, category, date, number of casualties, and many other properties. From any document page, clicking on the green underlined text will open a popup that links to other documents that contain those phrases, making it possible to see important search terms and connections that you might not otherwise notice.</p>
+		</div>
+		
+		<div class="newsbar">
+			<h2><a href= 'http://www.collateralmurder.com/'>Video: Collateral Murder</a></h2>
+			<span class="timestamp">2010-04-05</span>
+			<p>WikiLeaks has released a classified US military video depicting the indiscriminate slaying of over a dozen people in the Iraqi suburb of New Baghdad -- including two Reuters news staff. Reuters has been trying to obtain the video through the Freedom of Information Act, without success since the time of the attack. The video, shot from an Apache helicopter gun-sight, clearly shows the unprovoked slaying of a wounded Reuters employee and his rescuers. Two young children involved in the rescue were also seriously wounded.
+
+</p>
+		</div>
+</body> 
+</html> 

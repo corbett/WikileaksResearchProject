@@ -1,0 +1,385 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Memo to US Secret Service: Net proxy may pinpoint Palin email hackers • The Register</title>
+<script type="text/javascript">
+var RegArticle = { id:81809, pf:0, af:0, bms:0, ec:'', rating:{count:18,avg:8}, kw:[['identity theft','Identity Theft'],['phishing','Phishing'],['metasploit','Metasploit'],['hackers','Hackers'],['rootkits','Rootkits'],['vulnerability research','Vulnerability Research'],['spyware and adware','Spyware And Adware'],['xss','Xss'],['public key cryptography','Public Key Cryptography'],['privacy','Privacy'],['botnets','Botnets'],['information security','Information Security'],['data theft','Data Theft'],['exploit code','Exploit Code'],['webattacker','Webattacker'],['pen testing','Pen Testing'],['spam and phishing','Spam And Phishing'],['viruses and worms','Viruses And Worms'],['cyber espionage','Cyber Espionage'],['cross site scripting error','Cross Site Scripting Error'],['iframe redirection','Iframe Redirection'],['surveillance and wiretapping','Surveillance And Wiretapping']], short_url:'http://reg.cx/15Bk'};
+</script>
+<meta name="keywords" content='"identity theft", "phishing", "metasploit", "hackers", "rootkits", "vulnerability research", "spyware and adware", "xss", "public key cryptography", "privacy", "botnets", "information security", "data theft", "exploit code", "webattacker", "pen testing", "spam and phishing", "viruses and worms", "cyber espionage", "cross site scripting error", "iframe redirection", "surveillance and wiretapping"'>
+<link rel="image_src" href="/Design/graphics/icons/vulture_black_60_trans.png">
+<link rel="alternate" media="print" title="Printer-Friendly version" href="print.html" type="text/html">
+<link rel="up" title="Security section" href="/security/">
+<link rel=stylesheet type="text/css" href="/style_picker/design?a">
+<style type="text/css" media="screen, projection">
+#sec-security a { font-weight: bold }
+#sub-sec-none a { font-weight: bold }
+</style>
+<link rel=alternate type="application/atom+xml" href="/headlines.atom" title="The Register: whole site">
+<link rel=alternate type="application/atom+xml" href="/security/headlines.atom" title="The Register: Security section">
+
+<script type="text/javascript" src="/Design/javascript/_.js?a"></script>
+<script type="text/javascript">document.write(RegNIR('sec.front'))</script>
+<script type="text/javascript" src="/security/data.js"></script>
+<link rel="SHORTCUT ICON" type="image/x-icon" href="/favicon.ico">
+<link rel=top title="Site homepage" href="/">
+<link rel=search href="http://search.theregister.co.uk/">
+<link rel=search type="application/opensearchdescription+xml" title="El Reg Search" href="/Design/page/search.osd">
+<link rel=apple-touch-icon href="/Design/graphics/icons/vulture_black_60_trans.png">
+<link rel=microsummary href="/microsummary.txt" type="text/plain; charset=utf-8">
+
+
+
+<script type="text/javascript">
+google_ad_client="pub-6455808816405956";
+google_targeting="content";
+google_ad_channel='2887436585';
+google_ad_output='js';
+google_max_num_ads='6';
+google_ad_type='text';
+google_language='en';
+google_encoding='utf8';
+google_safe='high';
+google_feedback='on';
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script>
+
+
+</head>
+<body>
+<div id=page>
+<p id=contentlink><a href="#main-content">Skip to content</a></p>
+<div id="am">
+  <p class=login></p>
+  <ul>
+    <li><a href="http://whitepapers.theregister.co.uk/">Whitepapers</a></li>
+    
+    <li>| <a href="http://www.reghardware.com/">Reg Hardware</a></li>
+    <li>| <a href="http://www.channelregister.co.uk/">Channel Reg</a></li>
+  </ul>
+</div>
+<div id=masthead>
+<h1>
+<a href="/"><img src="/Design/graphics/std/logo_414_80.png" width=414 height=80 alt="The Register® — Biting the hand that feeds IT"></a>
+</h1>
+
+</div>
+<div id=top-nav>
+<ul>
+<li id=sec-hardware><a href="/hardware/" title="Hardware: PCs &amp; Chips, Servers, Storage, Data Networking, Virtualization">Hardware</a></li>
+<li id=sec-software><a href="/software/" title="Software: Operating Systems, Applications, Developer, Microbite">Software</a></li>
+<li id=sec-music-media><a href="/music_media/" title="Music and media">Music &amp; Media</a></li>
+<li id=sec-networks><a href="/networks/" title="Networks: VoIP, Wireless, Mobile, Telecoms">Networks</a></li>
+<li id=sec-security><a href="/security/" title="Security: Crime, Enterprise Security, Anti-Virus, Spam, Identity, Spyware">Security</a></li>
+<li id=sec-public-sector><a href="/public_sector/" title="Public Sector: Government, Law, Policing">Public Sector</a></li>
+<li id=sec-business><a href="/business/" title="Business: Financial News, Small Biz, IT Director, Tech Panel">Business</a></li>
+<li id=sec-science><a href="/science/" title="Science: Environment, Biology, Physics, Space, Rise of the Machines™">Science</a></li>
+<li id=sec-odds><a href="/odds/" title="Odds &amp; Sods: BOFH, Verity Stob, Bootnotes, Entertainment, Letters">Odds &amp; Sods</a></li>
+</ul>
+
+<form action="http://search.theregister.co.uk/" method=GET>
+<input type=text name=q id=q>
+<noscript>
+<input type=submit value="Search »">
+</noscript>
+</form>
+
+<a href="/Design/page/feeds.html"><img src="/Design/graphics/std/feed-icon-28x28.png" width=18 height=18 alt=Feeds></a>
+
+</div>
+<div id=sub-nav>
+<ul id=subsections>
+<li id=sub-sec-crime><a href="/security/crime/" title="Crime news, analysis and opinion">Crime</a></li>
+<li id=sub-sec-malware><a href="/security/malware/" title="Malware news, analysis and opinion">Malware</a></li>
+<li id=sub-sec-enterprise><a href="/security/enterprise/" title="Enterprise Security news, analysis and opinion">Enterprise Security</a></li>
+<li id=sub-sec-spam><a href="/security/spam/" title="Spam news, analysis and opinion">Spam</a></li>
+<li id=sub-sec-identity><a href="/security/identity/" title="Identity news, analysis and opinion">ID</a></li>
+</ul>
+
+<img src="/Design/graphics/std/strap.png" width=225 height=24 alt="Biting the hand that feeds IT" class=strap>
+
+</div>
+
+
+<div id=lb>
+<div class=ad-now id=ad-lb-spot>
+<div id=ad-lb><script type="text/javascript">RegAd('lb', 'reg.security.4159/front', 'pos=top;dcopt=ist;sz=728x90', VCs);</script></div>
+<noscript>
+<a href="http://ad.uk.doubleclick.net/jump/reg.security.4159/front;tile=1;pos=top;dcove=d;sz=728x90;ord=TRfL2cCoZGQAABZpfowAAAMo?" target="_blank"><img src="http://ad.uk.doubleclick.net/ad/reg.security.4159/front;tile=1;pos=top;dcove=d;sz=728x90;ord=TRfL2cCoZGQAABZpfowAAAMo?" alt=""></a>
+</noscript>
+</div>
+</div>
+
+<div id=main-content>
+
+
+<div id=main-col>
+
+<div id="article">
+<h2>Memo to US Secret Service: Net proxy may pinpoint Palin email hackers</h2>
+<div class="article-nav" id="article-top-nav"><ul>
+<li id="track-this-topic"><a href="alert.html" title="Get email or RSS alerts for articles like this one">Alert <img src="/Design/graphics/std/track.png" width="17" height="17" alt=""></a></li>
+<li><a href="print.html" title="View a printer-friendly version of this article"><img src="/Design/graphics/std/print.png" width="17" height="17" alt=""> Print</a></li>
+<li><a title="Tweet this to Twitter" href="http://twitter.com/home/?status=Memo%20to%20US%20Secret%20Service%3A%20Net%20proxy%20may%20pinpoint%20Palin%20email%20hackers+http://reg.cx/15Bk"><img src="/Design/graphics/icons/twitter.png" width="17" height="17" alt="">Retweet</a></li>
+<li><a title="Share on Facebook" href="http://www.facebook.com/share.php?u=http://reg.cx/15Bk"><img src="/Design/graphics/icons/facebook-grey.png" width="17" height="17" alt="">Facebook</a></li>
+</ul></div>
+<p class="standfirst">Not quite Anonymous</p>
+<p class="byline">By <a href="http://forms.theregister.co.uk/mail_author/?story_url=/2008/09/18/palin_email_investigation/" title="Send email to the author">Dan Goodin in San Francisco</a> • <a href="http://search.theregister.co.uk/?author=Dan%20Goodin" class="more-by-author" title="More stories on this site by Dan Goodin">Get more from this author</a></p>
+<p class="dateline">Posted in <a href="/security/">Security</a>, <a href="/2008/09/18/" title="More stories published on this date">18th September 2008 01:22 GMT</a></p>
+<p class="wptl top"><a href="http://go.theregister.com/tl/434/-1534/wp-hidden-cost-ent-apj-jun2010.pdf?td=wptl434">Free whitepaper – Hidden Costs? Evaluating ‘Budget’ Email Security Solutions</a></p>
+<div id="body">
+<p><strong class="trailer">Updated</strong> Memo to law enforcement investigators tracking down who broke into Sarah Palin's Yahoo email account: Gabriel Ramuglia might be a good place to start.</p>
+
+<p>The 25-year-old webmaster and entrepreneur is the operator of <a href="http://ctunnel.com/" target="_blank">Ctunnel.com</a>, the browsing proxy service used by the group that hacked into the vice presidential candidate's personal email account and <a href="http://www.theregister.co.uk/2008/09/17/anonymous_hacks_sarah_palin/">exposed its contents</a> to the world. While he has yet to examine his logs, he says there's a good chance they will lead to those responsible, thanks to some carelessness on their part.</p>
+
+<div id="article-mpu-container">
+<div class=ad-now id=ad-mpu1-spot>
+<div id=ad-mpu1><script type="text/javascript">RegAd('mpu1', 'reg.security.4159/front', 'pos=top;sz=336x280', VCs);</script></div>
+<noscript>
+<a href="http://ad.uk.doubleclick.net/jump/reg.security.4159/front;tile=2;pos=top;dcove=d;sz=336x280;ord=TRfL2cCoZGQAABZpfowAAAMo?" target="_blank"><img src="http://ad.uk.doubleclick.net/ad/reg.security.4159/front;tile=2;pos=top;dcove=d;sz=336x280;ord=TRfL2cCoZGQAABZpfowAAAMo?" alt=""></a>
+</noscript>
+</div>
+
+<p>"Usually, this sort of thing would be hard to track down because it's Yahoo email, and a lot of people use my service for that," he told <i>El Reg</i> in a phone interview. "Since they were dumb enough to post a full screenshot that showed most of the [Ctunnel.com] URL, I should be able to find that in my log."</p>
+</div>
+
+<p>Ramuglia got into the proxy business a few years ago, after schools began blocking access to an online game site he used to co-own. Pretty soon, people began using the proxy service to access YouTube, Gmail, MySpace, and dozens of other sites that are routinely blocked by IT departments.</p>
+
+<p>To prevent abuse of the service - such as the occasional bomb threat or other illegal act that's been known to happen - Ramuglia logs each user's IP address, along with the time and web destination. That often isn't enough to track down people who access extremely popular websites. But in this case, the perpetrators included a whole string of random-looking characters when posting screenshots of Palin's hacked account. That will probably be enough for him to pinpoint the proverbial needle in the haystack.</p>
+
+<p>The information at the moment is on a server at a Chicago colocation site owned by <a href="http://www.fdcservers.net/" target="_blank">FDC Servers</a>. Logs are automatically flushed after seven days, so the clock is ticking for law enforcement, who presumably are under intense pressure to protect the privacy of a candidate for the White House. Of course, there's always the possibility that Ctunnel.com was only one of multiple anonymization services the email hackers used to cover their tracks, but there's only one way to find out.</p>
+
+<p>Ramuglia said if he is contacted by law enforcement officials he will probably give them the information they seek. At time of writing, he's received no inquiries from any law enforcement agencies, he said.</p>
+
+<p>The breach of Palin's account "is pretty clearly against my terms of service," he said. "As exciting as it is to be in the news, this is not the type of activity I can encourage by any means."</p>
+
+<h3>Update</h3>
+
+<p>Within hours of this story posting, Ramuglia received a phone call from an FBI special agent from the Anchorage, Alaska, field office.</p>
+
+<p>"He just wanted to make sure I wasn't losing the logs," Ramuglia said, referring to the special agent. The two are scheduled to speak again soon to coordinate the turning over the logged information.</p>
+
+<p>What's more, <i>Wired.com</i> has a story <a href="http://blog.wired.com/27bstroke6/2008/09/palin-e-mail-ha.html" target="_blank">here</a> detailing a now-removed post to the 4chan website in which a person claiming to the hacker who accessed Palin's email "used only a single proxy service to hide his IP address." Oops. ®</p>
+</div>
+<p class="wptl btm"><a href="http://go.theregister.com/tl/434/-1717/2010-the-year-of-the-web-threat-wp-sept-2010.pdf?td=wptl434">Free whitepaper – Web Threats 2010: The Risks Ramp Up</a></p><script type="text/javascript">RegWpTl = ['<a href="http://go.theregister.com/tl/435/-1453/tms-performance-whitepaper-081910.pdf?td=wptl435">Free whitepaper \u2013 Increase Application Performance with Solid State Disks<\/a>','<a href="http://go.theregister.com/tl/435/-1454/oracle-performance-tuning-with-ssd.pdf?td=wptl435">Free whitepaper \u2013 Oracle Performance Tuning with Solid State Disk<\/a>','<a href="http://go.theregister.com/tl/434/-1534/wp-hidden-cost-ent-apj-jun2010.pdf?td=wptl434">Free whitepaper \u2013 Hidden Costs? Evaluating \u2018Budget\u2019 Email Security Solutions<\/a>','<a href="http://go.theregister.com/tl/434/-1532/bandwidth-bandits.pdf?td=wptl434">Free whitepaper \u2013 Bandwidth Bandits<\/a>','<a href="http://go.theregister.com/tl/434/-1786/hosted-vs-appliance-whitepaper-sg.pdf?td=wptl434">Free whitepaper \u2013 The benefits of choosing a Hosted Security Solution<\/a>','<a href="http://go.theregister.com/tl/434/-1533/wp-legal-risks-of-uncontrolled-email-and-web-content.pdf?td=wptl434">Free whitepaper \u2013 The Legal Risks of Uncontrolled Web Use and Email Content<\/a>','<a href="http://go.theregister.com/tl/434/-1624/whitepaper-a-question-of-continuity-anz-jun2010.pdf?td=wptl434">Free whitepaper \u2013 Maximising Email Availability for Your Business<\/a>','<a href="http://go.theregister.com/tl/434/-1716/mlabs-news-spam-wp.pdf?td=wptl434">Free whitepaper \u2013 News spam: Behind the headlines<\/a>','<a href="http://go.theregister.com/tl/434/-1717/2010-the-year-of-the-web-threat-wp-sept-2010.pdf?td=wptl434">Free whitepaper \u2013 Web Threats 2010: The Risks Ramp Up<\/a>'];</script>
+<div class="article-nav" id="article-bottom-nav"><ul><li><a href="http://forums.theregister.co.uk/forum/1/2008/09/18/palin_email_investigation/" title="View comments on this article"><img src="/Design/graphics/std/comment.png" width="17" height="17" alt=""><span class="number">53</span> comments</a></li></ul></div>
+<div id="related-stories">
+<h3>Related stories</h3>
+<ul class="headline-list">
+<li>
+<a href="/2010/04/30/palin_jury_convicts/" title="Faces 20 years">Student found guilty of obstruction in Sarah Palin email trial</a> <small>(30 April 2010)</small>
+</li>
+<li>
+<a href="/2010/04/28/palin_email_witness/" title="When throwing the book backfires">Palin email witness decries 'dog and pony' prosecution</a> <small>(28 April 2010)</small>
+</li>
+<li>
+<a href="/2010/03/12/palin_email_breach_testimony/" title="After Yahoo! breach 'paralyzed' Veep campaign">Sarah Palin to testify in email hack trial</a> <small>(12 March 2010)</small>
+</li>
+<li>
+<a href="/2009/11/25/cru_climate_hack_identity/" title="Is anyone looking?">Climate change hackers leave breadcrumb trail</a> <small>(25 November 2009)</small>
+</li>
+<li>
+<a href="/2009/11/19/palin_webmail_hack_horror/" title="Yes, that was the problem, Sarah">Palin claims webmail hack disrupted GOP campaign</a> <small>(19 November 2009)</small>
+</li>
+<li>
+<a href="/2009/08/24/4chan_pwns_christians/" title="Unholy hack">4chan pwns Christians on Facebook</a> <small>(24 August 2009)</small>
+</li>
+<li>
+<a href="/2009/04/17/time_top_100_hack/" title="'World's most influential' list is mooted">Hackers stuff ballot box for Time Magazine's top 100 poll</a> <small>(17 April 2009)</small>
+</li>
+<li>
+<a href="/2009/03/09/palin_hacker_recharged/" title="Circular reasoning straightened out">Feds file new felonies against alleged Palin hacker</a> <small>(9 March 2009)</small>
+</li>
+<li>
+<a href="/2009/01/28/4chan_pwns_digital_camera_forum/" title="'This forum is now 4chan's bitch'"><strong class="trailer">Updated</strong> 'Anonymous' pwns Digital Camera Mag website</a> <small>(28 January 2009)</small>
+</li>
+<li>
+<a href="/2009/01/06/macrumors_breached/" title="Blasphemy on Jobsian high holy day">Pranksters infiltrate live Macworld feed</a> <small>(6 January 2009)</small>
+</li>
+<li>
+<a href="/2008/11/13/palin_email_hacker_motions/" title="The semantics of electronic intrusion">Attorneys for Palin email hacker: 'Don't call him hacker'</a> <small>(13 November 2008)</small>
+</li>
+<li>
+<a href="/2008/10/23/vbyv_password_reset/" title="Hit keyboard with fists, gain access">VbyV password reset is childishly simple</a> <small>(23 October 2008)</small>
+</li>
+<li>
+<a href="/2008/10/18/15m_palin_email/" title="The cost of transparency">Palin demands $15m to search her own emails</a> <small>(18 October 2008)</small>
+</li>
+<li>
+<a href="/2008/10/13/palin_yahoo_emails_order/" title="Used for official Alaska business">Sarah Palin ordered to preserve Yahoo! emails</a> <small>(13 October 2008)</small>
+</li>
+<li>
+<a href="/2008/10/08/palin_email_hijack_indictment/" title="'No interwebs for you!'">Son of state lawmaker charged with Palin email hack</a> <small>(8 October 2008)</small>
+</li>
+<li>
+<a href="/2008/10/02/sarah_palin_interview_generator/" title="Artificial intelligence ineptitude">Interwebs page channels Palin twaddle</a> <small>(2 October 2008)</small>
+</li>
+<li>
+<a href="/2008/09/24/palin_hack_no_charges_yet/" title="Investigation continues">Grand jury fails to level charges in Palin hack case</a> <small>(24 September 2008)</small>
+</li>
+<li>
+<a href="/2008/09/22/palin_hack_suspect_search_warrant/" title="Investigators interrupt student party">Feds search Palin hack suspect's flat</a> <small>(22 September 2008)</small>
+</li>
+<li>
+<a href="/2008/09/20/fox_news_bill_oreilly_hacked/" title="200 loyal followers Wikileaked">FoxNews commentator Bill O'Reilly's website hacked</a> <small>(20 September 2008)</small>
+</li>
+<li>
+<a href="/2008/09/18/palin_email_investigation_continues/" title="How to fool Yahoo! email security in 45 minutes or less">Democratic rep fathered alleged Palin hacker</a> <small>(18 September 2008)</small>
+</li>
+<li>
+<a href="/2008/09/17/anonymous_hacks_sarah_palin/" title="Veep candidate's email bared by Wikileaks">Anonymous hacks Sarah Palin's Yahoo! account</a> <small>(17 September 2008)</small>
+</li>
+<li>
+<a href="/2008/08/29/wellcome_biometric_exhibition/" title="Fingerprints, iris scans sprayed to all comers">Biometrics exhibit blushes over email snafu</a> <small>(29 August 2008)</small>
+</li>
+<li>
+<a href="/2008/08/13/security_researchers_targeted/" title="'War' aims to shame">Security researchers' accounts ransacked in embarrasing hacklash</a> <small>(13 August 2008)</small>
+</li>
+<li>
+<a href="/2008/08/07/torbrowser_olympics/" title="A new Olympic sport">German hackers poke hole in great firewall of China</a> <small>(7 August 2008)</small>
+</li>
+</ul>
+</div>
+</div>
+<div id=whitepapers><h3><a href="http://whitepapers.theregister.co.uk/">Whitepapers</a></h3><div class="paper first-row row-start">
+<h4><a href="http://whitepapers.theregister.co.uk/paper/view/1811/malware-security-report?td=related"><img src="http://regmedia.co.uk/2010/12/06/1811.png" alt="" width="60" height="60">Malware Security Report</a></h4>
+<p class="standfirst"><a href="http://whitepapers.theregister.co.uk/paper/view/1811/malware-security-report?td=related">This white paper will help you understand the threat from malware and how it can impact your online business.</a></p>
+</div><div class="paper first-row">
+<h4><a href="http://whitepapers.theregister.co.uk/paper/view/1814/proof-positive-extended-validation-ssl-increases-online-sales-and-transactions?td=related"><img src="http://regmedia.co.uk/2010/12/06/1814.png" alt="" width="60" height="60">Extended Validation SSL Increases Online Sales and Transactions</a></h4>
+<p class="standfirst"><a href="http://whitepapers.theregister.co.uk/paper/view/1814/proof-positive-extended-validation-ssl-increases-online-sales-and-transactions?td=related">Extended Validation (EV) SSL has proven to be a key factor in helping overcome customer hesitation to transact business online.</a></p>
+</div><div class="paper row-start">
+<h4><a href="http://whitepapers.theregister.co.uk/paper/view/1826/apps-security-whitepaper-2010?td=related"><img src="http://regmedia.co.uk/2010/12/13/1826.png" alt="" width="60" height="60">Google Apps Messaging and Collaboration Products</a></h4>
+<p class="standfirst"><a href="http://whitepapers.theregister.co.uk/paper/view/1826/apps-security-whitepaper-2010?td=related">Read this whitepaper to get a comprehensive look at the security controls, processes and technologies that we have implemented in Google Apps.</a></p>
+</div><div class="paper">
+<h4><a href="http://whitepapers.theregister.co.uk/paper/view/1810/beginners-guide-to-ssl?td=related"><img src="http://regmedia.co.uk/2010/12/06/1810.png" alt="" width="60" height="60">Beginners Guide to Digital SSL Certificates</a></h4>
+<p class="standfirst"><a href="http://whitepapers.theregister.co.uk/paper/view/1810/beginners-guide-to-ssl?td=related">This guide will de-mystify the technology involved in online security.</a></p>
+</div><div class="paper row-start last">
+<h4><a href="http://whitepapers.theregister.co.uk/paper/view/1815/security-and-trust?td=related"><img src="http://regmedia.co.uk/2010/12/06/1815.png" alt="" width="60" height="60">The Backbone of Doing Business over the Internet</a></h4>
+<p class="standfirst"><a href="http://whitepapers.theregister.co.uk/paper/view/1815/security-and-trust?td=related">Gaining the trust of online customers is vital. 54% of online shoppers have abandoned a purchase because of security concerns.</a></p>
+</div><div class="search-more"><a href="http://whitepapers.theregister.co.uk">Search more Resources</a></div>
+
+</div>
+</div>
+<div id=right-col>
+
+<script type="text/javascript">if (RegArticle.bms){
+document.write('<div class=ad-now id=ad-mpu1-spot><div id=ad-mpu1>');
+RegAd('mpu1', 'reg.security.4159/front', 'pos=top;sz=336x280', VCs);
+document.write('<\/div><\/div>');
+}</script>
+
+<div id="hot" class="box">
+<h3>Most read</h3>
+<ol class="headline-list">
+<li><a href="/2010/12/17/scientology_victory_anonymous/" title="Fruitcake cultist dubs hacktivistas 'cartoon characters'">Scientologist overlord declares victory over Anonymous</a></li>
+<li><a href="/2010/10/21/apple_facetime_security_hole/" title="Beta puts iTunes accounts at risk">Apple's FaceTime for Mac debuts with security holes</a></li>
+<li><a href="/2010/12/21/secunia_psi_revamp/" title="Patchwork quilt">Secunia intros auto-update to patch management tool</a></li>
+<li><a href="/2010/08/03/google_street_view_hack/" title="'Geo location gone terrible'">Hack uses Google Street View data to stalk its victims</a></li>
+<li><a href="/2010/08/10/german_government_mulls_blackberry_iphone_ban/" title="Closed proprietary system not safe for gov">Germany bans BlackBerrys and iPhones on snooping fears</a></li>
+</ol>
+</div>
+
+
+
+<p style="padding-bottom:1em;border-bottom:1px solid #ccc"><strong><a href="http://account.theregister.co.uk/register/?product=security_news" target="_blank">Sign up, sign up for The Register's weekly IT security newsletter - click here</a></strong></p>
+
+
+<div class="report promo white translucent">
+<h3><a href="/2010/12/23/lemv_cargo_potential/">US spy airship could haul big cargoes</a></h3>
+<div>
+<a href="/2010/12/23/lemv_cargo_potential/"><img alt="" src="http://regmedia.co.uk/2010/06/22/lemv_sidey.jpg" width=336 height=196></a><p><a href="/2010/12/23/lemv_cargo_potential/">Dirigible dream to come true in 2011?</a></p>
+</div>
+</div>
+
+<div class="box papers-promo">
+<h3><span class="highlight"><a href="http://whitepapers.theregister.co.uk">Popular Whitepapers</a></span></h3>
+<form method="GET" action="http://whitepapers.theregister.co.uk/search/">
+<input type="hidden" name="search" value="1"><span class="papers-promo-q"><input type="text" name="q"></span><noscript><input type="submit" value="Search Resources"></noscript>
+</form>
+<ul class="inner">
+<li class="row-start"><a href="http://whitepapers.theregister.co.uk/paper/view/1813/phishing-fraud-alert-summary?td=pop-right-nav"><span class="title">Fraud Alert - Phishing</span><br>The latest tactics and potential business impact</a></li>
+<li><a href="http://whitepapers.theregister.co.uk/paper/view/1812/moving-beyond-ssl-to-establish-trust?td=pop-right-nav"><span class="title">Moving Beyond SSL to Establish Trust</span><br>Choosing the right security solution</a></li>
+<li class="row-start"><a href="http://whitepapers.theregister.co.uk/paper/view/1737/how-to-get-the-foundation-right?td=pop-right-nav"><span class="title">How to Get The Foundation Right For True Unified Communications</span><br>A ShoreTel whitepaper</a></li>
+<li><a href="http://whitepapers.theregister.co.uk/paper/view/1423/freeform-dynamics-how-bad-are-the-web-bad-guyswr?td=pop-right-nav"><span class="title">How bad are the bad guys?</span><br>The changing nature of Web security threats</a></li>
+<li class="row-start"><a href="http://whitepapers.theregister.co.uk/paper/view/1428/saas-secures-in-uncertain-times?td=pop-right-nav"><span class="title">Software-as-a-Service Improves Web and Email Security in Tough Times</span><br>SaaS secures in uncertain times</a></li>
+<li><a href="http://whitepapers.theregister.co.uk/paper/view/1398/aberdeen-group-safe-email-7-tips-better-email-security?td=pop-right-nav"><span class="title">Seven Important Tips for Better Email Security</span><br>Safe Email</a></li>
+</ul>
+</div>
+
+
+
+<div class="report promo white translucent">
+<h3><a href="/2010/12/22/ice_cube_complete/">Building a 1km ice-cube machine at the south pole stilt-base</a></h3>
+<div>
+<a href="/2010/12/22/ice_cube_complete/"><img alt="" src="http://regmedia.co.uk/2010/12/22/ski_plane_sidey.jpg" width=336 height=223></a><p><a href="/2010/12/22/ice_cube_complete/">Extreme boffinry in the Antarctic</a></p>
+</div>
+</div>
+
+<div class=ad-now id=ad-mpu2-spot>
+<div id=ad-mpu2><script type="text/javascript">RegAd('mpu2', 'reg.security.4159/front', 'pos=btm;sz=336x280,160x600', VCs);</script></div>
+<noscript>
+<a href="http://ad.uk.doubleclick.net/jump/reg.security.4159/front;tile=3;pos=btm;dcove=d;sz=336x280;ord=TRfL2cCoZGQAABZpfowAAAMo?" target="_blank"><img src="http://ad.uk.doubleclick.net/ad/reg.security.4159/front;tile=3;pos=btm;dcove=d;sz=336x280;ord=TRfL2cCoZGQAABZpfowAAAMo?" alt=""></a>
+</noscript>
+</div>
+
+
+<div id=sponlinks>
+<h3>Sponsored links</h3>
+<ul>
+<li><a href="http://books.theregister.co.uk/onlinelearning.asp?advert=regsponsored">Official Microsoft Online Training - Start training in less than 30 minutes</a></li>
+</ul>
+</div>
+
+</div>
+<div id=boot>
+
+<div id=editorial-navigation>
+<h2 class=major>Don’t Miss</h2>
+<ul>
+<li class=first><a href="/odds/about/contact/">Send us News Tips</a></li>
+<li><a href="/week.html">Week’s Headlines</a></li>
+<li><a href="/archive.html">Reg Archive</a></li>
+<li><a href="/popular.html">Top 20 Stories</a></li>
+
+</ul>
+</div>
+
+<script type="text/javascript">RegTopRotInit();RegHotInit()</script>
+
+<div id=trailer>
+<div class=ad-now id=ad-trailerboard-spot>
+<div id=ad-trailerboard><script type="text/javascript">RegAd('trailerboard', 'reg.security.4159/front', 'pos=btm;sz=728x90', VCs);</script></div>
+<noscript>
+<a href="http://ad.uk.doubleclick.net/jump/reg.security.4159/front;tile=4;pos=btm;dcove=d;sz=728x90;ord=TRfL2cCoZGQAABZpfowAAAMo?" target="_blank"><img src="http://ad.uk.doubleclick.net/ad/reg.security.4159/front;tile=4;pos=btm;dcove=d;sz=728x90;ord=TRfL2cCoZGQAABZpfowAAAMo?" alt=""></a>
+</noscript>
+</div>
+</div>
+
+
+
+</div>
+</div>
+<ul id=btm-nav>
+<li><a href="http://www.channelregister.co.uk/">Channel Register</a></li>
+<li class=last><a href="http://www.reghardware.com/">Register Hardware</a></li>
+</ul>
+<div id=footer>
+<div>
+<a href="/"> </a>
+<ul>
+<li><a href="/about/company/privacy/">Privacy</a></li>
+<li><a href="http://media.theregister.co.uk/">Advertise with Us</a></li>
+<li class=last><a href="/about/company/">Company Info</a></li>
+</ul>
+<p>© Copyright 1998–2010</p>
+
+</div>
+</div>
+
+
+</div>
+
+
+
+</body>
+</html>

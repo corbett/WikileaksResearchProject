@@ -1,0 +1,1413 @@
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+  <head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>6 mysteries about Stuxnet | FP Passport</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta property="fb:app_id" content="107151292643652" />
+	    <meta property="og:title" content="6 mysteries about Stuxnet" /> 
+            <meta property="og:site_name" content="Foreign Policy"/>
+     	    <meta property="og:url" content="http://blog.foreignpolicy.com/node/443076"/>
+     	    <meta property="og:image" content="http://www.foreignpolicy.com/images/fp_logo.jpg"/>    <link type="text/css" rel="stylesheet" media="all" href="http://blog.foreignpolicy.com/files/css/css_d262ba27f82fce0f5df2c13b1424888a.css" />
+    <link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/fp/fp_home_frame.css?8" />
+    <link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/fp/fpmain.css?8" />
+    <link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/fp/blogs.css" />
+    <link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/fp/blocks.css" />
+    <link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/fp/more_menu.css" />
+
+    <!--[if gte IE 8]>
+      <link rel="stylesheet" type="text/css" href="/sites/all/themes/fp/ie_fix8.css" />
+      <link href="/sites/all/themes/fp/more_menu_ie8.css" rel="stylesheet" type="text/css" />
+    <![endif]-->
+    <!--[if IE 7]>
+       <link href="http://www.foreignpolicy.com/fp_home_ie7.css" rel="stylesheet" type="text/css" />
+       <link href="/sites/all/themes/fp/ie_fix.css" rel="stylesheet" type="text/css" />
+       <link href="/sites/all/themes/fp/blog_ie7.css" rel="stylesheet" type="text/css" />
+       <link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/fp/blocks_ie7.css" />
+       <link href="http://www.foreignpolicy.com/fp_home_ie7.css" rel="stylesheet" type="text/css" />
+       <link href="/sites/all/themes/fp/more_menu_ie7.css" rel="stylesheet" type="text/css" />
+    <![endif]-->
+    <!--[if lte IE 6]>
+       <link href="http://www.foreignpolicy.com/fp_home_ie6.css" rel="stylesheet" type="text/css" />
+       <link href="/sites/all/themes/fp/ie_fix6.css" rel="stylesheet" type="text/css" />
+       <link href="/sites/all/themes/fp/blog_ie6.css" rel="stylesheet" type="text/css" />
+       <link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/fp/blocks_ie6.css" />
+    <![endif]-->
+
+    
+    <script type="text/javascript" src="/misc/jquery.js?c"></script>
+<script type="text/javascript" src="/misc/drupal.js?c"></script>
+<script type="text/javascript" src="/sites/all/modules/mollom/mollom.js?c"></script>
+<script type="text/javascript" src="/sites/all/modules/nice_menus/nice_menus.js?c"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/"});
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+
+    Drupal.behaviors.external_links = function(context) {
+      $("a[@href^=http]").each(function() {
+        if($(this).attr("href").indexOf("foreignpolicy.com") == -1) {
+          $(this).attr("target", "_blank"); 
+        }
+      });
+    }
+  
+//--><!]]>
+</script>
+
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.4/jquery.min.js" type="text/javascript"></script>
+<script src="/sites/all/themes/fp/js/jquery.nivo.slider.pack.js" type="text/javascript"></script>
+<script type="text/javascript">
+    $(window).load(function() {
+        $('#thinkers-slider').nivoSlider({
+        effect:'fade',
+        pauseTime:7500,
+        slices:1,
+    });
+    });
+</script> 
+    <script src="/sites/all/themes/fp/js/jquery.scrollTo-1.4.2-min.js"></script>
+    <script src="/sites/all/themes/fp/js/tools.scrollable-1.0.4.min.js"></script>
+    <script src="/sites/all/themes/fp/js/custom-form-elements.js"></script>
+
+    <script type="text/javascript">
+    $(document).ready(function() {
+      $('#pop-art-day').show();
+      $('#pop-art-week').hide();
+      $('#pop-comm-day').hide();
+      $('#pop-comm-week').hide();
+      $('.popreadweek').click(function() {
+          $('#pop-art-day').hide();
+          $('#pop-comm-week').hide();
+          $('#pop-art-week').show();
+          return false;
+      });
+      $('.popreadday').click(function() {
+          $('#pop-art-week').hide();
+          $('#pop-comm-day').hide();
+          $('#pop-art-day').show();
+          return false;
+      });
+      $('.popcommweek').click(function() {
+          $('#pop-comm-day').hide();
+          $('#pop-art-week').hide();
+          $('#pop-comm-week').show();
+          return false;
+      });
+      $('.popcommday').click(function() {
+          $('#pop-comm-week').hide();
+          $('#pop-art-day').hide();
+          $('#pop-comm-day').show();
+          return false;
+       });
+       //newsletter singup
+       $('#newsletter-signup').submit(function(){
+       $('.email_warning').empty();
+       $('#newsletter-signup .existing').empty();
+       $('#newsletter-signup .failure').empty();
+       $('#newsletter-signup .failure_warnings').empty();
+       $('#newsletter-signup li#success').hide();
+       $('#newsletter-signup #submit').append('<div class="submitting">Submitting your details...</div>');
+           if($('#newsletter-signup input#EmailAddress').val().length == 0){
+                  $('.email_warning').append("<p class='failure'>Please enter your email address</p>");
+                  $('#newsletter-signup .submitting').hide();
+                  return false;
+              }
+         var this_element = $(this);
+         var form_data = this_element.serialize();
+         if(form_data.indexOf("Email") == -1){
+          form_data =  'EmailAddress='+$('#newsletter-signup input#EmailAddress').val()+'&'+form_data;
+         }
+         $.ajax({type: "POST",
+                  url: "/newsletter/signup/index.php",
+                   data: form_data,
+                   success: function(data) {
+                     $('#newsletter-signup .submitting').hide();
+                     $('#newsletter-signup ol').append(data)
+                   }
+                 });
+           return false;
+       });
+                     // Value Click Retargetting with timestamp as CACHEBUSTER
+       $('#vc-retarget').html('<img src="http://media.fastclick.net/w/tre?ad_id=23607;evt=16449;cat1=20040;cat2=20041;rand='+new Date().getTime()+'" width="1" height="1" border="0">');
+    });  // close document ready
+
+
+
+    </script>
+    <script type="text/javascript">
+      var addthis_pub="fpstaff";
+      var addthis_config = {  
+         services_exclude: 'print', 
+         data_track_linkback: true
+       }
+
+    </script>
+    <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js"></script>
+
+	    <!-- The following should not be included when editing or adding a node due to conflicts with jquery -->
+    <script type="text/javascript" id="translateJS"  src="http://bunsen.wapolabs.com/translation/fp/prod/js/wapolabs_translate.js?contentsDivId=translateBody&titleDivId=translateHead"></script>
+		<!-- Double Click JS -->
+    <!-- Google Double Click Code -->
+<script type='text/javascript' src='http://partner.googleadservices.com/gampad/google_service.js'>
+</script>
+<script type='text/javascript'>
+GS_googleAddAdSenseService("ca-pub-5500462750907867");
+GS_googleEnableAllServices();
+</script>
+<!-- DFP doesnt support URL targetting so this is a quick work around -->
+<script type='text/javascript'>
+GA_googleFetchAds();
+</script>
+<!--End of Google Double Click Code -->
+  </head>
+       <body>
+      <div id="fb-root"></div>
+                <script type="text/javascript">
+                        window.fbAsyncInit = function() {
+                                FB.init({
+                                        apiKey : "107151292643652",
+                                        status : true, // check login status
+                                        cookie : true, // enable cookies to allow the server to access the session
+                                        xfbml  : true  // parse XFBML
+                                });
+                        };
+
+                        (function() {
+                                var e = document.createElement('script');
+                                e.type = 'text/javascript';
+                                e.src = 'http://connect.facebook.net/en_US/all.js';
+                                e.async = true;
+                                document.getElementById('fb-root').appendChild(e);
+                        }());
+                </script>    <!-- ValueClick Retargetting Tag -->
+    <div id="vc-retarget">
+    </div>
+    <!-- End ValueClick Retargetting Tag -->
+    <div id="wrapper">
+      <div id="header">
+        
+<div>
+<!-- FP Header -->
+<div id="flag">
+  <a href="http://www.foreignpolicy.com" style="position:relative !important;">
+    <img id="fp_logo" src="http://www.foreignpolicy.com/images/fp_logo.jpg" width="140" height="141">
+  </a>
+  <ul>
+    <li id="leaderboard">
+      <div id="buffer" style="display: block; width: 728px; height: 90px">
+          <!-- Google Double Click Code -->
+                    <script type='text/javascript'>
+            GA_googleAddSlot("ca-pub-5500462750907867", "blog_leaderboard");
+            GA_googleFillSlot("blog_leaderboard");
+          </script>
+        <!--End of Google Double Click Code -->
+      </div>   
+    </li>
+    <li>
+      <a href="https://www.cambeywest.com/subscribe/?p=frp&f=paid&s=I101HBNK">
+        <img src="http://www.foreignpolicy.com/files/fp_uploaded_images/100212_sub_bunker_ad.jpg" width="96" height="101">
+      </a>
+    </li>
+  </ul>
+  <ul>
+    <li>
+      <a href="http://www.foreignpolicy.com/issues/current"><img src="http://www.foreignpolicy.com/images/m_magazine.jpg" /></a>
+    </li>
+    <li>
+      <a href="http://www.foreignpolicy.com/archive"><img src="http://www.foreignpolicy.com/images/m_archive.jpg" /></a>
+    </li>
+    <li id="search">
+      <form action="http://www.google.com/search" method="get" name="fp_search">
+        <input type="hidden" name="sitesearch" value="foreignpolicy.com" />
+        <div id="search_box">
+	  <input id="search_box_form" maxlength="30" name="q" type="text">
+        </div>
+        <div id="search_sub">
+          <input id="search_sub_button" name="" value=" " type="submit">
+        </div>
+      </form>
+    </li>
+    <li>
+         <a href="/user"><img src="http://foreignpolicy.com/files/fp_uploaded_images/100520_m_login.jpg"></a>
+       </li>
+    <li>
+      <a href="http://www.foreignpolicy.com/node/33012"><img src="http://www.foreignpolicy.com/images/m_rss_v2.jpg"></a>
+    </li>
+  </ul>
+</div>
+<div id="sub_nav">
+  <ul class="drp_menu">
+    <li id="td-date">
+      <span>DECEMBER 26, 2010</span>
+    </li> 
+    <li id="directory" class="subnav-menuitem">
+               <div id="directory-box" class="subnav-bound-box">
+                    <div class="subnav-more">
+                      <div class="more-wrapper">
+
+                        <ul class="subnav_col">
+			            <li class="header">BLOGS</li>
+
+                                    <li><a href="http://drezner.foreignpolicy.com">Daniel Drezner</a></li>
+                                    <li><a href="http://hoffman.foreignpolicy.com">David Hoffman</a></li>
+                                    <li><a href="http://lynch.foreignpolicy.com">Marc Lynch</a></li>
+                                    <li><a href="http://ricks.foreignpolicy.com">Tom Ricks</a></li>
+                                    <li><a href="http://rothkopf.foreignpolicy.com">David Rothkopf</a></li>   
+                                    <li class="borderless"><a href="http://walt.foreignpolicy.com">Stephen Walt</a><hr /></li>
+                                    <li><a href="http://thecable.foreignpolicy.com">The Cable</a></li>   
+                                    <li><a href="http://eurasia.foreignpolicy.com">The Call</a></li>
+                                    <li><a href="http://hillary.foreignpolicy.com/">Madam Secretary</a></li>
+                                    <li><a href="http://bosco.foreignpolicy.com">The Multilateralist</a></li>
+                                    <li><a href="http://neteffect.foreignpolicy.com">Net Effect</a></li>
+                                    <li><a href="http://oilandglory.foreignpolicy.com">The Oil and the Glory</a></li>
+                                    <li><a href="http://blog.foreignpolicy.com">Passport</a></li>
+                                    <li><a href="http://shadow.foreignpolicy.com">Shadow Govt.</a></li>   
+                                    <li><a href="http://turtlebay.foreignpolicy.com">Turtle Bay</a></li>
+                                    <li class="borderless"><a href="http://wikileaks.foreignpolicy.com">WikiLeaked</a></li>
+                                </ul>
+                        <ul class="subnav_col">
+			            <li class="header">CHANNELS</li>
+                                    <li><a href="http://afpak.foreignpolicy.com">AfPak</a></li>
+                                    <li class="borderless"><a href="http://mideast.foreignpolicy.com">Middle East</a><hr /></li>
+                                    <li><a href="http://www.foreignpolicy.com/china">China</a></li>
+                                    <li><a href="http://www.foreignpolicy.com/category/topic/energy">Energy</a></li>
+                                    <li><a href="http://www.foreignpolicy.com/category/topic/india">India</a></li>
+                                    <li><a href="http://www.foreignpolicy.com/russia">Russia</a></li>
+			            <li class="header">WEEKLY COLUMNS</li>
+                                    <li><a href="http://www.foreignpolicy.com/category/section/the_optimist">Charles Kenny</a></li>
+                                    <li><a href="http://www.foreignpolicy.com/category/section/terms_of_engagement">James Traub</a></li>
+				    <li><a href="http://www.foreignpolicy.com/category/section/the_lwot">Legal War on Terror</a></li>   
+				    <li><a href="http://www.foreignpolicy.com/category/section/small_wars">Small Wars Journal</a></li>
+                           <li class="header">SPECIAL REPORTS</li>
+                           <li><a href="http://www.foreignpolicy.com/failedstates">Failed States Index</a></li>   
+                           <li><a href="http://www.foreignpolicy.com/articles/2010/11/29/the_fp_top_100_global_thinkers">Top 100 Global Thinkers</a></li>   
+                           <li class="borderless"><a href="http://www.foreignpolicy.com/articles/2010/08/11/the_global_cities_index_2010">Global Cities Index</a></li>
+
+                        </ul>
+                         <ul class="subnav_col">
+                           <li class="header">FEATURES</li>
+                           <li><a href="http://www.foreignpolicy.com/category/section/argument">Arguments</a></li>   
+                           <li><a href="http://www.foreignpolicy.com/category/section/photo_essay">Photo Essays</a></li>
+                           <li><a href="http://www.foreignpolicy.com/category/section/the_list">The List</a></li>   
+                           <li><a href="http://www.foreignpolicy.com/category/section/think_again">Think Again</a></li>   
+                           <li><a href="http://www.foreignpolicy.com/category/section/explainer">FP Explainer</a></li>   
+                           <li><a href="http://www.foreignpolicy.com/category/section/prime_numbers">Prime Numbers</a></li>   
+                           <li class="header">PRINT MAGAZINE</li>
+                           <li><a href="http://www.foreignpolicy.com/issues/current">Latest Issue</a></li>   
+                           <li><a href="http://www.foreignpolicy.com/archive">Archive</a></li>   
+                           <li class="borderless"><a href="https://www.cambeywest.com/subscribe/?p=frp&f=paid&s=I101HBNK">Subscribe</a></li>   
+                         </ul>
+                      </div>
+                    </div>
+               </div>
+
+        </li>
+        <li id="blogs" class="subnav-menuitem">
+               <div id="blogs-box" class="subnav-bound-box">
+                    <div class="subnav-more">
+                      <div class="more-wrapper">
+                        <ul class="subnav_col">
+                                    <li><a href="http://drezner.foreignpolicy.com">Daniel Drezner</a></li>
+                                    <li><a href="http://hoffman.foreignpolicy.com">David Hoffman</a></li>
+                                    <li><a href="http://lynch.foreignpolicy.com">Marc Lynch</a></li>
+                                    <li><a href="http://ricks.foreignpolicy.com">Tom Ricks</a></li>
+                                    <li><a href="http://rothkopf.foreignpolicy.com">David Rothkopf</a></li>   
+                                    <li class="borderless"><a href="http://walt.foreignpolicy.com">Stephen Walt</a><hr /></li>
+                                    <li><a href="http://thecable.foreignpolicy.com">The Cable</a></li>   
+                                    <li><a href="http://eurasia.foreignpolicy.com">The Call</a></li>
+                                    <li><a href="http://hillary.foreignpolicy.com/">Madam Secretary</a></li>
+                                    <li><a href="http://bosco.foreignpolicy.com">The Multilateralist</a></li>
+                                    <li><a href="http://neteffect.foreignpolicy.com">Net Effect</a></li>
+                                    <li><a href="http://oilandglory.foreignpolicy.com">The Oil and the Glory</a></li>
+                                    <li><a href="http://blog.foreignpolicy.com">Passport</a></li>
+                                    <li><a href="http://shadow.foreignpolicy.com">Shadow Govt.</a></li>   
+                                    <li><a href="http://turtlebay.foreignpolicy.com">Turtle Bay</a></li>
+                                    <li class="borderless"><a href="http://wikileaks.foreignpolicy.com">WikiLeaked</a></li>
+                         </ul>
+                      </div>
+                    </div>
+               </div>      
+        </li>
+        <li id="channels" class="subnav-menuitem">
+               <div id="channels-box" class="subnav-bound-box">
+                    <div class="subnav-more">
+                      <div class="more-wrapper">
+                        <ul class="subnav_col">
+                                    <li><a href="http://afpak.foreignpolicy.com">AfPak</a></li>
+                                    <li class="borderless"><a href="http://mideast.foreignpolicy.com">Middle East</a><hr /></li>
+                                    <li><a href="http://www.foreignpolicy.com/china">China</a></li>
+                                    <li><a href="http://www.foreignpolicy.com/category/topic/energy">Energy</a></li>
+                                    <li><a href="http://www.foreignpolicy.com/category/topic/india">India</a></li>
+                                    <li class="borderless"><a href="http://www.foreignpolicy.com/russia">Russia</a></li>
+                        </ul>
+                      </div>
+                    </div>
+               </div>      
+        </li>
+        <li id="newsbriefs" class="subnav-menuitem">
+               <div id="newsbriefs-box" class="subnav-bound-box">
+                    <div class="subnav-more">
+                      <div class="more-wrapper">
+                        <ul class="subnav_col">
+                                                          			       <li>
+                                  <a href="http://blog.foreignpolicy.com/">Morning Brief: North Korea threatens 'sacred war'</a>
+                                </li>
+			     			       <li>
+                                  <a href="http://afpak.foreignpolicy.com/posts/2010/12/22/daily_brief_two_policemen_arrested_in_benazir_assassination_case">AfPak Daily brief: two policemen arrested in Benazir assassination case</a>
+                                </li>
+			     			       <li class="borderless">
+                                  <a href="http://mideast.foreignpolicy.com/posts/2010/12/22/mideast_news_brief_israel_reaches_out_to_the_un">Mideast Mideast news brief: Israel reaches out to the UN</a>
+                                </li>
+			                              </ul>
+                      </div>
+                    </div>
+               </div>
+      </li>
+        <li id="latestarticles" class="subnav-menuitem">
+               <div id="latestarticles-box" class="subnav-bound-box">
+                    <div class="subnav-more">
+                      <div class="more-wrapper">
+                        <ul class="subnav_col">
+                                                          			       <li>
+   			        <a href="http://www.foreignpolicy.com/articles/2010/12/24/a_chiefs_service">A Chief's Service - by James Traub</a>
+                               </li>
+			     			       <li>
+   			        <a href="http://www.foreignpolicy.com/articles/2010/12/21/last_action_hero">Last Action Hero</a>
+                               </li>
+			     			       <li>
+   			        <a href="http://www.foreignpolicy.com/articles/2010/12/23/next_christmas_in_chernobyl">Next Christmas in Chernobyl - by Suzanne Merkelson</a>
+                               </li>
+			     			       <li>
+   			        <a href="http://www.foreignpolicy.com/articles/2010/12/23/obamas_other_war">Obama's Other War - by Joe Bavier</a>
+                               </li>
+			     			       <li>
+   			        <a href="http://www.foreignpolicy.com/articles/2010/12/23/will_facebook_friend_china">Will Facebook Friend China? - by Christina Larson</a>
+                               </li>
+			     			       <li>
+   			        <a href="http://www.foreignpolicy.com/articles/2010/12/22/mexico_s_forever_war">Mexico's Forever War - by Kevin Casas-Zamora</a>
+                               </li>
+			     			       <li>
+   			        <a href="http://www.foreignpolicy.com/articles/2010/12/22/bloggers_read_books_too">Bloggers Read Books, Too</a>
+                               </li>
+			     			       <li class="borderless">
+   			        <a href="http://www.foreignpolicy.com/articles/2010/12/22/year_of_the_dead">Year of the Dead</a>
+                               </li>
+			                             </ul>
+                      </div>
+                    </div>
+               </div>      
+        </li>
+        <li id="latestposts" class="subnav-menuitem">
+               <div id="latestposts-box" class="subnav-bound-box">
+                    <div class="subnav-more">
+                      <div class="more-wrapper">
+                        <ul class="subnav_col">
+                                                          			       <li>
+   			         <a href="http://drezner.foreignpolicy.com/posts/2010/12/25/nominations_now_being_accepted_for_the_2010_albies">Daniel W. Drezner: Nominations now being accepted for the 2010 Albies</a>
+                               </li>
+			     			       <li>
+   			         <a href="http://drezner.foreignpolicy.com/posts/2010/12/24/diplomacy_via_the_official_leak">Daniel W. Drezner: Diplomacy via the official leak</a>
+                               </li>
+			     			       <li>
+   			         <a href="http://walt.foreignpolicy.com/posts/2010/12/24/hypothetical_holidays_a_imaginary_gift_list">Stephen M. Walt: Hypothetical holidays: A imaginary gift list</a>
+                               </li>
+			     			       <li>
+   			         <a href="http://wikileaks.foreignpolicy.com/posts/2010/12/23/did_moscow_really_promise_egypt_a_nuclear_bomb_0">WikiLeaked: Did Moscow really promise Egypt a nuclear bomb?</a>
+                               </li>
+			     			       <li>
+   			         <a href="http://turtlebay.foreignpolicy.com/posts/2010/12/23/did_moscow_really_promise_egypt_a_nuclear_bomb">Turtle Bay: Did Moscow really promise Egypt a nuclear bomb?</a>
+                               </li>
+			     			       <li>
+   			         <a href="http://blog.foreignpolicy.com/posts/2010/12/23/have_you_thanked_your_tailor_today">FP Passport: Have you thanked your tailor today?</a>
+                               </li>
+			     			       <li>
+   			         <a href="http://turtlebay.foreignpolicy.com/posts/2010/12/23/the_general_assembly_turtle_bays_roundup_of_un_news">Turtle Bay: The General Assembly: Turtle Bay's roundup of U.N. news</a>
+                               </li>
+			     			       <li class="borderless">
+   			         <a href="http://blog.foreignpolicy.com/posts/2010/12/23/merry_christmas_from_passport">FP Passport: Merry Christmas from Passport</a>
+                               </li>
+			                             </ul>
+                      </div>
+                    </div>
+               </div>      
+        </li>
+    </ul>
+</div>
+<!--[if lte IE 6]>
+<div id="browser_warning" style="display: none;">
+Your browser is no longer supported.  Some features on this site will not work.  Please upgrade to a modern browser.<br />
+<a href='http://www.mozilla.com/?from=sfx&amp;uid=308943&amp;t=556'><img src='http://sfx-images.mozilla.org/firefox/3.6/110x32_get_blue.png' alt='Spread Firefox Affiliate Button' border='0' /></a>
+<a href="http://www.google.com/chrome">
+  <img src="http://foreignpolicy.com/files/fp_uploaded_images/100519_chrome_logo.jpg" />
+</a>
+<a href="http://www.microsoft.com/windows/internet-explorer/default.aspx">
+  <img src="http://www.microsoft.com/library/media/1033/windows/images/internet-explorer/default/ie8_logo.gif"/>
+</a>
+<a id="close" href="#" onclick="document.cookie='hidebrowsermsg=1; domain=.foreignpolicy.com; path=/'; document.getElementById('browser_warning').style.display='none';">hide this</a>
+<br />
+</div>
+<script type="text/javascript">
+function readCookie(name) {
+  var nameEQ = name + "=";
+  var ca = document.cookie.split(';');
+  for(var i=0;i < ca.length;i++) {
+    var c = ca[i];
+    while (c.charAt(0)==' ') c = c.substring(1,c.length);
+    if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length,c.length);
+  }
+  return null;
+}
+if(readCookie("hidebrowsermsg") != "1")
+  document.getElementById("browser_warning").style.display = "block";
+</script>
+<![endif]-->
+<!-- End FP Header -->
+</div>
+      </div> <!-- /#header -->
+      <div id="theatre">
+
+                   <div id="banner-blog" class="blog_banner">
+             <a href="http://blog.foreignpolicy.com/"><img class="photo_op" src="/sites/all/themes/fp/images/blog_banners/blog.jpg" /></a>
+             <div id="featured-blog" class="select_posts">
+               <div class="cp_tile "><div class="view view-featuredblogposts view-id-featuredblogposts view-display-id-block_1 view-dom-id-5">
+    
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+    <ul>
+<li>
+<p class="tag">REALLY, TIME?</p>
+<a href="http://blog.foreignpolicy.com/posts/2010/12/15/zuckerberg_really"><p class="feature_title">Person of the Year: Mark Zuckerberg</p></a>
+</li>
+<li>
+<p class="tag">SEPP BLATTER</p>
+<a href="http://blog.foreignpolicy.com/posts/2010/12/14/today_in_sepp_blatters_world"><p class="feature_title">FIFA President&#039;s Latest Blunder</p></a>
+</li>
+<li>
+<p class="tag">KOSOVO PM</p>
+<a href="http://blog.foreignpolicy.com/posts/2010/12/14/kosovo_pm_accused_of_running_organ_and_weapons_smuggling_ring"><p class="feature_title">Report Claims Involved in Organ Smuggling</p></a>
+</li>
+</ul>
+  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div> </div>            </div>
+          </div>
+          
+                                                
+        <!-- PRINCIPAL CONTENT-->
+        <div id="content-lz">
+           <!-- BLOG WELL -->
+           <div id="blog-well">
+              <div id="wapolabs_translateDiv"></div><br/>
+              
+  
+<!-- BLOG POST -->
+   <div id="blog-post-1" class="blog_entry full_post">
+<!-- BLOG HED -->
+<div class="blog-hed">
+
+<div class="translateHead">
+<h1><a href="http://blog.foreignpolicy.com/posts/2010/09/27/6_mysteries_about_stuxnet" title="6 mysteries about Stuxnet">6 mysteries about Stuxnet</a></h1>
+</div>
+<h2>
+   <span class="post_by">
+   Posted By <a href="/blog/40">Blake Hounshell</a>   </span>
+         <img class="meta_block" src="http://www.foreignpolicy.com/images/091022_meta_block.gif" />
+      
+         <span class="post_date">Monday, September 27, 2010 - 5:50 AM</span>
+      
+         <img src="http://www.foreignpolicy.com/images/091022_meta_block.gif" />
+      <a href="http://www.addthis.com/bookmark.php?v=20" onmouseover="return addthis_open(this, '', '[URL]', '[TITLE]')" onmouseout="addthis_close()" onclick="return addthis_sendto()"> <img src="http://www.foreignpolicy.com/images/091022_more_icon.gif" /><span class="more_top"> Share</span></a>
+   
+</h2>
+</div>
+<!-- END BLOG HED -->
+
+<!-- ARTICLE BODY -->
+<div class="blog_body">
+<div class="translateBody">
+  
+<p>
+By now, you've probably heard
+of Stuxnet, the mysterious computer worm that infects Windows computers running
+software designed by Siemens, the German industrial giant. The software,
+Simatic WinCC, is what's known as a SCADA system -- &quot;supervisory control and
+data acquisition&quot; -- and it's used to help run everything from traffic systems
+and pipelines to nuclear plants.
+</p>
+<p>
+Siemens has known about Stuxnet for
+some time, and has been <a>tracing
+the worm's spread</a> on its website. In July 2010, the company knew of only
+one industrial facility affected. By September 7, it was reporting that 15 systems
+had been hit worldwide. (The worm was first discovered in June by
+VirusBlokAda, a little-known Belarussian security firm.) 
+</p>
+<p>
+For months, the discussion
+about the virus stayed within the cybersecurity community, but once speculation
+began to mount that it was aimed at Iran's nuclear facilities, the news went,
+er, viral. Amid the uproar last week, Iranian officials admitted
+that their facilities had indeed been hit, though they didn't specify which
+ones.
+</p>
+<p>
+Even with all the media
+attention, much remains mysterious about Stuxnet. We know it's a sophisticated
+piece of malware, one that experts say could only be produced by a high-powered
+team with insider knowledge of industrial software. We know it was spread using
+USB thumb drives. But there's a lot we don't know. Here's my attempt to lay out
+some of the big open questions.
+</p>
+
+<p>
+<b>1. What was
+the target? </b>Although the worm has affected computers in Indonesia, India,
+Pakistan, and elsewhere in addition to Iran, security researchers who have been
+pouring over Stuxnet for months say it appears aimed at a very specific target.
+According to Siemens, &quot;The behavioral pattern of Stuxnet suggests that the
+virus is apparently only activated in plants with a specific configuration. It
+deliberately searches for a certain technical constellation with certain
+modules and certain program patterns which apply to a specific production
+process.&quot; Two German experts, <a>Ralph
+Langner</a> and <a href="http://frank.geekheim.de/?p=1189" target="_blank">Frank Rieger</a>,
+have offered <a>competing
+theories</a> as to what that target might be, both of them in Iran, where most
+of the affected machines are.
+</p>
+<p>
+Langner guesses that Stuxnet is
+aimed at Bushehr, Iran's civilian nuclear power plant, which is slated to go
+online this fall. Langner's case rests largely on the fact that Bushehr runs
+Siemens software and that Russian contractors would have had access to the
+facility -- and that they would have used USB drives to set up the system.
+</p>
+<p>
+Rieger counters that Natanz, Iran's
+uranium enrichment plant, is a more likely target. Not only is it more of a
+proliferation threat, there's suggestive evidence that it actually may have
+been affected by sabotage. (More on this later.) He also points out that Natanz
+is more likely to have the kinds of identical nodes, in this case &quot;cascades&quot; or
+groups of centrifuges, that would be susceptible to an attack.
+</p>
+<p>
+2. <b>Who did
+it? </b>The obvious culprit is Israel, which has both the sophisticated
+technology and the motive to sabotage Iran's nuclear program, which it deems a
+mortal threat. An eerily prescient <a>Reuters
+article</a> published in July 2009 quotes Scott Borg, a U.S. cybersecurity
+expert, speculating that Israel might want to do so, adding that &quot;a
+contaminated USB stick would be enough&quot; to cause real damage to Iranian
+facilities. 
+</p>
+<p>
+Other countries, such as the United States,
+China, and Russia, probably have the capability, but only one -- the United
+States -- has a clear motive (some might add France and Germany to this list).
+One could spin complicated theories as to why Russia would want to sabotage its
+own facility, but Occam's Razor probably applies here -- and other reporting
+has indicated that the
+United States and Israel have, in fact, approved a covert sabotage campaign
+that may include a cyber component.
+</p>
+<p>
+3. <b>Did it
+work?</b> Who knows? Outside analysts have been speculating
+for years that Western intelligence agencies have been sabotaging
+Iranian enrichment efforts, but they're usually talking about false-flag operations
+to sell Iran damaged centrifuge components. They point to signs that the number
+of centrifuges Iran is operating dropped precipitously last year, or
+unconfirmed reports
+of nuclear accidents, or the sudden and unexplained resignation last year of Gholam
+Reza Aghazadeh, the head of the Iranian nuclear program. For what it's worth,
+Iran denies
+encountering any problems as a result of Stuxnet, and there's little evidence
+to the contrary. But there could be hidden issues that pop up later on, or Iran
+could simply be lying.
+</p>
+<p>
+4. <b>What does
+it do?</b> The reporting on this question has been maddeningly vague. Siemens
+says that Stuxnet &quot;can theoretically influence specific processes and
+operations in a very specific automation environment or plant configuration in
+addition to passing on data,&quot; though it has been unable to verify that finding
+in testing. Supposedly, the worm was designed to send data to a server in
+Malaysia, which may or may not have been a &quot;command center&quot; that could seize
+control of PLCs or Programmable Logic Controllers, components used to operate
+and monitor industrial machinery. The consensus among people who've studied the
+code seems to be that its aim is sabotage, not simply espionage. But exactly how
+that was supposed to work remains unclear.
+</p>
+<p>
+5. <b>Why did
+it spread so widely?</b> John Markoff, the longtime tech reporter for the <i>New York Times</i>, <a>takes
+on this question</a> in today's paper. &quot;If Stuxnet is the latest example of
+what a government organization can do, it contains some glaring shortcomings,&quot;
+he writes. &quot;The program was splattered on thousands of computer systems around
+the world, and much of its impact has been on those systems, rather than on
+what appears to have been its intended target, Iranian equipment.&quot; He only
+offers one theory, however: &quot;One possibility is that they simply did not care.
+Their government may have been so eager to stop the Iranian nuclear program that
+the urgency of the attack trumped the tradecraft techniques that traditionally
+do not leave fingerprints, digital or otherwise.&quot; 
+</p>
+<p>
+A couple points here. One is that Stuxnet
+does not seem to have had an &quot;impact&quot; on all those systems, for the reason
+noted in #1 above: It wasn't aimed at them. Second, it may be that the worm's
+designers needed it to spread <i>within</i>
+Iran to be effective -- i.e. from one computer to another within the same
+facility, or between facilities -- but that there was no way to prevent it from
+propagating further. Finally, there's some debate among researchers as to
+whether the virus was programmed to &quot;expire&quot; on a certain date, supposedly in January
+2009. In other words, it wasn't <i>supposed</i>
+to spread, but somehow it did anyway, possibly through Russian contractors.
+</p>
+<p>
+6. <b>Why would
+anyone run a nuclear plant using Windows?</b> I've got no answer for this one.
+</p>
+
+<div id="fb-meta-like"><fb:like href="http://blog.foreignpolicy.com/node/443076" width="380" show_faces="false" background="none" font="Arial" layout="standard"></fb:like></div></div>
+</div>
+<!-- END BLOG BODY -->
+
+<!-- ARTICLE META INFO -->
+<div id="art-meta">
+   <p><span class="smallgray"></span></p>
+                 <div class="subjects">
+           <img src="http://www.foreignpolicy.com/images/091023_subject_arrow.gif"/><span class="subj_hed">EXPLORE:</span><a href="/category/topic/iran">IRAN</a><span class="float-left">, </span><a href="/category/topic/nukes">NUKES</a><span class="float-left">, </span><a href="/category/topic/science_technology">SCIENCE &amp; TECHNOLOGY</a>        </div> 
+            <div class="hr">&nbsp;</div>
+   
+      
+        <div id="share-more" class="addthis_default_style">
+        <span class="share_lab">SHARE THIS ARTICLE:    </span> <a class="addthis_button_facebook">Facebook</a><span class="addthis_separator">|</span><a class="addthis_button_twitter">Twitter</a><span class="addthis_separator">|</span><a class="addthis_button_reddit">Reddit</a> 
+    	<!--<div id="fb-meta-like"><fb:like href="http://blog.foreignpolicy.com/node/443076" width="380" show_faces="false" background="none" font="Arial" layout="standard"></fb:like></div>-->
+     </div>
+   
+        <div id="might-like">
+       <img src="/sites/all/themes/fp/images/you_might_like.gif"/>
+       <script language='JavaScript'>
+	var OutbrainPermaLink='http://blog.foreignpolicy.com/posts/2010/09/27/6_mysteries_about_stuxnet';
+	var OB_Template = "ForeignPolicy";
+	var OB_demoMode = false;
+	var OBITm = "1242164428050";
+	var OB_langJS ='http://widgets.outbrain.com/lang_en.js';
+	if ( typeof(OB_Script)!='undefined' )
+		OutbrainStart();
+	else {
+		var OB_Script = true;
+		var str = '<script src="http://widgets.outbrain.com/OutbrainRater.js" type="text/javascript"><\/script>';
+		document.write(str);
+	}
+	</script>
+     </div>
+   
+</div>
+<!-- END ARTICLE META INFO -->
+
+  <!-- TODAY ON FP -->
+  <div id="fp-featured-today">
+     <img src="/sites/all/themes/fp/images/featured_today_fp.gif"/>
+     <div class="cp_tile "><div class="view view-tifpgallery view-id-tifpgallery view-display-id-block_1 view-dom-id-1">
+    
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+    <!-- TODAY IN FOREIGN POLICY images -->
+<!-- TODAY IN FOREIGN POLICY images -->
+   
+    <ul>
+               <li>
+                   <a href=http://blog.foreignpolicy.com/posts/2010/12/23/fighting_the_farc_with_christmas><img  class="imagefield imagefield-field_tifpimage" width="105" height="75" alt="" src="http://blog.foreignpolicy.com/files/104425675farcb.jpg?1293143251" /></a>
+        <a href=http://blog.foreignpolicy.com/posts/2010/12/23/fighting_the_farc_with_christmas><p class="art_title">Colombia Fights Its Narco Rebels<br>With Christmas Trees</p></a>
+        </li> 
+                   <li>
+                   <a href=http://www.foreignpolicy.com/articles/2010/12/23/will_facebook_friend_china><img  class="imagefield imagefield-field_tifpimage" width="105" height="75" alt="" src="http://blog.foreignpolicy.com/files/106384174facebook.jpg?1293143239" /></a>
+        <a href=http://www.foreignpolicy.com/articles/2010/12/23/will_facebook_friend_china><p class="art_title">Is Facebook About to Enter the Great Firewall?</p></a>
+        </li> 
+                   <li>
+                   <a href=http://rothkopf.foreignpolicy.com/posts/2010/12/23/an_fp_exclusive_santa_s_list_for_christmas_2010><img  class="imagefield imagefield-field_tifpimage" width="105" height="75" alt="" src="http://blog.foreignpolicy.com/files/coalb.jpg?1293143540" /></a>
+        <a href=http://rothkopf.foreignpolicy.com/posts/2010/12/23/an_fp_exclusive_santa_s_list_for_christmas_2010><p class="art_title">What I'm Giving Assange, Bibi,<br>And Berlusconi<br>For Xmas</p></a>
+        </li> 
+                   <li class="last">
+                   <a href=http://wikileaks.foreignpolicy.com/posts/2010/12/23/did_moscow_really_promise_egypt_a_nuclear_bomb_0><img  class="imagefield imagefield-field_tifpimage" width="105" height="75" alt="" src="http://blog.foreignpolicy.com/files/nukebbb.jpg?1293143209" /></a>
+        <a href=http://wikileaks.foreignpolicy.com/posts/2010/12/23/did_moscow_really_promise_egypt_a_nuclear_bomb_0><p class="art_title">Did Moscow Really Promise Egypt a Nuclear Bomb?</p></a>
+        </li> 
+           
+    </ul>
+      </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div> </div>  </div>
+  <!-- END TODAY ON FP -->
+
+        <!-- COMMENTS BAR -->
+     <a name="commentspace" id="commentspace"></a>
+     <div id="comments-bar">
+         <img src="/sites/all/themes/fp/images/comments_hed.gif" />
+         <h4>&nbsp;(7)</h4>
+         <p class="gray_nav_opt">
+                           <span><a href="http://blog.foreignpolicy.com/node/443076?hidecomments=yes">HIDE COMMENTS</a></span>
+            
+                            <span><a href="/user/login?destination=posts/2010/09/27/6_mysteries_about_stuxnet?commentspace=true">LOGIN</a> OR <a href="/user/register?destination=welcome?final=posts/2010/09/27/6_mysteries_about_stuxnet">REGISTER</a></span>
+                        <span><a href="/contact?c=2&s=Abuse:http://www.foreignpolicy.com/node/443076">REPORT ABUSE</a></span>
+         </p>
+     </div>
+   
+</div>
+<!-- END BLOG POST -->
+
+<div id="comments"><!-- USER COMMENTS -->
+  <div id="usr-comm-list">
+<a id="comment-363926"></a>
+<div class="comment443076">
+  <div class="comm_meta">
+    <p class="username nvy_blue">ZORRO</p>
+    <p class="time_stamp">12:46 PM ET</p>
+    <p class="date_stamp">September 27, 2010</p>
+  </div>
+
+  <div class="usr_comment">
+    <p class="comm_title"><a href="/posts/2010/09/27/6_mysteries_about_stuxnet#comment-363926" class="active">6 is the Big Question</a></p>
+    <div class="comm_body">
+       <p>Who doesn't assume that windows is full of back doors inserted by the NSA (or another no such agency)?</p>
+    </div>
+
+         
+
+
+              </div>
+</div>
+<div style="clear:both; font-size:.0001em; line-height:.001em">&nbsp;</div>
+<div class="indented"><a id="comment-364536"></a>
+<div class="comment443076">
+  <div class="comm_meta">
+    <p class="username nvy_blue">ANDREWP111</p>
+    <p class="time_stamp">9:54 PM ET</p>
+    <p class="date_stamp">September 27, 2010</p>
+  </div>
+
+  <div class="usr_comment">
+    <p class="comm_title"><a href="/posts/2010/09/27/6_mysteries_about_stuxnet#comment-364536" class="active">The price of import dependency</a></p>
+    <div class="comm_body">
+       <p>This is the price of having to import most components from outside countries. You have to buy what is available, not what you really want.  If the control systems you can get are Windows based, then that is what you use.  A bigger mystery is why they didn't take better steps to keep their systems off the internet and to control items like USB drives. The Pentagon had a big problem with USB drives 2 years ago that carried some Chinese malware. The malware took advantage of a Windows flaw that made it impossible to turn off "autorun". Microsoft didn't fix that flaw for a very long time afterward - nearly a year!!</p>
+    </div>
+
+         
+
+
+              </div>
+</div>
+<div style="clear:both; font-size:.0001em; line-height:.001em">&nbsp;</div>
+</div><a id="comment-365331"></a>
+<div class="comment443076">
+  <div class="comm_meta">
+    <p class="username nvy_blue">M8R6</p>
+    <p class="time_stamp">10:13 AM ET</p>
+    <p class="date_stamp">September 28, 2010</p>
+  </div>
+
+  <div class="usr_comment">
+    <p class="comm_title"><a href="/posts/2010/09/27/6_mysteries_about_stuxnet#comment-365331" class="active">A theory</a></p>
+    <div class="comm_body">
+       <p>Here's one theory, which is admittedly based entirely on open source information that may not be entirely accurate. In late July and early August two petrochemical factories in southern Iran exploded purportedly due to technical errors. In addition, there have been a number of gas pipeline explosions also ostensibly due to unintentional human error. The Natanz facility has apparently lost 3,000 of its 9,000 centrifuges without declared cause. Likewise, the Bushehr reactor was supposed to go online weeks ago, but has not. The source of the infection appears to be a Russian contractor with extensive work in Iran. I don't want to sound like a conspiracy theorist, but there are tons of Jewish Russian emigres to Israel that are computer engineers. Israel has long had one of the most advanced high tech sectors. In an unexplained incident, the Israelis barred the Ipad from launching in April because it supposedly uses a more powerful Wifi, which now seems to have been so strictly enforced lest it interfere with their national security electronic operations. In this vein, the Israeli version of the NSA (Unit 8200) has been highlighted recently in news articles as has the Israeli initiation electronically of a kill switch for Syrian radar during the 2007 raid and their theft of Syrian nuclear plans via a Trojan horse. Ehud Barak (Israel's defense minister) recently appeared on Fox News and stated that Iran's goal of nuclear weapons capability was now 1.5-2 years and not the 1 year previously stated. I think the Israelis (Unit 8200? the Mossad?) in conjunction with the NSA have penetrated Iran's computer infrastructure and whenever an industrial plant/critical infrastructure goes online it mysteriously fails. I think the reason the free world is not confident about their ability to take down the Iranian regime's nuclear weapons program solely this way is because of the redundancy in terms of sites and that eventually the Iranians will wisen up. A cyber attack makes sense because it avoids claims of responsibility, which fits with President Obama's MO (think drone strikes in which he displays tourette's with the hellfire missile button) and the Israelis desire to avoid a transparent casus belli that would engender Hezbollah rocket attacks, possibly with Syrian/Iranian provided chemical weapons. Adding to the intrigue, a Syrian/North Korean/Iranian chemical weapons plant in Syria mysteriously exploded in 2007. Remarkable that 70 years after Teller, Bohrs, Einstein, Fineman, Oppenheimer and other Jewish European/American scientists as well as non-Jewish American/European scientists inaugurated the atomic bomb, a 21st century version of this group has now created a guided cyber missile to destroy the Iranian regime's pursuit of a nuclear weapon. This is particularly astounding since it's not only a cyber weapon, but light years ahead of anyone else. It's as if air to surface missiles had not been invented and the free world already has JDAMs. I should say that I believe the Iranian regime has enslaved a great people, the Persian people and 2,000 years after King Cyrus of Persia helped the Jews build their second state of Israel, the third Jewish state of Israel will return the favor. Ironically, Ahmadenijad has threatened to wipe Israel off the map, but if not for the Osirak attack, Iran would have been wiped off the map as Saddam Hussein used WMD (chemical) in the Iraq-Iran war.</p>
+<p>I believe the Israelis are the primary architects not merely because they are unabashedly aggressive in preventing their sworn enemies from acquiring nuclear capabilities (Syria-2007, Iraq -1981), but unlike the United States would not hesitate to launch a covert first strike. This is confirmed by the prescient reuters article as well as the US statement concerning its unwillingness to strike preemptively through cyber war.  Taking into consideration the technical aspects, the Israelis also emerge as the most likely driver of this project. Apparently, the zero day vulnerabilities of Microsoft were exploited in addition to Siemens PLC vulnerabilities and stolen certificates from a Taiwanese company. I have a hard time believing the US would conduct corporate espionage on an American based firm. I doubt the Israelis would have any moral qualms developing an asset at Microsoft or simply stealing the information. Certainly, the constant shuttling of Ehud Barak to DC recently cannot all be explained by an obsession with Israel's qualitative military advantage, which they manage to maintain despite all of these meetings. Clearly, he has been updating Sec Def Gates on Iran mono a mono. Sec Def Gates leaked memo in January about the lack of contingency plans for confronting Iran militarily also began six months before the virus was first noted. Clearly, he knew about it and realized that this would potentially spark a regional conflagration, when the Stuxnet effects were understood by its victims. As for the theory about the issues with projects going online: PLCs supposedly control critical functions of industrial production. I think the virus is written in a way that activates a change in parameters, when an industrial activity starts up as opposed to merely cause self destruction, when initially infected. This allows for greater deniability as well more harm since time/money/manpower has been completely invested and lost. This virus has supposedly been around since early 2009, coinciding with President Obama's tenure. The Israelis may have decided to undertake this while George W. Bush was in office to hedge their bets in case the new commander in chief did not have the willingness to confront Iran. I think whatever systems are infected are already inexorably sabotaged. </p>
+<p>While it is possible that the Germans are involved too, I believe the Brits have played a part as well.  The NSA and their British counterpart GCHQ work closely together. GCHQ is one of the most sophisticated electronic government agencies in the world. In addition, a GCHQ employee, Gareth Williams, was murdered a month ago. He was apparently working closely with the NSA and seconded to MI6 on a cyber weapons project. He had spent the past year on sabbatical after working at Fort Meade (NSA). This may be trivial, but his father is an employee at Wylfa nuclear power station and, in an indirect way, he likely understood how to take down a similar installation. Also, a middle eastern person between 20-30 was reportedly seen leaving the apartment building. Maybe the Iranians could only get to him because the Iranian regime has a presence there as opposed to the US or Israel. He was killed in August by which time the Iranians were likely aware of the malware (it was initially reported by a Bulgarian firm in June). Not to be a master of the obvious, but regardless, his death is tragic.</p>
+    </div>
+
+         
+
+
+              </div>
+</div>
+<div style="clear:both; font-size:.0001em; line-height:.001em">&nbsp;</div>
+<div class="indented"><a id="comment-376536"></a>
+<div class="comment443076">
+  <div class="comm_meta">
+    <p class="username nvy_blue">SHEMHAMPHORASCH</p>
+    <p class="time_stamp">10:56 PM ET</p>
+    <p class="date_stamp">October 9, 2010</p>
+  </div>
+
+  <div class="usr_comment">
+    <p class="comm_title"><a href="/posts/2010/09/27/6_mysteries_about_stuxnet#comment-376536" class="active">I like this theory.</a></p>
+    <div class="comm_body">
+       <p>I like this theory.</p>
+    </div>
+
+         
+
+
+              </div>
+</div>
+<div style="clear:both; font-size:.0001em; line-height:.001em">&nbsp;</div>
+</div><a id="comment-365696"></a>
+<div class="comment443076">
+  <div class="comm_meta">
+    <p class="username nvy_blue">OTROBABOSO</p>
+    <p class="time_stamp">1:58 PM ET</p>
+    <p class="date_stamp">September 28, 2010</p>
+  </div>
+
+  <div class="usr_comment">
+    <p class="comm_title"><a href="/posts/2010/09/27/6_mysteries_about_stuxnet#comment-365696" class="active">Windows &amp; Security</a></p>
+    <div class="comm_body">
+       <p>First of all, I own seven computers, only one of which is a Windows box (XP). Windows is _not_ my favorite operating system.</p>
+<p>1. In response to the hidden trap door theories, MS provides the source code for its Windows systems to people who have a legitimate need to see it. This includes foreign governments that are concerned about trap doors. If MS removed a trap door before allowing an expert to see the source code, it would be simple to detect. If you have the source code, you can compile it, and then compare the compiled files with the Windows files in use. If there are any differences, then you know that the source code you are viewing is not the source code that MS used to compile the files that it distributes. So MS has no way of hiding a trap door from the governments and experts it allows to view the source code.</p>
+<p>2. Before the Internet, viruses spread via floppy disks. Computer labs had rules against bringing in your own floppy disks and installing your own software. This wasn't a perfect solution, but it worked pretty well. There's a very simple solution for viruses that depend on the Internet; disconnect the computer from the Internet. In this case, while the worm reportedly depends on a security hole in Windows, it spread to the Iranian systems via the current equivalent of an infected floppy disk; an infected USB memory stick. And its functioning depends at least partly on using the Internet to connect to an outside system. So the critical security failures here had nothing to do with Windows, but were due to policies that allowed a contractor to insert a USB stick of unknown provenance into a critical system drive, and allowed the same critical system to connect to the Internet. </p>
+<p>3. Windows is by far the most common OS in use today. Basing your control system on Windows means that most of the people using the control system will be familiar with the OS, which in turn reduces training costs and operator errors. Most security failures are due to either bad policy or lax enforcement. Basing a control system on a more secure OS won't eliminate the majority of security failures. Switching from Windows to another OS would have raised user costs without a corresponding increase in security. And given the sophistication of the Stuxnet worm and the laxness of Iranian security, the experts that created Stuxnet probably could have figured out a way to crack any other OS.</p>
+    </div>
+
+         
+
+
+              </div>
+</div>
+<div style="clear:both; font-size:.0001em; line-height:.001em">&nbsp;</div>
+<a id="comment-365771"></a>
+<div class="comment443076">
+  <div class="comm_meta">
+    <p class="username nvy_blue">KUNINO</p>
+    <p class="time_stamp">2:57 PM ET</p>
+    <p class="date_stamp">September 28, 2010</p>
+  </div>
+
+  <div class="usr_comment">
+    <p class="comm_title"><a href="/posts/2010/09/27/6_mysteries_about_stuxnet#comment-365771" class="active">Hounshell&#039;s usual standard</a></p>
+    <div class="comm_body">
+       <p>Israel isn't the obvious culprit for the distribution of Stuxnet, and you don't have to be a supporter of Israel to know that. What Hounshell probably meant to write was that Israel is the obvious suspect, but he was too careless to think about the right word, and use it. He did not make much of a case for israel's being the obvious suspect either, and some bright student in Kuala Lumpur seems, on the data in this article, just as obvious. "Experts" often inflate alleged bad guys, and that could be going on here -- just as the early post-9/11 mentions of Osama bin Laden started out saying he personally was a billionaire. </p>
+<p>The current set would be those "security researchers who have been pouring over Stuxnet for months", but probably think themselves that they've been poring over it. Irrigation by Hounshell.</p>
+<p>This Mouse That Pored story does indeed tell us that nobody knows who made and circulated Stuxnet, nobody's saying exactly what it does, nobody seems to be claiming ability to block it. Possibly due to vagueness in Hounshell's phrasing, we don't even know whether it enters Siemens Simatic WinCC software -- just that it enters systems that apply that software and, likely, others as well. This is a poor return on Hounshell's energy in amassing quite a lot of information, and readers' energy in trying to work out what he's really trying to get across. </p>
+<p>Was this story written on Windows?</p>
+    </div>
+
+         
+
+
+              </div>
+</div>
+<div style="clear:both; font-size:.0001em; line-height:.001em">&nbsp;</div>
+<a id="comment-367376"></a>
+<div class="comment443076">
+  <div class="comm_meta">
+    <p class="username nvy_blue">REDBOURN</p>
+    <p class="time_stamp">1:27 AM ET</p>
+    <p class="date_stamp">September 30, 2010</p>
+  </div>
+
+  <div class="usr_comment">
+    <p class="comm_title"><a href="/posts/2010/09/27/6_mysteries_about_stuxnet#comment-367376" class="active">John Markoff&#039;s dumb  comment!</a></p>
+    <div class="comm_body">
+       <p>John Markoff, the longtime tech reporter for the New York Times, takes on this question in today's paper. "If Stuxnet is the latest example of what a government organization can do, it contains some glaring shortcomings".</p>
+<p>The above is so far off target that it would seem to be driven by solely by political considereations.</p>
+<p>Markoff is most likely sympathetic to Iran and against sanctions, and considers Stuxnet a "terrorist attack".</p>
+<p>Many of Stuxnet's features are totally groundbreaking and one of those features is that it will only do harm to an envirironment that meets a whole array of very specific criteria.</p>
+<p>"The program was splattered on thousands of computer systems around the world, and much of its impact has been on those systems, rather than on what appears to have been its intended target, Iranian equipment".</p>
+<p>What harm did Stuxnet do to those computers?</p>
+<p>Stuxnet is not about destroying computers!</p>
+<p>Markoff writes for the NYT which I stopped reading many moons ago because of its extreme left wing bias and this widely publized drivel simply confirms the correctness of my decision.</p>
+    </div>
+
+         
+
+
+              </div>
+</div>
+<div style="clear:both; font-size:.0001em; line-height:.001em">&nbsp;</div>
+  </div>
+<!-- END USER COMMENTS -->
+</div>           </div>
+           <!-- END OF BLOG WELL -->
+        </div> 
+
+        <!-- RIGHT RAIL -->
+        <div id="aux-rail">
+                   
+<div>
+<!-- BIG BOX AD -->
+<div id="big-box-top">
+       <script type='text/javascript'>
+       GA_googleAddSlot("ca-pub-5500462750907867", "blog_bigbox");
+       GA_googleFillSlot("blog_bigbox");
+       </script>
+</div>
+<!-- END BIG BOX AD -->
+
+</div>
+
+<div>
+<div id="blog-about" class="blog_blurb">
+<div class="about_hed">
+<img src="http://www.foreignpolicy.com/images/091105_ricks-about-hed.gif"/>
+<a href="mailto:fpletters@foreignpolicy.com"><img class="email_blog" border="0" src="http://www.foreignpolicy.com/images/091105_blog_email_author.gif"></a>
+</div>
+<p class="blurb">
+Passport, FP’s flagship blog, brings you news and hidden angles on the biggest stories of the day, as well as insights and under-the-radar gems from around the world.</p>
+<a class="more_link" href="/about_passport" >
+<p style="more_info"><img class="read_more" src="http://www.foreignpolicy.com/images/091106_more_info_arrow.gif"/>Read More</p>
+</a>
+</div>
+</div>
+
+<div>
+<!-- FB STK -->
+                  <div id="fb-soc-box">
+                        <a href="http://www.foreignpolicy.com/mynetwork"> <img border="0" src="http://www.foreignpolicy.com/files/fp_uploaded_images/100721_facebook_hed2.png " / ></a>
+                   </div>
+                   <div id="fb-tabbed-pane">
+                   <a href="#" class="button-active" onclick="$('#fb-tabbed-pane1').show(); $('#fb-tabbed-pane2').hide(); $('#fb-tabbed-pane a').removeClass('button-active'); $(this).addClass('button-active');  return false;">Friends' Activity</a>
+                   <a href="#" class="" onclick="$('#fb-tabbed-pane1').hide(); $('#fb-tabbed-pane2').show(); $('#fb-tabbed-pane a').removeClass('button-active'); $(this).addClass('button-active'); return false;">Most Liked</a>
+                   </div>
+                   <div id="fb-tabbed-pane1">
+                        <fb:activity width="300"  height="196" header="false" site="foreignpolicy.com" border_color="#FFFFFF" font="Arial"></fb:activity> 
+                    </div>
+                   <div id="fb-tabbed-pane2">
+           			    <fb:recommendations width="300"  height="196" header="false" site="foreignpolicy.com" border_color="#FFFFFF" font="Arial" recommendations="true"></fb:recommendations>
+           			</div>
+                   <!-- END FB STK --></div>
+
+<div>
+<div id="blog-blog-search" class="blog_search">
+  <form name="fp_blog_search" method="get"  action="http://www.google.com/search">
+    <div id="blog-search-box">
+      <input type="text" name="q" maxlength="30" id="search-blog-form"/>
+            </div>
+            <div id="blog-search-sub">
+              <input type="submit" value=" " name="" id="search-submit"/>
+            </div>
+            <div id="blog-search-realm">
+                <input type="radio" class="styled" name="sitesearch" value="blog.foreignpolicy.com" checked="checked"/>
+		<span>Passport</span><input class="styled" type="radio"  name="sitesearch" value="foreignpolicy.com" /><span>Entire Site</span>
+            </div>
+   </form>
+</div>
+
+</div>
+
+<div>
+<div id="blogroll-blog" class="blogroll_dir">
+<img src="http://www.foreignpolicy.com/images/edpicks_div.jpg"/>
+<div class="br_hed">
+<img src="http://www.foreignpolicy.com/images/091117_daily_reads.gif" />
+<div class="see_more"> <a href="#">See Full List</a></div>
+</div>
+<ul id="col1">
+  <li><a href="http://www.cnas.org/blogs/abumuqawama">Abu Muqawama</a></li>
+    <li><a href="http://www.andrewsullivan.com">Andrew Sullivan</a></li>
+    <li><a href="http://blog.wired.com/defense/">Danger Room</a></li>
+    <li><a href="http://thelede.blogs.nytimes.com/">The Lede</a></li>
+    <li><a href="http://www.marginalrevolution.com/">Marginal Revolution</a></li>
+  </ul><ul id="col2">
+    <li><a href="http://yglesias.thinkprogress.com/">Matthew Yglesias</a></li>
+    <li><a href="http://www.rferl.org/archive/Transmission/latest/648/648.html">Transmission</a></li>
+    <li><a href="http://www.undispatch.com">UN Dispatch</a></li>
+    <li><a href="http://smallwarsjournal.com/blog/">Small Wars Journal</a></li>
+    <li><a href="http://www.worldpoliticsreview.com">World Politics Review</a></li>
+  </ul>
+<img src="http://www.foreignpolicy.com/images/edpicks_div.jpg" />
+</div>
+</div>
+
+<div>
+<div id="blog-twit-feed" class="tweet_box" style="text-align: right; float: right; width: 300px; margin-bottom:15px; ">
+<script src="http://widgets.twimg.com/j/2/widget.js"></script>
+<script>
+new TWTR.Widget({
+  version: 2,
+  type: 'profile',
+  rpp: 3,
+  interval: 6000,
+  width: 300,
+  height: 300,
+  theme: {
+    shell: {
+      background: '#333333',
+      color: '#ffffff'
+    },
+    tweets: {
+      background: '#000000',
+      color: '#ffffff',
+      links: '#ceebed'
+    }
+  },
+  features: {
+    scrollbar: false,
+    loop: false,
+    live: false,
+    hashtags: true,
+    timestamp: true,
+    avatars: false,
+    behavior: 'all'
+  }
+}).render().setUser('FP_Magazine').start();
+</script>
+</div>
+</div>
+
+<div>
+<div id="pop-art-day" class="pop-art" style="display:none">
+                           <div class="gray_nav_opt" id="pop-hed">
+                              <img src="/sites/all/themes/fpmain/images/popular_articles.gif" />
+                              <span><b>TODAY</b> | <a href="#" class="popreadweek">PAST WEEK</a></span>
+                           </div>
+                           <div id="pop-menu">
+                              <p class="selected">MOST<br/>READ</p>
+                              <p><a href="#" class="popcommday">MOST<br/>COMMENTED</a></p>
+                           </div>
+                           <div id="list-wrapper">
+                              <ol class="gray_nav_opt" id="pop-art-list"><!-- count=6971 --><li><a href="http://www.foreignpolicy.com/articles/2010/12/21/last_action_hero">Last Action Hero</a></li><!-- count=2815 --><li><a href="http://www.foreignpolicy.com/articles/2010/11/29/the_fp_top_100_global_thinkers">The FP Top 100 Global Thinkers</a></li><!-- count=2269 --><li><a href="http://www.foreignpolicy.com/articles/2010/12/17/the_10_worst_predictions_for_2010">The 10 Worst Predictions for 2010</a></li><!-- count=1770 --><li><a href="http://www.foreignpolicy.com/articles/2010/12/13/afghanistan_2010_a_year_in_photos">Afghanistan 2010: A Year in Photos</a></li><!-- count=1754 --><li><a href="http://www.foreignpolicy.com/articles/2010/12/23/next_christmas_in_chernobyl">Next Christmas in Chernobyl</a></li></ol>
+                           </div>
+                        </div><div id="pop-art-week" class="pop-art" style="display:none">
+                           <div class="gray_nav_opt" id="pop-hed">
+                              <img src="/sites/all/themes/fpmain/images/popular_articles.gif" />
+                              <span><a href="#" class="popreadday">TODAY</a> | <b>PAST WEEK</b></span>
+                           </div>
+                           <div id="pop-menu">
+                             <p class="selected">MOST<br/>READ</p>
+                             <p><a href="#" class="popcommweek">MOST<br/>COMMENTED</a></p>
+                           </div>
+                           <div id="list-wrapper">
+                              <ol class="gray_nav_opt" id="pop-art-list"><!-- count=69108 --><li><a href="http://www.foreignpolicy.com/articles/2010/12/21/last_action_hero">Last Action Hero</a></li><!-- count=28864 --><li><a href="http://www.foreignpolicy.com/articles/2010/12/20/the_global_gay_rights_battlefields">The Global Gay Rights Battlefields</a></li><!-- count=24075 --><li><a href="http://www.foreignpolicy.com/articles/2010/12/21/elections_to_watch_in_2011">Elections to Watch in 2011</a></li><!-- count=20018 --><li><a href="http://www.foreignpolicy.com/articles/2010/12/22/bloggers_read_books_too">Bloggers Read Books, Too</a></li><!-- count=19108 --><li><a href="http://www.foreignpolicy.com/articles/2010/12/21/the_hidden_war">The Hidden War</a></li></ol>
+                           </div>
+                        </div><div id="pop-comm-day" class="pop-art" style="display:none">
+                          <div class="gray_nav_opt" id="pop-hed">
+                             <img src="/sites/all/themes/fpmain/images/popular_articles.gif" />
+                             <span><b>TODAY</b> | <a href="#" class="popcommweek">PAST WEEK</a></span>
+                          </div>
+                          <div id="pop-menu">
+                             <p><a href="#" class="popreadday">MOST<br/>READ</a></p>
+                             <p class="selected">MOST<br/>COMMENTED</p>
+                          </div>
+                          <div id="list-wrapper">
+                             <ol class="gray_nav_opt" id="pop-art-list"><!-- count=5 --><li><a href="http://www.foreignpolicy.com/articles/2010/12/17/palestinians_must_be_free">Palestinians Must Be Free</a></li><!-- count=5 --><li><a href="http://www.foreignpolicy.com/articles/2010/12/21/last_action_hero">Last Action Hero</a></li><!-- count=4 --><li><a href="http://www.foreignpolicy.com/articles/2010/12/22/mexico_s_forever_war">Mexico&#039;s Forever War</a></li><!-- count=3 --><li><a href="http://www.foreignpolicy.com/articles/2010/12/22/sweden_s_problem_isn_t_immigrants_it_s_the_internet">Sweden&#039;s Problem Isn&#039;t Immigrants, It&#039;s the Internet</a></li><!-- count=3 --><li><a href="http://www.foreignpolicy.com/articles/2010/12/23/will_facebook_friend_china">Will Facebook Friend China?</a></li></ol>
+                          </div>
+                       </div><div id="pop-comm-week" class="pop-art" style="display:none">
+                           <div class="gray_nav_opt" id="pop-hed">
+                              <img src="/sites/all/themes/fpmain/images/popular_articles.gif" />
+                              <span><a href="#" class="popcommday">TODAY</a> | <b>PAST WEEK</b></span>
+                           </div>
+                           <div id="pop-menu">
+                              <p><a href="#" class="popreadweek">MOST<br/>READ</a></p>
+                              <p class="selected">MOST<br/>COMMENTED</p>
+                           </div>
+                           <div id="list-wrapper">
+                              <ol class="gray_nav_opt" id="pop-art-list"><!-- count=48 --><li><a href="http://www.foreignpolicy.com/articles/2010/12/17/palestinians_must_be_free">Palestinians Must Be Free</a></li><!-- count=40 --><li><a href="http://www.foreignpolicy.com/articles/2010/12/21/the_guns_of_december">The Guns of December</a></li><!-- count=23 --><li><a href="http://www.foreignpolicy.com/articles/2010/12/17/two_states_no_solutions">Two States, No Solutions</a></li><!-- count=22 --><li><a href="http://www.foreignpolicy.com/articles/2010/12/20/wooing_the_gods_of_the_peace_process">Wooing the Gods of the Peace Process</a></li><!-- count=21 --><li><a href="http://www.foreignpolicy.com/articles/2010/12/14/the_missing_assassin">The Missing Assassin </a></li></ol>
+                           </div>
+                       </div></div>
+
+<div>
+<!-- COVER STORY -->
+                       <div id="cover-story">
+                 	  <div id="cover-hed">
+                	     <img src="/sites/all/themes/fpmain/images/cover_story.gif" />
+                          </div><div class="cp_tile "><div class="view view-minifront view-id-minifront view-display-id-block_1 view-dom-id-2">
+    
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+    
+<a href="http://www.foreignpolicy.com/articles/2010/12/21/last_action_hero"><img  class="imagefield imagefield-field_minifront" width="300" height="155" alt="" src="http://blog.foreignpolicy.com/files/covputin2mini.jpg?1293149102" /></a>
+  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div> </div></div>
+                       <!-- END COVER STORY --></div>
+
+<div>
+<!-- PHOTO ESSAYS -->
+                   <div id="photo-essay-wig">
+                       <div class="gray_nav_opt" id="pe-hed"><img class="float-left" src="/sites/all/themes/fpmain/images/photo_ess_hed.gif" /><span>
+                          <img src="/sites/all/themes/fpmain/images/arr-indent.gif" />&nbsp;<a href="http://www.foreignpolicy.com/node/30067"><b class="fp_red">See All Photo Essays</b></a></span>
+                       </div>
+                       <div id="pe-plate">
+               	       <ul><div class="cp_tile ">
+        <li>
+   <a href="http://www.foreignpolicy.com/articles/2010/12/13/afghanistan_2010_a_year_in_photos"><img src="/files/101210_1_105914624.jpg" /></a>
+   <p class="art_title"><a href="http://www.foreignpolicy.com/articles/2010/12/13/afghanistan_2010_a_year_in_photos">Afghanistan 2010: A Year in Photos</a></p>
+</li>
+
+    <li>
+   <a href="http://www.foreignpolicy.com/articles/2010/12/02/the_great_wall_of_smog"><img src="/files/101202_11_95002608.jpg" /></a>
+   <p class="art_title"><a href="http://www.foreignpolicy.com/articles/2010/12/02/the_great_wall_of_smog">The Great Wall of Smog</a></p>
+</li>
+
+</div></ul>
+                       </div>
+                   </div>
+                   <!-- END PHOTO ESSAYS --></div>
+
+<div>
+<!-- CURRENT ISSUE --><div class="cp_tile "><div class="view view-currentissue view-id-currentissue view-display-id-block_1 view-dom-id-4">
+    
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+    <div id="current-issue"> 
+   <div id="issue-hed">
+       <img class="float-left" src="/sites/all/themes/fpmain/images/current_issue_hed.gif" /><span>December 2010</span>
+   </div> 
+   <a href="http://www.foreignpolicy.com/issues/183/contents"><img src="http://blog.foreignpolicy.com/files/cover_dec_120.jpg" id="cover" /></a> 
+   <ul id="iss_content"> 
+       <li> 
+            <p class="sec">
+               Cover Story            </p> 
+            <p class="art"><a href="http://www.foreignpolicy.com/articles/2010/11/29/the_fp_top_100_global_thinkers">The FP Top 100 Global Thinkers</a></p> 
+       </li> 
+       <li> 
+            <p class="sec">
+               Special Report            </p> 
+            <p class="art"><a href="http://www.foreignpolicy.com/articles/2010/11/29/the_stories_you_missed_in_2010">The Stories You Missed in 2010</a></p> 
+       </li> 
+       <li> 
+            <p class="sec">
+               Feature            </p> 
+            <p class="art"><a href="http://www.foreignpolicy.com/articles/2010/11/29/the_fp_survey">The FP Survey: The Wisdom of the Smart Crowd</a></p> 
+       </li> 
+       <li style="background-image: none;"></li> 
+       <div id="sub_link"> 
+            <p class="iss_link"><img src="/sites/all/themes/fpmain/images/arr-indent.gif" />&nbsp;<a href="http://www.foreignpolicy.com/issues/183/contents">See Entire Issue</a></p> 
+            <p class="iss_link"><img src="/sites/all/themes/fpmain/images/arr-indent.gif" />&nbsp;<a href="http://www.zinio.com/express3?issn=0015-7228">Preview Digital Edition</a></p> 
+       </div> 
+   </ul> 
+</div>
+  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div> </div><!--END CURRENT ISSUE --></div>
+
+<div>
+<!-- FP JOBS -->
+                   <div id="fp-jobs">
+			<script type="text/javascript" src="http://jobs.foreignpolicy.com/feeds/jobroll/?num_jobs=3&num_featured_jobs=0&display_method=default&template_name=column_1&version=2.0"></script>
+                   </div>
+                   <!-- END FP JOBS --></div>
+
+<div>
+<div id="WPL-CS-Widget"></div>
+<script type="text/javascript">
+  var adOptions = [{width: 'auto', height: 'auto', container: 'WPL-CS-Widget'}];
+</script>
+<script type="text/javascript" src="http://media3.washingtonpost.com/wp-srv/wapolabs/cdn/prod/1_3/js/rev_platform_ads_setup.js"></script></div>
+
+<div>
+<!-- START SLATE GROUP FEEDS -->
+                     <div id="slate_box">
+                        <a href="http://www.slate.com"><img src="http://www.foreignpolicy.com/images/slate_bar.png" border="0"></a>
+                        <!-- START SLATE TEMPLATE --><div class="cp_tile "><div class="view view-newsfeedlist view-id-newsfeedlist view-display-id-block_1 view-dom-id-6">
+    
+  
+  
+      <div class="view-content">
+      <div class="item-list">
+    <ul>
+          <li class="views-row views-row-1 views-row-odd views-row-first">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="http://www.slate.com/id/2278914/?from=rss">Why President Obama is losing his fight against inequality.</a></span>
+  </div>
+</li>
+          <li class="views-row views-row-2 views-row-even">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="http://www.slate.com/id/2278196/entry/0/?from=rss">Slate illustrated, 2010.</a></span>
+  </div>
+</li>
+          <li class="views-row views-row-3 views-row-odd views-row-last">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="http://www.slate.com/id/2279113/?from=rss">Jean Shepherd, the man who told A Christmas Story.</a></span>
+  </div>
+</li>
+      </ul>
+</div>    </div>
+  
+  
+  
+  
+  
+  
+</div> </div><!-- END SLATE TEMPLATE -->
+                     </div>
+                     <div id="the_root_box">
+                        <a href="http://www.theroot.com"><img src="http://www.foreignpolicy.com/images/090504_the_root_banner.gif" border="0"></a>
+                        <!-- START THE ROOT TEMPLATE --><div class="cp_tile "><div class="view view-newsfeedlist view-id-newsfeedlist view-display-id-block_1 view-dom-id-7">
+    
+  
+  
+      <div class="view-content">
+      <div class="item-list">
+    <ul>
+          <li class="views-row views-row-1 views-row-odd views-row-first">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="http://www.theroot.com/views/obama-says-his-views-same-sex-marriage-are-evolving">Obama Says His Views on Same-Sex Marriage Are &#039;Evolving&#039;</a></span>
+  </div>
+</li>
+          <li class="views-row views-row-2 views-row-even">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="http://www.theroot.com/views/waiting-and-worrying-phone-christmas">Waiting and Worrying by the Phone on Christmas</a></span>
+  </div>
+</li>
+          <li class="views-row views-row-3 views-row-odd views-row-last">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="http://www.theroot.com/views/rethinking-barack-obama-chi-town">Rethinking Barack Obama in Chi-Town</a></span>
+  </div>
+</li>
+      </ul>
+</div>    </div>
+  
+  
+  
+  
+  
+  
+</div> </div><!-- END THE ROOT TEMPLATE -->
+                     </div>
+                     <!-- END SLATE GROUP FEEDS --></div>
+
+<div>
+<!-- START GOOGLE AD -->
+                   <div style="float:right; height:250px; padding:15px 0px 20px;">
+                   <script type="text/javascript"><!--
+                   google_ad_client = "pub-6753725723815653";
+                   /* 300x250, created 8/28/09 */
+                   google_ad_slot = "9107683454";
+                   google_ad_width = 300;
+                   google_ad_height = 250;
+                   //-->
+                   </script>
+                   <script type="text/javascript"
+                   src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+                   </script>
+                   </div>
+                   <!-- END GOOGLE AD --></div>
+        </div>
+        <!-- END RIGHT RAIL --> 
+        </div> <!-- /#center -->
+    </div>  
+    <!-- END THEATRE -->  
+
+    <div id="footer" class="clear">
+           
+<div>
+<!--paging_filter--><p><a href="http://twitter.com/FP_magazine"><b>Follow us on Twitter</b></a> | <a href="http://www.facebook.com/foreign.policy.magazine"><b>Visit us on Facebook</b></a> | <a href="http://www.foreignpolicy.com/node/33012"><b>Follow us on RSS</b></a> | <a href="https://www.cambeywest.com/subscribe/?p=frp&f=paid&s=I101AFSUB"><b>Subscribe to Foreign Policy</b></a></p>
+<p><a href="http://www.foreignpolicy.com/about_us"><strong>About FP</strong></a> | <a href="http://www.foreignpolicy.com/articles/meet_the_staff">Meet the Staff</a> | <a href="http://www.foreignpolicy.com/advertising/mag_international.php">Foreign Editions</a> | <a href="http://www.foreignpolicy.com/articles/reprint_permissions">Reprint Permissions</a> | <a href="http://www.foreignpolicy.com/advertising/">Advertising</a> | <a href="http://www.foreignpolicy.com/advertising/conferences.php">Corporate Programs</a> | <a href="http://www.foreignpolicy.com/articles/writers_guidelines">Writers’ Guidelines</a> | <a href="http://www.foreignpolicy.com/articles/press_room">Press Room</a> | <a href="http://www.foreignpolicy.com/articles/employment">Work at FP</a>
+
+        </p>
+        
+        <p> <strong>Services:</strong><a href="http://www.foreignpolicy.com/articles/subscription_services">Subscription Services</a> | <a href="https://www.cambeywest.com/subscribe/?p=frp&f=paid&s=I101HFEDU&r=edu">Academic Program</a> | <a href="http://www.foreignpolicy.com/archive">FP Archive</a> | <a href="http://www.foreignpolicy.com/articles/reprint_permissions_and_syndication">Reprint Permissions</a> | <a href="http://www.foreignpolicy.com/articles/reports_and_merchandise">FP Reports and Merchandise</a> | <a href="http://www.foreignpolicy.com/articles/special_reports">Special Reports</a> | <a href="http://www.foreignpolicy.com/articles/back_issues">Buy Back Issues</a></p>
+
+        <p><a href="http://www.foreignpolicy.com/articles/privacy_policy">Privacy Policy</a> | <a href="http://www.foreignpolicy.com/articles/disclaimer">Disclaimer</a> | <a href="http://www.foreignpolicy.com/articles/contact_us">Contact Us</a></p>
+        <div align="center"><img src="http://www.foreignpolicy.com/images/spacer.gif" alt="" height="10" width="10"><a href="http://www.foreignpolicy.com"><img src="http://www.foreignpolicy.com/images/footer_logo.gif" alt="FP Logo" border="0" height="27" width="129"></a></div>
+
+        <p><br/>
+        1899 L Street NW, Suite 550 | Washington, DC 20036 | Phone: 202-728-7300 | Fax: 202-728-7342
+        <br/>
+        <a href="http://www.foreignpolicy.com">FOREIGN POLICY</a> is published by the Slate Group, a division of Washingtonpost.Newsweek Interactive, LLC
+        <br/>
+        All contents ©2009 Washingtonpost.Newsweek Interactive, LLC. All rights reserved.
+        </p>
+       <p>&nbsp;</p></div>
+    </div> <!-- /#footer -->
+
+    </div> <!-- /#container -->
+    <span class="clear"></span>
+  </div> <!-- /#wrapper -->
+<!-- /layout -->
+
+<!--CLOSURE-->
+    <!-- Start Quantcast tag -->
+    <script type="text/javascript">
+      _qoptions={
+        qacct:"p-5cYn7dCzvaeyA"
+      };
+    </script>
+    <script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
+    <noscript>
+      <img src="http://pixel.quantserve.com/pixel/p-5cYn7dCzvaeyA.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/>
+    </noscript>
+    <!-- End Quantcast tag -->
+  
+<!-- SiteCatalyst code version: H.13. Copyright 1997-2007 Omniture, Inc. More info available at http://www.omniture.com -->
+<script type="text/javascript" language="JavaScript" src="http://blog.foreignpolicy.com/js/s_code.js"></script>
+<script type="text/javascript" language="JavaScript"><!--
+s.pageName="fp - blog - FP Passport - 6_mysteries_about_stuxnet";
+s.channel="fp - blog";
+s.hier1="blog | blog | blog post";
+s.hier2="foreignpolicy.com | blog | blog | blog post";
+s.prop2="";
+s.prop3="blog";
+s.prop5="Blake Hounshell";
+s.prop12="443076";
+s.prop25="FP Passport";
+s.prop32="drupal";
+s.prop33="";
+s.prop34="Web";
+/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+var s_code=s.t();if(s_code)document.write(s_code)//--></script>
+<script language="JavaScript" type="text/javascript"><!--
+if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
+//--></script><!--CLOSURE-->
+
+<!-- FLASH POINTS WIDGET CODE -->
+    <script language="javascript">
+       $("div.flash-wrap").scrollable({size: 2,clickable: false, keyboard: false});
+    </script>
+<!-- END WIDGET CODE -->
+
+<script language="javascript"> $(function(){       $('.textControl').click(function(){           var artText = $('#art-body p');           var activeSize = artText.css('fontSize');           var newSize = parseFloat(activeSize, 
+10);           var suffix = activeSize.slice(-2);           if(this.id == 'textUp' && newSize <= 16) {                newSize += 1;            }            else if (this.id == 'textDown' && newSize >= 12 ){               
+newSize -=1;            }           artText.css('fontSize', newSize + suffix);        });    }); </script>
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-6874192-2");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+
+    <script type="text/javascript">
+    var headers = ['directory', 'blogs', 'channels', 'newsbriefs', 'latestarticles', 'latestposts'];
+    for(var i=0; i<headers.length; i++) {
+      jQuery("#" + headers[i]).hover(function() {
+	  jQuery('#' + this.id + '-box').fadeIn(150);
+	},
+	function() {
+	  jQuery('#' + this.id + '-box').fadeOut(150);
+	});
+    }
+</script>
+  </body>
+</html>

@@ -1,0 +1,1346 @@
+<html>
+<head>
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=utf-8"/>
+<script>var wp_ms_start = new Date().getTime();</script>
+<script type="text/javascript" src="http://media3.washingtonpost.com/wp-srv/javascript/framework/prototype.js"></script>
+<script language="javascript" src="http://media10.washingtonpost.com/wp/js/papl.js"></script>
+<script type="text/javascript" src="http://media3.washingtonpost.com/wp-srv/js/utilsStatic.js"></script>
+<script type="text/javascript" src="http://media3.washingtonpost.com/wp-srv/js/Utils.js"></script>
+<script>var utils = new Utils();</script>
+<script type="text/javascript" src="http://media3.washingtonpost.com/wp-srv/js/vendor-on_off.js"></script>
+<script src="http://media3.washingtonpost.com/wp-srv/javascript/factorTG.js"></script>
+<title>Hackers Access Palin's Personal E-Mail, Post Some Online - washingtonpost.com</title>
+<link rel="canonical" href="http://www.washingtonpost.com/wp-dyn/content/article/2008/09/17/AR2008091703304.html"/>
+<meta name="keywords" content=""></meta>
+<meta name="description" content="A group of computer hackers said yesterday that they had accessed a Yahoo e-mail account of Alaska Gov. Sarah Palin, the Republican vice presidential nominee, publishing some of her private communications to expose what appeared to be her use of a personal account for government business."></meta>
+<script src="http://media3.washingtonpost.com/wp-srv/ad/ad_v2.js"></script>
+<script language="javascript">
+<!--
+thisNode = 'politics/elections';
+commercialNode ='technology';
+// -->
+</script>
+<SCRIPT LANGUAGE="JavaScript" TYPE="text/javascript">
+<!--
+function popitup(url, height, width)
+{
+var dimString = "'" + "height=" + height + ",width=" + width + ",scrollbars=1" + "'"
+newwindow=window.open(url,'name',dimString);
+if (window.focus) {newwindow.focus()}
+return false;
+}
+// -->
+</SCRIPT>
+<script src="http://media3.washingtonpost.com/wp-srv/javascript/init.js"></script>
+<style>
+@import url("http://media3.washingtonpost.com/wp-srv/css/topstrip_teased.css");
+@import url("http://media3.washingtonpost.com/wp-srv/css/sidebars.css");
+@import url("http://media3.washingtonpost.com/wp-srv/css/bullets.css");
+@import url("http://media3.washingtonpost.com/wp-srv/css/feature.css");
+@import url("http://media3.washingtonpost.com/wp-srv/css/feature_ls.css");
+@import url("http://media3.washingtonpost.com/wp-srv/css/misc_linkset.css");
+@import url("http://media3.washingtonpost.com/wp-srv/css/story/main.css");
+@import url("http://media3.washingtonpost.com/wp-srv/css/article_media.css");
+@import url("http://media3.washingtonpost.com/wp-srv/css/related-bottom-content.css");
+@import url("http://media3.washingtonpost.com/wp-srv/css/bookmarking_v2.css");
+@import url("http://media10.washingtonpost.com/wp/css/specials-js.css");
+</style>
+<script src="http://media3.washingtonpost.com/wp-srv/js/related-bottom-content.js"></script>
+<meta name="DC.date.issued" content="2008-09-18"/>
+<link rel="image_src" href="http://www.washingtonpost.com/wp-dyn/content/photo/2008/09/17/PH2008091704009.jpg"/>
+<script type="text/javascript" src="http://media3.washingtonpost.com/wp-srv/js/saveshare.js"></script>
+<script language="javascript" src="http://media3.washingtonpost.com/wp-srv/js/HotContent.js"></script>
+<script src="http://media3.washingtonpost.com/wp-srv/javascript/article/init.js"></script>
+<script language="JavaScript">var SA_Message="SACategory=" + 'politics/elections';</script>
+<script language="javascript" src="http://media.washingtonpost.com/wp-srv/ad/ad_configurations_article_v2.js"></script>
+<script language="javascript" src="http://media.washingtonpost.com/wp-srv/popjs/popupCampaignClasses.js"></script>
+<script type="text/javascript">
+<!--
+/** Variables from WPNI Article Page **/
+var wp_article = {
+"publishDate":	 new Date(1221710400000),
+"id":				 "AR2008091703304",
+"path":			  "http://www.washingtonpost.com/wp-dyn/content/article/2008/09/17/AR2008091703304.html",
+"comments_url":	"http://www.washingtonpost.com/wp-dyn/content/article/2008/09/17/AR2008091703304_Comments.html",
+"headline":		 "Hackers Access Palin's Personal E-Mail, Post Some Online",
+"reporter":		 "",
+"abstract":		 "A group of computer hackers said yesterday that they had accessed a Yahoo e-mail account of Alaska Gov. Sarah Palin, the Republican vice presidential nominee, publishing some of her private communications to expose what appeared to be her use of a personal account for government business.",
+"section":		  "politics",
+"allow_comments": "yes",
+"comments_period": 3
+};
+// -->
+</script>
+<script type="text/javascript" src="http://edge.sphere.com/widgets/sphereit/js?siteid=washpost_politics&baseurl=http://edge.sphere.com/widgets/sphereit/"></script>
+<script src="http://media3.washingtonpost.com/wp-srv/js/story/storyUtils.js"></script>
+<script src="http://media3.washingtonpost.com/wp-srv/js/story/thisItem.js"></script>
+<link href="http://media3.washingtonpost.com/wp-srv/css/story/navigation.css" rel="stylesheet" media="all"/>
+<script>
+<!--
+var rn = ( Math.round( Math.random()*10000000000 ) );
+document.write('<s\cript src="http://www.washingtonpost.com/wp-dyn/content/story/2008/09/17/ST2008091703731_Items.js?'+rn+'"></s\cript>') ;
+document.write('<s\cript src="http://www.washingtonpost.com/wp-dyn/content/article/2008/09/17/AR2008091703304_StoryJs.js?'+rn+'"></s\cript>') ;
+// -->
+</script>
+
+<script>
+<!--
+function getWPServerTimeAsDate() {
+	var ssi_date = '12/26/2010 18:12:40' ;
+	if ( ssi_date.match(/DATE_LOCAL/) ) {
+		return new Date() ;
+	} else {
+		return new Date('12/26/2010 18:12:40') ;
+	}
+}
+// -->
+</script>
+<link href="http://media3.washingtonpost.com/wp-srv/css/global.css" rel="stylesheet" media="all"/>
+<link href="http://media3.washingtonpost.com/wp-srv/css/layout/revclamp970.css" rel="stylesheet" media="all"/>
+<link href="http://media3.washingtonpost.com/wp-srv/css/article.css" rel="stylesheet" media="all"/>
+</head>
+<body id="PageArticle">
+<!-- start visible content -->
+<div id="PageArticleCommon">
+<script>
+var saveshare_recipe = 'bottom';
+init_save_share();
+</script>
+<div id="wrapperTop">
+<script type="text/javascript" src="http://media.washingtonpost.com/wp-srv/wpost/javascript/static-header.js"></script>
+<link type="text/css" rel="stylesheet" href="http://media.washingtonpost.com/wp-srv/wpost/css/static-shell-twp-v3.css"></link>
+<!-- END NEW HEADER INFO -->
+<div id="header-v3"> <div id="utility-wrapper"> <ul id="utility-links" class="inline"> <li id="global-signin" style="min-width:40px;"> </li> <li id="global-registration"> </li> <li> <a href="https://subscription.washpost.com/subscriberservices/subscriber.portal?state=welcome&oscode=RPWS">Subscribe</a> </li> <li> <a href="http://www.washingtonpost.com/wp-srv/contents/mobile/mobilewebsite.html?nid=top_mobile">Mobile</a> </li> <li> <a href="http://www.washingtonpost.com/wp-dyn/content/photo/?nid=top_multimedia">Multimedia</a> </li> <li> <a href="http://www.washingtonpost.com/wp-dyn/content/print/?nid=top_todays_paper">Today's Paper</a> </li> </ul> <ul id="user-tools" class="inline"> <li> <a class="anchor" href="http://www.washingtonpost.com/gog?nid=top_gog"><span>Going Out Guide</span></a> </li> <li> <a class="anchor" href="http://www.washingtonpost.com/wl/jobs/home/?nid=top_jobs"><span>Jobs</span></a> </li> <li> <a class="anchor" href="http://www.washingtonpost.com/wp-dyn/content/cars/?nid=top_cars"><span>Cars</span></a> </li> <li> <a class="anchor" href="http://www.washingtonpost.com/real-estate/index.html?nid=top_realestate"><span>Real Estate</span></a> </li> <li> <a class="anchor" href="http://www.washingtonpost.com/rentals?nid=top_rentals"><span>Rentals</span></a> </li> <li> <a class="anchor" href="http://www.washingtonpost.com/classifieds?nid=top_classifieds"><span>Classifieds</span></a> </li> </ul> </div> <div id="main-nav-wrapper"> <ul id="main-nav" class="inline"> <li data="top_news" class="uc first"> <a href="http://www.washingtonpost.com/wp-srv/national.html?nid=top_news" class="news">News</a> <div class="drop"> <table> <tbody> <tr> <td><a href="http://www.washingtonpost.com/wp-dyn/content/nation/?nid=roll_nation">Nation</a></td> <td><a href="http://blog.washingtonpost.com/washingtonpostinvestigations/?nid=roll_investigations">Investigations</a></td> <td><a href="http://www.washingtonpost.com/wp-dyn/content/photo/?nid=roll_photovid">Photos &amp; Video</a></td> <td class="last"><a href="http://www.washingtonpost.com/wp-dyn/content/discussions/index.html?nid=roll_discuss">Discussions</a></td> </tr> <tr> <td><a href="http://www.washingtonpost.com/wp-dyn/content/world/?nid=roll_world">World</a></td> <td><a href="http://voices.washingtonpost.com/education/?nid=roll_education">Education</a></td> <td><a href="http://www.washingtonpost.com/wp-dyn/content/artsandliving/entertainmentnews/?nid=roll_entertain">Entertainment</a></td> <td class="last"><a href="http://www.washingtonpost.com/wp-dyn/content/linkset/2005/04/25/LI2005042500027.html?nid=roll_corrections">Corrections</a></td> </tr> <tr> <td><a href="http://www.washingtonpost.com/wp-srv/local.html?nid=roll_local">Metro</a></td> <td><a href="http://www.washingtonpost.com/health">Health</a></td> <td><a href="http://blog.washingtonpost.com/?nid=roll_columnsblogs">Columns &amp; Blogs</a></td> <td class="last"><a href="http://specials.washingtonpost.com/in/innovation-news/?nid=roll_innovations">Innovations</a></td> </tr> </tbody></table> <div class="ad" style="line-height:12px;padding:4px 0 4px 8px;"><a href="http://timespace.washingtonpost.com/project/world"><b>AD: </b>Explore TimeSpace World sponsored by Sprint</a></div> </div> </li> <li data="local"> <a class="uc" href="http://www.washingtonpost.com/wp-srv/local.html?nid=top_local">Local</a> <div class="drop"> <table> <tr> <td><a href="http://www.washingtonpost.com/wp-srv/weather/index.html?nid=roll_weather">Weather</a></td> <td><a href="http://www.washingtonpost.com/wp-dyn/content/metro/dc/index.html?nid=roll_dclocal">District</a></td> <td><a href="http://www.washingtonpost.com/wp-srv/metro/metro_columnists.html?nid=roll_localcolblogs">Columns &amp; Blogs</a></td> <td class="last"><a href="http://www.washingtonpost.com/wp-srv/metro/communitytools.html?nid=roll_localtools">Local Tools</a></td> </tr> <tr> <td><a href="http://voices.washingtonpost.com/transportation/?nid=roll_traffic">Traffic</a></td> <td><a href="http://www.washingtonpost.com/wp-dyn/content/metro/md/index.html?nid=roll_mdlocal">Maryland</a></td> <td><a href="http://www.washingtonpost.com/wp-dyn/content/metro/obituaries/index.html/?nid=roll_obituaries">Obituaries</a></td> <td class="last"><a href="http://yellowpages.washingtonpost.com">Yellow Pages</a></td> </tr> <tr> <td><a href="http://voices.washingtonpost.com/crime?nid=roll_crime">Crime</a></td> <td><a href="http://www.washingtonpost.com/wp-dyn/content/metro/va/index.html?nid=roll_valocal">Virginia</a></td> <td><a href="http://www.washingtonpost.com/wp-dyn/content/metro/special/3/index.html?nid=roll_commuting">Commuting</a></td> <td class="last"><a href="http://www.washingtonpost.com/wp-srv/admin/classifieds/index.html?nid=roll_classifieds">Classifieds</a></td> </tr> </table> </div> </li> <li data="politics"> <a class="uc"href="http://www.washingtonpost.com/wp-srv/sectionfronts/politics/index.html?nid=top_politics">Politics</a> <div class="drop"> <table> <tr> <td><a href="http://voices.washingtonpost.com/politics/white-house.html?nid=roll_whitehouse">White House</a></td> <td><a href="http://voices.washingtonpost.com/politics/congress.html?nid=roll_congress">Congress</a></td> <td class="last"><a href="http://voices.washingtonpost.com/politics/campaigns.html?nid=roll_campaigns">Campaigns</a></td> </tr> <tr> <td><a href="http://voices.washingtonpost.com/politics/polling.html?nid=roll_polls">Polling</a></td> <td><a href="http://voices.washingtonpost.com/politics/federal-government.html?nid=roll_fedpage">The Fed Page</a></td> <td class="last"><a href="http://www.whorunsgov.com?nid=roll_whorunsgov">Who Runs Gov</a></td> </tr> <tr> <td colspan="3"><a href="http://www.washingtonpost.com/wp-srv/sectionfronts/politics/subsections/columns-blogs.html?nid=roll_politicscolblogs">Columns &amp; Blogs </a></td> </tr> </table> </div> </li> <li data="opinion"> <a class="uc" href="http://www.washingtonpost.com/wp-dyn/content/opinions/index.html?nid=top_opinions">Opinions</a> <div class="drop"> <table> <tr> <td><a href="http://www.washingtonpost.com/wp-dyn/content/opinions/index.html?nid=roll_opinmain">Latest Opinions</a></td> <td><a href="http://voices.washingtonpost.com/tomtoles/?nid=roll_toonsvid">Toles Cartoons</a></td> <td class="last"><a href="http://voices.washingtonpost.com/anntelnaes/?nid=roll_telnaes">Telnaes Animations</a></td> </tr> <tr> <td><a href="http://www.washingtonpost.com/wp-dyn/content/opinions/columnsandblogs/index.html?nid=roll_localopinions">Local Opinions</a></td> <td><a href="http://www.washingtonpost.com/wp-dyn/content/opinions/outlook/index.html?nid=roll_outlook">Outlook</a></td> <td class="last"><a href="http://www.washingtonpost.com/wp-dyn/content/discussions/index.html?nid=roll_discussions">Discussions</a></td> </tr> </table> </div> </li> <li data="sports"> <a class="uc" href="http://www.washingtonpost.com/wp-dyn/content/sports/?nid=top_sports">Sports</a> <div class="drop"> <table> <tr> <td><a href="http://www.washingtonpost.com/wp-srv/sports/redskins/longterm/sectionfront/index.html?nid=roll_redskins">Redskins</a></td> <td><a href="http://www.washingtonpost.com/wp-srv/sports/wizards/index.html?nid=roll_nba">Wizards/NBA</a></td> <td><a href="http://www.washingtonpost.com/wp-srv/sports/colleges/index.html?nid=roll_colleges">Colleges</a></td> <td class="last"><a href="http://www.washingtonpost.com/wp-srv/sports/columns-blogs/columns.html?nid=roll_columnists">Columnists</a></td> </tr> <tr> <td><a href="http://www.washingtonpost.com/wp-srv/sports/capitals/index.html?nid=roll_capitals">Capitals/NHL</a></td> <td><a href="http://www.washingtonpost.com/wp-srv/sports/united_soccer/index.html?nid=roll_dcunited">United/Soccer</a></td> <td><a href="http://www.washingtonpost.com/wp-dyn/content/sports/highschools/index.html?nid=roll_hs">High Schools</a></td> <td class="last"><a href="http://www.washingtonpost.com/wp-srv/sports/columns-blogs/blogs.html?nid=roll_sportsblogs">Blogs</a></td> </tr> <tr> <td><a href="http://www.washingtonpost.com/wp-srv/sports/nationals/index.html?nid=roll_nationals">Nationals/MLB</a></td> <td><a href="http://www.washingtonpost.com/wp-srv/sports/mystics/index.html?nid=roll_mystics">Mystics/WNBA</a></td> <td><a href="http://www.washingtonpost.com/wp-dyn/content/sports/index/index.html?nid=roll_leagues_sports">Leagues &amp; Sports</a></td> <td class="last"><a href="http://www.washingtonpost.com/wp-dyn/content/sports/wires/index.html?nid=roll_wires">Wires</a></td> </tr> </table> </div> </li> <li data="business"> <a href="http://www.washingtonpost.com/wp-srv/sectionfronts/business/index.html?nid=top_business">Business</a> <div class="drop"> <table> <tr> <td><a href="http://www.washingtonpost.com/wp-srv/sectionfronts/business/policy/index.html?nid=roll_policy_regulation">Policy & Regulation </a></td> <td><a href="http://www.washingtonpost.com/wp-srv/sectionfronts/business/economy/index.html?nid=roll_economy">Economy</a></td> <td class="last"><a href="http://www.washingtonpost.com/wp-srv/sectionfronts/business/localbusiness/index.html?nid=roll_local_business">Local Business</a></td> </tr> <tr> <td><a href="http://www.washingtonpost.com/wp-srv/sectionfronts/business/technology/index.html?nid=roll_technology">Technology</a></td> <td><a href="http://washpost.bloomberg.com/market-news/index?nid=roll_markets">Markets</a></td> <td class="last"><a href="http://washpost.bloomberg.com/industries/index?nid=roll_industries">Industries</a></td> </tr> <tr> <td><a href="http://washpost.bloomberg.com/worldbusiness/?nid=roll_worldbusiness">World Business</a></td> <td><a href="http://www.washingtonpost.com/wp-srv/sectionfronts/business/specialreports/index.html?nid=roll_specialreports">Special Reports</a></td> <td class="last"><a href="http://www.washingtonpost.com/wp-srv/sectionfronts/business/columns-blogs/index.html?nid=roll_columnsblogs">Columns & Blogs</a></td> </tr> </table> </div> </li> <li data="artsandliving"> <a href="http://www.washingtonpost.com/wp-dyn/content/artsandliving/index.html?nid=top_artsliving">Arts & Living</a> <div class="drop"> <table> <tr> <td><a href="http://www.washingtonpost.com/wp-dyn/content/artsandliving/style/index.html?nid=roll_style">Style</a></td> <td><a href="http://www.washingtonpost.com/wp-dyn/content/artsandliving/entertainmentnews/index.html?nid=roll_entnews">Entertainment News</a></td> <td><a href="http://www.washingtonpost.com/wp-dyn/content/artsandliving/television/index.html?nid=roll_tv">Television</a></td> <td><a href="http://www.washingtonpost.com/wp-dyn/content/artsandliving/homeandgarden/index.html?nid=roll_homegarden">Home &amp; Garden</a></td> <td><a href="http://www.washingtonpost.com/wp-dyn/content/print/bookworld/index.html?nid=roll_books">Books</a></td> <td class="last"><a href="http://www.washingtonpost.com/wp-dyn/content/artsandliving/comics/index.html?nid=roll_comics">Comics</a></td> </tr> <tr> <td><a href="http://www.washingtonpost.com/wp-dyn/content/artsandliving/music/index.html?nid=roll_music">Music</a></td> <td><a href="http://www.washingtonpost.com/wp-dyn/content/artsandliving/foodanddining/index.html?nid=roll_fooddining">Food &amp; Dining</a></td> <td><a href="http://www.washingtonpost.com/wp-dyn/content/artsandliving/travel/index.html?nid=roll_travel">Travel</a></td> <td><a href="http://www.washingtonpost.com/wp-dyn/content/artsandliving/theater/index.html?nid=roll_theater">Theater &amp; Dance</a></td> <td><a href="http://www.washingtonpost.com/wp-dyn/content/artsandliving/weddings/index.html?nid=roll_weddings">Weddings</a></td> <td class="last"><a href="http://www.washingtonpost.com/wp-dyn/content/artsandliving/crosswords/index.html?nid=roll_crosswords">Crosswords</a></td> </tr> <tr> <td><a href="http://www.washingtonpost.com/gog/dc-movies-theaters.html?nid=roll_movies">Movies</a></td> <td><a href="http://www.washingtonpost.com/wp-dyn/content/artsandliving/fashionandbeauty/index.html?nid=roll_fashionbeauty">Fashion &amp; Beauty</a></td> <td><a href="http://www.washingtonpost.com/wp-dyn/content/artsandliving/museums/index.html?nid=roll_museums">Museums</a></td> <td><a href="http://www.washingtonpost.com/wp-dyn/content/artsandliving/magazine/index.html?nid=roll_postmagazine">Post Magazine</a></td> <td><a href="http://www.washingtonpost.com/wp-srv/artsandliving/horoscopes/index.html?nid=roll_horoscopes">Horoscopes</a></td> <td class="last"><a href="http://www.uclick.com/client/wpc/wpdoc/index.html?nid=roll_sodoku">Sudoku</a></td> </tr> </table> </div> </li> <style>
+			#header-v3 #main-nav li#target-button a, #header-v3 #main-nav li#target-button a:hover {padding:0;}
+			</style> <li style="float:right;width: 90px;padding-left:10px;display:none;" id="target-button" data="target"></li><li data="none" class="search" style="float:right;width:228px;border-right:none;"> <form name="headersearch" action="http://www.washingtonpost.com/cgi-bin/search99.pl" method="post"> <input class="restore text" style="height:22px;" type="text" name="keywords" value="Search The Washington Post" onClick="this.value='';" /> <input type="submit" class="button global-search" name="submit" /> </form></li> </ul> </div> <div id="brand-wrapper"> <div id="logo"> <a class="twp-brand-large" href="http://www.washingtonpost.com/">The Washington Post</a> </div> <div class="tile-ad" id="adTiff" style="display:none;"> <script type="text/javascript" src="http://www.washingtonpost.com/wp-srv/ad/tiffany_manager.js"></script> </div> </div> <script type="text/javascript">
+        var gh = new TWP.Module.GlobalHeader();
+    </script> </div> 
+<SCRIPT LANGUAGE="javascript">
+<!--
+if ( show_doubleclick_ad && ( adTemplate & BANNER_FLEX_TOP ) == BANNER_FLEX_TOP  )
+{
+document.write('<div id="banner_wrapper_top" align="center">') ;
+document.write('<table cellpadding="0" cellspacing="0" border="0">') ;
+document.write('<tr>') ;
+document.write('<td valign="middle">') ;
+document.writeln ('<img src="http://media3.washingtonpost.com/wp-srv/article/pieces/adLabel_bluebackground_13x60.gif" alt="ad_icon" width="13" height="60" border="0"/>' );
+document.write('</td>') ;
+document.write('<td>') ;
+}
+// -->
+</SCRIPT>
+<script>
+if ( show_doubleclick_ad && ( adTemplate & BANNER_FLEX_TOP ) == BANNER_FLEX_TOP  )
+{
+placeAd('ARTICLE',commercialNode,1,'',true) ;
+}
+</script>
+<SCRIPT LANGUAGE="javascript">
+<!--
+if ( show_doubleclick_ad && ( adTemplate & BANNER_FLEX_TOP ) == BANNER_FLEX_TOP  )
+{
+document.write('</td>') ;
+document.write('</tr>') ;
+document.write('</table>') ;
+document.write('</div>') ;
+}
+// -->
+</SCRIPT>
+<!-- LEAVE THIS COMMENT IN - WE DON'T WANT THE OLD SEARCH BAR TO SHOW UP -->&#160;
+<div id="bread_crumbs">
+<a href="http://www.washingtonpost.com">washingtonpost.com</a>
+&nbsp;&gt;&nbsp;<a href="http://www.washingtonpost.com/wp-dyn/content/politics/index.html">Politics</a>
+&nbsp;&gt;&nbsp;<a href="http://www.washingtonpost.com/wp-srv/politics/interactives/campaign08/">Elections</a>
+</div>
+</div>
+<div id="wrapperMain">
+<div id="wrapperMainCenter">
+<div id="wrapperInternalCenter">
+<div id="banner">
+</div>
+<div id="story-navigation-top-ST2008091703731" class="storynav-bar storynav-bar-top hide"><span class="nav-kicker">&raquo; This Story:</span><span onmouseout="hideExpando(this.id,'heading','story-navigation-expanded-ST2008091703731-readitem')" onmouseover="setActiveNavPosition('top');showExpandoDown(this.id,'heading','story-navigation-expanded-ST2008091703731-readitem')" class="heading" id="story-navigation-top-ST2008091703731-readitem">Read +</span>&#124;<span onmouseout="hideExpando(this.id,'heading','story-navigation-expanded-ST2008091703731-watchitem')" onmouseover="setActiveNavPosition('top');showExpandoDown(this.id,'heading','story-navigation-expanded-ST2008091703731-watchitem')" class="heading" id="story-navigation-top-ST2008091703731-watchitem">Watch +</span><span id="story-comments-wrapper-top-ST2008091703731" class="show">&#124;<span class="heading comments-heading"><img src="http://media3.washingtonpost.com/wp-srv/story/piecies/icon_comments.gif"/>&nbsp;<a id="story-comments-link-top-ST2008091703731" href="#">Comments</a></span></span></div>
+
+<script>
+<!--
+var rn = ( Math.round( Math.random()*10000000000 ) );
+document.write('<s\cript src="http://www.washingtonpost.com/wp-dyn/content/article/2008/09/17/AR2008091703304_StoryJs.js?'+rn+'"></s\cript>') ;
+// -->
+</script>
+<!-- <hr size=1> <div style="font-size:11px;font-weight:bold;font-family: arial, verdana, helvetica;">News Alert</div> <a href="http://www.washingtonpost.com/wp-dyn/content/article/2005/09/28/AR2005092800270.html?nav=articlealert" style="font-size:13px;color: #cc0000;font-weight:bold;font-family: arial, verdana, helvetica;text-decoration:none;"></span></a> <a href="http://www.washingtonpost.com/wp-dyn/content/article/2005/09/28/AR2005092800270.html?nav=articlealert" style="font-family: arial, verdana, helvetica;font-weight:bold;font-size:13px;">House Majority Leader Tom DeLay Indicted</a><br> <hr size=1><br> -->
+<div class="topstrip">
+<style type="text/css">
+#tsPolitics08 { padding: 0 10px 5px 10px; margin-bottom: 15px; border-bottom: 1px dotted #CCC; }
+#tsPolitics08 p { margin: 0; font: 11px Arial, Helvetica, sans-serif; color: #999; }
+#tsPolitics08 p strong { font-weight: bold; color: #C00; }
+#tsPolitics08 a { font-weight: bold; padding: 0 4px; }
+#tsPolitics08 a:link, #tsPolitics08 a:visited { color: #0c4790; text-decoration: none; }
+#tsPolitics08 a:hover, #tsPolitics08 a:active { color: #C00; text-decoration: underline; }
+#tsPolitics08 .rssfeed { background: #FFF url('http://media.washingtonpost.com/wp-srv/politics/interactives/ohioriver/images/feed-icon-10x10.gif') no-repeat 4px 1px; padding: 0 0 0 17px; white-space: nowrap; }
+</style>
+<div id="tsPolitics08">
+<p><!--
+<strong>'08 Iowa Caucuses &raquo;</strong>
+<a href="http://projects.washingtonpost.com/2008-presidential-candidates/primaries/states/ia/r/" title="Iowa GOP Caucus Results">GOP Results</a> |
+<a href="http://projects.washingtonpost.com/2008-presidential-candidates/primaries/states/ia/d/" title="Iowa Democratic Caucus Results">Dem. Results</a> |
+<a href="http://blog.washingtonpost.com/the-trail/" title="The Trail -- Daily Diary of Campaign '08">Updates</a> |
+<a href="http://projects.washingtonpost.com/2008-presidential-candidates/" title="Profiles of the Candidates">Candidates</a> |
+<a href="http://projects.washingtonpost.com/2008-presidential-candidates/tracker/" title="Where the Candidates Are Today">Schedules</a> |
+<a href="http://www.washingtonpost.com/wp-dyn/rss/politics/index.xml" title="Politics Headlines Feed" class="rssfeed">RSS</a>
+</p> -->
+<strong>2008 Politics &raquo;</strong>
+<a href="http://projects.washingtonpost.com/2008-presidential-candidates/" title="Profiles of the Candidates">Candidates</a> |
+<a href="http://www.washingtonpost.com/wp-srv/politics/interactives/campaign08/issues/" title="The 2008 Candidates and the Issues">Issues</a> |
+<a href="http://www.washingtonpost.com/wp-srv/politics/interactives/campaign08/primaries/primary-calendar.html" title="Primary and Caucus Dates">Calendar</a> |
+<a href="http://www.washingtonpost.com/wp-srv/politics/politics_columnists.html" title="Reports From the Campaign Trail">Dispatches</a> |
+<a href="http://projects.washingtonpost.com/2008-presidential-candidates/tracker/" title="Where the Candidates Are Today">Schedules</a> |
+<a href="http://www.washingtonpost.com/wp-dyn/content/politics/polls/" title="Post-ABC Survey Results">Polls</a> |
+<a href="http://www.washingtonpost.com/wp-dyn/rss/politics/index.xml" title="Politics Headlines Feed" class="rssfeed">RSS</a>
+</p>
+</div> <!-- end tsPolitics08 -->
+
+</div>
+<script type="text/javascript" src="http://media3.washingtonpost.com/wp-srv/javascript/community/slconfig.js"></script>
+<script type="text/javascript" src="http://media3.washingtonpost.com/wp-srv/javascript/community/sitelife.js"></script>
+<!-- sphereit start -->
+<div id="article">
+<div style="padding-left:10px;">
+<h1>Hackers Access Palin's Personal E-Mail, Post Some Online</h1>
+<h2 style="margin-bottom:10px;"></h2>
+<div id="artslot-350" class="wrapper350_photo" style="width:350px;"><img src="http://media3.washingtonpost.com/wp-dyn/content/photo/2008/09/17/PH2008091704006.jpg" border="0" alt="This screenshot from Gawker.com shows e-mail from an account that Alaska Gov. Sarah Palin used for official business." class="img350" onerror="document.getElementById('artslot-350').style.display='none'"><br/><div class="caption" style="width:350">This screenshot from Gawker.com shows e-mail from an account that Alaska Gov. Sarah Palin used for official business. <span class="credit">(Associated Press)</span></div></div>
+<table cellpadding="0" cellspacing="0" style="float:right;clear:both;" width="238" id="content_column_table">
+<tr><td width="10"></td><td width="228">
+<div id="content_column_tools">
+<script src="http://media3.washingtonpost.com/wp-srv/article/js/storyPageTools.js"></script>
+<div class="sidebarhack"><b></b></div>
+<div class="sidebar">
+<div class="seo-header">TOOLBOX</div>
+<div class="sidebarcontent">
+<div class="sidebarColumnGeneric" id="sidebarColumnResize">
+<a href="javascript:void(0);" onclick="article_fontSizer('small')"><img src="http://media3.washingtonpost.com/wp-srv/article/images/font_resize_small.gif" alt="" width="9" height="14" border="0" align="absbottom"></a><a href="javascript:void(0);" onclick="article_fontSizer('medium')"><img src="http://media3.washingtonpost.com/wp-srv/article/images/font_resize_medium.gif" alt="" width="12" height="14" border="0" align="absbottom"></a><a href="javascript:void(0);" onclick="article_fontSizer('large')"><img src="http://media3.washingtonpost.com/wp-srv/article/images/font_resize_large.gif" alt="" width="11" height="14" border="0" align="absbottom"></a> Resize
+</div>
+<div class="sidebarColumnGeneric" id="sidebarColumnPrint">
+<a href="http://www.washingtonpost.com/wp-dyn/content/article/2008/09/17/AR2008091703304_pf.html" style="background:transparent url(http://media3.washingtonpost.com/wp-srv/article/images/icon_printer.gif) no-repeat scroll 0px 0px;padding:0pt 0pt 0pt 22px;" rel="nofollow">Print</a>
+</div>
+<div class="sidebarColumnGeneric" id="sidebarColumnEmail">
+<a href="http://www.washingtonpost.com/ac2/wp-dyn/emailafriend?contentId=AR2008091703304&sent=no" style="background:transparent url(http://media3.washingtonpost.com/wp-srv/article/images/icon_email.gif) no-repeat scroll 0px 0px;padding:0pt 0pt 0pt 22px;" rel="nofollow">E-mail</A>
+</div>
+<div style="clear:both;"></div>
+<div class="sidebarColumnGeneric" id="sidebarColumnYahooBuzz">
+<script showbranding="0" src="http://d.yimg.com/ds/badge.js" badgetype="text">washington_po284:http://www.washingtonpost.com/wp-dyn/content/article/2008/09/17/AR2008091703304.html</script>
+</div>
+<div style="clear:both;"></div>
+<div style="clear:both;"></div>
+<SCRIPT>
+<!--
+if ( show_doubleclick_ad && ( adTemplate & TOOLBOX_LEFT_180X31 ) == TOOLBOX_LEFT_180X31  )
+{
+document.write('<div style="margin-top:4px;margin-bottom:4px;clear:left;">') ;
+document.writeln ('<div style="padding-top:7px;margin:0px;float:left;"><img src="http://media3.washingtonpost.com/wp-srv/article/images/advert.gif" alt="ad_icon" width="12" height="17" border="0"/></div>' );
+}
+// -->
+</SCRIPT>
+<script>
+if ( show_doubleclick_ad && ( adTemplate & TOOLBOX_LEFT_180X31 ) == TOOLBOX_LEFT_180X31  )
+{
+placeAd('ARTICLE',commercialNode,28,'',true) ;
+}
+</script>
+<SCRIPT LANGUAGE="javascript">
+<!--
+if ( show_doubleclick_ad && ( adTemplate & TOOLBOX_LEFT_180X31 ) == TOOLBOX_LEFT_180X31  )
+{
+document.write('</div>') ;
+}
+// -->
+</SCRIPT>
+</div>
+</div>
+<!-- Comment Page -->
+<span class="display:none;" name="pubDate" id="pubDate" value="1221710400000"></span>
+ <!-- Start New Comments Box: Common -->
+<link href="http://media.washingtonpost.com/wp-srv/css/commentslinks.css" rel="stylesheet" media="all"/>
+<script type="text/javascript" src="http://media.washingtonpost.com/wp-srv/javascript/commentsUtils.js"></script>
+<script type="text/javascript" src="http://media.washingtonpost.com/wp-srv/javascript/community/startup.js"></script>
+
+<script>
+<!--
+var COMMENTS_ALLOWED = false ;
+var COMMENTS_ACTIVE = false ;
+
+var comments_period = ( typeof wp_article != "undefined" && typeof wp_article.comments_period != "undefined" && ( wp_article.comments_period != "" || wp_article.comments_period == "0" ) && wp_article.comments_period >= 0 ) ? wp_article.comments_period : 3 ;
+
+if ( typeof thisNode == 'undefined' )
+	thisNode = 'admin' ;
+
+// (wp_article.allow_comments) && !(black list) && (white list) of ancestors and sections goes here
+if ( SITELIFE_ENABLED
+	&&
+ 	( typeof wp_article != "undefined" && typeof wp_article.allow_comments != "undefined" && wp_article.allow_comments != "no" )
+	&&
+	!( thisNode.match(/\/wires$/) || thisNode.match(/^artsandliving\/(entertainmentguide|travel\/index)($|\/)/) || thisNode.match(/^business\/(portfolio)($|\/)/) || thisNode.match(/^metro\/(obituaries)($|\/)/) )
+	&&
+	( thisNode.match(/^(artsandliving|business|cars|education|health|jobs|liveonline|metro|nation|opinions?|realestate|religion|politics|sports|technology|world|kidspost|media)($|\/)/) || thisNode.match(/^print\/(washpostmagazine|style|sundayarts|sundaysource|weekend)($|\/)/) ))
+{
+	COMMENTS_ALLOWED = true ;
+	document.write("<style>#ArticleCommentsWrapper {display:block};</style>");
+	if(! checkDaysOld(comments_period) ) {
+		COMMENTS_ACTIVE = true ;
+	} else {
+		COMMENTS_ACTIVE = false ;
+	}	
+} else {
+	document.write('');
+}
+// -->
+</script>
+
+<script type="text/javascript">
+<!--
+if (SITELIFE_ENABLED) {
+	 // Include the WPNI functions to display SiteLife content on the page.
+	 document.write("<scr" + "ipt type=\"text/javascript\" src=\"" + "http://media.washingtonpost.com/wp-srv/javascript/community/sldisplay6.js" + "\"></scr" + "ipt>\n");
+}
+// -->
+</script>
+
+<div id="ArticleCommentsWrapper">
+<div class="sidebarhack"><b></b></div>
+<div class="sidebar">
+	<div class="seo-header">COMMENT <img src="http://media.washingtonpost.com/wp-srv/article/comments/images/comment_icon.gif" alt="" width="16" height="14" border="0"></div> 
+	<div id="Content-ArticleComments" class="sidebarcontent" style="display:block;">
+			<div class="sidebar_comments">		
+				<span class="comment-count" style="font-size:20pt;font-family:georgia,serif;font-weight:bold;line-height:0.8em;">0&nbsp;</span><span class="comment-count-text">Comments</span><span style="font-size:20pt;font-family:georgia,serif;font-weight:bold;line-height:0.8em;">&nbsp;</span>
+			</div>
+			<div class="sidebar_comments" style="padding-top:15px;">
+				<!-- START: PUT COMMENT INPUT BOX HERE -->
+				<script>
+				if ( COMMENTS_ALLOWED ) {
+					if( COMMENTS_ACTIVE) {
+						// document.write('<strong id="comment-directive">POST A COMMENT</strong><br>');
+						document.write('<strong id="comment-directive">BE THE FIRST TO COMMENT</strong><br>');
+						document.write( getDisplayUserName()+'<br>');
+						document.write('<div id="commententry">'+getFakeForm()+'</div>');
+						document.write('<div id="policy_link" style="float:right;"><a href="javascript:void(0);" onclick="showCommentsPolicy(\'show\')" style="text-decoration:none;" id="discussion_link"><img src="http://media.washingtonpost.com/wp-srv/images/open_12x12.gif" border="0" style="position:relative;top:2px;">&nbsp;Discussion Policy</a></div>');
+						document.write('<div class="clearboth"></div>');
+						document.write('<div id="comments_error"></div>');
+					} else {
+						document.write('<strong id="comment-directive">COMMENTS ARE CLOSED</strong><br>');
+					}
+				}
+				</script>
+				
+				<!-- END: PUT COMMENT INPUT BOX HERE -->
+			</div>
+	</div>
+
+	<div id="IE6Error-ArticleComments" class="sidebarcontent" style="display:none;">
+		Your browser's settings may be preventing you from commenting on and viewing comments about this item. <a href="javascript:void(window.open('http://www.washingtonpost.com/wp-srv/admin/help/popup/frame_pageIE6-COMMENTS.html','NewWin','scrollbars,toolbar=false,menubar=false,resizable=false,width=740,height=595,top=0,right=1000'));">See instructions for fixing the problem.</a>
+	</div>
+
+	<script src="http://media.washingtonpost.com/wp-srv/ad/comments_box_small.js"></script>
+	<div style="clear:both;"></div>
+</div>
+
+		<div id="comments_policy_expando" class="comments_policy_off">
+				<div class="policy_header">
+					<div class="policy_header_text">Discussion Policy</div>
+					
+					<div class="policy_header_close"><img src="http://media.washingtonpost.com/wp-srv/article/comments/images/comment_policy_close.gif" alt="" width="12" height="12" border="0"> <a href="javascript:void(0);" onclick="showCommentsPolicy('close')">CLOSE</a></div>
+						<div style="clear:both;"></div>
+				</div>
+
+				<div class="policy_text">
+				Comments that include profanity or personal attacks or other inappropriate comments or material will be removed from the site. Additionally, entries that are unsigned or contain "signatures" by someone other than the actual author will be removed. Finally, we will take steps to block users who violate any of our posting standards, terms of use or privacy policies or any other policies governing this site. Please review the <a href="http://www.washingtonpost.com/wp-srv/liveonline/delphi/delphirules.htm">full rules</a> governing commentaries and discussions. You are fully responsible for the content that you post.
+				</div>
+				
+			</div>
+</div>
+<script>
+<!--
+function findPosY(obj){
+	var curtop = 0;
+	if(obj.offsetParent){
+		while(obj.offsetParent){
+			curtop += obj.offsetTop
+			obj = obj.offsetParent;
+		}
+	} else if(obj.y){
+		curtop += obj.y;
+	}
+	return curtop;
+}
+function findPosX(obj){
+	var curleft = 0;
+	if(obj.offsetParent){
+		while(obj.offsetParent){
+			curleft += obj.offsetLeft
+			obj = obj.offsetParent;
+		}
+	} else if(obj.x){
+		curleft += obj.x;
+	}
+	return curleft;
+}
+// -->
+</script>
+<!-- End New Comments Box: Common -->
+ 
+<div class="sidebarhack"><b></b></div>
+<div class="sidebar">
+<div class="seo-header"><div style="float:left;padding-left:7px;">Who's Blogging</div><div style="float:right;padding-right:5px;"><a href="http://www.sphere.com/" style="padding:0;"><img src="http://media3.washingtonpost.com/wp-srv/images/logo_sphere_powered101x13.gif" border="0" width="101" height="13"/></a></div><div style="clear:both;"></div></div>
+<div class="sidebarcontent">
+&raquo; <a class="iconsphere" title="Related Blogs & Articles" onclick="return Sphere.Widget.search();" href="http://www.sphere.com/search?q=sphereit:http://www.washingtonpost.com/wp-dyn/content/article/2008/09/17/AR2008091703304.html" rel="nofollow">Links to this article</a>
+</div>
+</div>
+</div>
+<div id="ad_links_inner" style="display:none"><script type="text/javascript" src="http://media.washingtonpost.com/wp-srv/ad/quigo/article_inner.js"></script></div>
+
+
+</td></tr></table>
+<FONT SIZE="2">
+<div id="byline">By Michael D. Shear and Karl Vick</div>
+Washington Post Staff Writers
+<br/>
+Thursday, September 18, 2008
+</FONT><P>
+</div>
+<div id="article_body" style="padding-left:10px;">
+<span id="aptureStartContent"></span>
+<p>
+A group of computer hackers said yesterday that they had accessed a Yahoo e-mail account of Alaska Gov. Sarah Palin, the Republican vice presidential nominee, publishing some of her private communications to expose what appeared to be her use of a personal account for government business.
+</p>
+<div id="story-navigation-vertical-ST2008091703731" class="story-navigation-vertical-wrapper hide"><div class="story-navigation-vertical" onmouseover="setActiveNavPosition('list')"><div class="heading">This Story</div><ul><li><div class="item inactive" id="story-navigation-vertical-ST2008091703731-AR2008091703663"><a class="icon-article" onclick="appendSidToAnchor(this);appendPositionToAnchor(this,active_nav_position);" href="http://www.washingtonpost.com/wp-dyn/content/story/2008/09/17/ST2008091703731.html">High Turnout, New Procedures May Mean an Election Day Mess</a></div></li><li><div class="item inactive" id="story-navigation-vertical-ST2008091703731-AR2008091703304"><a class="icon-article" onclick="appendSidToAnchor(this);appendPositionToAnchor(this,active_nav_position);" href="http://www.washingtonpost.com/wp-dyn/content/article/2008/09/17/AR2008091703304.html">Hackers Access Palin's Personal E-Mail, Post Some Online</a></div></li><li><div class="item inactive" id="story-navigation-vertical-ST2008091703731-AR2008091703581"><a class="icon-article" onclick="appendSidToAnchor(this);appendPositionToAnchor(this,active_nav_position);" href="http://www.washingtonpost.com/wp-dyn/content/article/2008/09/17/AR2008091703581.html">Recent Obama Ads More Negative Than Rival's, Study Says</a></div></li><span id="story-navigation-vertical-ST2008091703731-extra" class="hide"><li><div class="item inactive" id="story-navigation-vertical-ST2008091703731-GA2008091502293"><a class="icon-gallery" onclick="appendSidToAnchor(this);appendPositionToAnchor(this,active_nav_position);" href="http://www.washingtonpost.com/wp-dyn/content/gallery/2008/09/15/GA2008091502293.html">Obama, Biden Continue Campaign</a></div></li><li><div class="item inactive" id="story-navigation-vertical-ST2008091703731-GA2008091502356"><a class="icon-gallery" onclick="appendSidToAnchor(this);appendPositionToAnchor(this,active_nav_position);" href="http://www.washingtonpost.com/wp-dyn/content/gallery/2008/09/15/GA2008091502356.html">McCain, Palin Continue on the Stump</a></div></li><li><div class="item inactive" id="story-navigation-vertical-ST2008091703731-UR2008091703749"><a class="icon-url" onclick="appendSidToAnchor(this);appendPositionToAnchor(this,active_nav_position);" href="http://voices.washingtonpost.com/the-trail/2008/09/17/mccains_fundamentals_problem.html">Dan Balz's Take: McCain's Fundamentals Problem</a></div></li><li><div class="item inactive" id="story-navigation-vertical-ST2008091703731-UR2008091802107"><a class="icon-url" onclick="appendSidToAnchor(this);appendPositionToAnchor(this,active_nav_position);" href="http://www.washingtonpost.com/wp-srv/politics/interactives/campaign08/timeline/">Interactive Timeline: Lives and Careers of Barack Obama and John McCain</a></div></li></span></ul><div style="padding-top:5px;" class="show" id="story-navigation-vertical-ST2008091703731-more"><a class="normal icon-more" href="javascript:toggleDisplay('story-navigation-vertical-ST2008091703731-extra');toggleDisplay('story-navigation-vertical-ST2008091703731-more');toggleDisplay('story-navigation-vertical-ST2008091703731-less');">View All Items in This Story</a></div><div style="padding-top:5px;" class="hide" id="story-navigation-vertical-ST2008091703731-less"><a class="normal icon-less" href="javascript:toggleDisplay('story-navigation-vertical-ST2008091703731-extra');toggleDisplay('story-navigation-vertical-ST2008091703731-more');toggleDisplay('story-navigation-vertical-ST2008091703731-less');">View Only Top Items in This Story</a></div></div></div>
+
+<script>
+<!--
+var rn = ( Math.round( Math.random()*10000000000 ) );
+document.write('<s\cript src="http://www.washingtonpost.com/wp-dyn/content/article/2008/09/17/AR2008091703304_StoryJs.js?'+rn+'"></s\cript>') ;
+// -->
+</script>
+<div id="body_after_content_column">
+<p>
+The hackers posted what they said were personal photos, the contents of several messages, the subject lines of dozens of e-mails and Palin's e-mail contact list on a site called Wikileaks.org. That site said it received the electronic files from a group identifying itself only as &quot;Anonymous.&quot;
+</p>
+<p>
+&quot;At around midnight last night some members affiliated with the group gained access to governor Palin's email account, 'gov.palin@yahoo.com' and handed over the contents to the government sunshine site Wikileaks.org,&quot; said a message on the site.
+</p>
+<p>
+Rick Davis, the campaign manager for Republican presidential nominee <a href="http://projects.washingtonpost.com/congress/members/m000303/" target="">John McCain</a>, issued a statement yesterday afternoon condemning the incident.
+</p>
+<p>
+&quot;This is a shocking invasion of the Governor's privacy and a violation of law,&quot; he said. &quot;The matter has been turned over to the appropriate authorities and we hope that anyone in possession of these e-mails will destroy them. We will have no further comment.&quot;
+</p>
+<p>
+The episode focuses attention on Palin's use of her personal e-mail account as lawmakers in Alaska look into whether she fired the state's public safety commissioner, Walter Monegan, because he refused to take action against her brother-in-law, a state trooper at the time.
+</p>
+<p>
+Palin has been criticized in recent days for using a personal e-mail account to conduct state business. An Alaska activist has filed a Freedom of Information Act request seeking disclosure of e-mails from another Yahoo account Palin used, gov.sarah@yahoo.com.
+</p>
+<p>
+That account appears to have been linked to the one that was hacked.
+</p>
+<p>
+Both accounts appear to have been deactivated. E-mails sent to them yesterday were returned as undeliverable.
+</p>
+<p>
+Andrée McLeod, who filed the FOIA request, said yesterday evening that Palin should have known better than to conduct state business using an unsecured e-mail account.
+</p>
+<p>
+&quot;If this woman is so careless as to conduct state business on a private e-mail account that has been hacked into, what in the world is she going to do when she has access to information that is vital to our national security interests?&quot; she asked.
+</p>
+<p>
+McLeod's Anchorage attorney, Donald C. Mitchell, said Palin declined to comply with a public records request in June to divulge 1,100 e-mails sent to and from her personal accounts, citing executive privilege.
+</p>
+</div>
+<span id="aptureEndContent"></span>
+</div>
+</div>
+<!-- sphereit end -->
+<br clear="all">
+<div align="right"><table width="100%" cellpadding="2" cellspacing="0" border="0" id="pagination_bottom"><tr><td align="right">
+<font face="arial,sans-serif" color="#CC0000" size="-1"><b>CONTINUED</b></font>&nbsp;&nbsp;&nbsp;&nbsp;
+<b>
+<font face="arial,sans-serif" size="3" color="#CC0000">1</font>
+&nbsp;&nbsp;
+<font face="arial,sans-serif" size="3"><script>document.write('<a href="http://www.washingtonpost.com/wp-dyn/content/article/2008/09/17/AR2008091703304_2.html'+unescape(location.search)+'" onclick="try{appendSidToAnchor(this);appendPositionToAnchor(this,\'\');}catch(e){}">2</a>')</script><noscript><a href="http://www.washingtonpost.com/wp-dyn/content/article/2008/09/17/AR2008091703304_2.html">2</a></noscript></font>
+</b>
+&nbsp;&nbsp;&nbsp;<font face="arial, ms sans serif, sans-serif" size="3"><b><script>document.write('<a href="http://www.washingtonpost.com/wp-dyn/content/article/2008/09/17/AR2008091703304_2.html'+unescape(location.search)+'" onclick="try{appendSidToAnchor(this);appendPositionToAnchor(this,\'\');}catch(e){}">Next</a>')</script><noscript><a href="http://www.washingtonpost.com/wp-dyn/content/article/2008/09/17/AR2008091703304_2.html">Next</a></noscript> ></b></font>
+</td></tr></table></div><br>
+<div style="clear:both"></div>
+<div id="saveshare-bottom-wrapper" align="center">
+<div id="saveshare-bottom">
+<div class="column first" align="center" id="wp-diggthis-bottom">
+<span id="wp-diggthis-bottom-placeholder" style="display:none;"></span>
+</div>
+<div class="column second" align="center" id="wp-facebook-bottom">
+<span id="wp-facebook-bottom-placeholder" style="display:none;"></span>
+</div>
+<div class="column third" align="left"><script>document.write('<b>More ways to share this Article...</b>')</script><br/><div id="bookmark-bottom"><span id="bookmark-bottom-placeholder" style="display:none;"></span></div></div>
+<div style="clear:both;"></div>
+</div>
+</div>
+<div id="story-navigation-bottom-ST2008091703731" class="storynav-bar storynav-bar-bottom hide"><span class="nav-kicker">&raquo; This Story:</span><span onmouseout="hideExpando(this.id,'heading','story-navigation-expanded-ST2008091703731-readitem')" onmouseover="setActiveNavPosition('bottom');showExpandoUp(this.id,'heading','story-navigation-expanded-ST2008091703731-readitem')" class="heading" id="story-navigation-bottom-ST2008091703731-readitem">Read +</span>&#124;<span onmouseout="hideExpando(this.id,'heading','story-navigation-expanded-ST2008091703731-watchitem')" onmouseover="setActiveNavPosition('bottom');showExpandoUp(this.id,'heading','story-navigation-expanded-ST2008091703731-watchitem')" class="heading" id="story-navigation-bottom-ST2008091703731-watchitem">Watch +</span><span id="story-comments-wrapper-bottom-ST2008091703731" class="show">&#124;<span class="heading comments-heading"><img src="http://media3.washingtonpost.com/wp-srv/story/piecies/icon_comments.gif"/>&nbsp;<a id="story-comments-link-bottom-ST2008091703731" href="#">Comments</a></span></span></div>
+
+<div id="related-box">
+<div class="sidebarhack"><b></b></div>
+<div class="sidebar">
+<div class="sidebarcontent">
+<div class="sidebarbox">
+<div id="related-box-left" style="border-right:1px dotted white;">
+<!-- EVRI FILLER CONTENT GOES HERE -->
+<div class="relatedlinks">
+	<div class="heading"></div>
+	<div class="related-bulleted-item"><a href="#"></a></div>
+</div>
+<div class="evri-links-on_off">
+<span style="display:none;">EvriLinks</span>
+
+<a style="display:none;" href="http://www.evri.com/" title="Content recommendations provided by Evri">powered by</a><a href="http://www.evri.com/" title="Content recommendations provided by Evri"><img src="http://media3.washingtonpost.com/wp-srv/minilogos/evri_logo.gif" border="0" alt="Content recommendations provided by Evri" class="minilogo"/></a>
+<div class="clearboth"></div>
+</div>
+<div id="wp-evri">
+<div id="evri-widget-destination"></div>
+<script>
+if ( typeof EVRI_WIDGET_ON == 'boolean' && EVRI_WIDGET_ON ) {
+document.write('<s\cript src="http://www.evri.com/widget/javascripts/WashingtonPost.1.js"></s\cript>');
+}
+</script>
+<script type="text/javascript">
+if ( typeof EVRI_WIDGET_ON == 'boolean' && EVRI_WIDGET_ON ) {
+Evri.$(window).ready( function(){
+Evri.Widget.WashingtonPost.initWithURL('http://www.washingtonpost.com/wp-dyn/content/article/2008/09/17/AR2008091703304.html');
+});
+}
+</script>
+</div>
+<div class="internal" style="padding-right:15px;">
+</div>
+</div>
+<div id="related-box-right" style="border-left:1px solid white;">
+<div class="internal" style="padding-right:5px;">
+<script>
+if ( typeof rl_count == "undefined" ) {
+rl_count = 0 ;
+} else {
+rl_count += 0 ;
+}
+if ( rl_count > 5 ) {
+rl_count = 5 ;
+}
+inform_count = 5-rl_count ;
+</script>
+<div id="story-relatedlinks-ST2008091703731" class="hide"><div class="relatedlinks"><script>if ( typeof rl_count_ST2008091703731 == "undefined" ) { rl_count_ST2008091703731 = 0 ; } else { rl_count_ST2008091703731 += 0 ; } if ( rl_count_ST2008091703731 > 5 ) { rl_count_ST2008091703731 = 5 ; } inform_count_ST2008091703731 = 5-rl_count_ST2008091703731 ;</script></div></div>
+
+</div>
+<style type="text/css">
+.teased-item.partner ul { margin-top: 7px; float: none; }
+</style>
+<div class="relatedlinks border-bottom-gray">
+<div class="heading">From Our Partners</div>
+<div class="teased-item partner">
+<a href="http://www.slate.com"><img src="http://media.washingtonpost.com/wp-dyn/content/graphic/2007/09/27/GR2007092701096.GIF" alt="[slate.com logo]" border="0" /></a>
+<ul><li><a href="http://www.slate.com/id/2278792?nav=wp">Will Japan Be the Next Major World Economy To Tank?</a></li><li><a href="http://www.slate.com/id/2278936?nav=wp">Sofia Coppola's Somewhere: More Vague, Luxurious Limbo</a></li><li><a href="http://www.slate.com/id/2278915?nav=wp">The Beauty and Majesty of the World's Greatest Soccer Team: Barcelona</a></li><li><a href="http://www.slate.com/id/2278387?nav=wp">The U.S. Army Accidentally Killed an Iraqi and Then Paid His Family $2,800. Why $2,800?</a></li><li><a href="http://www.slate.com/id/2277569?nav=wp">Stories from Slate Readers Who Moved Home Because of the Great Recession</a></li><li><a href="http://www.slate.com/id/2277109?nav=wp">Why Do College Kids Get Such Long Winter Vacations?&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </a></li><li><a href="http://www.slate.com/id/2278939?nav=wp">How Much Should We Blame Regulators for the Financial Crisis?</a></li><li><a href="http://www.slate.com/id/2279104?nav=wp">Kwanzaa Is a Made-Up Holiday. But It Was Good for My Family.</a></li></ul>
+
+<div style="clear: both;"></div></div></div>
+
+<div class="internal" style="padding-right:5px;">
+<div id="aggregate-knowledge-box" class="akWrapperArticle"><a id="akAPI"></a></div>
+<script>
+<!--
+if ( typeof HotContent == 'function' ) {
+document.write('<div id="'+HotContent.DEFAULT_PLACEHOLDER+'"></div>');
+Event.observe(window,'load',function() {
+var thisHotContent = new HotContent("politics");
+});
+}
+// -->
+</script>
+</div>
+</div>
+</div>
+<div style="clear:both;"></div>
+</div>
+</div>
+</div>
+<div class="topstrip">
+<link rel="stylesheet" href="http://media.washingtonpost.com/wp-srv/css/article_promostrip.css" type="text/css" media="screen" />
+<style type="text/css">
+#botPromoStrip .colTwo .col1 { width: 210px; }
+#botPromoStrip .colTwo .col2 { width: 391px; }
+</style>
+<!-- BEGIN PROMO STRIP -->
+<div id="botPromoStrip">
+<!-- HEADER -->
+<h2>More in the Politics Section</h2>
+<!-- HEADER -->
+<div class="colTwo">
+<div class="col1">
+<div class="colWrapper">
+<!-- BEGIN FIRST PROMO -->
+<a href="http://projects.washingtonpost.com/2008-presidential-candidates/finance/" title="Campaign Finance -- Presidential Race"><img src="http://media.washingtonpost.com/wp-dyn/content/graphic/2007/04/16/GR2007041600662.gif" width="80" height="72" alt="Campaign Finance -- Presidential Race" border="0" /></a>
+<h3><a href="http://projects.washingtonpost.com/2008-presidential-candidates/finance/">2008 Fundraising</a></h3>
+<p>See who is giving to the '08 presidential candidates.</p>
+<ul>
+<li><b>Research Donations ...</b> <a href="http://projects.washingtonpost.com/2008-presidential-candidates/finance/search/">By Name, Occupation, Employer or Zip Code</a></li>
+<li><a href="http://projects.washingtonpost.com/2008-presidential-candidates/finance/states/">...By State</a></li>
+</ul>
+<!-- END FIRST PROMO -->
+</div>
+</div>
+<div class="col2">
+<div class="colWrapper">
+<!-- BEGIN SECOND PROMO -->
+<h3>Latest Politics Blog Updates</h3>
+<ul>
+		<li><b>The Trail:</b> <a href="http://voices.washingtonpost.com/the-trail/">Juan Williams: Palin not on same 'intellectual stage' as Obama</a> (updated 6 hours ago)</li>
+
+<li style="margin-top: 4px;"><a href="http://www.washingtonpost.com/wp-srv/politics/politics_columnists.html">Index of Politics Columns and Blogs</a> | <a href="http://www.washingtonpost.com/wp-dyn/content/opinions/">Opinions Section</a></li>
+</ul>
+<!-- END SECOND PROMO -->
+</div>
+</div>
+</div>
+<div class="clearboth"></div>
+</div>
+<!-- END PROMO STRIP -->
+
+</div>
+<!-- start the copyright for the articles -->
+<div id="articleCopyright" style="clear:both;" align="center">&copy;&nbsp;2008&nbsp;The Washington Post Company</div><!-- end the copyright for the aricles --><!-- start the copyright for the secions --><!-- end the copyright for the secions -->
+<script>
+<!--
+document.write('<div id="ad_links_bottom" align="center">') ;
+// -->
+</script>
+<div align="center" style="padding-bottom:10px"><script src="http://media.washingtonpost.com/wp-adv/adproducts/advertisingLinks/advertisingLinks_v2.js"></script></div> <script language="javascript">
+<!--
+document.write('</div>') ;
+if (! ( ( adTemplate & AD_LINKS_BOTTOM ) == AD_LINKS_BOTTOM ) )
+{
+if ( document.getElementById )
+document.getElementById('ad_links_bottom').style.display='none' ;
+}
+// -->
+</script>
+</div>
+</div>
+<div id="wrapperMainRight">
+<SCRIPT>
+<!--
+if ( show_doubleclick_ad && ( adTemplate & TILE_RIGHT_TOP ) == TILE_RIGHT_TOP  )
+{
+document.write('<div style="margin-top:4px; margin-bottom:4px; margin-right:10px; float:left;">') ;
+document.writeln ('<div><img src="http://media3.washingtonpost.com/wp-srv/hp/img/ad_label_leftjust.gif" alt="ad_icon" width="100" height="13" border="0"/></div>' );
+}
+// -->
+</SCRIPT>
+<script>
+if ( show_doubleclick_ad && ( adTemplate & TILE_RIGHT_TOP ) == TILE_RIGHT_TOP  )
+{
+placeAd('ARTICLE',commercialNode,8,'',false) ;
+}
+</script>
+<SCRIPT LANGUAGE="javascript">
+<!--
+if ( show_doubleclick_ad && ( adTemplate & TILE_RIGHT_TOP ) == TILE_RIGHT_TOP  )
+{
+document.write('</div>') ;
+}
+// -->
+</SCRIPT>
+<SCRIPT>
+<!--
+if ( show_doubleclick_ad && ( adTemplate & TILE_RIGHT_TOP2 ) == TILE_RIGHT_TOP2  )
+{
+document.write('<div style="margin-top:4px; margin-bottom:4px; float:left;">') ;
+document.writeln ('<div><img src="http://media3.washingtonpost.com/wp-srv/hp/img/ad_label_leftjust.gif" alt="ad_icon" width="100" height="13" border="0"/></div>' );
+}
+// -->
+</SCRIPT>
+<script>
+if ( show_doubleclick_ad && ( adTemplate & TILE_RIGHT_TOP2 ) == TILE_RIGHT_TOP2  )
+{
+placeAd('ARTICLE',commercialNode,10,'',false) ;
+}
+</script>
+<SCRIPT LANGUAGE="javascript">
+<!--
+if ( show_doubleclick_ad && ( adTemplate & TILE_RIGHT_TOP2 ) == TILE_RIGHT_TOP2  )
+{
+document.write('</div>') ;
+}
+// -->
+</SCRIPT>
+<SCRIPT>
+<!--
+if ( show_doubleclick_ad && ( adTemplate & BIG_FLEX_RIGHT ) == BIG_FLEX_RIGHT  )
+{
+document.write('<div style="margin-top:4px; margin-bottom:4px;clear:left;">') ;
+document.writeln ('<div><img src="http://media3.washingtonpost.com/wp-srv/hp/img/ad_label_leftjust.gif" alt="ad_icon" width="100" height="13" border="0"/></div>' );
+}
+// -->
+</SCRIPT>
+<script>
+if ( show_doubleclick_ad && ( adTemplate & BIG_FLEX_RIGHT ) == BIG_FLEX_RIGHT  )
+{
+placeAd('ARTICLE',commercialNode,6,'',true) ;
+}
+</script>
+<SCRIPT LANGUAGE="javascript">
+<!--
+if ( show_doubleclick_ad && ( adTemplate & BIG_FLEX_RIGHT ) == BIG_FLEX_RIGHT  )
+{
+document.write('</div>') ;
+}
+// -->
+</SCRIPT>
+<div style="clear:both;">
+<!-- monday:http://www.washingtonpost.com/wp-adv/ssi/ad_links_right/google/article/technology --> <script>
+<!--
+document.write('<div id="ad_links_right">') ;
+// document.write('<div><img src="http://media3.washingtonpost.com/wp-srv/hp/img/ad_label_leftjust.gif" width="100" height="13"></div>') ;
+// -->
+</script><!-- monday:http://www.washingtonpost.com/wp-adv/ssi/ad_links_right/google/article/technology -->
+<!-- /wp-adv/adproducts/articleTile/articleTile.html-->  <script>
+<!--
+document.write('</div>') ;
+if (! ( ( adTemplate & AD_LINKS_RIGHT ) == AD_LINKS_RIGHT ) )
+{
+if ( document.getElementById )
+document.getElementById('ad_links_right').style.display='none' ;
+}
+// -->
+</script>
+<script>
+<!--
+if ( typeof thisNode == "undefined" )
+thisNode = "admin" ;
+document.write('<s\cript src="http://media.washingtonpost.com/wp-adv/topjobs/TobJob.js"></s\cript>') ;
+document.write('<s\cript src="http://www.washingtonpost.com/wp-adv/topjobs/listings.js"></s\cript>') ;
+document.write('<s\cript src="http://media.washingtonpost.com/wp-adv/topjobs/displayTopJobs2.js"></s\cript>') ;
+document.write('<s\cript src="http://media.washingtonpost.com/wp-adv/topjobs/TopJobsManager.js"></s\cript>') ;
+document.write('<link rel="stylesheet" href="http://media.washingtonpost.com/wp-adv/topjobs/TopJobs.css" rel="stylesheet" media="all"/>') ;
+document.write('<div id="topjobs">') ;
+// -->
+</script>
+<script>
+<!--
+if ( isTjDisplayable( thisNode ) )
+displayTopJobs("article") ;
+// -->
+</script>
+<script>
+<!--
+document.write('</div>') ;
+if ( document.getElementById )
+document.getElementById('topjobs').style.display='block' ;
+// -->
+</script>
+<!--http://www.washingtonpost.com/wp-adv/ssi/textlinks/article/technology.html-->
+<script>
+<!--
+document.write('<div id="textlinks">') ;
+// -->
+</script>
+<!-- ****************************** -->
+<!-- Featured Advertiser Box Begins -->
+<!-- ****************************** -->
+<!--Textlinks V2 12/04/08--><div><link rel="stylesheet" media="all" href="http://media.washingtonpost.com/wp-srv/ad/textlinks/style/textlinks.css"><div id="textlinkWrapper" class="wp_textlinks noTextLinks"><div><div class="header">Featured Advertiser Links</div><ul id="text_links"><li><span class="off"><a href="http://www.weitzlux.com/cochlear-implant-recall_1961279.html" target="_blank" rel="nofollow">Lawsuit: Cochlear Implant Recall </a>, <a href="http://www.weitzlux.com/mesothelioma-help_126.html" target="_blank" rel="nofollow">Mesothelioma Help</a>, <a href="http://www.yaz-birth-control.org/legal-resource.html" target="_blank" rel="nofollow">Gallbladder Removal</a>, <a href="http://www.erinonyourside.com/environmental-litigation/brockovich-gulf-oil-spill.html" target="_blank" rel="nofollow">Gulf Oil Spill</a>, <a href="http://www.weitzlux.com/accutane-crohns-disease_28997.html" target="_blank" rel="nofollow">Crohn's</a>, <a href="http://www.weitzlux.com/depuy-hip-recall_1962246.html" target="_blank" rel="nofollow">DePuy hip surgery</a><span class="arrow">&gt;&gt;</span></span></li><li class="divider"><span class="spacer"><span></span></span></li><li><span class="off"><a href="http://www.weitzlux.com/asbestos-lung-cancer_612371.html" target="_blank" rel="nofollow">Asbestos lung Cancer</a>, <a href="http://www.weitzlux.com/hydroxycut-liver_1937055.html" target="_blank" rel="nofollow">Hydroxycut</a>, <a href="http://www.weitzlux.com/hipimplant/lawyer_1922776.html" target="_blank" rel="nofollow">Hip Implant Failure</a>, <a href="http://www.weitzlux.com/chondrolysis-shoulder_1937897.html" target="_blank" rel="nofollow">Chondrolysis</a>, <a href="http://www.weitzlux.com/fosamax_1961739.html" target="_blank" rel="nofollow">Femur Fracture</a>, <a href="http://www.weitzlux.com/paxil-hole-in-heart_156845.html" target="_blank" rel="nofollow">Paxil birth defect</a><span class="arrow">&gt;&gt;</span></span></li><li class="divider"><span class="spacer"><span></span></span></li><li><span trackingpixel="http://ad.doubleclick.net/ad/N6290.1434.WASHINGTONPOST/B4557995.3;sz=1x1;ord=%n?" class="off"><a href="http://ad.doubleclick.net/clk;225438534;49142628;l?http://www.equifax.com/bnr/equifaxcomplete" target="_blank" rel="nofollow">Check all 3 bureaus with Equifax Complete!</a><span class="arrow">&gt;&gt;</span></span><span trackingpixel="http://ad.doubleclick.net/ad/N6290.1434.WASHINGTONPOST/B4557995.4;sz=1x1;ord=%n?" class="off"><a href="http://ad.doubleclick.net/clk;225438631;49142631;d?http://www.equifax.com/bnr/equifaxcomplete" target="_blank" rel="nofollow">Get 3 credit scores, reports &amp; monitoring!</a><span class="arrow">&gt;&gt;</span></span></li><li class="divider"><span class="spacer"><span></span></span></li><li><span trackingpixel="" class="off"><a href="http://ad.doubleclick.net/clk;219459861;4475171;r?http://www.washingtonpost.com/wp-adv/advertisers/russia/" target="_blank" rel="nofollow">Russia Now: In-Depth Coverage of Russia News, Business, and More.</a><span class="arrow">&gt;&gt;</span></span></li><li class="divider"><span class="spacer"><span></span></span></li><li><span class="off"><a href="http://timespace.washingtonpost.com/project/world/" target="_blank" rel="nofollow">TimeSpace: Navigate articles, photos, video and commentary from around the globe.</a><span class="arrow">&gt;&gt;</span></span></li><li class="divider"><span class="spacer"><span></span></span></li><li><span class="off"><a href="http://www.washingtonpost.com/real-estate/dc-buy-home.html" target="_blank" rel="nofollow">Looking to buy a home? Visit TWP Real Estate section for the latest open houses.</a><span class="arrow">&gt;&gt;</span></span></li><li class="divider"><span class="spacer"><span></span></span></li><li><span class="off"><a href="http://www.investorplace.com/order/?sid=VG4100" target="_blank" rel="nofollow">Make Your Vanguard Investing More Profitable - Free Research Report Reveals Best &amp; Worst Funds</a><span class="arrow">&gt;&gt;</span></span></li><li class="divider"><span class="spacer"><span></span></span></li><li><span class="off"><a href="www.cfcnca.org" target="_blank" rel="nofollow">Offer hope to people in need through the CFCNCA. Give Today.</a><span class="arrow">&gt;&gt;</span></span></li></ul></div><div class="footer"><div></div></div></div><script type="text/javascript" src="http://media.washingtonpost.com/wp-srv/ad/textlinks/js/utilsTextLinksXML.js"></script></div>
+<script type="text/javascript" src="http://www.washingtonpost.com/wp-srv/ad/extra_bigbox.js"></script>
+<!-- ****************************** -->
+<!-- Featured Advertiser Box Ends   -->
+<!-- ****************************** -->
+
+<script language="javascript">
+<!--
+document.write('</div>') ;
+if (! ( ( adTemplate & TEXTLINKS ) == TEXTLINKS ) ) {
+if ( document.getElementById )
+document.getElementById('textlinks').style.display='none' ;
+}
+// -->
+</script>
+</div>
+</div>
+</div>
+<div id="wrapperBottom">
+<SCRIPT LANGUAGE="javascript">
+<!--
+if ( show_doubleclick_ad && ( adTemplate & BANNER_FLEX_BOTTOM ) == BANNER_FLEX_BOTTOM  )
+{
+document.write('<div id="banner_wrapper_bottom" align="center">') ;
+document.write('<table cellpadding="0" cellspacing="0" border="0">') ;
+document.write('<tr>') ;
+document.write('<td valign="middle">') ;
+document.writeln ('<img src="http://media3.washingtonpost.com/wp-srv/article/pieces/adLabel_bluebackground_13x60.gif" alt="ad_icon" width="13" height="60" border="0"/>' );
+document.write('</td>') ;
+document.write('<td>') ;
+}
+// -->
+</SCRIPT>
+<script>
+if ( show_doubleclick_ad && ( adTemplate & BANNER_FLEX_BOTTOM ) == BANNER_FLEX_BOTTOM  )
+{
+placeAd('ARTICLE',commercialNode,2,'',true) ;
+}
+</script>
+<SCRIPT LANGUAGE="javascript">
+<!--
+if ( show_doubleclick_ad && ( adTemplate & BANNER_FLEX_BOTTOM ) == BANNER_FLEX_BOTTOM  )
+{
+document.write('</td>') ;
+document.write('</tr>') ;
+document.write('</table>') ;
+document.write('</div>') ;
+}
+// -->
+</SCRIPT>
+<div id="footer-v3">
+    <div class="services">
+        <div class="wp-column">
+            <h6>Ways you can get us</h6>
+            <ul class="grid">
+                <li><a class="icon mobile" href="http://www.washingtonpost.com/wp-srv/contents/mobile/mobilewebsite.html">Mobile</a></li>
+                <li><a class="icon podcasts" href="http://www.washingtonpost.com/wp-srv/mmedia/podcastfront.htm?hpid=distribution">Podcasts</a></li>
+                <li><a class="icon apps" href="http://www.washingtonpost.com/wp-srv/contents/mobile/apps.html">Apps</a></li>
+                <li><a class="icon widgets" href="http://www.washingtonpost.com/widgets?hpid=distribution">Widgets</a></li>
+                <li><a class="icon newsletter-alerts" href="http://www.washingtonpost.com/newsletters/">Newsletters & alerts</a></li>
+                <li><a class="icon post-store" href="http://www.cafepress.com/washingtonpost">Post Store</a></li>
+                <li><a class="icon rss" href="http://www.washingtonpost.com/wp-dyn/rss/index.html">RSS</a></li>
+                <li><a class="icon photo-store" href="http://www.washingtonpost.com/buyphotos">Photo Store</a></li>
+                <li><a class="icon facebook" href="http://www.facebook.com/washingtonpost">Facebook</a></li>
+                <li><a class="icon video" href="http://washingtonpostlive.com ">Washington Post Live</a></li>
+                <li><a class="icon twitter" href="http://twitter.com/washingtonpost">Twitter</a></li>
+            </ul>
+        </div>
+        <div class="wp-column">
+            <h6>The Washington Post</h6>
+            <ul class="bulleted">
+                <li><a href="http://www.washingtonpost.com/wp-dyn/content/community/about/">About us</a></li>
+                <li><a href="http://washingtonpostmedia.com/careers/">Work for us</a></li>
+                <li><a href="http://www.washingtonpost.com/wp-dyn/content/community/">Community Relations</a></li>
+                <li><a href="http://www.washingtonpost.com/wp-srv/registration/postpoints/">PostPoints</a></li>
+                <li><a href="http://www.washingtonpost.com/wp-dyn/content/linkset/2005/04/25/LI2005042500027.html">Corrections</a></li>
+                <li><a href="http://pqasb.pqarchiver.com/washingtonpost/search.html">Archive</a></li>
+                <li><a href="mailto:ombudsman@washpost.com">Contact the Ombudsman</a></li>
+            </ul>
+        </div>
+
+        <div class="wp-column">
+            <h6>Web site</h6>
+            <ul class="bulleted">
+                <li><a href="javascript:void(window.open('http://www.washingtonpost.com/wp-srv/make-homepage.html','','toolbar=no,location=no,directories=no,status=no,menubar=yes,scrollbars=yes,resizable=no,copyhistory=no,width=417,height=415,left=50,top=200,screenX=50,screenY=200'));">Make us your homepage</a></li>
+                
+                </ul>
+            <h6>Newspaper</h6>
+            <ul class="bulleted">
+                <li><a href="https://subscription.washpost.com/subscriberservices/subscriber.portal?state=welcome&oscode=RPWE">Subscribe to the newspaper</a></li>
+                <li><a href="https://subscription.washpost.com/subscriber.portal?state=welcome">Home delivery service</a></li>
+                <li><a href="http://thewashingtonpost.newspaperdirect.com/epaper/viewer.aspx">e-Replica</a></li>
+            </ul>
+        </div>
+
+        <div class="wp-column">
+            <h6>Advertise</h6>
+            <ul class="bulleted wp-pad-bot-six">
+                <li><a href="http://www.washingtonpostads.com/">In the newspaper</a></li>
+                <li><a href="http://advertising.washingtonpost.com/index.php">On the Web site</a></li>
+                <li><a href="http://advertising.washingtonpost.com/index.php/contacts">Mobile</a></li>
+                <li><a href="http://washingtonpostlive.com/contact">Events</a></li>
+               
+            </ul>
+
+            <h6>The Washington Post Company</h6>
+            <ul class="bulleted wp-pad-bot-six">
+                <li><a href="http://www.washpostco.com/phoenix.zhtml?c=62487&p=irol-landing">Corporate Web site</a></li>
+            </ul>
+
+            
+        </div> 
+    </div>
+    <div class="partners">
+        <h6>Partners</h6>
+        <ul id="partners" class="inline">
+            <li><a class="slate" target="_blank" href="http://www.slate.com">Slate</a></li>
+            <li><a class="who-runs-gov" target="_blank" href="http://www.whorunsgov.com/">Who Runs Gov</a></li>
+            <li><a class="express-night-out" target="_blank" href="http://www.expressnightout.com/">Express Night Out</a></li>
+            <li><a class="cap-biz" href="http://www.washingtonpost.com/capitalbusiness/" clickthru="http://www.washingtonpost.com/capitalbusiness/?nid=partnersites">Capitol Business</a></li>
+            <li><a class="el-tiempo-latino" target="_blank" href="http://eltiempolatino.com/">El Tiempo Latino</a></li>
+            <li><a class="the-root" target="_blank" href="http://theroot.com/">The Root</a></li>
+            <li><a class="foreign-policy" target="_blank" href="http://www.foreignpolicy.com/">Foreign Policy</a></li>
+            <li><a class="icurrent" target="_blank" href="http://www.icurrent.com/">icurrent</a></li>
+        </ul>
+    </div>
+    <div class="tos">
+        <ul id="terms" class="inline">
+            <li class="first"><a href="http://www.washingtonpost.com/wp-srv/interact/longterm/talk/copy.htm?nav=globebot">&copy; 1996-2010 The Washington Post Company</a></li>
+            <li><a href="http://www.washingtonpost.com/wp-srv/interact/longterm/talk/members.htm">User Agreement and Privacy Policy</a></li>
+            <li class="last"><a href="http://www.washingtonpost.com/wp-srv/contents/permissions.htm">Rights and Permissions</a></li>
+        </ul>
+
+        <ul id="contact-us" class="inline">
+            <li><a href="http://help.washingtonpost.com">Help</a></li>
+            <li class="last"><a href="http://www.washingtonpost.com/wp-srv/contactus/index.html">Contact Us</a></li>
+        </ul>
+    </div>
+</div>
+</div>
+</div>
+<!-- end visible content -->
+<span class="storynav-expando"><ul onmouseout="hideExpando('story-navigation-POS-ST2008091703731-readitem','heading',this.id)" onmouseover="showExpando('story-navigation-POS-ST2008091703731-readitem','heading',this.id)" id="story-navigation-expanded-ST2008091703731-readitem" class="hide"><li class="off" onmouseover="on(this)" onmouseout="off(this)"><div class="item inactive" id="story-navigation-ST2008091703731-AR2008091703663">&#149; <a onclick="appendSidToAnchor(this);appendPositionToAnchor(this,active_nav_position);" class="icon-article" href="http://www.washingtonpost.com/wp-dyn/content/story/2008/09/17/ST2008091703731.html">High Turnout, New Procedures May Mean an Election Day Mess</a></div></li><li class="off" onmouseover="on(this)" onmouseout="off(this)"><div class="item inactive" id="story-navigation-ST2008091703731-AR2008091703304">&#149; <a onclick="appendSidToAnchor(this);appendPositionToAnchor(this,active_nav_position);" class="icon-article" href="http://www.washingtonpost.com/wp-dyn/content/article/2008/09/17/AR2008091703304.html">Hackers Access Palin's Personal E-Mail, Post Some Online</a></div></li><li class="off" onmouseover="on(this)" onmouseout="off(this)"><div class="item inactive" id="story-navigation-ST2008091703731-AR2008091703581">&#149; <a onclick="appendSidToAnchor(this);appendPositionToAnchor(this,active_nav_position);" class="icon-article" href="http://www.washingtonpost.com/wp-dyn/content/article/2008/09/17/AR2008091703581.html">Recent Obama Ads More Negative Than Rival's, Study Says</a></div></li><li class="off" onmouseover="on(this)" onmouseout="off(this)"><div class="item inactive" id="story-navigation-ST2008091703731-UR2008091703749">&#149; <a onclick="appendSidToAnchor(this);appendPositionToAnchor(this,active_nav_position);" class="icon-url" href="http://voices.washingtonpost.com/the-trail/2008/09/17/mccains_fundamentals_problem.html">Dan Balz's Take: McCain's Fundamentals Problem</a></div></li><li class="off" onmouseover="on(this)" onmouseout="off(this)"><div class="item inactive" id="story-navigation-ST2008091703731-UR2008091802107">&#149; <a onclick="appendSidToAnchor(this);appendPositionToAnchor(this,active_nav_position);" class="icon-url" href="http://www.washingtonpost.com/wp-srv/politics/interactives/campaign08/timeline/">Interactive Timeline: Lives and Careers of Barack Obama and John McCain</a></div></li></ul><ul onmouseout="hideExpando('story-navigation-POS-ST2008091703731-watchitem','heading',this.id)" onmouseover="showExpando('story-navigation-POS-ST2008091703731-watchitem','heading',this.id)" id="story-navigation-expanded-ST2008091703731-watchitem" class="hide"><li class="off" onmouseover="on(this)" onmouseout="off(this)"><div class="item inactive" id="story-navigation-ST2008091703731-GA2008091502293">&#149; <a onclick="appendSidToAnchor(this);appendPositionToAnchor(this,active_nav_position);" class="icon-gallery" href="http://www.washingtonpost.com/wp-dyn/content/gallery/2008/09/15/GA2008091502293.html">Obama, Biden Continue Campaign</a></div></li><li class="off" onmouseover="on(this)" onmouseout="off(this)"><div class="item inactive" id="story-navigation-ST2008091703731-GA2008091502356">&#149; <a onclick="appendSidToAnchor(this);appendPositionToAnchor(this,active_nav_position);" class="icon-gallery" href="http://www.washingtonpost.com/wp-dyn/content/gallery/2008/09/15/GA2008091502356.html">McCain, Palin Continue on the Stump</a></div></li></ul></span>
+
+<div id="shareExpandBox" class="hide" onmouseover="saveExpando3('show');showContent(this.id);" onmouseout="saveExpando3('hide');hideContent(this.id);">
+<div id="bookmark"><div id="bookmark-content">
+<div class="bookmark_icons" id="digg"><div class="pad_bookmark digg_bookmark"><a id="digg-link" href="http://digg.com/submit?phase=2&url=http://www.washingtonpost.com/wp-dyn/content/article/2008/09/17/AR2008091703304.html%3Freferrer=digg&title=Hackers Access Palin's Personal E-Mail, Post Some Online&bodytext=A group of computer hackers said yesterday that they had accessed a Yahoo e-mail account of Alaska Gov. Sarah Palin, the Republican vice presidential nominee, publishing some of her private communications to expose what appeared to be her use of a personal account for government business." onclick="if ( typeof otto != 'undefined' ) { }" onmouseover="changebg2('digg')" onmouseout="resetbg2('digg')" target="new">Digg</a></div></div><div class="bookmark_icons" id="facebook"><div class="pad_bookmark facebook_bookmark"><a id="facebook-link" href="#facebook" onmousedown="this.href='javascript:void(window.open(\'http://www.facebook.com/sharer.php?u=\'+encodeURIComponent(\'http://www.washingtonpost.com/wp-dyn/content/article/2008/09/17/AR2008091703304.html?referrer=facebook\')+\'&t=\'+encodeURIComponent(\'Hackers Access Palin&rsquo;s Personal E-Mail, Post Some Online\'),\'sharer\',\'toolbar=no,width=642,height=436\'));'" onclick="if ( typeof otto != 'undefined' ) { }" onmouseover="changebg2('facebook')" onmouseout="resetbg2('facebook')">Facebook</a></div></div><div class="bookmark_divider"><b></b></div><div class="bookmark_icons" id="reddit"><div class="pad_bookmark reddit_bookmark"><a id="reddit-link" href="http://reddit.com/submit?url=http://www.washingtonpost.com/wp-dyn/content/article/2008/09/17/AR2008091703304.html%3Freferrer=reddit&title=Hackers Access Palin's Personal E-Mail, Post Some Online" onclick="if ( typeof otto != 'undefined' ) { }" onmouseover="changebg2('reddit')" onmouseout="resetbg2('reddit')" target="new">Reddit</a></div></div><div class="bookmark_icons" id="twitter"><div class="pad_bookmark twitter_bookmark"><a id="twitter-link" href="http://twitter.com/home?status=Hackers Access Palin's Personal E-Mail, Post Some Online - http://www.washingtonpost.com/wp-dyn/content/article/2008/09/17/AR2008091703304.html" onclick="if ( typeof otto != 'undefined' ) { }" onmouseover="changebg2('twitter')" onmouseout="resetbg2('twitter')" target="new">Twitter</a></div></div><div class="bookmark_divider"><b></b></div><div class="bookmark_icons" id="myspace"><div class="pad_bookmark myspace_bookmark"><a id="myspace-link" href="#myspace" onmousedown="this.href='http://www.myspace.com/Modules/PostTo/Pages/?t='+encodeURIComponent('Hackers Access Palin\'s Personal E-Mail, Post Some Online')+'&c='+encodeURIComponent('http://www.washingtonpost.com/wp-dyn/content/article/2008/09/17/AR2008091703304.html?referrer=myspace')+'&u=&l='" onclick="if ( typeof otto != 'undefined' ) { }" onmouseover="changebg2('myspace')" onmouseout="resetbg2('myspace')" target="new">myspace</a></div></div><div class="bookmark_icons" id="delicious"><div class="pad_bookmark delicious_bookmark"><a id="delicious-link" href="http://del.icio.us/post?v=4&partner=wpni&noui&jump=close&url=http://www.washingtonpost.com/wp-dyn/content/article/2008/09/17/AR2008091703304.html%3Freferrer=delicious&title=%22Hackers Access Palin's Personal E-Mail, Post Some Online%22 By Michael D. Shear and Karl Vick&notes=A group of computer hackers said yesterday that they had accessed a Yahoo e-mail account of Alaska Gov. Sarah Palin, the Republican vice presidential nominee, publishing some of her private communications to expose what appeared to be her use of a personal account for government business." onclick="if ( typeof otto != 'undefined' ) { }" onmouseover="changebg2('delicious')" onmouseout="resetbg2('delicious')" target="new">del.icio.us</a></div></div><div class="bookmark_divider"><b></b></div><div class="bookmark_icons" id="newstrust"><div class="pad_bookmark newstrust_bookmark"><a id="newstrust-link" href="#newstrust" onmousedown="this.href='javascript:void(ntw=window.open(\'http://newstrust.net/submit?ref=washingtonpost.com&url=\'+encodeURIComponent(\'http://www.washingtonpost.com/wp-dyn/content/article/2008/09/17/AR2008091703304.html?referrer=newstrust\')+\'&title=\'+encodeURIComponent(\'Hackers Access Palin&rsquo;s Personal E-Mail, Post Some Online\')+\'&story_quote=\'+encodeURIComponent(\'A group of computer hackers said yesterday that they had accessed a Yahoo e-mail account of Alaska Gov. Sarah Palin, the Republican vice presidential nominee, publishing some of her private communications to expose what appeared to be her use of a personal account for government business.\')+\'&journalist_names=\'+encodeURIComponent(\'Michael D. Shear, Karl Vick\'),\'newstrust\'+(new Date()).getMilliseconds(),\'dependent=no,scrollbars=yes,resizable=yes,alwaysRaised=yes,status=yes,directories=yes,location=yes,menubar=yes,toolbar=yes,width=430,height=750,modal=no\'));ntw.focus();'" onclick="if ( typeof otto != 'undefined' ) { }" onmouseover="changebg2('newstrust')" onmouseout="resetbg2('newstrust')">NewsTrust</a></div></div><div class="bookmark_icons" id="stumble"><div class="pad_bookmark stumble_bookmark"><a id="stumble-link" href="http://www.stumbleupon.com/submit?url=http://www.washingtonpost.com/wp-dyn/content/article/2008/09/17/AR2008091703304.html&title=Hackers Access Palin's Personal E-Mail, Post Some Online" onclick="if ( typeof otto != 'undefined' ) { }" onmouseover="changebg2('stumble')" onmouseout="resetbg2('stumble')" target="new">Stumble It!</a></div></div><div class="bookmark_divider"><b></b></div>
+</div></div>
+</div>
+<span id="wp-diggthis" style="display:none;">
+<div align="center"><script type="text/javascript">digg_url="http://www.washingtonpost.com/wp-dyn/content/article/2008/09/17/AR2008091703304.html?referrer=digg";digg_title="Hackers Access Palin's Personal E-Mail, Post Some Online";digg_bodytext="A group of computer hackers said yesterday that they had accessed a Yahoo e-mail account of Alaska Gov. Sarah Palin, the Republican vice presidential nominee, publishing some of her private communications to expose what appeared to be her use of a personal account for government business.";digg_window="new";</script><script src="http://digg.com/tools/diggthis.js" type="text/javascript"></script></div>
+</span>
+<span id="wp-facebook" style="display:none;">
+<div align="center"><a id="facebook-link" href="#facebook" onmousedown="this.href='javascript:void(window.open(\'http://www.facebook.com/sharer.php?u=\'+encodeURIComponent(\'http://www.washingtonpost.com/wp-dyn/content/article/2008/09/17/AR2008091703304.html?referrer=facebook\')+\'&t=\'+encodeURIComponent(\'Hackers Access Palin&rsquo;s Personal E-Mail, Post Some Online\'),\'sharer\',\'toolbar=no,width=642,height=436\'));'" onclick="if ( typeof otto != 'undefined' ) { }" onmouseover="changebg2('facebook')" onmouseout="resetbg2('facebook')"><img src="http://media3.washingtonpost.com/wp-srv/bookmarking/facebook-stacked-55x78.jpg" border="0"></a></div>
+</span>
+<script type="text/javascript">
+<!--
+if (typeof finish_save_share != "undefined")
+finish_save_share();
+// -->
+</script>
+<SCRIPT>
+<!--
+if ( typeof inlineAdClearance == "undefined") {
+var inlineAdClearance = 200;
+}
+var inlineAdGraf = getInlineAdGraf2('body_after_content_column','content_column_table',inlineAdClearance) ;
+if ( show_doubleclick_ad && ( adTemplate & INLINE_ARTICLE_AD ) == INLINE_ARTICLE_AD && inlineAdGraf )
+{
+document.write('<div id="inline-ad" style="margin-bottom:4px;padding-right:10px;float:left;">') ;
+document.writeln ('<div><img src="http://media3.washingtonpost.com/wp-srv/hp/img/ad_label_leftjust.gif" alt="ad_icon" width="100" height="13" border="0"/></div>' );
+}
+// -->
+</SCRIPT>
+<script>
+if ( show_doubleclick_ad && ( adTemplate & INLINE_ARTICLE_AD ) == INLINE_ARTICLE_AD && inlineAdGraf )
+{
+placeAd('ARTICLE',commercialNode,20,'inline=y;',true) ;
+}
+</script>
+<SCRIPT LANGUAGE="javascript">
+<!--
+if ( show_doubleclick_ad && ( adTemplate & INLINE_ARTICLE_AD ) == INLINE_ARTICLE_AD && inlineAdGraf )
+{
+document.write('</div>') ;
+}
+// -->
+</SCRIPT>
+<SCRIPT LANGUAGE="javascript">
+<!--
+if ( show_doubleclick_ad && ( adTemplate & INLINE_ARTICLE_AD ) == INLINE_ARTICLE_AD && inlineAdGraf )
+{
+move_the_inline_ad(document.getElementById('body_after_content_column'),document.getElementById('inline-ad'),inlineAdGraf );
+}
+// -->
+</SCRIPT>
+<script>
+<!--
+var rn = ( Math.round( Math.random()*10000000000 ) );
+document.write('<s\cript src="http://www.washingtonpost.com/wp-dyn/content/article/2008/09/17/AR2008091703304_StoryJs.js?'+rn+'"></s\cript>') ;
+// -->
+</script>
+<script language="javascript">
+<!--
+// OMNITURE VARIABLES
+var wp_photo_gallery = '';
+var wp_photo_name = '';
+var wp_search_keywords = '';
+var wp_search_type = '';
+var wp_sectionfront = '';
+var wp_content_type = 'article' ;
+var wp_content_id = 'AR2008091703304' ;
+var wp_headline = ('') ? '' : 'Hackers Access Palin\'s Personal E-Mail, Post Some Online' ;
+var wp_page_name = 'wp - article - ' + wp_content_id + ' - Hackers Access Palin\'s Personal E-Mail, Post Some Online' ;
+var wp_section = 'politics/elections'.split('/')[0] ;
+var wp_subsection = ('politics/elections'.indexOf('/') != -1 ) ? 'politics/elections'.replace(/\//g,' - ') : '' ;
+var wp_author = 'Michael D. Shear and Karl Vick' ;
+var wp_page_num = '1' ;
+var wp_hierarchy = 'politics/elections'.replace(/\//g,'|')+'|articles' ;
+var wp_application = ('') ? 'partner - ' : '' ;
+var wp_source = 'Post' ;
+var wp_blog_name = '' ;
+var wp_events = (wp_page_num == 1) ? 'event4' : '' ;
+if ( typeof thisItem != 'undefined' && typeof thisItem.story_active != 'undefined' && typeof thisItem.story_active.id != 'undefined' ) {
+var wp_story_id = thisItem.story_active.id ;
+}
+// -->
+</script>
+<!-- SiteCatalyst code version: H.7.Copyright 1997-2006 Omniture, Inc. More info available athttp://www.omniture.com -->
+<script language="JavaScript" src="http://media.washingtonpost.com/wp-srv/javascript/omniture/s_code.js"></script>
+<script language="JavaScript">
+<!--
+/* SiteCatalyst code version: H.7.Copyright 1997-2006 Omniture, Inc. More info available athttp://www.omniture.com */
+/* You may give each page an identifying name, server, and channel on the next lines. */
+if (typeof(wp_section) != "undefined")
+{
+	wp_section = wp_section.replace(/\//, " - ");
+}
+if (typeof(wp_subsection) != "undefined")
+{
+	wp_subsection = wp_subsection.replace(/\//, " - ");
+}
+/* need to test */
+
+if (typeof(wp_page_name) != "undefined")
+{
+	s.pageName=wp_page_name.replace(/<[a-zA-Z\/][^>]*>/g,"");
+
+	//remove session id
+	s.pageName=s.pageName.replace(/\;jsessionid\=.{23}/g,"");
+}
+else
+{
+	s.pageName="wp - " + document.location.pathname + " - " + document.title;
+
+	//remove html
+	s.pageName=s.pageName.replace(/<[a-zA-Z\/][^>]*>/g,"");
+
+	//remove session id
+	s.pageName=s.pageName.replace(/\;jsessionid\=.{23}/g,"");
+
+	//var doc_url = document.location.href;
+
+	//if (doc_url.indexOf("ac2/wp-dyn?")>0)
+	//{
+	//	s.prop50=doc_url.substr(doc_url.indexOf("ac2/wp-dyn?")+10);
+	//}
+}
+
+if(typeof(wp_channel) != "undefined")
+{
+	s.channel=(wp_channel.indexOf("wp - ")>=0)?wp_channel:"wp - " + wp_channel;
+}
+else if(typeof(wp_section) != "undefined")
+{
+	s.channel=(wp_section.indexOf("wp - ")>=0)?wp_section.split('/')[0]:"wp - " + wp_section.split('/')[0];
+}
+else if (typeof(wp_hierarchy) != "undefined")
+{
+	s.channel=(wp_hierarchy.indexOf("wp - ")>=0)?wp_hierarchy.split('|')[0]:"wp - " + wp_hierarchy.split('|')[0];
+}
+else
+{
+	s.channel="wp - nocategory";
+}
+
+s.server="washingtonpost.com";
+s.pageType="";
+if (typeof(wp_sectionfront) != "undefined")
+{
+	wp_sectionfront=wp_sectionfront.toLowerCase();
+	s.prop1=(wp_sectionfront.indexOf("wp - ")>=0||wp_sectionfront.length == 0)?wp_sectionfront:"wp - " + wp_sectionfront;
+}
+if (typeof(wp_subsection) != "undefined")
+{
+	wp_subsection = wp_subsection.toLowerCase();
+	s.prop2=(wp_subsection.indexOf("wp - ")>=0||wp_subsection.length == 0)?wp_subsection:"wp - " + wp_subsection;
+}
+if (typeof(wp_content_type) != "undefined")
+{
+	s.prop3=wp_content_type.toLowerCase();
+}
+if (typeof(wp_source) != "undefined")
+{
+	s.prop4=wp_source.toLowerCase();
+}
+else
+{
+	s.prop4="washingtonpost.com";
+}
+
+if (typeof(wp_author) != "undefined")
+{
+	s.prop5=wp_author.toLowerCase();
+}
+if (typeof(wp_search_keywords) != "undefined")
+{
+	s.prop6=wp_search_keywords.toLowerCase();
+}
+if (typeof(wp_search_type) != "undefined")
+{
+	s.prop7=wp_search_type.toLowerCase();
+}
+s.prop8="";
+s.prop9="";
+s.prop10="";
+s.prop11="";
+if (typeof(wp_content_id) != "undefined")
+{
+	s.prop12=wp_content_id;
+	if ( typeof(wp_application) != "undefined" && wp_application )
+	{
+	      s.prop13 = "" ;
+	}
+	if (typeof(wp_headline) != "undefined" && wp_content_id != "")
+	{
+		s.prop13=wp_headline + " - " + wp_content_id;
+	}
+	if (typeof(wp_section) != "undefined" && wp_section == "interactivity")
+	{
+		s.prop13 = "" ;
+	}
+}
+if (typeof(wp_page_num) != "undefined")
+{
+	s.prop14=wp_page_num;
+}
+if (typeof(wp_printed) != "undefined") {
+	s.prop19="printed page";
+}
+if (typeof(wp_search_result_count) != "undefined")
+{
+	s.prop21=wp_search_result_count;
+}
+if (typeof(wp_story_id) != "undefined")
+{
+	s.prop22=wp_story_id;
+}
+if (typeof(wp_topic) != "undefined")
+{
+	s.prop24=wp_topic;
+}
+if (typeof(wp_blog_name) != "undefined")
+{
+	s.prop25=wp_blog_name;
+}
+if (typeof(wp_application) != "undefined")
+{
+	s.prop32=wp_application;
+}
+function getFBConnectUserName()
+{
+	var fbusername = "anonymous";
+	if (document.cookie.indexOf("fbuid") != -1)
+	{
+		fbusername = "facebook connect";
+	}
+	return fbusername;
+}
+s.prop33=getFBConnectUserName();
+function getUserName()
+{
+	var username;
+	if (document.cookie.indexOf("wpniuser") != -1)
+	{
+		var start = (document.cookie.indexOf("wpniuser") + 9);
+		var end =   (document.cookie.indexOf(";",start)) == -1 ? document.cookie.length : document.cookie.indexOf(";",start);
+		username = document.cookie.substring(start,end);
+	}
+	return username;
+}
+s.prop41=getUserName();
+
+/* E-commerce Variables */
+s.campaign="";
+s.state="";
+s.zip="";
+s.events="";
+s.products="";
+s.purchaseID="";
+s.eVar1=(typeof(wp_evar1)!="undefined")?wp_evar1:'';
+s.eVar2=(typeof(wp_evar2)!="undefined")?wp_evar2:'';
+s.eVar3=(typeof(wp_evar3)!="undefined")?wp_evar3:'';
+s.eVar4=(typeof(wp_evar4)!="undefined")?wp_evar4:'';
+s.eVar5=(typeof(wp_evar5)!="undefined")?wp_evar5:'';
+s.eVar6=(typeof(wp_evar6)!="undefined")?wp_evar6:'';
+s.eVar7=(typeof(wp_evar7)!="undefined")?wp_evar7:'';
+s.eVar8=(typeof(wp_evar8)!="undefined")?wp_evar8:'';
+s.eVar9=(typeof(wp_evar9)!="undefined")?wp_evar9:'';
+s.eVar10=(typeof(wp_evar10)!="undefined")?wp_evar10:'';
+s.eVar11=(typeof(wp_evar11)!="undefined")?wp_evar11:'';
+s.eVar12=(typeof(wp_evar12)!="undefined")?wp_evar12:'';
+s.eVar13=(typeof(wp_evar13)!="undefined")?wp_evar13:'';
+s.eVar14=(typeof(wp_evar14)!="undefined")?wp_evar14:'';
+s.eVar15=(typeof(wp_evar15)!="undefined")?wp_evar15:'';
+s.eVar16=(typeof(wp_evar16)!="undefined")?wp_evar16:'';
+s.eVar17=(typeof(wp_evar17)!="undefined")?wp_evar17:'';
+s.eVar18=(typeof(wp_evar18)!="undefined")?wp_evar18:'';
+s.eVar19=(typeof(wp_evar19)!="undefined")?wp_evar19:'';
+s.eVar20=(typeof(wp_evar20)!="undefined")?wp_evar20:'';
+s.eVar21=(typeof(wp_evar21)!="undefined")?wp_evar21:'';
+s.eVar22=(typeof(wp_evar22)!="undefined")?wp_evar22:'';
+s.eVar23=(typeof(wp_evar23)!="undefined")?wp_evar23:'';
+s.eVar24=(typeof(wp_evar24)!="undefined")?wp_evar24:'';
+s.eVar25=(typeof(wp_evar25)!="undefined")?wp_evar25:'';
+s.eVar26=(typeof(wp_evar26)!="undefined")?wp_evar26:'';
+s.eVar27=(typeof(wp_evar27)!="undefined")?wp_evar27:'';
+s.eVar28=(typeof(wp_evar28)!="undefined")?wp_evar28:'';
+s.eVar29=(typeof(wp_evar29)!="undefined")?wp_evar29:'';
+s.eVar30=(typeof(wp_evar30)!="undefined")?wp_evar30:'';
+s.eVar31=(typeof(wp_evar31)!="undefined")?wp_evar31:'';
+s.eVar32=(typeof(wp_evar32)!="undefined")?wp_evar32:'';
+s.eVar33=(typeof(wp_evar33)!="undefined")?wp_evar33:'';
+s.eVar34=(typeof(wp_evar34)!="undefined")?wp_evar34:'';
+s.eVar35=(typeof(wp_evar35)!="undefined")?wp_evar35:'';
+s.eVar36=(typeof(wp_evar36)!="undefined")?wp_evar36:'';
+s.eVar37=(typeof(wp_evar37)!="undefined")?wp_evar37:'';
+s.eVar38=(typeof(wp_evar38)!="undefined")?wp_evar38:'';
+s.eVar39=(typeof(wp_evar39)!="undefined")?wp_evar39:'';
+s.eVar40=(typeof(wp_evar40)!="undefined")?wp_evar40:'';
+s.eVar41=(typeof(wp_evar41)!="undefined")?wp_evar41:'';
+s.eVar42=(typeof(wp_evar42)!="undefined")?wp_evar42:'';
+s.eVar43=(typeof(wp_evar43)!="undefined")?wp_evar43:'';
+s.eVar44=(typeof(wp_evar44)!="undefined")?wp_evar44:'';
+s.eVar45=(typeof(wp_evar45)!="undefined")?wp_evar45:'';
+s.eVar46=(typeof(wp_evar46)!="undefined")?wp_evar46:'';
+s.eVar47=(typeof(wp_evar47)!="undefined")?wp_evar47:'';
+s.eVar48=(typeof(wp_evar48)!="undefined")?wp_evar48:'';
+s.eVar49=(typeof(wp_evar49)!="undefined")?wp_evar49:'';
+s.eVar50=(typeof(wp_evar50)!="undefined")?wp_evar50:'';
+/* Hierarchy Variables */
+if (typeof(wp_hierarchy) != "undefined") {
+	s.hier1= wp_hierarchy.toLowerCase();
+} else {
+	s.hier1="nocategory";
+}
+s.hier2="washingtonpost.com|" + s.hier1;
+
+function setWpStoryIdForOmniture( wp_story_id ) {
+	s.prop22 = wp_story_id ;
+}
+function sendDataToOmniture(customLinkName,events,props) {
+	// START: abort if no s_acount and no events or props
+	if(typeof s_account!="undefined" && (events||props)){
+		var propPattern = /^(prop|eVar|channel|hier|pageName)/ ;
+		// START: make sure events is a string
+		if(events){
+			if(typeof events == "string"){}
+			else if(typeof events == "object" && events.join){events=events.join(',')}
+			else{events=null}
+		}
+		// END: make sure events is a string
+
+		// START: make sure props is an object
+		if(props){
+			if(typeof props == "object"){}
+			else{props=null}
+		}
+		// END: make sure props is an object
+
+		// START: only continue of both props and events haven't been nulled out
+		if(events||props){
+			// START: set linkTrackVars
+			var linkTrackVars = [] ;
+			if(events)
+				linkTrackVars[linkTrackVars.length] = "events";
+			if(props){
+				for (prop in props){
+					if(prop.match(propPattern))
+						linkTrackVars[linkTrackVars.length] = prop ;
+				}
+			}
+			// START: set linkTrackVars
+
+			// START: if no linkTrackVars, no point in doing anything
+			if(linkTrackVars.length){
+				s.linkTrackVars=linkTrackVars;
+				if(events)
+					s.linkTrackEvents=events;
+				for (prop in props){
+					if(prop.match(propPattern))
+						eval("s."+prop+" = props[prop]");
+				}
+				if(events)
+					s.events=events;
+
+				// The Holy Grail:
+				s.tl(this,'o',customLinkName);
+			}
+			// END: if no linkTrackVars, no point in doing anything
+		}
+		// END: only continue of both props and events haven't been nulled out
+	}
+	// END: abort if no s_acount and no events or props
+}
+sendEventToOmniture = sendDataToOmniture;
+sendDataToOmnitureFromEvri = sendDataToOmniture;
+/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+var s_code=s.t();if(s_code)document.write(s_code)
+//-->
+</script>
+<script language="JavaScript">
+<!--
+// if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
+//-->
+</script>
+<!--/DO NOT REMOVE/-->
+<!-- End SiteCatalyst code version: H.7. -->
+
+<script>
+function fixRelatedBoxWidth() {
+var w = 0 ;
+if ( document.getElementById('related-box') ) {
+w = Math.floor( document.getElementById('related-box').offsetWidth/2 ) - 17 ;
+}
+if ( w>150 && document.getElementById('related-box-left') && document.getElementById('related-box-right') ) {
+document.getElementById('related-box-left').style.width = w ;
+document.getElementById('related-box-right').style.width = w ;
+}
+}
+fixRelatedBoxWidth();
+</script>
+<script type="text/javascript">
+<!--
+Event.observe(window,'load',function() {
+try {
+SetGlobalsForSLIntegration(wp_article);
+SLIntegrationStartUpEntry();
+} catch(e) {
+if ( e.description.match(/^Access is denied/) ) {
+if ( document.getElementById("IE6Error-ArticleComments") && document.getElementById("Content-ArticleComments") ) {
+document.getElementById("Content-ArticleComments").style.display = "none" ;
+document.getElementById("IE6Error-ArticleComments").style.display = "block" ;
+}
+}
+}
+});
+// -->
+</script>
+<!-- a id="akAPI"></a -->
+<!-- http://api.aggregateknowledge.com/script/akdocs.html -->
+<!-- script type="text/javascript" src="http://api.aggregateknowledge.com/2006/08/05/clientInterface.js"></script-->
+<!-- script type="text/javascript">
+var akApiKey = 'WSRelater-F713513A-B559-0214-E698-ADF182BE3210' ;
+// var akMode = 'DISPLAY' ;
+var akTargetType = 'NEWS' ;
+var akMaxNum = 4;
+var akResultsFrameWidth = 210;
+var akResultsFrameHeight = 200 ;
+var akStylesheetUrl = 'http://media.washingtonpost.com/wp-srv/css/aggregate_knowledge.css';
+var akResultsTitle = 'People who read this also read&nbsp;&#133;';
+var akTargetDesc = (document.getElementsByTagName('title')[0].innerHTML).replace(' - washingtonpost.com','');
+var akClientRequestData='waporef=ak';
+
+// akExecute() ;
+var akScript = document.createElement('script'); 
+akScript.setAttribute('src', 'http://api.aggregateknowledge.com/2007/01/15/js/'+(new Date()).valueOf()%3600000+'.js');
+document.getElementsByTagName('head')[0].appendChild(akScript);
+</script -->
+
+<script type="text/javascript" src="http://media.washingtonpost.com/wp-srv/javascript/resize.js"></script>
+<script type="text/javascript" src="http://js.revsci.net/gateway/gw.js?csid=J05531"></script>
+<script type="text/javascript" src="http://media.washingtonpost.com/wp-srv/ad/audsci.js"></script> <script>
+<!--
+if ( typeof otto != "undefined" ) {
+	otto.placeGlobalOttoTest() ;
+}
+// -->
+</script>
+<script language="JavaScript" src="http://media.washingtonpost.com/wp-srv/javascript/omniture/omniture-utils.js"></script> <script>try{echoOmniture()}catch(e){}</script> <script type="text/javascript" src="http://media.washingtonpost.com/wp-srv/javascript/placeSiteMetrix.js"></script> <script type="text/javascript">placeSiteMetrix();</script>
+<!-- 360i Code -->
+<!-- script src="https://WaPo.netmng.com/?aid=069" type="text/javascript" language="javascript" defer="defer"></script -->
+<!-- END 360i Code -->
+
+<script type="text/javascript" src="http://media3.washingtonpost.com/wp-srv/javascript/wapolabs-partners.js"></script>
+ <script type="text/javascript" src="http://media3.washingtonpost.com/wp-srv/js/vendor/quantcast.js"></script> <noscript><img src="http://pixel.quantserve.com/pixel/p-5cYn7dCzvaeyA.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/></noscript> 
+<script type="text/javascript" src="http://media3.washingtonpost.com/wp-srv/tools/apture/scriptwrite.js"></script>
+</body>
+</html>

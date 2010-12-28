@@ -1,0 +1,7495 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+
+
+
+
+
+
+
+
+
+
+
+
+        
+        
+    
+
+
+        
+    
+
+
+        
+    
+
+
+        
+        
+    
+
+
+        
+    
+
+
+        
+    
+
+
+         
+         
+    
+
+
+    
+            
+            
+        
+
+    
+
+
+
+<head>
+
+    
+    
+    
+
+
+
+
+
+
+
+
+
+<title>WikiLeaks and Julian Paul Assange : The New Yorker</title>
+
+
+    
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Language" content="en-us" />
+<meta name="distribution" content="Global" />
+<meta name="MSSmartTagsPreventParsing" content="true" />
+<meta http-equiv="imagetoolbar" content="false" />
+<meta name="Copyright" content="Copyright (c) Cond&#233;Net 2010" />
+
+<meta name="description" content="Online version of the weekly magazine, with current articles, cartoons, blogs, audio, video, slide shows, an archive of articles and abstracts back to 1925" />
+
+<meta name="keywords" content="WikiLeaks, Julian Paul Assange, Internet, Iraq War, Video, Confidential Documents, Intelligence, Leaks, &#8220;Collateral Murder&#8221;, Secrets, Web sites, <i>Reuters</i>, Journalists, Shootings, Killings, Standard Operating Procedures, Guantanamo Bay, &#8220;Climategate&#8221;, E-mails, East Anglia University, Sarah Palin, Yahoo, Australians, Volunteers, Ecryption, Secrecy, Iceland, Project B, Free Speech, Apache Helicopters, U.S. Army, Soldiers, Northern Rock, (President) Daniel Arap Moi, Kenya, Amnesty International, Scientology, Classified Military Reports, Army Counterintelligence Center, Rop Gonggrijp, Birgitta Jonsdottir, YouTube, Paranoia, Surveillance, Eighth Cavalry Regiment, Sixteenth Infantry Regiment, RUV, George Orwell, Gudmundur Gudmundsson, National Press Club, Ah Sang, Mary Whyte, The Family, Anne Hamilton-Byrne, Lex de Man, Computer Hackers, International Subversives, &#8220;Underground&#8221;, Operation Weather, Australian Federal Police, NorTel, Ken Day, Aleksandr Solzhenitsyn, &#8220;The First Circle&#8221;, Custody Battles, Parent Inquiry into Child Protection, Information Warfare, PRQ.se, Sheikh Hassan Dahir Aweys, Islamic Courts Union, Tor network, World Social Forum, Hellfire missiles, Al Jazeera, MSNBC, (Defense Secretary) Robert Gates, Twitter, Social Security numbers, Steven Aftergood, Federation of American Scientists, (Lieutenant Colonel) Lee Packnett, Peter Theil, PayPal, Swiss bank accounts, Knight Foundation grants, Hugo Chavez, Project G" />
+<meta name="Author" content='The New Yorker' />
+
+
+    
+    
+
+
+
+
+
+
+
+
+    <link rel="canonical" href="http://www.newyorker.com/reporting/2010/06/07/100607fa_fact_khatchadourian" />
+
+
+
+<meta property="fb:admins" content="648235154,789168297,688620285"/>
+<meta property="fb:page_id" content="9258148868"/>
+<meta property="og:site_name" content="The New Yorker"/>
+<meta property="og:title" content="WikiLeaks and Julian Paul Assange"/>
+<meta property="og:url" content="http://www.newyorker.com/reporting/2010/06/07/100607fa_fact_khatchadourian"/>
+
+
+<link rel="Shortcut Icon" href="/favicon.ico" type="image/x-icon" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+            <link rel="alternate" type="application/rss+xml" title="The New Yorker" href="http://www.newyorker.com/services/rss/feeds/everything.xml" />
+        
+
+
+
+
+
+    <meta name="ROBOTS" content="NOARCHIVE" />
+    <meta name="bitly-verification"content="cb15089a1208">
+    
+            <link rel="stylesheet" type="text/css" media="screen" href="/css/lib-min.css" />
+        
+
+    
+    <link rel="stylesheet" type="text/css" media="screen" href="/css/features.css" />
+
+    <script type="text/javascript" src="http://www.google.com/jsapi?key=ABQIAAAAonqrKszikW5QtFiH4-iCyRT0-5yCnJDs6iqFkVKBoRnE1chVBBRKDMtdGJ58G93312zca-4xbiLVGQ"></script>
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+            <script type="text/javascript" src="/js/newyorker_global.js"></script>
+        
+    <script type="text/javascript">
+    // <!--
+        // If reg confirmation is enabled, let the javascript know
+        CN.reg.confirmedReg = {
+            confirmedRegistrationEnabled: false,
+            emailUpdateConfirmationEnabled: false,
+            profileUpdateConfirmationEnabled: false,
+            allowFirstSessionAccess: false
+        };
+    // -->
+    </script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+    
+        
+                 
+                 
+            
+        
+
+    <script type="text/javascript">
+        CN.site.init({
+            env             : 'PROD',
+            code            : 'NYR',
+            title           : 'The New Yorker',
+            name            : 'newyorker',
+            tld             : 'newyorker.com',
+            eventServer     : 'http://event.newyorker.com/',
+            eventTrackingUrl: 'http://result.newyorker.com',
+            eventTrackingEnv: 'PROD',
+            mobilecompatible: true
+        });
+        CN.config.set({
+            adTopic         : false,
+            topicOverride   : ''
+        });
+        
+    </script>
+
+
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+            <script type="text/javascript" src="/js/ecomfw.min.js"></script>
+        
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        
+        
+    
+
+
+        
+
+<script type="text/javascript">
+// <!--
+    CNP.ecom.start({host: "magazine.newyorker.com", cnd: true });
+// -->
+</script>
+                
+                
+            
+    
+
+
+    
+    
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+            <script type="text/javascript" src="/js/pluck.min.js"></script>
+        
+
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+    CN.pluck.main.serverUrl = "http://sitelife.newyorker.com/ver1.0/Direct/Process";
+    CN.pluck.main.photoUrl = "http://sitelife.newyorker.com/ver1.0/Photo/Upload";
+    CN.pluck.main.siteUrl = "http://www.newyorker.com/";
+    CN.pluck.main.mostpopularEntries = 5;
+    if (typeof(CN.pluck.serverUrl) =="undefined") {
+            CN.pluck.serverUrl="http://sitelife.newyorker.com/ver1.0/Direct/Process";
+    }
+    jQuery.noConflict();
+</script>
+        
+        <script type="text/javascript" src="http://event.newyorker.com/js/eventTracker.js"></script>
+    
+
+    
+    <script type="text/javascript" src="/dwr/interface/feedparser.js"></script>
+    <script type="text/javascript" src="/dwr/engine.js"></script>
+    <script type="text/javascript" src="/dwr/util.js"></script>
+
+    
+    
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+            <script type="text/javascript" src="/js/newyorker_top.js"></script>
+        
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+    <link rel="stylesheet" type="text/css" media="screen" href="/css/article.css" />
+    <link rel="stylesheet" type="text/css" media="screen" href="/css/utils.css" />
+    <link rel="stylesheet" type="text/css" href="/css/small.css" title="small" />
+    <link rel="alternate stylesheet" type="text/css" href="/css/med.css" title="medium" />
+    <link rel="alternate stylesheet" type="text/css" href="/css/large.css" title="large" />
+
+    <script type="text/javascript" src="/js/cartoon.js"></script>
+    
+  
+      
+        
+        
+      
+    
+      
+        <script type="text/javascript">
+          //<!--
+            cartoon.setIssueDate("2010/06/07");
+          //-->
+        </script>
+
+     
+
+    
+
+
+    <!--[if lte IE 6]>
+    <link rel="stylesheet" type="text/css" media="Screen" href="/css/IE6.css" />
+    <![endif]-->
+    <!--[if IE 7]>
+    <link rel="stylesheet" type="text/css" media="Screen" href="/css/IE7.css" />
+    <![endif]-->
+    <!--[if IE 8]>
+    <link rel="stylesheet" type="text/css" media="Screen" href="/css/IE8.css" />
+    <![endif]-->
+
+    <link rel="stylesheet" type="text/css" media="Print" href="/css/print.css" />
+    
+
+
+
+
+
+
+         
+               
+                   
+                   
+                   
+                      
+                      
+                      
+                         
+                           
+                              
+                                  
+                              
+                           
+                         
+                      
+                   
+               
+         
+
+<script type="text/javascript">
+MAGNET.popups.setExiting(true).setArriving(true).setLayer(true).setCookieLife(168).init();
+//removed
+CN.ad.zoneTopic=(function(topic){
+    var override=function(){
+        return { 
+            zone : topic
+        }
+    };
+
+        return {
+            init : topic ? override : false,
+            name : 'CN Ad topic override'
+        }
+
+})(CN.page.config.topicOverride)
+
+CN.dart.register(CN.ad.zoneTopic);
+</script>
+<style type="text/css">
+
+/* @section Video*/
+.s_video #wrapper {
+padding-top:76px;
+
+}
+
+/* @section Festival */
+.c_festival #xrail {
+overflow:hidden;
+}
+
+.c_festival #xrail .xrcomponent.first #date {
+position:absolute;
+top:16px;
+}
+
+.c_festival #xrail .photo-contest-nav {
+margin-top:25px!important;
+margin-top:35px;
+}
+
+.c_festival #xrail .photo-contest-nav h2 {
+position:relative;
+margin-top:-13px;
+margin-left:-13px;
+}
+
+.c_festival #xrail .photo-contest-nav ul.treeview li.open,.c_festival #xrail .photo-contest-nav ul.treeview li.active {
+background-color:#09f;
+position:relative;
+margin-left:-25px;
+padding-left:37px;
+width:118px;
+}
+
+.c_festival #xrail .photo-contest-nav ul.treeview li.open a {
+color:#fff;
+}
+
+.c_festival #xrail .photo-contest-nav ul.treeview li.open li a,.c_festival #xrail .photo-contest-nav ul.treeview li.open.collapsable a {
+color:#000;
+}
+
+.c_festival #xrail .photo-contest-nav ul.treeview li li.active a,.c_festival #xrail .photo-contest-nav ul.treeview li.open.collapsable li.active a {
+color:#fff;
+}
+
+.c_festival #xrail .photo-contest-nav ul.treeview li.open {
+margin-left:-14px;
+padding-left:25px;
+width:131px;
+}
+
+.c_festival #xrail .photo-contest-nav ul.treeview li.open.collapsable {
+background-color:#edefee;
+margin-left:12px;
+padding-left:0;
+position:relative;
+width:118px;
+}
+
+.c_festival #xrail #nav-section li {
+font-size:10px;
+line-height:1.5em;
+font-family:Arial,Verdana,sans-serif;
+text-transform:uppercase;
+}
+
+.c_festival #xrail #nav-section li li {
+font-size:9px;
+line-height:1em;
+}
+
+.c_festival #xrail .photo-contest-nav ul#nav-section.treeview li ul {
+display:block;
+}
+
+.s_festival #content h4.rubric, .s_festival #content h4.rubric a:link, .s_festival #content h4.rubric a:visited, .s_festival h4.rubric a:hover, .s_festival #content #archive dt, .s_festival #content #relatedlinks dl dt, .c_festival #content h4.rubric, .c_festival #content h4.rubric a:link, .c_festival #content h4.rubric a:visited, .c_festival h4.rubric a:hover, .c_festival #content #archive dt, .c_festival #content #relatedlinks dl dt  {
+    color:#039;
+}
+
+#footer .displayAd, #topBannerAd .displayAd {
+ width: 728px !important;
+}
+
+div.displayAd {
+ width: auto; 
+}
+
+/* NEWYORKER-942 */
+.set2 .media {
+clear:left;
+float:left;
+margin:0 20px 0 0;
+}
+
+/* NEWYORKER-943 */
+.pc {
+padding-left:0;
+}
+
+h2#indhed img{
+padding:20px;
+}
+
+h3.subhed_below img {
+padding:0 0 20px 20px;
+}
+
+/* NEWYORKER-944 */
+.imagetop .media {
+margin:0 20px 0 0;
+}
+
+.topicFeature .topicHeading {
+font-size:28px;
+font-weight:bold;
+margin:10px 0 20px;
+text-transform:uppercase;
+}
+
+.results_numbers {
+clear:both;
+font-size:13px;
+font-weight:bold;
+margin-bottom:0;
+text-transform:uppercase;
+}
+
+</style>
+
+    
+
+
+
+
+
+
+
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+            <script type="text/javascript">
+    //<!--
+        
+        CN.dart.init({site:'newyorker.dart', zone: 'reporting;', kws:[ "northernrock","youtube","100607fa_fact_khatchadourian","guantanamobay","tornetwork","sheikhhassandahiraweys","armycounterintelligencecenter","leaks","nortel","paranoia","confidentialdocuments","petertheil","wikileaks","birgittajonsdottir","custodybattles","apachehelicopters","2010","reporting","australianfederalpolice","stevenaftergood","killings","swissbankaccounts","projectb","volunteers","presidentdanielarapmoi","yahoo","8220thefirstcircle8221","thefamily","lexdeman","marywhyte","australians","iraqwar","msnbc","8220underground8221","internet","video","07","surveillance","ruv","operationweather","aljazeera","shootings","federationofamericanscientists","soldiers","paypal","ecryption","julianpaulassange","classifiedmilitaryreports","knightfoundationgrants","amnestyinternational","socialsecuritynumbers","hellfiremissiles","georgeorwell","aleksandrsolzhenitsyn","iceland","06","lieutenantcolonelleepacknett","usarmy","twitter","kenday","hugochavez","prqse","gudmundurgudmundsson","8220climategate8221","informationwarfare","secrecy","standardoperatingprocedures","scientology","internationalsubversives","eastangliauniversity","websites","freespeech","eighthcavalryregiment","computerhackers","journalists","parentinquiryintochildprotection","projectg","kenya","intelligence","sarahpalin","annehamilton-byrne","worldsocialforum","article","8220collateralmurder8221","islamiccourtsunion","e-mails","sixteenthinfantryregiment","secrets","ropgonggrijp","ireutersi","ahsang","defensesecretaryrobertgates","nationalpressclub"], charmap : {' ' : '+', '-' : '_'}});
+    //-->
+    </script>
+        
+
+
+
+    
+    <script type="text/javascript" src="http://fonts.newyorker.com/bol0csl.js"></script>
+    <script type="text/javascript">
+    // Initialize CN.foundry with Typekit loader.
+    CN.foundry.init(Typekit || {});
+    </script>
+
+</head>
+
+
+
+
+
+
+
+<body class="B s_reporting ss_2010 c_06">
+    
+        
+
+
+<!-- Floating Ad Template -->
+<div id="floatingAd" style="display:none;">
+    <div id="floatingAd_header">
+        <a href="#">Close</a>
+    </div>
+    <div id="floatingAd_content">
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        <div id="popUp_floatingAd">
+            <a href="https://w1.buysub.com/loc/NYR/ATGFailsafe" target="_blank" rel="nofollow" title="Subscribe to The New Yorker"><img border="0" src="/images/ecom/failsafe/NYR_300x250.gif" /></a>
+        </div>
+    
+
+
+        
+
+<script type="text/javascript">
+// <!--
+ if (MAGNET.popups.isLayer()) { 
+    if (CNP && CNP.ecom) {CNP.ecom.request({
+        pid:'popUp_floatingAd',
+        tgt:'/atg/registry/RepositoryTargeters/NYR/NYR_popUp_floatingAd',
+        params:{}});}
+ } 
+// -->
+</script>
+            
+    
+
+    </div>
+</div>
+
+        
+
+
+
+
+
+<!-- Rollover Ad Template for instance rolloverAd-->
+<div id="rolloverAd" class="rolloverAd" style="display:none;">
+    <div id="rolloverAd_header" class="rolloverAd_header">
+        <a href="#">Close</a>
+    </div>
+    <div id="rolloverAd_content" class="rolloverAd_content">
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        <div id="global_navBar_rollover">
+            <a href="https://w1.buysub.com/loc/NYR/ATGFailsafe" target="_blank"><img border="0" src="/images/ecom/failsafe/NYR_300x250.gif" alt="Subscribe to The New Yorker" /></a>
+            
+            <form name="layerForm" style="visibility:hidden;">
+                <span id="layerForm_submit" class="submitButton">&nbsp;</span>
+            </form>
+        </div>
+    
+
+
+        
+
+<script type="text/javascript">
+// <!--
+
+    if (CNP && CNP.ecom) {CNP.ecom.request({
+        pid:'global_navBar_rollover',
+        tgt:'/atg/registry/RepositoryTargeters/NYR/NYR_global_navBar_rollover',
+        params:{},callafter:{func: MAGNET.ecom.rolloverAd.init,params: ['rolloverAd']}});}
+
+// -->
+</script>
+            
+    
+
+    </div>
+    <div id="rolloverAd_footer" class="rolloverAd_footer"></div>
+</div>
+
+    
+
+    <div id="wrapper">
+        
+            <div id="topBannerAd">
+                
+
+
+
+
+
+
+
+
+
+
+        <div id="header728x90_frame" class="displayAd"></div>
+    <script type="text/javascript">
+    //<!--
+        
+        CN.dart.call('header', {sz:'728x90', kws:["top"]});
+    //-->
+    </script>
+    
+
+            </div>
+        
+
+        
+
+
+<div id="header">
+    <div id="logo">
+        <a href="/" title="Go to The New Yorker homepage"><img src="/images/elements/print/newyorker_printlogo.gif" alt="The New Yorker" /></a>
+    </div>
+
+    <h5 class="alt"><a href="#content" title="Skip to content">Skip to content</a></h5>
+
+
+    <div id="header-subs" class="" >
+
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        <div id="global_headerCallout" class="headerCallout">
+            <a href="https://w1.buysub.com/loc/NYR/ATGFailsafe" target="_blank"><img src="/images/ecom/failsafe/NYR_header_callout.png" alt="Subscribe to New Yorker" /></a>
+        </div>
+    
+
+
+        
+
+<script type="text/javascript">
+// <!--
+
+    if (CNP && CNP.ecom) {CNP.ecom.request({
+        pid:'global_headerCallout',
+        tgt:'/atg/registry/RepositoryTargeters/NYR/NYR_global_headerCallout',
+        params:{}});}
+
+// -->
+</script>
+            
+    
+
+
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        
+        <div id="global_header">
+            <h3 id="hdrsubs"><a href="https://w1.buysub.com/loc/NYR/ATGFailsafe" target="_blank" rel="nofollow" title="Subscribe to The New Yorker">Subscribe to The New Yorker</a></h3>
+            <img src="/images/ecom/failsafe/NYR_global_header.gif" width="110" height="90" border="0" usemap="#global-header-map" />
+            <map name="global-header-map" id="global-header-map">
+                <area shape="rect" coords="0,1,109,15" alt="Subscribe to The New Yorker" rel="nofollow" target="_blank" href="https://w1.buysub.com/loc/NYR/ATGFailsafe" />
+                <area shape="rect" coords="0,16,109,30" alt="Renew your Subscription to The New Yorker magazine" rel="nofollow" target="_blank" href="https://w1.buysub.com/servlet/CSGateway?cds_mag_code=NYR" />
+                <area shape="rect" coords="0,31,109,45" alt="Give a Subscription to The New Yorker as a Gift" rel="nofollow" target="_blank" href="https://w1.buysub.com/loc/NYR/ATGFailsafeGift" />
+                <area shape="rect" coords="0,46,109,71" alt="Subscribe to The New Yorker outside the USA" rel="nofollow" target="_blank" href="https://w1.buysub.com/loc/NYR/ATGFailsafeInt" />
+                <area shape="rect" coords="0,72,109,86" alt="The New Yorker Digital Edition" target="_blank" rel="nofollow" href="http://newyorker.com/go/digitaledition" />
+           </map>
+        </div>
+        
+    
+
+
+        
+
+<script type="text/javascript">
+// <!--
+
+    if (CNP && CNP.ecom) {CNP.ecom.request({
+        pid:'global_header',
+        tgt:'/atg/registry/RepositoryTargeters/NYR/NYR_global_header',
+        params:{}});}
+
+// -->
+</script>
+            
+    
+
+    </div>
+</div>
+
+        
+
+
+
+
+
+        
+        
+        
+        
+        
+        
+        
+        
+        
+            
+                
+                    
+                    
+                        
+                                
+                                
+                                    
+                            
+                    
+                
+                
+                    
+                    
+                        
+                                
+                                
+                                    
+                            
+                    
+                
+                
+                    
+                    
+                        
+                                
+                                
+                                    
+                            
+                    
+                
+                
+                    
+                    
+                        
+                                
+                                
+                                    
+                            
+                    
+                
+                
+                    
+                    
+                        
+                                
+                                
+                                    
+                            
+                    
+                
+                
+                    
+                    
+                        
+                                
+                                
+                                    
+                            
+                    
+                
+                
+                    
+                    
+                        
+                                
+                                
+                                    
+                            
+                    
+                
+                
+                    
+                    
+                        
+                                
+                                
+                                    
+                            
+                    
+                
+                
+            
+
+            
+            
+        
+
+        <div id="global-nav">
+            <ul id="global-nav-menu">
+                <li id="nav-subscribe">
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        <div id="global_navBar" title="Subscribe to The New Yorker magazine"><a href="https://w1.buysub.com/loc/NYR/ATGFailsafe" id="header-subs-a" target="_blank" rel="nofollow" title="Subscribe to The New Yorker"><span>Subscribe</span></a></div>
+    
+
+
+        
+
+<script type="text/javascript">
+// <!--
+
+    if (CNP && CNP.ecom) {CNP.ecom.request({
+        pid:'global_navBar',
+        tgt:'/atg/registry/RepositoryTargeters/NYR/NYR_global_navBar',
+        params:{}});}
+
+// -->
+</script>
+            
+    
+
+                </li>
+                <li id="nav-home"><a title="home" href="/" title="">home</a></li>
+                                <li id="nav-magazine"><a title="New Yorker magazine articles" href="/magazine" title="">New Yorker magazine articles</a></li>
+                                <li id="nav-blogs"><a title="Blogs" href="/online/blogs" title="">Blogs</a></li>
+                                <li id="nav-video"><a title="Audio & Video" href="/online" title="">Audio & Video</a></li>
+                                <li id="nav-listings"><a title="Reviews of New York events: Goings on About Town " href="/arts/events" title="">Reviews of New York events: Goings on About Town </a></li>
+                                <li id="nav-cartoons"><a title="New Yorker Cartoons" href="/humor" title="">New Yorker Cartoons</a></li>
+                                <li id="nav-topics"><a title="New Yorker Topics" href="/topics" title="">New Yorker Topics</a></li>
+                                <li id="nav-archive"><a title="Complete New Yorker Archives and Digital Edition" href="/archive" title="">Complete New Yorker Archives and Digital Edition</a></li>
+            </ul>
+            <hr />
+            
+        </div>
+
+        
+        
+
+    
+
+        
+        <div id="page" class="p">
+            
+            
+            
+
+            
+            <div id="content" class="pc">
+
+                
+                
+
+                        
+                        
+                            
+
+
+
+    
+    
+
+
+
+    <ul id='bc' title='Navigation Trail'>
+        
+            
+                <li class='first'>
+                
+                    <a href="/">The New Yorker</a>
+                
+                </li>
+            
+        
+            
+                <li >
+                
+                    <a href="/reporting/">Reporting & Essays</a>
+                
+                </li>
+            
+        
+    </ul>
+
+
+
+                        
+
+                        
+                        
+                            
+
+                        
+                        <div id="main">
+                            
+                                    <div id="index_headers">
+    <!-- Start Headers -->
+    
+    
+        
+        
+    
+    
+
+    
+    
+        
+    
+    
+    <!-- End Headers -->
+</div>
+
+
+<!-- start article content -->
+    <div id="articleheads">
+        
+        
+
+
+
+    
+        <h4 class="rubric">A Reporter at Large</h4>
+    
+
+
+
+        
+        
+            <h1 id="articlehed" class="header">No Secrets</h1>
+        
+
+        
+            
+            
+                
+                    <h2 id="articleintro">Julian Assange&#8217;s mission for total transparency.</h2>
+                
+            
+        
+
+        
+        
+            <h4 id="articleauthor">
+                
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+    
+    
+        
+            
+            
+
+                
+                
+
+                
+                <span class="c cs">
+
+                
+                    
+                
+
+            
+
+            
+            
+                
+                    
+                    
+                
+            
+
+            
+
+            
+                
+            
+
+            
+            
+
+            
+
+        
+
+        
+        
+
+            
+            
+                
+
+                
+                    
+                    
+                
+
+            
+                
+                    
+
+                        
+                        
+
+                        
+                        
+                            <span>by </span><a href="/magazine/bios/raffi_khatchadourian/search?contributorName=raffi khatchadourian">Raffi Khatchadourian</a>
+                        
+                    
+                    </span>
+
+                    
+                
+
+                
+                    
+                    
+                
+
+            
+
+        
+
+    
+
+    
+        
+          <span class="dd dds">
+              
+
+              
+
+              
+                  
+                  
+              
+
+              
+              
+
+              
+              June 7, 2010
+
+              
+
+              
+          </span>
+        
+    
+
+
+            </h4>
+        
+
+        
+
+        
+            
+            
+        
+    </div>
+
+
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <!-- generating a realview url -->
+    
+
+ <!--article check helper also need to check for related links and keywords -->
+    
+
+    
+
+
+    
+    
+
+    
+        <!-- start article rail (show only if above test is passed) -->
+        <div id="articleRail">
+            
+            
+
+            
+                <!-- start article photo -->
+                
+                    
+                        <div class="captionedphoto">
+                            
+            
+            
+            
+                
+            
+            
+                            
+                            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        
+        
+    
+
+
+
+
+    
+            <div class="w"><img src="/images/2010/06/07/p233/100607_r19652_p233.jpg " alt="Assange, the founder of WikiLeaks, oversees a populist intelligence network. Digitally altered photograph by Phillip Toledano."   /></div>
+        
+
+
+
+
+
+                            
+                                <p class="caption">Assange, the founder of WikiLeaks, oversees a populist intelligence network. Digitally altered photograph by Phillip Toledano.</p>
+                            
+                        </div>
+                    
+                
+                <!-- end article photo -->
+            
+             <div class="linksWrapper">
+                <div class="socialUtils">
+
+                    
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <ul class="utilities utilities-fblike-twitter">
+
+        
+            
+                    <li class="utility-tweetmeme-sm">
+                        
+                        
+                        
+
+                        <a href="http://twitter.com/share" class="twitter-share-button" data-url="http://www.newyorker.com/reporting/2010/06/07/100607fa_fact_khatchadourian?currentPage=all" data-counturl="http://www.newyorker.com/reporting/2010/06/07/100607fa_fact_khatchadourian?currentPage=all" data-count="horizontal" data-via="NewYorker" data-related="NewYorker">Tweet</a>
+                        <script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+                    </li>
+                 
+        
+            
+                    
+                    
+
+
+
+
+
+
+
+                    <li class="utility-like-sm">
+                        <iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.newyorker.com%2Freporting%2F2010%2F06%2F07%2F100607fa_fact_khatchadourian%3FcurrentPage%3Dall&amp;layout=button_count&amp;show_faces=false&amp;width=150&amp;action=recommend&amp;colorscheme=light&amp;height=40" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:150px; height:40px;" allowTransparency="true"></iframe>
+                    </li>
+                
+        
+
+    </ul>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                     
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <ul class="utilities utilities-">
+
+        
+            
+                    
+
+
+
+
+
+
+
+
+
+<li class="utility-share"><a href="http://www.addthis.com/bookmark.php?pub=newyorker&amp;url=http%3a%2f%2fwww.newyorker.com%2freporting%2f2010%2f06%2f07%2f100607fa_fact_khatchadourian&amp;title=WikiLeaks+and+Julian+Paul+Assange%3a+newyorker.com" target="addthis" onclick="window.open(this.href, this.target, 'scrollbars=yes,menubar=no,width=620,height=420,resizable=yes,toolbar=no,location=no,status=no,screenX=200,screenY=100,left=200,top=100');" title="Bookmark using any bookmark manager!">Share</a></li>
+
+
+                
+        
+            
+                    
+                    
+                    
+                    <li class="utility-print"><a href="/reporting/2010/06/07/100607fa_fact_khatchadourian?printable=true&currentPage=all" title="Print this page">Print</a></li>
+                
+        
+            
+                    <li class="utility-email"><a title="E-mail this page to a friend" onclick="if (typeof CN !== 'undefined' && CN.stats && CN.stats.omniture) { CN.stats.omniture.trackAction('emailAFriend',this); }" href="/contact/emailFriend?referringPage=http://www.newyorker.com/reporting/2010/06/07/100607fa_fact_khatchadourian&amp;title=WikiLeaks+and+Julian+Paul+Assange" rel="nofollow">E-Mail</a></li>
+                
+        
+            
+                    <li class="utility-single-page"><a href="?currentPage=all" class="singleico">Single Page</a></li>
+                
+        
+
+    </ul>
+
+
+
+                </div>
+
+                <div class="articleRailLinks">
+                    
+
+
+
+
+
+
+    
+        
+        
+            
+                <div id="relatedlinks">
+                    <dl>
+                        <dt>Related Links</dt>
+            
+
+            
+                <dd><a href="/online/blogs/newsdesk/2010/05/video-wikileaks.html">Video: Raffi Khatchadourian discusses the WikiLeaks video of a killing in Baghdad.</a></dd>
+            
+        
+        
+    
+        
+        
+            
+
+            
+                <dd><a href="/online/blogs/newsdesk/2010/11/wikileaks-diplomatic-cables.html">News Desk: The latest on WikiLeaks.</a></dd>
+            
+        
+        
+            </dl>
+          </div>
+          <!-- End relatedlinks -->
+        
+    
+
+
+
+
+                    
+
+
+
+
+    
+        <div id="keywords"><dl><dt>Keywords</dt>
+    
+
+    
+    
+    
+
+    
+        <dd><a href="/search/query?keyword=WikiLeaks">WikiLeaks</a>;</dd>
+    
+
+    
+
+    
+
+    
+    
+    
+
+    
+        <dd><a href="/search/query?keyword=Julian Paul Assange">Julian Paul Assange</a>;</dd>
+    
+
+    
+
+    
+
+    
+    
+    
+
+    
+        <dd><a href="/search/query?keyword=Internet">Internet</a>;</dd>
+    
+
+    
+
+    
+
+    
+    
+    
+
+    
+        <dd><a href="/search/query?keyword=Iraq War">Iraq War</a>;</dd>
+    
+
+    
+
+    
+
+    
+    
+    
+
+    
+        <dd><a href="/search/query?keyword=Video">Video</a>;</dd>
+    
+
+    
+
+    
+
+    
+    
+    
+
+    
+        <dd><a href="/search/query?keyword=Confidential Documents">Confidential Documents</a>;</dd>
+    
+
+    
+
+    
+
+    
+    
+    
+
+    
+        <dd><a href="/search/query?keyword=Intelligence">Intelligence</a></dd>
+    
+
+    
+        </dl>
+        </div>
+    
+
+
+                </div>
+            </div>
+        </div>
+
+    <!-- end article rail -->
+    
+
+
+<!-- start article body -->
+<div id="articlebody">
+    
+    
+        
+        
+
+        
+            <div id="articletext">
+                
+                    <p class="descender">The house on Grettisgata Street, in Reykjavik, is a century old, small and white, situated just a few streets from the North Atlantic. The shifting northerly winds can suddenly bring ice and snow to the city, even in springtime, and when they do a certain kind of silence sets in. This was the case on the morning of March 30th, when a tall Australian man named Julian Paul Assange, with gray eyes and a mop of silver-white hair, arrived to rent the place. Assange was dressed in a gray full-body snowsuit, and he had with him a small entourage. &#8220;We are journalists,&#8221; he told the owner of the house. Eyjafjallaj&#246;kull had recently begun erupting, and he said, &#8220;We&#8217;re here to write about the volcano.&#8221; After the owner left, Assange quickly closed the drapes, and he made sure that they stayed closed, day and night. The house, as far as he was concerned, would now serve as a war room; people called it the Bunker. Half a dozen computers were set up in a starkly decorated, white-walled living space. Icelandic activists arrived, and they began to work, more or less at Assange&#8217;s direction, around the clock. Their focus was Project B&#8212;Assange&#8217;s code name for a thirty-eight-minute video taken from the cockpit of an Apache military helicopter in Iraq in 2007. The video depicted American soldiers killing at least eighteen people, including two Reuters journalists; it later became the subject of widespread controversy, but at this early stage it was still a closely guarded military secret. </p><p>Assange is an international trafficker, of sorts. He and his colleagues collect documents and imagery that governments and other institutions regard as confidential and publish them on a Web site called WikiLeaks.org. Since it went online, three and a half years ago, the site has published an extensive catalogue of secret material, ranging from the Standard Operating Procedures at Camp Delta, in Guant&#225;namo Bay, and the &#8220;Climategate&#8221; e-mails from the University of East Anglia, in England, to the contents of Sarah Palin&#8217;s private Yahoo account. The catalogue is especially remarkable because WikiLeaks is not quite an organization; it is better described as a media insurgency. It has no paid staff, no copiers, no desks, no office. Assange does not even have a home. He travels from country to country, staying with supporters, or friends of friends&#8212;as he once put it to me, &#8220;I&#8217;m living in airports these days.&#8221; He is the operation&#8217;s prime mover, and it is fair to say that WikiLeaks exists wherever he does. At the same time, hundreds of volunteers from around the world help maintain the Web site&#8217;s complicated infrastructure; many participate in small ways, and between three and five people dedicate themselves to it full time. Key members are known only by initials&#8212;M, for instance&#8212;even deep within WikiLeaks, where communications are conducted by encrypted online chat services. The secretiveness stems from the belief that a populist intelligence operation with virtually no resources, designed to publicize information that powerful institutions do not want public, will have serious adversaries. </p><p>Iceland was a natural place to develop Project B. In the past year, Assange has collaborated with politicians and activists there to draft a free-speech law of unprecedented strength, and a number of these same people had agreed to help him work on the video in total secrecy. The video was a striking artifact&#8212;an unmediated representation of the ambiguities and cruelties of modern warfare&#8212;and he hoped that its release would touch off a worldwide debate about the conflicts in Iraq and Afghanistan. He was planning to unveil the footage before a group of reporters at the National Press Club, in Washington, on April 5th, the morning after Easter, presumably a slow news day. To accomplish this, he and the other members of the WikiLeaks community would have to analyze the raw video and edit it into a short film, build a stand-alone Web site to display it, launch a media campaign, and prepare documentation for the footage&#8212;all in less than a week&#8217;s time. </p><p>Assange also wanted to insure that, once the video was posted online, it would be impossible to remove. He told me that WikiLeaks maintains its content on more than twenty servers around the world and on hundreds of domain names. (Expenses are paid by donations, and a few independent well-wishers also run &#8220;mirror sites&#8221; in support.) Assange calls the site &#8220;an uncensorable system for untraceable mass document leaking and public analysis,&#8221; and a government or company that wanted to remove content from WikiLeaks would have to practically dismantle the Internet itself. So far, even though the site has received more than a hundred legal threats, almost no one has filed suit. Lawyers working for the British bank Northern Rock threatened court action after the site published an embarrassing memo, but they were practically reduced to begging. A Kenyan politician also vowed to sue after Assange published a confidential report alleging that President Daniel arap Moi and his allies had siphoned billions of dollars out of the country. The site&#8217;s work in Kenya earned it an award from Amnesty International. </p><p>Assange typically tells would-be litigants to go to hell. In 2008, WikiLeaks posted secret Scientology manuals, and lawyers representing the church demanded that they be removed. Assange&#8217;s response was to publish more of the Scientologists&#8217; internal material, and to announce, &#8220;WikiLeaks will not comply with legally abusive requests from Scientology any more than WikiLeaks has complied with similar demands from Swiss banks, Russian offshore stem-cell centers, former African kleptocrats, or the Pentagon.&#8221; </p><p>In his writing online, especially on Twitter, Assange is quick to lash out at perceived enemies. By contrast, on television, where he has been appearing more frequently, he acts with uncanny sang-froid. Under the studio lights, he can seem&#8212;with his spectral white hair, pallid skin, cool eyes, and expansive forehead&#8212;like a rail-thin being who has rocketed to Earth to deliver humanity some hidden truth. This impression is magnified by his rigid demeanor and his baritone voice, which he deploys slowly, at low volume. </p><p>In private, however, Assange is often bemused and energetic. He can concentrate intensely, in binges, but he is also the kind of person who will forget to reserve a plane ticket, or reserve a plane ticket and forget to pay for it, or pay for the ticket and forget to go to the airport. People around him seem to want to care for him; they make sure that he is where he needs to be, and that he has not left all his clothes in the dryer before moving on. At such times, he can seem innocent of the considerable influence that he has acquired. </p><p class="descender">Sitting at a small wooden table in the Bunker, Assange looked exhausted. His lanky frame was arched over two computers&#8212;one of them online, and the other disconnected from the Internet, because it was full of classified military documents. (In the tradecraft of espionage, this is known as maintaining an &#8220;air gap.&#8221;) He has a cyber-security analyst&#8217;s concern about computer vulnerability, and habitually takes precautions to frustrate eavesdroppers. A low-grade fever of paranoia runs through the WikiLeaks community. Assange says that he has chased away strangers who have tried to take his picture for surveillance purposes. In March, he published a classified military report, created by the Army Counterintelligence Center in 2008, that argued that the site was a potential threat to the Army and briefly speculated on ways to deter government employees from leaking documents to it. Assange regarded the report as a declaration of war, and posted it with the title &#8220;U.S. Intelligence Planned to Destroy WikiLeaks.&#8221; During a trip to a conference before he came to the Bunker, he thought he was being followed, and his fear began to infect others. &#8220;I went to Sweden and stayed with a girl who is a foreign editor of a newspaper there, and she became so paranoid that the C.I.A. was trying to get me she left the house and abandoned me,&#8221; he said. </p><p>Assange was sitting opposite Rop Gonggrijp, a Dutch activist, hacker, and businessman. Gonggrijp&#8212;thin and balding, with a soft voice&#8212;has known Assange well for several years. He had noticed Assange&#8217;s panicky communiqu&#233;s about being watched and decided that his help was needed. &#8220;Julian can deal with incredibly little sleep, and a hell of a lot of chaos, but even he has his limits, and I could see that he was stretching himself,&#8221; Gonggrijp told me. &#8220;I decided to come out and make things sane again.&#8221; Gonggrijp became the unofficial manager and treasurer of Project B, advancing about ten thousand euros to WikiLeaks to finance it. He kept everyone on schedule, and made sure that the kitchen was stocked with food and that the Bunker was orderly. </p><p>At around three in the afternoon, an Icelandic parliamentarian named Birgitta Jonsdottir walked in. Jonsdottir, who is in her forties, with long brown hair and bangs, was wearing a short black skirt and a black T-shirt with skulls printed on it. She took a WikiLeaks T-shirt from her bag and tossed it at Assange. </p><p>&#8220;That&#8217;s for you,&#8221; she said. &#8220;You need to change.&#8221; He put the T-shirt on a chair next to him, and continued working. </p><p>Jonsdottir has been in parliament for about a year, but considers herself a poet, artist, writer, and activist. Her political views are mostly anarchist. &#8220;I was actually unemployed before I got this job,&#8221; she explained. &#8220;When we first got to parliament, the staff was so nervous: here are people who were protesting parliament, who were for revolution, and now we are inside. None of us had aspirations to be politicians. We have a checklist, and, once we&#8217;re done, we are out.&#8221; </p><p>As she unpacked her computer, she asked Assange how he was planning to delegate the work on Project B. More Icelandic activists were due to arrive; half a dozen ultimately contributed time to the video, and about as many WikiLeaks volunteers from other countries were participating. Assange suggested that someone make contact with Google to insure that YouTube would host the footage.</p><p>&#8220;To make sure it is not taken down under pressure?&#8221; she asked. </p><p>&#8220;They have a rule that mentions gratuitous violence,&#8221; Assange said. &#8220;The violence is not gratuitous in this case, but nonetheless they have taken things down. It is too important to be interfered with.&#8221;</p><p>&#8220;What can we ask M to do?&#8221; Jonsdottir asked. Assange, engrossed in what he was doing, didn&#8217;t reply. </p><p>His concerns about surveillance had not entirely receded. On March 26th, he had written a blast e-mail, titled &#8220;Something Is Rotten in the State of Iceland,&#8221; in which he described a teen-age Icelandic WikiLeaks volunteer&#8217;s story of being detained by local police for more than twenty hours. The volunteer was arrested for trying to break into the factory where his father worked&#8212;&#8220;the reasons he was trying to get in are not totally justified,&#8221; Assange told me&#8212;and said that while in custody he was interrogated about Project B. Assange claimed that the volunteer was &#8220;shown covert photos of me outside the Reykjavik restaurant Icelandic Fish &#38; Chips,&#8221; where a WikiLeaks production meeting had taken place in a private back room. </p><p>The police were denying key parts of the volunteer&#8217;s story, and Assange was trying to learn more. He received a call, and after a few minutes hung up. &#8220;Our young friend talked to one of the cops,&#8221; he said. &#8220;I was about to get more details, but my battery died.&#8221; He smiled and looked suspiciously at his phone.</p><p>&#8220;We are all paranoid schizophrenics,&#8221; Jonsdottir said. She gestured at Assange, who was still wearing his snowsuit. &#8220;Just look at how he dresses.&#8221; </p><p>Gonggrijp got up, walked to the window, and parted the drapes to peer out. </p><p>&#8220;Someone?&#8221; Jonsdottir asked. </p><p>&#8220;Just the camera van,&#8221; he deadpanned. &#8220;The brain-manipulation van.&#8221; </p><p class="descender">At around six in the evening, Assange got up from his spot at the table. He was holding a hard drive containing Project B. The video&#8212;excerpts of running footage captured by a camera mounted on the Apache&#8212;depicts soldiers conducting an operation in eastern Baghdad, not long after the surge began. Using the Freedom of Information Act, Reuters has sought for three years to obtain the video from the Army, without success. Assange would not identify his source, saying only that the person was unhappy about the attack. The video was digitally encrypted, and it took WikiLeaks three months to crack. Assange, a cryptographer of exceptional skill, told me that unlocking the file was &#8220;moderately difficult.&#8221; </p><p>People gathered in front of a computer to watch. In grainy black-and-white, we join the crew of the Apache, from the Eighth Cavalry Regiment, as it hovers above Baghdad with another helicopter. A wide-angle shot frames a mosque&#8217;s dome in crosshairs. We see a jumble of buildings and palm trees and abandoned streets. We hear bursts of static, radio blips, and the clipped banter of tactical communication. Two soldiers are in mid-conversation; the first recorded words are &#8220;O.K., I got it.&#8221; Assange hit the pause button, and said, &#8220;In this video, you will see a number of people killed.&#8221; The footage, he explained, had three broad phases. &#8220;In the first phase, you will see an attack that is based upon a mistake, but certainly a very careless mistake. In the second part, the attack is clearly murder, according to the definition of the average man. And in the third part you will see the killing of innocent civilians in the course of soldiers going after a legitimate target.&#8221;</p><p>The first phase was chilling, in part because the banter of the soldiers was so far beyond the boundaries of civilian discourse. &#8220;Just fuckin&#8217;, once you get on &#8217;em, just open &#8217;em up,&#8221; one of them said. The crew members of the Apache came upon about a dozen men ambling down a street, a block or so from American troops, and reported that five or six of the men were armed with AK-47s; as the Apache maneuvered into position to fire at them, the crew saw one of the Reuters journalists, who were mixed in among the other men, and mistook a long-lensed camera for an RPG. The Apaches fired on the men for twenty-five seconds, killing nearly all of them instantly. </p><p>Phase two began shortly afterward. As the helicopter hovered over the carnage, the crew noticed a wounded survivor struggling on the ground. The man appeared to be unarmed. &#8220;All you gotta do is pick up a weapon,&#8221; a soldier in the Apache said. Suddenly, a van drove into view, and three unarmed men rushed to help the wounded person. &#8220;We have individuals going to the scene, looks like possibly, uh, picking up bodies and weapons,&#8221; the Apache reported, even though the men were helping a survivor, and were not collecting weapons. The Apache fired, killing the men and the person they were trying to save, and wounding two young children in the van&#8217;s front seat. </p><p>In phase three, the helicopter crew radioed a commander to say that at least six armed men had entered a partially constructed building in a dense urban area. Some of the armed men may have walked over from a skirmish with American troops; it is unclear. The crew asked for permission to attack the structure, which they said appeared abandoned. &#8220;We can put a missile in it,&#8221; a soldier in the Apache suggested, and the go-ahead was quickly given. Moments later, two unarmed people entered the building. Though the soldiers acknowledged them, the attack proceeded: three Hellfire missiles destroyed the building. Passersby were engulfed by clouds of debris. </p><p>Assange saw these events in sharply delineated moral terms, yet the footage did not offer easy legal judgments. In the month before the video was shot, members of the battalion on the ground, from the Sixteenth Infantry Regiment, had suffered more than a hundred and fifty attacks and roadside bombings, nineteen injuries, and four deaths; early that morning, the unit had been attacked by small-arms fire. The soldiers in the Apache were matter-of-fact about killing and spoke callously about their victims, but the first attack could be judged as a tragic misunderstanding. The attack on the van was questionable&#8212;the use of force seemed neither thoughtful nor measured&#8212;but soldiers are permitted to shoot combatants, even when they are assisting the wounded, and one could argue that the Apache&#8217;s crew, in the heat of the moment, reasonably judged the men in the van to be assisting the enemy. Phase three may have been unlawful, perhaps negligent homicide or worse. Firing missiles into a building, in daytime, to kill six people who do not appear to be of strategic importance is an excessive use of force. This attack was conducted with scant deliberation, and it is unclear why the Army did not investigate it. </p><p>Assange had obtained internal Army records of the operation, which stated that everyone killed, except for the Reuters journalists, was an insurgent. And the day after the incident an Army spokesperson said, &#8220;There is no question that Coalition Forces were clearly engaged in combat operations against a hostile force.&#8221; Assange was hoping that Project B would undermine the Army&#8217;s official narrative. &#8220;This video shows what modern warfare has become, and, I think, after seeing it, whenever people hear about a certain number of casualties that resulted during fighting with close air support, they will understand what is going on,&#8221; he said in the Bunker. &#8220;The video also makes clear that civilians are listed as insurgents automatically, unless they are children, and that bystanders who are killed are not even mentioned.&#8221; </p><p class="descender">WikiLeaks receives about thirty submissions a day, and typically posts the ones it deems credible in their raw, unedited state, with commentary alongside. Assange told me, &#8220;I want to set up a new standard: &#8216;scientific journalism.&#8217; If you publish a paper on DNA, you are required, by all the good biological journals, to submit the data that has informed your research&#8212;the idea being that people will replicate it, check it, verify it. So this is something that needs to be done for journalism as well. There is an immediate power imbalance, in that readers are unable to verify what they are being told, and that leads to abuse.&#8221; Because Assange publishes his source material, he believes that WikiLeaks is free to offer its analysis, no matter how speculative. In the case of Project B, Assange wanted to edit the raw footage into a short film as a vehicle for commentary. For a while, he thought about calling the film &#8220;Permission to Engage,&#8221; but ultimately decided on something more forceful: &#8220;Collateral Murder.&#8221; He told Gonggrijp, &#8220;We want to knock out this &#8216;collateral damage&#8217; euphemism, and so when anyone uses it they will think &#8216;collateral murder.&#8217; &#8221; </p><p>The video, in its original form, was a puzzle&#8212;a fragment of evidence divorced from context. Assange and the others in the Bunker spent much of their time trying to piece together details: the units involved, their command structure, the rules of engagement, the jargon soldiers used on the radio, and, most important, whether and how the Iraqis on the ground were armed. </p><p>&#8220;One of them has a weapon,&#8221; Assange said, peering at blurry footage of the men walking down the street. &#8220;See all those people standing out there.&#8221; </p><p>&#8220;And there is a guy with an RPG over his arm,&#8221; Gonggrijp said.</p><p>&#8220;I&#8217;m not sure.&#8221; Assange said. &#8220;It does look a little bit like an RPG.&#8221; He played the footage again. &#8220;I&#8217;ll tell you what is very strange,&#8221; he said. &#8220;If it is an RPG, then there is just one RPG. Where are all the other weapons? All those guys. It is pretty weird.&#8221;</p><p>The forensic work was made more difficult because Assange had declined to discuss the matter with military officials. &#8220;I thought it would be more harmful than helpful,&#8221; he told me. &#8220;I have approached them before, and, as soon as they hear it is WikiLeaks, they are not terribly co&#246;perative.&#8221; Assange was running Project B as a surprise attack. He had encouraged a rumor that the video was shot in Afghanistan in 2009, in the hope that the Defense Department would be caught unprepared. Assange does not believe that the military acts in good faith with the media. He said to me, &#8220;What right does this institution have to know the story before the public?&#8221;</p><p>This adversarial mind-set permeated the Bunker. Late one night, an activist asked if Assange might be detained upon his arrival in the United States. </p><p>&#8220;If there is ever a time it was safe for me to go, it is now,&#8221; Assange assured him.</p><p>&#8220;They say that Gitmo is nice this time of year,&#8221; Gonggrijp said.</p><p>Assange was the sole decision-maker, and it was possible to leave the house at night and come back after sunrise and see him in the same place, working. (&#8220;I spent two months in one room in Paris once without leaving,&#8221; he said. &#8220;People were handing me food.&#8221;) He spoke to the team in shorthand&#8212;&#8220;I need the conversion stuff,&#8221; or &#8220;Make sure that credit-card donations are acceptable&#8221;&#8212;all the while resolving flareups with the overworked volunteers. To keep track of who was doing what, Gonggrijp and another activist maintained a workflow chart with yellow Post-Its on the kitchen cabinets. Elsewhere, people were translating the video&#8217;s subtitles into various languages, or making sure that servers wouldn&#8217;t crash from the traffic that was expected after the video was posted. Assange wanted the families of the Iraqis who had died in the attack to be contacted, to prepare them for the inevitable media attention, and to gather additional information. In conjunction with Iceland&#8217;s national broadcasting service, RUV, he sent two Icelandic journalists to Baghdad to find them.</p><p>By the end of the week, a frame-by-frame examination of the footage was nearly complete, revealing minute details&#8212;evidence of a body on the ground, for instance&#8212;that were not visible by casual viewing. (&#8220;I am about twelve thousand frames in,&#8221; the activist who reviewed it told me. &#8220;It&#8217;s been a morbid day, going through these people&#8217;s last moments.&#8221;) Assange had decided to exclude the Hellfire incident from the film; the attack lacked the obvious human dimension of the others, and he thought that viewers might be overloaded with information. </p><p>The edited film, which was eighteen minutes long, began with a quote from George Orwell that Assange and M had selected: &#8220;Political language is designed to make lies sound truthful and murder respectable, and to give the appearance of solidity to pure wind.&#8221; It then presented information about the journalists who had been killed, and about the official response to the attack. For the audio of this section, one of the film&#8217;s Icelandic editors had layered in fragments of radio banter from the soldiers. As Assange reviewed the cut, an activist named Gudmundur Gudmundsson spoke up to say that the banter allowed viewers to &#8220;make an emotional bond&#8221; with the soldiers. Assange argued that it was mostly fragmentary and garbled, but Gudmundsson insisted: &#8220;It is just used all the time for triggering emotions.&#8221;</p><p>&#8220;At the same time, we are displaying them as monsters,&#8221; the editor said. </p><p>&#8220;But emotions always rule,&#8221; Gudmundsson said. &#8220;By the way, I worked on the sound recording for a film, &#8216;Children of Nature,&#8217; that was nominated for an Oscar, so I am speaking from experience.&#8221;</p><p>&#8220;Well, what is your alternative?&#8221; Assange asked. </p><p>&#8220;Basically, bursts of sounds, interrupting the quiet,&#8221; he said. </p><p>The editor made the change, stripping the voices of the soldiers from the opening, but keeping blips and whirs of radio distortion. Assange gave the edit his final approval. </p><p class="descender">Late Saturday night, shortly before all the work had to be finished, the journalists who had gone to Baghdad sent Assange an e-mail: they had found the two children in the van. The children had lived a block from the location of the attack, and were being driven to school by their father that morning. &#8220;They remember the bombardment, felt great pain, they said, and lost consciousness,&#8221; one of the journalists wrote. The journalists also found the owner of the building that had been attacked by the Hellfires, who said that families had been living in the structure, and that seven residents had died. The owner, a retired English teacher, had lost his wife and daughter. An intense discussion arose about what to do with this news: Was it worth using at the National Press Club, or was it a better tactic to hold on to it? If the military justified the Hellfire attacks by claiming that there were no civilian casualties, WikiLeaks could respond by releasing the information, in a kind of ambush. Jonsdottir turned to Gonggrijp, whose eyes had welled up. </p><p>&#8220;Are you crying?&#8221; she asked. </p><p>&#8220;I am,&#8221; he said. &#8220;O.K., O.K., it is just the kids. It hurts.&#8221; Gonggrijp gathered himself. &#8220;Fuck!&#8221; he said. Resuming the conversation about ambushing the Army, he said, &#8220;Anyway, let them walk into this knife&#8212;&#8221; </p><p>&#8220;That is a wonderful thing to do,&#8221; one of the activists said. </p><p>&#8220;Let them walk into this, and they will,&#8221; Gonggrijp said. &#8220;It is a logical response.&#8221;</p><p>Jonsdottir was now in tears, too, and wiping her nose. </p><p>&#8220;Now I want to re&#235;dit the thing,&#8221; Assange said. &#8220;I want to put in the missile attack. There were three families living in the bottom, so it wasn&#8217;t abandoned.&#8221; But it was impossible to re&#235;dit the film. The activists were working at capacity, and in several hours it would be Easter. </p><p>At half past ten in the morning, Gonggrijp pulled open the drapes, and the Bunker was filled with sunlight. He was wearing a long-sleeved T-shirt and black pants, freshly washed and ironed, and he was struggling to keep everyone on schedule. Last-minute concerns&#8212;among them finding a criminal-defense lawyer in the United States&#8212;were being addressed. Assange was at a computer, his posture upright as he steadily typed. </p><p>&#8220;How are we on time?&#8221; he asked no one in particular. </p><p>&#8220;We have three hours,&#8221; Gonggrijp said. </p><p>Assange wrinkled his brow and turned his attention back to the screen. He was looking at a copy of classified rules of engagement in Iraq from 2006, one of several secret American military documents that he was planning to post with the video. WikiLeaks scrubs such documents to insure that no digital traces embedded in them can identify their source. Assange was purging these traces as fast as he could. </p><p>Reykjavik&#8217;s streets were empty, and the bells of a cathedral began to toll. &#8220;Remember, remember the fifth of November,&#8221; Assange said, repeating a line from the English folk poem celebrating Guy Fawkes. He smiled, as Gonggrijp dismantled the workflow chart, removing Post-Its from the cabinets and flushing them down the toilet. Shortly before noon, there was a desperate push to clear away the remaining vestiges of Project B and to get to the airport. Assange was unpacked and unshaven, and his hair was a mess. He was typing up a press release. Jonsdottir came by to help, and he asked her, &#8220;Can&#8217;t you cut my hair while I&#8217;m doing this?&#8221;</p><p>&#8220;No, I am not going to cut your hair while you are working,&#8221; she said. </p><p>Jonsdottir walked over to the sink and made tea. Assange kept on typing, and after a few minutes she reluctantly began to trim his hair. At one point, she stopped and asked, &#8220;If you get arrested, will you get in touch with me?&#8221; Assange nodded. Gonggrijp, meanwhile, shoved some of Assange&#8217;s things into a bag. He settled the bill with the owner. Dishes were washed. Furniture was put back in place. People piled into a small car, and in an instant the house was empty and still. </p><p class="descender">The name Assange is thought to derive from Ah Sang, or Mr. Sang, a Chinese &#233;migr&#233; who settled on Thursday Island, off the coast of Australia, in the early eighteen-hundreds, and whose descendants later moved to the continent. Assange&#8217;s maternal ancestors came to Australia in the mid-nineteenth century, from Scotland and Ireland, in search of farmland, and Assange suspects, only half in jest, that his proclivity for wandering is genetic. His phone numbers and e-mail address are ever-changing, and he can drive the people around him crazy with his elusiveness and his propensity to mask details about his life.</p><p>Assange was born in 1971, in the city of Townsville, on Australia&#8217;s northeastern coast, but it is probably more accurate to say that he was born into a blur of domestic locomotion. Shortly after his first birthday, his mother&#8212;I will call her Claire&#8212;married a theatre director, and the two collaborated on small productions. They moved often, living near Byron Bay, a beachfront community in New South Wales, and on Magnetic Island, a tiny pile of rock that Captain Cook believed had magnetic properties that distorted his compass readings. They were tough-minded nonconformists. (At seventeen, Claire had burned her schoolbooks and left home on a motorcycle.) Their house on Magnetic Island burned to the ground, and rifle cartridges that Claire had kept for shooting snakes exploded like fireworks. &#8220;Most of this period of my childhood was pretty Tom Sawyer,&#8221; Assange told me. &#8220;I had my own horse. I built my own raft. I went fishing. I was going down mine shafts and tunnels.&#8221; </p><p>Assange&#8217;s mother believed that formal education would inculcate an unhealthy respect for authority in her children and dampen their will to learn. &#8220;I didn&#8217;t want their spirits broken,&#8221; she told me. In any event, the family had moved thirty-seven times by the time Assange was fourteen, making consistent education impossible. He was homeschooled, sometimes, and he took correspondence classes and studied informally with university professors. But mostly he read on his own, voraciously. He was drawn to science. &#8220;I spent a lot of time in libraries going from one thing to another, looking closely at the books I found in citations, and followed that trail,&#8221; he recalled. He absorbed a large vocabulary, but only later did he learn how to pronounce all the words that he learned. </p><p>When Assange was eight, Claire left her husband and began seeing a musician, with whom she had another child, a boy. The relationship was tempestuous; the musician became abusive, she says, and they separated. A fight ensued over the custody of Assange&#8217;s half brother, and Claire felt threatened, fearing that the musician would take away her son. Assange recalled her saying, &#8220;Now we need to disappear,&#8221; and he lived on the run with her from the age of eleven to sixteen. When I asked him about the experience, he told me that there was evidence that the man belonged to a powerful cult called the Family&#8212;its motto was &#8220;Unseen, Unknown, and Unheard.&#8221; Some members were doctors who persuaded mothers to give up their newborn children to the cult&#8217;s leader, Anne Hamilton-Byrne. The cult had moles in government, Assange suspected, who provided the musician with leads on Claire&#8217;s whereabouts. In fact, Claire often told friends where she had gone, or hid in places where she had lived before. </p><p>While on the run, Claire rented a house across the street from an electronics shop. Assange would go there to write programs on a Commodore 64, until Claire bought it for him, moving to a cheaper place to raise the money. He was soon able to crack into well-known programs, where he found hidden messages left by their creators. &#8220;The austerity of one&#8217;s interaction with a computer is something that appealed to me,&#8221; he said. &#8220;It is like chess&#8212;chess is very austere, in that you don&#8217;t have many rules, there is no randomness, and the problem is very hard.&#8221; Assange embraced life as an outsider. He later wrote of himself and a teen-age friend, &#8220;We were bright sensitive kids who didn&#8217;t fit into the dominant subculture and fiercely castigated those who did as irredeemable boneheads.&#8221;</p><p>When Assange turned sixteen, he got a modem, and his computer was transformed into a portal. Web sites did not exist yet&#8212;this was 1987&#8212;but computer networks and telecom systems were sufficiently linked to form a hidden electronic landscape that teen-agers with the requisite technical savvy could traverse. Assange called himself Mendax&#8212;from Horace&#8217;s <i>splendide mendax</i>, or &#8220;nobly untruthful&#8221;&#8212;and he established a reputation as a sophisticated programmer who could break into the most secure networks. He joined with two hackers to form a group that became known as the International Subversives, and they broke into computer systems in Europe and North America, including networks belonging to the U.S. Department of Defense and to the Los Alamos National Laboratory. In a book called &#8220;Underground,&#8221; which he collaborated on with a writer named Suelette Dreyfus, he outlined the hacker subculture&#8217;s early Golden Rules: &#8220;Don&#8217;t damage computer systems you break into (including crashing them); don&#8217;t change the information in those systems (except for altering logs to cover your tracks); and share information.&#8221; </p><p class="descender">Around this time, Assange fell in love with a sixteen-year-old girl, and he briefly moved out of his mother&#8217;s home to stay with her. &#8220;A couple of days later, police turned up, and they carted off all my computer stuff,&#8221; he recalled. The raid, he said, was carried out by the state police, and &#8220;it involved some dodgy character who was alleging that we had stolen five hundred thousand dollars from Citibank.&#8221; Assange wasn&#8217;t charged, and his equipment was returned. &#8220;At that point, I decided that it might be wise to be a bit more discreet,&#8221; he said. Assange and the girl joined a squatters&#8217; union in Melbourne, until they learned she was pregnant, and moved to be near Claire. When Assange was eighteen, the two got married in an unofficial ceremony, and soon afterward they had a son. </p><p>Hacking remained a constant in his life, and the thrill of digital exploration was amplified by the growing knowledge, among the International Subversives, that the authorities were interested in their activities. The Australian Federal Police had set up an investigation into the group, called Operation Weather, which the hackers strove to monitor. </p><p>In September, 1991, when Assange was twenty, he hacked into the master terminal that Nortel, the Canadian telecom company, maintained in Melbourne, and began to poke around. The International Subversives had been visiting the master terminal frequently. Normally, Assange hacked into computer systems at night, when they were semi-dormant, but this time a Nortel administrator was signed on. Sensing that he might be caught, Assange approached him with humor. &#8220;I have taken control,&#8221; he wrote, without giving his name. &#8220;For years, I have been struggling in this grayness. But now I have finally seen the light.&#8221; The administrator did not reply, and Assange sent another message: &#8220;It&#8217;s been nice playing with your system. We didn&#8217;t do any damage and we even improved a few things. Please don&#8217;t call the Australian Federal Police.&#8221; </p><p>The International Subversives&#8217; incursions into Nortel turned out to be a critical development for Operation Weather. Federal investigators tapped phone lines to see which ones the hackers were using. &#8220;Julian was the most knowledgeable and the most secretive of the lot,&#8221; Ken Day, the lead investigator, told me. &#8220;He had some altruistic motive. I think he acted on the belief that everyone should have access to everything.&#8221; </p><p>&#8220;Underground&#8221; describes Assange&#8217;s growing fear of arrest: &#8220;Mendax dreamed of police raids all the time. He dreamed of footsteps crunching on the driveway gravel, of shadows in the pre-dawn darkness, of a gun-toting police squad bursting through his backdoor at 5 am.&#8221; Assange could relax only when he hid his disks in an apiary that he kept. By October, he was in a terrible state. His wife had left him, taking with her their infant son. His home was a mess. He barely ate or slept. On the night the police came, the twenty-ninth, he wired his phone through his stereo and listened to the busy signal until eleven-thirty, when Ken Day knocked on his door, and told him, &#8220;I think you&#8217;ve been expecting me.&#8221; </p><p>Assange was charged with thirty-one counts of hacking and related crimes. While awaiting trial, he fell into a depression, and briefly checked himself into a hospital. He tried to stay with his mother, but after a few days he took to sleeping in nearby parks. He lived and hiked among dense eucalyptus forests in the Dandenong Ranges National Park, which were thick with mosquitoes whose bites scarred his face. &#8220;Your inner voice quiets down,&#8221; he told me. &#8220;Internal dialogue is stimulated by a preparatory desire to speak, but it is not actually useful if there are no other people around.&#8221; He added, &#8220;I don&#8217;t want to sound too Buddhist. But your vision of yourself disappears.&#8221;</p><p>It took more than three years for the authorities to bring the case against Assange and the other International Subversives to court. Day told me, &#8220;We had just formed the computer-crimes team, and the government said, &#8216;Your charter is to establish a deterrent.&#8217; Well, to get a deterrent you have to prosecute people, and we achieved that with Julian and his group.&#8221; A computer-security team working for Nortel in Canada drafted an incident report alleging that the hacking had caused damage that would cost more than a hundred thousand dollars to repair. The chief prosecutor, describing Assange&#8217;s near-limitless access, told the court, &#8220;It was God Almighty walking around doing what you like.&#8221;</p><p>Assange, facing a potential sentence of ten years in prison, found the state&#8217;s reaction confounding. He bought Aleksandr Solzhenitsyn&#8217;s &#8220;The First Circle,&#8221; a novel about scientists and technicians forced into the Gulag, and read it three times. (&#8220;How close the parallels to my own adventures!&#8221; he later wrote.) He was convinced that &#8220;look/see&#8221; hacking was a victimless crime, and intended to fight the charges. But the other members of the group decided to co&#246;perate. &#8220;When a judge says, &#8216;The prisoner shall now rise,&#8217; and no one else in the room stands&#8212;that is a test of character,&#8221; he told me. Ultimately, he pleaded guilty to twenty-five charges and six were dropped. But at his final sentencing the judge said, &#8220;There is just no evidence that there was anything other than sort of intelligent inquisitiveness and the pleasure of being able to&#8212;what&#8217;s the expression&#8212;surf through these various computers.&#8221; Assange&#8217;s only penalty was to pay the Australian state a small sum in damages. </p><p>As the criminal case was unfolding, Assange and his mother were also waging a campaign to gain full custody of Assange&#8217;s son&#8212;a legal fight that was, in many ways, far more wrenching than his criminal defense. They were convinced that the boy&#8217;s mother and her new boyfriend posed a danger to the child, and they sought to restrict her rights. The state&#8217;s child-protection agency, Health and Community Services, disagreed. The specifics of the allegations are unclear; family-court records in Australia are kept anonymous. But in 1995 a parliamentary committee found that the agency maintained an &#8220;underlying philosophy of deflecting as many cases away from itself as possible.&#8221; When the agency decided that a child was living in a safe household, there was no way to immediately appeal its decision.</p><p>The custody battle evolved into a bitter fight with the state. &#8220;What we saw was a great bureaucracy that was squashing people,&#8221; Claire told me. She and Assange, along with another activist, formed an organization called Parent Inquiry Into Child Protection. &#8220;We used full-on activist methods,&#8221; Claire recalled. In meetings with Health and Community Services, &#8220;we would go in and tape-record them secretly.&#8221; The organization used the Australian Freedom of Information Act to obtain documents from Health and Community Services, and they distributed flyers to child-protection workers, encouraging them to come forward with inside information, for a &#8220;central databank&#8221; that they were creating. &#8220;You may remain anonymous if you wish,&#8221; one flyer stated. One protection worker leaked to the group an important internal manual. Assange told me, &#8220;We had moles who were inside dissidents.&#8221;</p><p>In 1999, after nearly three dozen legal hearings and appeals, Assange worked out a custody agreement with his wife. Claire told me, &#8220;We had experienced very high levels of adrenaline, and I think that after it all finished I ended up with P.T.S.D. It was like coming back from a war. You just can&#8217;t interact with normal people to the same degree, and I am sure that Jules has some P.T.S.D. that is untreated.&#8221; Not long after the court cases, she said, Assange&#8217;s hair, which had been dark brown, became drained of all color.</p><p class="descender">Assange was burned out. He motorcycled across Vietnam. He held various jobs, and even earned money as a computer-security consultant, supporting his son to the extent that he was able. He studied physics at the University of Melbourne. He thought that trying to decrypt the secret laws governing the universe would provide the intellectual stimulation and rush of hacking. It did not. In 2006, on a blog he had started, he wrote about a conference organized by the Australian Institute of Physics, &#8220;with 900 career physicists, the body of which were sniveling fearful conformists of woefully, woefully inferior character.&#8221; </p><p>He had come to understand the defining human struggle not as left versus right, or faith versus reason, but as individual versus institution. As a student of Kafka, Koestler, and Solzhenitsyn, he believed that truth, creativity, love, and compassion are corrupted by institutional hierarchies, and by &#8220;patronage networks&#8221;&#8212;one of his favorite expressions&#8212;that contort the human spirit. He sketched out a manifesto of sorts, titled &#8220;Conspiracy as Governance,&#8221; which sought to apply graph theory to politics. Assange wrote that illegitimate governance was by definition conspiratorial&#8212;the product of functionaries in &#8220;collaborative secrecy, working to the detriment of a population.&#8221; He argued that, when a regime&#8217;s lines of internal communication are disrupted, the information flow among conspirators must dwindle, and that, as the flow approaches zero, the conspiracy dissolves. Leaks were an instrument of information warfare.</p><p>These ideas soon evolved into WikiLeaks. In 2006, Assange barricaded himself in a house near the university and began to work. In fits of creativity, he would write out flow diagrams for the system on the walls and doors, so as not to forget them. There was a bed in the kitchen, and he invited backpackers passing through campus to stay with him, in exchange for help building the site. &#8220;He wouldn&#8217;t sleep at all,&#8221; a person who was living in the house told me. &#8220;He wouldn&#8217;t eat.&#8221; </p><p>As it now functions, the Web site is primarily hosted on a Swedish Internet service provider called PRQ.se, which was created to withstand both legal pressure and cyber attacks, and which fiercely preserves the anonymity of its clients. Submissions are routed first through PRQ, then to a WikiLeaks server in Belgium, and then on to &#8220;another country that has some beneficial laws,&#8221; Assange told me, where they are removed at &#8220;end-point machines&#8221; and stored elsewhere. These machines are maintained by exceptionally secretive engineers, the high priesthood of WikiLeaks. One of them, who would speak only by encrypted chat, told me that Assange and the other public members of WikiLeaks &#8220;do not have access to certain parts of the system as a measure to protect them and us.&#8221; The entire pipeline, along with the submissions moving through it, is encrypted, and the traffic is kept anonymous by means of a modified version of the Tor network, which sends Internet traffic through &#8220;virtual tunnels&#8221; that are extremely private. Moreover, at any given time WikiLeaks computers are feeding hundreds of thousands of fake submissions through these tunnels, obscuring the real documents. Assange told me that there are still vulnerabilities, but &#8220;this is vastly more secure than any banking network.&#8221;</p><p>Before launching the site, Assange needed to show potential contributors that it was viable. One of the WikiLeaks activists owned a server that was being used as a node for the Tor network. Millions of secret transmissions passed through it. The activist noticed that hackers from China were using the network to gather foreign governments&#8217; information, and began to record this traffic. Only a small fraction has ever been posted on WikiLeaks, but the initial tranche served as the site&#8217;s foundation, and Assange was able to say, &#8220;We have received over one million documents from thirteen countries.&#8221; </p><p>In December, 2006, WikiLeaks posted its first document: a &#8220;secret decision,&#8221; signed by Sheikh Hassan Dahir Aweys, a Somali rebel leader for the Islamic Courts Union, that had been culled from traffic passing through the Tor network to China. The document called for the execution of government officials by hiring &#8220;criminals&#8221; as hit men. Assange and the others were uncertain of its authenticity, but they thought that readers, using Wikipedia-like features of the site, would help analyze it. They published the decision with a lengthy commentary, which asked, &#8220;Is it a bold manifesto by a flamboyant Islamic militant with links to Bin Laden? Or is it a clever smear by US intelligence, designed to discredit the Union, fracture Somali alliances and manipulate China?&#8221;</p><p>The document&#8217;s authenticity was never determined, and news about WikiLeaks quickly superseded the leak itself. Several weeks later, Assange flew to Kenya for the World Social Forum, an anti-capitalist convention, to make a presentation about the Web site. &#8220;He packed in the funniest way I have ever seen,&#8221; the person who had been living in the house recalled. &#8220;Someone came to pick him up, and he was asked, &#8216;Where is your luggage?&#8217; And he ran back into the house. He had a sailor&#8217;s sack, and he grabbed a whole bunch of stuff and threw it in there, mostly socks.&#8221; </p><p>Assange ended up staying in Kenya for several months. He would check in with friends by phone and through the Internet from time to time, but was never precise about his movements. One friend told me, &#8220;It would always be, &#8216;Where is Julian?&#8217; It was always difficult to know where he was. It was almost like he was trying to hide.&#8221;</p><p class="descender">It took about an hour on Easter morning to get from the house on Grettisgata Street to Iceland&#8217;s international airport, which is situated on a lava field by the sea. Assange, in the terminal, carried a threadbare blue backpack that contained hard drives, phone cards, and multiple cell phones. Gonggrijp had agreed to go to Washington to help with the press conference. He checked in, and the ticketing agent turned to Assange. </p><p>&#8220;I am sorry,&#8221; she said to him. &#8220;I cannot find your name.&#8221;</p><p>&#8220;Interesting,&#8221; Assange said to Gonggrijp. &#8220;Have fun at the press conference.&#8221;</p><p>&#8220;No,&#8221; Gonggrijp told the attendant. &#8220;We have a booking I.D. number.&#8221;</p><p>&#8220;It&#8217;s been confirmed,&#8221; Assange insisted.</p><p>The attendant looked perplexed. &#8220;I know,&#8221; she said. &#8220;But my booking information has it &#8216;cancelled.&#8217; &#8221;</p><p>The two men exchanged a look: was a government agency tampering with their plans? Assange waited anxiously, but it turned out that he had bought the ticket and neglected to confirm the purchase. He quickly bought another ticket, and the two men flew to New York and then rushed to catch the Acela to Washington. It was nearly two in the morning when they arrived. They got into a taxi, and Assange, who didn&#8217;t want to reveal the location of his hotel, told the driver to go to a nearby cross street. </p><p>&#8220;Here we are in the lion&#8217;s den,&#8221; Gonggrijp said as the taxi raced down Massachusetts Avenue, passing rows of nondescript office buildings. Assange said, &#8220;Not looking too lionish.&#8221; </p><p>A few hours after sunrise, Assange was standing at a lectern inside the National Press Club, ready to present &#8220;Collateral Murder&#8221; to the forty or so journalists who had come. He was dressed in a brown blazer, a black shirt, and a red tie. He played the film for the audience, pausing it to discuss various details. After the film ended, he ran footage of the Hellfire attack&#8212;a woman in the audience gasped as the first missile hit the building&#8212;and read from the e-mail sent by the Icelandic journalists who had gone to Iraq. The leak, he told the reporters, &#8220;sends a message that some people within the military don&#8217;t like what is going on.&#8221;</p><p>The video, in both raw and edited forms, was released on the site that WikiLeaks had built for it, and also on YouTube and a number of other Web sites. Within minutes after the press conference, Assange was invited to Al Jazeera&#8217;s Washington headquarters, where he spent half the day giving interviews, and that evening MSNBC ran a long segment about the footage. The video was covered in the <i>Times</i>, in multiple stories, and in every other major paper. On YouTube alone, more than seven million viewers have watched &#8220;Collateral Murder.&#8221; </p><p>Defense Secretary Robert Gates was asked about the footage, and said, clearly irritated, &#8220;These people can put anything out they want and are never held accountable for it.&#8221; The video was like looking at war &#8220;through a soda straw,&#8221; he said. &#8220;There is no before and there is no after.&#8221; Army spokespeople insisted that there was no violation of the rules of engagement. At first, the media&#8217;s response hewed to Assange&#8217;s interpretation, but, in the ensuing days, as more commentators weighed in and the military offered its view, Assange grew frustrated. Much of the coverage focussed not on the Hellfire attack or the van but on the killing of the journalists and on how a soldier might reasonably mistake a camera for an RPG. On Twitter, Assange accused Gates of being &#8220;a liar,&#8221; and beseeched members of the media to &#8220;stop spinning.&#8221; </p><p>In some respects, Assange appeared to be most annoyed by the journalistic process itself&#8212;&#8220;a craven sucking up to official sources to imbue the eventual story with some kind of official basis,&#8221; as he once put it. WikiLeaks has long maintained a complicated relationship with conventional journalism. When, in 2008, the site was sued after publishing confidential documents from a Swiss bank, the Los Angeles <i>Times</i>, the Associated Press, and ten other news organizations filed amicus briefs in support. (The bank later withdrew its suit.) But, in the Bunker one evening, Gonggrijp told me, &#8220;We are not the press.&#8221; He considers WikiLeaks an advocacy group for sources; within the framework of the Web site, he said, &#8220;the source is no longer dependent on finding a journalist who may or may not do something good with his document.&#8221;</p><p>Assange, despite his claims to scientific journalism, emphasized to me that his mission is to expose injustice, not to provide an even-handed record of events. In an invitation to potential collaborators in 2006, he wrote, &#8220;Our primary targets are those highly oppressive regimes in China, Russia and Central Eurasia, but we also expect to be of assistance to those in the West who wish to reveal illegal or immoral behavior in their own governments and corporations.&#8221; He has argued that a &#8220;social movement&#8221; to expose secrets could &#8220;bring down many administrations that rely on concealing reality&#8212;including the US administration.&#8221; </p><p>Assange does not recognize the limits that traditional publishers do. Recently, he posted military documents that included the Social Security numbers of soldiers, and in the Bunker I asked him if WikiLeaks&#8217; mission would have been compromised if he had redacted these small bits. He said that some leaks risked harming innocent people&#8212;&#8220;collateral damage, if you will&#8221;&#8212;but that he could not weigh the importance of every detail in every document. Perhaps the Social Security numbers would one day be important to researchers investigating wrongdoing, he said; by releasing the information he would allow judgment to occur in the open. </p><p>A year and a half ago, WikiLeaks published the results of an Army test, conducted in 2004, of electromagnetic devices designed to prevent IEDs from being triggered. The document revealed key aspects of how the devices functioned and also showed that they interfered with communication systems used by soldiers&#8212;information that an insurgent could exploit. By the time WikiLeaks published the study, the Army had begun to deploy newer technology, but some soldiers were still using the devices. I asked Assange if he would refrain from releasing information that he knew might get someone killed. He said that he had instituted a &#8220;harm-minimization policy,&#8221; whereby people named in certain documents were contacted before publication, to warn them, but that there were also instances where the members of WikiLeaks might get &#8220;blood on our hands.&#8221; </p><p>One member told me that Assange&#8217;s editorial policy initially made her uncomfortable, but that she has come around to his position, because she believes that no one has been unjustly harmed. Of course, such harm is not always easy to measure. When Assange was looking for board members, he contacted Steven Aftergood, who runs an e-mail newsletter for the Federation of American Scientists, and who publishes sensitive documents. Aftergood declined to participate. &#8220;When a technical record is both sensitive and remote from a current subject of controversy, my editorial inclination is to err on the side of caution,&#8221; he said. &#8220;I miss that kind of questioning on their part.&#8221; </p><p>At the same time, Aftergood told me, the overclassification of information is a problem of increasing scale&#8212;one that harms not only citizens, who should be able to have access to government records, but the system of classification itself. When too many secrets are kept, it becomes difficult to know which ones are important. Had the military released the video from the Apache to Reuters under <span class="smallcaps">FOIA</span>, it would probably not have become a film titled &#8220;Collateral Murder,&#8221; and a public-relations nightmare. </p><p>Lieutenant Colonel Lee Packnett, the spokesperson for intelligence matters for the Army, was deeply agitated when I called him. &#8220;We&#8217;re not going to give validity to WikiLeaks,&#8221; he said. &#8220;You&#8217;re not doing anything for the Army by putting us in a conversation about WikiLeaks. You can talk to someone else. It&#8217;s not an Army issue.&#8221; As he saw it, once &#8220;Collateral Murder&#8221; had passed through the news cycle, the broader counter-intelligence problem that WikiLeaks poses to the military had disappeared as well. &#8220;It went away,&#8221; he said. </p><p class="descender">With the release of &#8220;Collateral Murder,&#8221; WikiLeaks received more than two hundred thousand dollars in donations, and on April 7th Assange wrote on Twitter, &#8220;New funding model for journalism: try doing it for a change.&#8221; Just this winter, he had put the site into a state of semi-dormancy because there was not enough money to run it, and because its technical engineering needed adjusting. Assange has far more material than he can process, and he is seeking specialists who can sift through the chaotic WikiLeaks library and assign documents to volunteers for analysis. The donations meant that WikiLeaks would now be able to pay some volunteers, and in late May its full archive went back online. Still, the site remains a project in early development. Assange has been searching for the right way not only to manage it but also to get readers interested in the more arcane material there. </p><p>In 2007, he published thousands of pages of secret military information detailing a vast number of Army procurements in Iraq and Afghanistan. He and a volunteer spent weeks building a searchable database, studying the Army&#8217;s purchasing codes, and adding up the cost of the procurements&#8212;billions of dollars in all. The database catalogued mat&#233;riel that every unit had ordered: machine guns, Humvees, cash-counting machines, satellite phones. Assange hoped that journalists would pore through it, but barely any did. &#8220;I am so angry,&#8221; he said. &#8220;This was such a fucking fantastic leak: the Army&#8217;s force structure of Afghanistan and Iraq, down to the last chair, and nothing.&#8221; </p><p>WikiLeaks is a finalist for a Knight Foundation grant of more than half a million dollars. The intended project would set up a way for sources to pass documents to newspaper reporters securely; WikiLeaks would serve as a kind of numbered Swiss bank account, where information could be anonymously exchanged. (The system would allow the source to impose a deadline on the reporter, after which the document would automatically appear on WikiLeaks.) Assange has been experimenting with other ideas, too. On the principle that people won&#8217;t regard something as valuable unless they pay for it, he has tried selling documents at auction to news organizations; in 2008, he attempted this with seven thousand internal e-mails from the account of a former speechwriter for Hugo Ch&#225;vez. The auction failed. He is thinking about setting up a subscription service, where high-paying members would have early access to leaks.</p><p>But experimenting with the site&#8217;s presentation and its technical operations will not answer a deeper question that WikiLeaks must address: What is it about? The Web site&#8217;s strengths&#8212;its near-total imperviousness to lawsuits and government harassment&#8212;make it an instrument for good in societies where the laws are unjust. But, unlike authoritarian regimes, democratic governments hold secrets largely because citizens agree that they should, in order to protect legitimate policy. In liberal societies, the site&#8217;s strengths are its weaknesses. Lawsuits, if they are fair, are a form of deterrence against abuse. Soon enough, Assange must confront the paradox of his creation: the thing that he seems to detest most&#8212;power without accountability&#8212;is encoded in the site&#8217;s DNA, and will only become more pronounced as WikiLeaks evolves into a real institution. </p><p>After the press conference in Washington, I met Assange in New York, in Bryant Park. He had brought his luggage with him, because he was moving between the apartments of friends of friends. We sat near the fountain, and drank coffee. That week, Assange was scheduled to fly to Berkeley, and then to Italy, but back in Iceland the volcano was erupting again, and his flight to Europe was likely to change. He looked a bit shell-shocked. &#8220;It was surprising to me that we were seen as such an impartial arbiter of the truth, which may speak well to what we have done,&#8221; he told me. But he also said, &#8220;To be completely impartial is to be an idiot. This would mean that we would have to treat the dust in the street the same as the lives of people who have been killed.&#8221; </p><p>A number of commentators had wondered whether the video&#8217;s title was manipulative. &#8220;In hindsight, should we have called it &#8216;Permission to Engage&#8217; rather than &#8216;Collateral Murder&#8217;?&#8221; he said. &#8220;I&#8217;m still not sure.&#8221; He was annoyed by Gates&#8217;s comment on the film: &#8220;He says, &#8216;There is no before and no after.&#8217; Well, at least there is now a middle, which is a vast improvement.&#8221; Then Assange leaned forward and, in a whisper, began to talk about a leak, code-named Project G, that he is developing in another secret location. He promised that it would be news, and I saw in him the same mixture of seriousness and amusement, devilishness and intensity that he had displayed in the Bunker. &#8220;If it feels a little bit like we&#8217;re amateurs, it is because we are,&#8221; he said. &#8220;Everyone is an amateur in this business.&#8221; And then, his coffee finished, he made his way out of the park and into Times Square, disappearing among the masses of people moving this way and that.&#160;<span class="dingbat">&#9830;</span></p>
+                
+            </div>
+        
+    
+
+    
+        
+            
+                
+                    <dl id="footerlinks">
+                
+
+                
+
+                
+            
+                
+
+                
+
+                
+                    </dl>
+                
+            
+        
+
+        
+
+        
+    
+</div>
+<!-- end article body -->
+<!-- end article content -->
+
+
+    
+
+
+
+
+<div id="articleBottom">
+    
+    
+    
+
+
+    
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        <div id="contentPage_textOffer">
+            <span class="articlesText">To get more of <em>The New Yorker</em>'s signature mix of politics, culture and the arts: <strong><a href="https://w1.buysub.com/loc/NYR/ATGFailsafe" target="_blank" rel="nofollow" title="Subscribe to The New Yorker" >Subscribe Now</a></strong></span>
+        </div>
+    
+
+
+        
+
+<script type="text/javascript">
+// <!--
+
+    if (CNP && CNP.ecom) {CNP.ecom.request({
+        pid:'contentPage_textOffer',
+        tgt:'/atg/registry/RepositoryTargeters/NYR/NYR_contentPage_textOffer',
+        params:{}});}
+
+// -->
+</script>
+            
+    
+
+    
+</div>
+
+
+
+
+
+
+    <!-- start archive wrap -->
+    <div id="archivewrap" >
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </div>
+    <!-- end archive wrap -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div id="eventListHolder" style="display:none;"></div>
+<script type="text/javascript">
+    var eventList = new EventList("eventListHolder");
+    eventList.setBaseUrl("http://event.newyorker.com/");
+    var eventTracker = new EventObject("NYR", "most_viewed");
+    eventTracker.setEnvironment("PROD");
+    eventTracker.setContentId("100607fa_fact_khatchadourian");
+    eventTracker.setContentType("Article");
+    eventTracker.setFullUrl("/reporting/2010/06/07/100607fa_fact_khatchadourian");
+    eventTracker.setContentTitle("WikiLeaks and Julian Paul Assange");
+    var fullContentURL = "/reporting/2010/06/07/100607fa_fact_khatchadourian";
+    var isAbsoluteURL = fullContentURL.substring(0,8);
+    if (isAbsoluteURL.indexOf('http') == -1 && isAbsoluteURL.indexOf('https') == -1) {
+        eventList.addEvent(eventTracker);
+        eventList.writeImageTags();
+    }
+</script>
+                                
+                        </div>
+
+                        
+
+                        
+                        
+                        
+                    
+
+
+            </div>
+
+            
+            
+
+            
+            
+                    
+
+
+
+
+
+
+
+
+
+        
+        
+
+      
+         
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        
+        
+        
+
+        
+            
+            
+            
+                            
+            
+                
+                
+                    
+                    
+                     
+                    
+
+
+
+
+
+
+
+    
+
+    
+    
+        
+    
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+    
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+
+
+
+
+
+
+
+
+
+    
+    
+    
+    
+    
+        
+                
+
+
+
+
+
+
+
+
+    
+
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+    
+    
+    
+
+
+
+    
+
+
+
+    
+
+
+
+     
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+    
+
+
+
+    
+
+
+
+
+        
+        
+
+            
+        
+    
+
+
+      
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+            
+    
+
+
+
+
+
+
+
+
+
+    
+    
+    
+    
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    
+                    
+                
+
+                
+                
+            
+        
+
+            
+            
+            
+        
+            
+            
+            
+                            
+            
+                
+                
+                    
+                    
+                     
+                    
+
+
+
+
+
+
+
+    
+
+        
+        
+
+        
+        
+    
+
+    
+    
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+
+
+
+
+
+
+
+
+
+    
+    
+    
+    
+    
+        
+                
+
+
+
+
+
+
+
+
+
+
+    
+        
+        
+        
+        
+              
+
+
+
+
+           
+    
+
+
+
+            
+    
+
+
+
+
+
+
+
+
+
+    
+    
+    
+    
+
+    
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+
+
+
+
+
+
+
+
+
+    
+    
+    
+    
+    
+        
+                
+
+
+
+
+
+
+
+
+
+
+    
+        
+        
+        
+        
+              
+
+
+
+
+           
+    
+
+
+
+            
+    
+
+
+
+
+
+
+
+
+
+    
+    
+    
+    
+
+    
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+
+
+
+
+
+
+
+
+
+    
+    
+    
+    
+    
+        
+                
+
+
+
+
+
+
+
+
+
+
+    
+        
+        
+        
+        
+             
+
+
+
+
+
+
+
+
+    
+
+    
+        
+    
+    
+    
+    
+        
+    
+    
+    
+    
+
+
+
+    
+
+
+
+    
+
+
+
+     
+
+
+
+
+
+
+
+
+    
+
+
+
+
+        
+        
+    
+
+
+    
+
+
+
+
+
+
+    
+
+
+
+      
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+           
+    
+
+
+
+            
+    
+
+
+
+
+
+
+
+
+
+    
+    
+    
+    
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    
+                    
+                
+
+                
+                
+            
+        
+
+            
+                            
+            
+        
+
+            
+                            
+            
+        
+
+            
+            
+            
+        
+            
+            
+            
+                            
+            
+                
+                
+                    
+                    
+                     
+                    
+
+
+
+
+
+
+
+    
+
+    
+    
+        
+    
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+    
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+
+
+
+
+
+
+
+
+
+    
+    
+    
+    
+    
+        
+                
+
+
+
+
+
+
+
+
+    
+
+    
+        
+    
+    
+    
+        
+    
+    
+    
+    
+    
+
+
+
+    
+
+
+
+    
+
+
+
+     
+
+
+
+
+
+
+
+
+    
+
+
+
+
+        
+        
+    
+
+
+    
+
+
+
+
+
+
+    
+
+
+
+      
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+            
+    
+
+
+
+
+
+
+
+
+
+    
+    
+    
+    
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    
+                    
+                
+
+                
+                
+            
+        
+
+            
+            
+            
+        
+            
+            
+            
+                            
+            
+                
+                
+                    
+                    
+                     
+                    
+
+
+
+
+
+
+
+    
+
+    
+    
+        
+    
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+    
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+
+
+
+
+
+
+
+
+
+    
+    
+    
+    
+    
+        
+                
+
+
+
+
+
+
+
+
+    
+
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+    
+    
+    
+
+
+
+    
+
+
+
+    
+
+
+
+     
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+    
+
+
+
+    
+
+
+
+
+        
+        
+    
+
+
+      
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+            
+    
+
+
+
+
+
+
+
+
+
+    
+    
+    
+    
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    
+                    
+                
+
+                
+                
+            
+        
+
+            
+            
+            
+        
+            
+            
+            
+                            
+            
+                
+                
+                    
+                    
+                     
+                    
+
+
+
+
+
+
+
+    
+
+        
+        
+
+        
+        
+    
+
+    
+    
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+
+
+
+
+
+
+
+
+
+    
+    
+    
+    
+    
+        
+                
+
+
+
+
+
+
+
+
+
+
+    
+        
+        
+        
+        
+              
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+           
+    
+
+
+
+            
+    
+
+
+
+
+
+
+
+
+
+    
+    
+    
+    
+
+    
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+
+
+
+
+
+
+
+
+
+    
+    
+    
+    
+    
+        
+                
+
+
+
+
+
+
+
+
+
+
+    
+        
+        
+        
+        
+             
+
+
+
+
+
+
+
+
+    
+
+    
+        
+    
+    
+    
+    
+    
+    
+        
+    
+    
+
+
+
+    
+
+
+
+    
+
+
+
+     
+
+
+
+
+
+
+
+
+    
+
+
+
+
+        
+        
+    
+
+
+    
+
+
+
+
+
+
+    
+
+
+
+      
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+           
+    
+
+
+
+            
+    
+
+
+
+
+
+
+
+
+
+    
+    
+    
+    
+
+    
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+
+
+
+
+
+
+
+
+
+    
+    
+    
+    
+    
+        
+                
+
+
+
+
+
+
+
+
+
+
+    
+        
+        
+        
+        
+             
+
+
+
+
+
+
+
+
+    
+
+    
+        
+    
+    
+    
+    
+        
+    
+    
+    
+    
+
+
+
+    
+
+
+
+    
+
+
+
+     
+
+
+
+
+
+
+
+
+    
+
+
+
+
+        
+        
+    
+
+
+    
+
+
+
+
+
+
+    
+
+
+
+      
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+           
+    
+
+
+
+            
+    
+
+
+
+
+
+
+
+
+
+    
+    
+    
+    
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    
+                    
+                
+
+                
+                
+            
+        
+
+            
+                            
+            
+        
+
+            
+                            
+            
+        
+
+            
+            
+            
+        
+            
+            
+            
+                            
+            
+                
+                
+                    
+                    
+                     
+                    
+
+
+
+
+
+
+
+    
+
+    
+    
+        
+    
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+    
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+
+
+
+
+
+
+
+
+
+    
+    
+    
+    
+    
+        
+                
+
+
+
+
+
+
+
+
+    
+
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+    
+    
+    
+
+
+
+    
+
+
+
+    
+
+
+
+
+        
+        
+    
+
+
+    
+
+
+
+     
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+    
+
+
+
+      
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+            
+    
+
+
+
+
+
+
+
+
+
+    
+    
+    
+    
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    
+                    
+                
+
+                
+                
+            
+        
+
+            
+            
+            
+        
+            
+            
+            
+                            
+            
+                
+                
+                    
+                    
+                     
+                    
+
+
+
+
+
+
+
+    
+
+    
+    
+        
+    
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+    
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+
+
+
+
+
+
+
+
+
+    
+    
+    
+    
+    
+        
+                
+
+
+
+
+
+
+
+
+    
+
+    
+        
+    
+    
+    
+        
+    
+    
+    
+    
+    
+
+
+
+    
+
+
+
+    
+
+
+
+     
+
+
+
+
+
+
+
+
+    
+
+
+
+
+        
+        
+    
+
+
+    
+
+
+
+
+
+
+    
+
+
+
+      
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+            
+    
+
+
+
+
+
+
+
+
+
+    
+    
+    
+    
+
+    
+    
+    
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+
+
+
+
+
+
+
+
+
+    
+    
+    
+    
+    
+        
+                
+
+
+
+
+
+
+
+
+    
+
+    
+        
+    
+    
+    
+    
+    
+    
+        
+    
+    
+
+
+
+    
+
+
+
+    
+
+
+
+     
+
+
+
+
+
+
+
+
+    
+
+
+
+
+        
+        
+    
+
+
+    
+
+
+
+
+
+
+    
+
+
+
+      
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+            
+    
+
+
+
+
+
+
+
+
+
+    
+    
+    
+    
+
+    
+    
+    
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+
+
+
+
+
+
+
+
+
+    
+    
+    
+    
+    
+        
+                
+
+
+
+
+
+
+
+
+    
+
+    
+    
+    
+    
+    
+    
+    
+
+
+
+    
+
+
+
+    
+
+
+
+     
+
+
+
+
+
+
+
+
+    
+
+
+
+
+        
+        
+    
+
+
+    
+
+
+
+
+
+
+    
+
+
+
+      
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+            
+    
+
+
+
+
+
+
+
+
+
+    
+    
+    
+    
+
+    
+    
+    
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+
+
+
+
+
+
+
+
+
+    
+    
+    
+    
+    
+        
+                
+
+
+
+
+
+
+
+
+    
+
+    
+    
+    
+    
+    
+    
+        
+    
+    
+
+
+
+    
+
+
+
+    
+
+
+
+     
+
+
+
+
+
+
+
+
+    
+
+
+
+
+        
+        
+    
+
+
+    
+
+
+
+
+
+
+    
+
+
+
+      
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+            
+    
+
+
+
+
+
+
+
+
+
+    
+    
+    
+    
+
+    
+    
+    
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+
+
+
+
+
+
+
+
+
+    
+    
+    
+    
+    
+        
+                
+
+
+
+
+
+
+
+
+    
+
+    
+    
+    
+    
+    
+    
+    
+
+
+
+    
+
+
+
+    
+
+
+
+     
+
+
+
+
+
+
+
+
+    
+
+
+
+
+        
+        
+    
+
+
+    
+
+
+
+
+
+
+    
+
+
+
+      
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+            
+    
+
+
+
+
+
+
+
+
+
+    
+    
+    
+    
+
+    
+    
+    
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+
+
+
+
+
+
+
+
+
+    
+    
+    
+    
+    
+        
+                
+
+
+
+
+
+
+
+
+    
+
+    
+    
+    
+    
+    
+    
+        
+    
+    
+
+
+
+    
+
+
+
+    
+
+
+
+     
+
+
+
+
+
+
+
+
+    
+
+
+
+
+        
+        
+    
+
+
+    
+
+
+
+
+
+
+    
+
+
+
+      
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+            
+    
+
+
+
+
+
+
+
+
+
+    
+    
+    
+    
+
+    
+    
+    
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+
+
+
+
+
+
+
+
+
+    
+    
+    
+    
+    
+        
+                
+
+
+
+
+
+
+
+
+    
+
+    
+        
+    
+    
+    
+    
+    
+    
+    
+
+
+
+    
+
+
+
+    
+
+
+
+     
+
+
+
+
+
+
+
+
+    
+
+
+
+
+        
+        
+    
+
+
+    
+
+
+
+
+
+
+    
+
+
+
+      
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+            
+    
+
+
+
+
+
+
+
+
+
+    
+    
+    
+    
+
+    
+    
+    
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+
+
+
+
+
+
+
+
+
+    
+    
+    
+    
+    
+        
+                
+
+
+
+
+
+
+
+
+    
+
+    
+        
+    
+    
+    
+    
+    
+    
+        
+    
+    
+
+
+
+    
+
+
+
+    
+
+
+
+     
+
+
+
+
+
+
+
+
+    
+
+
+
+
+        
+        
+    
+
+
+    
+
+
+
+
+
+
+    
+
+
+
+      
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+            
+    
+
+
+
+
+
+
+
+
+
+    
+    
+    
+    
+
+    
+    
+    
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+
+
+
+
+
+
+
+
+
+    
+    
+    
+    
+    
+        
+                
+
+
+
+
+
+
+
+
+    
+
+    
+        
+    
+    
+    
+    
+    
+    
+    
+
+
+
+    
+
+
+
+    
+
+
+
+     
+
+
+
+
+
+
+
+
+    
+
+
+
+
+        
+        
+    
+
+
+    
+
+
+
+
+
+
+    
+
+
+
+      
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+            
+    
+
+
+
+
+
+
+
+
+
+    
+    
+    
+    
+
+    
+    
+    
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+
+
+
+
+
+
+
+
+
+    
+    
+    
+    
+    
+        
+                
+
+
+
+
+
+
+
+
+    
+
+    
+    
+    
+    
+        
+    
+    
+    
+        
+    
+    
+
+
+
+    
+
+
+
+    
+
+
+
+     
+
+
+
+
+
+
+
+
+    
+
+
+
+
+        
+        
+    
+
+
+    
+
+
+
+
+
+
+    
+
+
+
+      
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+            
+    
+
+
+
+
+
+
+
+
+
+    
+    
+    
+    
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    
+                    
+                
+
+                
+                
+            
+        
+
+            
+                            
+            
+        
+
+            
+                            
+            
+        
+
+            
+                            
+            
+        
+
+            
+                            
+            
+        
+
+            
+                            
+            
+        
+
+            
+                            
+            
+        
+
+            
+                            
+            
+        
+
+            
+                            
+            
+        
+
+            
+                            
+            
+        
+
+            
+            
+            
+        
+    
+
+    
+
+
+
+
+      
+
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        
+            <!-- start yrail -->
+
+            
+                    <div id="yrail" class="py">
+
+                        
+                        <div class="yrcomponent yrail-search">
+                            
+
+
+
+
+
+
+
+
+        <form name="search_form_rail" id="search_form_rail" action="/search" class="paginatorForm" method="get">
+            <div class="row">
+                <input type="hidden" name="qt" value="dismax" />
+                <input type="hidden" name="sort" value="score desc" />
+                <input type="text" name="query" id="results-search-rail" value="Search newyorker.com" />
+                <button name="submit" class="submit" id="submit_rail" title="Search" type="submit">Go</button>
+            </div>
+        </form>
+    
+                        </div>
+
+                        
+                        <script type="text/javascript">
+    //<!--
+    function isLoggedIn() {
+        var cookie_name="amg_user";
+        var nameEQ = cookie_name + "=";
+        var ca = document.cookie.split(';');
+        for (var i=0; i<ca.length; i++) {
+            var c = ca[i];
+            while (c.charAt(0)==' ') c = c.substring(1,c.length);
+            if (c.indexOf(nameEQ) == 0) return true;
+        }
+        return false;
+    }
+
+    function getCookie(cname){
+        var C = document.cookie.split(';'), c;
+        while(c = C.pop()) {
+            c = c.replace(/^\s*/, '');
+            if (c.indexOf(cname+'=') == 0){
+                return c.substring(cname.length + 1, c.length);
+            }
+        }
+        return false;
+    }
+
+    function username(charLimit){
+        var aur = getCookie('amg_user_record');
+        var username = aur ? aur.replace(/.*username=([^|]+).*/,"$1") : false;
+
+        // check length.
+        var nameLen = username.length;
+        if (nameLen > charLimit) {
+          return username.substring(0, length+22) + "&#8230;";
+        }
+
+        return username;
+    }
+
+    function contestname(){
+        var pathObj = window.location.pathname.toString().split("/");
+        for (var i = 0; i < pathObj.length; i++){
+          if ( pathObj[i] == 'photocontests'){
+              var contestname = pathObj[i+1];
+          }
+        }
+        return contestname;
+    }
+    //-->
+</script>
+
+<div id="loginbx">
+    <div id="login">
+        <script type="text/javascript">
+            //<!--
+            var splitreg = "";
+            if (window.location.pathname.match(/\/photocontests/) != null){
+                splitreg="/photocontests/"+contestname();
+            }
+            if (isLoggedIn()) {
+                document.write('<span id="ui">'+ username(23) + ' <span id="opts"><a href="/user'+ splitreg +'/logout" class="first">Logout<\/a> &#124; <a href="/magazine'+ splitreg +'/registration?intcid=registration_help">Help<\/a> &#124; <a href="/user'+ splitreg +'/update">Profile<\/a><\/span><\/span>');
+            } else {
+                if(window.location.pathname.match(/\/magazine\/registration/) == null){
+                    document.write('<span id="ui" class="welcome">Welcome <span id="opts"><a href="/user'+ splitreg +'/login" class="first">Log in<\/a> &#124; <a href="/magazine'+ splitreg +'/registration?intcid=registration_help">Help<\/a> &#124; <a href="/user'+ splitreg +'/registration">Register<\/a><\/span><\/span>');
+                } else {
+                    document.write('<span id="ui" class="welcome">Welcome <span id="opts"><a href="/user'+ splitreg +'/login" class="first">Log in<\/a> &#124; <a href="/user'+ splitreg +'/registration">Register<\/a><\/span><\/span>');
+                }
+            }
+            //-->
+        </script>
+    </div>
+</div>
+
+
+
+                        
+                        
+                            <!-- FEATURES POSTION 1 -->
+                            <div id="position1_yrail"><div id="ps1_fs1_yrail" class="features tabs"><div class="feature-tabs">
+<h5 class="feature-label most-viewed"></h5>
+<h2 class="tab" id="tab-most-viewed">Most Popular</h2>
+<div id="most-viewed" class="tab-content"></div><h2 class="tab" id="tab-most-emailed">MOST E-MAILED</h2>
+<div id="most-emailed" class="tab-content"></div><h2 class="tab" id="ps1_fs1_features-tab-3">This Issue</h2>
+            <div class="tab-content"><div class="feature manual last">
+    
+        
+        <h3 class="header">
+            
+                This Issue
+            
+        </h3>
+        <div class="blurb">
+            
+            
+
+            
+            
+
+            
+            
+
+            
+            
+                
+                
+                    
+
+                    
+                            
+                        
+
+                    
+
+                    
+                        
+                            <ul class="links">
+                        
+
+                        <li class=" first">
+                            
+                                    <a href="/talk/comment/2010/12/20/101220taco_talk_remnick" >David Remnick: The trials of Mikhail Khodorkovsky.</a> 
+                                
+                        </li>
+
+                        
+                    
+
+                    
+                    
+                    
+                    
+                
+                    
+
+                    
+
+                    
+
+                    
+                        
+
+                        <li class="blurb-links-even">
+                            
+                                    <a href="/reporting/2010/12/20/101220fa_fact_paumgarten" >Nick Paumgarten: The many worlds of a video-game artist.</a> 
+                                
+                        </li>
+
+                        
+                    
+
+                    
+                    
+                    
+                    
+                
+                    
+
+                    
+
+                    
+
+                    
+                        
+
+                        <li>
+                            
+                                    <a href="/arts/critics/books/2010/12/20/101220crbo_books_crain" >Caleb Crain: Was the Tea Party even such a good idea the first time around?</a> 
+                                
+                        </li>
+
+                        
+                    
+
+                    
+                    
+                    
+                    
+                
+                    
+
+                    
+
+                    
+
+                    
+                        
+
+                        <li class="blurb-links-even">
+                            
+                                    <a href="/arts/critics/books/2010/12/20/101220crbo_books_mishra" >Pankaj Mishra: Mao and the Maoists.</a> 
+                                
+                        </li>
+
+                        
+                    
+
+                    
+                    
+                    
+                    
+                
+                    
+
+                    
+                            
+                        
+
+                    
+
+                    
+                        
+
+                        <li class=" last">
+                            
+                                    <a href="/talk/financial/2010/12/20/101220ta_talk_surowiecki" >James Surowiecki: What&#8217;s the right price for the hot new thing?</a> 
+                                
+                        </li>
+
+                        
+                            </ul>
+                        
+                    
+
+                    
+                    
+                    
+                    
+                
+            
+
+            
+            
+                
+            
+        </div></div>
+    
+        </div>
+        </div></div><div id="ps1_fs2_yrail" class="features set17">
+
+    
+    
+        <h2 class="features-header header">
+            
+                    
+                        
+                                 
+                            
+                    
+                
+        </h2><div class="feature manual first">
+
+
+
+
+
+
+
+        
+        
+        <h5 class="rubric"><span><span style='font-family: arial, sans-serif;font-size:10px;'>THE MAGAZINE: DECEMBER 20 &#38; 27, 2010</span></span></h5>
+        <div class="blurb">
+            
+            
+                <div class="sub-header">
+                    
+                            <a href="http://www.newyorker.com/magazine/toc">Table of Contents</a> | <a href="http://archives.newyorker.com/">Digital Edition</a> | <a href="http://www.newyorker.com/go/onsiteROS1">iPad</a>  
+                        
+                </div>
+            
+
+            
+            
+
+            
+            
+
+            
+            
+                
+                
+                    
+
+                    
+                            
+                        
+
+                    
+
+                    
+
+                    
+                    
+                    
+                    
+                
+            
+
+            
+            
+                
+            
+        </div></div></div></div>
+                        
+
+                        
+
+                        
+                        <div class="yrail_ads">
+                            <div class="yrail_ad_wrap">
+                                
+
+
+
+
+
+
+
+
+
+
+        <div id="yrailTop300x250_frame" class="displayAd"></div>
+    <script type="text/javascript">
+    //<!--
+        
+        CN.dart.call('yrailTop', {sz:'300x250', kws:["top"]});
+    //-->
+    </script>
+    
+
+                            </div>
+                        </div>
+
+                        
+                        <div class="yrcomponent">
+                            <div class="yrpromo">
+                                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        <div id="global_rightRail_A"><a href="https://w1.buysub.com/loc/NYR/ATGFailsafe" target="_blank" rel="nofollow" title="Subscribe to The New Yorker"><img src="/images/ecom/failsafe/right_rail_A.gif" alt="Subscribe to The New Yorker" border="0" /></a></div>
+    
+
+
+        
+
+<script type="text/javascript">
+// <!--
+
+    if (CNP && CNP.ecom) {CNP.ecom.request({
+        pid:'global_rightRail_A',
+        tgt:'/atg/registry/RepositoryTargeters/NYR/NYR_global_rightRail_A',
+        params:{}});}
+
+// -->
+</script>
+            
+    
+
+                            </div>
+                        </div>
+
+                        
+                        <div class="yrail_textads">
+                            <div class="yrail_ad_wrap">
+                                
+
+
+
+
+
+
+
+
+
+
+        <div id="yrailText4x1_frame" class="displayAd"></div>
+    <script type="text/javascript">
+    //<!--
+        
+        CN.dart.call('yrailText', {sz:'4x1', kws:["top"]});
+    //-->
+    </script>
+    
+
+                            </div>
+                        </div>
+
+
+                        
+                           <div id="sponsorship-ad" class="sponsor-ad">
+                               <div class="yrail_sponsor_wrap">
+                                
+
+
+
+
+
+
+
+
+
+
+        <div id="sponsor120x60_frame" class="displayAd"></div>
+    <script type="text/javascript">
+    //<!--
+        
+        CN.dart.call('sponsor', {sz:'120x60', kws:[], collapse: true});
+    //-->
+    </script>
+    
+
+                            </div>
+                            </div>
+                        
+                        
+
+                        
+                        
+                            <!-- FEATURES POSTION 2 -->
+                            <div id="position2_yrail"><div id="ps2_fs1_yrail" class="features set7"><div class="feature manual imagebottom first">
+    
+        
+        <h3 class="header">
+            
+                <a href="/go/onsiteROS1">IPAD APP</a>
+            
+        </h3>
+        <div class="blurb">
+            
+            
+
+            
+            
+                <div class="text"><em>Every story, every cartoon, every Monday.</em></div>
+            
+
+            
+            
+
+            
+            
+
+            
+            
+                
+            
+        </div>
+
+                
+                
+
+                
+
+
+
+
+
+
+
+        
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+    
+            
+        
+
+
+
+
+
+    
+    
+            
+            
+        
+
+    
+    
+        
+            
+            
+                
+            
+        
+    
+
+    
+    
+
+        <div id="media-count-1-container" class="media">
+
+            
+                
+                        
+                        
+
+
+
+
+
+
+
+
+      
+  
+
+
+
+
+    
+        
+            
+                
+                
+            
+        
+    
+
+
+
+
+    <div class="photo" id="media-count-1">
+        
+                <div class="w"><a href="/go/onsiteROS1"><img src="/images/2010/12/20/g290/101220_ipadyrail_g290.jpg" alt="" /></a></div>
+            
+
+        
+    </div>
+
+
+
+
+
+
+                        
+                    
+            
+                
+            
+
+        </div></div></div><div id="ps2_fs2_yrail" class="features set7"><div class="feature manual imagebottom first">
+    
+        
+        <h3 class="header">
+            
+                Follow Us
+            
+        </h3>
+        <div class="blurb">
+            
+            
+
+            
+            
+                <div class="text"><img src="/images/permanent/perm_yrail_follow_on3.jpg" alt="Follow The New Yorker on Facebook, Twitter, Tumblr, iTunes, Foursquare, RSS" width="274" height="48" usemap="#tnyfollowon"/>
+
+<map name="tnyfollowon" id="tnyfollowon">
+<area shape="rect" coords="45, 12, 73, 36" href="http://www.facebook.com/newyorker" target="_blank" alt="Facebook">
+<area shape="rect" coords="79, 12, 104, 36" href="http://www.twitter.com/newyorker" target="_blank" alt="Twitter">
+<area shape="rect" coords="110, 12, 134, 36" href="http://newyorker.tumblr.com" target="_blank" alt="Tumblr">
+<area shape="rect" coords="140, 12, 164, 36" href="http://itunes.apple.com/us/artist/the-new-yorker/id331376890" target="_blank" alt="iTunes">
+<area shape="rect" coords="170, 12, 194, 36" href="http://foursquare.com/newyorker" target="_blank" alt="Foursquare">
+<area shape="rect" coords="200, 12, 224, 36" href="http://www.newyorker.com/services/rss/feeds/everything.xml" target="_blank" alt="RSS">
+</map></div>
+            
+
+            
+            
+
+            
+            
+
+            
+            
+                
+            
+        </div></div></div></div>
+                        
+
+                        
+
+                        
+                        
+                            <!-- FEATURES POSTION 3 -->
+                            <div id="position3_yrail"><div id="ps3_fs1_yrail" class="features tabs"><div class="feature-tabs">
+            
+        
+        
+            <h2 class="tab" id="ps3_fs1_features-tab-1">Newsletters</h2>
+            <div class="tab-content">
+<div class="feature" id="newsletter-form">
+    <h5 class="feature-label newsletters"></h5>
+    <form name="newslettersForm" action="https://secure.newyorker.com/services/newsletters" method="post">
+        <fieldset>
+        <input type="hidden" name="toolkit.application" value="newsletter" />
+        <input type="hidden" name="toolkit.applicationId" value="" />
+        <input type="hidden" name="formName" value="shortForm" />
+        <input type="hidden" name="partnerCode" value="" />
+        <input type="hidden" name="sourceCode" value="" />
+        <!--start newsletter input -->
+        
+            <ul class="collapse">
+    
+    <li>
+                     
+                        
+                        <input id="newsletter.217" name="newsletterAndVersions" value="newsletter.217" type="checkbox" />
+                         
+                         <label for="newsletter.217"></label>
+                        <div><strong>This Week:</strong> Links to articles and Web-only features in your inbox every Monday.</div>
+                    <input type="hidden" name="handler.newsletter" value="handler.newsletter.217." />
+<input type="hidden" name="handler.newsletter.217.newsletterId" value="217" />
+<input type="hidden" name="handler.newsletter.217.isRequired" value="true" />
+
+                    </li>
+                
+            
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                
+            
+        
+            
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                
+            
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                
+                    <li>
+                     
+                        
+                        <input id="newsletter.442" name="newsletterAndVersions" value="newsletter.442" type="checkbox" />
+                         
+                         <label for="newsletter.442"></label>
+                        <div><strong>Cartoons:</strong> A weekly note from the <i>New Yorker</i>'s cartoon editor.</div>
+                    <input type="hidden" name="handler.newsletter" value="handler.newsletter.442." />
+<input type="hidden" name="handler.newsletter.442.newsletterId" value="442" />
+<input type="hidden" name="handler.newsletter.442.isRequired" value="true" />
+
+                    </li>
+    </ul><fieldset>
+            <label for="newsletter-email" class="replace"></label>
+              <div>
+              <input name="email" id="newsletter-email" type="text" />
+              <button type="submit" name="submit-newsletter" id="submit-newsletter" ></button>
+              </div>
+        </fieldset>
+          
+        <!--end  newsletter input -->
+        </fieldset>
+    </form>
+    <div id="newsletter-disclaimer">
+      
+    </div>
+</div>
+    
+        </div><h2 class="tab" id="ps3_fs1_features-tab-2">Podcasts</h2>
+            <div class="tab-content"><div class="feature manual even">
+    
+        
+        <h3 class="header">
+            
+                Podcasts
+            
+        </h3>
+        <div class="blurb">
+            
+            
+
+            
+            
+
+            
+            
+
+            
+            
+                
+                
+                    
+
+                    
+                            
+                        
+
+                    
+
+                    
+                        
+                            <ul class="links">
+                        
+
+                        <li class=" first">
+                            
+                                    <a href="http://itunes.apple.com/us/artist/the-new-yorker/id331376890" >Fiction writers read favorite stories, author interviews, a weekly political roundtable. Subscribe via iTunes</a> 
+                                
+                        </li>
+
+                        
+                            </ul>
+                        
+                    
+
+                    
+                    
+                    
+                    
+                
+            
+
+            
+            
+                
+            
+        </div></div>
+    
+        </div><h2 class="tab" id="ps3_fs1_features-tab-3">Feeds</h2>
+            <div class="tab-content"><div class="feature manual last">
+    
+        
+        <h3 class="header">
+            
+                Feeds
+            
+        </h3>
+        <div class="blurb">
+            
+            
+
+            
+            
+
+            
+            
+
+            
+            
+                
+                
+                    
+
+                    
+                            
+                        
+
+                    
+
+                    
+                        
+                            <ul class="links">
+                        
+
+                        <li class=" first">
+                            
+                                    <a href="/services/rss/summary" >Keep up with <em>The New Yorker</em> and newyorker.com using your favorite RSS reader.</a> 
+                                
+                        </li>
+
+                        
+                            </ul>
+                        
+                    
+
+                    
+                    
+                    
+                    
+                
+            
+
+            
+            
+                
+            
+        </div></div>
+    
+        </div>
+        </div></div><div id="ps3_fs2_yrail" class="features set6"><div class="feature manual imagetop first">
+        <div class="blurb">
+            
+            
+                <div class="sub-header">
+                    
+                            <em class="de"></em>Available to subscribers via the <a href="/go/digitaledition/">digital edition</a>.
+                        
+                </div>
+            
+
+            
+            
+
+            
+            
+
+            
+            
+
+            
+            
+                
+            
+        </div></div></div><div id="ps3_fs3_yrail" class="features set17">
+
+    
+    
+        <h2 class="features-header header">
+            
+                    
+                        
+                                More From The New Yorker
+                            
+                    
+                
+        </h2><div class="feature manual first">
+    
+        
+        <h3 class="header">
+            
+                <a href="http://www.cartoonbank.com/invt/136229/">Cartoons of the Year 2010</a>
+            
+        </h3>
+        <div class="blurb">
+            
+            
+                <div class="sub-header">
+                    
+                            <a href="http://www.cartoonbank.com/invt/136229/">A special edition with 300 cartoons and an introduction by Roz Chast. Available at newsstands and the Cartoon Bank.</a>
+                        
+                </div>
+            
+
+            
+            
+
+            
+            
+
+            
+            
+
+            
+            
+                
+            
+        </div></div><div class="feature manual even">
+    
+        
+        <h3 class="header">
+            
+                <a href="http://fora.tv/conference/new_yorker_festival_2010">The New Yorker Festival</a>
+            
+        </h3>
+        <div class="blurb">
+            
+            
+                <div class="sub-header">
+                    
+                            <a href="http://fora.tv/conference/new_yorker_festival_2010">Streaming video of Ian Frazier, Cynthia Nixon, Stephen King, Annie Proulx, and more.</a>
+                        
+                </div>
+            
+
+            
+            
+
+            
+            
+
+            
+            
+
+            
+            
+                
+            
+        </div></div><div class="feature">
+    
+        
+        <h3 class="header">
+            
+                <a href="http://www.newyorker.com/go/digitaledition">Digital Edition</a>
+            
+        </h3>
+        <div class="blurb">
+            
+            
+                <div class="sub-header">
+                    
+                            <a href="http://www.newyorker.com/go/digitaledition">A Web-based replica of our latest issue and complete archive</a>
+                        
+                </div>
+            
+
+            
+            
+
+            
+            
+
+            
+            
+
+            
+            
+                
+            
+        </div></div><div class="feature even">
+    
+        
+        <h3 class="header">
+            
+                <a href="http://www.amazon.com/The-New-Yorker/dp/B001O2SCKI/">Kindle edition</a>
+            
+        </h3>
+        <div class="blurb">
+            
+            
+                <div class="sub-header">
+                    
+                            <a href="http://www.amazon.com/The-New-Yorker/dp/B001O2SCKI/">Get the magazine on your Amazon e-reader.</a>
+                        
+                </div>
+            
+
+            
+            
+
+            
+            
+
+            
+            
+
+            
+            
+                
+            
+        </div></div><div class="feature">
+    
+        
+        <h3 class="header">
+            
+                <a href="http://search.barnesandnoble.com/The-New-Yorker/Cond-Nast/e/2940000280942">Nook Edition</a>
+            
+        </h3>
+        <div class="blurb">
+            
+            
+                <div class="sub-header">
+                    
+                            <a href="http://search.barnesandnoble.com/The-New-Yorker/Cond-Nast/e/2940000280942">Get the magazine on your Barnes & Noble e-reader.</a>
+                        
+                </div>
+            
+
+            
+            
+
+            
+            
+
+            
+            
+
+            
+            
+                
+            
+        </div></div><div class="feature even">
+    
+        
+        <h3 class="header">
+            
+                <a href="http://itunes.apple.com/us/app/the-new-yorker-animated-cartoons/id307779867?mt=8">Animated Cartoons on the Go</a>
+            
+        </h3>
+        <div class="blurb">
+            
+            
+                <div class="sub-header">
+                    
+                            <a href="http://itunes.apple.com/us/app/the-new-yorker-animated-cartoons/id307779867?mt=8">Download the app from the iTunes store.</a>
+                        
+                </div>
+            
+
+            
+            
+
+            
+            
+
+            
+            
+
+            
+            
+                
+            
+        </div></div><div class="feature manual">
+    
+        
+        <h3 class="header">
+            
+                <a href="http://www.audible.com/newyorker">Audio Edition</a>
+            
+        </h3>
+        <div class="blurb">
+            
+            
+                <div class="sub-header">
+                    
+                            <a href="http://www.audible.com/newyorker">Subscribe to a weekly download of selected articles from the magazine, at Audible.</a>
+                        
+                </div>
+            
+
+            
+            
+
+            
+            
+
+            
+            
+
+            
+            
+                
+            
+        </div></div><div class="feature manual even">
+    
+        
+        <h3 class="header">
+            
+                <a href="http://www.newyorkerstore.com/">The New Yorker Store</a>
+            
+        </h3>
+        <div class="blurb">
+            
+            
+                <div class="sub-header">
+                    
+                            <a href="http://www.newyorkerstore.com/"><em>New Yorker</em> books, art prints, and logo wear. </a>
+                        
+                </div>
+            
+
+            
+            
+
+            
+            
+
+            
+            
+
+            
+            
+                
+            
+        </div></div><div class="feature manual">
+    
+        
+        <h3 class="header">
+            
+                <a href="http://www.cartoonbank.com/?utm_medium=referral&utm_source=NewYorker&utm_content=TNYRightRail">The Cartoon Bank</a>
+            
+        </h3>
+        <div class="blurb">
+            
+            
+                <div class="sub-header">
+                    
+                            <a href="http://www.cartoonbank.com/?utm_medium=referral&utm_source=NewYorker&utm_content=TNYRightRail">Cartoon and cover art; prints, T-shirts, licensing, and other gifts</a>
+                        
+                </div>
+            
+
+            
+            
+
+            
+            
+
+            
+            
+
+            
+            
+                
+            
+        </div></div><div class="feature last even">
+    
+        
+        <h3 class="header">
+            
+                <a href="http://www.newyorkeronthetown.com/">On the Town</a>
+            
+        </h3>
+        <div class="blurb">
+            
+            
+                <div class="sub-header">
+                    
+                            <a href="http://www.newyorkeronthetown.com/">Exclusive events and offers from <em>The New Yorker</em>&#8217;<em>s</em> advertising and promotion department.</a>
+                        
+                </div>
+            
+
+            
+            
+
+            
+            
+
+            
+            
+
+            
+            
+                
+            
+        </div></div></div></div>
+                        
+
+                        
+
+
+                        
+
+                        
+
+
+                        
+                        <div class="yrail_ads">
+                            <div class="yrail_ad_wrap">
+                                
+
+
+
+
+
+
+
+
+
+
+        <div id="yrailMid300x250_frame" class="displayAd"></div>
+    <script type="text/javascript">
+    //<!--
+        
+        CN.dart.call('yrailMid', {sz:'300x250', kws:["mid"]});
+    //-->
+    </script>
+    
+
+                            </div>
+                        </div>
+
+                        
+                        <div class="yrcomponent">
+                            <div class="yrpromo">
+                                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        <div id="global_rightRail_B"></div>
+    
+
+
+        
+
+<script type="text/javascript">
+// <!--
+
+    if (CNP && CNP.ecom) {CNP.ecom.request({
+        pid:'global_rightRail_B',
+        tgt:'/atg/registry/RepositoryTargeters/NYR/NYR_global_rightRail_B',
+        params:{}});}
+
+// -->
+</script>
+            
+    
+
+                            </div>
+                        </div>
+
+                        
+                        
+
+                        
+
+                        
+
+                    </div>
+                
+        <!-- end yrail -->
+        
+
+        
+
+
+
+
+
+
+        
+        
+        
+
+    
+
+
+                
+        </div>
+
+        
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+    
+
+
+
+
+
+
+
+
+
+       
+       
+   
+
+<div id="footer">
+    <ul id="ft_1">
+    <li><a href="/magazine/aboutus/">About Us</a></li>
+    <li><a href="/contact/contactus">Contact Us</a></li>
+    <li><a href="/services/newsletters/demographics">Newsletters</a></li>
+    <li><a href="/go/blogs">Blogs</a></li>
+    <li><a href="/archive">Archive</a></li>
+    <li><a href="/services/presscenter">Press Center</a></li>
+    <li class="rss"><a href="/services/rss/summary" title="RSS Feeds">RSS Feeds</a></li>
+</ul>
+    <div id="global-footer">
+        <div class="global-footer-nav">
+            
+            
+            
+            
+            
+            <ul>
+                
+                        <li class="first" id="global-footer-nav-subservices"><a href="http://w1.buysub.com/servlet/CSGateway?cds_mag_code=NYR">Subscription Services</a></li>
+                    
+                <li id="global-footer-nav-careers"><a href="http://www.condenastcareers.com">Careers</a></li>
+                <li id="global-footer-nav-store"><a href="http://www.thenewyorkerstore.com">New Yorker Store</a></li>
+                <li id="global-footer-nav-reprints"><a href="mailto:permissions@condenast.com">Reprints/Permissions</a></li>
+                <li class="last" id="global-footer-nav-mediakit"><a href="http://www.condenastmediakit.com/nyr/">The New Yorker Media Kit</a></li>
+                
+            </ul>
+        </div>
+        <div class="global-footer-columns-container">
+            <div class="global-footer-logo">
+                <h3>Cond&eacute; Nast Digital</h3>
+            </div>
+            <div class="global-footer-more-about-links">
+                <p>More news, politics, culture, business, and technology:</p>
+<ul>
+    <li><a href="http://www.architecturaldigest.com">Architectural Digest</a></li>
+    <li><a href="http://www.golfdigest.com">Golf Digest</a></li>
+    <li><a href="http://www.gq.com">GQ</a></li>
+    <li><a href="http://www.vanityfair.com">Vanity Fair</a></li>
+    <li><a href="http://www.wired.com">Wired</a></li>
+ </ul>
+            </div>
+            <div class="global-footer-subscriptions">
+                <form action="" name="sub_dropmenus" id="sub_dropmenus">
+                    <h3>Subscribe to a magazine:</h3>
+                    <select onchange="(this.options[this.selectedIndex].value) ? window.open(this.options[this.selectedIndex].value) : null" name="sub_list" id="sub_list" size="1">
+                        <option selected="selected" value="">Subscribe to a magazine</option>
+                        <option value=""/>
+                        <option value="http://www.magazinestoresubscriptions.com?source=univdropdown">View All Titles</option>
+
+                        <option value="">- - - - - - - - - - - - - -</option>
+                        <option value="https://www.magazinestoresubscriptions.com/webapp/wcs/stores/servlet/Subscriptions_Allure?source=SITEFOOTER">Allure</option>
+                        <option value="https://www.magazinestoresubscriptions.com/webapp/wcs/stores/servlet/Subscriptions_ArchitecturalDigest?source=SITEFOOTER">Architectural Digest</option>
+                        <option value="https://www.magazinestoresubscriptions.com/webapp/wcs/stores/servlet/Subscriptions_BonAppetite?source=SITEFOOTER">Bon App&eacute;tit</option>
+                        <option value="https://www.magazinestoresubscriptions.com/webapp/wcs/stores/servlet/Subscriptions_Brides?source=SITEFOOTER">Brides</option>
+                        <option value="https://www.magazinestoresubscriptions.com/webapp/wcs/stores/servlet/Subscriptions_CondeNastTraveler?source=SITEFOOTER">Cond&eacute; Nast Traveler</option>
+                        <option value="https://www.magazinestoresubscriptions.com/webapp/wcs/stores/servlet/Subscriptions_Details?source=SITEFOOTER">Details</option>
+                        <option value="https://www.magazinestoresubscriptions.com/webapp/wcs/stores/servlet/Subscriptions_Glamour?source=SITEFOOTER">Glamour</option>
+                        <option value="https://www.magazinestoresubscriptions.com/webapp/wcs/stores/servlet/Subscriptions_GolfDigest?source=SITEFOOTER">Golf Digest</option>
+                        <option value="https://www.magazinestoresubscriptions.com/webapp/wcs/stores/servlet/Subscriptions_GolfWorld?source=SITEFOOTER">Golf World</option>
+                        <option value="https://www.magazinestoresubscriptions.com/webapp/wcs/stores/servlet/Subscriptions_GQ?source=SITEFOOTER">GQ</option>
+                        <option value="https://www.magazinestoresubscriptions.com/webapp/wcs/stores/servlet/Subscriptions_Lucky?source=SITEFOOTER">Lucky</option>
+                        <option value="https://www.magazinestoresubscriptions.com/webapp/wcs/stores/servlet/Subscriptions_Self?source=SITEFOOTER">Self</option>
+                        <option value="https://www.magazinestoresubscriptions.com/webapp/wcs/stores/servlet/Subscriptions_TeenVogue?source=SITEFOOTER">Teen Vogue</option>
+                        <option value="https://www.magazinestoresubscriptions.com/webapp/wcs/stores/servlet/Subscriptions_NewYorker?source=SITEFOOTER">The New Yorker</option>
+                        <option value="https://www.magazinestoresubscriptions.com/webapp/wcs/stores/servlet/Subscriptions_VanityFair?source=SITEFOOTER">Vanity Fair</option>
+                        <option value="https://www.magazinestoresubscriptions.com/webapp/wcs/stores/servlet/Subscriptions_Vogue?source=SITEFOOTER">Vogue</option>
+                        <option value="https://www.magazinestoresubscriptions.com/webapp/wcs/stores/servlet/Subscriptions_W?source=SITEFOOTER">W</option>
+                        <option value="https://www.magazinestoresubscriptions.com/webapp/wcs/stores/servlet/Subscriptions_Wired?source=SITEFOOTER">Wired</option>
+                    </select>
+                </form>
+            </div>
+            <div class="global-footer-sister-sites">
+                <form action="" name="mag_dropmenus" id="mag_dropmenus">
+                    <h3>Visit our sister sites:</h3>
+                    <select onchange="(this.options[this.selectedIndex].value) ? window.open(this.options[this.selectedIndex].value) : null" name="mag_list" id="mag_list">
+                        <option selected="selected" value="">Visit our sister sites</option>
+                        <option value="">- - - - - - - - - - - - - -</option>
+                        <option value="http://www.allure.com">Allure</option>
+                        <option value="http://www.architecturaldigest.com">Architectural Digest</option>
+                        <option value="http://www.arstechnica.com">Ars Technica</option>
+                        <option value="http://www.bonappetit.com">Bon App&eacute;tit</option>
+                        <option value="http://www.brides.com">Brides.com</option>
+                        <option value="http://www.concierge.com/cntraveler">Cond&eacute; Nast Traveler</option>
+                        <option value="http://www.concierge.com">Concierge</option>
+                        <option value="http://www.details.com">Details</option>
+                        <option value="http://www.epicurious.com">Epicurious</option>
+                        <option value="http://www.glamour.com">Glamour</option>
+                        <option value="http://www.golfdigest.com">Golf Digest</option>
+                        <option value="http://www.golfworld.com">Golf World</option>
+                        <option value="http://www.gq.com">GQ</option>
+                        <option value="http://www.hotelchatter.com">Hotel Chatter</option>
+                        <option value="http://www.jaunted.com">Jaunted</option>
+                        <option value="http://www.luckymag.com">Lucky</option>
+                        <option value="http://www.nutritiondata.com">NutritionData</option>
+                        <option value="http://www.reddit.com">Reddit</option>
+                        <option value="http://www.self.com">Self</option>
+                        <option value="http://www.style.com">Style</option>
+                        <option value="http://www.teenvogue.com">Teen Vogue</option>
+                        <option value="http://www.newyorker.com">The New Yorker</option>
+                        <option value="http://www.vanityfair.com">Vanity Fair</option>
+                        <option value="http://www.vegaschatter.com">Vegas Chatter</option>
+                        <option value="http://www.vogue.com">Vogue</option>
+                        <option value="http://www.wmagazine.com">W</option>
+                        <option value="http://www.wired.com">Wired</option>
+                    </select>
+                </form>
+            </div>
+        </div>
+        <div class="global-footer-copyright">
+            <p>
+                Registration on or use of this site constitutes acceptance of our <a href="/services/useragreement" onclick="window.open(this.href);return false;">User Agreement</a> <span class="revision-date"> (Revised January 7, 2009)</span> and <a href="/services/privacypolicy" onclick="window.open(this.href);return false;">Privacy Policy</a> <span class="revision-date">(Revised January 7, 2009)</span>.  The New Yorker &copy; 2010
+ Cond&eacute; Nast Digital. All rights reserved.   The material on this site may not be reproduced, distributed, transmitted, cached or otherwise used, except with the prior written permission of Cond&eacute; Nast Digital.
+            </p>
+
+            
+            
+            <img src="http://view.atdmt.com/action/MSFT_CondeNet_AE_ExtData/v3/atc1.newyorker/atc2.reporting/atc3.2010/" width="1" height="1" border="0" alt="msext" />
+            
+            
+        </div>
+    </div>
+</div>
+
+
+    </div>
+
+
+    
+
+    
+    <script type="text/javascript" src="/appjs/stats/omniture.js"></script>
+    
+
+
+
+
+
+
+<div id="statsHolder">
+    <script type="text/javascript">
+        
+        CN.stats.omniture.setStatus(200);
+        
+                CN.stats.omniture.doPageTracking(); // does init and also tracks
+            
+    </script>
+    <script language="JavaScript" type="text/javascript"><!--
+    if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
+    //--></script><noscript><a href="http://www.omniture.com" title="Web Analytics"><img
+    src="http://condenast.112.2o7.net/b/ss/condenet-dev/1/H.15.1--NS/0"
+    height="1" width="1" border="0" alt="" /></a></noscript><!--/DO NOT REMOVE/-->
+</div>
+<script type="text/javascript">
+    var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+    document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+    try {
+        var pageTracker = _gat._getTracker("UA-8293713-14");
+        pageTracker._trackPageview();
+    } catch(err) {}
+</script>
+
+
+    
+
+    
+
+        <script type="text/javascript">
+            (function(){
+            var ns= window.CN || window.CNP;
+            ns.page = ns.page || {};
+            ns.page.config = ns.page.config || {};
+            ns.page.config.defaultTab = 0;
+            }())
+            </script>
+            <script type="text/javascript">
+            (function(){
+            var ns= window.CN || window.CNP;
+            ns.page = ns.page || {};
+            ns.page.config = ns.page.config || {};
+            ns.page.config.defaultTab = 0;
+            }())
+            </script>
+        <script type="text/javascript">
+            CN.page = CN.page || {};
+            CN.page.feature = ['set7','manual_imagebottom','tabs','mostviewed','mostemailed','manual','set17','newsletters','set6','manual_imagetop'];
+        </script>
+
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+            <script type="text/javascript" src="/js/newyorker_bottom.js"></script>
+        
+
+
+    
+
+    <!-- link back script for articles pages -->
+    
+
+
+
+
+
+    
+    
+        
+        <!-- link back script for articles pages -->
+        <script type="text/javascript">
+            var tyntVariables = {"ap":"Read more"};
+        </script>
+        <script type="text/javascript" src="http://tcr.tynt.com/javascripts/Tracer.js?user=cT9yCKGeer3PWlab7jrHtB&amp;s=62"></script>
+    
+
+
+
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
+</html>

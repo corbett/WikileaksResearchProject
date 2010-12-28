@@ -1,0 +1,268 @@
+<!DOCTYPE html>
+<html xmlns:fb="http://www.facebook.com/2008/fbml">
+	<head>
+		<!-- TradeDoubler site verification 1684549 -->
+		<meta http-equiv="Content-Type" content="text/html;charset=utf-8" >
+
+		<meta name="description" content="TwitLonger is a simple service that lets you post those tricky messages that really do need more than 140 characters and send them to Twitter">
+		<meta name="keywords" content="TwitLonger, tweetlonger, tweet longer, 140, longer tweet, longer tweets, more than 140, over 140, twitter, rtweeter, tweet breaker">
+		<meta property="og:site_name" content="TwitLonger">
+		<meta property="fb:app_id" value="143017115709921">
+		<meta property="fb:admins" content="stuartgibson">
+
+					<meta property="og:title" content="a post from WikiLeaks">
+			<meta property="og:image" content="http://img.tweetimag.es/i/wikileaks_b">
+			<meta property="og:type" content="article">
+		
+		<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.1/jquery.min.js"></script>
+		<script src="http://platform.twitter.com/anywhere.js?id=1jKW4qie5IEnfVeceE4I3Q&v=1" type="text/javascript"></script>
+							<title>TwitLonger: Where do all these claims about WikiLeaks doing something on Iraq today (Monday) come from? A single</title>
+				<script type="text/javascript">
+			$(document).ready(function(){
+						$("#messagebox").focus();
+
+   			if ( $("#messagebox").length > 0 )
+   			{
+	   			if($('#messagebox').val().length == 0)
+   				{
+   					$('#charcount').html('0');
+   				}
+				else
+				{
+					$('#charcount').html($('#messagebox').val().length);
+   				}
+   			}
+
+   			$('#messagebox').keyup(function() {
+ 	 			var charLength = $(this).val().length;
+ 	 			if(charLength == '0')
+ 	 			{
+ 	 				$('#charcount').html('0');
+ 	 			}
+ 	 			else
+ 	 			{
+  					$('#charcount').html(charLength);
+  				}
+				});
+
+			$('#oauthlink').mouseenter(function(){
+				$('#light').fadeOut(200);
+				$('#dark').fadeIn(200);
+				});
+
+			$('#oauthlink').mouseleave(function(){
+				$('#dark').fadeOut(200);
+				$('#light').fadeIn(200);
+				});
+			
+			$('#topsyinput').focus(function(){
+				if ( $(this).val() == 'Search Twitter')
+				{
+					$(this).val('');	
+				}
+				});
+			
+			$('#topsyinput').blur(function(){
+				if ( $(this).val() == '')
+				{
+					$(this).val('Search Twitter');	
+				}
+				});
+			
+			});
+		</script>
+
+		<!--[if IE]>
+        <script type="text/javascript">
+	        document.createElement('header');
+			document.createElement('nav');
+			document.createElement('article');
+			document.createElement('aside');
+			document.createElement('footer');
+			document.createElement('time');
+			document.createElement('section');
+        </script>
+		<![endif]-->
+
+		<link rel="stylesheet" href="/css/twitlonger.css" type="text/css">
+    	<link rel="apple-touch-icon" href="http://www.twitlonger.com/images/iphoneicon.png" type="image/png" />
+	</head>
+	<body id="www-TwitLonger-com">
+		<div id="fb-root"></div>
+		<script>
+		  window.fbAsyncInit = function() {
+		    FB.init({
+		      appId  : '143017115709921',
+		      status : true, // check login status
+		      cookie : true, // enable cookies to allow the server to access the session
+		      xfbml  : true  // parse XFBML
+		    });
+		  };
+		  (function() {
+		    var e = document.createElement('script');
+		    e.src = document.location.protocol + '//connect.facebook.net/en_US/all.js';
+		    e.async = true;
+		    document.getElementById('fb-root').appendChild(e);
+		  }());
+		</script>
+		<!--[if lt IE 7]>
+			<div id="ie6">
+				<p>(<a href="http://www.bringdownie6.com/">Bring Down IE6</a>) If you're reading this, you're surfing using Internet Explorer 6, an eight-year-old browser that cannot cope with the demands of the modern internet. For the best web experience, we strongly recommend upgrading to <a href="http://www.getfirefox.com/">Firefox</a>, <a href="http://www.opera.com/">Opera</a>, <a href="http://www.apple.com/safari/">Safari</a>, <a href="http://www.google.com/chrome">Google Chrome</a>, or a more recent version of <a href="http://www.microsoft.com/windows/downloads/ie/getitnow.mspx">Internet Explorer</a>.</p>
+			</div>
+		<![endif]-->
+		<div id="fullpage">
+
+		<div id="page">
+			<nav>
+				<a href="http://www.twitlonger.com" title="Home page">home</a> &nbsp;&nbsp;&nbsp;&nbsp;
+				<a href="http://www.twitlonger.com/about" title="More about TwitLonger, with dos and don'ts">about</a> &nbsp;&nbsp;&nbsp;&nbsp;
+				<a href="http://www.twitlonger.com/privacy" title="Our Privacy Policy (we're nice, promise)">privacy</a> &nbsp;&nbsp;&nbsp;&nbsp;
+				<a href="http://www.twitlonger.com/api" title="Information on integrating TwitLonger with 3rd party apps">api</a> &nbsp;&nbsp;&nbsp;&nbsp;
+				<a href="http://www.twitlonger.com/apps" title="3rd party apps with integrated TwitLonger functionality">apps</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+				<a href="http://www.twitlonger.com/advertise" title="Read and enquire about exclusive advertising on TwitLonger">advertise</a>
+
+			</nav>
+
+			<header>
+				<h1><a href="http://www.twitlonger.com" title="TwitLonger home page"><img src="http://a3.twimg.com/profile_background_images/149294859/twitlonger.png" alt="TwitLonger"></a></h1>
+				<h2>For when you talk <em>too much</em> for twitter</h2>
+			</header>
+
+			<h3 id="usermessage">
+				<form action="http://topsy.com/s" method="get" id="topsysearch">
+					<input type="text" name="q" size="50" id="topsyinput" value="Search Twitter">
+					<input type="hidden" name="utm_source" value="TwitLonger">
+					<input type="submit" value="Search">
+					<img src="http://a3.twimg.com/profile_background_images/160138433/powered_128.png" alt="Powered by Topsy">
+				</form>			
+				<!-- <br><span class="error"></span>-->
+			</h3>
+
+			<div id="content"><section id="pagecontent">
+	<div class="advert">
+		<script type="text/javascript"><!--
+			google_ad_client = "pub-8892290845647203";
+			/* 468x60, created 21/05/10 */
+			google_ad_slot = "3213463039";
+			google_ad_width = 468;
+			google_ad_height = 60;
+			//-->
+		</script>
+		<script type="text/javascript"
+			src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+		</script>
+		<script type="text/javascript" src="http://cdn.topsy.com/topsy.js?init=topsyWidgetCreator"></script>
+	</div>
+	<a href="http://www.twitter.com/wikileaks"><img src="http://img.tweetimag.es/i/wikileaks_b" alt="" class="userpic" width="50px" height="50px"></a>
+
+	<h4>WikiLeaks</h4>
+	<p>
+		On Monday 18th October 2010, <a href="http://www.twitter.com/wikileaks" class="twitter-anywhere-user">@wikileaks</a> said:
+			</p>
+
+	<p style="border-bottom: solid 1px #333; padding-bottom: 0.5em;">
+		Where do all these claims about WikiLeaks doing something on Iraq today (Monday) come from? A single tabloid blog at Wired Magazine!<br />
+<br />
+That's right. Over 700 articles, newspapers all over the world, and newswires fooled by a tabloid blog--and each other.<br />
+<br />
+Of course you won't see this blog cited, generally, in the mainstream press articles, because that would lessen the credibility of these articles back to where the belong -- unsubstantiated, and indeed, false claims made by a source that is not credible. What is journalism coming to?<br />
+<br />
+But, Wired's blog is not just any source that lacks credibility. It is a known opponent and spreader of all sorts of misinformation about WikiLeaks. This dramatically ramped up since we demanded an investigation into what role they played in the arrest of the alleged journalistic source, US intelligence analyst, Bradley Manning:<br />
+<br />
+<a href="http://www.salon.com/news/opinion/glenn_greenwald/2010/06/18/wikileaks">http://www.salon.com/news/opinion/glenn_greenwald/2010/06/18/wikileaks</a><br />
+<br />
+We condemned Wired magazine for that conduct and the magazine has been oppositional ever since. The two blogs concerned, "Threat Level" and "Danger Room", while having produced some good journalism over the years, mostly now ship puff pieces about the latest "cool weapons system" and other "war tech toys" as befits their names -- "Threat Level" and "Danger Room".<br />
+<br />
+These two blogs, and in particular editor Kevin Poulsen, have been responsible for a tremendous amount of other completely false information WikiLeaks.<br />
+<br />
+A post today on "Danger Room" begins with:<br />
+<br />
+"We’re still waiting for WikiLeaks to make good on its pledge to reveal hundreds of thousands of U.S. military documents on the Iraq war."<br />
+<br />
+<a href="http://www.wired.com/dangerroom/2010/10/doc-of-the-day-wikileaks-didnt-blow-u-s-afghan-intel-sources/?utm_source=co2hog#ixzz12iu8RVBO">http://www.wired.com/dangerroom/2010/10/doc-of-the-day-wikileaks-didnt-blow-u-s-afghan-intel-sources/?utm_source=co2hog#ixzz12iu8RVBO</a><br />
+<br />
+Another fabrication.<br />
+<br />
+WikiLeaks does not speak about upcoming releases dates, indeed, with very rare exceptions we do not communicate any specific information about upcoming releases, since that simply provides fodder for abusive organizations to get their spin machines ready.<br />
+<br />
+Julian Assange<br />
+Editor-in-chief<br />
+	</p>
+
+	<p class="clientlink" style="float: right;">
+		<a title="Reply to this" href="http://www.twitlonger.com/index/reply/wikileaks/27747183538">Reply</a><br>
+		Short: <a href="http://tl.gd/6hqu1n">http://tl.gd/6hqu1n</a><br>
+		Posted from <a href="http://www.twitlonger.com/apps/web">Twitlonger</a>
+	</p>
+	
+	<div class="topsy_widget_data"><!--
+	{
+        "url": "http://www.twitlonger.com/show/6hqu1n",
+    			"shorturl": "http://tl.gd/6hqu1n",
+		        	
+    	"topsy_style": "small",
+    	"topsy_nick": "wikileaks",
+    	"topsy_theme": "blue"
+	}
+	-->
+	</div>
+	<p style="margin-top: 0.5em"><fb:like width="400" layout="button_count"></fb:like></p>
+
+	<p class="adsense">
+		<script type="text/javascript"><!--
+google_ad_client = "pub-8892290845647203";
+/* 234x60, created 11/11/08 */
+google_ad_slot = "5187411067";
+google_ad_width = 234;
+google_ad_height = 60;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+	</p>
+				</section>
+			
+			<h3>
+				Follow <a href="http://www.twitter.com/TwitLonger" class="twitter-anywhere-user">@TwitLonger</a> for updates and support.<br><br>
+				Twitlonger is in no way affiliated with <a href="http://www.twitter.com">Twitter</a>, but we really love those guys.<br>
+				Site developed by <a href="http://www.abovetheinternet.org" title="Rarely updated blog of web developer Stuart Gibson">Stuart Gibson</a>. Design by <a href="http://www.flavors.me/paddyduke" title="Portfolio site of Belfast designer Paddy Duke">Paddy Duke</a>.
+			</h3>
+			
+			</div>
+	<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-6415384-2");
+pageTracker._trackPageview();
+} catch(err) {}</script>	
+		</div>
+				
+		<!-- Start Quantcast tag -->
+		<script type="text/javascript">
+			_qoptions={
+			qacct:"p-36Yyaza0UpNew"
+			};
+		</script>
+		<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
+		<noscript>
+			<img src="http://pixel.quantserve.com/pixel/p-36Yyaza0UpNew.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/>
+		</noscript>
+		<!-- End Quantcast tag -->		
+
+		<script type="text/javascript">
+		  twttr.anywhere(onAnywhereLoad);
+		  function onAnywhereLoad(twitter) {
+		    // configure the @Anywhere environment
+		    twitter.hovercards();
+		    		    twitter('#follow_button').followButton("wikileaks");
+		    		  };
+		</script>
+
+		</div>		
+	</body>
+</html>

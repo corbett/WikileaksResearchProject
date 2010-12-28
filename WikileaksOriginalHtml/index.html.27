@@ -1,0 +1,944 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en-US">
+
+<head profile="http://gmpg.org/xfn/11">
+
+<title>Iran confirms Stuxnet found at Bushehr nuclear power plant —  War in Context</title>
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<link rel="alternate" type="application/rss+xml" title="War in Context &raquo; Iran confirms Stuxnet found at Bushehr nuclear power plant Comments Feed" href="http://warincontext.org/2010/09/26/iran-confirms-stuxnet-found-at-bushehr-nuclear-power-plant/feed/" />
+<link rel='stylesheet' id='contact-form-7-css'  href='http://warincontext.org/wp-content/plugins/contact-form-7/styles.css?ver=2.1.2' type='text/css' media='all' />
+<script type='text/javascript' src='http://warincontext.org/wp-includes/js/comment-reply.js?ver=20090102'></script>
+<script type='text/javascript' src='http://warincontext.org/wp-includes/js/jquery/jquery.js?ver=1.3.2'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://warincontext.org/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://warincontext.org/wp-includes/wlwmanifest.xml" /> 
+<link rel='canonical' href='http://warincontext.org/2010/09/26/iran-confirms-stuxnet-found-at-bushehr-nuclear-power-plant/' />
+<meta name="tweetmeme-title" content="Iran confirms Stuxnet found at Bushehr nuclear power plant" />
+<link rel="canonical" href="http://warincontext.org/2010/09/26/iran-confirms-stuxnet-found-at-bushehr-nuclear-power-plant/" />
+<meta name="wp_theme" content="Thesis 1.6" />
+
+<link rel="stylesheet" href="http://warincontext.org/wp-content/themes/thesis_16/style.css?030310-20228" type="text/css" media="screen, projection" />
+<link rel="stylesheet" href="http://warincontext.org/wp-content/themes/thesis_16/custom/layout.css?071410-30723" type="text/css" media="screen, projection" />
+<!--[if lte IE 7]><link rel="stylesheet" href="http://warincontext.org/wp-content/themes/thesis_16/lib/css/ie.css?021110-05625" type="text/css" media="screen, projection" /><![endif]-->
+<link rel="stylesheet" href="http://warincontext.org/wp-content/themes/thesis_16/custom/custom.css?112410-163735" type="text/css" media="screen, projection" />
+
+<link rel="alternate" type="application/rss+xml" title="War in Context RSS Feed" href="http://feeds.feedburner.com/WarInContext" />
+<link rel="pingback" href="http://warincontext.org/xmlrpc.php" />	<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+
+</head>
+
+<body class="custom">
+
+<div id="container">
+<div id="page">
+<ul class="menu">
+<li class="tab tab-home"><a href="http://warincontext.org">Home</a></li>
+<li class="tab tab-1"><a href="http://warincontext.org/about/" title="About">About<!--[if IE 7]><!--></a><!--<![endif]-->
+<!--[if lte IE 6]><table><tr><td><![endif]-->
+<ul class="submenu submenu-1">
+<li class="item item-1"><a href="http://warincontext.org/about/context/" title="Context">Context</a></li>
+<li class="item item-2"><a href="http://warincontext.org/about/commenting/" title="Commenting">Commenting</a></li>
+<li class="item item-3"><a href="http://warincontext.org/about/site-guide/" title="Site Guide">Site Guide</a></li>
+</ul>
+<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+</li>
+<li class="tab tab-2"><a href="http://warincontext.org/contact/" title="Contact">Contact</a></li>
+<li class="tab tab-3"><a href="http://warincontext.org/the-zionist-story/" title="The Zionist Story">The Zionist Story</a></li>
+<li class="rss"><a href="http://feeds.feedburner.com/WarInContext" title="War in Context RSS Feed" rel="nofollow">Subscribe</a></li>
+</ul>
+	<div id="header">
+		<p id="logo"><a href="http://warincontext.org">War in Context</a></p>
+		<p id="tagline">&#8230; with attention to the unseen</p>
+	</div>
+	<div id="content_box">
+		<div id="column_wrap">
+		<div id="content" class="hfeed">
+
+			<div class="post-9889 post hentry category-editorials category-iran category-israel category-cyberwarfare category-nuclear-issues post_box top" id="post-9889">
+				<div class="headline_area">
+					<h1 class="entry-title">Iran confirms Stuxnet found at Bushehr nuclear power plant</h1>
+					<p class="headline_meta">by <span class="author vcard fn">Paul Woodward</span> on <abbr class="published" title="2010-09-26">September 26, 2010</abbr></p>
+				</div>
+				<div class="format_text entry-content">
+<p><img src="http://warincontext.org/wp-content/uploads/2010/09/bushehr-laptop.jpg" alt="" title="Russian contractor with laptop connected to Bushehr nuclear plant control system" width="300" height="207" align="right" />An <a href="http://www.google.com/hostednews/afp/article/ALeqM5izMHSVD4tEUYpQJa7iGAp5vJyTUw"><em>AFP</em> report</a> earlier today reveals that the Stuxnet malware has been found at Iran&#8217;s nuclear power plant at Bushehr. (All the blockquotes below are from the <em>AFP</em> report.)</p>
+<p>Iranian officials confirm that 30,000 industrial computers in Iran have been hit by Stuxnet yet deny that Bushehr was among those infected.</p>
+<p>That might be what Iranian officials believe, but whether it&#8217;s a belief based on fact is another matter.</p>
+<p>As we get further into this report, it becomes apparent there is a high probability both that Bushehr has been penetrated and that the malware may still be active.</p>
+<blockquote><p>Siemens said its software has not been installed at the plant, and an Iranian official denied the malware may have infected nuclear facilities.</p></blockquote>
+<p>Siemens might not <em>know</em> that its software was installed at the plant, but thanks to a <a href="http://www.upi.com/News_Photos/Features/The-Nuclear-Issue-in-Iran/1581/2/">UPI photograph</a>, we know that Bushehr control systems do indeed run on Siemens&#8217; <a href="http://en.wikipedia.org/wiki/WinCC">WinCC</a> SCADA system. The warning shown below says: &#8220;WinCC Runtime License: Your software license has expired. Please obtain a valid license.&#8221;</p>
+<p><img src="http://warincontext.org/wp-content/uploads/2010/09/WinCC.jpg" alt="" title="WinCC" width="580" height="364" align="center" /></p>
+<p>This is what <a href="http://www.langner.com/en/index.htm">Ralph Langner</a>, a German industrial security expert, saw as a red flag indicating that the plant is vulnerable to a cyber attack.</p>
+<blockquote><p>&#8220;This virus has not caused any damage to the main systems of the Bushehr power plant,&#8221; Bushehr project manager Mahmoud Jafari said on Iran&#8217;s Arabic-language Al-Alam television network.</p>
+<p>&#8220;All computer programmes in the plant are working normally and have not crashed due to Stuxnet,&#8221; said Jafari, adding there was no problem with the plant&#8217;s fuel supply.</p>
+<p>The official IRNA news agency meanwhile quoted him as saying the worm had infected some &#8220;personal computers of the plant&#8217;s personnel.&#8221;</p></blockquote>
+<p>And no infected personal computers have been hooked into the plants control system?</p>
+<p>As indicated in this photograph showing Russian contractors inside Bushehr, the path from a personal computer to the plant&#8217;s control system is short and direct.</p>
+<p><img src="http://warincontext.org/wp-content/uploads/2010/09/bushehr-russian-contractors.jpg" alt="" title="Russian contractors at Bushehr nuclear reactor" width="560" height="373" align="center" /></p>
+<p>As for the fact that Bushehr&#8217;s control system has not crashed, the fact that the project manager cites this as evidence that the system is malware-free suggests that he does not understand how Stuxnet is designed. Stuxnet monitors process conditions and until those conditions have been met, everything should work fine. This is not like a virus that slows down an operating system.</p>
+<p>Given the inside knowledge that Stuxnet&#8217;s creators required, it seems quite likely that the moment they would want it to kick into action &#8212; assuming that Bushehr was the intended target &#8212; would be a moment at which a catastrophic system failure could be attributed to a flaw in the facility&#8217;s construction, design or operation. A failure, for instance, as the plant approaches its intended full operational generation capacity. The 1000 megawatt plant is expected to have reached only 40% capacity by the <a href="http://www.presstv.ir/detail/142637.html">end of December</a>.</p>
+<blockquote><p>Telecommunications minister Reza Taqipour said &#8220;the worm has not been able to penetrate or cause serious damage to government systems.&#8221;</p></blockquote>
+<p>Again, this statement suggests a lack of understanding about Stuxnet&#8217;s highly targeted design and the fact that it is designed <em>not</em> to cause damage elsewhere.</p>
+<p>Mahmoud Liayi, head of the information technology council at the ministry of industries said:</p>
+<blockquote><p>&#8230;industries were currently receiving systems to combat Stuxnet, while stressing Iran had decided not to use anti-virus software developed by Siemens because &#8220;they could be carrying a new version of the malware.&#8221;</p>
+<p>&#8220;When Stuxnet is activated, the industrial automation systems start transmitting data about production lines to a main designated destination by the virus,&#8221; Liayi said.</p>
+<p>&#8220;There, the data is processed by the worm&#8217;s architects and then engineer plots to attack the country.&#8221;</p></blockquote>
+<p>If this is the official consensus, Iranian facilities such as Bushehr are as vulnerable now as they were before anyone knew about Stuxnet. Liayi&#8217;s statement suggests that Stuxnet is being viewed as a tool of espionage designed to facilitate rather than execute sabotage.
+<div class="twitter_button" style="float: right; margin-left: 10px;"><iframe src="http://platform.twitter.com/widgets/tweet_button.html?url=http%3A%2F%2Fwarincontext.org%2F2010%2F09%2F26%2Firan-confirms-stuxnet-found-at-bushehr-nuclear-power-plant%2F&amp;count=none&amp;via=warincontext&amp;lang=en" height="20" width="55" frameborder="0" scrolling="no" allowtransparency="true"></iframe></div>
+<div id="fb_share_1" style="float: right; margin-left: 10px;"><a name="fb_share" type="icon_link" share_url="http://warincontext.org/2010/09/26/iran-confirms-stuxnet-found-at-bushehr-nuclear-power-plant/" href="http://www.facebook.com/sharer.php">Share</a></div><div><script src="http://static.ak.fbcdn.net/connect.php/js/FB.Share" type="text/javascript"></script></div><!-- <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+				xmlns:dc="http://purl.org/dc/elements/1.1/"
+				xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+			<rdf:Description rdf:about="http://warincontext.org/2010/09/26/iran-confirms-stuxnet-found-at-bushehr-nuclear-power-plant/"
+    dc:identifier="http://warincontext.org/2010/09/26/iran-confirms-stuxnet-found-at-bushehr-nuclear-power-plant/"
+    dc:title="Iran confirms Stuxnet found at Bushehr nuclear power plant"
+    trackback:ping="http://warincontext.org/2010/09/26/iran-confirms-stuxnet-found-at-bushehr-nuclear-power-plant/trackback/" />
+</rdf:RDF> -->
+			<p class="custom_byline">
+				
+				<span class="share"> &nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://warincontext.org/2010/09/26/iran-confirms-stuxnet-found-at-bushehr-nuclear-power-plant/print/" title="print this post" rel="nofollow"><img class="WP-PrintIcon" src="http://warincontext.org/wp-content/plugins/wp-print/images/printer_famfamfam.gif" alt="print this post" title="print this post" style="border: 0px;" /></a>&nbsp;<a href="http://warincontext.org/2010/09/26/iran-confirms-stuxnet-found-at-bushehr-nuclear-power-plant/print/" title="print this post" rel="nofollow">print this post</a>
+</span>
+			</p>
+					</div>
+			</div>
+
+			<div id="comments">
+				<div class="comments_intro">
+					<p><span class="bracket">{</span> <span>10</span> comments <span class="bracket">}</span></p>
+				</div>
+
+				<dl id="comment_list">
+					<dt class="comment even thread-even depth-1" id="comment-19329">
+						<span class="avatar"><img alt='' src='http://www.gravatar.com/avatar/202a7408595f65998c45d89e120586fa?s=44&amp;d=http%3A%2F%2Fwww.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D44&amp;r=G' class='avatar avatar-44 photo' height='44' width='44' /></span>
+						<span class="comment_author">Lysander</span> <span class="comment_time"><a href="#comment-19329" title="Permalink to this comment" rel="nofollow">September 27, 2010 at 1:58 am</a></span>
+					</dt>
+					<dd class="comment even thread-even depth-1">
+						<div class="format_text" id="comment-body-19329">
+<p>I believed initially that this was more hype than attack. I still think that is more likely. However, knowing next to nothing about computers, viruses and worms, I have to take your analysis seriously.</p>
+<p>If it is true that the Israelis intended to cause an Iranian Chernobyl, they are truly too clever by half. Now that this out in the open and reported on internationally, any problems with Bushehr will be at their doorstep. Even if the accident is due to other causes. Any accident at Busheher or Natanz or anywhere else in Iran will have everyone in Iran suspecting Israel. World leaders in Europe, Russia and China will also have their suspicions.  Since it is a Russian designed plant, they will have an incentive in blaming Israel too.</p>
+<p>The Israelis are playing with fire. Shielded so long from the consequences of their actions, they do not seem to understand what will happen if they earn the undying enmity of 70 million Iranians. They don&#8217;t know how hot that fire will burn. Were I them, I would be hoping the Iranians figure out a way to stop this worm before it does permanent damage.</p>
+						</div>
+					</dd>
+					<dt class="comment odd alt thread-odd thread-alt depth-1" id="comment-19350">
+						<span class="avatar"><img alt='' src='http://www.gravatar.com/avatar/b0dd9aea27d2baa5ec893a905d6ab8db?s=44&amp;d=http%3A%2F%2Fwww.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D44&amp;r=G' class='avatar avatar-44 photo' height='44' width='44' /></span>
+						<span class="comment_author">Egbert</span> <span class="comment_time"><a href="#comment-19350" title="Permalink to this comment" rel="nofollow">September 27, 2010 at 7:47 am</a></span>
+					</dt>
+					<dd class="comment odd alt thread-odd thread-alt depth-1">
+						<div class="format_text" id="comment-body-19350">
+<p>The screenshot refers to &#8217;sulphuric acid&#8217; and &#8216;lime mill&#8217;. Dis information is more likely to be from a uranium extraction plant than a nuclear power plant.</p>
+						</div>
+					</dd>
+					<dt class="comment even thread-even depth-1" id="comment-19355">
+						<span class="avatar"><img alt='' src='http://www.gravatar.com/avatar/ea1867db41ffd0d388f40376397c0246?s=44&amp;d=http%3A%2F%2Fwww.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D44&amp;r=G' class='avatar avatar-44 photo' height='44' width='44' /></span>
+						<span class="comment_author">alexno</span> <span class="comment_time"><a href="#comment-19355" title="Permalink to this comment" rel="nofollow">September 27, 2010 at 10:22 am</a></span>
+					</dt>
+					<dd class="comment even thread-even depth-1">
+						<div class="format_text" id="comment-body-19355">
+<p>Egbert is right that there&#8217;s no real proof that the screen shot came from Bushehr.</p>
+						</div>
+					</dd>
+					<dt class="comment odd alt thread-odd thread-alt depth-1" id="comment-19356">
+						<span class="avatar"><img alt='' src='http://www.gravatar.com/avatar/ea1867db41ffd0d388f40376397c0246?s=44&amp;d=http%3A%2F%2Fwww.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D44&amp;r=G' class='avatar avatar-44 photo' height='44' width='44' /></span>
+						<span class="comment_author">alexno</span> <span class="comment_time"><a href="#comment-19356" title="Permalink to this comment" rel="nofollow">September 27, 2010 at 10:26 am</a></span>
+					</dt>
+					<dd class="comment odd alt thread-odd thread-alt depth-1">
+						<div class="format_text" id="comment-body-19356">
+<p>Lysander is also right that if a nuclear accident does happen, it will be put at Israel&#8217;s door, even if it were a real accident. Israel doesn&#8217;t care about dropping nuclear weapons on people, so they wouldn&#8217;t understand what an effect it would have on other people round the world, who do care about nuclear weapons.</p>
+						</div>
+					</dd>
+					<dt class="comment even thread-even depth-1" id="comment-19358">
+						<span class="avatar"><img alt='' src='http://www.gravatar.com/avatar/80b80a0255b10886dbf9fa6ea46d7404?s=44&amp;d=http%3A%2F%2Fwww.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D44&amp;r=G' class='avatar avatar-44 photo' height='44' width='44' /></span>
+						<span class="comment_author">David</span> <span class="comment_time"><a href="#comment-19358" title="Permalink to this comment" rel="nofollow">September 27, 2010 at 11:23 am</a></span>
+					</dt>
+					<dd class="comment even thread-even depth-1">
+						<div class="format_text" id="comment-body-19358">
+<p>There is still no smoking gun for the virus, which targets Siemens SCADA software and which has appeared in 155 countries (but mainly Iran, Indonesia, and India). We don&#8217;t know if the appearance of the virus was accidental (USB shipments to &#8220;I&#8221; countries) or intended mainly for Iran. If it was intended to target Iran, we don&#8217;t know for a fact that it was intended for one of its nuclear facilities. And if it was intended for one of its nuclear facilities, we don&#8217;t know if it was the Israelis or the US who was responsible.</p>
+<p>In short, this is still at the stage of conjecture heaped upon conjecture heaped upon more conjecture.</p>
+						</div>
+					</dd>
+					<dt class="comment odd alt thread-odd thread-alt depth-1" id="comment-19364">
+						<span class="avatar"><img alt='' src='http://www.gravatar.com/avatar/a4b833da422f6325554350a707c5aff7?s=44&amp;d=http%3A%2F%2Fwww.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D44&amp;r=G' class='avatar avatar-44 photo' height='44' width='44' /></span>
+						<span class="comment_author">Ian Arbuckle</span> <span class="comment_time"><a href="#comment-19364" title="Permalink to this comment" rel="nofollow">September 27, 2010 at 2:37 pm</a></span>
+					</dt>
+					<dd class="comment odd alt thread-odd thread-alt depth-1">
+						<div class="format_text" id="comment-body-19364">
+<p>Paul, I don’t know if anyone has pointed out that Israel in fact needs a nuclear threat from Iran in order to justify its own nuclear armaments. Without such a threat Israel’s nuclear WMD are just the manifestation of their ultimate menace to their relatively unarmed neighbours. At present Israel is not threatened by any nuclear armed country. In other words, if a nuclear armed Israel used these WMD to attack a non-nuclear adversary it would be a war crime under present circumstances, but if Iran or another adversary country to the Zionist state possessed nuclear weapons Israel could claim they have these weapons for “strategic defence”. At the moment the Israelis and there nukes can only be seen as “offensive” in their stance, and thereby despite the bought votes at the IAEA last week Israel is the major and maybe the only cause preventing a non-nuclear armed Middle East and equally will be the cause of any proliferation.</p>
+<p>Therefore disarming Israel should be not only the Middle Easern countries&#8217; but also the west’s priority, rather than pandering to Zionist ambitions of American style regional domination. Personally I think the prostration of the IAEA to Zionist and American designs under its new head, Yukiya Amano, is far more important and a threat to world security than this cyber attack on the nuclear facilities.</p>
+						</div>
+					</dd>
+					<dt class="comment even thread-even depth-1" id="comment-19365">
+						<span class="avatar"><img alt='' src='http://www.gravatar.com/avatar/7703aba6a8ba9c1c01e28eab41d1672d?s=44&amp;d=http%3A%2F%2Fwww.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D44&amp;r=G' class='avatar avatar-44 photo' height='44' width='44' /></span>
+						<span class="comment_author">courtneyme109</span> <span class="comment_time"><a href="#comment-19365" title="Permalink to this comment" rel="nofollow">September 27, 2010 at 2:50 pm</a></span>
+					</dt>
+					<dd class="comment even thread-even depth-1">
+						<div class="format_text" id="comment-body-19365">
+<p>For Ian:</p>
+<p>Totally incorrect sir, Little Satan&#8217;s new clear ambiguity has it&#8217;s place in prevention of  conventional warfare. Indeed &#8211; what brave leaders of Arab League would dare launch conscript infantry, panzers or combat jets against Little Satan in open warfare? It has kept the peace betwixt nation states in the ME since before Soviet Union gave up the ghost.</p>
+<p>Any ideas of stripping it away are quite risible. It would start a war or series of wars that would result in an uberNakbah &#8211; most likely with Little Satan winning turf from Nile to Euphrates &#8211; and probably not inclined to give it back.</p>
+<p>Disarming Little Satan is a dangerous idea, anti democratic and a &#8216;priority&#8217; only for warmongers.  She enjoys a tolerant, egalitarian society with a penchant for periodic transparent elections, a free uncensored media, a military under civie command, an independent judiciary under elected gov oversight and a nat&#8217;l treasury open to public scrutiny.</p>
+						</div>
+					</dd>
+					<dt class="comment odd alt thread-odd thread-alt depth-1" id="comment-19370">
+						<span class="avatar"><img alt='' src='http://www.gravatar.com/avatar/202a7408595f65998c45d89e120586fa?s=44&amp;d=http%3A%2F%2Fwww.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D44&amp;r=G' class='avatar avatar-44 photo' height='44' width='44' /></span>
+						<span class="comment_author">Lysander</span> <span class="comment_time"><a href="#comment-19370" title="Permalink to this comment" rel="nofollow">September 27, 2010 at 3:50 pm</a></span>
+					</dt>
+					<dd class="comment odd alt thread-odd thread-alt depth-1">
+						<div class="format_text" id="comment-body-19370">
+<p>Ian, </p>
+<p>While I see you&#8217;re point that Israel benefits (marginally) from having a nuclear Iran as an excuse, it benefits much MUCH more from having a nuclear monopoly. Far from pressing Israel to declare its arsenal and disarm, the US and the west are running interference, pretending that the nukes don&#8217;t even exist.  The only reason there is any pressure at all on Israel in that regard is because of Iran&#8217;s program and the obvious hypocrisy of the Western position. If Iran halted enrichment today, you would see even this minimal pressure on Israel evaporate.</p>
+<p>Also, I would add that I honestly don&#8217;t believe Iran will ever actually build nukes. It *will* assemble everything it needs to build them on short notice.  That would be especially delicate for Israel, as it offers a counter-example of a responsible potential nuclear state, while at the same time blunting Israel&#8217;s nuclear monopoly. The world will have less tolerance for threats on Iran if they think it will just provoke them to  &#8220;turn the screw&#8221; and become fully nuclear.</p>
+						</div>
+					</dd>
+					<dt class="comment even thread-even depth-1" id="comment-19466">
+						<span class="avatar"><img alt='' src='http://www.gravatar.com/avatar/ae5ea60b89f652db97a6afb735db5766?s=44&amp;d=http%3A%2F%2Fwww.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D44&amp;r=G' class='avatar avatar-44 photo' height='44' width='44' /></span>
+						<span class="comment_author">Jo Houston</span> <span class="comment_time"><a href="#comment-19466" title="Permalink to this comment" rel="nofollow">September 30, 2010 at 1:50 am</a></span>
+					</dt>
+					<dd class="comment even thread-even depth-1">
+						<div class="format_text" id="comment-body-19466">
+<p>Do you have a problem with women, courtney109? Your reference to a disgusting little rogue State devoid of any moral compass as &#8220;she&#8221; is a gross insult to women. You might care to ask Arab Israelis  or Palestinians about the &#8220;tolerant egalitarian society&#8221;, the &#8220;independent judiciary&#8221; and the &#8220;civic command which controls the military&#8221;.  Suggest also, that the uncritical  support, money and technology transfer from the US, and the refusal of  this sponsor to reign-in the monster that it has helped create, has as much to do with the current situation in the Middle East as the possession of nuclear weapons.</p>
+						</div>
+					</dd>
+					<dt class="comment odd alt thread-odd thread-alt depth-1" id="comment-19571">
+						<span class="avatar"><img alt='' src='http://www.gravatar.com/avatar/8efe7b20b3916ffd226229f2dac9693a?s=44&amp;d=http%3A%2F%2Fwww.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D44&amp;r=G' class='avatar avatar-44 photo' height='44' width='44' /></span>
+						<span class="comment_author">Ben D</span> <span class="comment_time"><a href="#comment-19571" title="Permalink to this comment" rel="nofollow">October 2, 2010 at 11:43 pm</a></span>
+					</dt>
+					<dd class="comment odd alt thread-odd thread-alt depth-1">
+						<div class="format_text" id="comment-body-19571">
+<p>Hi Paul, I see nothing credible in your blog post that substantiates the speculative claims that Bushehr utilizes a Siemens SCADA system. The reasons are as follows.</p>
+<p>Concerning the UPI image of a control panel with a MS look window superimposed that says..&#8221;“WinCC Runtime License: Your software license has expired. Please obtain a valid license”, well it doesn&#8217;t prove a thing. </p>
+<p>First of all, the WinCC window could so easily be a photo- shopped overlay on the image of a process control panel. </p>
+<p>Secondly, the Control Panel image is typical of process control panels everywhere and even if the WinCC window was not photo-shopped, what has that got to do with Bushehr. There is nothing else in the image to provide any information whatsoever about the local environment to provide any context as to its locality or purpose.</p>
+<p>Thirdly, UPI does not provide a source for anyone claiming that the UPI Photo by Mohammad Kheirkhah is actually Bushehr, they just provide a narrative to imply that it is.</p>
+<p>Fourthly, Ralph Lagner is not claiming the UPI image is actually genuine or that it is of Bushehr, he merely prefaces his speculative theory with &#8221; If the picture is authentic, which I have no means of verifying,&#8230;.&#8221;.  </p>
+<p>It seems it is only you Paul who make the claim,&#8230;&#8221;Siemens might not know that its software was installed at the plant, but thanks to a UPI photograph, we know that Bushehr control systems do indeed run on Siemens’ WinCC SCADA system.&#8221;</p>
+<p>BTW, since you use &#8216;we&#8217; in that statement, who also beside you are claiming to really KNOW for sure? </p>
+<p>Also BTW,  the Siemens spokesperson not only claimed that Siemens left Iran 30 years ago and that they have had not had any involvement in the reconstruction nor provided any of their hardware or software since, he also noted for the  record that  “that according to global security standards, Microsoft software may not be used to operate critical processes in plants”.</p>
+						</div>
+					</dd>
+				</dl>
+				<div class="comments_closed">
+					<p>Comments on this entry are closed.</p>
+				</div>
+			</div>					<div class="prev_next post_nav">
+						<p class="previous">Previous post: <a href="http://warincontext.org/2010/09/25/bush-white-house-security-adviser-israel-likely-source-of-cyber-attack-on-iran/" rel="prev">Bush White House security adviser: Israel likely source of cyber attack on Iran</a></p>
+						<p>Next post: <a href="http://warincontext.org/2010/09/27/expanding-secrecy-and-diminishing-privacy-in-obamas-america/" rel="next">Expanding secrecy and diminishing privacy in Obama&#8217;s America</a></p>
+					</div>
+		</div>
+
+			<div id="sidebar_1" class="sidebar">
+				<ul class="sidebar_list">
+<li class="widget widget_text" id="text-597852934"><h3>War in Context on Twitter</h3>			<div class="textwidget"><a href="http://twitter.com/warincontext"><img src="http://warincontext.org/wp-content/uploads/2010/09/twitter-icon-s.jpg"></a></div>
+		</li><li class="widget widget_text" id="text-597852932"><h3>War in Context&#8230;</h3>			<div class="textwidget">News and analysis with <a href="http://warincontext.org/category/editors-comments/">comments</a> and <a href="http://warincontext.org/category/editorials/">commentary</a> by Paul Woodward.</div>
+		</li>		<li class="widget widget_recent_entries" id="recent-posts-2">		<h3>Recent Posts</h3>		<ul>
+				<li><a href="http://warincontext.org/2010/12/26/the-redemptive-xenophobia-sweeping-across-israel/" title="The redemptive xenophobia sweeping across Israel">The redemptive xenophobia sweeping across Israel </a></li>
+				<li><a href="http://warincontext.org/2010/12/26/the-murder-of-a-20-year-old-shepherd-on-his-family-lands-on-the-gaza-border-meets-only-thundering-western-silence/" title="The murder of a 20-year-old shepherd on his family lands on the Gaza border &#8212; meets only thundering western silence">The murder of a 20-year-old shepherd on his family lands on the Gaza border &#8212; meets only thundering western silence </a></li>
+				<li><a href="http://warincontext.org/2010/12/26/financial-attacks-on-wikileaks-a-low-cost-ploy-to-please-washington/" title="Financial attacks on WikiLeaks &#8212; a low-cost ploy to please Washington">Financial attacks on WikiLeaks &#8212; a low-cost ploy to please Washington </a></li>
+				<li><a href="http://warincontext.org/2010/12/26/al-jazeeras-listening-post-the-war-you-dont-see/" title="&lt;em&gt;Al Jazeera&lt;/em&gt;&#8217;s Listening Post: &#8216;The war you don&#8217;t see&#8217;"><em>Al Jazeera</em>&#8217;s Listening Post: &#8216;The war you don&#8217;t see&#8217; </a></li>
+				<li><a href="http://warincontext.org/2010/12/25/christmas-carols-of-a-different-kind/" title="Christmas carols&#8230; of a different kind">Christmas carols&#8230; of a different kind </a></li>
+				</ul>
+		</li>		<li class="widget widget_recent_comments" id="recent-comments-2">			<h3>Recent Comments</h3>			<ul id="recentcomments"><li class="recentcomments"><a href='http://thewildcatsvictory.wordpress.com/' rel='external nofollow' class='url'>Christopher Hoare</a> on <a href="http://warincontext.org/2010/12/26/financial-attacks-on-wikileaks-a-low-cost-ploy-to-please-washington/comment-page-1/#comment-24732">Financial attacks on WikiLeaks &#8212; a low-cost ploy to please Washington</a></li><li class="recentcomments">delia ruhe on <a href="http://warincontext.org/2010/12/26/the-redemptive-xenophobia-sweeping-across-israel/comment-page-1/#comment-24731">The redemptive xenophobia sweeping across Israel</a></li><li class="recentcomments">DE Teodoru on <a href="http://warincontext.org/2010/12/26/the-redemptive-xenophobia-sweeping-across-israel/comment-page-1/#comment-24730">The redemptive xenophobia sweeping across Israel</a></li><li class="recentcomments"><a href='http://warincontext.org' rel='external nofollow' class='url'>Paul Woodward</a> on <a href="http://warincontext.org/2010/12/25/christmas-carols-of-a-different-kind/comment-page-1/#comment-24723">Christmas carols&#8230; of a different kind</a></li><li class="recentcomments">Andrew on <a href="http://warincontext.org/2010/12/25/new-mossad-chief-to-apologise-for-use-of-uk-passports-in-dubai-killing/comment-page-1/#comment-24721">New Mossad chief to apologise for use of UK passports in Dubai killing</a></li><li class="recentcomments"><a href='http://juliekinnear.com' rel='external nofollow' class='url'>Julie Kinnear</a> on <a href="http://warincontext.org/2010/12/25/christmas-carols-of-a-different-kind/comment-page-1/#comment-24720">Christmas carols&#8230; of a different kind</a></li><li class="recentcomments">Ian Arbuckle on <a href="http://warincontext.org/2010/12/25/new-mossad-chief-to-apologise-for-use-of-uk-passports-in-dubai-killing/comment-page-1/#comment-24717">New Mossad chief to apologise for use of UK passports in Dubai killing</a></li><li class="recentcomments">Vince J. on <a href="http://warincontext.org/2010/12/25/new-mossad-chief-to-apologise-for-use-of-uk-passports-in-dubai-killing/comment-page-1/#comment-24709">New Mossad chief to apologise for use of UK passports in Dubai killing</a></li></ul>
+		</li><li class="widget widget_ara_randomposts" id="random-posts-widget">
+<!-- Random Posts Widget: START -->
+<h3>Posts From Sometime Past</h3>
+<ul>
+<li><a href="http://warincontext.org/2008/05/20/opinion-editors-comment-the-belligerent-power/">OPINION & EDITOR'S COMMENT: The belligerent power</a></li>
+<li><a href="http://warincontext.org/2007/11/20/feature-ikhwan-bloggers/">FEATURE: Ikhwan bloggers</a></li>
+<li><a href="http://warincontext.org/2010/06/27/obama-about-to-get-tough-with-netanyahu/">Obama about to get tough with Netanyahu?</a></li>
+</ul>
+
+<!-- Random Posts Widget: END -->
+</li>
+<!-- Time taken for the 2 queries to complete is 0.039911031723022 seconds -->
+<li class="widget widget_links" id="linkcat-2"><h3>Blogroll</h3>
+	<ul class='xoxo blogroll'>
+<li><a href="http://972mag.com/" title="Independent commentary from Israel and the Palestinian territories">+972 Magazine</a></li>
+<li><a href="http://www.tinyrevolution.com/mt/">A Tiny Revolution</a></li>
+<li><a href="http://www.cnas.org/blogs/abumuqawama" title="Andrew Exum">Abu Muqawama</a></li>
+<li><a href="http://allthingscounterterrorism.com/" title="Leah Farrall, former senior Counter Terrorism Intelligence Analyst with the Australian Federal Police.">All Things Counter Terrorism</a></li>
+<li><a href="http://americanfootprints.com/drupal/">American Footprints</a></li>
+<li><a href="http://antonyloewenstein.com">Antony Loewenstein</a></li>
+<li><a href="http://www.armscontrolwonk.com/">ArmsControlWonk</a></li>
+<li><a href="http://www.benwhite.org.uk/blog/">Ben White</a></li>
+<li><a href="http://www.bitterlemons.org/" title="Palestinian-Israeli crossfire">Bitter Lemons</a></li>
+<li><a href="http://washingtonbureau.typepad.com/jerusalem/">Checkpoint Jerusalem</a></li>
+<li><a href="http://cityofbrass.blogspot.com/">City of Brass</a></li>
+<li><a href="http://conflictsforum.org/">Conflicts Forum</a></li>
+<li><a href="http://www.counterpunch.org/">Counterpunch</a></li>
+<li><a href="http://dahrjamailiraq.com/">Dahr Jamail</a></li>
+<li><a href="http://www.wired.com/dangerroom/">Danger Room</a></li>
+<li><a href="http://www.prospectsforpeace.com/">Daniel Levy</a></li>
+<li><a href="http://www.democracyarsenal.org/">Democracy Arsenal</a></li>
+<li><a href="http://coteret.com/" title="News, analysis and opinion from the Israeli Hebrew print and electronic media">Didi Remez</a></li>
+<li><a href="http://www.electronicintifada.net/">Electronic Intifada</a></li>
+<li><a href="http://firedoglake.com/">Firedoglake</a></li>
+<li><a href="http://blog.foreignpolicy.com/">FP Passport</a></li>
+<li><a href="http://friday-lunch-club.blogspot.com/">Friday Lunch Club</a></li>
+<li><a href="http://www.salon.com/opinion/greenwald/">Glenn Greenwald</a></li>
+<li><a href="http://www.juancole.com/">Informed Comment</a></li>
+<li><a href="http://icga.blogspot.com/">Informed Comment: Global Affairs</a></li>
+<li><a href="http://www.islamophobia-watch.com/">Islamophobia Watch</a></li>
+<li><a href="http://jewssansfrontieres.blogspot.com/" title="An Anti-Zionist blog">Jews sans frontieres</a></li>
+<li><a href="http://drjohnrobertson.blogspot.com/" title="Dr John Robertson, Central Michigan University">John Robertson</a></li>
+<li><a href="http://josephdana.com/">Joseph Dana</a></li>
+<li><a href="http://justworldnews.org/" title="Helena Cobban">Just World News</a></li>
+<li><a href="http://www.kabobfest.com/">KABOBfest</a></li>
+<li><a href="http://harpers.org/subjects/WashingtonBabylon">Ken Silverstein</a></li>
+<li><a href="http://thecable.foreignpolicy.com/">Laura Rozen</a></li>
+<li><a href="http://lawrenceofcyberia.blogs.com/">Lawrence of Cyberia</a></li>
+<li><a href="http://www.lobelog.com/" title="Jim Lobe and friends on foreign policy">LobeLog</a></li>
+<li><a href="http://www.loonwatch.com/" title="Exposing the web’s plethora of anti-Muslim loons, wackos, and conspiracy theorists.">LoonWatch</a></li>
+<li><a href="http://lynch.foreignpolicy.com/">Marc Lynch</a></li>
+<li><a href="http://matthewyglesias.theatlantic.com/">Matthew Yglesias</a></li>
+<li><a href="http://mediagazer.com/">Mediagazer</a></li>
+<li><a href="http://www.memeorandum.com/">Memeorandum</a></li>
+<li><a href="http://mideastbrief.com/">MidEast Brief</a></li>
+<li><a href="http://israelpolicyforum.ngphost.com/blog/" title="Israel Policy Forum blog">MideastPeace Pulse</a></li>
+<li><a href="http://arablinks.blogspot.com/">Missing Links</a></li>
+<li><a href="http://mondoweiss.net/">Mondoweiss</a></li>
+<li><a href="http://www.muzzlewatch.com/">MuzzleWatch</a></li>
+<li><a href="http://palestineblogs.net/" title="Some Palestinians are dead, some are living, but most are not yet born.">Palestine Blogs</a></li>
+<li><a href="http://www.promisedlandblog.com/" title="Israeli journalist Noam Sheizaf">Promised Land</a></li>
+<li><a href="http://therealnews.com" title="The Real News Network">Real News</a></li>
+<li><a href="http://peoplesgeography.com/">Reclaiming Space</a></li>
+<li><a href="http://religionandterror.com/">Religion, Nationalism, and Terror</a></li>
+<li><a href="http://rbguy.dailykos.com/">Rob Browne at Daily Kos</a></li>
+<li><a href="http://tonykaron.com/">Rootless Cosmopolitan</a></li>
+<li><a href="http://www.scholarsandrogues.com/">Scholars and Rogues</a></li>
+<li><a href="http://www.joshualandis.com/blog/">Syria Comment</a></li>
+<li><a href="http://agonist.org/">The Agonist</a></li>
+<li><a href="http://angryarab.net/">The Angry Arab</a></li>
+<li><a href="http://arabist.net/">The Arabist</a></li>
+<li><a href="http://www.andrewsullivan.com/">The Daily Dish</a></li>
+<li><a href="http://themagneszionist.blogspot.com/">The Magnes Zionist</a></li>
+<li><a href="http://www.newshoggers.com/">The Newshoggers</a></li>
+<li><a href="http://www.rawstory.com/">The Raw Story</a></li>
+<li><a href="http://christopherdickey.blogspot.com/">The Shadowland Journal</a></li>
+<li><a href="http://www.richardsilverstein.com/tikun_olam/">Tikun Olam</a></li>
+<li><a href="http://www.tomdispatch.com/">TomDispatch</a></li>
+<li><a href="http://www.warandpiece.com/">War and Piece</a></li>
+<li><a href="http://www.washingtonindependent.com/">Washington Independent</a></li>
+<li><a href="http://www.washingtonmonthly.com/">Washington Monthly</a></li>
+<li><a href="http://wikileaks.org/" title="Wikileaks is developing an uncensorable system for untracable mass document leaking and public analysis">Wikileaks</a></li>
+
+	</ul>
+</li>
+<li class="widget widget_archive" id="archives-2"><h3>Archives</h3>		<select name="archive-dropdown" onchange='document.location.href=this.options[this.selectedIndex].value;'> <option value="">Select Month</option> 	<option value='http://warincontext.org/2010/12/'> December 2010 </option>
+	<option value='http://warincontext.org/2010/11/'> November 2010 </option>
+	<option value='http://warincontext.org/2010/10/'> October 2010 </option>
+	<option value='http://warincontext.org/2010/09/'> September 2010 </option>
+	<option value='http://warincontext.org/2010/08/'> August 2010 </option>
+	<option value='http://warincontext.org/2010/07/'> July 2010 </option>
+	<option value='http://warincontext.org/2010/06/'> June 2010 </option>
+	<option value='http://warincontext.org/2010/05/'> May 2010 </option>
+	<option value='http://warincontext.org/2010/04/'> April 2010 </option>
+	<option value='http://warincontext.org/2010/03/'> March 2010 </option>
+	<option value='http://warincontext.org/2010/02/'> February 2010 </option>
+	<option value='http://warincontext.org/2010/01/'> January 2010 </option>
+	<option value='http://warincontext.org/2009/12/'> December 2009 </option>
+	<option value='http://warincontext.org/2009/11/'> November 2009 </option>
+	<option value='http://warincontext.org/2009/10/'> October 2009 </option>
+	<option value='http://warincontext.org/2009/09/'> September 2009 </option>
+	<option value='http://warincontext.org/2009/08/'> August 2009 </option>
+	<option value='http://warincontext.org/2009/07/'> July 2009 </option>
+	<option value='http://warincontext.org/2009/06/'> June 2009 </option>
+	<option value='http://warincontext.org/2009/05/'> May 2009 </option>
+	<option value='http://warincontext.org/2009/04/'> April 2009 </option>
+	<option value='http://warincontext.org/2009/03/'> March 2009 </option>
+	<option value='http://warincontext.org/2009/02/'> February 2009 </option>
+	<option value='http://warincontext.org/2009/01/'> January 2009 </option>
+	<option value='http://warincontext.org/2008/12/'> December 2008 </option>
+	<option value='http://warincontext.org/2008/11/'> November 2008 </option>
+	<option value='http://warincontext.org/2008/10/'> October 2008 </option>
+	<option value='http://warincontext.org/2008/09/'> September 2008 </option>
+	<option value='http://warincontext.org/2008/08/'> August 2008 </option>
+	<option value='http://warincontext.org/2008/07/'> July 2008 </option>
+	<option value='http://warincontext.org/2008/06/'> June 2008 </option>
+	<option value='http://warincontext.org/2008/05/'> May 2008 </option>
+	<option value='http://warincontext.org/2008/04/'> April 2008 </option>
+	<option value='http://warincontext.org/2008/03/'> March 2008 </option>
+	<option value='http://warincontext.org/2008/02/'> February 2008 </option>
+	<option value='http://warincontext.org/2008/01/'> January 2008 </option>
+	<option value='http://warincontext.org/2007/12/'> December 2007 </option>
+	<option value='http://warincontext.org/2007/11/'> November 2007 </option>
+	<option value='http://warincontext.org/2007/10/'> October 2007 </option>
+	<option value='http://warincontext.org/2007/09/'> September 2007 </option>
+	<option value='http://warincontext.org/2007/08/'> August 2007 </option>
+	<option value='http://warincontext.org/2007/07/'> July 2007 </option>
+ </select>
+</li><li class="widget widget_text" id="text-1"><h3>Past Archives</h3>			<div class="textwidget"><a href="http://warincontext.org/oldarchivedirectory.html">Directory of weekly archives from January 13, 2002 up to September 16, 2007</a></div>
+		</li><li class="widget widget_categories" id="categories-1"><h3>Categories</h3>		<ul>
+	<li class="cat-item cat-item-183"><a href="http://warincontext.org/category/context/" title="View all posts filed under Context">Context</a>
+</li>
+	<li class="cat-item cat-item-3"><a href="http://warincontext.org/category/editors-comments/" title="View all posts filed under Editor&#039;s comments">Editor&#039;s comments</a>
+</li>
+	<li class="cat-item cat-item-78"><a href="http://warincontext.org/category/editorials/" title="View all posts filed under Editorials">Editorials</a>
+</li>
+	<li class="cat-item cat-item-4"><a href="http://warincontext.org/category/entities/" title="View all posts filed under Entities">Entities</a>
+<ul class='children'>
+	<li class="cat-item cat-item-143"><a href="http://warincontext.org/category/entities/9-11-commission/" title="View all posts filed under 9/11 Commission">9/11 Commission</a>
+</li>
+	<li class="cat-item cat-item-132"><a href="http://warincontext.org/category/entities/al-jazeera/" title="View all posts filed under Al Jazeera">Al Jazeera</a>
+</li>
+	<li class="cat-item cat-item-5"><a href="http://warincontext.org/category/entities/al-qaeda/" title="View all posts filed under Al Qaeda">Al Qaeda</a>
+</li>
+	<li class="cat-item cat-item-72"><a href="http://warincontext.org/category/entities/al-qaeda-in-iraq/" title="View all posts filed under Al Qaeda in Iraq">Al Qaeda in Iraq</a>
+</li>
+	<li class="cat-item cat-item-146"><a href="http://warincontext.org/category/entities/arab-league/" title="View all posts filed under Arab League">Arab League</a>
+</li>
+	<li class="cat-item cat-item-156"><a href="http://warincontext.org/category/entities/blackwater/" title="View all posts filed under Blackwater">Blackwater</a>
+</li>
+	<li class="cat-item cat-item-6"><a href="http://warincontext.org/category/entities/bush-administration/" title="View all posts filed under Bush Administration">Bush Administration</a>
+	<ul class='children'>
+	<li class="cat-item cat-item-7"><a href="http://warincontext.org/category/entities/bush-administration/bush/" title="View all posts filed under Bush">Bush</a>
+</li>
+	<li class="cat-item cat-item-8"><a href="http://warincontext.org/category/entities/bush-administration/cheney/" title="View all posts filed under Cheney">Cheney</a>
+</li>
+	</ul>
+</li>
+	<li class="cat-item cat-item-9"><a href="http://warincontext.org/category/entities/democrats/" title="View all posts filed under Democrats">Democrats</a>
+</li>
+	<li class="cat-item cat-item-10"><a href="http://warincontext.org/category/entities/european-union/" title="View all posts filed under European Union">European Union</a>
+</li>
+	<li class="cat-item cat-item-11"><a href="http://warincontext.org/category/entities/fatah/" title="View all posts filed under Fatah">Fatah</a>
+</li>
+	<li class="cat-item cat-item-127"><a href="http://warincontext.org/category/entities/gcc/" title="Gulf Cooperation Council">GCC</a>
+</li>
+	<li class="cat-item cat-item-88"><a href="http://warincontext.org/category/entities/gop/" title="View all posts filed under GOP">GOP</a>
+</li>
+	<li class="cat-item cat-item-12"><a href="http://warincontext.org/category/entities/hamas/" title="View all posts filed under Hamas">Hamas</a>
+</li>
+	<li class="cat-item cat-item-13"><a href="http://warincontext.org/category/entities/hezbollah/" title="View all posts filed under Hezbollah">Hezbollah</a>
+</li>
+	<li class="cat-item cat-item-14"><a href="http://warincontext.org/category/entities/iaea/" title="View all posts filed under IAEA">IAEA</a>
+</li>
+	<li class="cat-item cat-item-117"><a href="http://warincontext.org/category/entities/idf/" title="View all posts filed under IDF">IDF</a>
+</li>
+	<li class="cat-item cat-item-15"><a href="http://warincontext.org/category/entities/iraqi-government/" title="View all posts filed under Iraqi government">Iraqi government</a>
+</li>
+	<li class="cat-item cat-item-188"><a href="http://warincontext.org/category/entities/mossad/" title="View all posts filed under Mossad">Mossad</a>
+</li>
+	<li class="cat-item cat-item-16"><a href="http://warincontext.org/category/entities/muslim-brotherhood/" title="View all posts filed under Muslim Brotherhood">Muslim Brotherhood</a>
+</li>
+	<li class="cat-item cat-item-17"><a href="http://warincontext.org/category/entities/nato/" title="View all posts filed under NATO">NATO</a>
+</li>
+	<li class="cat-item cat-item-190"><a href="http://warincontext.org/category/entities/new-york-times/" title="View all posts filed under New York Times">New York Times</a>
+</li>
+	<li class="cat-item cat-item-165"><a href="http://warincontext.org/category/entities/northern-alliance/" title="View all posts filed under Northern Alliance">Northern Alliance</a>
+	<ul class='children'>
+	<li class="cat-item cat-item-166"><a href="http://warincontext.org/category/entities/northern-alliance/ahmed-shad-massoud/" title="View all posts filed under Ahmed Shad Massoud">Ahmed Shad Massoud</a>
+</li>
+	</ul>
+</li>
+	<li class="cat-item cat-item-145"><a href="http://warincontext.org/category/entities/obama-administration/" title="View all posts filed under Obama administration">Obama administration</a>
+	<ul class='children'>
+	<li class="cat-item cat-item-149"><a href="http://warincontext.org/category/entities/obama-administration/barack-obama/" title="View all posts filed under Barack Obama">Barack Obama</a>
+</li>
+	</ul>
+</li>
+	<li class="cat-item cat-item-195"><a href="http://warincontext.org/category/entities/oecd/" title="View all posts filed under OECD">OECD</a>
+</li>
+	<li class="cat-item cat-item-123"><a href="http://warincontext.org/category/entities/opec/" title="View all posts filed under OPEC">OPEC</a>
+</li>
+	<li class="cat-item cat-item-167"><a href="http://warincontext.org/category/entities/p5-plus-1/" title="View all posts filed under P5 plus 1">P5 plus 1</a>
+</li>
+	<li class="cat-item cat-item-157"><a href="http://warincontext.org/category/entities/palestinian-authority/" title="View all posts filed under Palestinian Authority">Palestinian Authority</a>
+</li>
+	<li class="cat-item cat-item-18"><a href="http://warincontext.org/category/entities/republicans/" title="View all posts filed under Republicans">Republicans</a>
+</li>
+	<li class="cat-item cat-item-79"><a href="http://warincontext.org/category/entities/revolutionary-guard/" title="Iranian Revolutionary Guard Corps">Revolutionary Guard</a>
+</li>
+	<li class="cat-item cat-item-19"><a href="http://warincontext.org/category/entities/taliban/" title="View all posts filed under Taliban">Taliban</a>
+</li>
+	<li class="cat-item cat-item-20"><a href="http://warincontext.org/category/entities/united-nations/" title="View all posts filed under United Nations">United Nations</a>
+</li>
+	<li class="cat-item cat-item-21"><a href="http://warincontext.org/category/entities/us-government/" title="View all posts filed under US government">US government</a>
+	<ul class='children'>
+	<li class="cat-item cat-item-22"><a href="http://warincontext.org/category/entities/us-government/cia/" title="View all posts filed under CIA">CIA</a>
+</li>
+	<li class="cat-item cat-item-23"><a href="http://warincontext.org/category/entities/us-government/congress/" title="View all posts filed under Congress">Congress</a>
+</li>
+	<li class="cat-item cat-item-27"><a href="http://warincontext.org/category/entities/us-government/defense-department/" title="View all posts filed under Defense Department">Defense Department</a>
+</li>
+	<li class="cat-item cat-item-24"><a href="http://warincontext.org/category/entities/us-government/department-of-justice/" title="View all posts filed under Department of Justice">Department of Justice</a>
+		<ul class='children'>
+	<li class="cat-item cat-item-137"><a href="http://warincontext.org/category/entities/us-government/department-of-justice/fbi/" title="View all posts filed under FBI">FBI</a>
+</li>
+		</ul>
+</li>
+	<li class="cat-item cat-item-25"><a href="http://warincontext.org/category/entities/us-government/homeland-security/" title="View all posts filed under Homeland Security">Homeland Security</a>
+</li>
+	<li class="cat-item cat-item-129"><a href="http://warincontext.org/category/entities/us-government/intelligence-community/" title="View all posts filed under intelligence community">intelligence community</a>
+</li>
+	<li class="cat-item cat-item-26"><a href="http://warincontext.org/category/entities/us-government/nsa/" title="View all posts filed under NSA">NSA</a>
+</li>
+	<li class="cat-item cat-item-128"><a href="http://warincontext.org/category/entities/us-government/odni/" title="View all posts filed under ODNI">ODNI</a>
+</li>
+	<li class="cat-item cat-item-28"><a href="http://warincontext.org/category/entities/us-government/state-department/" title="View all posts filed under State Department">State Department</a>
+</li>
+	<li class="cat-item cat-item-102"><a href="http://warincontext.org/category/entities/us-government/supreme-court/" title="View all posts filed under Supreme Court">Supreme Court</a>
+</li>
+	</ul>
+</li>
+	<li class="cat-item cat-item-201"><a href="http://warincontext.org/category/entities/wikileaks/" title="View all posts filed under WikiLeaks">WikiLeaks</a>
+</li>
+</ul>
+</li>
+	<li class="cat-item cat-item-144"><a href="http://warincontext.org/category/global-briefing/" title="View all posts filed under Global Briefing">Global Briefing</a>
+</li>
+	<li class="cat-item cat-item-135"><a href="http://warincontext.org/category/ideas/" title="View all posts filed under Ideas">Ideas</a>
+</li>
+	<li class="cat-item cat-item-29"><a href="http://warincontext.org/category/issues/" title="View all posts filed under Issues">Issues</a>
+<ul class='children'>
+	<li class="cat-item cat-item-141"><a href="http://warincontext.org/category/issues/06-lebanon-war/" title="View all posts filed under 2006 Lebanon War">2006 Lebanon War</a>
+</li>
+	<li class="cat-item cat-item-119"><a href="http://warincontext.org/category/issues/2008-presidential-election/" title="View all posts filed under 2008 Presidential Election">2008 Presidential Election</a>
+</li>
+	<li class="cat-item cat-item-209"><a href="http://warincontext.org/category/issues/2012-presidential-election/" title="View all posts filed under 2012 Presidential Election">2012 Presidential Election</a>
+</li>
+	<li class="cat-item cat-item-142"><a href="http://warincontext.org/category/issues/9-11/" title="View all posts filed under 9/11">9/11</a>
+</li>
+	<li class="cat-item cat-item-81"><a href="http://warincontext.org/category/issues/american-exceptionalism/" title="View all posts filed under American exceptionalism">American exceptionalism</a>
+</li>
+	<li class="cat-item cat-item-90"><a href="http://warincontext.org/category/issues/anti-semitism/" title="View all posts filed under anti-Semitism">anti-Semitism</a>
+</li>
+	<li class="cat-item cat-item-104"><a href="http://warincontext.org/category/issues/arms-trade/" title="View all posts filed under arms trade">arms trade</a>
+</li>
+	<li class="cat-item cat-item-82"><a href="http://warincontext.org/category/issues/christian-fundamentalism/" title="View all posts filed under Christian fundamentalism">Christian fundamentalism</a>
+</li>
+	<li class="cat-item cat-item-112"><a href="http://warincontext.org/category/issues/christian-right/" title="View all posts filed under Christian right">Christian right</a>
+</li>
+	<li class="cat-item cat-item-30"><a href="http://warincontext.org/category/issues/christian-zionism/" title="View all posts filed under Christian Zionism">Christian Zionism</a>
+</li>
+	<li class="cat-item cat-item-31"><a href="http://warincontext.org/category/issues/civil-liberties/" title="View all posts filed under civil liberties">civil liberties</a>
+</li>
+	<li class="cat-item cat-item-168"><a href="http://warincontext.org/category/issues/climate-change/" title="View all posts filed under climate change">climate change</a>
+</li>
+	<li class="cat-item cat-item-96"><a href="http://warincontext.org/category/issues/conservatism/" title="View all posts filed under conservatism">conservatism</a>
+</li>
+	<li class="cat-item cat-item-87"><a href="http://warincontext.org/category/issues/corruption/" title="View all posts filed under corruption">corruption</a>
+</li>
+	<li class="cat-item cat-item-111"><a href="http://warincontext.org/category/issues/crime/" title="View all posts filed under crime">crime</a>
+</li>
+	<li class="cat-item cat-item-32"><a href="http://warincontext.org/category/issues/culture/" title="View all posts filed under culture">culture</a>
+</li>
+	<li class="cat-item cat-item-203"><a href="http://warincontext.org/category/issues/cyberwarfare/" title="View all posts filed under cyberwarfare">cyberwarfare</a>
+</li>
+	<li class="cat-item cat-item-33"><a href="http://warincontext.org/category/issues/democracy/" title="View all posts filed under democracy">democracy</a>
+</li>
+	<li class="cat-item cat-item-95"><a href="http://warincontext.org/category/issues/diplomacy/" title="View all posts filed under diplomacy">diplomacy</a>
+</li>
+	<li class="cat-item cat-item-122"><a href="http://warincontext.org/category/issues/dollar/" title="View all posts filed under dollar">dollar</a>
+</li>
+	<li class="cat-item cat-item-153"><a href="http://warincontext.org/category/issues/dual-loyalty/" title="View all posts filed under dual loyalty">dual loyalty</a>
+</li>
+	<li class="cat-item cat-item-85"><a href="http://warincontext.org/category/issues/economics/" title="View all posts filed under economics">economics</a>
+</li>
+	<li class="cat-item cat-item-34"><a href="http://warincontext.org/category/issues/elections/" title="View all posts filed under elections">elections</a>
+</li>
+	<li class="cat-item cat-item-35"><a href="http://warincontext.org/category/issues/environment/" title="View all posts filed under environment">environment</a>
+</li>
+	<li class="cat-item cat-item-105"><a href="http://warincontext.org/category/issues/evangelism/" title="View all posts filed under evangelism">evangelism</a>
+</li>
+	<li class="cat-item cat-item-36"><a href="http://warincontext.org/category/issues/foreign-policy/" title="View all posts filed under foreign policy">foreign policy</a>
+</li>
+	<li class="cat-item cat-item-198"><a href="http://warincontext.org/category/issues/freedom-flotilla/" title="View all posts filed under Freedom Flotilla">Freedom Flotilla</a>
+</li>
+	<li class="cat-item cat-item-163"><a href="http://warincontext.org/category/issues/global-culture/" title="View all posts filed under global culture">global culture</a>
+</li>
+	<li class="cat-item cat-item-151"><a href="http://warincontext.org/category/issues/global-economic-crisis/" title="View all posts filed under global economic crisis">global economic crisis</a>
+</li>
+	<li class="cat-item cat-item-169"><a href="http://warincontext.org/category/issues/goldstone-report/" title="View all posts filed under Goldstone Report">Goldstone Report</a>
+</li>
+	<li class="cat-item cat-item-37"><a href="http://warincontext.org/category/issues/human-rights/" title="View all posts filed under human rights">human rights</a>
+	<ul class='children'>
+	<li class="cat-item cat-item-124"><a href="http://warincontext.org/category/issues/human-rights/collective-punishment/" title="View all posts filed under collective punishment">collective punishment</a>
+</li>
+	<li class="cat-item cat-item-38"><a href="http://warincontext.org/category/issues/human-rights/extrajudicial-detention/" title="View all posts filed under extrajudicial detention">extrajudicial detention</a>
+</li>
+	<li class="cat-item cat-item-39"><a href="http://warincontext.org/category/issues/human-rights/extrajudicial-killing/" title="View all posts filed under extrajudicial killing">extrajudicial killing</a>
+</li>
+	<li class="cat-item cat-item-89"><a href="http://warincontext.org/category/issues/human-rights/guantanamo/" title="View all posts filed under Guantanamo">Guantanamo</a>
+</li>
+	<li class="cat-item cat-item-40"><a href="http://warincontext.org/category/issues/human-rights/rendition/" title="View all posts filed under rendition">rendition</a>
+</li>
+	<li class="cat-item cat-item-41"><a href="http://warincontext.org/category/issues/human-rights/torture/" title="View all posts filed under torture">torture</a>
+</li>
+	</ul>
+</li>
+	<li class="cat-item cat-item-206"><a href="http://warincontext.org/category/issues/inequality/" title="View all posts filed under inequality">inequality</a>
+</li>
+	<li class="cat-item cat-item-42"><a href="http://warincontext.org/category/issues/international-relations/" title="View all posts filed under international relations">international relations</a>
+</li>
+	<li class="cat-item cat-item-207"><a href="http://warincontext.org/category/issues/internet/" title="View all posts filed under internet">internet</a>
+	<ul class='children'>
+	<li class="cat-item cat-item-208"><a href="http://warincontext.org/category/issues/internet/social-media/" title="View all posts filed under social media">social media</a>
+</li>
+	</ul>
+</li>
+	<li class="cat-item cat-item-113"><a href="http://warincontext.org/category/issues/islamophobia/" title="View all posts filed under Islamophobia">Islamophobia</a>
+</li>
+	<li class="cat-item cat-item-43"><a href="http://warincontext.org/category/issues/israel-lobby/" title="View all posts filed under Israel lobby">Israel lobby</a>
+</li>
+	<li class="cat-item cat-item-114"><a href="http://warincontext.org/category/issues/israeli-occupation/" title="View all posts filed under Israeli occupation">Israeli occupation</a>
+</li>
+	<li class="cat-item cat-item-84"><a href="http://warincontext.org/category/issues/israeli-palestinian-conflict/" title="View all posts filed under Israeli-Palestinian conflict">Israeli-Palestinian conflict</a>
+	<ul class='children'>
+	<li class="cat-item cat-item-175"><a href="http://warincontext.org/category/issues/israeli-palestinian-conflict/bds-movement/" title="View all posts filed under BDS movement">BDS movement</a>
+</li>
+	<li class="cat-item cat-item-181"><a href="http://warincontext.org/category/issues/israeli-palestinian-conflict/gaza-update/" title="View all posts filed under Gaza Update">Gaza Update</a>
+</li>
+	<li class="cat-item cat-item-164"><a href="http://warincontext.org/category/issues/israeli-palestinian-conflict/one-state-solution/" title="View all posts filed under One-State Solution">One-State Solution</a>
+</li>
+	<li class="cat-item cat-item-160"><a href="http://warincontext.org/category/issues/israeli-palestinian-conflict/two-state-solution/" title="View all posts filed under Two-State Solution">Two-State Solution</a>
+</li>
+	</ul>
+</li>
+	<li class="cat-item cat-item-150"><a href="http://warincontext.org/category/issues/israeli-palestinian-war/" title="View all posts filed under Israeli-Palestinian war">Israeli-Palestinian war</a>
+</li>
+	<li class="cat-item cat-item-171"><a href="http://warincontext.org/category/issues/jewish-identity/" title="View all posts filed under Jewish identity">Jewish identity</a>
+</li>
+	<li class="cat-item cat-item-174"><a href="http://warincontext.org/category/issues/jihadism/" title="View all posts filed under Jihadism">Jihadism</a>
+</li>
+	<li class="cat-item cat-item-99"><a href="http://warincontext.org/category/issues/kurdish-autonomy/" title="View all posts filed under Kurdish autonomy">Kurdish autonomy</a>
+</li>
+	<li class="cat-item cat-item-44"><a href="http://warincontext.org/category/issues/law/" title="View all posts filed under law">law</a>
+</li>
+	<li class="cat-item cat-item-45"><a href="http://warincontext.org/category/issues/media/" title="View all posts filed under media">media</a>
+</li>
+	<li class="cat-item cat-item-91"><a href="http://warincontext.org/category/issues/mercenaries/" title="View all posts filed under mercenaries">mercenaries</a>
+</li>
+	<li class="cat-item cat-item-46"><a href="http://warincontext.org/category/issues/military-affairs/" title="View all posts filed under military affairs">military affairs</a>
+</li>
+	<li class="cat-item cat-item-158"><a href="http://warincontext.org/category/issues/militias/" title="View all posts filed under militias">militias</a>
+</li>
+	<li class="cat-item cat-item-115"><a href="http://warincontext.org/category/issues/missile-defense/" title="View all posts filed under missile defense">missile defense</a>
+</li>
+	<li class="cat-item cat-item-47"><a href="http://warincontext.org/category/issues/national-security/" title="View all posts filed under national security">national security</a>
+</li>
+	<li class="cat-item cat-item-48"><a href="http://warincontext.org/category/issues/neoconservatism/" title="View all posts filed under neoconservatism">neoconservatism</a>
+	<ul class='children'>
+	<li class="cat-item cat-item-172"><a href="http://warincontext.org/category/issues/neoconservatism/neocons/" title="View all posts filed under neocons">neocons</a>
+</li>
+	</ul>
+</li>
+	<li class="cat-item cat-item-126"><a href="http://warincontext.org/category/issues/nie/" title="National Intelligence Estimate">NIE</a>
+</li>
+	<li class="cat-item cat-item-49"><a href="http://warincontext.org/category/issues/nuclear-issues/" title="View all posts filed under nuclear issues">nuclear issues</a>
+</li>
+	<li class="cat-item cat-item-110"><a href="http://warincontext.org/category/issues/oil/" title="View all posts filed under oil">oil</a>
+	<ul class='children'>
+	<li class="cat-item cat-item-186"><a href="http://warincontext.org/category/issues/oil/natural-gas/" title="View all posts filed under natural gas">natural gas</a>
+</li>
+	</ul>
+</li>
+	<li class="cat-item cat-item-189"><a href="http://warincontext.org/category/issues/palestinians/" title="View all posts filed under Palestinians">Palestinians</a>
+</li>
+	<li class="cat-item cat-item-100"><a href="http://warincontext.org/category/issues/political-dialogue/" title="View all posts filed under political dialogue">political dialogue</a>
+</li>
+	<li class="cat-item cat-item-50"><a href="http://warincontext.org/category/issues/political-islam/" title="View all posts filed under political Islam">political Islam</a>
+</li>
+	<li class="cat-item cat-item-107"><a href="http://warincontext.org/category/issues/political-resistance/" title="View all posts filed under political resistance">political resistance</a>
+</li>
+	<li class="cat-item cat-item-108"><a href="http://warincontext.org/category/issues/preventive-war/" title="View all posts filed under preventive war">preventive war</a>
+</li>
+	<li class="cat-item cat-item-139"><a href="http://warincontext.org/category/issues/propaganda/" title="View all posts filed under propaganda">propaganda</a>
+</li>
+	<li class="cat-item cat-item-120"><a href="http://warincontext.org/category/issues/racism/" title="View all posts filed under racism">racism</a>
+</li>
+	<li class="cat-item cat-item-92"><a href="http://warincontext.org/category/issues/refugees/" title="View all posts filed under refugees">refugees</a>
+</li>
+	<li class="cat-item cat-item-154"><a href="http://warincontext.org/category/issues/religion/" title="View all posts filed under religion">religion</a>
+</li>
+	<li class="cat-item cat-item-196"><a href="http://warincontext.org/category/issues/remote-warfare/" title="View all posts filed under remote warfare">remote warfare</a>
+</li>
+	<li class="cat-item cat-item-159"><a href="http://warincontext.org/category/issues/right-of-return/" title="View all posts filed under Right of return">Right of return</a>
+</li>
+	<li class="cat-item cat-item-94"><a href="http://warincontext.org/category/issues/six-day-war/" title="View all posts filed under Six-Day War">Six-Day War</a>
+</li>
+	<li class="cat-item cat-item-134"><a href="http://warincontext.org/category/issues/subnational-identities/" title="View all posts filed under subnational identities">subnational identities</a>
+</li>
+	<li class="cat-item cat-item-101"><a href="http://warincontext.org/category/issues/suicide-bombing/" title="View all posts filed under suicide bombing">suicide bombing</a>
+</li>
+	<li class="cat-item cat-item-204"><a href="http://warincontext.org/category/issues/tea-party/" title="View all posts filed under Tea Party">Tea Party</a>
+</li>
+	<li class="cat-item cat-item-51"><a href="http://warincontext.org/category/issues/terrorism/" title="View all posts filed under terrorism">terrorism</a>
+</li>
+	<li class="cat-item cat-item-80"><a href="http://warincontext.org/category/issues/war-against-iran/" title="View all posts filed under war against Iran">war against Iran</a>
+</li>
+	<li class="cat-item cat-item-152"><a href="http://warincontext.org/category/issues/war-crimes/" title="View all posts filed under war crimes">war crimes</a>
+</li>
+	<li class="cat-item cat-item-74"><a href="http://warincontext.org/category/issues/war-in-afghanistan/" title="View all posts filed under war in Afghanistan">war in Afghanistan</a>
+</li>
+	<li class="cat-item cat-item-73"><a href="http://warincontext.org/category/issues/war-in-iraq/" title="View all posts filed under war in Iraq">war in Iraq</a>
+	<ul class='children'>
+	<li class="cat-item cat-item-76"><a href="http://warincontext.org/category/issues/war-in-iraq/iraqi-insurgency/" title="View all posts filed under Iraqi insurgency">Iraqi insurgency</a>
+</li>
+	<li class="cat-item cat-item-83"><a href="http://warincontext.org/category/issues/war-in-iraq/plunder-of-iraq/" title="View all posts filed under plunder of Iraq">plunder of Iraq</a>
+</li>
+	<li class="cat-item cat-item-178"><a href="http://warincontext.org/category/issues/war-in-iraq/the-iraq-inquiry/" title="View all posts filed under The Iraq Inquiry">The Iraq Inquiry</a>
+</li>
+	<li class="cat-item cat-item-75"><a href="http://warincontext.org/category/issues/war-in-iraq/occupation-of-iraq/" title="View all posts filed under US occupation of Iraq">US occupation of Iraq</a>
+</li>
+	</ul>
+</li>
+	<li class="cat-item cat-item-103"><a href="http://warincontext.org/category/issues/war-in-pakistan/" title="View all posts filed under war in Pakistan">war in Pakistan</a>
+</li>
+	<li class="cat-item cat-item-147"><a href="http://warincontext.org/category/issues/war-on-gaza/" title="View all posts filed under War on Gaza">War on Gaza</a>
+</li>
+	<li class="cat-item cat-item-52"><a href="http://warincontext.org/category/issues/war-on-terrorism/" title="View all posts filed under War on Terrorism">War on Terrorism</a>
+</li>
+	<li class="cat-item cat-item-194"><a href="http://warincontext.org/category/issues/western-imperialism/" title="View all posts filed under Western imperialism">Western imperialism</a>
+</li>
+	<li class="cat-item cat-item-125"><a href="http://warincontext.org/category/issues/women-in-islam/" title="View all posts filed under women in Islam">women in Islam</a>
+</li>
+	<li class="cat-item cat-item-86"><a href="http://warincontext.org/category/issues/xenophobia/" title="View all posts filed under xenophobia">xenophobia</a>
+</li>
+	<li class="cat-item cat-item-148"><a href="http://warincontext.org/category/issues/zionism/" title="View all posts filed under Zionism">Zionism</a>
+	<ul class='children'>
+	<li class="cat-item cat-item-170"><a href="http://warincontext.org/category/issues/zionism/j-street/" title="View all posts filed under J Street">J Street</a>
+</li>
+	</ul>
+</li>
+</ul>
+</li>
+	<li class="cat-item cat-item-53"><a href="http://warincontext.org/category/lands/" title="View all posts filed under Lands">Lands</a>
+<ul class='children'>
+	<li class="cat-item cat-item-54"><a href="http://warincontext.org/category/lands/afghanistan/" title="View all posts filed under Afghanistan">Afghanistan</a>
+</li>
+	<li class="cat-item cat-item-121"><a href="http://warincontext.org/category/lands/africa/" title="View all posts filed under Africa">Africa</a>
+</li>
+	<li class="cat-item cat-item-205"><a href="http://warincontext.org/category/lands/asia/" title="View all posts filed under Asia">Asia</a>
+</li>
+	<li class="cat-item cat-item-211"><a href="http://warincontext.org/category/lands/australia/" title="View all posts filed under Australia">Australia</a>
+</li>
+	<li class="cat-item cat-item-177"><a href="http://warincontext.org/category/lands/brazil/" title="View all posts filed under Brazil">Brazil</a>
+</li>
+	<li class="cat-item cat-item-185"><a href="http://warincontext.org/category/lands/central-asia/" title="View all posts filed under Central Asia">Central Asia</a>
+</li>
+	<li class="cat-item cat-item-97"><a href="http://warincontext.org/category/lands/china/" title="View all posts filed under China">China</a>
+</li>
+	<li class="cat-item cat-item-191"><a href="http://warincontext.org/category/lands/congo/" title="View all posts filed under Congo">Congo</a>
+</li>
+	<li class="cat-item cat-item-184"><a href="http://warincontext.org/category/lands/costa-rica/" title="View all posts filed under Costa Rica">Costa Rica</a>
+</li>
+	<li class="cat-item cat-item-55"><a href="http://warincontext.org/category/lands/egypt/" title="View all posts filed under Egypt">Egypt</a>
+</li>
+	<li class="cat-item cat-item-56"><a href="http://warincontext.org/category/lands/europe/" title="View all posts filed under Europe">Europe</a>
+</li>
+	<li class="cat-item cat-item-130"><a href="http://warincontext.org/category/lands/france/" title="View all posts filed under France">France</a>
+</li>
+	<li class="cat-item cat-item-173"><a href="http://warincontext.org/category/lands/germany/" title="View all posts filed under Germany">Germany</a>
+</li>
+	<li class="cat-item cat-item-187"><a href="http://warincontext.org/category/lands/haiti/" title="View all posts filed under Haiti">Haiti</a>
+</li>
+	<li class="cat-item cat-item-57"><a href="http://warincontext.org/category/lands/india/" title="View all posts filed under India">India</a>
+</li>
+	<li class="cat-item cat-item-58"><a href="http://warincontext.org/category/lands/iran/" title="View all posts filed under Iran">Iran</a>
+</li>
+	<li class="cat-item cat-item-59"><a href="http://warincontext.org/category/lands/iraq/" title="View all posts filed under Iraq">Iraq</a>
+</li>
+	<li class="cat-item cat-item-199"><a href="http://warincontext.org/category/lands/irish-republic/" title="View all posts filed under Irish Republic">Irish Republic</a>
+</li>
+	<li class="cat-item cat-item-60"><a href="http://warincontext.org/category/lands/israel/" title="View all posts filed under Israel">Israel</a>
+</li>
+	<li class="cat-item cat-item-61"><a href="http://warincontext.org/category/lands/jordan/" title="View all posts filed under Jordan">Jordan</a>
+</li>
+	<li class="cat-item cat-item-202"><a href="http://warincontext.org/category/lands/kashmir/" title="View all posts filed under Kashmir">Kashmir</a>
+</li>
+	<li class="cat-item cat-item-62"><a href="http://warincontext.org/category/lands/lebanon/" title="View all posts filed under Lebanon">Lebanon</a>
+</li>
+	<li class="cat-item cat-item-131"><a href="http://warincontext.org/category/lands/libya/" title="View all posts filed under Libya">Libya</a>
+</li>
+	<li class="cat-item cat-item-63"><a href="http://warincontext.org/category/lands/middle-east/" title="View all posts filed under Middle East">Middle East</a>
+</li>
+	<li class="cat-item cat-item-93"><a href="http://warincontext.org/category/lands/myanmar/" title="View all posts filed under Myanmar">Myanmar</a>
+</li>
+	<li class="cat-item cat-item-193"><a href="http://warincontext.org/category/lands/netherlands/" title="View all posts filed under Netherlands">Netherlands</a>
+</li>
+	<li class="cat-item cat-item-155"><a href="http://warincontext.org/category/lands/nigeria/" title="View all posts filed under Nigeria">Nigeria</a>
+</li>
+	<li class="cat-item cat-item-77"><a href="http://warincontext.org/category/lands/north-korea/" title="View all posts filed under North Korea">North Korea</a>
+</li>
+	<li class="cat-item cat-item-162"><a href="http://warincontext.org/category/lands/norway/" title="View all posts filed under Norway">Norway</a>
+</li>
+	<li class="cat-item cat-item-64"><a href="http://warincontext.org/category/lands/pakistan/" title="View all posts filed under Pakistan">Pakistan</a>
+	<ul class='children'>
+	<li class="cat-item cat-item-179"><a href="http://warincontext.org/category/lands/pakistan/baluchistan/" title="View all posts filed under Baluchistan">Baluchistan</a>
+</li>
+	</ul>
+</li>
+	<li class="cat-item cat-item-210"><a href="http://warincontext.org/category/lands/palestine/" title="View all posts filed under Palestine">Palestine</a>
+</li>
+	<li class="cat-item cat-item-65"><a href="http://warincontext.org/category/lands/palestinian-territories/" title="View all posts filed under Palestinian Territories">Palestinian Territories</a>
+	<ul class='children'>
+	<li class="cat-item cat-item-66"><a href="http://warincontext.org/category/lands/palestinian-territories/gaza/" title="View all posts filed under Gaza">Gaza</a>
+</li>
+	<li class="cat-item cat-item-67"><a href="http://warincontext.org/category/lands/palestinian-territories/west-bank/" title="View all posts filed under West Bank">West Bank</a>
+</li>
+	</ul>
+</li>
+	<li class="cat-item cat-item-133"><a href="http://warincontext.org/category/lands/qatar/" title="View all posts filed under Qatar">Qatar</a>
+</li>
+	<li class="cat-item cat-item-106"><a href="http://warincontext.org/category/lands/russia/" title="View all posts filed under Russia">Russia</a>
+</li>
+	<li class="cat-item cat-item-68"><a href="http://warincontext.org/category/lands/saudi-arabia/" title="View all posts filed under Saudi Arabia">Saudi Arabia</a>
+</li>
+	<li class="cat-item cat-item-116"><a href="http://warincontext.org/category/lands/somalia/" title="View all posts filed under Somalia">Somalia</a>
+</li>
+	<li class="cat-item cat-item-197"><a href="http://warincontext.org/category/lands/south-africa/" title="View all posts filed under South Africa">South Africa</a>
+</li>
+	<li class="cat-item cat-item-118"><a href="http://warincontext.org/category/lands/spain/" title="View all posts filed under Spain">Spain</a>
+</li>
+	<li class="cat-item cat-item-109"><a href="http://warincontext.org/category/lands/sudan/" title="View all posts filed under Sudan">Sudan</a>
+</li>
+	<li class="cat-item cat-item-176"><a href="http://warincontext.org/category/lands/switzerland/" title="View all posts filed under Switzerland">Switzerland</a>
+</li>
+	<li class="cat-item cat-item-69"><a href="http://warincontext.org/category/lands/syria/" title="View all posts filed under Syria">Syria</a>
+</li>
+	<li class="cat-item cat-item-98"><a href="http://warincontext.org/category/lands/turkey/" title="View all posts filed under Turkey">Turkey</a>
+</li>
+	<li class="cat-item cat-item-192"><a href="http://warincontext.org/category/lands/turkmenistan/" title="View all posts filed under Turkmenistan">Turkmenistan</a>
+</li>
+	<li class="cat-item cat-item-136"><a href="http://warincontext.org/category/lands/uae/" title="View all posts filed under UAE">UAE</a>
+</li>
+	<li class="cat-item cat-item-70"><a href="http://warincontext.org/category/lands/united-kingdom/" title="View all posts filed under United Kingdom">United Kingdom</a>
+</li>
+	<li class="cat-item cat-item-71"><a href="http://warincontext.org/category/lands/united-states/" title="View all posts filed under United States">United States</a>
+</li>
+	<li class="cat-item cat-item-138"><a href="http://warincontext.org/category/lands/vietnam/" title="View all posts filed under Vietnam">Vietnam</a>
+</li>
+	<li class="cat-item cat-item-161"><a href="http://warincontext.org/category/lands/yemen/" title="View all posts filed under Yemen">Yemen</a>
+</li>
+</ul>
+</li>
+	<li class="cat-item cat-item-182"><a href="http://warincontext.org/category/music/" title="View all posts filed under Music">Music</a>
+</li>
+	<li class="cat-item cat-item-140"><a href="http://warincontext.org/category/news-roundup/" title="View all posts filed under News Roundup">News Roundup</a>
+</li>
+	<li class="cat-item cat-item-200"><a href="http://warincontext.org/category/tomdispatch/" title="View all posts filed under TomDispatch">TomDispatch</a>
+</li>
+	<li class="cat-item cat-item-180"><a href="http://warincontext.org/category/year-in-review/" title="View all posts filed under Year in review">Year in review</a>
+</li>
+	<li class="cat-item cat-item-1"><a href="http://warincontext.org/category/uncategorized/" title="View all posts filed under yet to be categorized">yet to be categorized</a>
+</li>
+		</ul>
+</li><li class="widget widget_meta" id="meta-2"><h3>Meta</h3>			<ul>
+						<li><a href="http://warincontext.org/wp-login.php">Log in</a></li>
+			<li><a href="http://warincontext.org/feed/" title="Syndicate this site using RSS 2.0">Entries <abbr title="Really Simple Syndication">RSS</abbr></a></li>
+			<li><a href="http://warincontext.org/comments/feed/" title="The latest comments to all posts in RSS">Comments <abbr title="Really Simple Syndication">RSS</abbr></a></li>
+			<li><a href="http://wordpress.org/" title="Powered by WordPress, state-of-the-art semantic personal publishing platform.">WordPress.org</a></li>
+						</ul>
+</li>				</ul>
+			</div>
+		</div>
+		<div id="sidebars">
+			<div id="sidebar_2" class="sidebar">
+				<ul class="sidebar_list">
+<li class="widget widget_text" id="text-597852938"><h3>WikiLeaks &#8212; keeps going</h3>			<div class="textwidget"><a href="http://www.avaaz.org/en/wikileaks_petition/95.php?CLICKTF"><strong>Stop the crackdown: sign the petition</strong></a><br /><br />
+<a href="http://wikileaks.ch/">wikileaks.ch</a><br />
+<!--<a href="http://wikileaks.fi/">wikileaks.fi</a><br />
+<a href="http://wikileaks.liberation.fr/">wikileaks.liberation.fr</a><br />-->
+<a href="http://cablesearch.org/"><strong>Cable Search</strong></a><br />
+<a href="http://twitter.com/#!/wikileaks/">Twitter</a><br />
+<a href="http://wlcentral.org/">WL Central</a><br />
+<!--<a href="http://213.251.145.96/">213.251.145.96</a>--></div>
+		</li><li class="widget thesis_widget_subscriptions" id="subscriptions">
+<h3>Daily Updates</h3>
+<p>Enter your email address and click "subscribe"</p>
+<ul>
+	<li class="sub_email"><form style="border:0px solid #FF6347;padding:2px;text-align:left;" action="http://www.feedburner.com/fb/a/emailverify" method="post" target="popupwindow" onsubmit="window.open('http://www.feedburner.com', 'popupwindow', 'scrollbars=yes,width=550,height=520');return true"><input type="text" style="width:75px" name="email" /><input type="hidden" value="http://feeds.feedburner.com/~e?ffid=1188429" name="url"/><input type="hidden" value="War in Context" name="title"/><input type="hidden" name="loc" value="en_US"/><input type="submit" value="subscribe" /></form></li>
+</ul>
+</li>
+<li class="widget thesis_widget_search" id="search">
+<h3>Search</h3>
+<form method="get" class="search_form" action="http://warincontext.org/">
+	<p>
+		<input class="text_input" type="text" value="To search, type and hit enter" name="s" id="s" onfocus="if (this.value == 'To search, type and hit enter') {this.value = '';}" onblur="if (this.value == '') {this.value = 'To search, type and hit enter';}" />
+		<input type="hidden" id="searchsubmit" value="Search" />
+	</p>
+</form>
+</li>
+<li class="widget widget_text" id="text-506357771">			<div class="textwidget"><script type="text/javascript"><!--
+google_ad_client = "pub-4329015092483808";
+/* 160x600, created 4/30/10 */
+google_ad_slot = "2956045048";
+google_ad_width = 160;
+google_ad_height = 600;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></div>
+		</li><li class="widget widget_text" id="text-506233661">			<div class="textwidget"><script type="text/javascript"><!--
+google_ad_client = "pub-4329015092483808";
+/* 160x90, created 11/7/10 */
+google_ad_slot = "5871578336";
+google_ad_width = 160;
+google_ad_height = 90;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></div>
+		</li><li class="widget widget_text" id="text-506355831">			<div class="textwidget"><script type="text/javascript"><!--
+google_ad_client = "pub-4329015092483808";
+/* 160x600 D, created 8/8/09 */
+google_ad_slot = "9981950946";
+google_ad_width = 160;
+google_ad_height = 600;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></div>
+		</li><li class="widget widget_text" id="text-597852936">			<div class="textwidget"><script type="text/javascript"><!--
+google_ad_client = "pub-4329015092483808";
+/* 160x90 B, created 11/7/10 */
+google_ad_slot = "7630836580";
+google_ad_width = 160;
+google_ad_height = 90;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></div>
+		</li><li class="widget widget_text" id="text-597852935">			<div class="textwidget"><script type="text/javascript"><!--
+google_ad_client = "pub-4329015092483808";
+/* 160x600, created 8/8/09 */
+google_ad_slot = "0238176130";
+google_ad_width = 160;
+google_ad_height = 600;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></div>
+		</li><li class="widget widget_text" id="text-597852937">			<div class="textwidget"><script type="text/javascript"><!--
+google_ad_client = "pub-4329015092483808";
+/* 160x90 C, created 11/7/10 */
+google_ad_slot = "5927136789";
+google_ad_width = 160;
+google_ad_height = 90;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></div>
+		</li>				</ul>
+			</div>
+		</div>
+	</div>
+	<div id="footer">
+		<p>Get smart with the <a href="http://diythemes.com/thesis/">Thesis WordPress Theme</a> from DIYthemes.</p>
+		<p><a href="http://warincontext.org/wp-admin/">WordPress Admin</a></p>
+<script type='text/javascript' src='http://warincontext.org/wp-includes/js/jquery/jquery.form.js?ver=2.02m'></script>
+<script type='text/javascript' src='http://warincontext.org/wp-content/plugins/contact-form-7/scripts.js?ver=2.1.2'></script>
+<script type='text/javascript' id='aptureScript' src='http://www.apture.com/js/apture.js?siteToken=QLlJzhn' charset='utf-8'></script>	</div>
+</div>
+</div>
+<!--[if lte IE 7]>
+<div id="ie_clear"></div>
+<![endif]-->
+<script type="text/javascript"src="http://edge.quantserve.com/quant.js"></script><script type="text/javascript">_qacct="p-aej-_VjfkqTVk";quantserve();</script><noscript><a href="http://www.quantcast.com/p-aej-_VjfkqTVk"target="_blank"><img src="http://pixel.quantserve.com/pixel/p-aej-_VjfkqTVk.gif"style="display: none;"border="0"height="1"width="1"alt="Quantcast"/></a></noscript>
+<script type="text/javascript"language="JavaScript">var site="sm7warincontext"</script><script type="text/javascript"language="JavaScript1.2"src="http://sm7.sitemeter.com/js/counter.js?site=sm7warincontext"></script><noscript><a href="http://sm7.sitemeter.com/stats.asp?site=sm7warincontext"target="_top"><img src="http://sm7.sitemeter.com/meter.asp?site=sm7warincontext"alt="Site Meter"border=0></a></noscript>
+
+</body>
+</html>

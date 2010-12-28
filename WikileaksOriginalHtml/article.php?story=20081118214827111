@@ -1,0 +1,560 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+<title>BNP Membership List Exposed - Infoshop News</title>
+<meta http-equiv="Content-Script-Type" content="text/javascript">
+<meta http-equiv="Content-Style-Type" content="text/css">
+<!-- link rel="SHORTCUT ICON" href="http://news.infoshop.org/favicon.ico" -->
+<!-- <meta http-equiv="Pragma" content="no-cache"> -->
+<link rel="stylesheet" type="text/css" href="http://news.infoshop.org/layout/professional/style.css" title="professional">
+<link rel="alternate" type="application/rss+xml" hreflang="en-gb" href="http://news.infoshop.org/backend/news.rss" title="RSS Feed: Infoshop Top Stories">
+<link rel="home" href="http://news.infoshop.org/" title="Home">
+<link rel="search" href="http://news.infoshop.org/search.php" title="Advanced Search">
+<link rel="contents" href="http://news.infoshop.org/directory.php" title="Directory">
+<link rel="canonical" href="http://news.infoshop.org/article.php?story=20081118214827111">
+<!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rdf:Description
+    rdf:about="http://news.infoshop.org/article.php?story=20081118214827111"
+    trackback:ping="http://news.infoshop.org/trackback.php?id=20081118214827111"
+    dc:title="BNP Membership List Exposed"
+    dc:identifier="http://news.infoshop.org/article.php?story=20081118214827111" />
+</rdf:RDF>
+-->
+
+<!-- Bad Behavior 2.0.36 run time: 1.805 ms -->
+<script type="text/javascript">
+<!--
+function bb2_addLoadEvent(func) {
+	var oldonload = window.onload;
+	if (typeof window.onload != 'function') {
+		window.onload = func;
+	} else {
+		window.onload = function() {
+			oldonload();
+			func();
+		}
+	}
+}
+
+bb2_addLoadEvent(function() {
+	for ( i=0; i < document.forms.length; i++ ) {
+		if (document.forms[i].method == 'post') {
+			var myElement = document.createElement('input');
+			myElement.setAttribute('type', 'hidden');
+			myElement.name = 'bb2_screener_';
+			myElement.value = '1293405139 89.206.68.19';
+			document.forms[i].appendChild(myElement);
+		}
+	}
+});
+// --></script>
+		
+<link rel="stylesheet" type="text/css" href="http://news.infoshop.org/polls/style.css"><script type="text/javascript">
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-746010-1']);
+_gaq.push(['_trackPageview']);
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(ga);
+})();
+</script>
+<!-- Load Advanced Editor -->
+<script type="text/javascript" src="http://news.infoshop.org/fckeditor/fckeditor.js"></script>
+<script type="text/javascript">
+    var geeklogEditorBaseUrl = 'http://news.infoshop.org';
+</script>
+<!-- End of Editor Load -->
+
+<!-- Load Common Javascript Libraries -->
+<script type="text/javascript" src="http://news.infoshop.org/javascript/common.js"></script>
+</head>
+
+<body dir="ltr">
+    <div class="header-navigation-container clearfix">
+        <ul>
+            <li><a href="http://news.infoshop.org/submit.php?type=story&amp;topic=52">Contribute</a></li>
+<li><a href="http://news.infoshop.org/search.php">Advanced Search</a></li>
+<li><a href="http://news.infoshop.org/stats.php">Site Statistics</a></li>
+<li><a href="http://news.infoshop.org/directory.php?topic=52">Directory</a></li>
+<li><a href="http://news.infoshop.org/staticpages/index.php?page=20050108104545132">aboutus</a></li>
+<li><a href="http://news.infoshop.org/staticpages/index.php?page=20050108131527596">editorial</a></li>
+<li><a href="http://news.infoshop.org/staticpages/index.php?page=20050108131646817">getpublished</a></li>
+<li><a href="http://news.infoshop.org/staticpages/index.php?page=moderation">moderation</a></li>
+<li><a href="http://news.infoshop.org/polls/index.php">Polls</a></li>
+<li class="last"><a href="http://news.infoshop.org/calendar/index.php">Calendar</a></li>
+
+        </ul>
+    </div>
+    <div class="header-logobg-container-inner">
+        <table cellspacing="0" cellpadding="0" style="width:100%; border-collapse:collapse; padding:0;"><tr><td><a class="header-logo" href="http://news.infoshop.org/" rel="home">
+            <img src="http://news.infoshop.org/layout/professional/images/logo.png" alt="Infoshop News">
+        </a></td><td style="vertical-align:middle; text-align:right; padding-right:15px">
+        <span class="header-slogan">Unthinking respect for authority is the greatest enemy of truth</span></td></tr></table>
+    </div>
+    <table cellspacing="0" cellpadding="0" style="width:100%;">
+        <tr>
+            <!-- Start of Left blocks -->
+                <td class="block-featured-left" style="vertical-align:top;">
+                    <div class="searchform-box">
+                        <form class="searchform-elements" action="http://news.infoshop.org/search.php" method="get">
+                            <div>
+                                <input style="width:95%" type="text" name="query" maxlength="255" value=""><br>
+                                <input type="hidden" name="type" value="all">
+                                <a href="http://news.infoshop.org/search.php" class="advancedsearch">advanced search</a>&nbsp;
+                                <input type="hidden" name="mode" value="search">
+                                <input type="submit" value="Search">
+                            </div>
+                        </form>
+                    </div>
+                    <div class="block-bg-left">
+                        <div class="block-box-left">
+    <span class="block-helpicon">
+        
+    </span>
+    <h2>Main Menu</h2>
+<dl>
+<dt><a href="http://www.infoshop.org/">Infoshop Home</a></dt>
+<dt><a href="http://news.infoshop.org/">Infoshop News Home</a></dt>
+<dt><a href="http://www.infoshop.org/scripts/feedback.php">Contact Us</a></dt>
+</dl>
+
+
+</div>
+<div class="aligncenter">
+    <div class="block-divider-left"></div>
+</div>
+
+<div class="block-box-left">
+    <span class="block-helpicon">
+        
+    </span>
+    <h2>Submit Articles and Events</h2>
+<dl>
+<dt><a href="http://news.infoshop.org/submit.php?type=story"><strong>Submit News</strong></a></dt>
+<dt><a href="http://news.infoshop.org/calendar/index.php">Submit Event</a></dt>
+<dt><a href="http://news.infoshop.org/staticpages/index.php?page=styleguide">Infoshop News Style Guide</a></dt>
+<dt><a href="http://news.infoshop.org/staticpages/index.php?page=20050108132007154">I-News FAQ</a></dt>
+<dt><a href="http://www.infoshop.org/get_reviewed.html">Get Reviewed</a></dt>
+</dl>
+
+</div>
+<div class="aligncenter">
+    <div class="block-divider-left"></div>
+</div>
+
+<div class="block-box-left">
+    <span class="block-helpicon">
+        
+    </span>
+    <h2>Follow Infoshop on ...</h2>
+<dl>
+<dt><a href="http://www.facebook.com/infoshoporg"><img src="http://www.infoshop.org/images/follow-fb.gif" border="0"></a><br />3,140 fans</dt>
+<dt><a href="http://news.infoshop.org/backend/news.rss"><img src="http://www.infoshop.org/images/follow-rss.gif" border="0"></a></dt>
+<dt><a href="http://twitter.com/InfoshopDotOrg"><img src="http://www.infoshop.org/images/follow-twitter.gif" border="0"></a><br />448 followers</dt>
+</dl>
+</div>
+<div class="aligncenter">
+    <div class="block-divider-left"></div>
+</div>
+
+<div class="block-box-left">
+    <span class="block-helpicon">
+        
+    </span>
+    <h2>User Functions</h2>
+<form action="http://news.infoshop.org/users.php" method="post" style="margin-top:5px;margin-bottom:5px;">
+    <div>
+        <label for="loginname">Username:</label><br>
+        <input type="text" size="10" name="loginname" value="" id="loginname"><br>
+        
+        <label for="passwd">Password:</label><br>
+        <input type="password" size="10" name="passwd" id="passwd"><br>
+        <input type="submit" value="Login">
+    </div>
+</form>
+<p>Don't have an account yet?  Sign up as a <a href="http://news.infoshop.org/users.php?mode=new" rel="nofollow">New User</a><br>
+Lost your <a href="http://news.infoshop.org/users.php?mode=getpassword" rel="nofollow">password</a>?</p>
+
+</div>
+<div class="aligncenter">
+    <div class="block-divider-left"></div>
+</div>
+
+<div class="block-box-left">
+    <span class="block-helpicon">
+        
+    </span>
+    <h2>Recent I-News Features</h2>
+<dl>
+  <dt class="bullet"><a href="http://news.infoshop.org/article.php?story=2010haiti-earthquake"><b>Haiti: What You Can Do to Help</b></a></dt>
+  <dt class="bullet"><a href="http://news.infoshop.org/article.php?story=20080930183909644">Feature on Kirsten Brydum</a></dt>
+  <dt class="bullet"><a href="http://news.infoshop.org/article.php?story=2008061813531813">Emergency Exit Collective: "The 2008 G8 on Hokkaido, a Strategic Assessment"</a></dt>
+  <dt class="bullet"><a href="http://www.infoshop.org/inews/article.php?story=2008all-survivors">We Are All Survivors, We Are All Perpetrators</a></dt>
+  <dt class="bullet"><a href="http://www.infoshop.org/inews/article.php?story=2008lydersen-trafficking">Korean Massage Parlors Thrive on Women</a></dt>
+</dl>
+</div>
+<div class="aligncenter">
+    <div class="block-divider-left"></div>
+</div>
+
+<div class="block-box-left">
+    <span class="block-helpicon">
+        
+    </span>
+    <h2>Infoshop Hot Links</h2>
+<p><a href="http://forums.infoshop.org/"><b>Infoshop Forums</b></a></p>
+
+<!--
+<p><a href="http://www.infoshop.org/page/CriticizingObama"><img src="http://news.infoshop.org/newspics/promo-obama.gif" border="0"></a></p>
+
+<p><a href="http://news.infoshop.org/article.php?story=20080930183909644"><img src="http://news.infoshop.org/newspics/2008/RememberingKirsten.jpg" border="0"></a></p>
+
+<p><a href="http://www.infoshop.org/page/Support-Bork"><img src="http://news.infoshop.org/newspics/nola2.jpg" border="0"></a></p>
+<p><a href="http://www.infoshop.org/page/SocialNetworking"><img src="http://news.infoshop.org/newspics/promo-social.gif" border="0"></a></p>
+-->
+
+<dl>
+<dt><a href="http://wiki.infoshop.org/">OpenWiki</a></dt>
+<dt><a href="http://wiki.infoshop.org/Radical_Parenting">Radical Parenting</a></dt>
+</dl>
+</div>
+<div class="aligncenter">
+    <div class="block-divider-left"></div>
+</div>
+
+<div class="block-box-left">
+    <span class="block-helpicon">
+        
+    </span>
+    <h2>Events</h2>
+<b>Site Events</b><br><br><b>Friday</b>&nbsp;<small>31-Dec</small> - <br><b>Saturday</b>&nbsp;<small>01-Jan</small><ul class="list-new-plugins">
+  <li><a href="http://news.infoshop.org/calendar/event.php?eid=20101217214942713">New Years Noise Demo - Toronto</a></li>
+
+</ul>
+</div>
+<div class="aligncenter">
+    <div class="block-divider-left"></div>
+</div>
+
+<div class="block-box-left">
+    <span class="block-helpicon">
+        
+    </span>
+    <h2>Independent Media</h2>
+<dl>
+<dt><a href="http://www.ainfos.ca/">A-Infos</a></dt>
+<dt><a href="http://www.altpr.org/">Alternative Press Review</a></dt>
+<dt><a href="http://www.alternet.org/">Alternet</a></dt>
+<dt><a href="http://www.theanarchistlibrary.org/">The Anarchist Library</a></dt>
+<dt><a href="http://www.anarchistnews.org/">Anarchist News</a></dt>
+<dt><a href="http://awalls.org/">Anarchists Against the Wall</a></dt>
+<dt><a href="http://www.syndicalist.org/">Anarcho-Syndicalist Review</a></dt>
+<dt><a href="http://www.anarchymag.org/">Anarchy Magazine</a></dt>
+<dt><a href="http://johnzerzan.net/radio/">Anarchy Radio</a></dt>
+<dt><a href="http://www.anarkismo.net/index.php">Anarkismo</a></dt>
+<dt><a href="http://sysiphus-angrynewsfromaroundtheworld.blogspot.com/">Angry News from Around the World</a></dt>
+<dt><a href="http://theanvilreview.org/">The Anvil</a> (reviews)</dt>
+<dt><a href="http://www.agrnews.org/">Asheville Global Report</a></dt>
+<dt><a href="http://auto_sol.tao.ca/">Autonomy & Solidarity</a></dt>
+<dt><a href="http://www.axisoflogic.com/">Axis of Logic</a></dt>
+<dt><a href="http://bashbacknews.wordpress.com/">Bash Back! News</a></dt>
+<dt><a href="http://www.blackagendareport.com">Black Agenda Report</a></dt>
+<dt><a href="http://www.blackcommentator.com/">Black Commentator</a></dt>
+<dt><a href="http://breakallchains.blogspot.com/">Break the Chains</a></dt>
+<dt><a href="http://brownwatch.squarespace.com/">BrownWatch</a></dt>
+<dt><a href="http://www.buzzflash.com">Buzzflash</a></dt>
+<dt><a href="http://bsnorrell.blogspot.com/">Censored News</a></dt>
+<dt><a href="http://c4ss.org/">Center for a Stateless Society</a></dt>
+<dt><a href="http://www.commondreams.org">Common Dreams</a></dt>
+<dt><a href="http://www.counterpunch.org">Counter Punch</a></dt>
+<dt><a href="http://www.daveyd.com/">Davey D's Hip Hop Corner</a></dt>
+<dt><a href="http://www.democracynow.org">Democracy Now</a></dt>
+<dt><a href="http://www.disinfo.com/">Disinfo.com</a></dt>
+<dt><a href="http://www.earthfirstjournal.org/">Earth First! Journal</a></dt>
+<dt><a href="http://earthfirstnews.wordpress.com/">Earth First! Newswire</a></dt>
+<dt><a href="http://electronicintifada.net/">Electronic Intifada</a></dt>
+<dt><a href="http://electroniciraq.net/">Electronic Iraq</a></dt>
+<dt><a href="http://www.fair.org/">FAIR</a></dt>
+<dt><a href="http://www.fifthestate.org/currentissue.html">Fifth Estate</a></dt>
+<dt><a href="http://firesneverextinguished.blogspot.com/">Fires Never Extinguished</a></dt>
+<dt><a href="http://www.fromthewilderness.com/">From the Wilderness</a></dt>
+<dt><a href="http://guerrillanews.wordpress.com/">Guerrilla News</a></dt>
+<dt><a href="http://www.inthesetimes.com/">In These Times</a></dt>
+<dt><a href="http://www.indymedia.org/">Indymedia</a></dt>
+<dt><a href="http://www.infoanarchy.org/">infoAnarchy</a></dt>
+<dt><a href="http://www.informationclearinghouse.info/">Information Clearing House</a></dt>
+<dt><a href="http://slash.autonomedia.org/">InterActivist</a></dt>
+<dt><a href="http://intercontinentalcry.org/">Intercontinental Cry</a></dt>
+<dt><a href="http://www.jewschool.com/">Jew School</a></dt>
+<dt><a href="http://www.labornotes.org/">Labor Notes</a></dt>
+<dt><a href="http://latuff2.deviantart.com/">Latuff</a></dt>
+<dt><a href="http://www.leftturn.org">Left Turn</a></dt>
+<dt><a href="http://www.libcom.org">Libcom</a></dt>
+<dt><a href="http://www.mediachannel.org/">MediaChannel.org</a></dt>
+<dt><a href="http://mediamatters.org/">Media Matters</a></dt>
+<dt><a href="http://usa.mediamonitors.net/">Media Monitors Network</a></dt>
+<dt><a href="http://www.thememoryhole.org/">The Memory Hole</a></dt>
+<dt><a href="http://www.sinkers.org/">Mikey'zine</a></dt>
+<dt><a href="http://mrzine.monthlyreview.org/">Monthly Review Zine</a></dt>
+<dt><a href="http://www.mostlywater.org/">Mostly Water</a> - Canada news</dt>
+<dt><a href="http://narconews.com">Narco News Bulletin</a></dt>
+<dt><a href="http://www.gwu.edu/~nsarchiv/">National Security Archive</a></dt>
+<dt><a href="http://indypendent.org/">NYC Indypendent</a></dt>
+<dt><a href="http://occupiedlondon.org/">Occupied London</a></dt>
+<dt><a href="http://oreaddaily.blogspot.com/">Oread Daily</a></dt>
+<dt><a href="http://p2pnet.net/index.php">p2pnet</a></dt>
+<dt><a href="http://www.prwatch.org/">PR Watch</a></dt>
+<dt><a href="http://www.pressaction.com/">Press Action</a></dt>
+<dt><a href="http://www.primitivism.com/">Primitivism.com</a><br>
+<dt><a href="http://www.progressive.org/default.htm">The Progressive</a></dt>
+<dt><a href="http://www.punknews.org/">Punk News</a></dt>
+<dt><a href="http://www.rabble.ca/">Rabble.ca</a></dt>
+<dt><a href="http://www.resist.ca">Resist.ca</a></dt>
+<dt><a href="http://www.schnews.org.uk/">SchNEWS</a></dt>
+<dt><a href="http://www.slashdot.org/">Slashdot</a></dt>
+<dt><a href="http://www.thesmokinggun.com/">Smoking Gun</a></dt>
+<dt><a href="http://groups.yahoo.com/group/smygo/">SMYGO</a></dt>
+<dt><a href="http://submedia.tv//">subMedia</a></dt>
+<dt><a href="http://threewayfight.blogspot.com/">Threewayfight</a></dt>
+<dt><a href="http://www.utne.com/">Utne</a></dt>
+<dt><a href="http://www.venezuelanalysis.com/">Venezuela News</a></dt>
+<dt><a href="http://www.war-times.org/">War Times</a></dt>
+<dt><a href="http://www.whisperedmedia.org/">Whispered Media</a></dt>
+<dt><a href="http://www.wsm.ie/">Workers Solidarity Movement</a></dt>
+<dt><a href="http://ww4report.com/">World War 4 Report</a></dt>
+<dt><a href="http://www.wsws.org/">WSWS</a></dt>
+<dt><a href="http://www.zmag.org">ZNet</a></dt>
+</dl>
+</div>
+<div class="aligncenter">
+    <div class="block-divider-left"></div>
+</div>
+
+<div class="block-box-left">
+    <span class="block-helpicon">
+        
+    </span>
+    <h2>Poll</h2>
+<span class="floatright"></span><div class="poll-topic">Right Wing Social Agenda</div>
+<form action="http://news.infoshop.org/polls/index.php" name="Vote" method="post">
+    <div>
+    <input type="hidden" name="pid" value="2010112720011356">
+            <div class="poll-questions">
+    <p class="poll-question">Are you willing to join the fight against the right wing social agenda?</p>
+    <ul>
+      <li><input type="radio" name="aid[0]" value="1">&nbsp;Yes</li>
+  <li><input type="radio" name="aid[0]" value="2">&nbsp;No</li>
+  <li><input type="radio" name="aid[0]" value="3">&nbsp;Unsure</li>
+  <li><input type="radio" name="aid[0]" value="4">&nbsp;Already fighting</li>
+  <li><input type="radio" name="aid[0]" value="5">&nbsp;I'm a right wing pinhead</li>
+
+    </ul>
+</div>
+        <span class="pluginTinyText"></span><br>
+        <input type="submit" value="Vote">
+        <a href="http://news.infoshop.org/polls/index.php?pid=2010112720011356&amp;aid=-1">Results</a>
+    </div>
+</form>
+
+<span class="pluginTinyText">
+    <a href="http://news.infoshop.org/polls/index.php">Other polls</a> | 166 votes  | <a href="http://news.infoshop.org/polls/index.php?pid=2010112720011356#comments">5 comments</a>
+
+</span>
+</div>
+<div class="aligncenter">
+    <div class="block-divider-left"></div>
+</div>
+
+<div class="block-box-left">
+    <span class="block-helpicon">
+        
+    </span>
+    <h2>Older Stories</h2>
+<h3>Thursday <small>23-Dec</small></h3>
+<ul class="list-older-stories">  <li><a href="http://news.infoshop.org/article.php?story=20101223033230936">Stig Dagerman: Anarchist Writer</a> (0)</li>  <li><a href="http://news.infoshop.org/article.php?story=20101223032757786">Spain: Communique against the Militarization of the Airports</a> (0)</li>  <li><a href="http://news.infoshop.org/article.php?story=20101223025605792">Complex Systems and Anarchism</a> (2)</li>  <li><a href="http://news.infoshop.org/article.php?story=2010122302450279">WikiLeaks: Who Helped Shape Julian Assange?</a> (0)</li></ul><br><h3>Wednesday <small>22-Dec</small></h3>
+<ul class="list-older-stories">  <li><a href="http://news.infoshop.org/article.php?story=20101222233139434">$100 Million Drug-War Garrison Approved for U.S.-Mexican Border</a> (0)</li>  <li><a href="http://news.infoshop.org/article.php?story=20101222231521801">Day of Direct Action Against Extraction April 20, 2011</a> (0)</li>  <li><a href="http://news.infoshop.org/article.php?story=20101222225613977">Bruce Friedrich, VP for Policy at PETA, Plans For World Domination</a> (0)</li>  <li><a href="http://news.infoshop.org/article.php?story=20101222104417134">Evo's Highway</a> (0)</li>  <li><a href="http://news.infoshop.org/article.php?story=20101222050030725">Obama Lashes Out Amid Calls to Free Assange </a> (0)</li>  <li><a href="http://news.infoshop.org/article.php?story=20101222044131637">UK: NETWORK X - First Mail Out, Practicalities, Proposals and Politics</a> (0)</li>  <li><a href="http://news.infoshop.org/article.php?story=20101222034026768">Secretive Newsletter Describes Preventing A.L.F. Attacks</a> (0)</li>  <li><a href="http://news.infoshop.org/article.php?story=20101222032032734">A.L.F. Snitch Resurfaces In Video: The FBI-Mozilla Connection</a> (4)</li>  <li><a href="http://news.infoshop.org/article.php?story=20101222000004414">Knowing the Land is Resistance zine now available</a> (0)</li></ul><br><h3>Tuesday <small>21-Dec</small></h3>
+<ul class="list-older-stories">  <li><a href="http://news.infoshop.org/article.php?story=20101221203504957">Earth First! News #2 Released Today</a> (0)</li>  <li><a href="http://news.infoshop.org/article.php?story=20101221173934456">No Gods, No Mattress zine reading tour</a> (1)</li>  <li><a href="http://news.infoshop.org/article.php?story=2010122115524044">State, local effort used to collect information on US citizens</a> (0)</li>  <li><a href="http://news.infoshop.org/article.php?story=20101221152039465">Fired Nebraska IWW Baker Demands Reinstatement with Back Pay</a> (0)</li>  <li><a href="http://news.infoshop.org/article.php?story=20101221151804399">Jimmy John’s Workers Demand Holiday Pay: Sandwich Workers Bounce Back from Election Setback </a> (0)</li></ul>
+</div>
+<div class="aligncenter">
+    <div class="block-divider-left"></div>
+</div>
+
+
+                        <div class="block-bg-spreader"></div>
+                    </div>
+                </td>
+                <td class="block-outerborder-left">
+                    <div style="background:transparent; width:10px; height:1px;"></div>
+                </td>
+
+            <td class="story-container">
+                <p class="header-welcomeanddate-text">
+                    <b>Welcome to Infoshop News</b><br>Sunday, December 26 2010 @ 11:12 PM UTC
+                </p>
+
+                <!-- START OF CONTENT AREA -->
+        <div class="story">
+    <span class="story-icons">
+        
+        
+        
+    </span>
+    <h1>BNP Membership List Exposed</h1>
+    <div class="story-information">
+        <p>Tuesday, November 18 2008 @ 10:04 PM UTC</p>
+        <p>Contributed by: Anonymous</p>
+        <p>Views: 8,374</p>
+    </div>
+    <div class="story-body">
+        <a href="http://news.infoshop.org/index.php?topic=52" rel="category"><img src="http://news.infoshop.org/images/topics/inews_fascism.gif" class="floatright" alt="Fascism" title="Fascism"></a><p>On Tuesday, November 18th the <a href="http://wikileaks.org/wiki/British_National_Party_membership_and_contacts_list%2C_2007-2008">membership and contacts list</a> for the British National Party, a fascist political organization that claims 58 elected councilors in local government in England, was published by <a href="http://wikileaks.org">Wikileaks</a>, a website that publishes anonymous submissions of sensitive governmental, corporate, or religious documents. 12,801 individuals are represented and the document contains the names, home addresses and sometimes telephone numbers and e-mail addresses of senior party officials, teachers, doctors, serving members of the military, police and prison officers and members of the clergy. The list has been independently verified by Wikileaks staffas predominantly containing current or ex-BNP members, however otherindividuals who have donated to the BNP or who have had other contact(not necessarily supportive) with the BNP or one of its fronts may alsobe represented.</p> <p>According to AFP, BNP spokesman Simon Darby stated (18 Nov 2008): "Someone out of malevolence or treachery has published it," -- "It's a very sinister thing for someone to have done. It's because we are regarded as a particularly strong threat in the forthcoming European elections in June."</p>
+        <link rel="stylesheet" href="http://news.infoshop.org/socialshare/sociable.css" type="text/css" media="screen" charset="utf-8"/><div class="sociable"><div class="sociable_tagline"><b>Share</b></div><ul><li><a rel="nofollow" href="http://www.facebook.com/share.php?u=http://news.infoshop.org/article.php?story=20081118214827111&t=BNP Membership List Exposed" title="Facebook" onclick="window.open(this.href, 'popupwindow', 'width=750,height=436,scrollbars,resizable'); return false;"><img src="http://news.infoshop.org/socialshare/images/facebook.png" title="Facebook" alt="Facebook" class="sociable-hovers" /></a></li><li class="sociablefirst"><a rel="nofollow" href="http://www.google.com/bookmarks/mark?op=edit&bkmk=http://news.infoshop.org/article.php?story=20081118214827111&title=BNP Membership List Exposed&annotation=On Tuesday, November 18th the membership an..." title="Google Bookmarks" onclick="window.open(this.href, 'popupwindow', 'width=750,height=436,scrollbars,resizable'); return false;"><img src="http://news.infoshop.org/socialshare/images/googlebookmark.png" title="Google Bookmarks" alt="Google Bookmarks" class="sociable-hovers" /></a></li><li><a rel="nofollow" href="http://mystuff.ask.com/mysearch/QuickWebSave?v=1.2&t=webpages&title=BNP Membership List Exposed&url=http://news.infoshop.org/article.php?story=20081118214827111" title="Ask" onclick="window.open(this.href, 'popupwindow', 'width=750,height=436,scrollbars,resizable'); return false;"><img src="http://news.infoshop.org/socialshare/images/ask.png" title="Ask" alt="Ask" class="sociable-hovers" /></a></li><li><a rel="nofollow" href="http://www.kirtsy.com/submit.php?url=http://news.infoshop.org/article.php?story=20081118214827111&title=BNP Membership List Exposed" title="Kirtsy" onclick="window.open(this.href, 'popupwindow', 'width=750,height=436,scrollbars,resizable'); return false;"><img src="http://news.infoshop.org/socialshare/images/kirtsy.png" title="Kirtsy" alt="Kirtsy" class="sociable-hovers" /></a></li><li><a rel="nofollow" href="http://www.linkedin.com/shareArticle?mini=true&url=http://news.infoshop.org/article.php?story=20081118214827111&title=BNP Membership List Exposed&summary=On Tuesday, November 18th the membership an..." title="LinkedIn" onclick="window.open(this.href, 'popupwindow', 'width=750,height=436,scrollbars,resizable'); return false;"><img src="http://news.infoshop.org/socialshare/images/linkedin.png" title="LinkedIn" alt="LinkedIn" class="sociable-hovers" /></a></li><li><a rel="nofollow" href="http://digg.com/submit?phase=2&url=http://news.infoshop.org/article.php?story=20081118214827111&title=BNP Membership List Exposed
+" title="Digg" onclick="window.open(this.href, 'popupwindow', 'width=750,height=436,scrollbars,resizable'); return false;"><img src="http://news.infoshop.org/socialshare/images/digg.png" title="Digg" alt="Digg" class="sociable-hovers" /></a></li><li><a rel="nofollow" href="http://twitter.com/home?status=http://news.infoshop.org/article.php?story=20081118214827111" title="Twitter" onclick="window.open(this.href, 'popupwindow', 'width=750,height=436,scrollbars,resizable'); return false;"><img src="http://news.infoshop.org/socialshare/images/twitter.png" title="Twitter" alt="Twitter" class="sociable-hovers" /></a></li><li><a rel="nofollow" href="http://slashdot.org/bookmark.pl?title=BNP Membership List Exposed&url=http://news.infoshop.org/article.php?story=20081118214827111" title="SlashDot" onclick="window.open(this.href, 'popupwindow', 'width=750,height=436,scrollbars,resizable'); return false;"><img src="http://news.infoshop.org/socialshare/images/slashdot.png" title="SlashDot" alt="SlashDot" class="sociable-hovers" /></a></li><li><a rel="nofollow" href="http://reddit.com/submit?url=http://news.infoshop.org/article.php?story=20081118214827111&title=BNP Membership List Exposed" title="Reddit" onclick="window.open(this.href, 'popupwindow', 'width=750,height=436,scrollbars,resizable'); return false;"><img src="http://news.infoshop.org/socialshare/images/reddit.png" title="Reddit" alt="Reddit" class="sociable-hovers" /></a></li><li><a rel="nofollow" href="http://www.myspace.com/Modules/PostTo/Pages/?u=http://news.infoshop.org/article.php?story=20081118214827111&t=BNP Membership List Exposed" title="MySpace" onclick="window.open(this.href, 'popupwindow', 'width=750,height=436,scrollbars,resizable'); return false;"><img src="http://news.infoshop.org/socialshare/images/myspace.png" title="MySpace" alt="MySpace" class="sociable-hovers" /></a></li><li><a rel="nofollow" href="http://cgi.fark.com/cgi/fark/farkit.pl?h=BNP Membership List Exposed&u=http://news.infoshop.org/article.php?story=20081118214827111" title="Fark" onclick="window.open(this.href, 'popupwindow', 'width=750,height=436,scrollbars,resizable'); return false;"><img src="http://news.infoshop.org/socialshare/images/fark.png" title="Fark" alt="Fark" class="sociable-hovers" /></a></li><li><a rel="nofollow" href="http://del.icio.us/post?url=http://news.infoshop.org/article.php?story=20081118214827111&title=BNP Membership List Exposed" title="Del.icio.us" onclick="window.open(this.href, 'popupwindow', 'width=750,height=436,scrollbars,resizable'); return false;"><img src="http://news.infoshop.org/socialshare/images/delicious.png" title="Del.icio.us" alt="Del.icio.us" class="sociable-hovers" /></a></li><li><a rel="nofollow" href="http://blogmarks.net/my/new.php?mini=1&simple=1&url=http://news.infoshop.org/article.php?story=20081118214827111&title=BNP Membership List Exposed" title="Blogmarks" onclick="window.open(this.href, 'popupwindow', 'width=750,height=436,scrollbars,resizable'); return false;"><img src="http://news.infoshop.org/socialshare/images/blogmarks.png" title="Blogmarks" alt="Blogmarks" class="sociable-hovers" /></a></li><li><a rel="nofollow" href="http://buzz.yahoo.com/submit/?submitUrl=http://news.infoshop.org/article.php?story=20081118214827111&submitHeadline=BNP Membership List Exposed&submitSummary=On Tuesday, November 18th the membership an...&submitCategory=science&submitAssetType=text" title="Yahoo Buzz" onclick="window.open(this.href, 'popupwindow', 'width=750,height=436,scrollbars,resizable'); return false;"><img src="http://news.infoshop.org/socialshare/images/yahoobuzz.png" title="Yahoo Buzz" alt="Yahoo Buzz" class="sociable-hovers" /></a></li></ul></div>
+    </div>
+    <div class="story-footer">
+        <p></p>
+        <p> </p>
+        <p> </p>
+    </div>
+</div>
+<div class="block-divider"> </div>
+
+        <div class="floatleft" style="width:50%;"><div class="block-box-left">
+    <span class="block-helpicon">
+        
+    </span>
+    <h2>What's Related</h2><ul class="list-whats-related">
+  <li><a href="http://wikileaks.org/wiki/British_National_Party_membership_and_contacts_list%2C_2007-2008">membership and contacts...</a></li>
+  <li><a href="http://wikileaks.org">Wikileaks</a></li>
+  <li><a href="http://news.infoshop.org/search.php?mode=search&amp;type=stories&amp;author=1">More by Anonymous</a></li>
+  <li><a href="http://news.infoshop.org/search.php?mode=search&amp;type=stories&amp;topic=52">More from Fascism</a></li>
+
+</ul>
+</div>
+
+</div>
+        <div class="floatleft" style="width:50%;"><div class="block-box-left">
+    <span class="block-helpicon">
+        
+    </span>
+    <h2>Story Options</h2><ul class="list-story-options">
+  <li><a href="http://news.infoshop.org/profiles.php?sid=20081118214827111&amp;what=emailstory">Mail Story to a Friend</a></li>
+  <li><a href="http://news.infoshop.org/article.php?story=20081118214827111&amp;mode=print" rel="nofollow">Printable Story Format</a></li>
+
+</ul>
+</div>
+
+</div>
+        <div class="clearboth"><h2><a name="trackback">Trackback</a></h2>
+<p>Trackback URL for this entry: http://news.infoshop.org/trackback.php?id=20081118214827111</p>
+Here's what others have to say about 'BNP Membership List Exposed':
+<div>
+  <p>
+<a href="http://entdinglichung.wordpress.com/2008/11/19/streiflichter-aus-britannien-59/">Streiflichter aus Britannien &amp;laquo; Entdinglichung</a> <br>
+
+Tracked on Wednesday, November 19 2008 @ 06:15 AM UTC 
+</p>
+
+</div>
+<div>
+  <p>
+<a href="http://www.activepeople.net/wikileaks/">http://www.activepeople.net/wikileaks/</a> <br>
+[...] list posted online by former &#8216;hardliner&#8217; . The Guardian. Abgerufen am 19. November 2008. ↑ BNP Membership List Exposed . Infoshop News. Abgerufen am 19. November 2008. ↑ Police officer faces investigation after being [...] <a href="http://www.activepeople.net/wikileaks/">[read more]</a><br>
+Tracked on Friday, February 26 2010 @ 12:57 PM UTC 
+</p>
+
+</div>
+<div>
+  <p>
+<a href="http://cogitoergosum.co.cc/2010/08/26/sidileaks-oops-telegraphukleaks-sid-harth/">SidiLeaks, Oops, TelegraphUKLeaks: Sid Harth &amp;laquo; News, Views and Reviews: Sid Harth</a> <br>
+[...] Guardian. http://www.guardian.co.uk/politics/2008/nov/19/bnp-list . Retrieved 19 November 2008. ^ &#8220;BNP Membership List Exposed&#8221; . Infoshop News. http://news.infoshop.org/article.php?story=20081118214827111 . Retrieved 19 November [...] <a href="http://cogitoergosum.co.cc/2010/08/26/sidileaks-oops-telegraphukleaks-sid-harth/">[read more]</a><br>
+Tracked on Thursday, August 26 2010 @ 10:34 AM UTC 
+</p>
+
+</div>
+<div>
+  <p>
+<a href="http://ramkshrestha.wordpress.com/2010/11/30/what-is-wikileaks-in-fact/">What is WikiLeaks in fact? &amp;laquo; Nepal &amp;#8211; the country of the Mt. Everest and the Buddha</a> <br>
+[...] by former &#8216;hardliner&#8217;&#8221;. London: The Guardian. Retrieved 19 November 2008. ^ &#8220;BNP Membership List Exposed&#8221; . Infoshop News. Retrieved 19 November 2008. ^ Lea, Michael; Boden, Nicola (19 November [...] <a href="http://ramkshrestha.wordpress.com/2010/11/30/what-is-wikileaks-in-fact/">[read more]</a><br>
+Tracked on Tuesday, November 30 2010 @ 10:48 AM UTC 
+</p>
+
+</div>
+
+</div>
+        <div id="commentarea">
+<div class="block-divider"> </div>
+<a id="comments" name="comments"></a>
+<div class="commentbar-line1">
+    <b>BNP Membership List Exposed</b> | 1 comments |  <a href="http://news.infoshop.org/users.php?mode=new" rel="nofollow" class="commentbar1">Create New Account</a>
+</div>
+<table cellpadding="0" style="width:100%;" class="commentbar-line2"><tr><td>
+    <form action="http://news.infoshop.org/comment.php" method="post" class="floatleft" style="display:inline;">
+        <div>
+            <input type="hidden" name="sid" value="20081118214827111">
+            <input type="hidden" name="pid" value="0">
+            <input type="hidden" name="type" value="article">
+            <input type="hidden" name="title" value="BNP Membership List Exposed">
+            <input type="submit" name="reply" value="Post a comment">
+        </div>
+    </form>
+    <form action="http://news.infoshop.org/article.php" method="post" class="floatright" style="display:inline;">
+        <div>
+            <input type="hidden" name="story" value="20081118214827111">
+            <select name="order">
+<option value="DESC">Newest First</option>
+<option value="ASC ">Oldest First                    </option>
+
+</select>
+            <select name="mode">
+<option value="flat">Flat</option>
+<option value="nested" selected="selected">Nested</option>
+<option value="nocomment">No Comments</option>
+<option value="threaded">Threaded</option>
+
+</select>
+            <input type="submit" value="Refresh">
+            <input type="hidden" name="type" value="article">
+        </div>
+    </form>
+</td></tr></table>
+<div class="commentbar-line3">
+    The following comments are owned by whomever posted them. This site is not responsible for what they say.
+</div>
+
+<div class="comment" style="padding-left: 0px">
+  <div class="commenttitle">BNP Membership List Exposed</div>
+  <div>Authored by: <a href="http://news.infoshop.org/users.php?mode=profile&amp;uid=8112">blackhand</a> on
+Wednesday, November 19 2008 @ 04:57 PM UTC</div>
+  <div style="vertical-align: top">the comments on this <a href="http://northwestnationalists.blogspot.com/2008/11/bnp-membership-list-2008-goes-online.html">BNP blog</a> are <i>hilarious</i>... folks are freaking out when they realize all of their info is out there. <p>well done!</div>
+  <div>
+   <span style="display:none">
+    [ <a href="http://news.infoshop.org/comment.php?sid=20081118214827111&amp;pid=1073782645&amp;title=BNP+Membership+List+Exposed&amp;type=article" rel="nofollow">Reply to This</a> |    <a href="http://news.infoshop.org/comment.php?mode=view&amp;cid=1073782645" rel="self bookmark" title="Permanent link to this comment">#</a> ]
+   </span>
+  </div>
+</div>
+
+<p class="aligncenter"></p>
+</div>
+
+            <!-- End Content Area -->
+            </td>
+            
+        </tr>
+    </table>
+    
+    <table cellpadding="0" cellspacing="0" width="100%" class="footer-divider-top">
+        <tr>
+            <td class="footerblock alignleft" style="width:70%;">
+                &nbsp;Copyright &copy; 2010 Infoshop News<br>&nbsp;All trademarks and copyrights on this page are owned by their respective owners.
+            </td>
+            <td class="footerblock alignright" style="width:30%;">
+                Powered by <a href="http://www.geeklog.net/">Geeklog</a>&nbsp;<br>Created this page in 0.16 seconds&nbsp;
+            </td>
+        </tr>
+    </table>
+</body>
+</html>

@@ -1,0 +1,1234 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://opengraph.org/schema/">
+<head>
+
+
+
+
+
+
+
+
+
+
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<meta http-equiv="Content-Language" content="EN" />
+	<meta name="description" content="Defining Technology for Australia's IT Leaders." />
+	<meta name="keywords" content="Techworld, Techworld Magazine, computers, information technology, technology strategy, IT and business, IDG, information, telecommunications, networking, ebusiness, open systems, ASP, B2B, B2C, banking and finance, business, call centres, communications, CRM, ERP, government, Hacking, IT Management, Linux, operating systems, recruitment, SAN, security, storage, supercomputers, Unix, WAP, Windows 2000, XML" />
+	<meta name="copyright" content="&copy; 2010 IDG Communications" />
+	<meta name="resource-type" content="document" />
+	<meta name="robots" content="index,follow, noarchive" />
+	<title>Open Source - Techworld</title>
+
+	<link rel="stylesheet" type="text/css" href="http://demo.idg.com.au/techworld/media/1292820444/tw.css" media="screen,print" />
+
+	<script type="text/javascript" language="JavaScript" src="http://demo.idg.com.au/techworld/media/1292820444/tw.js"></script>
+
+
+<link media="screen,print" href="http://demo.idg.com.au/techworld/media/1292820444/section.css" type="text/css" rel="stylesheet" />
+
+
+
+</head>
+
+<body class="rhs300px ">
+
+<div id="commerical_break_layer">
+	<div id="commerical_break_header" class="cfix">
+		<img class="logo" src="http://demo.idg.com.au/techworld/media/1292820444/images/site_logo_commercialbreak.gif"/>
+		<div class="loading">
+			<img class="loadinggif" src="http://demo.idg.com.au/techworld/media/1292820444/images/ajax-loader.gif"/>
+			Please wait while the page is being loaded.
+			<a href="#" onClick="commerical_break_close('skin');return false;" class="close_btn">Skip this advertisement &raquo; </a>
+		</div>
+	</div>
+	<div id="commerical_break_ad_div">
+		<div id="commerical_break_ad">
+			<script type="text/javascript" src="http://ad.au.doubleclick.net/adj/techworld.com.au/commercial_500;sz=500x500;tile=1;ord=1293420932?"></script>
+			<noscript>
+			<a href="http://ad.au.doubleclick.net/jump/techworld.com.au/commercial_500;sz=500x500;tile=1;ord=1293420932?">
+				<img src="http://ad.au.doubleclick.net/ad/techworld.com.au/commercial_500;sz=500x500;tile=1;ord=1293420932?" border=0 height="500" width="500" style="width:500px;height:500px;" alt="Advertisement" />
+			</a>
+			</noscript>
+		</div>
+	</div>
+</div>
+
+<div id="skin"  class="cfix">
+
+
+<div id="main">
+	<div id="frame"><script type="text/javascript" language="JavaScript">
+	commerical_break('skin', 25000);
+</script>
+
+
+		<div class="cfix" id="contentheader">
+			<div id="header_top">
+				<div id="logobox">
+					<a href="/"><img src="http://cdn.idg.com.au/tw/images/site_logo.gif?nocache=1" alt="Techworld" /></a>
+					<div id="tracking"><img src="http://ad.au.doubleclick.net/ad/idgau.pixel.com.au/idgau;sz=1x1;ord=1203441734?" border=0 height="1" width="1" style="width:1px;height:1px;" alt="" />
+					<img src="http://ad.au.doubleclick.net/ad/techworld.pixel.com.au/techworld;sz=1x1;ord=1203441734?" border=0 height="1" width="1" style="width:1px;height:1px;" alt="" />
+				</div>
+			</div>
+			<div id="topmenu" class="cfix">
+				<ul>
+					<li><a href="/jobs/">Jobs</a></li>
+					<li><a href="/blog">Blogs</a></li>
+					<li><a href="/forum">Forums</a></li>
+					<li><a href="/signup">User page</a></li>
+					<li><a href="/contacts">Contact Us</a></li>
+				</ul>
+			</div>
+			<div id="today_date">
+				<span id="today_date_day">Monday</span> <span id="today_date_date">27th December, 2010</span>
+			</div>
+		</div>
+
+		<div id="header_bottom" class="cfix">
+			<div id="headeradbox">
+<iframe src="http://ad.au.doubleclick.net/adi/techworld.com.au/rosleaderboard;sz=728x90;tile=2;ord=1293420932?" name="frame1" width="728" height="90" style="width:728px;height:90px;" frameborder="no" border="0" marginwidth="0" marginheight="0" scrolling="no">
+
+<script type="text/javascript" language="JavaScript1.1" src="http://ad.au.doubleclick.net/adj/techworld.com.au/rosleaderboard;sz=728x90;tile=2;ord=1293420932?">
+</script>
+
+<noscript>
+<a href="http://ad.au.doubleclick.net/jump/techworld.com.au/rosleaderboard;sz=728x90;tile=2;ord=1293420932?"><img src="http://ad.au.doubleclick.net/ad/techworld.com.au/rosleaderboard;sz=728x90;tile=2;ord=1293420932?" border="0" height="90" width="728" style="width:728px;height:90px;" alt="Advertisement"></a>
+</noscript>
+</iframe></div>
+			
+			<div id="searchbox">
+				<div class="roundbox">
+					<div class="roundbox_head">
+						<div class="head_inner">
+							<h2>Search TechWorld</h2>
+						</div>
+					</div>
+					<div class="roundbox_body">
+						<div id="site-googlecse-box">
+							<form action="http://www.techworld.com.au/search/" id="cse-search-box">
+								<input type="hidden" name="cx" value="009075713852389831579:c8zzvw-z_yo" />
+								<input type="hidden" name="cof" value="FORID:11" />
+								<input type="hidden" name="ie" value="UTF-8" />
+								<input type="text" name="q" size="31" id="site-googlecse-text" />
+								<input type="image" src="http://www.techworld.com.au/images/googlesearch_block_button.png" name="sa" value="Search" id="site-googlecse-button" />
+							</form>
+							<script type="text/javascript" src="http://www.google.com/cse/brand?form=cse-search-box&lang=en"></script>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	
+	<div class="clearfix withsub" id="hnavbar">
+		<div id="hnavbar">
+			<div id="hnavbar_main" class="cfix">
+				<a class="hnavbar_btn hnavbar_btn_home" href="/">home</a>
+				<div id="hnavbar_menu_main">
+					<ul>
+						<li><a href="/section/careers">Careers</a></li>
+						<li><a href="/section/development">Development</a></li>
+						<li><a href="/section/digital_marketing">Digital Marketing</a></li>
+						<li><a href="/section/hardware">Hardware</a></li>
+						<li><a href="/section/it_services">IT Services</a></li>
+						<li><a href="/section/mobile">Mobile</a></li>
+						<li><a href="/section/networking">Networking</a></li>
+						<li class="selected"><a href="/section/open_source">Open Source</a></li>
+						<li><a href="/section/operating_systems">Operating Systems</a></li>
+						<li><a href="/section/security">Security</a></li>
+						<li><a href="/section/small_business">Small Business</a></li>
+						<li><a href="/section/software">Software</a></li>
+						<li><a href="/section/storage">Storage</a></li>
+						<li><a href="/section/unified_comms">Unified Comms</a></li>
+					</ul>
+				</div>
+			</div>
+
+			
+
+
+<div class="cfix" id="hnavbar_sub">
+	<a href="/section/open_source/" class="hnavbar_btn hnavbar_btn_Open Source">Open Source</a>
+	<div class="cfix" id="hnavbar_menu_sub">
+		<ul>
+
+			<li><a href="/section/open_source/desktop_environments/">Desktop Environments</a></li>
+
+			<li><a href="/section/open_source/kde/">KDE</a></li>
+
+			<li><a href="/section/open_source/gnome/">GNOME</a></li>
+
+			<li><a href="/section/open_source/databases/">Databases</a></li>
+
+			<li><a href="/section/open_source/crm/">CRM</a></li>
+
+			<li><a href="/section/open_source/content_management/">Content Management</a></li>
+
+			<li><a href="/section/open_source/messaging_groupware/">Messaging &amp; Groupware</a></li>
+
+			<li><a href="/section/open_source/office_apps/">Office Apps</a></li>
+
+			<li><a href="/section/open_source/networking/">Networking</a></li>
+
+			<li><a href="/section/open_source/internet_services/">Internet Services</a></li>
+
+			<li><a href="/section/open_source/search/">Search</a></li>
+
+			<li><a href="/section/open_source/development_tools/">Development Tools</a></li>
+
+			<li><a href="/section/open_source/business_intelligence/">Business Intelligence</a></li>
+
+			<li><a href="/section/open_source/platforms/">Platforms</a></li>
+
+			<li><a href="/section/open_source/graphics_design/">Graphics &amp; Design</a></li>
+
+			<li><a href="/section/open_source/multimedia/">Multimedia</a></li>
+
+			<li><a href="/section/open_source/virtualization/">Virtualization</a></li>
+
+			<li><a href="/section/open_source/voip/">VoIP</a></li>
+
+			<li><a href="/section/open_source/enterprise_apps/">Enterprise Apps</a></li>
+
+			<li><a href="/section/open_source/storage/">Storage</a></li>
+
+			<li><a href="/section/open_source/web_browsers_tools/">Web Browsers &amp; Tools</a></li>
+
+			<li><a href="/section/open_source/licensing/">Licensing</a></li>
+
+			<li><a href="/section/open_source/application_serving/">Application Serving</a></li>
+
+			<li><a href="/section/open_source/collaboration/">Collaboration</a></li>
+
+			<li><a href="/section/open_source/business/">Business</a></li>
+
+			<li><a href="/section/open_source/file_sharing_p2p/">File Sharing &amp; P2P</a></li>
+
+		</ul>
+	</div>
+</div>
+
+
+
+		</div>
+	</div>
+	
+	<div id="content_wrap">
+		<div class="" id="threecolumns">
+			<div id="threecolumns_inner">
+				<div id="threecolumns_main">
+					<div id="left_center_columns">
+						<div id="contentcenter_wrap" class="_section">
+							<div id="contentcenter">
+
+<div id="sectionpage" class="cfix">
+	<div id="sectionpage_content" class="cfix">
+		<h1><a href="/section/open_source/">Open Source</a></h1>
+		<div id="sectionpage cfix">
+
+
+			<div class="sectionpage_left">
+
+
+
+				<div class="sectionpage_box">
+				<div class="sectionpage_box_inner">
+					<h2>News</h2>
+					<div class="sectionpage_boxcontent">
+						<ul class="storylist_withdate">
+
+	
+							<li class="sectionpage_highlight">
+	
+								<a href="/article/371793/university_gives_java_parallelism_boost/?fp=4&fpid=6"><img src="http://cdn.idg.com.au/tw/gim/id/11411/res/18" /></a>
+								<h3><a href="/article/371793/university_gives_java_parallelism_boost/?fp=4&fpid=6">University gives Java parallelism a boost</a></h3>
+							</li>
+	
+
+	
+							<li><span class="date">20/12</span><h3><a href="/article/371833/10_last-minute_gift_ideas_linux_geeks/?fp=4&fpid=6">10 last-minute gift ideas for Linux geeks</a></h3></li>
+	
+
+	
+							<li><span class="date">18/12</span><h3><a href="/article/371767/android_honeycomb_will_debut_2_4_february/?fp=4&fpid=6">Android &#39;Honeycomb&#39; will debut as 2.4 in February</a></h3></li>
+	
+
+	
+							<li><span class="date">17/12</span><h3><a href="/article/371711/australian_bureau_statistics_plans_open_source_census/?fp=4&fpid=6">Australian Bureau of Statistics plans open source census</a></h3></li>
+	
+
+	
+							<li><span class="date">17/12</span><h3><a href="/article/371604/can_balance_shift_towards_open_source_mobile_/?fp=4&fpid=6">Can the balance shift towards open source in mobile?</a></h3></li>
+	
+
+	
+							<li><span class="date">17/12</span><h3><a href="/article/371697/drupal_conf_heads_brisbane_2011_amid_7_release/?fp=4&fpid=6">Drupal conf heads to Brisbane in 2011 amid 7 release</a></h3></li>
+	
+
+	
+							<li><span class="date">17/12</span><h3><a href="/article/371660/what_will_build_app_inventor_android_/?fp=4&fpid=6">What will you build with app inventor for Android?</a></h3></li>
+	
+
+	
+							<li><span class="date">17/12</span><h3><a href="/article/371690/tax_office_releases_auskey_linux/?fp=4&fpid=6">Tax Office releases AUSkey for Linux</a></h3></li>
+	
+
+	
+							<li><span class="date">17/12</span><h3><a href="/article/371682/how_ubuntu_linux_could_help_google_cr-48_notebook/?fp=4&fpid=6">How Ubuntu Linux could help Google&#39;s CR-48 notebook</a></h3></li>
+	
+
+	
+							<li><span class="date">17/12</span><h3><a href="/article/371652/opera_11_ships_adds_stacked_tabs_extensions/?fp=4&fpid=6">Opera 11 ships, adds stacked tabs and extensions</a></h3></li>
+	
+
+						</ul>
+						<div class="sectionpage_box_more"><a href="/section/open_source/news/">More</a></div>
+					</div>
+				</div>
+				</div>
+
+
+
+
+
+				<div class="sectionpage_box">
+				<div class="sectionpage_box_inner">
+					<h2>Reviews</h2>
+					<div class="sectionpage_boxcontent">
+						<ul class="storylist_withdate">
+
+	
+							<li class="sectionpage_highlight">
+	
+								
+								<h3><a href="/article/298224/novell_suse_linux_enterprise_desktop_11_/?fp=4&fpid=6">Novell SUSE Linux Enterprise Desktop 11 </a></h3>
+							</li>
+	
+
+	
+							<li><span class="date">3/12</span><h3><a href="/article/269520/open-source_data_aces/?fp=4&fpid=6">Open-source data aces</a></h3></li>
+	
+
+	
+							<li><span class="date">14/10</span><h3><a href="/article/263716/open_source_video_editing_kino/?fp=4&fpid=6">Open source video editing with Kino</a></h3></li>
+	
+
+	
+							<li><span class="date">26/9</span><h3><a href="/article/261708/dozen_cool_plasmoids_your_kde_desktop/?fp=4&fpid=6">A dozen cool plasmoids for your KDE desktop</a></h3></li>
+	
+
+	
+							<li><span class="date">23/7</span><h3><a href="/article/254220/revving_up_once_radix_rad_web_apps/?fp=4&fpid=6">Revving up once:radix for RAD Web apps</a></h3></li>
+	
+
+	
+							<li><span class="date">2/7</span><h3><a href="/article/251528/top_charts_five_open_source_file_sharing_apps/?fp=4&fpid=6">Top of the charts: five open source file sharing apps</a></h3></li>
+	
+
+	
+							<li><span class="date">18/6</span><h3><a href="/article/225306/test_center_review_firefox_3_comes_sizzling/?fp=4&fpid=6">Test Center review: Firefox 3 comes out sizzling</a></h3></li>
+	
+
+	
+							<li><span class="date">13/6</span><h3><a href="/article/224689/first_look_koffice_2_0_alpha_8/?fp=4&fpid=6">First look: KOffice 2.0 Alpha 8</a></h3></li>
+	
+
+	
+							<li><span class="date">12/6</span><h3><a href="/article/224451/sled_10_sp2_makes_wireless_3g_snap/?fp=4&fpid=6">SLED 10 SP2 makes wireless 3G a snap</a></h3></li>
+	
+
+	
+							<li><span class="date">11/6</span><h3><a href="/article/216821/openoffice_3_0/?fp=4&fpid=6">OpenOffice 3.0</a></h3></li>
+	
+
+						</ul>
+						<div class="sectionpage_box_more"><a href="/section/open_source/reviews/">More</a></div>
+					</div>
+				</div>
+				</div>
+
+
+
+
+
+				<div class="sectionpage_box">
+				<div class="sectionpage_box_inner">
+					<h2>Features</h2>
+					<div class="sectionpage_boxcontent">
+						<ul class="storylist_withdate">
+
+	
+							<li class="sectionpage_highlight">
+	
+							
+								<h3><a href="/article/362238/five-year_plan_8_problems_it_must_solve/?fp=4&fpid=6">Five-year plan: 8 problems IT must solve</a></h3>
+							</li>
+	
+
+	
+							<li><span class="date">24/2</span><h3><a href="/article/337284/open_source_helps_facebook_achieve_massive_app_scalability/?fp=4&fpid=6">Open source helps Facebook achieve massive app scalability</a></h3></li>
+	
+
+	
+							<li><span class="date">24/2</span><h3><a href="/slideshow/337351/slideshow_open_source_facebook/?fp=4&fpid=6">Slideshow: Open source at Facebook</a></h3></li>
+	
+
+	
+							<li><span class="date">11/5</span><h3><a href="/article/345986/open-source_software_hidden_snags/?fp=4&fpid=6">Open-source software&#39;s hidden snags</a></h3></li>
+	
+
+	
+							<li><span class="date">6/4</span><h3><a href="/article/342104/horde_open_source_groupware_preps_version_4_release/?fp=4&fpid=6">Horde open source groupware preps version 4 release</a></h3></li>
+	
+
+	
+							<li><span class="date">4/3</span><h3><a href="/article/338317/open-source_hardware_takes_steps_toward_gadget_mainstream/?fp=4&fpid=6">Open-source hardware takes steps toward gadget mainstream</a></h3></li>
+	
+
+	
+							<li><span class="date">25/1</span><h3><a href="/article/333686/nz_school_ditches_microsoft_goes_totally_open_source/?fp=4&fpid=6">NZ school ditches Microsoft and goes totally open source</a></h3></li>
+	
+
+	
+							<li><span class="date">17/11</span><h3><a href="/slideshow/326575/sneak_peek_kde_4_4_screenshots/?fp=4&fpid=6">Sneak Peek: KDE 4.4 screenshots</a></h3></li>
+	
+
+	
+							<li><span class="date">17/11</span><h3><a href="/article/326573/kde_4_4_aims_take_free_desktop_skyward/?fp=4&fpid=6">KDE 4.4 aims to take free desktop skyward</a></h3></li>
+	
+
+	
+							<li><span class="date">20/11</span><h3><a href="/article/327163/5_open_source_voip_softphones_watch/?fp=4&fpid=6">5 open source VoIP softphones to watch</a></h3></li>
+	
+
+						</ul>
+						<div class="sectionpage_box_more"><a href="/section/open_source/features/">More</a></div>
+					</div>
+				</div>
+				</div>
+
+
+			</div>
+
+
+
+
+			<div class="sectionpage_right">
+
+
+				<div class="sectionpage_box">
+				<div class="sectionpage_box_inner">
+					<h2>Whitepapers</h2>
+					<div class="sectionpage_boxcontent">
+						<ul class="whitepaper_list">
+
+							<li class="first"><h3><a href="/whitepaper/370109/journal-of-management-excellence-creating-value/?type=section&amp;arg=6&amp;location=section_content">Journal of Management Excellence: Creating Value</a></h3></li>
+
+							<li><h3><a href="/whitepaper/370036/mcgrathnicol-takes-streamlined-approach-to-keep-it-costs-well-below-industry-average/?type=section&amp;arg=6&amp;location=section_content">McGrathNicol takes streamlined approach to keep IT costs well below industry average</a></h3></li>
+
+							<li><h3><a href="/whitepaper/370034/essential-guidance-for-green-advocates-green-it-sustainability-around-eco-printing-solutions-where-d/?type=section&amp;arg=6&amp;location=section_content">ESSENTIAL GUIDANCE FOR GREEN ADVOCATES - Green IT Sustainability Around Eco-Printing
+Solutions : Where Does Your Organization Stand in Australia?</a></h3></li>
+
+							<li><h3><a href="/whitepaper/370029/hp-planet-partners-return-and-recycling-program/?type=section&amp;arg=6&amp;location=section_content">HP Planet Partners Return and Recycling Program</a></h3></li>
+
+							<li><h3><a href="/whitepaper/370014/ballarat-health-services-slashes-printing-costs-with-hp/?type=section&amp;arg=6&amp;location=section_content">Ballarat Health Services slashes printing costs with HP</a></h3></li>
+
+						</ul>
+					</div>
+				</div>
+				</div>
+
+				
+				
+
+
+				<div class="sectionpage_box">
+				<div class="sectionpage_box_inner">
+					<h2>Case Studies</h2>
+					<div class="sectionpage_boxcontent">
+						<ul class="storylist_nodate">
+
+							<li class="first"><h3><a href="/article/257951/open_source_stack_solid_foundation_all_homes/?fp=4&fpid=6">Open source stack solid foundation for All Homes</a></h3></li>
+
+							<li><h3><a href="/article/250731/open_source_telephony_new_star_tv_producer/?fp=4&fpid=6">Open source telephony new star at TV producer</a></h3></li>
+
+							<li><h3><a href="/article/226081/insurance_company_bets_health_open_source/?fp=4&fpid=6">Insurance company bets health on open source</a></h3></li>
+
+						</ul>
+						<div class="sectionpage_box_more"><a href="/section/open_source/case_studies/">More</a></div>
+					</div>
+				</div>
+				</div>
+
+
+
+
+
+				<div class="sectionpage_box">
+				<div class="sectionpage_box_inner">
+					<h2>Interviews</h2>
+					<div class="sectionpage_boxcontent">
+						<ul class="storylist_nodate">
+
+							<li class="first"><h3><a href="/article/365618/q_inverse_ceo_building_an_open_source_exchange_alternative/?fp=4&fpid=6">Q&amp;A: Inverse CEO on building an open source Exchange alternative</a></h3></li>
+
+							<li><h3><a href="/article/356590/q_richard_stallman/?fp=4&fpid=6">Q&amp;A with Richard Stallman</a></h3></li>
+
+							<li><h3><a href="/article/356373/kde_innovation_still_brewing_amid_stable_4_5_release/?fp=4&fpid=6">KDE innovation still brewing amid stable 4.5 release</a></h3></li>
+
+							<li><h3><a href="/article/318392/a-z_programming_languages_groovy/?fp=4&fpid=6">The A-Z of programming languages: Groovy</a></h3></li>
+
+							<li><h3><a href="/article/307418/a-z_programming_languages_erlang/?fp=4&fpid=6">The A-Z of Programming Languages: Erlang</a></h3></li>
+
+						</ul>
+						<div class="sectionpage_box_more"><a href="/section/open_source/interviews/">More</a></div>
+					</div>
+				</div>
+				</div>
+
+
+
+
+
+				<div class="sectionpage_box">
+				<div class="sectionpage_box_inner">
+					<h2>Opinions</h2>
+					<div class="sectionpage_boxcontent">
+						<ul class="storylist_nodate">
+
+							<li class="first"><h3><a href="/article/367882/keeping_up_unitys_kde_plasma_netbook/?fp=4&fpid=6">Keeping up with the Unitys: KDE&#39;s Plasma Netbook</a></h3></li>
+
+							<li><h3><a href="/article/367050/ubuntu_risky_leap_unity_wayland/?fp=4&fpid=6">Ubuntu&#39;s risky leap: Unity on Wayland</a></h3></li>
+
+							<li><h3><a href="/article/354909/could_facebook_next_aol_/?fp=4&fpid=6">Could Facebook be the next AOL?</a></h3></li>
+
+							<li><h3><a href="/article/310508/os_project_google_over-extending_itself_/?fp=4&fpid=6">With OS project, is Google over-extending itself?</a></h3></li>
+
+							<li><h3><a href="/article/303051/linux_certifications_hot_/?fp=4&fpid=6">Linux certifications: Hot or not?</a></h3></li>
+
+						</ul>
+						<div class="sectionpage_box_more"><a href="/section/open_source/opinions/">More</a></div>
+					</div>
+				</div>
+				</div>
+
+			</div>
+
+
+		</div>
+	</div>
+</div>
+
+							</div>
+						</div>
+						<div class="clearing">&nbsp;</div><!-- This is for NN6 -->
+					</div><!-- left_center_columns -->
+					
+					<div id="contentright_wrap">
+
+						<div id="contentright_div">
+
+<iframe src="http://ad.au.doubleclick.net/adi/techworld.com.au/rosboombox;sz=300x250;tile=3;ord=1293420932?" name="frame1" width="300" height="250" style="width:300px;height:250px;" frameborder="no" border="0" marginwidth="0" marginheight="0" scrolling="no">
+
+<script type="text/javascript" language="JavaScript1.1" src="http://ad.au.doubleclick.net/adj/techworld.com.au/rosboombox;sz=300x250;tile=3;ord=1293420932?">
+</script>
+
+<noscript>
+<a href="http://ad.au.doubleclick.net/jump/techworld.com.au/rosboombox;sz=300x250;tile=3;ord=1293420932?"><img src="http://ad.au.doubleclick.net/ad/techworld.com.au/rosboombox;sz=300x250;tile=3;ord=1293420932?" border="0" height="250" width="300" style="width:300px;height:250px;" alt="Advertisement"></a>
+</noscript>
+</iframe>
+
+
+
+
+
+<div id="block-user-0" class="block block-user">
+  <div class="roundbox">
+    <div class="roundbox_head">
+      <div class="head_inner cfix">
+        <h2>Techworld Australia Member Login</h2>
+        <div class="roundbox_buttons">
+			<a href="#" class="btn_col" onclick="blocklist_colexp('block-user-0');return false;" title="Expand/Collapse box content">c</a>
+        </div>
+      </div>
+    </div>
+    <div class="roundbox_body">
+      <div class="content cfix">
+  		  <div id="user-login-block">
+  		    <form action="/user/login/?destination=/section/open_source/" accept-charset="UTF-8" method="post" id="user-login-form"><div style='display:none;'><input type='hidden' id='csrfmiddlewaretoken' name='csrfmiddlewaretoken' value='4c0602347ce66edd2c23c8f6cced2e13' /></div>
+            <div>
+              <div id="user-login-block" class="clear-block login_box">
+                <div id="user-login-block-left">
+                  <div class="form-item" id="edit-name-wrapper">
+					<label for="edit-name">Username: <span class="form-required" title="This field is required.">*</span></label>
+					<input type="text" maxlength="60" name="username" id="edit-name" size="15" class="form-text required">
+                  </div>
+                  <div class="form-item" id="edit-pass-wrapper">
+					<label for="edit-pass">Password: <span class="form-required" title="This field is required.">*</span></label>
+					<input type="password" name="password" id="edit-pass" maxlength="60" size="15" class="form-text required" />
+                  </div>
+                  <input type="submit" name="op" id="edit-submit" value="Log in" class="form-submit" />
+                  <div class="user_login_links">
+                    <ul class="links">
+                      <li class="link link_0 first last"><a href="/user/password/">Forgotten Password</a></li>
+                    </ul>
+                  </div>
+                </div>
+                <div id="user-login-block-right">
+                  <div class="user_login_links">
+                    <div class="help">
+                      <h3>Not a member?</h3>
+                      <p>Sign up now for your free membership which will give you access to the latest news, analysis, email newsletter subscriptions and more.</p>
+                    </div>
+                    <ul class="links">
+                      <li class="link link_0 first last"><a href="/user/register/">Signup</a></li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </form>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<script type="text/javascript" charset="utf-8">
+	blocklist_init('block-user-0');
+</script>
+
+
+
+
+
+
+
+						
+
+
+
+						<div id="block-comment-0" class="block block-comment">
+							<div class="roundbox">
+								<div class="roundbox_head">
+									<div class="head_inner cfix">
+										<h2>Recent comments</h2>
+										<div class="roundbox_buttons">
+											<a href="#" class="btn_minus" onclick="blocklist_minus('block-comment-0');return false;">-</a>
+											<a href="#" class="btn_plus" onclick="blocklist_plus('block-comment-0');return false;">+</a>
+											<a href="#" class="btn_col" onclick="blocklist_colexp('block-comment-0');return false;">c</a>
+										</div>
+									</div>
+								</div>
+								<div class="roundbox_body">
+									<div class="content cfix">
+										<div class="item-list">
+											<ul class="story_list">
+
+												<li class="first"><a href="/article/267818/acs_creates_task_force_unsw_hold_forum_internet_filtering/#comment-398393">Доброго времени суток! Хочу взять сварная сетка . Кто может что-то посоветовать? ...</a><br />5 hours, 28 minutes ago</li>
+
+												<li class="first"><a href="/article/267818/acs_creates_task_force_unsw_hold_forum_internet_filtering/#comment-398081">delete</a><br />9 hours, 42 minutes ago</li>
+
+												<li class="first"><a href="/article/363208/conroy_receive_secret_filter_forum_report/#comment-397233">delete</a><br />1 day ago</li>
+
+												<li class="first"><a href="/article/349499/forrester_forum_most_businesses_still_don_t_understand_it/#comment-396475">Kendra Sex Tapes. 2.60 (Based on 5 votes, You rated: So here ...</a><br />1 day, 10 hours ago</li>
+
+												<li class="first"><a href="/article/267818/acs_creates_task_force_unsw_hold_forum_internet_filtering/#comment-395521">Куда мне отнести концертные платья? А наш номер, синьорита, когда мы будем ...</a><br />2 days ago</li>
+
+												<li class="first"><a href="/article/267818/acs_creates_task_force_unsw_hold_forum_internet_filtering/#comment-395488">Riverside Printing Company</a><br />2 days ago</li>
+
+												<li class="first"><a href="/article/349499/forrester_forum_most_businesses_still_don_t_understand_it/#comment-395184">Sex Tape Of Kendra Wilkinson. The company has named it as Kendra ...</a><br />2 days, 4 hours ago</li>
+
+												<li class="first"><a href="/article/371658/google_adds_flash_sandbox_chrome_beta/#comment-394995">Thanks for such informative and helpful article Google adds Flash sandbox to ...</a><br />2 days, 11 hours ago</li>
+
+												<li class="first"><a href="/article/349499/forrester_forum_most_businesses_still_don_t_understand_it/#comment-394084">Kendra Nude. Video description: Kendra is forced to face her wild past ...</a><br />3 days, 4 hours ago</li>
+
+												<li class="first"><a href="/article/267818/acs_creates_task_force_unsw_hold_forum_internet_filtering/#comment-394006">Добрый день! Хочу купить сетка стальная сварная . Кто может что-нибуть посоветовать? ...</a><br />3 days, 5 hours ago</li>
+
+											</ul>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+<script type="text/javascript" charset="utf-8">
+blocklist_init('block-comment-0');
+</script>
+
+
+
+
+
+
+
+<div id="block-blog-0" class="block block-blog">
+	<div class="roundbox">
+		<div class="roundbox_head">
+			<div class="head_inner cfix">
+				<h2>TechWorld Blogs</h2>
+				<div class="roundbox_buttons">
+					<a href="#" class="btn_minus" onclick="blocklist_minus('block-blog-0');return false;">-</a>
+					<a href="#" class="btn_plus" onclick="blocklist_plus('block-blog-0');return false;">+</a>
+					<a href="#" class="btn_col" onclick="blocklist_colexp('block-blog-0');return false;">c</a>
+				</div>
+			</div>
+		</div>
+		<div class="roundbox_body">
+			<div class="content cfix">
+				<ul class="blog_list">
+					<li class="first">
+						<a href="/blog/talkingtech/">
+							<span class="cfix">
+								<div class="img"><img src="/media/images/blog_rodney_graphic.gif" /></div>
+								<div class="text">
+									<h3>TalkingTech</h3>
+									<p>The view from the top of IT with TechWorld Editor Rodney Gedda</p>
+								</div>
+							</span>
+						</a>
+					</li>
+				</ul>
+				<h3 class="recent_blog">Recent blog posts</h3>
+				<div class="item-list">
+					<ul class="story_list">
+
+
+						<li><a href="/blog/talkingtech/2010/12/16/best-2010-tech-moves-2011/">The best in 2010 tech moves into 2011</a></li>
+
+						<li><a href="/blog/talkingtech/2010/12/08/assange-captivity-info-leaks-will-persist/">With Assange in captivity, info leaks will persist</a></li>
+
+						<li><a href="/blog/talkingtech/2010/11/30/nbn-upon-us-lets-count-cost-duplication/">The NBN is upon us: counting the cost of duplication</a></li>
+
+						<li><a href="/blog/talkingtech/2010/11/23/night-night-novell/">Night, night Novell</a></li>
+
+						<li><a href="/blog/talkingtech/2010/11/22/well-said-woz/">Well said Woz</a></li>
+
+						<li><a href="/blog/talkingtech/2010/11/15/a-newly-minted-linux-a-must-for-the-desktop/">A newly minted Linux a must for the desktop</a></li>
+
+						<li><a href="/blog/talkingtech/2010/11/09/desktop-linux-needs-integration-and-innovation/">Desktop Linux needs integration and innovation</a></li>
+
+						<li><a href="/blog/entrenched/2010/11/03/coding-headphones/">Coding headphones</a></li>
+
+						<li><a href="/blog/talkingtech/2010/11/02/here-s-to-a-cloudy-cup-day/">Here’s to a cloudy Cup day</a></li>
+
+						<li><a href="/blog/talkingtech/2010/10/26/windows-phone-7-first-impressions-call-for-more-options/">Windows Phone 7: first impressions call for more options</a></li>
+
+					</ul>
+				</div>
+				<div class="more-link"><a href="/blog/" title="Read the latest blog entries.">more</a></div>
+			</div>
+		</div>
+	</div>
+</div>
+<script type="text/javascript" charset="utf-8">
+blocklist_init('block-blog-0');
+</script>
+
+
+
+
+
+						<div class="block block-jobs_feed_reader">
+							<div class="roundbox">
+								<div class="roundbox_body">
+									<div class="content cfix">
+										<div class='block block-jobs_promo'>
+											<div class='boxwrap'>
+												<div class='boxheader'>
+													<div class='boxheader_inner'>
+														<span>Jobs</span>
+													</div>
+												</div>
+												
+
+
+
+
+<div class='block-jobs-promo'><div class='content'><ul class="story_list"><li><a href='/jobs/view/32/software-delivery-specialist-2-positions/'>Software Delivery Specialist- 2 Positions</a></li><li><a href='/jobs/view/31/business-development-manager/'>Business Development Manager</a></li><li><a href='/jobs/view/30/business-analyst/'>Business Analyst</a></li><li><a href='/jobs/view/29/database-administrator/'>Database Administrator</a></li><li><a href='/jobs/view/28/java-support-developer-weblogic/'>Java Support Developer / Weblogic</a></li><li><a href='/jobs/view/27/senior-javaj2ee-developer/'>Senior Java/J2EE Developer</a></li><li><a href='/jobs/view/26/financial-analyst/'>Financial Analyst</a></li></ul></div><div class="more-link"><a class="morestory" href="/jobs/">more</a></div></div>
+
+
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+
+
+
+<div id="block-story_list_block-8" class="block block-story_list_block block-Whitepapers">
+	<div class="roundbox">
+		<div class="roundbox_head">
+			<div class="head_inner cfix">
+				<h2>Whitepapers</h2>
+					<div class="roundbox_buttons">
+						<a href="#" class="btn_minus" onclick="blocklist_minus('block-story_list_block-8');return false;" title="+1 article headline">-</a>
+						<a href="#" class="btn_plus" onclick="blocklist_plus('block-story_list_block-8');return false;" title="-1 article headline">+</a>
+						<a href="#" class="btn_col" onclick="blocklist_colexp('block-story_list_block-8');return false;" title="Expand/Collapse box content">c</a>
+					</div>
+				</div>
+			</div>
+		<div class="roundbox_body">
+			<div class="content cfix">
+				<div id="whitepaper_promo">
+					<ul class="whitepaper_list">
+
+
+						<li>
+							<a href="/whitepaper/370014/ballarat-health-services-slashes-printing-costs-with-hp/?type=section&amp;arg=16&amp;location=outer_right_sidebar">
+								<span class="cfix">
+									<div class="img">
+										<img src="http://demo.idg.com.au/techworld/icons/tw_whitepaper_logo_info.png" />
+									</div>
+									<div class="text">Ballarat Health Services slashes printing costs with HP</div>
+								</span>
+							</a>
+						</li>
+
+						<li>
+							<a href="/whitepaper/370055/information-for-success-oracle-enterprise-manager-march-2009/?type=section&amp;arg=16&amp;location=outer_right_sidebar">
+								<span class="cfix">
+									<div class="img">
+										<img src="http://demo.idg.com.au/techworld/icons/tw_whitepaper_logo_mag.png" />
+									</div>
+									<div class="text">INFORMATION FOR SUCCESS - Oracle Enterprise Manager
+March 2009</div>
+								</span>
+							</a>
+						</li>
+
+						<li>
+							<a href="/whitepaper/370036/mcgrathnicol-takes-streamlined-approach-to-keep-it-costs-well-below-industry-average/?type=section&amp;arg=16&amp;location=outer_right_sidebar">
+								<span class="cfix">
+									<div class="img">
+										<img src="http://demo.idg.com.au/techworld/icons/tw_whitepaper_logo_quest.png" />
+									</div>
+									<div class="text">McGrathNicol takes streamlined approach to keep IT costs well below industry average</div>
+								</span>
+							</a>
+						</li>
+
+  </ul>
+</div>
+      </div>
+    </div>
+  </div>
+</div>
+<script type="text/javascript" charset="utf-8">
+	blocklist_init('block-story_list_block-8');
+</script>
+
+
+
+
+
+
+
+
+						<div id="block-story_list_block-4" class="block block-story_list_block block-Latest-News">
+							<div class="roundbox">
+								<div class="roundbox_head">
+									<div class="head_inner cfix">
+										<h2>Latest News</h2>
+										<div class="roundbox_buttons">
+											<a href="#" class="btn_minus" onclick="blocklist_minus('block-story_list_block-4');return false;" title="+1 article headline">-</a>
+											<a href="#" class="btn_plus" onclick="blocklist_plus('block-story_list_block-4');return false;" title="-1 article headline">+</a>
+											<a href="#" class="btn_col" onclick="blocklist_colexp('block-story_list_block-4');return false;" title="Expand/Collapse box content">c</a>
+										</div>
+									</div>
+								</div>
+								<div class="roundbox_body">
+									<div class="content cfix">
+										<div class="site_logo"><a href="http://www.techworld.com.au"></a></div>
+										<ul class="story_list">
+
+											<li class="story-0"><a href="/article/371871/communicate_value_tech/">Communicate the value, not the tech</a></li>
+
+											<li class="story-1"><a href="/article/371916/wifi_vulnerabilities_advances_incidents_2010/">WiFi Vulnerabilities: Advances and incidents in 2010</a></li>
+
+											<li class="story-2"><a href="/article/371922/how_foster_teamwork_among_techies/">How to foster teamwork among techies</a></li>
+
+											<li class="story-3"><a href="/article/372007/recession_extends_hardware_lifecycles/">Recession extends hardware lifecycles</a></li>
+
+											<li class="story-4"><a href="/article/372015/protect_your_backup_data_from_murphy_law/">Protect Your Backup Data from Murphy&#39;s Law</a></li>
+
+											<li class="story-5"><a href="/article/372024/mobility_business_case/">The mobility business case</a></li>
+
+											<li class="story-6"><a href="/article/372039/top_10_video_games_2010/">The Top 10 Video Games of 2010</a></li>
+
+											<li class="story-7"><a href="/article/372044/fcc_net_neutrality_vote_criticized_from_both_sides/">FCC&#39;s net neutrality vote criticized from both sides</a></li>
+
+											<li class="story-8"><a href="/article/372010/duke_mba_program_networks_over_cisco_quad/">Duke MBA program networks over Cisco&#39;s Quad</a></li>
+
+											<li class="story-9"><a href="/article/372035/top_erp_predictions_2011/">Top ERP predictions for 2011</a></li>
+
+											<li class="story-10"><a href="/article/372054/10_ways_sharepoint_2010_will_impact_your_lotus_notes_migration/">10 ways SharePoint 2010 will impact your Lotus Notes migration</a></li>
+
+											<li class="story-11"><a href="/article/372060/kindle_sales_60_per_cent_higher_than_expected/">Kindle Sales 60 per cent higher than expected</a></li>
+
+											<li class="story-12"><a href="/article/372009/apple_drop_app_downloads_from_site_next_month/">Apple to drop app downloads from site next month</a></li>
+
+											<li class="story-13"><a href="/article/371909/microsoft_major_security_essentials_2_0_overhaul/">Microsoft in major Security Essentials 2.0 overhaul</a></li>
+
+											<li class="story-14"><a href="/article/372018/sap_another_exec_reshuffle/">SAP in another exec reshuffle</a></li>
+
+										</ul>
+										<div class="more-link"><a class="morestory" href="/tax/news/">more</a></div>
+									</div>
+								</div>
+							</div>
+						</div>
+						
+<script type="text/javascript">
+blocklist_init('block-story_list_block-4');
+</script>
+
+
+
+
+
+						</div>
+
+
+					</div>
+				</div><!-- threecolumns_main -->
+				<div class="clearing">&nbsp;</div><!-- This is for NN6 -->
+			</div>
+		</div><!-- threecolumns -->
+
+
+
+		
+<div id="marketplace-padding" class="cfix">
+<div id="marketplace">	
+<div class="marketplace_header">Market Place</div>
+<div class="marketplace_content cfix">
+
+    <div class="item item_first">
+    <div class="logo"><img src="http://demo.idg.com.au/images/marketplacelogos/Optus_Business_Agility_100x42.gif" /></div>
+    <div class="link"><a href="http://ad.doubleclick.net/clk;231299417;55479912;t?http://www.computerworld.com.au/whitepaper/370002/redirect?rtid=3&amp;location=textlink" rel="nofollow" target="_blank">Featured Resource | Cloud Services: Using Virtual Private Clouds to Improve Business Agility</a></div>
+    </div>
+
+    <div class="item">
+    <div class="logo"><img src="http://demo.idg.com.au/images/marketplacelogos/Sonicwall_100x42.gif" /></div>
+    <div class="link"><a href="http://ad.doubleclick.net/clk;229399165;53377875;e?http://www.computerworld.com.au/whitepaper/370001/redirect?rtid=3&amp;location=textlink" rel="nofollow" target="_blank">Business Opportunities and the IT Security Challenge | Complimentary Whitepaper</a></div>
+    </div>
+
+    <div class="item">
+    <div class="logo"><img src="http://demo.idg.com.au/images/marketplacelogos/NEC-100x42.jpg" /></div>
+    <div class="link"><a href="http://computerworld.com.au/whitepaper/325150/redirect/?rtid=3&amp;location=twmarketplace" rel="nofollow" target="_blank">Don&#39;t let IT/data issues keep you awake at night: Moving Data and its storage is mission critical</a></div>
+    </div>
+
+    <div class="item">
+    <div class="logo"><img src="http://demo.idg.com.au/images/marketplacelogos/EMC_virt_100x42.gif" /></div>
+    <div class="link"><a href="http://ad.doubleclick.net/clk;230210619;54889797;u?http://www.computerworld.com.au/whitepaper/361413/redirect?rtid=3&amp;location=textlink" rel="nofollow" target="_blank">Learn how virtualisation helps organizations around the globe turn their IT infrastructures into true competitive assets | Download your free resource now.</a></div>
+    </div>
+
+    <div class="item">
+    <div class="logo"><img src="http://demo.idg.com.au/images/marketplacelogos/Qlikview_Business_Intelligence_100x42.gif" /></div>
+    <div class="link"><a href="http://ad.doubleclick.net/clk;231983204;55480278;k?http://www.computerworld.com.au/whitepaper/370004/redirect?rtid=3&amp;location=textlink" rel="nofollow" target="_blank">Research Paper | BI for the people - and the 10 pitfalls to avoid in the new decade.</a></div>
+    </div>
+
+    <div class="item">
+    <div class="logo"><img src="http://demo.idg.com.au/images/marketplacelogos/apc_data_centre_100x42.gif" /></div>
+    <div class="link"><a href="http://ad.doubleclick.net/clk;233403093;57378707;k?http://www.computerworld.com.au/whitepaper/370085/redirect?rtid=3&amp;location=marketplacehousead" rel="nofollow" target="_blank">Data Centre Physical Infrastructure: Optimizing Business Value</a></div>
+    </div>
+
+    <div class="item">
+    <div class="logo"><img src="http://demo.idg.com.au/images/marketplacelogos/hp_money_100x42.gif" /></div>
+    <div class="link"><a href="http://ad.doubleclick.net/clk;233403094;31540259;w?http://www.computerworld.com.au/whitepaper/370042/redirect?rtid=3&amp;location=marketplacehousead" rel="nofollow" target="_blank">Research Study | Cheap can cost your government agency dearly</a></div>
+    </div>
+
+    <div class="item">
+    <div class="logo"><img src="http://demo.idg.com.au/images/marketplacelogos/citrix_data_security_100x42.jpg" /></div>
+    <div class="link"><a href="http://ad.doubleclick.net/clk;233006681;56893364;m?http://www.computerworld.com.au/whitepaper/370076/redirect?rtid=3&amp;location=citrixhousead" rel="nofollow" target="_blank">Complimentary Whitepaper | Learn How To Get Maximum Security And Control Over Your Data</a></div>
+    </div>
+
+    <div class="item">
+    <div class="logo"><img src="http://demo.idg.com.au/images/marketplacelogos/CA-CIO2CIO-100x42.gif" /></div>
+    <div class="link"><a href="http://www.computerworld.com.au/whitepaper/339267/redirect?rtid=3&amp;location=Marketplacead" rel="nofollow" target="_blank">CIO2CIO Research Study | State of the Market: Application Performance Management</a></div>
+    </div>
+
+    <div class="item">
+    <div class="logo"><img src="http://demo.idg.com.au/images/marketplacelogos/vmware_100x42.gif" /></div>
+    <div class="link"><a href="http://ad.doubleclick.net/clk;233403096;34697174;k?http://www.computerworld.com.au/whitepaper/370062/redirect?rtid=3&amp;location=marketplacehousead" rel="nofollow" target="_blank">Virtualizing Tier 1 Applications: A Critical Step on the Journey Toward the Private Cloud</a></div>
+    </div>
+
+    <div class="item">
+    <div class="logo"><img src="http://demo.idg.com.au/images/marketplacelogos/100x42nec.gif" /></div>
+    <div class="link"><a href="http://ad.doubleclick.net/clk;226888590;50705470;p?http://clk.atdmt.com/DAP/go/242305264/direct/01/" rel="nofollow" target="_blank">When the WHAT is Unified Communications, the WHO is NEC </a></div>
+    </div>
+
+    <div class="item">
+    <div class="logo"><img src="http://demo.idg.com.au/images/marketplacelogos/NOVELL_100X42.gif" /></div>
+    <div class="link"><a href="http://ad.doubleclick.net/clk;233403095;57378685;r?http://www.computerworld.com.au/whitepaper/357214/redirect?rtid=3&amp;location=marketplacehousead" rel="nofollow" target="_blank">Novell Holds Down Data Center Costs with PlateSpin Work load Management Solutions</a></div>
+    </div>
+
+    <div class="item">
+    <div class="logo"><img src="http://demo.idg.com.au/images/marketplacelogos/Qlikview_100x42.gif" /></div>
+    <div class="link"><a href="http://ad.doubleclick.net/clk;231299538;55480278;u?http://www.computerworld.com.au/whitepaper/370008/redirect?rtid=3&amp;location=textlink" rel="nofollow" target="_blank">Research Analysis | Dashboards as Easy to Use as Google</a></div>
+    </div>
+
+</div>
+</div>
+</div>
+
+
+
+		
+
+
+
+<div id="sites-promo" class="cfix">
+
+	<div id="block-1" class="block block-sites-promo-block block-Good-Gear-Guide">
+		<h2>Good Gear Guide</h2>
+		<div class="content">
+		<div class="site_logo"><a href="http://www.goodgearguide.com.au"></a></div>
+		<h3>Buying guides</h3>
+		
+<ul class="story_list">
+
+    <li class="story-0"><a href="http://www.goodgearguide.com.au/article/199020/portable_multimedia_players" target="_parent">Portable Multimedia Players</a></li>
+
+    <li class="story-1"><a href="http://www.goodgearguide.com.au/article/196448/digital_cameras" target="_parent">Digital Cameras</a></li>
+
+    <li class="story-2"><a href="http://www.goodgearguide.com.au/article/196645/digital_video_cameras" target="_parent">Digital Video Cameras</a></li>
+
+</ul>
+
+
+		<h3>Latest Products</h3>
+		
+<ul class="story_list">
+
+    <li class="story-0"><a href="http://www.goodgearguide.com.au/review/nikon/d7000/371806" target="_parent">Nikon D7000 digital SLR camera</a></li>
+
+    <li class="story-1"><a href="http://www.goodgearguide.com.au/review/digital_video/microsoft/lifecam_hd-5000/371695" target="_parent">Microsoft LifeCam HD-5000</a></li>
+
+    <li class="story-2"><a href="http://www.goodgearguide.com.au/review/digital_video/sweex/hd_webcam_diamond/371679" target="_parent">Sweex HD Webcam Diamond</a></li>
+
+</ul>
+
+
+		</div>
+	</div>
+	
+	<div id="block-2" class="block block-sites-promo-block block-ALS">
+		<h2>ALS</h2>
+		<div class="content">
+		<div class="site_logo"><a href="http://www.lifescientist.com.au"></a></div>
+		<h3>Latest News From ALS</h3>
+		
+<ul class="story_list">
+
+    <li class="story-0"><a href="http://www.lifescientist.com.au/article/372099/researchers_find_genetic_clues_impulsive_behaviour" target="_parent">Researchers find genetic clues to impulsive behaviour</a></li>
+
+    <li class="story-1"><a href="http://www.lifescientist.com.au/article/372101/market_report_biotechs_snap_six-week_winning_streak_wider_market_gains" target="_parent">Market report: Biotechs snap six-week winning streak as wider market gains</a></li>
+
+    <li class="story-2"><a href="http://www.lifescientist.com.au/article/372097/dairy-derived_acids_shown_ward_off_type_2_diabetes" target="_parent">Dairy-derived acids shown to ward off Type 2 diabetes</a></li>
+
+    <li class="story-3"><a href="http://www.lifescientist.com.au/article/372102/researchers_lift_lid_placebos" target="_parent">Researchers lift the lid on placebos</a></li>
+
+    <li class="story-4"><a href="http://www.lifescientist.com.au/article/371870/feature_hidden_genome" target="_parent">Feature: Hidden in the genome</a></li>
+
+</ul>
+
+
+		</div>
+	</div>
+
+	<div id="block-3" class="block block-sites-promo-block block-Computerworld">
+		<h2>Computerworld</h2>
+		<div class="content">
+		<div class="site_logo"><a href="http://www.computerworld.com.au"></a></div>
+		<h3>Latest News From CW</h3>
+		
+<ul class="story_list">
+
+    <li class="story-0"><a href="http://www.computerworld.com.au/article/371916/wifi_vulnerabilities_advances_incidents_2010" target="_parent">WiFi Vulnerabilities: Advances and incidents in 2010</a></li>
+
+    <li class="story-1"><a href="http://www.computerworld.com.au/article/371922/how_foster_teamwork_among_techies" target="_parent">How to foster teamwork among techies</a></li>
+
+    <li class="story-2"><a href="http://www.computerworld.com.au/article/372015/protect_your_backup_data_from_murphy_law" target="_parent">Protect Your Backup Data from Murphy&#39;s Law</a></li>
+
+    <li class="story-3"><a href="http://www.computerworld.com.au/article/372024/mobility_business_case" target="_parent">The mobility business case</a></li>
+
+    <li class="story-4"><a href="http://www.computerworld.com.au/article/372039/top_10_video_games_2010" target="_parent">The Top 10 Video Games of 2010</a></li>
+
+</ul>
+
+
+		</div>
+	</div>
+	
+	<div id="block-4" class="block block-sites-promo-block block-ARN">
+		<h2>ARN</h2>
+		<div class="content">
+		<div class="site_logo"><a href="http://www.arnnet.com.au"></a></div>
+		<h3>Latest News From ARN</h3>
+		
+<ul class="story_list">
+
+    <li class="story-0"><a href="http://www.arnnet.com.au/article/371922/how_foster_teamwork_among_techies" target="_parent">How to foster teamwork among techies</a></li>
+
+    <li class="story-1"><a href="http://www.arnnet.com.au/article/372095/ibm_renews_109_million_doha_deal" target="_parent">IBM renews $109 million DoHA deal</a></li>
+
+    <li class="story-2"><a href="http://www.arnnet.com.au/article/372039/top_10_video_games_2010" target="_parent">The Top 10 Video Games of 2010</a></li>
+
+    <li class="story-3"><a href="http://www.arnnet.com.au/article/372024/mobility_business_case" target="_parent">The mobility business case</a></li>
+
+    <li class="story-4"><a href="http://www.arnnet.com.au/article/372015/protect_your_backup_data_from_murphy_law" target="_parent">Protect Your Backup Data from Murphy&#39;s Law</a></li>
+
+</ul>
+
+
+		</div>
+	</div>
+
+	<div id="block-5" class="block block-sites-promo-block block-CIO">
+		<h2>CIO</h2>
+		<div class="content">
+		<div class="site_logo"><a href="http://www.cio.com.au"></a></div>
+		<h3>Latest News From CIO</h3>
+		
+<ul class="story_list">
+
+    <li class="story-0"><a href="http://www.cio.com.au/article/372007/recession_extends_hardware_lifecycles" target="_parent">Recession extends hardware lifecycles</a></li>
+
+    <li class="story-1"><a href="http://www.cio.com.au/article/371922/how_foster_teamwork_among_techies" target="_parent">How to foster teamwork among techies</a></li>
+
+    <li class="story-2"><a href="http://www.cio.com.au/article/372024/mobility_business_case" target="_parent">The mobility business case</a></li>
+
+    <li class="story-3"><a href="http://www.cio.com.au/article/372015/protect_your_backup_data_from_murphy_law" target="_parent">Protect Your Backup Data from Murphy&#39;s Law</a></li>
+
+    <li class="story-4"><a href="http://www.cio.com.au/article/372039/top_10_video_games_2010" target="_parent">The Top 10 Video Games of 2010</a></li>
+
+</ul>
+
+
+		</div>
+	</div>
+
+</div>
+
+
+		
+	</div>
+	
+	<div id="footer_wrap">
+		<div id="footer">
+			<img id="idg_logo_footer" src="http://cdn.idg.com.au/tw/images/idg_logo_footer.gif" alt="" />
+			<div id="footer_text">
+				<div id="copyright">Copyright 2010 IDG Communications. ABN 14 001 592 650. All rights reserved. Reproduction in whole or in part in any form or medium without express written permission of IDG Communications is prohibited.</div>
+				<div id="idg_site">IDG Sites:
+<a href="http://www.pcworld.idg.com.au">PC World</a> | 
+<a href="http://www.goodgearguide.com.au">GoodGearGuide</a> | 
+<a href="http://www.computerworld.com.au">Computerworld Australia</a> | 
+<a href="http://www.cio.com.au">CIO Australia</a> | 
+<a href="http://www.cso.com.au">CSO Online</a> | 
+<a href="http://www.arnnet.com.au">ARN</a> | 
+<a href="http://www.cioexecutivecouncil.com.au/">CIO Executive Council</a>
+				</div>
+				<div>Links:
+<a href="/privacy">Privacy Policy [Updated 7 Aug 09]</a> |
+<a href="http://www.idg.com.au/advertising">Advertising</a> |
+<a href="/books/">Books</a>
+				</div>
+			</div>
+		</div>
+	</div>
+</div><!-- main -->
+</div><!-- skin -->
+
+
+<div id="fb-root"></div>
+<script>
+	window.fbAsyncInit = function() {
+		FB.init({appId: '115095355194302', status: true, cookie: true,
+			xfbml: true});
+	};
+	(function() {
+		var e = document.createElement('script'); e.async = true;
+		e.src = document.location.protocol + '//connect.facebook.net/en_US/all.js';
+		document.getElementById('fb-root').appendChild(e);
+	}());
+</script>
+
+
+
+<div id="trackers">
+
+<!-- start Vibrant Media IntelliTXT script section -->
+<script type="text/javascript" src="http://techworld.au.intellitxt.com/intellitxt/front.asp?ipid=19951"></script>
+<!-- end Vibrant Media IntelliTXT script section -->
+
+
+
+<!-- START Nielsen Online SiteCensus V5.3 -->
+<!-- COPYRIGHT 2007 Nielsen//NetRatings -->
+<!-- Do not change -->
+<script type="text/javascript">
+        var _rsCI="au-idg";
+        var _rsCG="tw";
+        var _rsDN="//secure-au.imrworldwide.com/";
+</script>
+<script type="text/javascript" src="//secure-au.imrworldwide.com/v53.js"></script>
+<noscript>
+<div><img src="//secure-au.imrworldwide.com/cgi-bin/m?ci=au-idg&amp;cg=tw&amp;cc=1" alt=""/></div>
+</noscript>
+<!-- END Nielsen//NetRatings SiteCensus V5.3 -->
+
+
+
+<!-- Start Google Analytics  -->
+<script type="text/javascript">
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+        var pageTracker = _gat._getTracker("UA-4682346-1");
+        pageTracker._initData();
+
+	pageTracker._setCustomVar(1, "section", "open_source", 3);
+
+
+	pageTracker._setCustomVar(2, "author", "none", 3);
+
+
+	pageTracker._setCustomVar(3, "ind", "none", 3);
+
+
+        pageTracker._trackPageview();
+
+</script>
+<!-- End Google Analytics -->
+
+
+
+<!-- Begin comScore Tag -->
+<script>
+        document.write(unescape("%3Cscript src='" + (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js' %3E%3C/script%3E"));
+</script>
+
+<script>
+        COMSCORE.beacon({
+                c1:2,
+                c2:"6035308",
+                c3:"",
+                c4:"http://www.techworld.com.au/section/open_source/",
+                c5:"",
+                c6:"",
+                c15:"4c7d2360741ead34819ef36ebd06f190"
+        });
+</script>
+<noscript>
+        <img src="http://b.scorecardresearch.com/b?c1=2&c2=6035308&c3=&c4=http://www.techworld.com.au/section/open_source/&c5=&c6=&c15=4c7d2360741ead34819ef36ebd06f190&cv=1.3&cj=1" style="display:none" width="0" height="0" alt="" />
+</noscript>
+<!-- End comScore Tag -->
+
+
+</div>
+</body>
+</html>

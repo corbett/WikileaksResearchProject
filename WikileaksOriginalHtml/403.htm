@@ -1,0 +1,74 @@
+<!--<%
+Response.AddHeader("Pragma", "no-cache")
+Response.Expires = -1
+Response.Cache.SetNoStore()
+%>--><html>
+<head>
+<meta http-equiv="STATUS-CODE" content="403.6">
+<meta name="robots" content="noindex,follow">
+<title>Access denied</title>
+<link rel="stylesheet" type="text/css" href="/_/static/l.css">
+<base href="http://www.thefreelibrary.com" />
+</head>
+<body>
+<table cellspacing=0 cellpadding=0 width=90% class="bodyborder"><tr>
+    <td><a href="/"><img border=0 style="margin:22px 22px 22px 0;" src="/_/static/TFLbyFarlex.gif" width=175 height=65></a></td>
+    <td width=80% style="padding-left:20px;padding-top:20px">
+<form action="/_/search/Search.aspx" method=get id=Form1 name=f1>
+	<div style="margin-bottom:3px">
+	<input type=radio name=SearchBy value=0 id=f1_periodicals checked style="margin-left:-4px"><label for=f1_periodicals><b>Periodicals</b></label>
+	<input type=radio name=SearchBy value=4 id=f1_literature><label for=f1_literature><b>Literature</b></label>
+	<div id=f1_sd>
+	<input id=Word name=Word value="" size=60>
+	<input type=submit value="Search" name=Search>
+	<div id=f1_searchby>
+	<input type=radio name=By value=0 id=f1_by_keyword checked style="margin-left:-4px"><label for=f1_by_keyword>Keyword</label>
+	<input type=radio name=By value=1 id=f1_by_author><label for=f1_by_author>Author</label>
+	<input type=radio name=By value=2 id=f1_by_title><label for=f1_by_title>Title</label>
+	<input type=radio name=By value=3 id=f1_by_topic><label for=f1_by_topic>Topic</label>
+	</div></div></div>
+	</form></td></tr></table>
+
+<div class="bodyborder breadcrumbs">
+    <div class="breadcrumb"><a href="/">The Free Library</a> &gt; Access denied</div>
+</div>
+<div class="main_content" id="content_div"><div class="bodyborder">
+<h1>Access denied</h1>
+<div class=body>
+    <br>
+    <p><b>We are sorry, but your access to the website was temporarily disabled</b>. The possible reasons for this are:</P>
+    <ul>
+	    <li><b>You attempted to crawl (spider) the site</b>. This may include the use of so called "site download" software. Please note that crawling of this site is prohibited.
+	    <li><b>Somebody else</b> from the same network or ISP (Internet Service Provider) has <b>crawled the site</b> and was blocked as the result. This may have nothing to do with your use of our website or your software.
+    </ul>
+
+    <p>To <b>restore your access</b> to the website please re-type the characters below exactly as they appear:</p>
+    <form name=frm action="/_/access/restore-access.aspx" method=post>
+    <div id=rnd_img></div>
+
+    <br>
+    <input type=text size=10 style="font: bold 18pt Verdana;TEXT-TRANSFORM: uppercase;color: DarkGray;margin-left:16px" maxlength=8 name=rnd>
+    <input type=submit Value=Submit>
+    </form>
+    <p>We apologize for the inconvenience.</P>
+
+        <div class="separator1"><div></div></div>
+        <div style="width:600px">
+            Persistent errors? We would like to hear from you. Please submit as many details as possible on how to reproduce the problem you are having. <a target=feedback href="http://app.thefreedictionary.com/feedback.aspx" onclick="open('http://app.thefreedictionary.com/feedback.aspx?url='+escape(document.location)+'&ref='+escape(document.referrer), 'feedback','width=630,height=370,resizable=1');return false">Report the problem</a> .
+        </div>
+        </div>
+
+</div></div>
+<div class="bodyborder breadcrumbs">
+    <div class="separator1"><div></div></div>
+</div>
+<p class="bodyborder copy">Copyright &copy; 2007 <a href="http://www.farlex.com/">Farlex, Inc.</a></p></body> 
+   <script>
+   function NewImg(){
+		var img=document.getElementById('rnd_img')	
+		img.innerHTML='<img src="/_/access/image-rnd.aspx?'+Math.random()+'" width=220 height=55>';
+		frm.rnd.value='';
+   }
+    setTimeout('NewImg()',20);
+    </script>
+</html>

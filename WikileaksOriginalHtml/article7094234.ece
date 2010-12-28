@@ -1,0 +1,623 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=ISO-8859-1" />
+<meta name="ROBOTS" content="NOARCHIVE,NOODP" />
+<meta name="language" content="en" />
+<script type="text/javascript">
+<!--
+// Variables required for DART. MUST BE IN THE HEAD.
+var time = new Date();
+randnum = (time.getTime());
+var categoryValues = '';
+if (document.referrer != null) {
+if (document.referrer.match(".google.") != null ||
+document.referrer.match(".yahoo.") != null ||
+document.referrer.match(".lycos.") != null ||
+document.referrer.match(".ask.") != null ||
+document.referrer.match(".msn.") != null) {
+categoryValues = '!category=sunoverlays;';
+}
+}
+//-->
+</script>
+<script type="text/javascript">
+var pluckUserTiers = "Standard,Trusted,Editor";
+document.domain = "timesonline.co.uk";
+var staticPath = "http://www.timesonline.co.uk";
+var commentsRootUrl = "community.timesonline.co.uk";
+</script>
+<script type="text/javascript" src="http://community.timesonline.co.uk/ver1.0/SiteLifeProxy"></script>
+<script type="text/javascript" src="http://community.timesonline.co.uk/ver1.0/Content/direct/scripts/DirectProxyFast.js"></script>
+<!-- Code to display title of the HTML page -->
+<title> Whistleblowers on US &lsquo;massacre&rsquo; fear CIA stalkers - Times Online </title>
+<meta name="Description" content="
+Activists behind a website dedicated to revealing secret documents have 
+complained of harassment by police and intelligence services as they prepare 
+to release a video showing an American attack in which 97 civilians were 
+killed in Afgha" />
+<link rel="canonical" href="/tol/news/world/us_and_americas/article7094234.ece" />
+<meta http-equiv="content-language" content="en" />
+<link rel="shortcut icon" type="image/x-icon" href="/tol/img/favicon.ico" />
+<link rel="stylesheet" type="text/css" href="/tol/css/alternate.css" title="Alternate Style Sheet" />
+<link rel="stylesheet" type="text/css" href="/tol/css/tol.css" />
+<link rel="stylesheet" type="text/css" href="/tol/css/ie.css" />
+<link rel="stylesheet" type="text/css" href="/tol/css/typography.css" />
+<script type="text/javascript" src="/tol/js/tol.js"></script>
+<script type="text/javascript" src="/tol/js/commentPluck.js"></script>
+<script type="text/javascript" src="/tol/js/cookie.js"></script>
+<script type="text/javascript" src="/tol/js/tls.js"></script>
+</head>
+<body id="rebrand">
+<div id="top"/>
+<div id="shell">
+<div id="page">
+<!-- Article Published Date : Apr 11, 2010 12:01 AM -->
+<!-- for article types article,reviews,posting and Q and A article template will be called -->
+<script type="text/Javascript">
+var articleHeadlines = new Array();
+var articlePaths = new Array();
+var isArticle = 'true';
+var mostCommentedDays = '1';
+var pgoffset = '0';
+</script>
+<!-- START REVENUE SCIENCE PIXELLING CODE -->
+<!-- Start ASI data collection -->
+<script type="text/javascript" src="http://js.revsci.net/gateway/gw.js?csid=J05530"></script>
+<script type="text/javascript">
+<!--
+DM_addEncToLoc("Network",escape("Times"));
+DM_addEncToLoc("SiteName",escape("Times Online"));
+//-->
+</script>	
+<script type="text/javascript"> 
+<!--
+// Article page for Revenue sciences-->	
+DM_addEncToLoc("TemplateName",escape("Article"));
+DM_addEncToLoc("ArticleName",escape("Whistleblowers on US &lsquo;massacre&rsquo; fear CIA stalkers")); 
+//-->
+</script>
+<script type="text/javascript">
+<!--
+var viewSectionName = "News";
+DM_addEncToLoc("NavName",escape(viewSectionName)); 
+//-->
+</script>
+<script type="text/javascript">
+<!--
+var viewSectionName = "World News";
+DM_addEncToLoc("SectionName1",escape(viewSectionName)); 
+//-->
+</script>
+<script type="text/javascript">
+<!--
+var viewSectionName = "US & Americas News";
+DM_addEncToLoc("SectionName2",escape(viewSectionName)); 
+//-->
+</script>
+<script type="text/javascript">
+<!--
+DM_tag(); // Fix for Revenue sciences 14/3/07 - ak
+//-->
+</script>
+<!-- End ASI data collection -->
+<!-- END REVENUE SCIENCE PIXELLING CODE -->
+<script language="JavaScript" type="text/javascript"> 
+<!--
+var s_account="newsinttimesonlineprod,newsinttimesnetworkprod,newsintniglobalprod";
+//-->
+</script>
+<script type="text/javascript" src="/tol/js/s_codeFULLTOL.js"></script>
+<!-- START HITBOX CODE -->
+<script type="text/javascript">
+<!--
+var sectionPath = "times"; 
+//-->
+</script>
+<!--WEBSIDESTORY CODE HBX1.0 (Universal)-->
+<!--COPYRIGHT 1997-2004 WEBSIDESTORY,INC. ALL RIGHTS RESERVED. U.S.PATENT No. 6,393,479B1. MORE INFO:http://websidestory.com/privacy-->
+<script type="text/javascript">
+<!--
+var _hbEC=0,_hbE=new Array;function _hbEvent(a,b){b=_hbE[_hbEC++]=new Object();b._N=a;b._C=0;return b;}
+var hbx=_hbEvent("pv");hbx.vpc="HBX0100u";hbx.gn="tgd.timesonline.co.uk";
+var cv=_hbEvent("cv");
+// set vars to be used below
+var urlReturnCid = ""; 
+var urlReturnAttr = "";
+// First, we load the URL into a variable
+var ni_url = window.location.href;
+// Next, split the url by the #
+var qparts = ni_url.split("#");
+// Check that there is a querystring
+if (qparts.length == 2) {
+// Set the second half of string to var
+var query = qparts[1];
+// Next, split that string by the "&amp"
+var varQ = query.split("&");
+if (varQ.length == 2) {
+// Lastly split by = and assign to vars
+var retQ1 = varQ[0].split("=");
+var retQ2 = varQ[1].split("=");
+urlReturnCid = retQ1[1];
+urlReturnAttr = retQ2[1];
+}
+}
+//BEGIN EDITABLE SECTION
+//CONFIGURATION VARIABLES
+hbx.pn="";//PAGE NAME(S)
+hbx.mlc="";//MULTI-LEVEL CONTENT CATEGORY
+hbx.pndef="title";//DEFAULT PAGE NAME
+hbx.ctdef="full";//DEFAULT CONTENT CATEGORY
+//OPTIONAL PAGE VARIABLES
+//ACTION SETTINGS
+hbx.fv="";//FORM VALIDATION MINIMUM ELEMENTS OR SUBMIT FUNCTION NAME
+hbx.lt="none";//LINK TRACKING
+hbx.dlf="n";//DOWNLOAD FILTER
+hbx.dft="n";//DOWNLOAD FILE NAMING
+hbx.elf="n";//EXIT LINK FILTER
+//SEGMENTS AND FUNNELS
+hbx.seg="";//VISITOR SEGMENTATION
+hbx.fnl="";//FUNNELS
+//CAMPAIGNS
+hbx.cmp=urlReturnCid;//CAMPAIGN ID
+hbx.cmpn="";//CAMPAIGN ID IN QUERY
+hbx.dcmp="";//DYNAMIC CAMPAIGN ID
+hbx.dcmpn="";//DYNAMIC CAMPAIGN ID IN QUERY
+hbx.dcmpe="";//DYNAMIC CAMPAIGN EXPIRATION
+hbx.dcmpre="";//DYNAMIC CAMPAIGN RESPONSE EXPIRATION
+hbx.hra=urlReturnAttr;//RESPONSE ATTRIBUTE
+hbx.hqsr="";//RESPONSE ATTRIBUTE IN REFERRAL QUERY
+hbx.hqsp="";//RESPONSE ATTRIBUTE IN QUERY
+hbx.hlt="";//LEAD TRACKING
+hbx.hla="";//LEAD ATTRIBUTE
+hbx.gp="";//CAMPAIGN GOAL
+hbx.gpn="";//CAMPAIGN GOAL IN QUERY
+hbx.hcn="";//CONVERSION ATTRIBUTE
+hbx.hcv="";//CONVERSION VALUE
+hbx.cp="null";//LEGACY CAMPAIGN 
+hbx.cpd="";//CAMPAIGN DOMAIN
+//CUSTOM VARIABLES
+hbx.ci="";//CUSTOMER ID
+hbx.hc1="";//CUSTOM 1
+hbx.hc2="";//CUSTOM 2
+hbx.hc3="";//CUSTOM 3
+hbx.hc4="";//CUSTOM 4
+hbx.hrf="";//CUSTOM REFERRER
+hbx.pec="";//ERROR CODES
+cv.c5="";
+cv.c6=""; 
+cv.c7="";
+cv.c8="";
+cv.c9="";
+//INSERT CUSTOM EVENTS
+//END EDITABLE SECTION
+hbx.acct="DM5308072BEF";//ACCOUNT NUMBER(S)
+hbx.lt="manual";//LINK TRACKING
+// Article Page For Hit Box
+hbx.mlc = "times/news/world/us+and+americas/";
+hbx.pn = "Whistleblowers+on+US+massacre+fear+CIA+stalkers+ARTK-SDTS-7094234+pagenumber 1"; //+ pagenumber //PAGE NAME(S)
+hbx.hc1 = "7094234|Whistleblowers+on+US+massacre+fear+CIA+stalkers";
+hbx.hc2 = "7094234|1"; 
+hbx.hc3 = "11042010";
+cv.c7="Matthew+Campbell";
+s.events="";
+s.pageName="times/news Whistleblowers on US massacre fear CIA stalkers";
+s.channel="times/news/world/us and americas";
+s.prop1="times";
+s.prop2="times/news";
+s.prop3="times/news/world";
+s.prop4="SDTS";
+s.prop5="ARTK";
+s.prop6="Whistleblowers on US massacre fear CIA stalkers";
+s.prop15="";
+s.prop16="7094234";
+s.prop17="Matthew Campbell";
+s.prop18="11042010";
+s.prop19="times/news/world/us and americas";
+s.prop12="times/news/world/us and americas";
+s.prop20="";	
+s.prop21="news";	
+s.prop25="";
+s.campaign="";
+s.hier2="times/news/world/us and americas";
+s.eVar15="";	
+hbx.pndef="title";//DEFAULT PAGE NAME 
+hbx.ctdef="full";//DEFAULT CONTENT CATEGORY
+//-->
+</script>
+<script language="JavaScript" type="text/javascript"><!--
+/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+var s_code=s.t();if(s_code)document.write(s_code)//--></script>
+<script language="JavaScript" type="text/javascript"><!--
+if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
+//--></script><!--/DO NOT REMOVE/-->
+<!-- End SiteCatalyst code version: H.20.3. -->
+<script type="text/javascript" src="http://www.timesonline.co.uk/js/hbx.js"></script>
+<!--END WEBSIDESTORY CODE-->
+<!-- END HITBOX CODE -->
+<!-- Sophus3 logging tag starts -->
+<script type="text/javascript" src="/tol/sophus3/logging.js"></script>
+<!-- Sophus3 logging tag ends -->
+<div class="source-and-global-links-container">
+<div id="prenav">
+<ul class="cf">
+<li><a href="http://www.thetimes.co.uk/">THE TIMES</a></li>
+<li><a href="http://www.thesundaytimes.co.uk/">THE SUNDAY TIMES</a></li>
+<li class="end"><a href="http://www.timesplus.co.uk/">TIMES+</a></li>
+</ul>
+</div>
+<div id="branding">
+<h1 class="logo-tto"><a href="http://www.thetimes.co.uk/" title="The Times">The Times</a></h1>
+<h1 class="logo-sto"><a href="http://www.thesundaytimes.co.uk/" title="The Sunday Times">The Sunday Times</a></h1>
+</div>
+<div id="prime-nav">
+<ul class="cf">
+<li class="block">Archive Article</li>
+<li class="copy"><a href="http://www.timesplus.co.uk/?CMP=INTni105">Please enjoy this article from The Times & The Sunday Times archives. For full access to our content, please subscribe here</a></li>
+</ul>
+</div>
+</div>
+<div id="my-profile">
+<a href="http://www.timesonline.co.uk/tol/tools_and_services/subscriptions/my_profile/">MY PROFILE</a>
+</div>
+<!-- BEGIN: Region for all content -->
+<div id="region-content">
+<div id="region-body-and-footer">
+<div id="region-body">
+<div id="region-column1and2-container-layout2">
+<div id="region-column1and2-layout2">
+<!-- BEGIN: Module - Main Heading -->
+<div class="float-left position-relative margin-top-minus-22"><span class="small">
+From </span><span class="byline">The Sunday Times</span>
+</div>
+<div class="float-right text-right position-relative margin-top-minus-20">
+<!-- BEGIN: Module - Advert:Top -->
+<SCRIPT type="text/javascript">
+<!--
+//Retrieve yaoo Cookie Value
+var yahoo = "no";
+var IsYahoo="no";
+if (GetQueryString("yahoo")=="yes" || get_cookie('YH') == "yes") IsYahoo="yes";
+if (IsYahoo == "yes" || get_cookie('YH') == 'open') {
+set_cookie ("YH", "yes", "", "" );
+yahoo = "yes";
+} else {
+set_cookie ("YH", "no", "", "" );
+yahoo = "no";
+}
+window.onunload = setYahooCookie;
+//-->
+</SCRIPT>
+<!-- For Travel Search -->
+<!--SECTION:parameter parameter="dart.server" /-->
+<!-- END: Module - Advert:Top -->
+</div>
+<div class="small color-666">
+April 11, 2010</br> 
+</div>
+<div class="clear-simple"></div>
+<h1 class="heading">Whistleblowers on US &lsquo;massacre&rsquo; fear CIA stalkers</h1>
+<h2 class="sub-heading padding-top-5 padding-bottom-15"></h2>
+<!-- END: Module - Main Heading -->
+</div>
+<div id="region-column1-layout2">
+<div>
+<div class="article-author">
+<!-- Print Author name from By Line associated with the article -->
+<span class="small"></span><span class="byline">
+Matthew Campbell
+</span>
+<div class="clear"></div>
+</div>
+</div>
+<!-- BEGIN: Module - Main Article -->
+<!-- Check the Article Type and display accordingly-->
+<!-- Print Author image associated with the Author-->
+<!-- Print the body of the article-->
+<style type="text/css">
+div#related-article-links p a, div#related-article-links p a:visited {
+color:#06c;
+}
+</style>
+<div id="related-article-links">
+<!-- Pagination -->
+<p>
+Activists behind a website dedicated to revealing secret documents have 
+complained of harassment by police and intelligence services as they prepare 
+to release a video showing an American attack in which 97 civilians were 
+killed in Afghanistan. 
+</p>
+<p>
+Julian Assange, one of the founders of Wikileaks, has claimed that a 
+restaurant where the group met in Reykjavic, the capital of Iceland, came 
+under surveillance in March and one of the group&rsquo;s volunteers was detained 
+for 21 hours by police. 
+</p>
+<p>
+Assange, an Australian, says he was followed on a flight from Reykjavik to 
+Copenhagen by two American agents. The group has riled governments by 
+publishing documents leaked by whistleblowers. 
+</p>
+<p>
+Last week it released the cockpit recording from an American Apache helicopter 
+as it killed Iraqi civilians, including a Reuters photographer, in Baghdad 
+in 2007. 
+</p>
+<!--#include file="m63-article-related-attachements.html"-->
+<!-- BEGIN: Module - M63 - Article Related Attachements -->
+<script type="text/javascript" src="/tol/js/picture-gallery.js"></script>
+<script type="text/javascript">
+function slideshowPopUp(url)
+{
+pictureGalleryPopupPic(url);
+return false;
+}
+</script>
+<!-- BEGIN: Comment Teaser Module -->
+<div class="float-left related-attachements-container">
+<!-- END: Comment Teaser Module -->	
+<!-- BEGIN: Module - M63 - Article Related Package -->
+<!-- END: Module - M63 - Article Related Package -->
+<div class="related-attachements-top padding-top-10">
+<h3 class="section-heading">Related Links</h3>
+</div>
+<div class="related-attachements-side padding-top-7 padding-bottom-10 padding-right-7">
+<div class="padding-bottom-5 padding-top-3">
+<ul class="chevron-list chevron-blue">
+<li><a href='/tol/news/world/iraq/article7089594.ece' class="link-666">
+No one's secrets are safe from Wikileaks 
+</a></li>
+</ul>
+<form name="relatedLinksform" action="" method="post">
+</form>
+<ul class="chevron-list chevron-blue">
+<li><a href='/tol/news/world/iraq/article7088548.ece' class="link-666">
+&lsquo;Can I shoot? Come on, let us shoot&rsquo; 
+</a></li>
+</ul>
+<form name="relatedLinksform" action="" method="post">
+</form>
+</div>
+</div>
+<!-- BEGIN: POLL -->
+<!--This block will execute if an article of type Poll is attached-->	
+<!-- END : POLL -->
+<!-- BEGIN: DEBATE-->
+<!-- END: DEBATE-->
+<div class="clear related-attachements-bottom"></div>
+<div class="padding-top-5"></div>
+</div>
+<!-- END: Module - M63 - Article Related Attachements -->
+<p>
+Assange claims surveillance has intensified as he and his colleagues prepare 
+to put out their Afghan film. It is said to concern the so-called &ldquo;Granai 
+massacre&rdquo;, when American aircraft dropped 500lb and 1,000lb bombs on a 
+suspected militant compound in Farah province on May 4 last year. Several 
+children were among those killed. 
+</p>
+<p>
+In messages on Twitter, the internet social networking site, Assange 
+complained of &ldquo;covert following and hidden photography&rdquo; by police and 
+foreign intelligence services. There have been thinly veiled threats, he 
+says, from &ldquo;an apparent British intelligence agent&rdquo; in a car park in 
+Luxembourg. 
+</p>
+<p>
+&ldquo;Computers were also seized,&rdquo; another member of Wikileaks said on Twitter, 
+raising alarm among supporters with a subsequent post: &ldquo;If anything happens 
+to us, you know why ... and you know who is responsible.&rdquo;
+</p>
+<p>
+Their apprehension is perhaps understandable. America&rsquo;s defence establishment 
+has made clear that it would like to silence the site. In 2008, the Pentagon 
+produced a report on how to undermine and neutralise Wikileaks. This, too, 
+emerged on the website. 
+</p>
+<p>
+Assange, who is believed to be 37, founded Wikileaks three years ago with a 
+group of like-minded computer programmers, academics and activists. The site 
+says it has had more scoops since then than The Washington Post in three 
+decades and has become a global clearing house for sensitive documents. It 
+has exposed crimes from toxic dumping and tax evasion to extrajudicial 
+murders in Kenya. 
+</p>
+<p>
+Assange says the 38-minute Iraqi video broadcast by the group is evidence of 
+&ldquo;collateral murder&rdquo; by American forces. It shows a group of Iraqi men being 
+killed by gunfire from the helicopter. A helicopter then shoots at a van 
+arriving to take the bodies away. 
+</p>
+<p>
+A crew member is heard saying: &ldquo;Nice shooting.&rdquo; When it emerges that two 
+children in the van have been injured, someone else says: &ldquo;Serves them right 
+for bringing their children into a battle.&rdquo;
+</p>
+<p>
+The film, in which American forces kill with the seeming detachment of video 
+gamers, has been seen by millions on the internet since it was first aired 
+on Monday. The website, which claims to exist on a shoestring budget, says 
+it has since received more than &pound;100,000 in donations. 
+</p>
+<p>
+America&rsquo;s military defended the killings, saying no disciplinary action had 
+been taken at the time of the incident. However, Reuters has striven in vain 
+since 2007 to obtain access to the video under freedom of information laws. 
+</p>
+<p>
+Broadcasting such a film could expose Wikileaks to prosecution in America but 
+the organisation appears to have put itself beyond the reach of court 
+injunctions by existing only in the digital sphere. 
+</p>
+<p>
+There has been speculation that Wikileaks might be part of a sophisticated 
+&ldquo;psy-ops&rdquo; campaign by the CIA. If that is the case, says Assange, &ldquo;I only 
+wish they would step forward with a cheque.&rdquo;
+</p>
+<p>
+<i>Net Pimpernel leaks it here, leaks it there, Profile, page 19</i>
+</p>
+</div>
+<!-- End of pagination -->
+<div class="clear"></div>
+<div class="padding-top-5"></div>
+<!-- Show rating of this article -->
+<!-- Contextual links Module -->
+<!-- End Contextual links Module -->
+<script type="text/javascript">
+var displayBehaviouralNav = true;
+</script>
+</div>
+<div id="region-column2-layout2">
+<!-- Section Editor Choice module -->
+<!-- BEGIN: Headlines In brief Module -->
+<!-- END: Headlines In brief Module -->
+<!--Journalist profile module -->
+<!-- BEGIN: Middle Inheritance Grids -->
+<!-- BEGIN:Middle Inheritence Top Grid -->
+<!-- END:Middle Inheritence Top Grid -->
+<!-- BEGIN:Middle Inheritence Middle Grid -->
+<!-- END:Middle Inheritence Middle Grid -->
+<!-- BEGIN:Middle Inheritence Bottom Grid -->
+<!-- END:Middle Inheritence Bottom Grid -->
+<!-- END: Middle Inheritance Grids -->
+</div>
+</div>
+<div id="grid-column4">
+<div id="grid-column4-grey">
+<div class="mpu">
+<!-- BEGIN: Module - Advert:Top -->
+<SCRIPT type="text/javascript">
+<!--
+//Retrieve yaoo Cookie Value
+var yahoo = "no";
+var IsYahoo="no";
+if (GetQueryString("yahoo")=="yes" || get_cookie('YH') == "yes") IsYahoo="yes";
+if (IsYahoo == "yes" || get_cookie('YH') == 'open') {
+set_cookie ("YH", "yes", "", "" );
+yahoo = "yes";
+} else {
+set_cookie ("YH", "no", "", "" );
+yahoo = "no";
+}
+window.onunload = setYahooCookie;
+//-->
+</SCRIPT>
+<!-- For Travel Search -->
+<div class="quick-links-container" >
+<div class="padding-top-10 padding-bottom-10 text-center">
+<script type="text/javascript">
+<!--
+var RStag = "";
+try{
+RStag = segQS;
+}
+catch(e){
+RStag = "";
+}
+document.write('<script type="text/javascript" src="http://ad.uk.doubleclick.net/adj/news.timesonline.co.uk/world/us_and_americas;cat=;pos=top;sz=300x250;'+ RStag +'tile=1;'+categoryValues+'yahoo='+yahoo+';ord='+randnum+'?"><\/script>');	
+//-->
+</script>
+</div></div>
+<noscript>
+<a href="http://ad.uk.doubleclick.net/adj/news.timesonline.co.uk/world/us_and_americas;pos=top;sz=300x250;tile=1;yahoo=No;ord=1293405468539?"></a>
+</noscript>
+<!--SECTION:parameter parameter="dart.server" /-->
+<!-- END: Module - Advert:Top -->
+</div>
+<object align="middle" id="NEWS" height="500" width="336" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=10,0,0,0" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000"> <param value="sameDomain" name="allowScriptAccess"/> <param value="false" name="allowFullScreen"/> <param value="http://www.timesonline.co.uk/multimedia/archive/00726/news_336x500_726183a.swf?clickTag1=http://www.thetimes.co.uk/tto/news/?CMP=INTni19&amp;clickTag2=http://www.thesundaytimes.co.uk/sto/?CMP=INTni23" name="movie"/><param value="high" name="quality"/><param value="opaque" name="wMode"/><param value="#ffffff" name="bgcolor"/> <embed pluginspage="http://www.adobe.com/go/getflashplayer" type="application/x-shockwave-flash" wMode="opaque" allowFullScreen="false" allowScriptAccess="sameDomain" align="middle" name="test" height="500" width="336" bgcolor="#ffffff" quality="high" src="http://www.timesonline.co.uk/multimedia/archive/00726/news_336x500_726183a.swf?clickTag1=http://www.thetimes.co.uk/tto/news/?CMP=INTni19&amp;clickTag2=http://www.thesundaytimes.co.uk/sto/?CMP=INTni23"/> </object>
+</div>
+<div class="clear-simple"></div>
+</div>
+<!-- BEGIN: Region for footer -->
+<!-- BEGIN: Region for footer -->
+<!-- BEGIN: M76 Global Navigation - Footer -->
+<div id="region-footer">
+<script type="text/javascript">
+<!--
+function validateFooter()
+{
+var query = document.getElementById("footerId").query.value;
+if(query == "")
+{
+alert("Please Enter Keyword To Search.");
+return false;
+}
+else
+{
+return true;
+}
+}
+function OnFooterButtonClick()
+{
+document.getElementById("footerId").submit();
+}
+//-->
+</script>
+<div class="clear padding-bottom-15"></div>
+<!-- BEGIN: M80 - Custom HTML Published Date : Jan 4, 2010 12:00 PM -->
+<!-- BEGIN: M80 - Custom HTML -->
+<!-- BEGIN: M80 - Custom HTML -->
+<div class="width-100-percent padding-bottom-10"> 
+<div class="bg-fff">	
+<p class="small"><a href="http://www.timesplus.co.uk/welcome/tp_contact.htm">Contact us</a> | <a href="http://www.timesplus.co.uk/welcome/tp_terms.htm">Terms and Conditions</a> | <a href="http://www.nidp.com/">Privacy Policy</a> | <a href="http://www.thetimes.co.uk/tto/public/?view=sitemap&amp;section=News ">Site Map</a> | <a href="http://www.timesplus.co.uk/welcome/tp_faq_pg.htm">FAQ</a> | <a href="http://www.nisyndication.com/">Syndication</a> | <a href="http://www.nicommercial.com/timesmedia">Advertising</a><br/>
+&copy; Times Newspapers Ltd 2010 Registered in England No. 894646 Registered office: 1 Virginia Street, London, E98 1XY</p>
+</div>
+</div>
+<!-- END: M80 - Custom HTML -->
+<!-- END: M80 - Custom HTML -->
+</div>
+<!-- END: M76 Global Navigation - Footer -->
+<!-- END: Region for footer -->
+</div>
+</div>
+</div>
+<!-- END: Region for all content -->
+<!-- Escenic Analysis Engine client script start -->
+<script type="text/javascript">
+<!--
+var ref=escape(document.referrer);
+if (ref.length>=252) ref=ref.substring(0,252)+"...";
+var isJS10 = 1;
+//-->
+</script>
+<script type="text/javascript">
+<!--
+var isJS10=0;
+var jsUrl = "/tol/news/world/us_and_americas/article7094234.ece";
+var jsType = "article";
+var jsObjId = "7094234";
+var jsTitle = "Whistleblowers on US &lsquo;massacre&rsquo; fear CIA stalkers";
+var jsPubId = "17";
+var jsCat = "";
+var jsRt = "1";
+var jsCtxId = "682";
+document.write('<img src="http://www.timesonline.co.uk/eae-logger/Logger?clientDT=' + (new Date()).getTime() + '&rt=' + jsRt+ '&objId=' + jsObjId + '&type=' + jsType + '&ctxId=' + jsCtxId + '&pubId=' + jsPubId + '&cat=' + jsCat + 
+'&title=' + jsTitle + '&url=' + jsUrl + '" width="1" height="1" />');
+//-->
+</script>
+<script type="text/javascript">
+<!--
+var jsUrl = "/tol/news/world/us_and_americas/article7094234.ece";
+var jsType = "article";
+var jsObjId = "7094234";
+var jsTitle = "Whistleblowers on US &lsquo;massacre&rsquo; fear CIA stalkers";
+var jsPubId = "17";
+var jsCat = "";
+var jsRt = "1";
+var jsCtxId = "682";
+if(isJS10){
+document.write('<img src="http://www.timesonline.co.uk/eae-logger/Logger?rt=' + jsRt + '&objId=' + jsObjId + '&type=' + jsType + '&ctxId=' + jsCtxId + '&pubId=' + jsPubId + '&cat=' + jsCat + '&title=' + 
+jsTitle + '&url=' + jsUrl + '" width="1" height="1" />');
+}
+//-->
+</script>
+<NOSCRIPT>
+<!-- eaeNoscriptMark --><img src="http://www.timesonline.co.uk/eae-logger/Logger?rt=1&objId=7094234&url=%2Ftol%2Fnews%2Fworld%2Fus_and_americas%2Farticle7094234.ece&type=article&pubId=17&ctxId=682&cat=&title=Whistleblowers+on+US+%26lsquo%3Bmassacre%26rsquo%3B+fear+CIA+stalkers" width="1" height="1" alt="" />
+</NOSCRIPT>
+<!-- Escenic Analysis Engine client script start -->
+<!-- the following case will follow only when individual module display is asked for --> 
+</div>
+</div>
+</body>
+</html>

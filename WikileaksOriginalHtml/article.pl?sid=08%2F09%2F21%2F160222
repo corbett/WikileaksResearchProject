@@ -1,0 +1,3322 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+            "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+<script id="before-content" type="text/javascript">
+var pageload = {
+	pagemark: '862213366648483191',
+	before_content: (new Date).getTime()
+};
+function pageload_done( $, console, maybe ){
+	pageload.after_readycode	= (new Date).getTime();
+	pageload.content_ready_time	= pageload.content_ready - pageload.before_content;
+	pageload.script_ready_time	= pageload.after_readycode - pageload.content_ready;
+	pageload.ready_time		= pageload.after_readycode - pageload.before_content;
+	// Only report 1% of cases.
+	maybe || (Math.random()>0.01) || $.ajax({ data: {
+		op: 'page_profile',
+		pagemark: pageload.pagemark,
+		dom: pageload.content_ready_time,
+		js: pageload.script_ready_time
+	} });
+}
+</script>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+
+<meta name="description" content="Palin Email Hacker Found -- article related to Index, United States, Privacy, Government, Security, and Politics.">
+<meta property="fb:admins" content="100000696822412">
+<meta property="fb:page_id" content="267995220856">
+<title>Palin Email Hacker Found - Slashdot</title>
+
+<link rel="stylesheet" type="text/css" media="screen, projection" href="//a.fsdn.com/sd/core-tidied.css?T_2_5_0_305" >
+<link rel="stylesheet" type="text/css" media="screen, projection" href="//a.fsdn.com/sd/comments.css?T_2_5_0_305" >
+<!--[if lt IE 7]><link rel="stylesheet" type="text/css" media="screen, projection" href="//a.fsdn.com/sd/ie6.css?T_2_5_0_305" ><![endif]-->
+<!--[if IE 7]><link rel="stylesheet" type="text/css" media="screen, projection" href="//a.fsdn.com/sd/ie7.css?T_2_5_0_305" ><![endif]-->
+<!--[if gte IE 8]><link rel="stylesheet" type="text/css" media="screen, projection" href="//a.fsdn.com/sd/ie8.css?T_2_5_0_305" ><![endif]-->
+<link rel="stylesheet" type="text/css" media="screen, projection" href="//a.fsdn.com/sd/slashdot_politics.css?T_2_5_0_305" class="data-skin" >
+
+
+<script src="//a.fsdn.com/sd/all-minified.js?T_2_5_0_305" type="text/javascript"></script>
+<script id="after-jquery" type="text/javascript">
+(function( $, pageload, pageload_done, console ){
+$ && pageload && $(function(){
+	pageload.content_ready = (new Date).getTime();
+	pageload_done && $(function(){ pageload_done($, console, 'maybe'); });
+});
+})(window.jQuery, window.pageload, window.pageload_done, window.console);
+</script>
+<script type="text/javascript">
+(function(){
+var regexp=/\s*(?:\d+|many)\s+more\s*/i;
+
+	
+	var auto_more_count = 2;
+
+	function auto_more(){
+		var $more_link = $('#more-experiment a');
+		$more_link.each(function(){
+			var $lastitem = $('#firehoselist>div.fhitem:visible:last');
+			if ( Bounds.intersect(window, $lastitem) ) {
+			 // _any_ click can trigger, but click-specific ad will win
+				setTimeout(function(){ inlineAdFirehose($lastitem, 1); }, 0);
+			
+				!--auto_more_count && (auto_more=undefined);
+				// don't allow a call till the next paginate gets built and |more_possible|
+				$(document).unbind('scroll', call_auto_more);
+			}
+		});
+	};
+
+	function call_auto_more(){ auto_more && auto_more(); }
+	
+
+
+	
+
+
+$('#more-experiment a').
+	live('more-possible', function( event ){
+		var $more_link=$(this);
+		if ( regexp.test($more_link.text()) ) {
+		
+		
+			$(document).bind('scroll', call_auto_more);
+		} else {
+			$(document).unbind('scroll', call_auto_more);
+		
+		}
+	});
+})();
+</script>
+
+<script type="text/javascript">
+var suggestions_for_context = {
+	nod: 'fresh funny insightful interesting maybe ',
+	nix: 'binspam dupe notthebest offtopic slownewsday stale stupid ',
+
+	tagnod: 'descriptive',
+	feedback: 'typo dupe error',
+	metanod: 'insightful interesting informative funny underrated',
+	metanix: 'offtopic flamebait troll redundant overrated'
+};
+
+</script>
+
+<script type="text/javascript">
+var adpage = 'article';
+</script>
+
+
+<script type="text/javascript">
+$(document).ready(function(){
+	if($.browser.safari) {
+		$('span.tag-display').css('display','list-item !important');
+		$('span.tag-display').css('display','inline-block !important');
+		$('div#articles span.tag-display.ready.dirty').css({'padding-top':'18px !important','margin-top':'-20px !important'});
+		$('div#articles div.related').css('display','inline');
+		$('div#wrapper div.content').css('padding-top','.5em');
+	}
+
+	if($.browser.opera) {
+		$('div.tag-widget').addClass('opera');
+	}
+});
+</script><link rel="top"       title="News for nerds, stuff that matters" href="//slashdot.org/" >
+<link rel="search"    title="Search Slashdot" href="//politics.slashdot.org/search.pl">
+<link rel="author"    href="//politics.slashdot.org/search.pl?op=stories&amp;author=1459">
+<link rel="alternate" title="Slashdot RSS" href="http://rss.slashdot.org/Slashdot/slashdotPolitics" type="application/rss+xml">
+<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+<!-- DoubleClick Random Number -->
+<script type="text/javascript">
+   dfp_ord=Math.random()*10000000000000000;
+   dfp_tile = 1;
+</script>
+<!-- End DoubleClick Random Number -->
+
+<script type="text/javascript">
+window.google_analytics_uacct = "UA-32013-5";
+
+var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-32013-5']);
+  _gaq.push(['_trackPageview'],['_setDomainName', 'slashdot.org']);
+
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+</head>
+<body>
+<div id="top_parent"></div>
+
+
+<div id="jump">
+<a href="#main-articles">Stories</a>
+<br>
+<a href="#blocks">Slash Boxes</a>
+<br>
+<a href="#comments">Comments</a>
+</div>
+<div id="frame">
+
+	<div class="ad1 advertisement"><!-- ad position 1 -->
+	<!-- DoubleClick Ad Tag -->
+		
+<script type="text/javascript">
+	var ad6 = 'inactive';
+</script>
+<style type="text/css">.lb {_height: 90px;}</style>
+		
+
+<div id="fad1">
+		
+			
+	
+	<script type="text/javascript">
+	//<![CDATA[
+
+		var hint   = 'politics,government,politics,it,slashdot,usa,yro,security,news,privacy';
+		var parent = 'http://politics.slashdot.org/politics/08/09/21/160222.shtml';
+
+	document.write('<script type="text/javascript" src="http://ad.doubleclick.net/adj/ostg.slashdot/security_p1_leader;pg=article;sid=08/09/21/160222;logged_in=0;tile='+dfp_tile+';sz=728x90;tpc=government;tpc=politics;tpc=it;tpc=slashdot;tpc=usa;tpc=yro;tpc=security;tpc=news;tpc=privacy;u=20080921_Palin-Email-Hacker-Found_government;ord='+dfp_ord+'?"><\/script>');
+		dfp_tile++;
+	//]]>
+	</script>
+			
+		
+</div>
+<!-- End DoubleClick Ad Tag --></div>
+
+<div></div>
+<div id="topnav">
+	<div id="logo">
+		<h1>
+			<a href="//slashdot.org">Slashdot</a>
+		</h1>
+	</div>
+	<div class="search ">
+
+		<form method="get" action="//politics.slashdot.org/index2.pl">
+			<fieldset>
+				<legend>Search</legend>
+				<input type="text" name="fhfilter" value="">
+				<input type="submit" value="Search" class="button">
+			</fieldset>
+		</form>
+
+	</div>
+</div>
+<div id="slogan">
+	<h2>
+		News for nerds, stuff that matters
+	</h2>
+</div>
+
+
+<div class="ad33 advertisement" style="background:#072f2e;margin:0 1.25em">
+	
+</div>
+<div id="wrapper">
+	<div id="user-section">
+		<div class="content">
+			<ul class="legacynav ">
+			
+					<li class="begin"><a id="loginlink" class="collapsed" href="//slashdot.org/my/login" onclick="show_login_box(); return false">Log In</a></li>
+					<li><a href="//slashdot.org/my/newuser" title="">Create Account</a></li>
+                                        <li><a href="//slashdot.org/help" title="Get help with your account.">Help</a></li>
+					<li><a href="//slashdot.org/subscribe.pl" title="An option to see Slashdot without these ads">Subscribe</a></li>
+					<li><a href="//slashdot.org/firehose.shtml">Firehose</a></li>
+			
+				</ul>
+				<ul id="user-utils" >
+                                
+											<li><a href="//slashdot.org/faq/accounts.shtml#ac050" title="Save preferences, your own Journal, define Friends &amp;  Foes for discussions, participate in Moderation and more ...">Why Log In?</a></li>
+										
+
+										
+											<li><a href="//slashdot.org/faq/subscriptions.shtml" title="An option to see Slashdot without these ads">Why Subscribe?</a></li>
+										
+
+                                        
+
+				</ul>
+			
+				<div id="loginform">
+					<form action="//slashdot.org/login.pl" method="post">
+<fieldset>
+	<legend>Log In</legend>
+	<label>
+		Nickname
+	</label>
+	<input type="text" name="unickname" size="20" value="">
+	<label>
+		Password
+	</label>
+	<input type="hidden" name="returnto" value="//politics.slashdot.org/">
+	<input type="hidden" name="op" value="userlogin">
+	<input type="password" name="upasswd" size="20">
+	<label class="checkbox">
+		<input type="checkbox" name="login_temp" value="yes">
+		Public Terminal
+	</label>
+	<input type="submit" name="userlogin" value="Log in" class="button">
+	</fieldset>
+</form>
+
+
+
+<hr>
+
+
+<form action="//slashdot.org/login.pl" method="post">
+<fieldset>
+	<input type="hidden" name="slash_returnto" value="//politics.slashdot.org/">
+	<input type="hidden" name="op" value="claim_openid">
+	<input type="hidden" name="openid_login" value="1">
+	<label for="openid_url" class="openid_url">
+	<input type="text" name="openid_url" value="http://" size="32" maxlength="255">
+	</label>
+	<input type="submit" value="Log in with OpenID" class="button">
+</fieldset>
+</form>
+
+
+<p>
+<b>
+<a href="//slashdot.org/my/newuser">Create Account</a>
+&nbsp;|&nbsp;
+<a href="//slashdot.org/my/mailpassword">Retrieve Password</a>
+</b>
+</p>
+				</div>
+			
+			</div>
+		</div>
+
+
+        
+
+
+
+
+		<div id="links" >
+			
+			<div class="block" id="links-sections">
+	<div class="title" id="links-sections-title">
+		
+		<h4 >
+			
+				<a class="data-title" href="//slashdot.org" >Slashdot</a>
+				
+				
+				<script type="data">{ color: "", viewname: "stories", filter: "", name: "Main", id: 13 }</script>
+
+			
+		</h4>
+	</div>
+	<div class="content" id="links-sections-content">
+	
+		<ul id="firehose-sections">
+	<script type="data">{ active_id:27, default_id:1 }</script>
+	  		
+			
+			
+		
+		<li class="hide" id="fhsection-45">
+			<a id="fhsectiontitle-45" class="data-title" href="//amd.vendors.slashdot.org">AMD</a>
+			
+		<script type="data">{ color: "", viewname: "stories", filter: "vendor_amd", name: "AMD", id: 45 }</script>
+		</li>
+	 		
+			
+			
+		
+		<li class="hide" id="fhsection-11">
+			<a id="fhsectiontitle-11" class="data-title" href="//apache.slashdot.org">Apache</a>
+			
+		<script type="data">{ color: "", viewname: "stories", filter: "apache", name: "Apache", id: 11 }</script>
+		</li>
+	 		
+			
+			
+		
+		<li class="" id="fhsection-53">
+			<a id="fhsectiontitle-53" class="data-title" href="//apple.slashdot.org">Apple</a>
+			
+		<script type="data">{ skin: "<link rel=\"alternate stylesheet\"  type=\"text/css\" media=\"screen, projection\" href=\"//a.fsdn.com/sd/yui_apple.css?T_2_5_0_305\" title=\"apple\">", color: "", viewname: "stories", filter: "apple", name: "Apple", id: 53 }</script>
+		</li>
+	 		
+			
+			
+		
+		<li class="" id="fhsection-63">
+			<a id="fhsectiontitle-63" class="data-title" href="//ask.slashdot.org">Ask Slashdot</a>
+			
+		<script type="data">{ skin: "<link rel=\"alternate stylesheet\"  type=\"text/css\" media=\"screen, projection\" href=\"//a.fsdn.com/sd/yui_askslashdot.css?T_2_5_0_305\" title=\"askslashdot\">", color: "", viewname: "stories", filter: "askslashdot", name: "Ask Slashdot", id: 63 }</script>
+		</li>
+	 		
+			
+			
+		
+		<li class="hide" id="fhsection-31">
+			<a id="fhsectiontitle-31" class="data-title" href="//backslash.slashdot.org">Backslash</a>
+			
+		<script type="data">{ color: "", viewname: "stories", filter: "backslash", name: "Backslash", id: 31 }</script>
+		</li>
+	 		
+			
+			
+		
+		<li class="" id="fhsection-49">
+			<a id="fhsectiontitle-49" class="data-title" href="//books.slashdot.org">Book Reviews</a>
+			
+		<script type="data">{ color: "", viewname: "stories", filter: "books", name: "Book Reviews", id: 49 }</script>
+		</li>
+	 		
+			
+			
+		
+		<li class="hide" id="fhsection-5">
+			<a id="fhsectiontitle-5" class="data-title" href="//bsd.slashdot.org">BSD</a>
+			
+		<script type="data">{ color: "", viewname: "stories", filter: "bsd", name: "BSD", id: 5 }</script>
+		</li>
+	 		
+			
+			
+		
+		<li class="hide" id="fhsection-61">
+			<a id="fhsectiontitle-61" class="data-title" href="//developers.slashdot.org">Developers</a>
+			
+		<script type="data">{ skin: "<link rel=\"alternate stylesheet\"  type=\"text/css\" media=\"screen, projection\" href=\"//a.fsdn.com/sd/yui_developers.css?T_2_5_0_305\" title=\"developers\">", color: "", viewname: "stories", filter: "developers", name: "Developers", id: 61 }</script>
+		</li>
+	 		
+			
+			
+		
+		<li class="hide" id="fhsection-1">
+			<a id="fhsectiontitle-1" class="data-title" href="//entertainment.slashdot.org">Entertainment</a>
+			
+		<script type="data">{ color: "", viewname: "stories", filter: "entertainment", name: "Entertainment", id: 1 }</script>
+		</li>
+	 		
+			
+			
+		
+		<li class="hide" id="fhsection-55">
+			<a id="fhsectiontitle-55" class="data-title" href="//features.slashdot.org">Features</a>
+			
+		<script type="data">{ color: "", viewname: "stories", filter: "features", name: "Features", id: 55 }</script>
+		</li>
+	 		
+			
+			
+		
+		<li class="" id="fhsection-33">
+			<a id="fhsectiontitle-33" class="data-title" href="//games.slashdot.org">Games</a>
+			
+		<script type="data">{ skin: "<link rel=\"alternate stylesheet\"  type=\"text/css\" media=\"screen, projection\" href=\"//a.fsdn.com/sd/yui_games.css?T_2_5_0_305\" title=\"games\">", color: "", viewname: "stories", filter: "games", name: "Games", id: 33 }</script>
+		</li>
+	 		
+			
+			
+		
+		<li class="hide" id="fhsection-43">
+			<a id="fhsectiontitle-43" class="data-title" href="//radio.slashdot.org">Geeks in Space</a>
+			
+		<script type="data">{ color: "", viewname: "stories", filter: "radio", name: "Geeks in Space", id: 43 }</script>
+		</li>
+	 		
+			
+			
+		
+		<li class="" id="fhsection-3">
+			<a id="fhsectiontitle-3" class="data-title" href="//hardware.slashdot.org">Hardware</a>
+			
+		<script type="data">{ skin: "<link rel=\"alternate stylesheet\"  type=\"text/css\" media=\"screen, projection\" href=\"//a.fsdn.com/sd/yui_hardware.css?T_2_5_0_305\" title=\"hardware\">", color: "", viewname: "stories", filter: "hardware", name: "Hardware", id: 3 }</script>
+		</li>
+	 		
+			
+			
+		
+		<li class="" id="fhsection-25">
+			<a id="fhsectiontitle-25" class="data-title" href="//idle.slashdot.org">Idle</a>
+			
+		<script type="data">{ skin: "<link rel=\"alternate stylesheet\"  type=\"text/css\" media=\"screen, projection\" href=\"//a.fsdn.com/sd/yui_idle.css?T_2_5_0_305\" title=\"idle\">", color: "", viewname: "stories", filter: "idle", name: "Idle", id: 25 }</script>
+		</li>
+	 		
+			
+			
+		
+		<li class="hide" id="fhsection-7">
+			<a id="fhsectiontitle-7" class="data-title" href="//intel.vendors.slashdot.org">Intel</a>
+			
+		<script type="data">{ color: "", viewname: "stories", filter: "vendor_intel", name: "Intel", id: 7 }</script>
+		</li>
+	 		
+			
+			
+		
+		<li class="" id="fhsection-39">
+			<a id="fhsectiontitle-39" class="data-title" href="//interviews.slashdot.org">Interviews</a>
+			
+		<script type="data">{ color: "", viewname: "stories", filter: "interviews", name: "Interviews", id: 39 }</script>
+		</li>
+	 		
+			
+			
+		
+		<li class="hide" id="fhsection-15">
+			<a id="fhsectiontitle-15" class="data-title" href="//it.slashdot.org">IT</a>
+			
+		<script type="data">{ skin: "<link rel=\"alternate stylesheet\"  type=\"text/css\" media=\"screen, projection\" href=\"//a.fsdn.com/sd/yui_it.css?T_2_5_0_305\" title=\"it\">", color: "", viewname: "stories", filter: "it", name: "IT", id: 15 }</script>
+		</li>
+	 		
+			
+			
+		
+		<li class="" id="fhsection-65">
+			<a id="fhsectiontitle-65" class="data-title" href="//linux.slashdot.org">Linux</a>
+			
+		<script type="data">{ skin: "<link rel=\"alternate stylesheet\"  type=\"text/css\" media=\"screen, projection\" href=\"//a.fsdn.com/sd/yui_linux.css?T_2_5_0_305\" title=\"linux\">", color: "", viewname: "stories", filter: "linux", name: "Linux", id: 65 }</script>
+		</li>
+	 		
+			
+			
+		
+		<li class="hide" id="fhsection-21">
+			<a id="fhsectiontitle-21" class="data-title" href="//meta.slashdot.org">Meta</a>
+			
+		<script type="data">{ color: "", viewname: "stories", filter: "meta", name: "Meta", id: 21 }</script>
+		</li>
+	 		
+			
+			
+		
+		<li class="" id="fhsection-47">
+			<a id="fhsectiontitle-47" class="data-title" href="//mobile.slashdot.org">Mobile</a>
+			
+		<script type="data">{ skin: "<link rel=\"alternate stylesheet\"  type=\"text/css\" media=\"screen, projection\" href=\"//a.fsdn.com/sd/yui_mobile.css?T_2_5_0_305\" title=\"mobile\">", color: "", viewname: "stories", filter: "mobile", name: "Mobile", id: 47 }</script>
+		</li>
+	 		
+			
+			
+		
+		<li class="hide" id="fhsection-35">
+			<a id="fhsectiontitle-35" class="data-title" href="//news.slashdot.org">News</a>
+			
+		<script type="data">{ color: "", viewname: "stories", filter: "news", name: "News", id: 35 }</script>
+		</li>
+	 		
+			
+			
+		
+		<li class="hide" id="fhsection-23">
+			<a id="fhsectiontitle-23" class="data-title" href="//oracle.vendors.slashdot.org">Oracle</a>
+			
+		<script type="data">{ color: "", viewname: "stories", filter: "vendor_oracle", name: "Oracle", id: 23 }</script>
+		</li>
+	 		
+			
+			
+		
+		<li class="active" id="fhsection-27">
+			<a id="fhsectiontitle-27" class="data-title" href="//politics.slashdot.org">Politics</a>
+			
+		<script type="data">{ skin: "<link rel=\"alternate stylesheet\"  type=\"text/css\" media=\"screen, projection\" href=\"//a.fsdn.com/sd/yui_politics.css?T_2_5_0_305\" title=\"politics\">", color: "", viewname: "stories", filter: "politics", name: "Politics", id: 27 }</script>
+		</li>
+	 		
+			
+			
+		
+		<li class="hide" id="fhsection-57">
+			<a id="fhsectiontitle-57" class="data-title" href="//polls.slashdot.org">Polls</a>
+			
+		<script type="data">{ color: "", viewname: "stories", filter: "polls", name: "Polls", id: 57 }</script>
+		</li>
+	 		
+			
+			
+		
+		<li class="" id="fhsection-29">
+			<a id="fhsectiontitle-29" class="data-title" href="//science.slashdot.org">Science</a>
+			
+		<script type="data">{ color: "", viewname: "stories", filter: "science", name: "Science", id: 29 }</script>
+		</li>
+	 		
+			
+			
+		
+		<li class="hide" id="fhsection-59">
+			<a id="fhsectiontitle-59" class="data-title" href="//search.slashdot.org">Search</a>
+			
+		<script type="data">{ color: "", viewname: "stories", filter: "search", name: "Search", id: 59 }</script>
+		</li>
+	 		
+			
+			
+		
+		<li class="hide" id="fhsection-37">
+			<a id="fhsectiontitle-37" class="data-title" href="slashdot.sourceforge.net">SF.net Auth</a>
+			
+		<script type="data">{ color: "", viewname: "stories", filter: "sfauth", name: "SF.net Auth", id: 37 }</script>
+		</li>
+	 		
+			
+			
+		
+		<li class="hide" id="fhsection-19">
+			<a id="fhsectiontitle-19" class="data-title" href="//slashdot.org">Taco Hell</a>
+			
+		<script type="data">{ color: "", viewname: "stories", filter: "tacohell", name: "Taco Hell", id: 19 }</script>
+		</li>
+	 		
+			
+			
+		
+		<li class="hide" id="fhsection-17">
+			<a id="fhsectiontitle-17" class="data-title" href="//tech.slashdot.org">Technology</a>
+			
+		<script type="data">{ color: "", viewname: "stories", filter: "tech", name: "Technology", id: 17 }</script>
+		</li>
+	 		
+			
+			
+		
+		<li class="hide" id="fhsection-67">
+			<a id="fhsectiontitle-67" class="data-title" href="//slashdot.org">The 2000 Beanies</a>
+			
+		<script type="data">{ color: "", viewname: "stories", filter: "awards", name: "The 2000 Beanies", id: 67 }</script>
+		</li>
+	 		
+			
+			
+		
+		<li class="hide" id="fhsection-51">
+			<a id="fhsectiontitle-51" class="data-title" href="//thinkgeek.shill.slashdot.org">ThinkGeek</a>
+			
+		<script type="data">{ skin: "<link rel=\"alternate stylesheet\"  type=\"text/css\" media=\"screen, projection\" href=\"//a.fsdn.com/sd/yui_thinkgeek.css?T_2_5_0_305\" title=\"thinkgeek\">", color: "", viewname: "stories", filter: "thinkgeek", name: "ThinkGeek", id: 51 }</script>
+		</li>
+	 		
+			
+			
+		
+		<li class="hide" id="fhsection-41">
+			<a id="fhsectiontitle-41" class="data-title" href="//vendors.slashdot.org">Vendors</a>
+			
+		<script type="data">{ color: "", viewname: "stories", filter: "vendors", name: "Vendors", id: 41 }</script>
+		</li>
+	 		
+			
+			
+		
+		<li class="" id="fhsection-9">
+			<a id="fhsectiontitle-9" class="data-title" href="//yro.slashdot.org">YRO</a>
+			
+		<script type="data">{ skin: "<link rel=\"alternate stylesheet\"  type=\"text/css\" media=\"screen, projection\" href=\"//a.fsdn.com/sd/yui_yro.css?T_2_5_0_305\" title=\"yro\">", color: "", viewname: "stories", filter: "yro", name: "YRO", id: 9 }</script>
+		</li>
+	
+</ul>
+	
+	</div>
+	
+</div>
+<div class="block" id="links-help">
+	<div class="title" id="links-help-title">
+		<h4><a href="//slashdot.org/help">Site Info</a></h4>
+	</div>
+	<div class="content" id="links-help-content">
+		<ul>
+			<li><a href="//slashdot.org/faq/">FAQ</a></li>
+			<li><a href="http://sourceforge.net/tracker/?func=add&amp;group_id=4421&amp;atid=104421">Bugs</a></li>
+			<li><a href="//slashdot.org/code.shtml">Code</a></li>
+		</ul>
+	</div>
+</div>
+<div class="block" id="links-stories">
+	<div class="title" id="links-stories-title">
+		<h4>Stories</h4>
+	</div>
+	<div class="content" id="links-stories-content">
+		<ul>
+			<li><a href="//slashdot.org/search.pl">Old Stories</a></li>
+			<li><a href="//polls.slashdot.org/">Old Polls</a></li>
+			<li><a href="//slashdot.org/hof.shtml">Hall of Fame</a></li>
+			<li><a href="//slashdot.org/submission">Submit Story</a></li>
+		</ul>
+	</div>
+</div> 
+			
+		</div>
+		<div id="contents">
+
+
+
+
+		
+			<div id="article" class="aduserbox "><div id="slashboxes">
+<div class="ad83 advertisement"><!-- ad position 83 -->
+	<!-- DoubleClick Ad Tag -->
+		
+<script type="text/javascript">
+	var ad6 = 'inactive';
+</script>
+		
+
+<div id="fad83">
+		
+			
+	
+	<script type="text/javascript">
+	//<![CDATA[
+
+		var hint   = 'politics,government,politics,it,slashdot,usa,yro,security,news,privacy';
+		var parent = 'http://politics.slashdot.org/politics/08/09/21/160222.shtml';
+
+	document.write('<script type="text/javascript" src="http://ad.doubleclick.net/adj/ostg.slashdot/security_p83_medrec;pg=article;sid=08/09/21/160222;logged_in=0;tile='+dfp_tile+';sz=300x250,300x600;tpc=government;tpc=politics;tpc=it;tpc=slashdot;tpc=usa;tpc=yro;tpc=security;tpc=news;tpc=privacy;u=20080921_Palin-Email-Hacker-Found_government;ord='+dfp_ord+'?"><\/script>');
+		dfp_tile++;
+	//]]>
+	</script>
+			
+		
+</div>
+<!-- End DoubleClick Ad Tag --></div>
+	
+
+<div class="block">
+	<div class="title" id="userlogin-title">
+		<h4>
+			Slashdot Log In
+		</h4>
+	</div>
+	<div class="content" id="userlogin-content">
+		
+			<form action="//slashdot.org/login.pl" method="post">
+<fieldset>
+	<legend>Log In</legend>
+	<label>
+		Nickname
+	</label>
+	<input type="text" name="unickname" size="20" value="">
+	<label>
+		Password
+	</label>
+	<input type="hidden" name="returnto" value="//politics.slashdot.org/article.pl?sid=08/09/21/160222">
+	<input type="hidden" name="op" value="userlogin">
+	<input type="password" name="upasswd" size="20">
+	<label class="checkbox">
+		<input type="checkbox" name="login_temp" value="yes">
+		Public Terminal
+	</label>
+	<input type="submit" name="userlogin" value="Log in" class="button">
+	</fieldset>
+</form>
+
+
+
+<hr>
+
+
+<form action="//slashdot.org/login.pl" method="post">
+<fieldset>
+	<input type="hidden" name="slash_returnto" value="//politics.slashdot.org/article.pl?sid=08/09/21/160222">
+	<input type="hidden" name="op" value="claim_openid">
+	<input type="hidden" name="openid_login" value="1">
+	<label for="openid_url" class="openid_url">
+	<input type="text" name="openid_url" value="http://" size="32" maxlength="255">
+	</label>
+	<input type="submit" value="Log in with OpenID" class="button">
+</fieldset>
+</form>
+
+
+<p>
+<b>
+<a href="//slashdot.org/my/newuser">Create Account</a>
+&nbsp;|&nbsp;
+<a href="//slashdot.org/my/mailpassword">Retrieve Password</a>
+</b>
+</p>
+		
+	</div>
+</div>
+
+
+
+
+</div>
+<a name="main-articles"></a>
+<div id="articles">
+
+<div class="article" id="art1">
+<span class="sd-info-block" style="display: none">
+	<span class="sd-key-sid">08/09/21/160222</span>
+	<span class="type">story</span>
+	
+</span>
+
+
+
+<div class="generaltitle" >
+	<div class="title">
+		<h3 >
+			Palin Email Hacker Found
+			
+		</h3>
+	</div>
+</div>
+	<div class="details"><small>
+
+	
+	Posted by
+	
+	<a href="mailto:soulskillatslashdotdotorg">Soulskill</a>
+
+	on Sun Sep 21, 2008 12:01 PM<br>
+	from the do-not-pass-go dept.
+	</small></div>
+	<div class="body">
+		<div class="topic">
+		
+		
+		
+			<a href="//politics.slashdot.org/search.pl?tid=61">
+				<img src="//a.fsdn.com/sd/topics/topicgovt.gif" width="57" height="80" alt="Government" title="Government" >
+			</a>
+		
+		
+			
+			
+			
+			
+				
+					<a href="//politics.slashdot.org/search.pl?tid=83" class="topic2">
+						<img src="//a.fsdn.com/sd/topics/topicprivacy.gif" width="71" height="53" alt="Privacy" title="Privacy" >
+					</a>
+				
+		
+			
+			
+			
+				
+					<a href="//politics.slashdot.org/search.pl?tid=76" class="topic2">
+						<img src="//a.fsdn.com/sd/topics/topicsecurity.gif" width="59" height="78" alt="Security" title="Security" >
+					</a>
+				
+		
+			
+			
+			
+				
+					<a href="//politics.slashdot.org/search.pl?tid=209" class="topic2">
+						<img src="//a.fsdn.com/sd/topics/topicus.gif" width="80" height="61" alt="United States" title="United States" >
+					</a>
+				
+		
+			
+			
+			
+				
+					<a href="//politics.slashdot.org/search.pl?tid=96" class="topic2">
+						<img src="//a.fsdn.com/sd/topics/topicpolitics.gif" width="61" height="43" alt="Politics" title="Politics" >
+					</a>
+				
+		
+			
+			
+			
+				
+		
+		
+		</div>
+		<div class="intro">
+			mortonda writes to tell us that the person responsible for <a href="http://www.tgdaily.com/html_tmp/content-view-39405-108.html">breaching Sarah Palin's private email account</a> has been found. We <a href="//news.slashdot.org/article.pl?sid=08/09/17/1949222&amp;tid=158">discussed the breach</a> last Wednesday, shortly before the hacker, a University of Tennessee-Knoxville student, <a href="http://blog.wired.com/27bstroke6/2008/09/palin-e-mail-ha.html">posted a message detailing his methods</a>.  Wired has a story examining the <a href="http://blog.wired.com/27bstroke6/2008/09/palin-hack-migh.html">potential legal consequences</a> for the hacker.
+		</div>
+
+
+
+
+
+		
+
+
+
+
+
+
+
+	</div>
+	<div class="tags"><span id="updown-" class="vote">
+	<a href="//politics.slashdot.org/faq/UI.shtml#ui700" onclick="return false" class="up" title="Vote this item up">+</a>
+	<a href="//politics.slashdot.org/faq/UI.shtml#ui700" onclick="return false" class="down" title="Vote this item down">-</a>
+</span></div>
+
+<menu type="toolbar" class="edit-bar">
+	
+	<a class="edit-toggle"><span class="button collapse"></span></a>
+	<input class="tag-entry default" type="text" size="10" style="display:none" value="apply tags">
+
+	<span id="tagbar-" class="tag-bar"><a class="topic main domain tag" rel="tag" href="/tag/slashdot" target="_blank">slashdot</a>
+<a class="popular tag" rel="tag" href="/tag/democrats" target="_blank">democrats</a>
+<a class="popular tag" rel="tag" href="/tag/republicans" target="_blank">republicans</a>
+<a class="popular tag" rel="tag" href="/tag/privacy" target="_blank">privacy</a>
+<a class="popular tag" rel="tag" href="/tag/security" target="_blank">security</a>
+<a class="popular tag" rel="tag" href="/tag/haha" target="_blank">haha</a>
+<a class="datatype pseudo-tag" target="_blank">story</a>
+</span>
+
+	<div class="spinner">
+	<span class="tag-server-busy spinner" style="display:none">*</span>
+	</div>
+		
+</menu>
+</div>
+<div class="prev-next">
+
+</div>
+
+
+
+
+	<p></p>
+	<div class="generaltitle" >
+	<div class="title">
+		<h3 >
+			Related Stories
+			
+		</h3>
+	</div>
+</div>
+	<div class="briefarticle" id="art2">
+	
+	<a href="#" onclick="toggleIntro('intro-107195','togglest-107195'); return false" style="text-decoration: none"><span id="togglest-107195" class="condensed">[+]</span></a>
+	
+	
+	
+
+	<span class="storytitle"><a href="//politics.slashdot.org/story/08/09/17/1949222/Anonymous-Hacks-Palins-Private-Email">"Anonymous" Hacks Palin's Private Email</a></span>  1733 comments 
+	
+	
+	<div class="introhide" id="intro-107195">
+		<a href="http://www.networkworld.com/community/buzzblog" rel="nofollow">netbuzz</a> writes <i>"'Anonymous,' best known for its jousts with Scientology, has apparently <a href="http://www.networkworld.com/community/node/32838">hacked Sarah Palin's private Yahoo email account</a>. Contents, including sample emails, an index, and family photos, have been <a href="http://www.wikileaks.org/wiki/Sarah_Palin_Yahoo_inbox_2008">posted by Wikileaks</a>, which calls them evidence that the GOP vice presidential candidate has improperly used private email to shield government business from public scrutiny."</i> Note that there is no easy way to tell if the material on Wikileaks is genuine or a hoax. <b>Update</b> by <b> <a href="http://mccarthy.vg/">J</a> </b>: <a href="http://blog.wired.com/27bstroke6/2008/09/group-posts-e-m.html">Genuine</a>.
+	</div>
+	
+</div><div class="briefarticle brieffirehose">
+	<span class="storytitle"><a href="//politics.slashdot.org/submission/867855/Palin-email-hacker-found">Submission: Palin email hacker found</a></span> by <a href="//slashdot.org/~mortonda">mortonda (5175)</a>
+</div><div class="briefarticle" id="art3">
+	
+	<a href="#" onclick="toggleIntro('intro-108483','togglest-108483'); return false" style="text-decoration: none"><span id="togglest-108483" class="condensed">[+]</span></a>
+	
+	
+	
+
+	<span class="section"><a href="//news.slashdot.org/">News</a>:</span> <span class="storytitle"><a href="//news.slashdot.org/story/08/10/12/1747220/Court-Rules-That-Palin-Must-Save-Yahoo-Emails">Court Rules That Palin Must Save Yahoo Emails</a></span>  412 comments 
+	
+	
+	<div class="introhide" id="intro-108483">
+		<a href="http://www.quarterbuck.com/" rel="nofollow">quarterbuck</a> writes <i>"An Anchorage judge has ruled that <a href="http://voices.washingtonpost.com/the-trail/2008/10/11/palin_must_save_her_yahoo_e-ma.html">Governor Sarah Palin must save her emails</a>, as they were apparently used for state business. Last week a Tennessee man was arrested over hacking one of her Yahoo email accounts. The Washington Post also reports that Sarah Palin, her husband, and officials had <a href="http://www.washingtonpost.com/wp-dyn/content/article/2008/09/30/AR2008093002699.html">set up email accounts known only to each other</a>."</i>
+	</div>
+	
+</div><div class="briefarticle" id="art4">
+	
+	<a href="#" onclick="toggleIntro('intro-134994','togglest-134994'); return false" style="text-decoration: none"><span id="togglest-134994" class="condensed">[+]</span></a>
+	
+	
+	
+
+	<span class="storytitle"><a href="//politics.slashdot.org/story/10/04/30/2022210/Palin-Email-Snoop-Found-Guilty-On-2-Charges">Palin Email Snoop Found Guilty On 2 Charges</a></span>  291 comments 
+	
+	
+	<div class="introhide" id="intro-134994">
+		netbuzz writes <i>"A federal jury in Knoxville today has convicted David Kernell, 22, of two charges &mdash; <a href="http://www.networkworld.com/community/node/60705">misdemeanor computer fraud and felony obstruction of justice</a> &mdash; in connection with the <a href="http://yro.slashdot.org/story/08/10/08/1445258/Palin-E-mail-Hacker-Indicted">2008 episode</a> where he accessed the personal Yahoo email account of Republican vice presidential candidate Sarah Palin and then initiated a worldwide rummaging of its contents. The obstruction charge carries a maximum prison term of 20 years."</i>
+	</div>
+	
+</div><div class="briefarticle" id="art5">
+	
+	<a href="#" onclick="toggleIntro('intro-143656','togglest-143656'); return false" style="text-decoration: none"><span id="togglest-143656" class="condensed">[+]</span></a>
+	
+	
+	
+
+	<span class="section"><a href="//yro.slashdot.org/">Your Rights Online</a>:</span> <span class="storytitle"><a href="//yro.slashdot.org/story/10/11/12/1651253/Palin-E-Mail-Snoop-Gets-Year-In-Prison">Palin E-Mail Snoop Gets Year In Prison</a></span>  417 comments 
+	
+	
+	<div class="introhide" id="intro-143656">
+		netbuzz writes <i>"David Kernell, whose prying into Sarah Palin's personal e-mail account <a href="http://politics.slashdot.org/story/08/09/21/160222/Palin-Email-Hacker-Found">caused an uproar</a> two months before the 2008 presidential election, was today <a href="http://www.networkworld.com/community/blog/palin-e-mail-snoop-sentenced-year-prison">sentenced to a year and a day by a judge in Knoxville, Tenn</a>. Kernell was convicted of misdemeanor computer fraud and felony obstruction of justice back in April. His attorney had argued for probation on the grounds that what Kernell did amounted to a prank that spun out of control."</i>
+	</div>
+	
+</div>
+
+
+</div><a name="comments"></a>
+<div class="commentwrap">
+<div class="commentBox">
+			
+
+		
+			
+				This discussion has been archived.
+			
+			No new comments can be posted.
+		
+	
+</div>
+</div><a name="acomments"></a>
+<div class="commentwrap" id="commentwrap">
+
+<div class="commentBox" style="font-size: 120%">
+	<div>
+<span class="escape-link"><a href="//news.slashdot.org/article.pl?sid=08/09/21/160222" title="Back to Article - Palin Email Hacker Found">Palin Email Hacker Found</a></span>
+<span class="commentBoxLinks"><a href="#" onclick="D2.ajaxFetchComments(0,1); return false"><span id="more_comments_num_d"></span> More</a>
+
+
+
+
+
+	<a class="login"  href="//politics.slashdot.org/login.pl" onclick="show_login_box(); return false">Login</a></span>
+	</div>
+</div>
+
+	<div class="commentBoxForm" id="commentControlBox">
+<div></div>
+	<div class="commentBox">
+		<small>
+		<b>The Fine Print:</b> The following comments are owned by whoever posted them.  We are not responsible for them in any way.
+		
+		</small>
+<noscript><br><small>Without JavaScript enabled, you might want to
+use <a href="//politics.slashdot.org/comments.pl?sid=971001&amp;threshold=1&amp;commentsort=0&amp;mode=thread&amp;no_d2=1&amp;pid=0">the classic discussion system</a> instead.  If you <a href="//politics.slashdot.org/login.pl">login</a>, you can remember this preference.
+</small></noscript>
+	</div>
+	</div>
+	
+		<div id="d2out" class="horizontal">
+		<div id="d2act" class="hide">
+		<div class="loki" id="gods">
+		<div class="block">
+			<div class="title">
+
+				<h4>
+				
+					<span class="h-inline">
+					<a href="//news.slashdot.org/article.pl?sid=08/09/21/160222" title="Back to Article - Palin Email Hacker Found">Palin Email Hacker Found</a></span>
+					<span class="titlecount"><a href="//news.slashdot.org/article.pl?sid=08/09/21/160222#topcomment" title="Back to Top Comment - Palin Email Hacker Found"><span id="titlecountnum">50</span> <span>Comments</span></a></span>
+				
+		<span class="ccw-header-links"><a href="#" onclick="D2.ajaxFetchComments(0,1); return false"><span id="more_comments_num_b"></span> More</a>
+
+
+
+
+
+	<a class="login"  href="//politics.slashdot.org/login.pl" onclick="show_login_box(); return false">Login</a></span>
+		<span id="d2toggle" title="Toggle window location" onclick="D2.toggleWidgetRooted(); return false;" class="close">/</span>
+				</h4>
+			</div>
+		</div>
+<script type="text/javascript">
+$(function(){
+	D2.slider = new D2.Slider(
+		D2.user_threshold(),
+		D2.user_highlightthresh(),
+		'x'
+	);
+});
+</script>
+		<div id="bones">
+      <div id="ccw">
+        <div id="ccw-body" class="ccw-core">
+          <div id="ccw-panel-container" class="ccw-core">
+            <div id="ccw-full-panel" class="ccw-panel">
+              <div class="ccw-panel-border"></div>
+              <div id="ccw-full-count-pos" class="ccw-core-pos ccw-count-pos">
+                <span id="ccw-full-count-text" class="ccw-count-text"><span></span><span id="ccw-full-phrase">&nbsp;Full</span></span>
+              </div>
+            </div>
+            <div id="ccw-abbr-panel" class="ccw-panel">
+              <div class="ccw-panel-border"></div>
+              <div id="ccw-abbr-count-pos" class="ccw-core-pos ccw-count-pos">
+                <span id="ccw-abbr-count-text" class="ccw-count-text"><span></span><span id="ccw-abbr-phrase">&nbsp;Abbreviated</span></span>
+              </div>
+            </div>
+            <div id="ccw-hide-panel" class="ccw-panel">
+              <div id="ccw-hide-count-pos" class="ccw-core-pos ccw-count-pos">
+                <span id="ccw-hide-count-text" class="ccw-count-text"><span></span><span id="ccw-hide-phrase">&nbsp;Hidden</span></span>
+              </div>
+            </div>
+          </div>
+    
+          <div id="ccw-control" class="ccw-core">
+            <div id="ccw-centering-rail" class="ccw-core">
+              <div id="ccw-hide-bar-pos" class="ccw-core-pos">
+                <div id="ccw-hide-bar" class="ccw-bar">
+                  <div id="ccw-hide-bar-tab" class="ccw-bar-tab"></div>
+                  <div id="ccw-hide-bar-upzone" class="ccw-upzone" onclick="D2.slider.stepTHT(HIDE_BAR, +1)"></div>
+                  <div id="ccw-hide-bar-downzone" class="ccw-downzone" onclick="D2.slider.stepTHT(HIDE_BAR, -1)"></div>
+                </div>
+              </div>
+              <div id="ccw-abbr-bar-pos" class="ccw-core-pos">
+                <div id="ccw-abbr-bar" class="ccw-bar">
+                  <div id="ccw-abbr-bar-tab" class="ccw-bar-tab"></div>
+                  <div id="ccw-abbr-bar-upzone" class="ccw-upzone" onclick="D2.slider.stepTHT(ABBR_BAR, +1)"></div>
+                  <div id="ccw-abbr-bar-downzone" class="ccw-downzone" onclick="D2.slider.stepTHT(ABBR_BAR, -1)"></div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+		</div>
+		<div class="commentControlFooter"><a href="#" onclick="D2.ajaxFetchComments(0,1); return false"><span id="more_comments_num_c"></span> More</a>
+
+
+
+
+
+	<a class="login"  href="//politics.slashdot.org/login.pl" onclick="show_login_box(); return false">Login</a><div id="login_cover" style="display:none" onclick="hide_login_box()"></div>
+<div id="login_box" style="display:none">
+<div class="generaltitle" >
+	<div class="title">
+		<h3 >
+			Please Log In to Continue<a href="#" onclick="hide_login_box(); return false" class="close" title="Close this box">x</a>
+			
+		</h3>
+	</div>
+</div>
+<div id="login_box_content">
+<form action="//slashdot.org/login.pl" method="post">
+<fieldset>
+	<legend>Log In</legend>
+	<label>
+		Nickname
+	</label>
+	<input type="text" name="unickname" size="20" value="">
+	<label>
+		Password
+	</label>
+	<input type="hidden" name="returnto" value="//politics.slashdot.org/comments.pl?sid=971001">
+	<input type="hidden" name="op" value="userlogin">
+	<input type="password" name="upasswd" size="20">
+	<label class="checkbox">
+		<input type="checkbox" name="login_temp" value="yes">
+		Public Terminal
+	</label>
+	<input type="submit" name="userlogin" value="Log in" class="button">
+	</fieldset>
+</form>
+
+
+
+<hr>
+
+
+<form action="//slashdot.org/login.pl" method="post">
+<fieldset>
+	<input type="hidden" name="slash_returnto" value="//politics.slashdot.org/comments.pl?sid=971001">
+	<input type="hidden" name="op" value="claim_openid">
+	<input type="hidden" name="openid_login" value="1">
+	<label for="openid_url" class="openid_url">
+	<input type="text" name="openid_url" value="http://" size="32" maxlength="255">
+	</label>
+	<input type="submit" value="Log in with OpenID" class="button">
+</fieldset>
+</form>
+
+
+<p>
+<b>
+<a href="//slashdot.org/my/newuser">Create Account</a>
+&nbsp;|&nbsp;
+<a href="//slashdot.org/my/mailpassword">Retrieve Password</a>
+</b>
+</p>
+</div></div>
+<script type="text/javascript">logged_in = 0</script></div>
+		<div id="commentControlBoxStatus" class="hide"><b>Loading... please wait.</b></div>
+	</div>
+</div>
+		</div>
+	
+</div>
+<a name="topcomment"></a><script src="//a.fsdn.com/sd/comments-minified.js?T_2_5_0_305" type="text/javascript"></script>
+	<script type="text/javascript">
+<!--
+	D2.d2_keybindings_disable()[191] = 1;
+	D2.boxStatus(1);
+D2.comments({ 25095157: { uid: 960296, pid: 25094313, subject: "Re:Public Records -- The Catch-22", read: 0, points: 5, kids: [  ], opid: 25094313 }, 25094289: { uid: 143607, pid: 25094201, subject: "Re:This Just In", read: 0, points: 5, kids: [ 25095111 ], opid: 25094201 }, 25094481: { uid: 919837, pid: 0, read: 0, points: 5, kids: [  ], opid: 0 }, 25094207: { uid: undefined, pid: 0, read: 0, points: -2, kids: [ 25094313, 25094341 ], opid: undefined }, 25095303: { uid: undefined, pid: 25094923, read: 0, points: -2, kids: [ 25096783 ], opid: undefined }, 25094923: { uid: undefined, pid: 25094803, read: 0, points: -2, kids: [ 25095303 ], opid: undefined }, 25094869: { uid: 695572, pid: 25094399, read: 0, points: 5, kids: [ 25095589 ], opid: 25094399 }, 25094219: { uid: undefined, pid: 0, read: 0, points: -2, kids: [ 25094309 ], opid: undefined }, 25094727: { uid: 666, pid: 25094699, subject: "Re:This Just In", read: 0, points: 5, kids: [ 25095039 ], opid: 25094699 }, 25094757: { uid: 951874, pid: 25094341, subject: "Re:Public Records", read: 0, points: 5, kids: [  ], opid: 25094341 }, 25095991: { uid: 473492, pid: 25095717, subject: "Re:This Just In", read: 0, points: 5, kids: [ 25096949 ], opid: 25095717 }, 25095435: { uid: undefined, pid: 25094201, read: 0, points: -2, kids: [ 25096051 ], opid: undefined }, 25094399: { uid: undefined, pid: 25094157, read: 0, points: -2, kids: [ 25094511, 25094869, 25095141 ], opid: undefined }, 25095607: { uid: 80510, pid: 25095299, subject: "Re:This Just In", read: 0, points: 5, kids: [  ], opid: 25095299 }, 25094891: { uid: 241027, pid: 25094393, subject: "Re:This Just In", read: 0, points: 5, kids: [  ], opid: 25094393 }, 25097837: { uid: 196330, pid: 25095481, subject: "Re:This Just In", read: 0, points: 5, kids: [  ], opid: 25095481 }, 25096493: { uid: 662, pid: 25095861, subject: "Re:Actually No", read: 0, points: 5, kids: [  ], opid: 25095861 }, 25094487: { uid: 153932, pid: 25094019, subject: "Re:\"Hacker\"", read: 0, points: 5, kids: [  ], opid: 25094019 }, 25095589: { uid: undefined, pid: 25094869, read: 0, points: -2, kids: [ 25096419 ], opid: undefined }, 25095423: { uid: 1344385, pid: 25095039, subject: "Re:This Just In", read: 0, points: 5, kids: [  ], opid: 25095039 }, 25094161: { uid: 860516, pid: 25094019, subject: "Re:\"Hacker\"", read: 0, points: 5, kids: [  ], opid: 25094019 }, 25094683: { uid: 65690, pid: 25094107, subject: "Re:This Just In", read: 0, points: 5, kids: [  ], opid: 25094107 }, 25096051: { uid: 813711, pid: 25095435, subject: "Re:This Just In", read: 0, points: 5, kids: [  ], opid: 25095435 }, 25095039: { uid: undefined, pid: 25094727, read: 0, points: -2, kids: [ 25095423 ], opid: undefined }, 25094965: { uid: 1183485, pid: 25094803, subject: "Re:Why can't a government employee use Yahoo?", read: 0, points: 5, kids: [  ], opid: 25094803 }, 25094091: { uid: 666, pid: 25094011, subject: "Re:This Just In", read: 0, points: 5, kids: [ 25094699 ], opid: 25094011 }, 25094821: { uid: 1254156, pid: 25094093, subject: "Re:Equal punishment?", read: 0, points: 5, kids: [  ], opid: 25094093 }, 25094313: { uid: undefined, pid: 25094207, read: 0, points: -2, kids: [ 25094879, 25095157 ], opid: undefined }, 25094393: { uid: undefined, pid: 25094157, read: 0, points: -2, kids: [ 25094891, 25095299 ], opid: undefined }, 25094125: { uid: 1291044, pid: 25094019, subject: "Re:\"Hacker\"", read: 0, points: 5, kids: [ 25094601 ], opid: 25094019 }, 25094057: { uid: 666, pid: 0, read: 0, points: 4, kids: [  ], opid: 0 }, 25094879: { uid: 473492, pid: 25094313, subject: "Re:Public Records -- The Catch-22", read: 0, points: 5, kids: [  ], opid: 25094313 }, 25095299: { uid: 813711, pid: 25094393, subject: "Re:This Just In", read: 0, points: 5, kids: [ 25095607 ], opid: 25094393 }, 25094309: { uid: 748122, pid: 25094219, subject: "Re:Important", read: 0, points: 5, kids: [  ], opid: 25094219 }, 25094351: { uid: undefined, pid: 25094157, read: 0, points: -2, kids: [ 25094465 ], opid: undefined }, 25095897: { uid: 80510, pid: 25094541, subject: "Re:This Just In", read: 0, points: 5, kids: [  ], opid: 25094541 }, 25094157: { uid: 143607, pid: 25094107, subject: "Re:This Just In", read: 0, points: 5, kids: [ 25094201, 25094351, 25094393, 25094399, 25094541 ], opid: 25094107 }, 25094087: { uid: undefined, pid: 25094011, read: 0, points: -2, kids: [ 25095177, 25099971 ], opid: undefined }, 25094601: { uid: 669689, pid: 25094125, subject: "Re:\"Hacker\"", read: 0, points: 5, kids: [  ], opid: 25094125 }, 25094881: { uid: 11421, pid: 25094803, subject: "Re:Why can't a government employee use Yahoo?", read: 0, points: 5, kids: [  ], opid: 25094803 }, 25094341: { uid: 585181, pid: 25094207, subject: "Re:Public Records", read: 0, points: 5, kids: [ 25094613, 25094757 ], opid: 25094207 }, 25094105: { uid: 629010, pid: 25094019, subject: "Re:\"Hacker\"", read: 0, points: 5, kids: [  ], opid: 25094019 }, 25094699: { uid: 1356341, pid: 25094091, subject: "Re:This Just In", read: 0, points: 5, kids: [ 25094727 ], opid: 25094091 }, 25094011: { uid: 715771, pid: 0, read: 0, points: 5, kids: [ 25094087, 25094091, 25094107 ], opid: 0 }, 25095177: { uid: 196330, pid: 25094087, subject: "Re:This Just In", read: 0, points: 5, kids: [ 25095481 ], opid: 25094087 }, 25095861: { uid: undefined, pid: 25095141, read: 0, points: -2, kids: [ 25096493 ], opid: undefined }, 25096783: { uid: 862117, pid: 25095303, subject: "Re:Why can't a government employee use Yahoo?", read: 0, points: 5, kids: [  ], opid: 25095303 }, 25095239: { uid: 473492, pid: 25094483, subject: "Re:This Just In", read: 0, points: 5, kids: [ 25095717 ], opid: 25094483 }, 25095111: { uid: undefined, pid: 25094289, read: 0, points: -2, kids: [ 25095307, 25095667 ], opid: undefined }, 25095809: { uid: 813711, pid: 25094483, subject: "Re:This Just In", read: 0, points: 5, kids: [  ], opid: 25094483 }, 25096185: { uid: 2705, pid: 25094541, subject: "Re:This Just In", read: 0, points: 5, kids: [  ], opid: 25094541 }, 25095825: { uid: undefined, pid: 25095319, read: 0, points: -2, kids: [ 25097471 ], opid: undefined }, 25094511: { uid: undefined, pid: 25094399, read: 0, points: -2, kids: [ 25094803 ], opid: undefined }, 25094107: { uid: 659467, pid: 25094011, subject: "Re:This Just In", read: 0, points: 5, kids: [ 25094157, 25094683 ], opid: 25094011 }, 25094483: { uid: undefined, pid: 25094201, read: 0, points: -2, kids: [ 25095239, 25095319, 25095809 ], opid: undefined }, 25094803: { uid: undefined, pid: 25094511, read: 0, points: -2, kids: [ 25094881, 25094923, 25094965 ], opid: undefined }, 25095319: { uid: 881147, pid: 25094483, subject: "Re:This Just In", read: 0, points: 5, kids: [ 25095825 ], opid: 25094483 }, 25094465: { uid: 143607, pid: 25094351, subject: "Re:This Just In", read: 0, points: 5, kids: [  ], opid: 25094351 }, 25099971: { uid: 166186, pid: 25094087, subject: "Re:This Just In", read: 0, points: 5, kids: [  ], opid: 25094087 }, 25096537: { uid: 178848, pid: 25094201, subject: "Re:This Just In", read: 0, points: 5, kids: [  ], opid: 25094201 }, 25097471: { uid: 245349, pid: 25095825, subject: "Re:This Just In", read: 0, points: 5, kids: [  ], opid: 25095825 }, 25095667: { uid: 1340853, pid: 25095111, subject: "Re:This Just In", read: 0, points: 5, kids: [  ], opid: 25095111 }, 25095307: { uid: undefined, pid: 25095111, read: 0, points: -2, kids: [ 25095719 ], opid: undefined }, 25095481: { uid: undefined, pid: 25095177, read: 0, points: -2, kids: [ 25097837 ], opid: undefined }, 25096419: { uid: 788862, pid: 25095589, subject: "Re:Seems != Guilty Even for a Republican", read: 0, points: 5, kids: [  ], opid: 25095589 }, 25094613: { uid: 682683, pid: 25094341, read: 0, points: 5, kids: [  ], opid: 25094341 }, 25094019: { uid: undefined, pid: 0, read: 0, points: -2, kids: [ 25094105, 25094125, 25094161, 25094487 ], opid: undefined }, 25094093: { uid: undefined, pid: 0, read: 0, points: -2, kids: [ 25094821 ], opid: undefined }, 25096949: { uid: 3225, pid: 25095991, subject: "Re:This Just In", read: 0, points: 5, kids: [  ], opid: 25095991 }, 25094201: { uid: 87712, pid: 25094157, subject: "Re:This Just In", read: 0, points: 5, kids: [ 25094289, 25094483, 25095435, 25096537 ], opid: 25094157 }, 25095141: { uid: 662, pid: 25094399, subject: "Re:Why can't a government employee use Yahoo?", read: 0, points: 5, kids: [ 25095861 ], opid: 25094399 }, 25094541: { uid: undefined, pid: 25094157, read: 0, points: -2, kids: [ 25095897, 25096185 ], opid: undefined }, 25095719: { uid: 1340853, pid: 25095307, subject: "Re:This Just In", read: 0, points: 5, kids: [  ], opid: 25095307 }, 25095717: { uid: undefined, pid: 25095239, read: 0, points: -2, kids: [ 25095991 ], opid: undefined } });
+
+D2.thresh_totals({6:{6:{1:50,3:0,2:0}},4:{6:{1:0,3:2,2:48},4:{1:0,3:50,2:0},5:{1:0,3:50,2:0}},1:{6:{1:0,3:2,2:48},4:{1:0,3:50,2:0},1:{1:0,3:50,2:0},3:{1:0,3:50,2:0},2:{1:0,3:50,2:0},5:{1:0,3:50,2:0}},3:{6:{1:0,3:2,2:48},4:{1:0,3:50,2:0},3:{1:0,3:50,2:0},5:{1:0,3:50,2:0}},0:{6:{1:0,3:2,2:48},4:{1:0,3:50,2:0},1:{1:0,3:50,2:0},3:{1:0,3:50,2:0},0:{1:0,3:50,2:0},2:{1:0,3:50,2:0},5:{1:0,3:50,2:0}},2:{6:{1:0,3:2,2:48},4:{1:0,3:50,2:0},3:{1:0,3:50,2:0},2:{1:0,3:50,2:0},5:{1:0,3:50,2:0}},5:{6:{1:1,3:2,2:47},5:{1:1,3:49,2:0}},"-1":{6:{1:0,3:2,2:48},4:{1:0,3:50,2:0},1:{1:0,3:50,2:0},3:{1:0,3:50,2:0},0:{1:0,3:50,2:0},2:{1:0,3:50,2:0},5:{1:0,3:50,2:0},"-1":{1:0,3:50,2:0}}});
+
+D2.root_comment(0);
+D2.root_comments([25094011,25094057,25094481,25094019,25094219,25094207,25094093]);
+D2.root_comments_hash({25094481:1,25094207:1,25094219:1,25094057:1,25094011:1,25094019:1,25094093:1});
+
+D2.d2_comment_order(0);
+D2.user_uid(666);
+D2.user_is_anon(1);
+D2.user_is_admin(0);
+D2.user_is_subscriber(0);
+D2.user_smallscreen(0);
+D2.user_threshold(1);
+D2.user_highlightthresh(4);
+D2.user_d2asp(0);
+
+D2.discussion_id(971001);
+
+D2.d2_seen('25094011,46,34,14,2,18,32,4,40,88,20,32,124,16,6,114,12,70,16,28,30,64,48,10,2,10,74,176,16,20,62,60,20,104,184,60,52,90,88,94,60,134,234,74,44,246,166,522,366,2134');
+D2.more_comments_num(717);
+
+
+//-->
+	</script>
+
+
+
+
+	
+	
+	
+	
+		<ul id="commentlisting" class="d2">
+			<li id="tree_25094011" class="comment contain">
+<div id="comment_status_25094011" class="commentstatus"></div>
+<div id="comment_25094011" class="full">
+	<div id="comment_top_25094011" class="commentTop newcomment">
+		<div class="title">
+			<h4><a id="comment_link_25094011" name="comment_link_25094011" href="//politics.slashdot.org/comments.pl?sid=971001&amp;cid=25094011" onclick="return D2.setFocusComment(25094011)">This Just In</a>
+
+
+		 	<span id="comment_score_25094011" class="score"> (<a href="#" onclick="getModalPrefs('modcommentlog', 'Moderation Comment Log', 25094011); return false">Score:5</a>, Insightful)</span></h4>
+		</div>
+		<div class="details">
+			<span class="by"><span class="byby">by </span><a href="//slashdot.org/~TheSpoom">TheSpoom <span class="uid">(715771)</span></a> <a href="/faq/com-mod.shtml#cm2600">*</a></span><span class="writes" style="display:none"> writes:</span> 
+			<span class="otherdetails" id="comment_otherdetails_25094011">		 &lt;<a href="mailto:slashdot%26uberm00%2Cnet">slashdot&amp;uberm00,net</a>&gt;
+		on Sunday September 21 2008, @12:02PM (<a href="//politics.slashdot.org/comments.pl?sid=971001&amp;cid=25094011">#25094011</a>)
+		<small><a href="http://www.uberm00.net/" title="http://www.uberm00.net/" class="user_homepage_display" rel="nofollow">Homepage</a>
+<a href="//slashdot.org/~TheSpoom/journal/" title="Monday January 19 2004, @09:27PM" class="user_journal_display">Journal</a> </small>
+</span>
+		</div>
+	</div>
+	<div class="commentBody">
+		<div id="comment_body_25094011"><p>Cracker is an idiot.  Ever hear of <a href="http://en.wikipedia.org/wiki/Tor_(anonymity_network)" title="wikipedia.org" rel="nofollow">Tor</a> [wikipedia.org]?  Or better yet, post the information on something like <a href="http://en.wikipedia.org/wiki/Freenet" title="wikipedia.org" rel="nofollow">Freenet</a> [wikipedia.org] and just advertise it on Freenet somehow and let other people get the information out to the main web.</p><p>Of course, the fact that he posted his nick on<nobr> <wbr></nobr>/b/ when it's usually forced-anon anyway means he basically confessed.  Not to mention that he said which proxy service he used -- note to criminals: if you want to get away with something, <i>don't brag about how you did it!</i></p></div>
+	</div>
+
+	<div class="commentSub" id="comment_sub_25094011">
+
+</div>
+</div>
+
+<div id="replyto_25094011"></div>
+
+<ul id="group_25094011">
+	<li id="hiddens_25094011" class="hide"></li>
+</ul>
+
+<ul id="commtree_25094011"><li id="tree_25094091" class="comment contain">
+<div id="comment_status_25094091" class="commentstatus"></div>
+<div id="comment_25094091" class="full">
+	<div id="comment_top_25094091" class="commentTop newcomment">
+		<div class="title">
+			<h4><a id="comment_link_25094091" name="comment_link_25094091" href="//politics.slashdot.org/comments.pl?sid=971001&amp;cid=25094091" onclick="return D2.setFocusComment(25094091)">Re:This Just In</a>
+
+
+		 	<span id="comment_score_25094091" class="score"> (<a href="#" onclick="getModalPrefs('modcommentlog', 'Moderation Comment Log', 25094091); return false">Score:5</a>, Funny)</span></h4>
+		</div>
+		<div class="details">
+			<span class="by"><span class="byby">by </span>Anonymous Coward</span><span class="writes" style="display:none"> writes:</span> 
+			<span class="otherdetails" id="comment_otherdetails_25094091">		
+		on Sunday September 21 2008, @12:07PM (<a href="//politics.slashdot.org/comments.pl?sid=971001&amp;cid=25094091">#25094091</a>)
+		<small> </small>
+</span>
+		</div>
+	</div>
+	<div class="commentBody">
+		<div id="comment_body_25094091"><p>Unless someone just compromised that forum account and framed him.</p></div>
+	</div>
+
+	<div class="commentSub" id="comment_sub_25094091">
+<span class="nbutton"><p><b><a href="//politics.slashdot.org/comments.pl?sid=971001&amp;threshold=1&amp;commentsort=0&amp;mode=thread&amp;cid=25094011" onclick="return D2.selectParent(25094011)">Parent</a></b></p></span>
+</div>
+</div>
+
+<div id="replyto_25094091"></div>
+
+<ul id="group_25094091">
+	<li id="hiddens_25094091" class="hide"></li>
+</ul>
+
+<ul id="commtree_25094091"><li id="tree_25094699" class="comment contain">
+<div id="comment_status_25094699" class="commentstatus"></div>
+<div id="comment_25094699" class="full">
+	<div id="comment_top_25094699" class="commentTop newcomment">
+		<div class="title">
+			<h4><a id="comment_link_25094699" name="comment_link_25094699" href="//politics.slashdot.org/comments.pl?sid=971001&amp;cid=25094699" onclick="return D2.setFocusComment(25094699)">Re:This Just In</a>
+
+
+		 	<span id="comment_score_25094699" class="score"> (<a href="#" onclick="getModalPrefs('modcommentlog', 'Moderation Comment Log', 25094699); return false">Score:5</a>, Informative)</span></h4>
+		</div>
+		<div class="details">
+			<span class="by"><span class="byby">by </span><a href="//slashdot.org/~Sephr">Sephr <span class="uid">(1356341)</span></a></span><span class="writes" style="display:none"> writes:</span> 
+			<span class="otherdetails" id="comment_otherdetails_25094699">		
+		on Sunday September 21 2008, @01:03PM (<a href="//politics.slashdot.org/comments.pl?sid=971001&amp;cid=25094699">#25094699</a>)
+		<small> </small>
+</span>
+		</div>
+	</div>
+	<div class="commentBody">
+		<div id="comment_body_25094699">Forum account? 4chan doesn't have 'accounts' to be compromised. And tripcodes don't give any user information, just verifiers the username. The only identifiable info on 4chan would be the IP.</div>
+	</div>
+
+	<div class="commentSub" id="comment_sub_25094699">
+<span class="nbutton"><p><b><a href="//politics.slashdot.org/comments.pl?sid=971001&amp;threshold=1&amp;commentsort=0&amp;mode=thread&amp;cid=25094091" onclick="return D2.selectParent(25094091)">Parent</a></b></p></span>
+</div>
+</div>
+
+<div id="replyto_25094699"></div>
+
+<ul id="group_25094699">
+	<li id="hiddens_25094699" class="hide"></li>
+</ul>
+
+<ul id="commtree_25094699"><li id="tree_25094727" class="comment contain">
+<div id="comment_status_25094727" class="commentstatus"></div>
+<div id="comment_25094727" class="full">
+	<div id="comment_top_25094727" class="commentTop newcomment">
+		<div class="title">
+			<h4><a id="comment_link_25094727" name="comment_link_25094727" href="//politics.slashdot.org/comments.pl?sid=971001&amp;cid=25094727" onclick="return D2.setFocusComment(25094727)">Re:This Just In</a>
+
+
+		 	<span id="comment_score_25094727" class="score"> (<a href="#" onclick="getModalPrefs('modcommentlog', 'Moderation Comment Log', 25094727); return false">Score:5</a>, Informative)</span></h4>
+		</div>
+		<div class="details">
+			<span class="by"><span class="byby">by </span>Anonymous Coward</span><span class="writes" style="display:none"> writes:</span> 
+			<span class="otherdetails" id="comment_otherdetails_25094727">		
+		on Sunday September 21 2008, @01:08PM (<a href="//politics.slashdot.org/comments.pl?sid=971001&amp;cid=25094727">#25094727</a>)
+		<small> </small>
+</span>
+		</div>
+	</div>
+	<div class="commentBody">
+		<div id="comment_body_25094727"><p>He put a name he uses elsewhere in the name field. That name was then connected to an email account.</p></div>
+	</div>
+
+	<div class="commentSub" id="comment_sub_25094727">
+<span class="nbutton"><p><b><a href="//politics.slashdot.org/comments.pl?sid=971001&amp;threshold=1&amp;commentsort=0&amp;mode=thread&amp;cid=25094699" onclick="return D2.selectParent(25094699)">Parent</a></b></p></span>
+</div>
+</div>
+
+<div id="replyto_25094727"></div>
+
+<ul id="group_25094727">
+	<li id="hiddens_25094727" class="hide"></li>
+</ul>
+
+<ul id="commtree_25094727"><li id="tree_25095039" class="comment">
+<div id="comment_status_25095039" class="commentstatus"></div>
+<div id="comment_25095039" class="hidden">
+</div>
+
+<div id="replyto_25095039"></div>
+
+<ul id="group_25095039">
+	<li id="hiddens_25095039" class="hide"></li>
+</ul>
+
+<ul id="commtree_25095039"><li id="tree_25095423" class="comment contain">
+<div id="comment_status_25095423" class="commentstatus"></div>
+<div id="comment_25095423" class="full">
+	<div id="comment_top_25095423" class="commentTop newcomment">
+		<div class="title">
+			<h4><a id="comment_link_25095423" name="comment_link_25095423" href="//politics.slashdot.org/comments.pl?sid=971001&amp;cid=25095423" onclick="return D2.setFocusComment(25095423)">Re:This Just In</a>
+
+
+		 	<span id="comment_score_25095423" class="score"> (<a href="#" onclick="getModalPrefs('modcommentlog', 'Moderation Comment Log', 25095423); return false">Score:5</a>, Insightful)</span></h4>
+		</div>
+		<div class="details">
+			<span class="by"><span class="byby">by </span><a href="//slashdot.org/~calmofthestorm">calmofthestorm <span class="uid">(1344385)</span></a></span><span class="writes" style="display:none"> writes:</span> 
+			<span class="otherdetails" id="comment_otherdetails_25095423">		
+		on Sunday September 21 2008, @02:07PM (<a href="//politics.slashdot.org/comments.pl?sid=971001&amp;cid=25095423">#25095423</a>)
+		<small> </small>
+</span>
+		</div>
+	</div>
+	<div class="commentBody">
+		<div id="comment_body_25095423"><p>You use that evidence to track him, other evidence to prove guilt.</p></div>
+	</div>
+
+	<div class="commentSub" id="comment_sub_25095423">
+<span class="nbutton"><p><b><a href="//politics.slashdot.org/comments.pl?sid=971001&amp;threshold=1&amp;commentsort=0&amp;mode=thread&amp;cid=25095039" onclick="return D2.selectParent(25095039)">Parent</a></b></p></span>
+</div>
+</div>
+
+<div id="replyto_25095423"></div>
+
+<ul id="group_25095423">
+	<li id="hiddens_25095423" class="hide"></li>
+</ul>
+
+</li></ul></li></ul></li></ul></li></ul></li><li id="tree_25094107" class="comment contain">
+<div id="comment_status_25094107" class="commentstatus"></div>
+<div id="comment_25094107" class="full">
+	<div id="comment_top_25094107" class="commentTop newcomment">
+		<div class="title">
+			<h4><a id="comment_link_25094107" name="comment_link_25094107" href="//politics.slashdot.org/comments.pl?sid=971001&amp;cid=25094107" onclick="return D2.setFocusComment(25094107)">Re:This Just In</a>
+
+
+		 	<span id="comment_score_25094107" class="score"> (<a href="#" onclick="getModalPrefs('modcommentlog', 'Moderation Comment Log', 25094107); return false">Score:5</a>, Insightful)</span></h4>
+		</div>
+		<div class="details">
+			<span class="by"><span class="byby">by </span><a href="//slashdot.org/~Elektroschock">Elektroschock <span class="uid">(659467)</span></a></span><span class="writes" style="display:none"> writes:</span> 
+			<span class="otherdetails" id="comment_otherdetails_25094107">		
+		on Sunday September 21 2008, @12:09PM (<a href="//politics.slashdot.org/comments.pl?sid=971001&amp;cid=25094107">#25094107</a>)
+		<small> </small>
+</span>
+		</div>
+	</div>
+	<div class="commentBody">
+		<div id="comment_body_25094107"><p>Let's say it like this: He or she is no hacker or cracker. It is just a usual internet user who did not obtain great skill.</p><p>Lessons:</p><p>* government users should not take yahoo (who ever came to that idea?)</p><p>* Anonymous communication matters</p><p>* Activities of governments should be transparent.</p><p>* It may help a person to become vice president who appears to be a nightmare and encourage anti-hacking regulations. Fortunately S. Palin has <a href="http://fr.youtube.com/watch?v=n-_h2OU8RAQ" title="youtube.com">close affiliations with witch hunters.</a> [youtube.com]</p></div>
+	</div>
+
+	<div class="commentSub" id="comment_sub_25094107">
+<span class="nbutton"><p><b><a href="//politics.slashdot.org/comments.pl?sid=971001&amp;threshold=1&amp;commentsort=0&amp;mode=thread&amp;cid=25094011" onclick="return D2.selectParent(25094011)">Parent</a></b></p></span>
+</div>
+</div>
+
+<div id="replyto_25094107"></div>
+
+<ul id="group_25094107">
+	<li id="hiddens_25094107" class="hide"></li>
+</ul>
+
+<ul id="commtree_25094107"><li id="tree_25094157" class="comment contain">
+<div id="comment_status_25094157" class="commentstatus"></div>
+<div id="comment_25094157" class="full">
+	<div id="comment_top_25094157" class="commentTop newcomment">
+		<div class="title">
+			<h4><a id="comment_link_25094157" name="comment_link_25094157" href="//politics.slashdot.org/comments.pl?sid=971001&amp;cid=25094157" onclick="return D2.setFocusComment(25094157)">Re:This Just In</a>
+
+
+		 	<span id="comment_score_25094157" class="score"> (<a href="#" onclick="getModalPrefs('modcommentlog', 'Moderation Comment Log', 25094157); return false">Score:5</a>, Insightful)</span></h4>
+		</div>
+		<div class="details">
+			<span class="by"><span class="byby">by </span><a href="//slashdot.org/~Hadlock">Hadlock <span class="uid">(143607)</span></a></span><span class="writes" style="display:none"> writes:</span> 
+			<span class="otherdetails" id="comment_otherdetails_25094157">		
+		on Sunday September 21 2008, @12:12PM (<a href="//politics.slashdot.org/comments.pl?sid=971001&amp;cid=25094157">#25094157</a>)
+		<small><a href="http://www.nearlydeaf.com/" title="http://www.nearlydeaf.com/" class="user_homepage_display" rel="nofollow">Homepage</a>
+<a href="//slashdot.org/~Hadlock/journal/" title="Friday June 16 2006, @12:24AM" class="user_journal_display">Journal</a> </small>
+</span>
+		</div>
+	</div>
+	<div class="commentBody">
+		<div id="comment_body_25094157"><p>The whole reason Palin is using Yahoo instead of government sponsored email is that any email sent through those channels is archived for a Very Long Time as a matter of public record. Wondering what the clerk at the DMV is REALLY emailing about? Put in a freedom of information act request and it's all yours. <br>
+&nbsp; <br>By Palin using yahoo, it's not closely watched and she can conduct official business off the record. It's very poor form to do so and is the real story here.</p></div>
+	</div>
+
+	<div class="commentSub" id="comment_sub_25094157">
+<span class="nbutton"><p><b><a href="//politics.slashdot.org/comments.pl?sid=971001&amp;threshold=1&amp;commentsort=0&amp;mode=thread&amp;cid=25094107" onclick="return D2.selectParent(25094107)">Parent</a></b></p></span>
+</div>
+</div>
+
+<div id="replyto_25094157"></div>
+
+<ul id="group_25094157">
+	<li id="hiddens_25094157" class="hide"></li>
+</ul>
+
+<ul id="commtree_25094157"><li id="tree_25094201" class="comment contain">
+<div id="comment_status_25094201" class="commentstatus"></div>
+<div id="comment_25094201" class="full">
+	<div id="comment_top_25094201" class="commentTop newcomment">
+		<div class="title">
+			<h4><a id="comment_link_25094201" name="comment_link_25094201" href="//politics.slashdot.org/comments.pl?sid=971001&amp;cid=25094201" onclick="return D2.setFocusComment(25094201)">Re:This Just In</a>
+
+
+		 	<span id="comment_score_25094201" class="score"> (<a href="#" onclick="getModalPrefs('modcommentlog', 'Moderation Comment Log', 25094201); return false">Score:5</a>, Insightful)</span></h4>
+		</div>
+		<div class="details">
+			<span class="by"><span class="byby">by </span><a href="//slashdot.org/~Greyfox">Greyfox <span class="uid">(87712)</span></a></span><span class="writes" style="display:none"> writes:</span> 
+			<span class="otherdetails" id="comment_otherdetails_25094201">		
+		on Sunday September 21 2008, @12:15PM (<a href="//politics.slashdot.org/comments.pl?sid=971001&amp;cid=25094201">#25094201</a>)
+		<small><a href="http://64.81.98.2/" title="http://64.81.98.2/" class="user_homepage_display" rel="nofollow">Homepage</a>
+<a href="//slashdot.org/~Greyfox/journal/" title="Monday November 15, @01:52PM" class="user_journal_display">Journal</a> </small>
+</span>
+		</div>
+	</div>
+	<div class="commentBody">
+		<div id="comment_body_25094201">I have yet to see anyone ask Cheney or Palin if they feel they are above the law. Their actions seem to indicate they do.
+<p>
+I have trouble understanding why we put people with such obvious contempt for the law in positions that are in charge of it.</p></div>
+	</div>
+
+	<div class="commentSub" id="comment_sub_25094201">
+<span class="nbutton"><p><b><a href="//politics.slashdot.org/comments.pl?sid=971001&amp;threshold=1&amp;commentsort=0&amp;mode=thread&amp;cid=25094157" onclick="return D2.selectParent(25094157)">Parent</a></b></p></span>
+</div>
+</div>
+
+<div id="replyto_25094201"></div>
+
+<ul id="group_25094201">
+	<li id="hiddens_25094201" class="hide"></li>
+</ul>
+
+<ul id="commtree_25094201"><li id="tree_25094289" class="comment contain">
+<div id="comment_status_25094289" class="commentstatus"></div>
+<div id="comment_25094289" class="full">
+	<div id="comment_top_25094289" class="commentTop newcomment">
+		<div class="title">
+			<h4><a id="comment_link_25094289" name="comment_link_25094289" href="//politics.slashdot.org/comments.pl?sid=971001&amp;cid=25094289" onclick="return D2.setFocusComment(25094289)">Re:This Just In</a>
+
+
+		 	<span id="comment_score_25094289" class="score"> (<a href="#" onclick="getModalPrefs('modcommentlog', 'Moderation Comment Log', 25094289); return false">Score:5</a>, Insightful)</span></h4>
+		</div>
+		<div class="details">
+			<span class="by"><span class="byby">by </span><a href="//slashdot.org/~Hadlock">Hadlock <span class="uid">(143607)</span></a></span><span class="writes" style="display:none"> writes:</span> 
+			<span class="otherdetails" id="comment_otherdetails_25094289">		
+		on Sunday September 21 2008, @12:25PM (<a href="//politics.slashdot.org/comments.pl?sid=971001&amp;cid=25094289">#25094289</a>)
+		<small><a href="http://www.nearlydeaf.com/" title="http://www.nearlydeaf.com/" class="user_homepage_display">Homepage</a>
+<a href="//slashdot.org/~Hadlock/journal/" title="Friday June 16 2006, @12:24AM" class="user_journal_display">Journal</a> </small>
+</span>
+		</div>
+	</div>
+	<div class="commentBody">
+		<div id="comment_body_25094289"><p><i>I have trouble understanding why we put people with such obvious contempt for the law in positions that are in charge of it.</i> <br>
+&nbsp; <br>Brilliant marketing, and the general public's desire to believe what they're told in hopes that it will come true. If the general public were half as smart as we give them credit for the world would have never seen Napoleian, Cesar (well actually the Romans solved that problem on their own), Castro, Hugo Chavez and more. But as the protestants like to point out, people are like sheep and will head in whatever direction the man who speaks softly but carries a big stick says.</p></div>
+	</div>
+
+	<div class="commentSub" id="comment_sub_25094289">
+<span class="nbutton"><p><b><a href="//politics.slashdot.org/comments.pl?sid=971001&amp;threshold=1&amp;commentsort=0&amp;mode=thread&amp;cid=25094201" onclick="return D2.selectParent(25094201)">Parent</a></b></p></span>
+</div>
+</div>
+
+<div id="replyto_25094289"></div>
+
+<ul id="group_25094289">
+	<li id="hiddens_25094289" class="hide"></li>
+</ul>
+
+<ul id="commtree_25094289"><li id="tree_25095111" class="comment">
+<div id="comment_status_25095111" class="commentstatus"></div>
+<div id="comment_25095111" class="hidden">
+</div>
+
+<div id="replyto_25095111"></div>
+
+<ul id="group_25095111">
+	<li id="hiddens_25095111" class="hide"></li>
+</ul>
+
+<ul id="commtree_25095111"><li id="tree_25095667" class="comment contain">
+<div id="comment_status_25095667" class="commentstatus"></div>
+<div id="comment_25095667" class="full">
+	<div id="comment_top_25095667" class="commentTop newcomment">
+		<div class="title">
+			<h4><a id="comment_link_25095667" name="comment_link_25095667" href="//politics.slashdot.org/comments.pl?sid=971001&amp;cid=25095667" onclick="return D2.setFocusComment(25095667)">Re:This Just In</a>
+
+
+		 	<span id="comment_score_25095667" class="score"> (<a href="#" onclick="getModalPrefs('modcommentlog', 'Moderation Comment Log', 25095667); return false">Score:5</a>, Informative)</span></h4>
+		</div>
+		<div class="details">
+			<span class="by"><span class="byby">by </span><a href="//slashdot.org/~jabithew">jabithew <span class="uid">(1340853)</span></a></span><span class="writes" style="display:none"> writes:</span> 
+			<span class="otherdetails" id="comment_otherdetails_25095667">		
+		on Sunday September 21 2008, @02:27PM (<a href="//politics.slashdot.org/comments.pl?sid=971001&amp;cid=25095667">#25095667</a>)
+		<small> </small>
+</span>
+		</div>
+	</div>
+	<div class="commentBody">
+		<div id="comment_body_25095667"><p>Ever heard of Hans-Martin Tillack? His office was raided and his equipment seized by Belgian police because he had the audacity to protect a whistle-blower in a fraud case. He eventually got compensation, but as far as I'm aware he hasn't re-gained his possessions. I would bet money on the whistle-blower having been sacked by now. The whole sorry saga is <a href="http://euobserver.com/9/25229" title="euobserver.com">here</a> [euobserver.com]. In the mean time the <a href="http://news.bbc.co.uk/1/hi/world/europe/7092102.stm" title="bbc.co.uk">accounts have not been signed off for the thirteenth year running</a> [bbc.co.uk] (the Tories are reporting a fourteenth).</p><p>I hate it when we Europeans pretend to be so <i>vastly</i> superior to those <i>ghastly</i> Americans out of sheer ignorance.</p><p>p.s. I am a Europhile, I just don't think this kind of thing should be covered up out of misguided solidarity with the European Project.</p></div>
+	</div>
+
+	<div class="commentSub" id="comment_sub_25095667">
+<span class="nbutton"><p><b><a href="//politics.slashdot.org/comments.pl?sid=971001&amp;threshold=1&amp;commentsort=0&amp;mode=thread&amp;cid=25095111" onclick="return D2.selectParent(25095111)">Parent</a></b></p></span>
+</div>
+</div>
+
+<div id="replyto_25095667"></div>
+
+<ul id="group_25095667">
+	<li id="hiddens_25095667" class="hide"></li>
+</ul>
+
+</li><li id="tree_25095307" class="comment">
+<div id="comment_status_25095307" class="commentstatus"></div>
+<div id="comment_25095307" class="hidden">
+</div>
+
+<div id="replyto_25095307"></div>
+
+<ul id="group_25095307">
+	<li id="hiddens_25095307" class="hide"></li>
+</ul>
+
+<ul id="commtree_25095307"><li id="tree_25095719" class="comment contain">
+<div id="comment_status_25095719" class="commentstatus"></div>
+<div id="comment_25095719" class="full">
+	<div id="comment_top_25095719" class="commentTop newcomment">
+		<div class="title">
+			<h4><a id="comment_link_25095719" name="comment_link_25095719" href="//politics.slashdot.org/comments.pl?sid=971001&amp;cid=25095719" onclick="return D2.setFocusComment(25095719)">Re:This Just In</a>
+
+
+		 	<span id="comment_score_25095719" class="score"> (<a href="#" onclick="getModalPrefs('modcommentlog', 'Moderation Comment Log', 25095719); return false">Score:5</a>, Insightful)</span></h4>
+		</div>
+		<div class="details">
+			<span class="by"><span class="byby">by </span><a href="//slashdot.org/~jabithew">jabithew <span class="uid">(1340853)</span></a></span><span class="writes" style="display:none"> writes:</span> 
+			<span class="otherdetails" id="comment_otherdetails_25095719">		
+		on Sunday September 21 2008, @02:31PM (<a href="//politics.slashdot.org/comments.pl?sid=971001&amp;cid=25095719">#25095719</a>)
+		<small> </small>
+</span>
+		</div>
+	</div>
+	<div class="commentBody">
+		<div id="comment_body_25095719"><p>Belgium uses the civil law system, otherwise known as the Napoleonic code. The majority of American states use English common law system*, which relies a lot more on judicial judgement and precedent (which have the same force as law itself, effectively allowing courts to legislate). Our common law actually has a lot in common with Shari'a in terms of how it works.</p><p>*CA, for example, doesn't. Neither does Scotland, hence English.</p></div>
+	</div>
+
+	<div class="commentSub" id="comment_sub_25095719">
+<span class="nbutton"><p><b><a href="//politics.slashdot.org/comments.pl?sid=971001&amp;threshold=1&amp;commentsort=0&amp;mode=thread&amp;cid=25095307" onclick="return D2.selectParent(25095307)">Parent</a></b></p></span>
+</div>
+</div>
+
+<div id="replyto_25095719"></div>
+
+<ul id="group_25095719">
+	<li id="hiddens_25095719" class="hide"></li>
+</ul>
+
+</li></ul></li></ul></li></ul></li><li id="tree_25096537" class="comment contain">
+<div id="comment_status_25096537" class="commentstatus"></div>
+<div id="comment_25096537" class="full">
+	<div id="comment_top_25096537" class="commentTop newcomment">
+		<div class="title">
+			<h4><a id="comment_link_25096537" name="comment_link_25096537" href="//politics.slashdot.org/comments.pl?sid=971001&amp;cid=25096537" onclick="return D2.setFocusComment(25096537)">Re:This Just In</a>
+
+
+		 	<span id="comment_score_25096537" class="score"> (<a href="#" onclick="getModalPrefs('modcommentlog', 'Moderation Comment Log', 25096537); return false">Score:5</a>, Insightful)</span></h4>
+		</div>
+		<div class="details">
+			<span class="by"><span class="byby">by </span><a href="//slashdot.org/~daemonenwind">daemonenwind <span class="uid">(178848)</span></a></span><span class="writes" style="display:none"> writes:</span> 
+			<span class="otherdetails" id="comment_otherdetails_25096537">		
+		on Sunday September 21 2008, @03:57PM (<a href="//politics.slashdot.org/comments.pl?sid=971001&amp;cid=25096537">#25096537</a>)
+		<small> </small>
+</span>
+		</div>
+	</div>
+	<div class="commentBody">
+		<div id="comment_body_25096537"><p>Absolute tripe.</p><p>Do you have a job?</p><p>Do you have an e-mail account you use which is not associated with your job?</p><p>All these assumptions about what goes on in private e-mail accounts have not been substantiated.  In fact, the cracker responsible said he went through Palin's e-mail, and found absolutely nothing.</p><p>Furthermore, since this cracker is the son of a Democrat, he would have known what to look for.  Instead, he freely admits it's just stuff like communications with friends, casual conversations with other Republicans, and pictures of her kids.</p><p>There's nothing there - as the opposition party fully admits - but it sure doesn't stop the idiot conspiracy theorists from foaming at the mouth.</p><p>And one last thing: if you consider this to be a politically-used account, then what _exactly_ is the difference between this and Watergate?</p><p>Answer: nothing.</p></div>
+	</div>
+
+	<div class="commentSub" id="comment_sub_25096537">
+<span class="nbutton"><p><b><a href="//politics.slashdot.org/comments.pl?sid=971001&amp;threshold=1&amp;commentsort=0&amp;mode=thread&amp;cid=25094201" onclick="return D2.selectParent(25094201)">Parent</a></b></p></span>
+</div>
+</div>
+
+<div id="replyto_25096537"></div>
+
+<ul id="group_25096537">
+	<li id="hiddens_25096537" class="hide"></li>
+</ul>
+
+</li><li id="tree_25094483" class="comment">
+<div id="comment_status_25094483" class="commentstatus"></div>
+<div id="comment_25094483" class="hidden">
+</div>
+
+<div id="replyto_25094483"></div>
+
+<ul id="group_25094483">
+	<li id="hiddens_25094483" class="hide"></li>
+</ul>
+
+<ul id="commtree_25094483"><li id="tree_25095239" class="comment contain">
+<div id="comment_status_25095239" class="commentstatus"></div>
+<div id="comment_25095239" class="full">
+	<div id="comment_top_25095239" class="commentTop newcomment">
+		<div class="title">
+			<h4><a id="comment_link_25095239" name="comment_link_25095239" href="//politics.slashdot.org/comments.pl?sid=971001&amp;cid=25095239" onclick="return D2.setFocusComment(25095239)">Re:This Just In</a>
+
+
+		 	<span id="comment_score_25095239" class="score"> (<a href="#" onclick="getModalPrefs('modcommentlog', 'Moderation Comment Log', 25095239); return false">Score:5</a>, Insightful)</span></h4>
+		</div>
+		<div class="details">
+			<span class="by"><span class="byby">by </span><a href="//slashdot.org/~jadavis">jadavis <span class="uid">(473492)</span></a></span><span class="writes" style="display:none"> writes:</span> 
+			<span class="otherdetails" id="comment_otherdetails_25095239">		
+		on Sunday September 21 2008, @01:49PM (<a href="//politics.slashdot.org/comments.pl?sid=971001&amp;cid=25095239">#25095239</a>)
+		<small> </small>
+</span>
+		</div>
+	</div>
+	<div class="commentBody">
+		<div id="comment_body_25095239"><p><i>You cannot attack her because that would make her a victim and she makes you appear rude.</i></p><p>Someone violated her privacy, broke the law, and distracted from other issues during the presidential election.</p><p>That's a little more than "rude".</p><p>As far as the usual political back-and-forth (the legal kind), every politician uses rhetorical shields to hide from legitimate criticism. Ultimately, the people decide what's a legitimate criticism and what is not.</p><p>Many people have decided that, yes, it is rude to criticize Palin for the actions of her daughter, or to question the parents of her youngest child.</p><p>But it's not rude to criticize her for supporting the bridge to nowhere, or some policy position you disagree with. If she tries to hide behind the "underdog" persona to avoid these charges she will be unsuccessful.</p></div>
+	</div>
+
+	<div class="commentSub" id="comment_sub_25095239">
+<span class="nbutton"><p><b><a href="//politics.slashdot.org/comments.pl?sid=971001&amp;threshold=1&amp;commentsort=0&amp;mode=thread&amp;cid=25094483" onclick="return D2.selectParent(25094483)">Parent</a></b></p></span>
+</div>
+</div>
+
+<div id="replyto_25095239"></div>
+
+<ul id="group_25095239">
+	<li id="hiddens_25095239" class="hide"></li>
+</ul>
+
+<ul id="commtree_25095239"><li id="tree_25095717" class="comment">
+<div id="comment_status_25095717" class="commentstatus"></div>
+<div id="comment_25095717" class="hidden">
+</div>
+
+<div id="replyto_25095717"></div>
+
+<ul id="group_25095717">
+	<li id="hiddens_25095717" class="hide"></li>
+</ul>
+
+<ul id="commtree_25095717"><li id="tree_25095991" class="comment contain">
+<div id="comment_status_25095991" class="commentstatus"></div>
+<div id="comment_25095991" class="full">
+	<div id="comment_top_25095991" class="commentTop newcomment">
+		<div class="title">
+			<h4><a id="comment_link_25095991" name="comment_link_25095991" href="//politics.slashdot.org/comments.pl?sid=971001&amp;cid=25095991" onclick="return D2.setFocusComment(25095991)">Re:This Just In</a>
+
+
+		 	<span id="comment_score_25095991" class="score"> (<a href="#" onclick="getModalPrefs('modcommentlog', 'Moderation Comment Log', 25095991); return false">Score:5</a>, Insightful)</span></h4>
+		</div>
+		<div class="details">
+			<span class="by"><span class="byby">by </span><a href="//slashdot.org/~jadavis">jadavis <span class="uid">(473492)</span></a></span><span class="writes" style="display:none"> writes:</span> 
+			<span class="otherdetails" id="comment_otherdetails_25095991">		
+		on Sunday September 21 2008, @02:57PM (<a href="//politics.slashdot.org/comments.pl?sid=971001&amp;cid=25095991">#25095991</a>)
+		<small> </small>
+</span>
+		</div>
+	</div>
+	<div class="commentBody">
+		<div id="comment_body_25095991"><p><i>Palin wants to continue the policies of the current White House administration where everyones privacy can be violated by the White House without any consequences even though it breakes federal law.</i></p><p>Even if that's true, it's unrelated to the matter at hand. It's illegal for government to read your email without a warrant, and illegal for private citizens to do so without your permission.</p><p>It's hypocritical of you to stand for privacy rights when it suits your needs, but then act as an apologist for people who violate the privacy laws already on the books.</p><p><i>used a non-governmental email account to hide how she uses the powers given her by her office.</i></p><p>I still have seen no evidence that she used the Yahoo account for the specific purpose of hiding communications.</p></div>
+	</div>
+
+	<div class="commentSub" id="comment_sub_25095991">
+<span class="nbutton"><p><b><a href="//politics.slashdot.org/comments.pl?sid=971001&amp;threshold=1&amp;commentsort=0&amp;mode=thread&amp;cid=25095717" onclick="return D2.selectParent(25095717)">Parent</a></b></p></span>
+</div>
+</div>
+
+<div id="replyto_25095991"></div>
+
+<ul id="group_25095991">
+	<li id="hiddens_25095991" class="hide"></li>
+</ul>
+
+<ul id="commtree_25095991"><li id="tree_25096949" class="comment contain">
+<div id="comment_status_25096949" class="commentstatus"></div>
+<div id="comment_25096949" class="full">
+	<div id="comment_top_25096949" class="commentTop newcomment">
+		<div class="title">
+			<h4><a id="comment_link_25096949" name="comment_link_25096949" href="//politics.slashdot.org/comments.pl?sid=971001&amp;cid=25096949" onclick="return D2.setFocusComment(25096949)">Re:This Just In</a>
+
+
+		 	<span id="comment_score_25096949" class="score"> (<a href="#" onclick="getModalPrefs('modcommentlog', 'Moderation Comment Log', 25096949); return false">Score:5</a>, Interesting)</span></h4>
+		</div>
+		<div class="details">
+			<span class="by"><span class="byby">by </span><a href="//slashdot.org/~bjohnson">bjohnson <span class="uid">(3225)</span></a></span><span class="writes" style="display:none"> writes:</span> 
+			<span class="otherdetails" id="comment_otherdetails_25096949">		
+		on Sunday September 21 2008, @04:39PM (<a href="//politics.slashdot.org/comments.pl?sid=971001&amp;cid=25096949">#25096949</a>)
+		<small> </small>
+</span>
+		</div>
+	</div>
+	<div class="commentBody">
+		<div id="comment_body_25096949"><p>In the emails that the investigating commission DID get, there are exchanges between Palin and her subordinates discussing whether they can evade subpoenas by using Yahoo, and other exchanges reminding people to use the Yahoo account, not the official governors one.</p><p>IOW, the ENTIRE purpose of her office using the Yahoo account was to obstruct justice.</p></div>
+	</div>
+
+	<div class="commentSub" id="comment_sub_25096949">
+<span class="nbutton"><p><b><a href="//politics.slashdot.org/comments.pl?sid=971001&amp;threshold=1&amp;commentsort=0&amp;mode=thread&amp;cid=25095991" onclick="return D2.selectParent(25095991)">Parent</a></b></p></span>
+</div>
+</div>
+
+<div id="replyto_25096949"></div>
+
+<ul id="group_25096949">
+	<li id="hiddens_25096949" class="hide"></li>
+</ul>
+
+</li></ul></li></ul></li></ul></li><li id="tree_25095319" class="comment contain">
+<div id="comment_status_25095319" class="commentstatus"></div>
+<div id="comment_25095319" class="full">
+	<div id="comment_top_25095319" class="commentTop newcomment">
+		<div class="title">
+			<h4><a id="comment_link_25095319" name="comment_link_25095319" href="//politics.slashdot.org/comments.pl?sid=971001&amp;cid=25095319" onclick="return D2.setFocusComment(25095319)">Re:This Just In</a>
+
+
+		 	<span id="comment_score_25095319" class="score"> (<a href="#" onclick="getModalPrefs('modcommentlog', 'Moderation Comment Log', 25095319); return false">Score:5</a>, Insightful)</span></h4>
+		</div>
+		<div class="details">
+			<span class="by"><span class="byby">by </span><a href="//slashdot.org/~Main+Gauche">Main Gauche <span class="uid">(881147)</span></a></span><span class="writes" style="display:none"> writes:</span> 
+			<span class="otherdetails" id="comment_otherdetails_25095319">		
+		on Sunday September 21 2008, @01:57PM (<a href="//politics.slashdot.org/comments.pl?sid=971001&amp;cid=25095319">#25095319</a>)
+		<small> </small>
+</span>
+		</div>
+	</div>
+	<div class="commentBody">
+		<div id="comment_body_25095319"><p><div class="quote"><p>I mean look at her statements. I mean for instance when she talks about her son beeing deployed in Iraq. Isn't it frightening to see an aspiring  political leader buy into peasants propaganda?</p></div><p>When an elected official's son goes to Iraq, it's "peasant propaganda"?  Well, when he doesn't, it's <a href="http://www.michaelmoore.com/index.php" title="michaelmoore.com">someone else</a> [michaelmoore.com]'s propaganda.  I guess they're screwed either way!</p></div>
+	</div>
+
+	<div class="commentSub" id="comment_sub_25095319">
+<span class="nbutton"><p><b><a href="//politics.slashdot.org/comments.pl?sid=971001&amp;threshold=1&amp;commentsort=0&amp;mode=thread&amp;cid=25094483" onclick="return D2.selectParent(25094483)">Parent</a></b></p></span>
+</div>
+</div>
+
+<div id="replyto_25095319"></div>
+
+<ul id="group_25095319">
+	<li id="hiddens_25095319" class="hide"></li>
+</ul>
+
+<ul id="commtree_25095319"><li id="tree_25095825" class="comment">
+<div id="comment_status_25095825" class="commentstatus"></div>
+<div id="comment_25095825" class="hidden">
+</div>
+
+<div id="replyto_25095825"></div>
+
+<ul id="group_25095825">
+	<li id="hiddens_25095825" class="hide"></li>
+</ul>
+
+<ul id="commtree_25095825"><li id="tree_25097471" class="comment contain">
+<div id="comment_status_25097471" class="commentstatus"></div>
+<div id="comment_25097471" class="full">
+	<div id="comment_top_25097471" class="commentTop newcomment">
+		<div class="title">
+			<h4><a id="comment_link_25097471" name="comment_link_25097471" href="//politics.slashdot.org/comments.pl?sid=971001&amp;cid=25097471" onclick="return D2.setFocusComment(25097471)">Re:This Just In</a>
+
+
+		 	<span id="comment_score_25097471" class="score"> (<a href="#" onclick="getModalPrefs('modcommentlog', 'Moderation Comment Log', 25097471); return false">Score:5</a>, Informative)</span></h4>
+		</div>
+		<div class="details">
+			<span class="by"><span class="byby">by </span><a href="//slashdot.org/~funwithBSD">funwithBSD <span class="uid">(245349)</span></a></span><span class="writes" style="display:none"> writes:</span> 
+			<span class="otherdetails" id="comment_otherdetails_25097471">		
+		on Sunday September 21 2008, @05:44PM (<a href="//politics.slashdot.org/comments.pl?sid=971001&amp;cid=25097471">#25097471</a>)
+		<small> </small>
+</span>
+		</div>
+	</div>
+	<div class="commentBody">
+		<div id="comment_body_25097471"><p>He is not right:</p><p>
+&nbsp; &nbsp; &nbsp; 1.  U.S. military service disproportionately attracts enlisted personnel and officerswho do not come from disadvantaged backgrounds. Previous Her&#194;itage Foundation research demonstrated that the quality of enlisted troops has increased since the start of the Iraq war. This report demon&#194;strates that the same is true of the officer corps.<br>
+&nbsp; &nbsp; &nbsp; 2. Members of the all-volunteer military are sig&#194;nificantly more likely to come from high-income neighborhoods than from low-income neighborhoods. Only 11 percent of enlisted recruits in 2007 came from the poorest one-fifth (quintile) of neighborhoods, while 25 per&#194;cent came from the wealthiest quintile. These trends are even more pronounced in the Army Reserve Officer Training Corps (ROTC) pro&#194;gram, in which 40 percent of enrollees come from the wealthiest neighborhoods&#226;"a number that has increased substantially over the past four years.<br>
+&nbsp; &nbsp; &nbsp; 3. American soldiers are more educated than their peers. A little more than 1 percent of enlisted per&#194;sonnel lack a high school degree, compared to 21 percent of men 18&#226;"24 years old, and 95 percent of officer accessions have at least a bachelor&#226;(TM)s degree.<br>
+&nbsp; &nbsp; &nbsp; 4. Contrary to conventional wisdom, minorities are not overrepresented in military service. Enlisted troops are somewhat more likely to be white or black than their non-military peers. Whites are proportionately represented in the officer corps, and blacks are overrepresented, but their rate of overrepresentation has declined each year from 2004 to 2007. New recruits are also disproportionately likely to come from the South, which is in line with the history of South&#194;ern military tradition.</p><p><a href="http://www.heritage.org/Research/NationalSecurity/cda08-05.cfm" title="heritage.org">http://www.heritage.org/Research/NationalSecurity/cda08-05.cfm</a> [heritage.org]</p></div>
+	</div>
+
+	<div class="commentSub" id="comment_sub_25097471">
+<span class="nbutton"><p><b><a href="//politics.slashdot.org/comments.pl?sid=971001&amp;threshold=1&amp;commentsort=0&amp;mode=thread&amp;cid=25095825" onclick="return D2.selectParent(25095825)">Parent</a></b></p></span>
+</div>
+</div>
+
+<div id="replyto_25097471"></div>
+
+<ul id="group_25097471">
+	<li id="hiddens_25097471" class="hide"></li>
+</ul>
+
+</li></ul></li></ul></li><li id="tree_25095809" class="comment contain">
+<div id="comment_status_25095809" class="commentstatus"></div>
+<div id="comment_25095809" class="full">
+	<div id="comment_top_25095809" class="commentTop newcomment">
+		<div class="title">
+			<h4><a id="comment_link_25095809" name="comment_link_25095809" href="//politics.slashdot.org/comments.pl?sid=971001&amp;cid=25095809" onclick="return D2.setFocusComment(25095809)">Re:This Just In</a>
+
+
+		 	<span id="comment_score_25095809" class="score"> (<a href="#" onclick="getModalPrefs('modcommentlog', 'Moderation Comment Log', 25095809); return false">Score:5</a>, Insightful)</span></h4>
+		</div>
+		<div class="details">
+			<span class="by"><span class="byby">by </span><a href="//slashdot.org/~flyingsquid">flyingsquid <span class="uid">(813711)</span></a></span><span class="writes" style="display:none"> writes:</span> 
+			<span class="otherdetails" id="comment_otherdetails_25095809">		
+		on Sunday September 21 2008, @02:38PM (<a href="//politics.slashdot.org/comments.pl?sid=971001&amp;cid=25095809">#25095809</a>)
+		<small> </small>
+</span>
+		</div>
+	</div>
+	<div class="commentBody">
+		<div id="comment_body_25095809">Personally, I'm fed up with all this "sexist" bullshit that's surrounded her nomination. Sure, nominating a female VP is historic (kinda sorta, since the Dems did it 24 years ago). Are we suddenly supposed to stop asking questions about whether this woman is experienced enough or capable enough to assume the leadership of the United States of America? We are, after all, engaged in two major wars.<p> And yes, small-town hockey mom becomes vice presidential candidate, that's a good story. It's like a Hollywood script, or a fairy tale where the girl raised on a farm suddenly discovers she's really a princess. Yeah, it's a cute story, and I hate to see a good story spoiled, but our economy is facing the biggest crisis since the crash of 1929. I want somebody smart and experienced ready to take over if anything happens to McCain.
+</p><p>
+But Palin simply isn't qualified. Her performance during the ABC interview revealed that she had virtually no understanding of American foreign policy. Anyone who regularly reads a serious news magazine like The Economist or a major newspaper like the New York Times or Washington Post would be familiar with the questions that Gibson brought up- the Bush Doctrine, the right of America to strike in Pakistan- but Palin didn't seem to have ever thought about either before. Palin argued, in all seriousness, than being able to see Russia from Alaska somehow gave her some sort of experience. That's like arguing that you're ready to engage in negotiations with Putin because you saw Rocky Balboa fight Ivan Drago in "Rocky IV".</p><p>
+After the ABC interview- watch it on YouTube, if you haven't seen it already- only way you can argue that Palin can be taken seriously is to lower the bar. The only way you can argue that she is qualified is to argue that as a woman, she can't be expected to have the same understanding of foreign policy as the men. Now <i>that</i>is sexist.</p></div>
+	</div>
+
+	<div class="commentSub" id="comment_sub_25095809">
+<span class="nbutton"><p><b><a href="//politics.slashdot.org/comments.pl?sid=971001&amp;threshold=1&amp;commentsort=0&amp;mode=thread&amp;cid=25094483" onclick="return D2.selectParent(25094483)">Parent</a></b></p></span>
+</div>
+</div>
+
+<div id="replyto_25095809"></div>
+
+<ul id="group_25095809">
+	<li id="hiddens_25095809" class="hide"></li>
+</ul>
+
+</li></ul></li><li id="tree_25095435" class="comment">
+<div id="comment_status_25095435" class="commentstatus"></div>
+<div id="comment_25095435" class="hidden">
+</div>
+
+<div id="replyto_25095435"></div>
+
+<ul id="group_25095435">
+	<li id="hiddens_25095435" class="hide"></li>
+</ul>
+
+<ul id="commtree_25095435"><li id="tree_25096051" class="comment contain">
+<div id="comment_status_25096051" class="commentstatus"></div>
+<div id="comment_25096051" class="full">
+	<div id="comment_top_25096051" class="commentTop newcomment">
+		<div class="title">
+			<h4><a id="comment_link_25096051" name="comment_link_25096051" href="//politics.slashdot.org/comments.pl?sid=971001&amp;cid=25096051" onclick="return D2.setFocusComment(25096051)">Re:This Just In</a>
+
+
+		 	<span id="comment_score_25096051" class="score"> (<a href="#" onclick="getModalPrefs('modcommentlog', 'Moderation Comment Log', 25096051); return false">Score:5</a>, Informative)</span></h4>
+		</div>
+		<div class="details">
+			<span class="by"><span class="byby">by </span><a href="//slashdot.org/~flyingsquid">flyingsquid <span class="uid">(813711)</span></a></span><span class="writes" style="display:none"> writes:</span> 
+			<span class="otherdetails" id="comment_otherdetails_25096051">		
+		on Sunday September 21 2008, @03:01PM (<a href="//politics.slashdot.org/comments.pl?sid=971001&amp;cid=25096051">#25096051</a>)
+		<small> </small>
+</span>
+		</div>
+	</div>
+	<div class="commentBody">
+		<div id="comment_body_25096051"><blockquote><div><p>Sorry, but NO! There was no government business on her Yahoo account, so no law was broken.</p></div> </blockquote><p>
+
+Sorry, that's just not true.</p><p>Palin's Yahoo account contained emails with subject lines like "Court of Appeals / Executive Director Parole Board / Boards and Commissions", and "FW: DPS Personnel and Budget Issues", and "Draft letter to Governor Schwarzenegger / Container Tax". Check the wikileaks site, it's all laid out for anyone to see.</p><p>
+Palin's account does contain emails that relate to government business. Saying "there was no government business on her account" over, and over, and over, as people seem to be doing in this forum, doesn't change the facts. Although that seems to be a common tactic for their campaign these days: repeat the lie so many times that it starts to sound true, like Palin's "I told them thanks but no thanks" lie about the Bridge to Nowhere.</p></div>
+	</div>
+
+	<div class="commentSub" id="comment_sub_25096051">
+<span class="nbutton"><p><b><a href="//politics.slashdot.org/comments.pl?sid=971001&amp;threshold=1&amp;commentsort=0&amp;mode=thread&amp;cid=25095435" onclick="return D2.selectParent(25095435)">Parent</a></b></p></span>
+</div>
+</div>
+
+<div id="replyto_25096051"></div>
+
+<ul id="group_25096051">
+	<li id="hiddens_25096051" class="hide"></li>
+</ul>
+
+</li></ul></li></ul></li><li id="tree_25094351" class="comment">
+<div id="comment_status_25094351" class="commentstatus"></div>
+<div id="comment_25094351" class="hidden">
+</div>
+
+<div id="replyto_25094351"></div>
+
+<ul id="group_25094351">
+	<li id="hiddens_25094351" class="hide"></li>
+</ul>
+
+<ul id="commtree_25094351"><li id="tree_25094465" class="comment contain">
+<div id="comment_status_25094465" class="commentstatus"></div>
+<div id="comment_25094465" class="full">
+	<div id="comment_top_25094465" class="commentTop newcomment">
+		<div class="title">
+			<h4><a id="comment_link_25094465" name="comment_link_25094465" href="//politics.slashdot.org/comments.pl?sid=971001&amp;cid=25094465" onclick="return D2.setFocusComment(25094465)">Re:This Just In</a>
+
+
+		 	<span id="comment_score_25094465" class="score"> (<a href="#" onclick="getModalPrefs('modcommentlog', 'Moderation Comment Log', 25094465); return false">Score:5</a>, Informative)</span></h4>
+		</div>
+		<div class="details">
+			<span class="by"><span class="byby">by </span><a href="//slashdot.org/~Hadlock">Hadlock <span class="uid">(143607)</span></a></span><span class="writes" style="display:none"> writes:</span> 
+			<span class="otherdetails" id="comment_otherdetails_25094465">		
+		on Sunday September 21 2008, @12:43PM (<a href="//politics.slashdot.org/comments.pl?sid=971001&amp;cid=25094465">#25094465</a>)
+		<small><a href="http://www.nearlydeaf.com/" title="http://www.nearlydeaf.com/" class="user_homepage_display">Homepage</a>
+<a href="//slashdot.org/~Hadlock/journal/" title="Friday June 16 2006, @12:24AM" class="user_journal_display">Journal</a> </small>
+</span>
+		</div>
+	</div>
+	<div class="commentBody">
+		<div id="comment_body_25094465"><p>Email is a lot easier to record? There's always been a divide between the written and spoken word, from business deals (oral contract is only binding up to $500 in Florida), to courtroom hearings (hearsay, your word vs. mine, etc). You can request copies of government memos; email is electronic mail; it stands to reason that any official written communication should be kept. Lots of meetings are held behind closed doors because there's no written record for public consumption.<br>
+&nbsp; <br>There's lots of other cases where emails are available for public consumption; for instance emails back to 1996 for the Seattle metro service are all available for review. On the flip side you have a matter of public record, historical records for data mining, and more. Imagine how boring history would have been if we didn't have access to Benjamin Franklin, George Washington, Abraham Lincoln's personal letters today?<br>
+&nbsp; <br>Governors aren't required to record their telephone conversations, although I know Nixon was a fan of doing so - which is partially what got him in trouble in the first place. I'm not sure what the outcome was in court about whether those are considered personal or not. I know in most states both parties have to be aware of the conversation being recorded. In Virginia(?) only one party is required to know that the conversation is being recorded.</p></div>
+	</div>
+
+	<div class="commentSub" id="comment_sub_25094465">
+<span class="nbutton"><p><b><a href="//politics.slashdot.org/comments.pl?sid=971001&amp;threshold=1&amp;commentsort=0&amp;mode=thread&amp;cid=25094351" onclick="return D2.selectParent(25094351)">Parent</a></b></p></span>
+</div>
+</div>
+
+<div id="replyto_25094465"></div>
+
+<ul id="group_25094465">
+	<li id="hiddens_25094465" class="hide"></li>
+</ul>
+
+</li></ul></li><li id="tree_25094399" class="comment">
+<div id="comment_status_25094399" class="commentstatus"></div>
+<div id="comment_25094399" class="hidden">
+</div>
+
+<div id="replyto_25094399"></div>
+
+<ul id="group_25094399">
+	<li id="hiddens_25094399" class="hide"></li>
+</ul>
+
+<ul id="commtree_25094399"><li id="tree_25094869" class="comment contain">
+<div id="comment_status_25094869" class="commentstatus"></div>
+<div id="comment_25094869" class="full">
+	<div id="comment_top_25094869" class="commentTop newcomment">
+		<div class="title">
+			<h4><a id="comment_link_25094869" name="comment_link_25094869" href="//politics.slashdot.org/comments.pl?sid=971001&amp;cid=25094869" onclick="return D2.setFocusComment(25094869)">Because Yahoo is not for gov business.</a>
+
+
+		 	<span id="comment_score_25094869" class="score"> (<a href="#" onclick="getModalPrefs('modcommentlog', 'Moderation Comment Log', 25094869); return false">Score:5</a>, Insightful)</span></h4>
+		</div>
+		<div class="details">
+			<span class="by"><span class="byby">by </span><a href="//slashdot.org/~drerwk">drerwk <span class="uid">(695572)</span></a></span><span class="writes" style="display:none"> writes:</span> 
+			<span class="otherdetails" id="comment_otherdetails_25094869">		
+		on Sunday September 21 2008, @01:19PM (<a href="//politics.slashdot.org/comments.pl?sid=971001&amp;cid=25094869">#25094869</a>)
+		<small><a href="http://drewk.net/" title="http://drewk.net/" class="user_homepage_display" rel="nofollow">Homepage</a> </small>
+</span>
+		</div>
+	</div>
+	<div class="commentBody">
+		<div id="comment_body_25094869">Do you know that she seems to have been using the account for gov business? No matter what the kid said or saw there is more to it than you seem to know.<br> <br>
+<a href="http://voices.washingtonpost.com/the-trail/2008/09/17/palins_yahoo_account_hacked.html" title="washingtonpost.com" rel="nofollow">http://voices.washingtonpost.com/the-trail/2008/09/17/palins_yahoo_account_hacked.html</a> [washingtonpost.com] <p><div class="quote"><p>Among the e-mails released as part of the records request in June were several from Frye asking a state official whether private e-mail accounts and messages sent to BlackBerry devices are immune to subpoena, then reporting the answer to the governor and her husband, Todd, who also uses a Yahoo! mail address.</p></div><p>
+Asking if Yahoo accounts are subject to subpoena and relaying the answer to the governor suggests to me that the accounts were not simple private email accounts.</p></div>
+	</div>
+
+	<div class="commentSub" id="comment_sub_25094869">
+<span class="nbutton"><p><b><a href="//politics.slashdot.org/comments.pl?sid=971001&amp;threshold=1&amp;commentsort=0&amp;mode=thread&amp;cid=25094399" onclick="return D2.selectParent(25094399)">Parent</a></b></p></span>
+</div>
+</div>
+
+<div id="replyto_25094869"></div>
+
+<ul id="group_25094869">
+	<li id="hiddens_25094869" class="hide"></li>
+</ul>
+
+<ul id="commtree_25094869"><li id="tree_25095589" class="comment">
+<div id="comment_status_25095589" class="commentstatus"></div>
+<div id="comment_25095589" class="hidden">
+</div>
+
+<div id="replyto_25095589"></div>
+
+<ul id="group_25095589">
+	<li id="hiddens_25095589" class="hide"></li>
+</ul>
+
+<ul id="commtree_25095589"><li id="tree_25096419" class="comment contain">
+<div id="comment_status_25096419" class="commentstatus"></div>
+<div id="comment_25096419" class="full">
+	<div id="comment_top_25096419" class="commentTop newcomment">
+		<div class="title">
+			<h4><a id="comment_link_25096419" name="comment_link_25096419" href="//politics.slashdot.org/comments.pl?sid=971001&amp;cid=25096419" onclick="return D2.setFocusComment(25096419)">Re:Seems != Guilty Even for a Republican</a>
+
+
+		 	<span id="comment_score_25096419" class="score"> (<a href="#" onclick="getModalPrefs('modcommentlog', 'Moderation Comment Log', 25096419); return false">Score:5</a>, Insightful)</span></h4>
+		</div>
+		<div class="details">
+			<span class="by"><span class="byby">by </span><a href="//slashdot.org/~Rob+the+Bold">Rob the Bold <span class="uid">(788862)</span></a></span><span class="writes" style="display:none"> writes:</span> 
+			<span class="otherdetails" id="comment_otherdetails_25096419">		
+		on Sunday September 21 2008, @03:43PM (<a href="//politics.slashdot.org/comments.pl?sid=971001&amp;cid=25096419">#25096419</a>)
+		<small> </small>
+</span>
+		</div>
+	</div>
+	<div class="commentBody">
+		<div id="comment_body_25096419"><p><div class="quote"><p>Please have the courtesy of reserving judgement (sic) until such a time all the facts are in</p></div><p>
+Request denied.  Slashdot is not a court of law, and judgments and opinions expressed by its membership are not binding on anyone.  As such they may be made and expressed with too few, just the right amount, or too many facts.</p></div>
+	</div>
+
+	<div class="commentSub" id="comment_sub_25096419">
+<span class="nbutton"><p><b><a href="//politics.slashdot.org/comments.pl?sid=971001&amp;threshold=1&amp;commentsort=0&amp;mode=thread&amp;cid=25095589" onclick="return D2.selectParent(25095589)">Parent</a></b></p></span>
+</div>
+</div>
+
+<div id="replyto_25096419"></div>
+
+<ul id="group_25096419">
+	<li id="hiddens_25096419" class="hide"></li>
+</ul>
+
+</li></ul></li></ul></li><li id="tree_25095141" class="comment contain">
+<div id="comment_status_25095141" class="commentstatus"></div>
+<div id="comment_25095141" class="full">
+	<div id="comment_top_25095141" class="commentTop newcomment">
+		<div class="title">
+			<h4><a id="comment_link_25095141" name="comment_link_25095141" href="//politics.slashdot.org/comments.pl?sid=971001&amp;cid=25095141" onclick="return D2.setFocusComment(25095141)">Re:Why can't a government employee use Yahoo?</a>
+
+
+		 	<span id="comment_score_25095141" class="score"> (<a href="#" onclick="getModalPrefs('modcommentlog', 'Moderation Comment Log', 25095141); return false">Score:5</a>, Informative)</span></h4>
+		</div>
+		<div class="details">
+			<span class="by"><span class="byby">by </span><a href="//slashdot.org/~Stalyn">Stalyn <span class="uid">(662)</span></a></span><span class="writes" style="display:none"> writes:</span> 
+			<span class="otherdetails" id="comment_otherdetails_25095141">		
+		on Sunday September 21 2008, @01:40PM (<a href="//politics.slashdot.org/comments.pl?sid=971001&amp;cid=25095141">#25095141</a>)
+		<small><a href="http://slashdot.org/~Stalyn/journal" title="http://slashdot.org/~Stalyn/journal" class="user_homepage_display">Homepage</a>
+<a href="//slashdot.org/~Stalyn/journal/" title="Sunday June 19 2005, @05:34PM" class="user_journal_display">Journal</a> </small>
+</span>
+		</div>
+	</div>
+	<div class="commentBody">
+		<div id="comment_body_25095141"><p><a href="http://www.adn.com/front/story/526281.html" title="adn.com">Actually she was using her yahoo email accounts to conduct state business.</a> [adn.com]</p></div>
+	</div>
+
+	<div class="commentSub" id="comment_sub_25095141">
+<span class="nbutton"><p><b><a href="//politics.slashdot.org/comments.pl?sid=971001&amp;threshold=1&amp;commentsort=0&amp;mode=thread&amp;cid=25094399" onclick="return D2.selectParent(25094399)">Parent</a></b></p></span>
+</div>
+</div>
+
+<div id="replyto_25095141"></div>
+
+<ul id="group_25095141">
+	<li id="hiddens_25095141" class="hide"></li>
+</ul>
+
+<ul id="commtree_25095141"><li id="tree_25095861" class="comment">
+<div id="comment_status_25095861" class="commentstatus"></div>
+<div id="comment_25095861" class="hidden">
+</div>
+
+<div id="replyto_25095861"></div>
+
+<ul id="group_25095861">
+	<li id="hiddens_25095861" class="hide"></li>
+</ul>
+
+<ul id="commtree_25095861"><li id="tree_25096493" class="comment contain">
+<div id="comment_status_25096493" class="commentstatus"></div>
+<div id="comment_25096493" class="full">
+	<div id="comment_top_25096493" class="commentTop newcomment">
+		<div class="title">
+			<h4><a id="comment_link_25096493" name="comment_link_25096493" href="//politics.slashdot.org/comments.pl?sid=971001&amp;cid=25096493" onclick="return D2.setFocusComment(25096493)">Re:Actually No</a>
+
+
+		 	<span id="comment_score_25096493" class="score"> (<a href="#" onclick="getModalPrefs('modcommentlog', 'Moderation Comment Log', 25096493); return false">Score:5</a>, Informative)</span></h4>
+		</div>
+		<div class="details">
+			<span class="by"><span class="byby">by </span><a href="//slashdot.org/~Stalyn">Stalyn <span class="uid">(662)</span></a></span><span class="writes" style="display:none"> writes:</span> 
+			<span class="otherdetails" id="comment_otherdetails_25096493">		
+		on Sunday September 21 2008, @03:51PM (<a href="//politics.slashdot.org/comments.pl?sid=971001&amp;cid=25096493">#25096493</a>)
+		<small><a href="http://slashdot.org/~Stalyn/journal" title="http://slashdot.org/~Stalyn/journal" class="user_homepage_display">Homepage</a>
+<a href="//slashdot.org/~Stalyn/journal/" title="Sunday June 19 2005, @05:34PM" class="user_journal_display">Journal</a> </small>
+</span>
+		</div>
+	</div>
+	<div class="commentBody">
+		<div id="comment_body_25096493"><p>Heh.</p><blockquote><div><p>In response to similar but separate public records requests, McLeod and Henning this summer received four banker boxes of e-mail and telephone records for two Palin aides: Frank Bailey and Ivy Frye. Henning was operating on behalf of the Valley group Last Frontier Foundation, which lists property rights and public records as among its core issues on its Web site.</p><p><nobr> <wbr></nobr>...<br>As far as McLeod can tell, <b>all but one of the e-mails to the governor used her private e-mail address.</b> The one time an aide e-mailed the governor's state account, he was reminded not to.</p><p>"Frank, This is not the Governor's personal e-mail account," an assistant to Palin wrote to Bailey in February.</p><p>"Whoops~!" Bailey responded in an e-mail.</p><p>The state withheld about 1,100 e-mails, citing exemptions for deliberative process, executive privilege, attorney/client privilege, privacy and personnel. If McLeod's appeal fails, Henning said he's going to take the matter to court.</p></div></blockquote></div>
+	</div>
+
+	<div class="commentSub" id="comment_sub_25096493">
+<span class="nbutton"><p><b><a href="//politics.slashdot.org/comments.pl?sid=971001&amp;threshold=1&amp;commentsort=0&amp;mode=thread&amp;cid=25095861" onclick="return D2.selectParent(25095861)">Parent</a></b></p></span>
+</div>
+</div>
+
+<div id="replyto_25096493"></div>
+
+<ul id="group_25096493">
+	<li id="hiddens_25096493" class="hide"></li>
+</ul>
+
+</li></ul></li></ul></li><li id="tree_25094511" class="comment">
+<div id="comment_status_25094511" class="commentstatus"></div>
+<div id="comment_25094511" class="hidden">
+</div>
+
+<div id="replyto_25094511"></div>
+
+<ul id="group_25094511">
+	<li id="hiddens_25094511" class="hide"></li>
+</ul>
+
+<ul id="commtree_25094511"><li id="tree_25094803" class="comment">
+<div id="comment_status_25094803" class="commentstatus"></div>
+<div id="comment_25094803" class="hidden">
+</div>
+
+<div id="replyto_25094803"></div>
+
+<ul id="group_25094803">
+	<li id="hiddens_25094803" class="hide"></li>
+</ul>
+
+<ul id="commtree_25094803"><li id="tree_25094881" class="comment contain">
+<div id="comment_status_25094881" class="commentstatus"></div>
+<div id="comment_25094881" class="full">
+	<div id="comment_top_25094881" class="commentTop newcomment">
+		<div class="title">
+			<h4><a id="comment_link_25094881" name="comment_link_25094881" href="//politics.slashdot.org/comments.pl?sid=971001&amp;cid=25094881" onclick="return D2.setFocusComment(25094881)">Re:Why can't a government employee use Yahoo?</a>
+
+
+		 	<span id="comment_score_25094881" class="score"> (<a href="#" onclick="getModalPrefs('modcommentlog', 'Moderation Comment Log', 25094881); return false">Score:5</a>, Informative)</span></h4>
+		</div>
+		<div class="details">
+			<span class="by"><span class="byby">by </span><a href="//slashdot.org/~Jack9">Jack9 <span class="uid">(11421)</span></a></span><span class="writes" style="display:none"> writes:</span> 
+			<span class="otherdetails" id="comment_otherdetails_25094881">		 &lt;<a href="mailto:Jack9%40NOsPAm.slashdot.jack9.org">Jack9@NOsPAm.slashdot.jack9.org</a>&gt;
+		on Sunday September 21 2008, @01:19PM (<a href="//politics.slashdot.org/comments.pl?sid=971001&amp;cid=25094881">#25094881</a>)
+		<small> </small>
+</span>
+		</div>
+	</div>
+	<div class="commentBody">
+		<div id="comment_body_25094881"><p>Most of the newsbits explicitly mention that "Governor Palin has come under media criticism in the past week for using private email accounts to avoid Alaskan freedom of information laws." Neither of you seem to have even read the original story?!</p></div>
+	</div>
+
+	<div class="commentSub" id="comment_sub_25094881">
+<span class="nbutton"><p><b><a href="//politics.slashdot.org/comments.pl?sid=971001&amp;threshold=1&amp;commentsort=0&amp;mode=thread&amp;cid=25094803" onclick="return D2.selectParent(25094803)">Parent</a></b></p></span>
+</div>
+</div>
+
+<div id="replyto_25094881"></div>
+
+<ul id="group_25094881">
+	<li id="hiddens_25094881" class="hide"></li>
+</ul>
+
+</li><li id="tree_25094965" class="comment contain">
+<div id="comment_status_25094965" class="commentstatus"></div>
+<div id="comment_25094965" class="full">
+	<div id="comment_top_25094965" class="commentTop newcomment">
+		<div class="title">
+			<h4><a id="comment_link_25094965" name="comment_link_25094965" href="//politics.slashdot.org/comments.pl?sid=971001&amp;cid=25094965" onclick="return D2.setFocusComment(25094965)">Re:Why can't a government employee use Yahoo?</a>
+
+
+		 	<span id="comment_score_25094965" class="score"> (<a href="#" onclick="getModalPrefs('modcommentlog', 'Moderation Comment Log', 25094965); return false">Score:5</a>, Insightful)</span></h4>
+		</div>
+		<div class="details">
+			<span class="by"><span class="byby">by </span><a href="//slashdot.org/~atraintocry">atraintocry <span class="uid">(1183485)</span></a></span><span class="writes" style="display:none"> writes:</span> 
+			<span class="otherdetails" id="comment_otherdetails_25094965">		
+		on Sunday September 21 2008, @01:28PM (<a href="//politics.slashdot.org/comments.pl?sid=971001&amp;cid=25094965">#25094965</a>)
+		<small> </small>
+</span>
+		</div>
+	</div>
+	<div class="commentBody">
+		<div id="comment_body_25094965">Let's say that hypothetically, she was discussing government business on a Yahoo! account. One later crime committed against her does not mean she gets a pass on her own. Plus, she might be Vice President. Hell, maybe even President. So it does matter a bit more than what some punk does.</div>
+	</div>
+
+	<div class="commentSub" id="comment_sub_25094965">
+<span class="nbutton"><p><b><a href="//politics.slashdot.org/comments.pl?sid=971001&amp;threshold=1&amp;commentsort=0&amp;mode=thread&amp;cid=25094803" onclick="return D2.selectParent(25094803)">Parent</a></b></p></span>
+</div>
+</div>
+
+<div id="replyto_25094965"></div>
+
+<ul id="group_25094965">
+	<li id="hiddens_25094965" class="hide"></li>
+</ul>
+
+</li><li id="tree_25094923" class="comment">
+<div id="comment_status_25094923" class="commentstatus"></div>
+<div id="comment_25094923" class="hidden">
+</div>
+
+<div id="replyto_25094923"></div>
+
+<ul id="group_25094923">
+	<li id="hiddens_25094923" class="hide"></li>
+</ul>
+
+<ul id="commtree_25094923"><li id="tree_25095303" class="comment">
+<div id="comment_status_25095303" class="commentstatus"></div>
+<div id="comment_25095303" class="hidden">
+</div>
+
+<div id="replyto_25095303"></div>
+
+<ul id="group_25095303">
+	<li id="hiddens_25095303" class="hide"></li>
+</ul>
+
+<ul id="commtree_25095303"><li id="tree_25096783" class="comment contain">
+<div id="comment_status_25096783" class="commentstatus"></div>
+<div id="comment_25096783" class="full">
+	<div id="comment_top_25096783" class="commentTop newcomment">
+		<div class="title">
+			<h4><a id="comment_link_25096783" name="comment_link_25096783" href="//politics.slashdot.org/comments.pl?sid=971001&amp;cid=25096783" onclick="return D2.setFocusComment(25096783)">Re:Why can't a government employee use Yahoo?</a>
+
+
+		 	<span id="comment_score_25096783" class="score"> (<a href="#" onclick="getModalPrefs('modcommentlog', 'Moderation Comment Log', 25096783); return false">Score:5</a>, Insightful)</span></h4>
+		</div>
+		<div class="details">
+			<span class="by"><span class="byby">by </span><a href="//slashdot.org/~db32">db32 <span class="uid">(862117)</span></a></span><span class="writes" style="display:none"> writes:</span> 
+			<span class="otherdetails" id="comment_otherdetails_25096783">		
+		on Sunday September 21 2008, @04:18PM (<a href="//politics.slashdot.org/comments.pl?sid=971001&amp;cid=25096783">#25096783</a>)
+		<small><a href="//slashdot.org/~db32/journal/" title="Thursday February 09 2006, @01:35PM" class="user_journal_display">Journal</a> </small>
+</span>
+		</div>
+	</div>
+	<div class="commentBody">
+		<div id="comment_body_25096783">I can't believe this shit is modded insightful.  The judge even admonished the Palins for trying to destroy this guys life.  Most of the claims are pretty much hearsay, and at least two of them you cite have been explained.  Wooten may not be a great guy, but the shit her family has spewed is a gross over exaggeration.  All of her claims of "being tough on corruption" are bullshit.  She took tons of money from the bridge to nowhere project.  McCain HIMSELF even called her projects out specifically when he was attacking pork spending (wonder why the sudden change of heart...God damned sellout used to have at least some ethics and purpose).  She has a tremendous history of abuse of power with this, her dear ol "shadow governor" hubby who seems terribly involved in state business, and then there is the numerous other cases of her firing everyone in her path that didn't do her bidding.  She is right in line with the Bush/Cheney method of 0 accountability, above the law, I do what I want style government.<br> <br>
+Then there is the issue of her being against teaching evolution.  Or the issue of her refusing to fund sex ed classes and demanding abstinance only education (I bet her daughter would have prefered to know how to use a condom about now).  We also have her silly "ebay" jet crap...which didn't sell on ebay and was prompty sold to another of her Republican cohorts in a no bid sale for less than market value.<br> <br>
+That crazy double talking bitch has no place in our government.  And for all you who think Obama's minister was a wackjob, you should check out Palin's.  I think the crap Obama's pastor said was pretty bad, but chasing witches out of town just takes the fucking cake.<br> <br>
+It is on the news because she is a stark raving mad, clueless, and evil bitch of a woman who will do anything to get her way and dodge any kind of accountability.  To include the SAME GOD DAMNED STUNT that this administration pulled by illegally outsourcing emails on government business to avoid the archival requirements.  All of this from the party that expects me to believe "if you have done nothing wrong you have nothing to hide" applies to everyone but them.</div>
+	</div>
+
+	<div class="commentSub" id="comment_sub_25096783">
+<span class="nbutton"><p><b><a href="//politics.slashdot.org/comments.pl?sid=971001&amp;threshold=1&amp;commentsort=0&amp;mode=thread&amp;cid=25095303" onclick="return D2.selectParent(25095303)">Parent</a></b></p></span>
+</div>
+</div>
+
+<div id="replyto_25096783"></div>
+
+<ul id="group_25096783">
+	<li id="hiddens_25096783" class="hide"></li>
+</ul>
+
+</li></ul></li></ul></li></ul></li></ul></li></ul></li><li id="tree_25094393" class="comment">
+<div id="comment_status_25094393" class="commentstatus"></div>
+<div id="comment_25094393" class="hidden">
+</div>
+
+<div id="replyto_25094393"></div>
+
+<ul id="group_25094393">
+	<li id="hiddens_25094393" class="hide"></li>
+</ul>
+
+<ul id="commtree_25094393"><li id="tree_25094891" class="comment contain">
+<div id="comment_status_25094891" class="commentstatus"></div>
+<div id="comment_25094891" class="full">
+	<div id="comment_top_25094891" class="commentTop newcomment">
+		<div class="title">
+			<h4><a id="comment_link_25094891" name="comment_link_25094891" href="//politics.slashdot.org/comments.pl?sid=971001&amp;cid=25094891" onclick="return D2.setFocusComment(25094891)">Re:This Just In</a>
+
+
+		 	<span id="comment_score_25094891" class="score"> (<a href="#" onclick="getModalPrefs('modcommentlog', 'Moderation Comment Log', 25094891); return false">Score:5</a>, Insightful)</span></h4>
+		</div>
+		<div class="details">
+			<span class="by"><span class="byby">by </span><a href="//slashdot.org/~_KiTA_">_KiTA_ <span class="uid">(241027)</span></a></span><span class="writes" style="display:none"> writes:</span> 
+			<span class="otherdetails" id="comment_otherdetails_25094891">		
+		on Sunday September 21 2008, @01:21PM (<a href="//politics.slashdot.org/comments.pl?sid=971001&amp;cid=25094891">#25094891</a>)
+		<small><a href="http://www.mcantrell.org/" title="http://www.mcantrell.org/" class="user_homepage_display">Homepage</a> </small>
+</span>
+		</div>
+	</div>
+	<div class="commentBody">
+		<div id="comment_body_25094891"><p><div class="quote"><p>She wasn't using the account for gov business, at least not based on what was posted on wikileaks, or according to the purported "Hacker". It was personal e-mail, in some cases about how she and others were being treated personally in the political arena, but not anything related to official government business.</p><p>As Officer Bar Brady says "Nothin to see here, move along now".</p></div><p>Yeah, the emails with "CONFIDENTIAL" in the subject line from other officials in her administration really screamed "Not official government business" to me, too.</p></div>
+	</div>
+
+	<div class="commentSub" id="comment_sub_25094891">
+<span class="nbutton"><p><b><a href="//politics.slashdot.org/comments.pl?sid=971001&amp;threshold=1&amp;commentsort=0&amp;mode=thread&amp;cid=25094393" onclick="return D2.selectParent(25094393)">Parent</a></b></p></span>
+</div>
+</div>
+
+<div id="replyto_25094891"></div>
+
+<ul id="group_25094891">
+	<li id="hiddens_25094891" class="hide"></li>
+</ul>
+
+</li><li id="tree_25095299" class="comment contain">
+<div id="comment_status_25095299" class="commentstatus"></div>
+<div id="comment_25095299" class="full">
+	<div id="comment_top_25095299" class="commentTop newcomment">
+		<div class="title">
+			<h4><a id="comment_link_25095299" name="comment_link_25095299" href="//politics.slashdot.org/comments.pl?sid=971001&amp;cid=25095299" onclick="return D2.setFocusComment(25095299)">Re:This Just In</a>
+
+
+		 	<span id="comment_score_25095299" class="score"> (<a href="#" onclick="getModalPrefs('modcommentlog', 'Moderation Comment Log', 25095299); return false">Score:5</a>, Informative)</span></h4>
+		</div>
+		<div class="details">
+			<span class="by"><span class="byby">by </span><a href="//slashdot.org/~flyingsquid">flyingsquid <span class="uid">(813711)</span></a></span><span class="writes" style="display:none"> writes:</span> 
+			<span class="otherdetails" id="comment_otherdetails_25095299">		
+		on Sunday September 21 2008, @01:55PM (<a href="//politics.slashdot.org/comments.pl?sid=971001&amp;cid=25095299">#25095299</a>)
+		<small> </small>
+</span>
+		</div>
+	</div>
+	<div class="commentBody">
+		<div id="comment_body_25095299"><blockquote><div><p>She wasn't using the account for gov business, at least not based on what was posted on wikileaks, or according to the purported "Hacker".</p></div></blockquote><p>
+That's actually not true. If you take the time to look at the information posted on wikileaks, you'll notice a number of emails have titles such as "Draft letter to Governor Schwarzenegger / Container Tax", "Court of Appeals / Executive Director Parole Board / Boards and Commissions", "Re: DPS Personnel and Budget Issues", "Court of Appeals Nominations", "FW: CONFIDENTIAL Ethics Matter". Those definitely sound like official state business, although it's impossible to know now that the account has been deleted.</p><p>
+As for the lack of any sort of incriminating information, what does that prove? <i>It's not an official email account.</i> There's no requirement that the information is archived; if any of the emails did contain information that would provide evidence of wrongdoing, Palin can simply delete them at any time. That's the issue: Palin promised transparency in government, but she's done the opposite, and has made herself unaccountable for her actions as Governor.</p><p>
+
+For the complete list of emails, see: <a href="http://www.wikileaks.org/wiki/Sarah_Palin_Yahoo_inbox_2008i" title="wikileaks.org">http://www.wikileaks.org/wiki/Sarah_Palin_Yahoo_inbox_2008i</a> [wikileaks.org]</p></div>
+	</div>
+
+	<div class="commentSub" id="comment_sub_25095299">
+<span class="nbutton"><p><b><a href="//politics.slashdot.org/comments.pl?sid=971001&amp;threshold=1&amp;commentsort=0&amp;mode=thread&amp;cid=25094393" onclick="return D2.selectParent(25094393)">Parent</a></b></p></span>
+</div>
+</div>
+
+<div id="replyto_25095299"></div>
+
+<ul id="group_25095299">
+	<li id="hiddens_25095299" class="hide"></li>
+</ul>
+
+<ul id="commtree_25095299"><li id="tree_25095607" class="comment contain">
+<div id="comment_status_25095607" class="commentstatus"></div>
+<div id="comment_25095607" class="full">
+	<div id="comment_top_25095607" class="commentTop newcomment">
+		<div class="title">
+			<h4><a id="comment_link_25095607" name="comment_link_25095607" href="//politics.slashdot.org/comments.pl?sid=971001&amp;cid=25095607" onclick="return D2.setFocusComment(25095607)">Re:This Just In</a>
+
+
+		 	<span id="comment_score_25095607" class="score"> (<a href="#" onclick="getModalPrefs('modcommentlog', 'Moderation Comment Log', 25095607); return false">Score:5</a>, Funny)</span></h4>
+		</div>
+		<div class="details">
+			<span class="by"><span class="byby">by </span><a href="//slashdot.org/~Jah-Wren+Ryel">Jah-Wren Ryel <span class="uid">(80510)</span></a></span><span class="writes" style="display:none"> writes:</span> 
+			<span class="otherdetails" id="comment_otherdetails_25095607">		
+		on Sunday September 21 2008, @02:22PM (<a href="//politics.slashdot.org/comments.pl?sid=971001&amp;cid=25095607">#25095607</a>)
+		<small> </small>
+</span>
+		</div>
+	</div>
+	<div class="commentBody">
+		<div id="comment_body_25095607"><p><div class="quote"><p>That's actually not true. If you take the time to look at the information posted on wikileaks, you'll notice a number of emails have titles such as "Draft letter to Governor Schwarzenegger / Container Tax", "Court of Appeals / Executive Director Parole Board / Boards and Commissions", "Re: DPS Personnel and Budget Issues", "Court of Appeals Nominations", "FW: CONFIDENTIAL Ethics Matter".</p></div><p>No, no, no...<br>Those weren't actual messages about government business.<br>They were just spam messages with misleading subject lines crafted to trick a politician into reading them.<br>Governors on yahoo get them ALL the time!<br>You should see the spam she gets now that she is a vp candidate - lots of messages that appear to be from Karl Rove, Dick Cheney, Paul Wolfowitz and Jerry Falwell and Bob Dole.</p><p>But open them up, and they are just advertisements for viagra.  Wait a second, the ones from Bob Dole probably really are from him.</p></div>
+	</div>
+
+	<div class="commentSub" id="comment_sub_25095607">
+<span class="nbutton"><p><b><a href="//politics.slashdot.org/comments.pl?sid=971001&amp;threshold=1&amp;commentsort=0&amp;mode=thread&amp;cid=25095299" onclick="return D2.selectParent(25095299)">Parent</a></b></p></span>
+</div>
+</div>
+
+<div id="replyto_25095607"></div>
+
+<ul id="group_25095607">
+	<li id="hiddens_25095607" class="hide"></li>
+</ul>
+
+</li></ul></li></ul></li><li id="tree_25094541" class="comment">
+<div id="comment_status_25094541" class="commentstatus"></div>
+<div id="comment_25094541" class="hidden">
+</div>
+
+<div id="replyto_25094541"></div>
+
+<ul id="group_25094541">
+	<li id="hiddens_25094541" class="hide"></li>
+</ul>
+
+<ul id="commtree_25094541"><li id="tree_25095897" class="comment contain">
+<div id="comment_status_25095897" class="commentstatus"></div>
+<div id="comment_25095897" class="full">
+	<div id="comment_top_25095897" class="commentTop newcomment">
+		<div class="title">
+			<h4><a id="comment_link_25095897" name="comment_link_25095897" href="//politics.slashdot.org/comments.pl?sid=971001&amp;cid=25095897" onclick="return D2.setFocusComment(25095897)">Re:This Just In</a>
+
+
+		 	<span id="comment_score_25095897" class="score"> (<a href="#" onclick="getModalPrefs('modcommentlog', 'Moderation Comment Log', 25095897); return false">Score:5</a>, Informative)</span></h4>
+		</div>
+		<div class="details">
+			<span class="by"><span class="byby">by </span><a href="//slashdot.org/~Jah-Wren+Ryel">Jah-Wren Ryel <span class="uid">(80510)</span></a></span><span class="writes" style="display:none"> writes:</span> 
+			<span class="otherdetails" id="comment_otherdetails_25095897">		
+		on Sunday September 21 2008, @02:46PM (<a href="//politics.slashdot.org/comments.pl?sid=971001&amp;cid=25095897">#25095897</a>)
+		<small> </small>
+</span>
+		</div>
+	</div>
+	<div class="commentBody">
+		<div id="comment_body_25095897"><p><div class="quote"><p>But she didn't conduct any official business with the yahoo account! All that was in it were family pictures and emails to her friends.</p></div><p>Really?  How do you know that?<br>Do <a href="http://www.wikileaks.org/wiki/Sarah_Palin_Yahoo_inbox_2008" title="wikileaks.org">these sound like personal emails</a> [wikileaks.org] to you?</p><p>Subject: Draft letter to Governor Schwarzenegger / Container Tax<br>From: Ruaro, Randall P (Deputy Chief of Staff)</p><p>Subject: FW: Motor Fuel Tax Suspension<br>From: Meghan Stapleton (Press Secretary)</p><p>Subject: RE: Using Royalty Oil to Lower the Cost of Fuel for Alaskans<br>From: Nizich, Michael A (Chief of Staff)</p><p>Subject: Court of Appeals / Executive Director Parole Board / Boards and Commissions<br>From: Ruaro, Randall P (Deputy Chief of Staff)</p><p>Subject: RE: Please approve<br>From: Ruaro, Randall P (Deputy Chief of Staff)</p><p>Subject: Rural Wireless Service<br>From: McBride, Rhonda (Rural Advisor)</p><p>Subject: FW: DPS Employee Draft<br>From: Ruaro, Randall P (Deputy Chief of Staff)</p><p>Subject: Re: DPS Personnel and Budget Issues<br>From: McAllister, William D (Communciations Director)</p><p>Subject: FW: DPS Personnel and Budget Issues<br>From: Ruaro, Randall P (Deputy Chief of Staff)</p><p>Subject: Court of Appeals Nominations<br>From: Ruaro, Randall P (Deputy Chief of Staff)</p><p>Subject: another records request<br>From: Nizich, Michael A (Chief of Staff)</p><p>Subject: RE: Scheduling - Week of 08.10.08<br>From: Mason, Janice L (Scheduling Assistant</p><p>Subject: FW: Capitalizing on coal reserves, Crow Tribe strikes deal for $7B<br>From: Nizich, Michael A (Chief of Staff)</p><p>Subject: Status report<br>From: Ruaro, Randall P (Deputy Chief of Staff)</p><p>Subject: FW: Special session press release<br>From: Nizich, Michael A (Chief of Staff)</p><p>Subject: Followup.<br>From: Colberg, Talis J (Alaska Attorney General)</p><p>Subject: FW: CONFIDENTIAL Ethics Matter<br>From: Nizich, Michael A (Chief of Staff)</p></div>
+	</div>
+
+	<div class="commentSub" id="comment_sub_25095897">
+<span class="nbutton"><p><b><a href="//politics.slashdot.org/comments.pl?sid=971001&amp;threshold=1&amp;commentsort=0&amp;mode=thread&amp;cid=25094541" onclick="return D2.selectParent(25094541)">Parent</a></b></p></span>
+</div>
+</div>
+
+<div id="replyto_25095897"></div>
+
+<ul id="group_25095897">
+	<li id="hiddens_25095897" class="hide"></li>
+</ul>
+
+</li><li id="tree_25096185" class="comment contain">
+<div id="comment_status_25096185" class="commentstatus"></div>
+<div id="comment_25096185" class="full">
+	<div id="comment_top_25096185" class="commentTop newcomment">
+		<div class="title">
+			<h4><a id="comment_link_25096185" name="comment_link_25096185" href="//politics.slashdot.org/comments.pl?sid=971001&amp;cid=25096185" onclick="return D2.setFocusComment(25096185)">Re:This Just In</a>
+
+
+		 	<span id="comment_score_25096185" class="score"> (<a href="#" onclick="getModalPrefs('modcommentlog', 'Moderation Comment Log', 25096185); return false">Score:5</a>, Informative)</span></h4>
+		</div>
+		<div class="details">
+			<span class="by"><span class="byby">by </span><a href="//slashdot.org/~laird">laird <span class="uid">(2705)</span></a></span><span class="writes" style="display:none"> writes:</span> 
+			<span class="otherdetails" id="comment_otherdetails_25096185">		 &lt;<a href="mailto:lairdNO%40SPAMpando.com">lairdNO@SPAMpando.com</a>&gt;
+		on Sunday September 21 2008, @03:18PM (<a href="//politics.slashdot.org/comments.pl?sid=971001&amp;cid=25096185">#25096185</a>)
+		<small><a href="http://www.pandonetworks.com/" title="http://www.pandonetworks.com/" class="user_homepage_display">Homepage</a>
+<a href="//slashdot.org/~laird/journal/" title="Monday April 07 2003, @07:39AM" class="user_journal_display">Journal</a> </small>
+</span>
+		</div>
+	</div>
+	<div class="commentBody">
+		<div id="comment_body_25096185"><p>"But she didn't conduct any official business with the yahoo account! All that was in it were family pictures and emails to her friends. IMO, she did the correct thing by not using a govt.-paid for email account for personal communications."</p><p>This is incorrect. She specifically set up two Yahoo accounts, one for personal email (gov.sarah@yahoo.com) and another (gov.palin@yahoo.com). The latter was specifically set up because she could avoid Alaska's Sunshine Laws that require all government business to be archived and (with very narrow exceptions) available to the public. In the email archive is a discussion where she and her staff confirm that the use of the yahoo accounts hides their emails from court subpoena's, and she even reprimands one staffer for using her official email instead of the yahoo account.</p><p>So while Yahoo email accounts do have a legitimate expectation of privacy, I'd argue that Palin lost her claim to privacy when she engaged in illegal evasion of Alaska's Sunshine Laws.</p></div>
+	</div>
+
+	<div class="commentSub" id="comment_sub_25096185">
+<span class="nbutton"><p><b><a href="//politics.slashdot.org/comments.pl?sid=971001&amp;threshold=1&amp;commentsort=0&amp;mode=thread&amp;cid=25094541" onclick="return D2.selectParent(25094541)">Parent</a></b></p></span>
+</div>
+</div>
+
+<div id="replyto_25096185"></div>
+
+<ul id="group_25096185">
+	<li id="hiddens_25096185" class="hide"></li>
+</ul>
+
+</li></ul></li></ul></li><li id="tree_25094683" class="comment contain">
+<div id="comment_status_25094683" class="commentstatus"></div>
+<div id="comment_25094683" class="full">
+	<div id="comment_top_25094683" class="commentTop newcomment">
+		<div class="title">
+			<h4><a id="comment_link_25094683" name="comment_link_25094683" href="//politics.slashdot.org/comments.pl?sid=971001&amp;cid=25094683" onclick="return D2.setFocusComment(25094683)">Re:This Just In</a>
+
+
+		 	<span id="comment_score_25094683" class="score"> (<a href="#" onclick="getModalPrefs('modcommentlog', 'Moderation Comment Log', 25094683); return false">Score:5</a>, Insightful)</span></h4>
+		</div>
+		<div class="details">
+			<span class="by"><span class="byby">by </span><a href="//slashdot.org/~L0rdJedi">L0rdJedi <span class="uid">(65690)</span></a></span><span class="writes" style="display:none"> writes:</span> 
+			<span class="otherdetails" id="comment_otherdetails_25094683">		
+		on Sunday September 21 2008, @01:02PM (<a href="//politics.slashdot.org/comments.pl?sid=971001&amp;cid=25094683">#25094683</a>)
+		<small> </small>
+</span>
+		</div>
+	</div>
+	<div class="commentBody">
+		<div id="comment_body_25094683"><p><div class="quote"><p>Let's say it like this: He or she is no hacker or cracker. It is just a usual internet user who did not obtain great skill.</p><p>Lessons:</p><p>* government users should not take yahoo (who ever came to that idea?)</p><p>* Anonymous communication matters</p><p>* Activities of governments should be transparent.</p><p>* It may help a person to become vice president who appears to be a nightmare and encourage anti-hacking regulations. Fortunately S. Palin has <a href="http://fr.youtube.com/watch?v=n-_h2OU8RAQ" title="youtube.com">close affiliations with witch hunters.</a> [youtube.com] </p></div><p>Oh please.  Here's the real lessons learned:</p><p>1. Don't make your security question anything that can be found online or don't discuss anything about it online (hers was where she and her husband met).</p><p>2. Don't enter your real birthdate anywhere online.  Again, what places really need this for an online account except "social networking" sites?  Even then, anyone you know is probably going to know when your birthday is anyway.</p><p>3. Don't use your real zip code.</p><p>All of the above would have completely prevented this "hack".  It's not difficult to make up a birth date and use that instead.  Same goes for a zip code (12345 anyone?).</p></div>
+	</div>
+
+	<div class="commentSub" id="comment_sub_25094683">
+<span class="nbutton"><p><b><a href="//politics.slashdot.org/comments.pl?sid=971001&amp;threshold=1&amp;commentsort=0&amp;mode=thread&amp;cid=25094107" onclick="return D2.selectParent(25094107)">Parent</a></b></p></span>
+</div>
+</div>
+
+<div id="replyto_25094683"></div>
+
+<ul id="group_25094683">
+	<li id="hiddens_25094683" class="hide"></li>
+</ul>
+
+</li></ul></li><li id="tree_25094087" class="comment">
+<div id="comment_status_25094087" class="commentstatus"></div>
+<div id="comment_25094087" class="hidden">
+</div>
+
+<div id="replyto_25094087"></div>
+
+<ul id="group_25094087">
+	<li id="hiddens_25094087" class="hide"></li>
+</ul>
+
+<ul id="commtree_25094087"><li id="tree_25095177" class="comment contain">
+<div id="comment_status_25095177" class="commentstatus"></div>
+<div id="comment_25095177" class="full">
+	<div id="comment_top_25095177" class="commentTop newcomment">
+		<div class="title">
+			<h4><a id="comment_link_25095177" name="comment_link_25095177" href="//politics.slashdot.org/comments.pl?sid=971001&amp;cid=25095177" onclick="return D2.setFocusComment(25095177)">Re:This Just In</a>
+
+
+		 	<span id="comment_score_25095177" class="score"> (<a href="#" onclick="getModalPrefs('modcommentlog', 'Moderation Comment Log', 25095177); return false">Score:5</a>, Insightful)</span></h4>
+		</div>
+		<div class="details">
+			<span class="by"><span class="byby">by </span><a href="//slashdot.org/~billcopc">billcopc <span class="uid">(196330)</span></a></span><span class="writes" style="display:none"> writes:</span> 
+			<span class="otherdetails" id="comment_otherdetails_25095177">		 &lt;<a href="mailto:vrillco%40yahoo.com">vrillco@yahoo.com</a>&gt;
+		on Sunday September 21 2008, @01:43PM (<a href="//politics.slashdot.org/comments.pl?sid=971001&amp;cid=25095177">#25095177</a>)
+		<small><a href="http://fnarg.com/" title="http://fnarg.com/" class="user_homepage_display">Homepage</a> </small>
+</span>
+		</div>
+	</div>
+	<div class="commentBody">
+		<div id="comment_body_25095177"><p>Nah, he's far below<nobr> <wbr></nobr>/b/tard level.<nobr> <wbr></nobr>/b/tards at least know to post Anon.</p><p>This kid is your typical attention-whoring suburban fuckup.  He's probably going to grow up to be a nice little volvo-driving banker.</p></div>
+	</div>
+
+	<div class="commentSub" id="comment_sub_25095177">
+<span class="nbutton"><p><b><a href="//politics.slashdot.org/comments.pl?sid=971001&amp;threshold=1&amp;commentsort=0&amp;mode=thread&amp;cid=25094087" onclick="return D2.selectParent(25094087)">Parent</a></b></p></span>
+</div>
+</div>
+
+<div id="replyto_25095177"></div>
+
+<ul id="group_25095177">
+	<li id="hiddens_25095177" class="hide"></li>
+</ul>
+
+<ul id="commtree_25095177"><li id="tree_25095481" class="comment">
+<div id="comment_status_25095481" class="commentstatus"></div>
+<div id="comment_25095481" class="hidden">
+</div>
+
+<div id="replyto_25095481"></div>
+
+<ul id="group_25095481">
+	<li id="hiddens_25095481" class="hide"></li>
+</ul>
+
+<ul id="commtree_25095481"><li id="tree_25097837" class="comment contain">
+<div id="comment_status_25097837" class="commentstatus"></div>
+<div id="comment_25097837" class="full">
+	<div id="comment_top_25097837" class="commentTop newcomment">
+		<div class="title">
+			<h4><a id="comment_link_25097837" name="comment_link_25097837" href="//politics.slashdot.org/comments.pl?sid=971001&amp;cid=25097837" onclick="return D2.setFocusComment(25097837)">Re:This Just In</a>
+
+
+		 	<span id="comment_score_25097837" class="score"> (<a href="#" onclick="getModalPrefs('modcommentlog', 'Moderation Comment Log', 25097837); return false">Score:5</a>, Funny)</span></h4>
+		</div>
+		<div class="details">
+			<span class="by"><span class="byby">by </span><a href="//slashdot.org/~billcopc">billcopc <span class="uid">(196330)</span></a></span><span class="writes" style="display:none"> writes:</span> 
+			<span class="otherdetails" id="comment_otherdetails_25097837">		 &lt;<a href="mailto:vrillco%40yahoo.com">vrillco@yahoo.com</a>&gt;
+		on Sunday September 21 2008, @06:32PM (<a href="//politics.slashdot.org/comments.pl?sid=971001&amp;cid=25097837">#25097837</a>)
+		<small><a href="http://fnarg.com/" title="http://fnarg.com/" class="user_homepage_display">Homepage</a> </small>
+</span>
+		</div>
+	</div>
+	<div class="commentBody">
+		<div id="comment_body_25097837"><p>I'd rather see him work in a bank, than have him screw up my Big Mac.</p></div>
+	</div>
+
+	<div class="commentSub" id="comment_sub_25097837">
+<span class="nbutton"><p><b><a href="//politics.slashdot.org/comments.pl?sid=971001&amp;threshold=1&amp;commentsort=0&amp;mode=thread&amp;cid=25095481" onclick="return D2.selectParent(25095481)">Parent</a></b></p></span>
+</div>
+</div>
+
+<div id="replyto_25097837"></div>
+
+<ul id="group_25097837">
+	<li id="hiddens_25097837" class="hide"></li>
+</ul>
+
+</li></ul></li></ul></li><li id="tree_25099971" class="comment contain">
+<div id="comment_status_25099971" class="commentstatus"></div>
+<div id="comment_25099971" class="full">
+	<div id="comment_top_25099971" class="commentTop newcomment">
+		<div class="title">
+			<h4><a id="comment_link_25099971" name="comment_link_25099971" href="//politics.slashdot.org/comments.pl?sid=971001&amp;cid=25099971" onclick="return D2.setFocusComment(25099971)">Re:This Just In</a>
+
+
+		 	<span id="comment_score_25099971" class="score"> (<a href="#" onclick="getModalPrefs('modcommentlog', 'Moderation Comment Log', 25099971); return false">Score:5</a>, Interesting)</span></h4>
+		</div>
+		<div class="details">
+			<span class="by"><span class="byby">by </span><a href="//slashdot.org/~QuickSilver_999">QuickSilver_999 <span class="uid">(166186)</span></a></span><span class="writes" style="display:none"> writes:</span> 
+			<span class="otherdetails" id="comment_otherdetails_25099971">		
+		on Sunday September 21 2008, @11:45PM (<a href="//politics.slashdot.org/comments.pl?sid=971001&amp;cid=25099971">#25099971</a>)
+		<small> </small>
+</span>
+		</div>
+	</div>
+	<div class="commentBody">
+		<div id="comment_body_25099971"><blockquote><div><p>I'd put in 10bux for his legal defense.</p></div></blockquote><p>
+Good to know that you don't care about people doing illegal things just to TRY to get some dirt (even if they fail). So when we send covert operatives in to dumpster dive and hack into bank records to find out how Joe Biden is owned by the credit card companies (As one of my friends puts it, "You mean the Senator from MBNA?") Or when we dig to find out exactly HOW his house was paid for? Or perhaps dig into personal emails and such to find out exactly how linked Obama and Ayers are? Or Rezko? Will you put some cash in for those operatives as well?<br>
+You like this guy because he tried to "get" Sarah Palin. And as I have noted further down, didn't. If this would have been the other way around, you would have been bleating bloody murder about how horrible it was that a Republican would stoop to doing something illegal. Why you might even call it a Watergate! Perhaps this should be called YahooGate? After all, breaking in to email is to me the equivalent of breaking into a private office in a hotel.</p></div>
+	</div>
+
+	<div class="commentSub" id="comment_sub_25099971">
+<span class="nbutton"><p><b><a href="//politics.slashdot.org/comments.pl?sid=971001&amp;threshold=1&amp;commentsort=0&amp;mode=thread&amp;cid=25094087" onclick="return D2.selectParent(25094087)">Parent</a></b></p></span>
+</div>
+</div>
+
+<div id="replyto_25099971"></div>
+
+<ul id="group_25099971">
+	<li id="hiddens_25099971" class="hide"></li>
+</ul>
+
+</li></ul></li></ul></li><li id="tree_25094057" class="comment contain">
+<div id="comment_status_25094057" class="commentstatus"></div>
+<div id="comment_25094057" class="full">
+	<div id="comment_top_25094057" class="commentTop newcomment">
+		<div class="title">
+			<h4><a id="comment_link_25094057" name="comment_link_25094057" href="//politics.slashdot.org/comments.pl?sid=971001&amp;cid=25094057" onclick="return D2.setFocusComment(25094057)">Shame on you Slashdot</a>
+
+
+		 	<span id="comment_score_25094057" class="score"> (<a href="#" onclick="getModalPrefs('modcommentlog', 'Moderation Comment Log', 25094057); return false">Score:4</a>, Insightful)</span></h4>
+		</div>
+		<div class="details">
+			<span class="by"><span class="byby">by </span>Anonymous Coward</span><span class="writes" style="display:none"> writes:</span> 
+			<span class="otherdetails" id="comment_otherdetails_25094057">		
+		on Sunday September 21 2008, @12:05PM (<a href="//politics.slashdot.org/comments.pl?sid=971001&amp;cid=25094057">#25094057</a>)
+		<small> </small>
+</span>
+		</div>
+	</div>
+	<div class="commentBody">
+		<div id="comment_body_25094057"><p>There's no evidence that we know of that this kid was indeed the hacker other than a post on<nobr> <wbr></nobr>/b/. And accepting a post on<nobr> <wbr></nobr>/b/ to be reliable information is like... trusting<nobr> <wbr></nobr>/.'s front page.</p></div>
+	</div>
+
+	<div class="commentSub" id="comment_sub_25094057">
+
+</div>
+</div>
+
+<div id="replyto_25094057"></div>
+
+<ul id="group_25094057">
+	<li id="hiddens_25094057" class="hide"></li>
+</ul>
+
+</li><li id="tree_25094481" class="comment contain">
+<div id="comment_status_25094481" class="commentstatus"></div>
+<div id="comment_25094481" class="full">
+	<div id="comment_top_25094481" class="commentTop newcomment">
+		<div class="title">
+			<h4><a id="comment_link_25094481" name="comment_link_25094481" href="//politics.slashdot.org/comments.pl?sid=971001&amp;cid=25094481" onclick="return D2.setFocusComment(25094481)">step to step guide how not to get caught</a>
+
+
+		 	<span id="comment_score_25094481" class="score"> (<a href="#" onclick="getModalPrefs('modcommentlog', 'Moderation Comment Log', 25094481); return false">Score:5</a>, Funny)</span></h4>
+		</div>
+		<div class="details">
+			<span class="by"><span class="byby">by </span><a href="//slashdot.org/~sam_paris">sam_paris <span class="uid">(919837)</span></a></span><span class="writes" style="display:none"> writes:</span> 
+			<span class="otherdetails" id="comment_otherdetails_25094481">		
+		on Sunday September 21 2008, @12:44PM (<a href="//politics.slashdot.org/comments.pl?sid=971001&amp;cid=25094481">#25094481</a>)
+		<small> </small>
+</span>
+		</div>
+	</div>
+	<div class="commentBody">
+		<div id="comment_body_25094481">1) Buy cheap pc using cash (OLPC or similar)<br>
+2) Find open wifi network, choose a place far from where you live<br>
+3) Connect to TOR and do your dirty deeds<br>
+4) Clean finger prints from PC and trash it, far from where you live<br> <br>
+
+OR<br> <br>
+
+1) Goto internet cafe, ensure cafe has no security cameras<br>
+2) Pay with cash<br>
+3) Connect to TOR and do your dirty deeds<br>
+4) Clean finger prints from computer<br> <br>
+
+Profit?</div>
+	</div>
+
+	<div class="commentSub" id="comment_sub_25094481">
+
+</div>
+</div>
+
+<div id="replyto_25094481"></div>
+
+<ul id="group_25094481">
+	<li id="hiddens_25094481" class="hide"></li>
+</ul>
+
+</li><li id="tree_25094019" class="comment">
+<div id="comment_status_25094019" class="commentstatus"></div>
+<div id="comment_25094019" class="hidden">
+</div>
+
+<div id="replyto_25094019"></div>
+
+<ul id="group_25094019">
+	<li id="hiddens_25094019" class="hide"></li>
+</ul>
+
+<ul id="commtree_25094019"><li id="tree_25094105" class="comment contain">
+<div id="comment_status_25094105" class="commentstatus"></div>
+<div id="comment_25094105" class="full">
+	<div id="comment_top_25094105" class="commentTop newcomment">
+		<div class="title">
+			<h4><a id="comment_link_25094105" name="comment_link_25094105" href="//politics.slashdot.org/comments.pl?sid=971001&amp;cid=25094105" onclick="return D2.setFocusComment(25094105)">Re:"Hacker"</a>
+
+
+		 	<span id="comment_score_25094105" class="score"> (<a href="#" onclick="getModalPrefs('modcommentlog', 'Moderation Comment Log', 25094105); return false">Score:5</a>, Insightful)</span></h4>
+		</div>
+		<div class="details">
+			<span class="by"><span class="byby">by </span><a href="//slashdot.org/~Helios1182">Helios1182 <span class="uid">(629010)</span></a></span><span class="writes" style="display:none"> writes:</span> 
+			<span class="otherdetails" id="comment_otherdetails_25094105">		
+		on Sunday September 21 2008, @12:08PM (<a href="//politics.slashdot.org/comments.pl?sid=971001&amp;cid=25094105">#25094105</a>)
+		<small> </small>
+</span>
+		</div>
+	</div>
+	<div class="commentBody">
+		<div id="comment_body_25094105"><p>It is usually the easiest way for a lot of systems; that, or just ask the user and they will tell you.</p></div>
+	</div>
+
+	<div class="commentSub" id="comment_sub_25094105">
+<span class="nbutton"><p><b><a href="//politics.slashdot.org/comments.pl?sid=971001&amp;threshold=1&amp;commentsort=0&amp;mode=thread&amp;cid=25094019" onclick="return D2.selectParent(25094019)">Parent</a></b></p></span>
+</div>
+</div>
+
+<div id="replyto_25094105"></div>
+
+<ul id="group_25094105">
+	<li id="hiddens_25094105" class="hide"></li>
+</ul>
+
+</li><li id="tree_25094125" class="comment contain">
+<div id="comment_status_25094125" class="commentstatus"></div>
+<div id="comment_25094125" class="full">
+	<div id="comment_top_25094125" class="commentTop newcomment">
+		<div class="title">
+			<h4><a id="comment_link_25094125" name="comment_link_25094125" href="//politics.slashdot.org/comments.pl?sid=971001&amp;cid=25094125" onclick="return D2.setFocusComment(25094125)">Re:"Hacker"</a>
+
+
+		 	<span id="comment_score_25094125" class="score"> (<a href="#" onclick="getModalPrefs('modcommentlog', 'Moderation Comment Log', 25094125); return false">Score:5</a>, Informative)</span></h4>
+		</div>
+		<div class="details">
+			<span class="by"><span class="byby">by </span><a href="//slashdot.org/~swabeui">swabeui <span class="uid">(1291044)</span></a></span><span class="writes" style="display:none"> writes:</span> 
+			<span class="otherdetails" id="comment_otherdetails_25094125">		
+		on Sunday September 21 2008, @12:10PM (<a href="//politics.slashdot.org/comments.pl?sid=971001&amp;cid=25094125">#25094125</a>)
+		<small> </small>
+</span>
+		</div>
+	</div>
+	<div class="commentBody">
+		<div id="comment_body_25094125"><p>If you have followed the story, he didn't guess the password.  He used publicly available information to fool Yahoo's password recovery tool to give it up.  </p><p>As simple as it may sound, it is a bit more involved than 'guessing' a password.</p></div>
+	</div>
+
+	<div class="commentSub" id="comment_sub_25094125">
+<span class="nbutton"><p><b><a href="//politics.slashdot.org/comments.pl?sid=971001&amp;threshold=1&amp;commentsort=0&amp;mode=thread&amp;cid=25094019" onclick="return D2.selectParent(25094019)">Parent</a></b></p></span>
+</div>
+</div>
+
+<div id="replyto_25094125"></div>
+
+<ul id="group_25094125">
+	<li id="hiddens_25094125" class="hide"></li>
+</ul>
+
+<ul id="commtree_25094125"><li id="tree_25094601" class="comment contain">
+<div id="comment_status_25094601" class="commentstatus"></div>
+<div id="comment_25094601" class="full">
+	<div id="comment_top_25094601" class="commentTop newcomment">
+		<div class="title">
+			<h4><a id="comment_link_25094601" name="comment_link_25094601" href="//politics.slashdot.org/comments.pl?sid=971001&amp;cid=25094601" onclick="return D2.setFocusComment(25094601)">Re:"Hacker"</a>
+
+
+		 	<span id="comment_score_25094601" class="score"> (<a href="#" onclick="getModalPrefs('modcommentlog', 'Moderation Comment Log', 25094601); return false">Score:5</a>, Insightful)</span></h4>
+		</div>
+		<div class="details">
+			<span class="by"><span class="byby">by </span><a href="//slashdot.org/~TubeSteak">TubeSteak <span class="uid">(669689)</span></a></span><span class="writes" style="display:none"> writes:</span> 
+			<span class="otherdetails" id="comment_otherdetails_25094601">		
+		on Sunday September 21 2008, @12:55PM (<a href="//politics.slashdot.org/comments.pl?sid=971001&amp;cid=25094601">#25094601</a>)
+		<small><a href="//slashdot.org/~TubeSteak/journal/" title="Thursday April 15 2010, @07:44PM" class="user_journal_display">Journal</a> </small>
+</span>
+		</div>
+	</div>
+	<div class="commentBody">
+		<div id="comment_body_25094601"><p><div class="quote"><p>If you have followed the story, he didn't guess the password. He used publicly available information to fool Yahoo's password recovery tool to give it up.</p></div><p>And somehow that turned into headlines that say:<br><b>Palin Email Hacker Impersonated Her, Stole Password</b></p><p><a href="http://www.google.com/search?q=palin+impersonated" title="google.com">http://www.google.com/search?q=palin+impersonated</a> [google.com]<br>Even the Associated Press went down that road.</p></div>
+	</div>
+
+	<div class="commentSub" id="comment_sub_25094601">
+<span class="nbutton"><p><b><a href="//politics.slashdot.org/comments.pl?sid=971001&amp;threshold=1&amp;commentsort=0&amp;mode=thread&amp;cid=25094125" onclick="return D2.selectParent(25094125)">Parent</a></b></p></span>
+</div>
+</div>
+
+<div id="replyto_25094601"></div>
+
+<ul id="group_25094601">
+	<li id="hiddens_25094601" class="hide"></li>
+</ul>
+
+</li></ul></li><li id="tree_25094161" class="comment contain">
+<div id="comment_status_25094161" class="commentstatus"></div>
+<div id="comment_25094161" class="full">
+	<div id="comment_top_25094161" class="commentTop newcomment">
+		<div class="title">
+			<h4><a id="comment_link_25094161" name="comment_link_25094161" href="//politics.slashdot.org/comments.pl?sid=971001&amp;cid=25094161" onclick="return D2.setFocusComment(25094161)">Re:"Hacker"</a>
+
+
+		 	<span id="comment_score_25094161" class="score"> (<a href="#" onclick="getModalPrefs('modcommentlog', 'Moderation Comment Log', 25094161); return false">Score:5</a>, Interesting)</span></h4>
+		</div>
+		<div class="details">
+			<span class="by"><span class="byby">by </span><a href="//slashdot.org/~Ritchie70">Ritchie70 <span class="uid">(860516)</span></a></span><span class="writes" style="display:none"> writes:</span> 
+			<span class="otherdetails" id="comment_otherdetails_25094161">		
+		on Sunday September 21 2008, @12:13PM (<a href="//politics.slashdot.org/comments.pl?sid=971001&amp;cid=25094161">#25094161</a>)
+		<small><a href="//slashdot.org/~Ritchie70/journal/" title="Saturday March 17 2007, @09:54AM" class="user_journal_display">Journal</a> </small>
+</span>
+		</div>
+	</div>
+	<div class="commentBody">
+		<div id="comment_body_25094161"><p>Not even password guessing. He apparently took public information about her and reset the password.</p><p>If anyone wondered if demanding date of birth, home town, etc. was a BAD way of determining identity, this should resolve that for them.</p></div>
+	</div>
+
+	<div class="commentSub" id="comment_sub_25094161">
+<span class="nbutton"><p><b><a href="//politics.slashdot.org/comments.pl?sid=971001&amp;threshold=1&amp;commentsort=0&amp;mode=thread&amp;cid=25094019" onclick="return D2.selectParent(25094019)">Parent</a></b></p></span>
+</div>
+</div>
+
+<div id="replyto_25094161"></div>
+
+<ul id="group_25094161">
+	<li id="hiddens_25094161" class="hide"></li>
+</ul>
+
+</li><li id="tree_25094487" class="comment contain">
+<div id="comment_status_25094487" class="commentstatus"></div>
+<div id="comment_25094487" class="full">
+	<div id="comment_top_25094487" class="commentTop newcomment">
+		<div class="title">
+			<h4><a id="comment_link_25094487" name="comment_link_25094487" href="//politics.slashdot.org/comments.pl?sid=971001&amp;cid=25094487" onclick="return D2.setFocusComment(25094487)">Re:"Hacker"</a>
+
+
+		 	<span id="comment_score_25094487" class="score"> (<a href="#" onclick="getModalPrefs('modcommentlog', 'Moderation Comment Log', 25094487); return false">Score:5</a>, Insightful)</span></h4>
+		</div>
+		<div class="details">
+			<span class="by"><span class="byby">by </span><a href="//slashdot.org/~Shihar">Shihar <span class="uid">(153932)</span></a></span><span class="writes" style="display:none"> writes:</span> 
+			<span class="otherdetails" id="comment_otherdetails_25094487">		
+		on Sunday September 21 2008, @12:44PM (<a href="//politics.slashdot.org/comments.pl?sid=971001&amp;cid=25094487">#25094487</a>)
+		<small> </small>
+</span>
+		</div>
+	</div>
+	<div class="commentBody">
+		<div id="comment_body_25094487"><p>First, it wasn't password guessing.  He exploited Yahoo's password recovery system to get it to reset her password.  He basically used public information to pose as Palin and convince Yahoo's password recovery system that he needed the password reset.   Exploiting such a weakness in the system is, by any standards, "hacking".</p><p>Second, after he got in, he than went through all of her e-mail.  Breaking into a system, even if it had been a password guess, and then going through its contents is again, by any standard standard, hacking.</p><p>I loath Palin, but this guy is going to get what he has coming.  Even shitty and crazy humans who think the world is a few thousand years old and much to my horror might be president one day, get legal protection.  It isn't like the police can go, "Yeah, he hacked in, but Palin kinda sucks, so I think we will let this one slide".</p></div>
+	</div>
+
+	<div class="commentSub" id="comment_sub_25094487">
+<span class="nbutton"><p><b><a href="//politics.slashdot.org/comments.pl?sid=971001&amp;threshold=1&amp;commentsort=0&amp;mode=thread&amp;cid=25094019" onclick="return D2.selectParent(25094019)">Parent</a></b></p></span>
+</div>
+</div>
+
+<div id="replyto_25094487"></div>
+
+<ul id="group_25094487">
+	<li id="hiddens_25094487" class="hide"></li>
+</ul>
+
+</li></ul></li><li id="tree_25094219" class="comment">
+<div id="comment_status_25094219" class="commentstatus"></div>
+<div id="comment_25094219" class="hidden">
+</div>
+
+<div id="replyto_25094219"></div>
+
+<ul id="group_25094219">
+	<li id="hiddens_25094219" class="hide"></li>
+</ul>
+
+<ul id="commtree_25094219"><li id="tree_25094309" class="comment contain">
+<div id="comment_status_25094309" class="commentstatus"></div>
+<div id="comment_25094309" class="full">
+	<div id="comment_top_25094309" class="commentTop newcomment">
+		<div class="title">
+			<h4><a id="comment_link_25094309" name="comment_link_25094309" href="//politics.slashdot.org/comments.pl?sid=971001&amp;cid=25094309" onclick="return D2.setFocusComment(25094309)">Re:Important</a>
+
+
+		 	<span id="comment_score_25094309" class="score"> (<a href="#" onclick="getModalPrefs('modcommentlog', 'Moderation Comment Log', 25094309); return false">Score:5</a>, Insightful)</span></h4>
+		</div>
+		<div class="details">
+			<span class="by"><span class="byby">by </span><a href="//slashdot.org/~zippthorne">zippthorne <span class="uid">(748122)</span></a></span><span class="writes" style="display:none"> writes:</span> 
+			<span class="otherdetails" id="comment_otherdetails_25094309">		
+		on Sunday September 21 2008, @12:28PM (<a href="//politics.slashdot.org/comments.pl?sid=971001&amp;cid=25094309">#25094309</a>)
+		<small><a href="//slashdot.org/~zippthorne/journal/" title="Wednesday January 02 2008, @03:08PM" class="user_journal_display">Journal</a> </small>
+</span>
+		</div>
+	</div>
+	<div class="commentBody">
+		<div id="comment_body_25094309"><p>If he's a student, I hope Palin opts not to press charges, or pushes for a slap-on-the-wrist.  Some kind of punishment that will sting, but won't be career ending.</p><blockquote><div><p>Regardless of the politics involved, if there's no charges then any online email service is essentially useless for private communication.</p></div></blockquote><p>No, they are *already* useless for private communication.  Email is sent in plaintext across networks, and regardless of prosecution, the attack vector used here is a pretty easy one.  If your email is unencrypted, or you're using easily looked-up information as passwords or recovery questions, then it's not private.  period.</p><p>It would almost be better not to prosecute at all, if it has the effect of making people aware of, and take precautions against, the complete lack of privacy already extant.</p></div>
+	</div>
+
+	<div class="commentSub" id="comment_sub_25094309">
+<span class="nbutton"><p><b><a href="//politics.slashdot.org/comments.pl?sid=971001&amp;threshold=1&amp;commentsort=0&amp;mode=thread&amp;cid=25094219" onclick="return D2.selectParent(25094219)">Parent</a></b></p></span>
+</div>
+</div>
+
+<div id="replyto_25094309"></div>
+
+<ul id="group_25094309">
+	<li id="hiddens_25094309" class="hide"></li>
+</ul>
+
+</li></ul></li><li id="tree_25094207" class="comment">
+<div id="comment_status_25094207" class="commentstatus"></div>
+<div id="comment_25094207" class="hidden">
+</div>
+
+<div id="replyto_25094207"></div>
+
+<ul id="group_25094207">
+	<li id="hiddens_25094207" class="hide"></li>
+</ul>
+
+<ul id="commtree_25094207"><li id="tree_25094341" class="comment contain">
+<div id="comment_status_25094341" class="commentstatus"></div>
+<div id="comment_25094341" class="full">
+	<div id="comment_top_25094341" class="commentTop newcomment">
+		<div class="title">
+			<h4><a id="comment_link_25094341" name="comment_link_25094341" href="//politics.slashdot.org/comments.pl?sid=971001&amp;cid=25094341" onclick="return D2.setFocusComment(25094341)">Re:Public Records</a>
+
+
+		 	<span id="comment_score_25094341" class="score"> (<a href="#" onclick="getModalPrefs('modcommentlog', 'Moderation Comment Log', 25094341); return false">Score:5</a>, Informative)</span></h4>
+		</div>
+		<div class="details">
+			<span class="by"><span class="byby">by </span><a href="//slashdot.org/~Hungus">Hungus <span class="uid">(585181)</span></a></span><span class="writes" style="display:none"> writes:</span> 
+			<span class="otherdetails" id="comment_otherdetails_25094341">		
+		on Sunday September 21 2008, @12:31PM (<a href="//politics.slashdot.org/comments.pl?sid=971001&amp;cid=25094341">#25094341</a>)
+		<small><a href="//slashdot.org/~Hungus/journal/" title="Tuesday July 19 2005, @03:24PM" class="user_journal_display">Journal</a> </small>
+</span>
+		</div>
+	</div>
+	<div class="commentBody">
+		<div id="comment_body_25094341"><p><div class="quote"><p>Why is Sarah Palin using a private account when she is Governor?</p></div><p> Because there are laws in place that say what you can and cannot do with government services and equipment. What you do not seem to get is she was abiding by these laws. Thats why she has 2 (or more) email accounts. The hacker ought to be prosecuted, he even said he did it with malicious intent </p><p><div class="quote"><p>I really wanted to get something incriminating which I was sure there would be</p></div><p> but guess what? he found squat and diddly. </p><p><div class="quote"><p>I read though the emails... ALL OF THEM... before I posted, and what I concluded was anticlimactic, there was nothing there, nothing incriminating, nothing that would derail her campaign as I had hoped, all I saw was personal stuff, some clerical stuff from when she was governor.... And pictures of her family</p></div></div>
+	</div>
+
+	<div class="commentSub" id="comment_sub_25094341">
+<span class="nbutton"><p><b><a href="//politics.slashdot.org/comments.pl?sid=971001&amp;threshold=1&amp;commentsort=0&amp;mode=thread&amp;cid=25094207" onclick="return D2.selectParent(25094207)">Parent</a></b></p></span>
+</div>
+</div>
+
+<div id="replyto_25094341"></div>
+
+<ul id="group_25094341">
+	<li id="hiddens_25094341" class="hide"></li>
+</ul>
+
+<ul id="commtree_25094341"><li id="tree_25094613" class="comment contain">
+<div id="comment_status_25094613" class="commentstatus"></div>
+<div id="comment_25094613" class="full">
+	<div id="comment_top_25094613" class="commentTop newcomment">
+		<div class="title">
+			<h4><a id="comment_link_25094613" name="comment_link_25094613" href="//politics.slashdot.org/comments.pl?sid=971001&amp;cid=25094613" onclick="return D2.setFocusComment(25094613)">You can't conduct state buisness.</a>
+
+
+		 	<span id="comment_score_25094613" class="score"> (<a href="#" onclick="getModalPrefs('modcommentlog', 'Moderation Comment Log', 25094613); return false">Score:5</a>, Insightful)</span></h4>
+		</div>
+		<div class="details">
+			<span class="by"><span class="byby">by </span><a href="//slashdot.org/~Tatarize">Tatarize <span class="uid">(682683)</span></a></span><span class="writes" style="display:none"> writes:</span> 
+			<span class="otherdetails" id="comment_otherdetails_25094613">		
+		on Sunday September 21 2008, @12:56PM (<a href="//politics.slashdot.org/comments.pl?sid=971001&amp;cid=25094613">#25094613</a>)
+		<small><a href="http://godsnotwheregodsnot.blogspot.com/" title="http://godsnotwheregodsnot.blogspot.com/" class="user_homepage_display">Homepage</a> </small>
+</span>
+		</div>
+	</div>
+	<div class="commentBody">
+		<div id="comment_body_25094613"><p>A number of those emails seem to be very state-businessy looking at who they are all from. And apparently they were using those accounts in order to have the ability to quickly delete any email they wanted rather than be subject to maintaining them for FOIA requests.</p></div>
+	</div>
+
+	<div class="commentSub" id="comment_sub_25094613">
+<span class="nbutton"><p><b><a href="//politics.slashdot.org/comments.pl?sid=971001&amp;threshold=1&amp;commentsort=0&amp;mode=thread&amp;cid=25094341" onclick="return D2.selectParent(25094341)">Parent</a></b></p></span>
+</div>
+</div>
+
+<div id="replyto_25094613"></div>
+
+<ul id="group_25094613">
+	<li id="hiddens_25094613" class="hide"></li>
+</ul>
+
+</li><li id="tree_25094757" class="comment contain">
+<div id="comment_status_25094757" class="commentstatus"></div>
+<div id="comment_25094757" class="full">
+	<div id="comment_top_25094757" class="commentTop newcomment">
+		<div class="title">
+			<h4><a id="comment_link_25094757" name="comment_link_25094757" href="//politics.slashdot.org/comments.pl?sid=971001&amp;cid=25094757" onclick="return D2.setFocusComment(25094757)">Re:Public Records</a>
+
+
+		 	<span id="comment_score_25094757" class="score"> (<a href="#" onclick="getModalPrefs('modcommentlog', 'Moderation Comment Log', 25094757); return false">Score:5</a>, Informative)</span></h4>
+		</div>
+		<div class="details">
+			<span class="by"><span class="byby">by </span><a href="//slashdot.org/~AncientPC">AncientPC <span class="uid">(951874)</span></a></span><span class="writes" style="display:none"> writes:</span> 
+			<span class="otherdetails" id="comment_otherdetails_25094757">		
+		on Sunday September 21 2008, @01:10PM (<a href="//politics.slashdot.org/comments.pl?sid=971001&amp;cid=25094757">#25094757</a>)
+		<small> </small>
+</span>
+		</div>
+	</div>
+	<div class="commentBody">
+		<div id="comment_body_25094757"><p><div class="quote"><p><div class="quote"><p>Why is Sarah Palin using a private account when she is Governor?</p></div><p> Because there are laws in place that say what you can and cannot do with government services and equipment. What you do not seem to get is she was abiding by these laws. Thats why she has 2 (or more) email accounts. The hacker ought to be prosecuted, he even said he did it with malicious intent </p></div><p> <a href="http://www.nytimes.com/2008/09/14/us/politics/14palin.html" title="nytimes.com">That's not why she uses personal e-mail accounts for state business.</a> [nytimes.com] </p><p><div class="quote"><p>Interviews show that Ms. Palin runs an administration that puts a premium on loyalty and secrecy. The governor and her top officials sometimes use personal e-mail accounts for state business; dozens of e-mail messages obtained by The New York Times show that her staff members studied whether that could allow them to circumvent subpoenas seeking public records.</p></div></div>
+	</div>
+
+	<div class="commentSub" id="comment_sub_25094757">
+<span class="nbutton"><p><b><a href="//politics.slashdot.org/comments.pl?sid=971001&amp;threshold=1&amp;commentsort=0&amp;mode=thread&amp;cid=25094341" onclick="return D2.selectParent(25094341)">Parent</a></b></p></span>
+</div>
+</div>
+
+<div id="replyto_25094757"></div>
+
+<ul id="group_25094757">
+	<li id="hiddens_25094757" class="hide"></li>
+</ul>
+
+</li></ul></li><li id="tree_25094313" class="comment">
+<div id="comment_status_25094313" class="commentstatus"></div>
+<div id="comment_25094313" class="hidden">
+</div>
+
+<div id="replyto_25094313"></div>
+
+<ul id="group_25094313">
+	<li id="hiddens_25094313" class="hide"></li>
+</ul>
+
+<ul id="commtree_25094313"><li id="tree_25094879" class="comment contain">
+<div id="comment_status_25094879" class="commentstatus"></div>
+<div id="comment_25094879" class="full">
+	<div id="comment_top_25094879" class="commentTop newcomment">
+		<div class="title">
+			<h4><a id="comment_link_25094879" name="comment_link_25094879" href="//politics.slashdot.org/comments.pl?sid=971001&amp;cid=25094879" onclick="return D2.setFocusComment(25094879)">Re:Public Records -- The Catch-22</a>
+
+
+		 	<span id="comment_score_25094879" class="score"> (<a href="#" onclick="getModalPrefs('modcommentlog', 'Moderation Comment Log', 25094879); return false">Score:5</a>, Insightful)</span></h4>
+		</div>
+		<div class="details">
+			<span class="by"><span class="byby">by </span><a href="//slashdot.org/~jadavis">jadavis <span class="uid">(473492)</span></a></span><span class="writes" style="display:none"> writes:</span> 
+			<span class="otherdetails" id="comment_otherdetails_25094879">		
+		on Sunday September 21 2008, @01:19PM (<a href="//politics.slashdot.org/comments.pl?sid=971001&amp;cid=25094879">#25094879</a>)
+		<small> </small>
+</span>
+		</div>
+	</div>
+	<div class="commentBody">
+		<div id="comment_body_25094879"><p><i>As for the hacker, hopefully the Feds will give him a nice long stay in a real PMITA prison with a guy named Bubba.</i></p><p>Your post was great until you said this. People should be punished according to sentences under the law, not subjected to the arbitrary abuse of other prisoners.</p></div>
+	</div>
+
+	<div class="commentSub" id="comment_sub_25094879">
+<span class="nbutton"><p><b><a href="//politics.slashdot.org/comments.pl?sid=971001&amp;threshold=1&amp;commentsort=0&amp;mode=thread&amp;cid=25094313" onclick="return D2.selectParent(25094313)">Parent</a></b></p></span>
+</div>
+</div>
+
+<div id="replyto_25094879"></div>
+
+<ul id="group_25094879">
+	<li id="hiddens_25094879" class="hide"></li>
+</ul>
+
+</li><li id="tree_25095157" class="comment contain">
+<div id="comment_status_25095157" class="commentstatus"></div>
+<div id="comment_25095157" class="full">
+	<div id="comment_top_25095157" class="commentTop newcomment">
+		<div class="title">
+			<h4><a id="comment_link_25095157" name="comment_link_25095157" href="//politics.slashdot.org/comments.pl?sid=971001&amp;cid=25095157" onclick="return D2.setFocusComment(25095157)">Re:Public Records -- The Catch-22</a>
+
+
+		 	<span id="comment_score_25095157" class="score"> (<a href="#" onclick="getModalPrefs('modcommentlog', 'Moderation Comment Log', 25095157); return false">Score:5</a>, Informative)</span></h4>
+		</div>
+		<div class="details">
+			<span class="by"><span class="byby">by </span><a href="//slashdot.org/~klenwell">klenwell <span class="uid">(960296)</span></a></span><span class="writes" style="display:none"> writes:</span> 
+			<span class="otherdetails" id="comment_otherdetails_25095157">		 &lt;<a href="mailto:klenwell%26gmail%2Ccom">klenwell&amp;gmail,com</a>&gt;
+		on Sunday September 21 2008, @01:42PM (<a href="//politics.slashdot.org/comments.pl?sid=971001&amp;cid=25095157">#25095157</a>)
+		<small><a href="http://klenwell.com/" title="http://klenwell.com/" class="user_homepage_display">Homepage</a>
+<a href="//slashdot.org/~klenwell/journal/" title="Thursday February 08 2007, @12:41PM" class="user_journal_display">Journal</a> </small>
+</span>
+		</div>
+	</div>
+	<div class="commentBody">
+		<div id="comment_body_25095157"><p><div class="quote"><p>What I've seen here is that Palin properly followed the demarcation line between "official business" which is done via official state systems, and "private communications" which may NOT be done via state systems.</p></div><p>Then you've seen only what you've wanted to see.  Palin thoughout her time in office has consistently blurred the official with the personal.</p><p>For starters, if she wished to keep the line clearly marked, she should have chosen an email handle other than gov.sarah.</p><p>Then there's this from the New York Times:</p><p><div class="quote"><p>While Ms. Palin took office promising a more open government, her administration has battled to keep information secret. Her inner circle discussed the benefit of using private e-mail addresses. An assistant told her it appeared that such e-mail messages sent to a private address on a "personal device" like a BlackBerry "would be confidential and not subject to subpoena."</p><p>Ms. Palin and aides use their private e-mail addresses for state business. A campaign spokesman said the governor copied e-mail messages to her state account "when there was significant state business."</p><p>On Feb. 7, Frank Bailey, a high-level aide, wrote to Ms. Palin's state e-mail address to discuss appointments. Another aide fired back: "Frank, this is not the governor's personal account."</p><p>Mr. Bailey responded: "Whoops~!"</p></div><p>Whoops, indeed.  I wouldn't consider this a distraction from the issues, especially given the Bush Administration's record.  I find it among the scariest aspects of her prospective election.</p><p>The Times article:</p><p><a href="http://www.nytimes.com/2008/09/14/us/politics/14palin.html?pagewanted=all" title="nytimes.com">http://www.nytimes.com/2008/09/14/us/politics/14palin.html?pagewanted=all</a> [nytimes.com]</p></div>
+	</div>
+
+	<div class="commentSub" id="comment_sub_25095157">
+<span class="nbutton"><p><b><a href="//politics.slashdot.org/comments.pl?sid=971001&amp;threshold=1&amp;commentsort=0&amp;mode=thread&amp;cid=25094313" onclick="return D2.selectParent(25094313)">Parent</a></b></p></span>
+</div>
+</div>
+
+<div id="replyto_25095157"></div>
+
+<ul id="group_25095157">
+	<li id="hiddens_25095157" class="hide"></li>
+</ul>
+
+</li></ul></li></ul></li><li id="tree_25094093" class="comment">
+<div id="comment_status_25094093" class="commentstatus"></div>
+<div id="comment_25094093" class="hidden">
+</div>
+
+<div id="replyto_25094093"></div>
+
+<ul id="group_25094093">
+	<li id="hiddens_25094093" class="hide"></li>
+</ul>
+
+<ul id="commtree_25094093"><li id="tree_25094821" class="comment contain">
+<div id="comment_status_25094821" class="commentstatus"></div>
+<div id="comment_25094821" class="full">
+	<div id="comment_top_25094821" class="commentTop newcomment">
+		<div class="title">
+			<h4><a id="comment_link_25094821" name="comment_link_25094821" href="//politics.slashdot.org/comments.pl?sid=971001&amp;cid=25094821" onclick="return D2.setFocusComment(25094821)">Re:Equal punishment?</a>
+
+
+		 	<span id="comment_score_25094821" class="score"> (<a href="#" onclick="getModalPrefs('modcommentlog', 'Moderation Comment Log', 25094821); return false">Score:5</a>, Informative)</span></h4>
+		</div>
+		<div class="details">
+			<span class="by"><span class="byby">by </span><a href="//slashdot.org/~enjoyoutdoors">enjoyoutdoors <span class="uid">(1254156)</span></a></span><span class="writes" style="display:none"> writes:</span> 
+			<span class="otherdetails" id="comment_otherdetails_25094821">		
+		on Sunday September 21 2008, @01:14PM (<a href="//politics.slashdot.org/comments.pl?sid=971001&amp;cid=25094821">#25094821</a>)
+		<small> </small>
+</span>
+		</div>
+	</div>
+	<div class="commentBody">
+		<div id="comment_body_25094821">Like the GOP staff that used an exploit to read their oppositions email? Hmm, there were no legal consequences in that case. Maybe there should have been?
+
+Report Finds Republican Aides Spied On Democrats
+<a href="http://query.nytimes.com/gst/fullpage.html?res=9F00E0D7103FF936A35750C0A9629C8B63" title="nytimes.com" rel="nofollow">http://query.nytimes.com/gst/fullpage.html?res=9F00E0D7103FF936A35750C0A9629C8B63</a> [nytimes.com]</div>
+	</div>
+
+	<div class="commentSub" id="comment_sub_25094821">
+<span class="nbutton"><p><b><a href="//politics.slashdot.org/comments.pl?sid=971001&amp;threshold=1&amp;commentsort=0&amp;mode=thread&amp;cid=25094093" onclick="return D2.selectParent(25094093)">Parent</a></b></p></span>
+</div>
+</div>
+
+<div id="replyto_25094821"></div>
+
+<ul id="group_25094821">
+	<li id="hiddens_25094821" class="hide"></li>
+</ul>
+
+</li></ul></li>
+			<li id="roothiddens" class="hide"></li>
+		</ul>
+	
+	
+	
+	
+
+
+<div class="newcmnt"><div id="replyto_0"></div></div>
+
+
+<noscript><p><b>There may be more comments in this discussion. Without JavaScript enabled, you might want to <a href="//politics.slashdot.org/users.pl?op=editcomm">turn on Classic Discussion System</a> in your preferences instead.</b></p></noscript>
+
+<div id="discussion_buttons">
+
+
+<span class="nbutton hide"><p><b><a href="#" onclick="D2.ajaxFetchComments(0,1); return false"><span id="more_comments_num_a" class="hide">Get More Comments</span></a></b></p></span>
+
+
+
+
+
+
+
+
+
+</div>
+
+
+
+	<script type="text/javascript">
+<!--
+		D2.currents()['hidden']   = 0;
+		D2.currents()['full']     = 50;
+		D2.currents()['oneline']  = 0;
+		// D2.currents_total(50);
+
+		D2.abbrev_comments({});
+		D2.noshow_comments([25095039,25095111,25095307,25094483,25095717,25095825,25095435,25094351,25094399,25095589,25095861,25094511,25094803,25094923,25095303,25094393,25094541,25094087,25095481,25094019,25094219,25094207,25094313,25094093]);
+		D2.pieces_comments([]);
+		D2.init_hiddens([]);
+
+		D2.finishLoading();
+
+
+
+//-->
+	</script></div>	
+		</div>
+			<div id="footer">
+				<div class="search">
+				
+					<form method="get" action="//politics.slashdot.org/search.pl">
+						<fieldset>
+							<legend>Search</legend>
+							<input type="text" name="query" value="" size="20">
+							<input type="submit" value="Search" class="button">
+						</fieldset>
+					</form>
+				
+				</div>
+				<div class="rightcontent">
+					
+                		        <small>We don't know one millionth of one percent about anything.</small>
+					
+				</div>	
+			</div>
+		</div>	
+	</div>
+	<div class="copyright">
+		<p>
+
+			All trademarks and copyrights on this page are owned by their respective owners.  Comments are owned by the Poster.  The Rest &copy; 1997-2010 <a href="http://geek.net/">Geeknet, Inc.</a>
+		</p>
+	</div>
+	<div id="login_cover" style="display:none" onclick="hide_login_box()"></div>
+<div id="login_box" style="display:none">
+<div class="generaltitle" >
+	<div class="title">
+		<h3 >
+			Please Log In to Continue<a href="#" onclick="hide_login_box(); return false" class="close" title="Close this box">x</a>
+			
+		</h3>
+	</div>
+</div>
+<div id="login_box_content">
+<form action="//slashdot.org/login.pl" method="post">
+<fieldset>
+	<legend>Log In</legend>
+	<label>
+		Nickname
+	</label>
+	<input type="text" name="unickname" size="20" value="">
+	<label>
+		Password
+	</label>
+	<input type="hidden" name="returnto" value="//politics.slashdot.org/">
+	<input type="hidden" name="op" value="userlogin">
+	<input type="password" name="upasswd" size="20">
+	<label class="checkbox">
+		<input type="checkbox" name="login_temp" value="yes">
+		Public Terminal
+	</label>
+	<input type="submit" name="userlogin" value="Log in" class="button">
+	</fieldset>
+</form>
+
+
+
+<hr>
+
+
+<form action="//slashdot.org/login.pl" method="post">
+<fieldset>
+	<input type="hidden" name="slash_returnto" value="//politics.slashdot.org/">
+	<input type="hidden" name="op" value="claim_openid">
+	<input type="hidden" name="openid_login" value="1">
+	<label for="openid_url" class="openid_url">
+	<input type="text" name="openid_url" value="http://" size="32" maxlength="255">
+	</label>
+	<input type="submit" value="Log in with OpenID" class="button">
+</fieldset>
+</form>
+
+
+<p>
+<b>
+<a href="//slashdot.org/my/newuser">Create Account</a>
+&nbsp;|&nbsp;
+<a href="//slashdot.org/my/mailpassword">Retrieve Password</a>
+</b>
+</p>
+</div></div>
+<script type="text/javascript">logged_in = 0</script>
+	<div class="btmnav">
+		<ul>
+			<li class="begin"><a href="//politics.slashdot.org/">home</a></li>
+			<li class="submit"><a href="//politics.slashdot.org/submission">submit story</a></li>
+			<li><a href="//politics.slashdot.org/help/">help </a></li>
+			<li><a href="http://geek.net/advertising">advertise</a></li>
+			<li><a href="http://geek.net/terms.php">terms of service</a></li>
+			<li><a href="http://geek.net/privacy-statement">privacy</a></li>
+			<li class="rss"><a href="http://rss.slashdot.org/Slashdot/slashdotPolitics">rss</a></li>
+		</ul>
+	</div>
+<script type="text/javascript">
+COMSCORE.beacon({
+  c1:2,
+  c2:6035546,
+  c3:"",
+  c4:"",
+  c5:"",
+  c6:"",
+  c15:""
+});
+</script>
+<noscript><img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=6035546&amp;c3=&amp;c4=&amp;c5=&amp;c6=&amp;c15=&amp;cj=1" alt="comScore2"></noscript>
+<div id="modal_cover" style="display:none"></div>
+<div id="modal_box" style="display:none">
+        <div class="generaltitle" >
+                <div class="title"><h3><span id="preference_title"></span> <a href="#" onclick="hide_modal_box(); return false">Close</a></h3></div>
+        </div>
+        <div id="modal_box_content"></div>
+</div>
+<script id="after-content" type="text/javascript">
+(function( $, fn, console ){
+	$ && fn && $(function(){ fn($, console); });
+})(window.jQuery, window.pageload_done, window.console);
+</script>
+
+</body>
+</html>

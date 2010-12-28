@@ -1,0 +1,157 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en-GB">
+
+<head>
+<title>AIUK : Amnesty announces Media Awards 2009 winners</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<script src="/javascript/swfobject.js" type="text/javascript"></script>
+<script type="text/javascript">
+<!--
+function MM_findObj(n, d) { //v4.01
+	var p,i,x;  if(!d) d=document;if((p=n.indexOf("?"))>0&&parent.frames.length) {
+	d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+	if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+	for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+	if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+//-->
+</script>
+
+<!--
+<script type="text/javascript" src="javascript/jquery.ui-1.5.3/jquery-1.2.6.min.js"></script>
+<script type="text/javascript" src="javascript/jquery.ui-1.5.3/ui/ui.core.js"></script>
+<script type="text/javascript" src="javascript/jquery.ui-1.5.3/ui/minified/ui.accordion.min.js"></script>
+<script type="text/javascript" src="javascript/myamnesty-panel.js"></script>
+-->
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"></script>
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.7.2/jquery-ui.min.js"></script>
+<script type="text/javascript" src="/javascript/sso.js"></script>
+
+
+<script type="text/javascript">
+$(document).ready(function(){
+
+		// Track links to the shop
+		$("a[rel*='shop']").click(function(){
+			pageTracker._link(this.href);
+			return false;
+		});    
+	   
+		// Track buttons pointing to the shop
+		$("form[class*='shop']").submit(function(){
+			pageTracker._linkByPost(this);
+		});
+
+});
+</script>
+<link href="/styles/amnesty_print.css" type="text/css" rel="stylesheet" media="print" />
+<link href="/styles/amnesty_basic.css" type="text/css" rel="stylesheet" media="screen"  />
+<style type="text/css" media="screen">
+@import "/styles/aiuk_common.css";
+@import "/styles/aiuk_content10011.css";
+
+</style>
+<style type="text/css">
+#news-story img {float:left;margin-right:10px;margin-bottom:10px}
+</style>
+</head>
+<body>
+
+<script type="text/javascript"> 
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www."); 
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E")); 
+</script> 
+<script type="text/javascript"> 
+try { 
+var pageTracker = _gat._getTracker("UA-5223188-4"); 
+pageTracker._setDomainName("none"); 
+pageTracker._setAllowLinker(true); 
+pageTracker._trackPageview(); 
+} catch(err) {} 
+</script> 
+
+<!-- Start - Code inserted as per tickets no 1164 -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-19371236-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<!-- End - Code inserted as per tickets no 1164 -->
+
+
+
+
+<div id="page">
+<p id="skipnavlink"><strong>[ <a href="#content">skip navigation</a> | <a href="/text.asp?ref=%2Fnews%5Fdetails%2Easp%3FNewsID%3D18227">graphics version</a> ]</strong></p>
+<p id="address" class="hdn"><strong>Amnesty International UK</strong> / www.amnesty.org.uk</p><div id="logo"><a title="Home" href="index.asp" accesskey="1"><img src="images/ai_logo.gif" alt="Amnesty International Logo" width="234" height="78" /></a></div><div id="sitelinks" class="sitelinks"><ul id="sitelinks-promo"><li><a href="/content.asp?CategoryID=2064">Donate</a></li><li><a href="/content.asp?CategoryID=73">Join us</a></li><li class="last"><a href="/content.asp?CategoryID=10100">Jobs</a></li></ul><ul id="sitelinks-misc"><li><a href="/content.asp?CategoryID=314">N Ireland</a></li><li><a href="/content.asp?CategoryID=325">Scotland</a></li><li><a href="/content.asp?CategoryID=10458">Wales</a></li><li class="last"><a href="/content.asp?CategoryID=10564">Cymru</a></li></ul></div><div id="quicksearch"><form action="/search.asp" method="get"><div><label for="quicksearch-query" class="hdn">Search site</label><input id="quicksearch-query" type="text" title="search" name="q" value=" " /> <input type="submit" class="mybutton" value="Go!" /><input type="hidden" name="submitted" value="-1" /></div></form></div><div id="sitelinks2" class="sitelinks"><ul><li><a href="/sitemap.asp">Site map</a></li><li><a href="/faq.asp"><abbr title="Frequently Asked Questions"><span class="abbr" title="Frequently Asked Questions">FAQ</span></abbr></a></li><li><a href="http://www.amnesty.org/en/research" target="_blank">Library</a></li><li><a href="/search.asp">Search</a></li><li class="last" id="textonly-link"><a href="/text.asp?ref=%2Fnews%5Fdetails%2Easp%3FNewsID%3D18227">Text only</a></li></ul></div><div class="clr"></div><div id="masternav"><ul><li id="mastsernav-home"><a href="/index.asp" accesskey="1">Home</a></li><li id="mastsernav-10010"><a href="/content.asp?CategoryID=10010" class="" accesskey="2  ">Our Work</a></li><li id="mastsernav-10009"><a href="/content.asp?CategoryID=10009" class="" accesskey="3  ">Take Action</a></li><li id="mastsernav-10011"><a href="/content.asp?CategoryID=10011" class="current" accesskey="4  ">News &amp; events</a></li><li id="mastsernav-11468"><a href="/content.asp?CategoryID=11468" class="" accesskey="">Blogs &amp; Community</a></li></ul></div><div class="clr"></div><div id="crumbtrail">
+	<p class="s1">
+		<strong>You are here:</strong>
+		<a href="/index.asp">Home</a> &gt; <a href="/content.asp?CategoryID=10011">News &amp; events</a> &gt; <a href="/content.asp?CategoryID=10620">News and features</a> &gt; <a href="/news.asp">News</a> &gt; <a href="/news.asp?_year=2009&amp;_month=6">June 2009</a> &gt; Amnesty announces Media Awards 2009 winners
+	</p>
+</div>
+<div id="sideleft">
+	<div class="s1">
+<div class="subnav"><h3><span>Jun 2009</span></h3><ul><li><a href="/news_details.asp?NewsID=18278"><span>Azerbaijan new report</span></a></li><li><a href="/news_details.asp?NewsID=18286"><span>Iran: Journalists detained</span></a></li><li><a href="/news_details.asp?NewsID=18287"><span>Tanzania: Burundian refugees</span></a></li><li><a href="/news_details.asp?NewsID=18288"><span>UK: Students call for ATT</span></a></li><li><a href="/news_details.asp?NewsID=18289"><span>Iran: Detained leaders</span></a></li><li><a href="/news_details.asp?NewsID=18290"><span>NI: Rerport on rendition</span></a></li><li><a href="/news_details.asp?NewsID=18284"><span>Thailand: Closed trial</span></a></li><li><a href="/news_details.asp?NewsID=18285"><span>TUC, ITF and Amnesty</span></a></li><li><a href="/news_details.asp?NewsID=18281"><span>Iran protest in London</span></a></li><li><a href="/news_details.asp?NewsID=18282"><span>Somalia: Al-Shabab</span></a></li></ul></div>
+</div>
+</div>
+<div id="sideright">
+<div class="myamnesty_login sideright-box"><h3>My <strong>Amnesty</strong></h3><p>Stay up-to-date with the issues that matter to you</p><div class="buttons"><a href="/login.asp">Login</a><a href="/registration.asp">Register</a></div></div><a href="/registration.asp" id="newsletter-button" class="s1"><span>Sign up to our e-newsletter</span></a><div class="communities-banner" id="pth-button" style="display: none"><a href="http://www.protectthehuman.com/" class="s1"><span><strong>Want to make a difference?</strong><br />Join Protect The Human</span></a></div><br /><div class="sideright-banners"><p><a href="/goto.asp?BannerID=145" onclick="" onkeypress=""><img src="/uploads/banners/145.jpg" alt="news blog" />news blog<br /><span style="padding-top:2px;">
+Daily comments on what's in the news and what should be in the news<br /><br /></span></a></p></div>
+</div>
+
+<div id="content">
+	
+	<div id="main">
+		<h1>Amnesty announces Media Awards 2009 winners</h1>
+		<table border="0" cellspacing="0" cellpadding="0" summary="news details">
+			<tr>
+				<td>
+					<div id="news-story">
+					<p class="s2"><i>Posted: 02 June 2009</i></p>
+					
+					<div class="s2"><p>The winners of the 18th Amnesty International UK Media Awards were announced this evening.  The awards recognise excellence in human rights reporting and acknowledge journalism's significant contribution to the UK public's awareness and understanding of human rights issues. </p><p>The winners in ten categories were announced in a ceremony at the British Film Institute in central London hosted by BBC News presenter Mishal Husain. </p><p>Amnesty International UK Director Kate Allen, said: <em>'In the midst of the world financial crisis it is more important than ever to celebrate the achievements of journalists whose outstanding reporting has helped throw a clear light upon human rights abuses. Not only is the crisis itself having an impact upon people's human rights, there is also a real threat to investigative journalism as media outlets cut costs and reduce staff.'</em></p><p>This year's Gaby Rado Memorial Award, made to a journalist covering human rights for less than five years, went to Aleem Maqbool, the BBC's Gaza correspondent. It was presented by Tom Rado, son of the Channel 4 foreign correspondent Gaby Rado, who died while on assignment in Iraq in 2003. </p><p>Also announced was the recipient of the Amnesty International Special Award for Journalism Under Threat, which recognises the courage of journalists around the world who pursue their legitimate journalistic work at great personal risk to themselves. </p><p>This year's recipient, like last year's, was unable to collect the award in person. Following years of harassment by the Azerbaijani authorities, newspaper editor Eynulla Fatullayev is serving an eight-and-a-half-year sentence, having been convicted on politically motivated charges. John Mulholland, editor of The Observer newspaper, accepted the award on Eynulla's behalf.</p><p>Last year's Special Award recipient, Yemeni journalist Abdulkarim al-Khaiwani, was released three months into the six-year sentence imposed upon him just a week before last year's ceremony.</p><p> The full list of winners, also 'tweeted' live from the ceremony via <a href="mailto:'@NewsFromAmnesty'">'@NewsFromAmnesty'</a>, a new dedicated Twitter channel with human rights updates for journalists, comprised:</p><p /><p><strong>GABY RADO MEMORIAL AWARD</strong> </p><p>Aleem Maqbool, BBC News</p><p>JUDGES: Mike Blakemore, Libby Brooks, Andrew Macdonald, Tom Rado, Jon Snow</p><p><strong>INTERNATIONAL TELEVISION &amp; RADIO</strong> </p><p>World's Untold Stories:  The Forgotten People, CNN<br />Dan Rivers, Kit Swartz, Sheri England, Anthony Whaley</p><p>JUDGES: Anita Anand, Dorothy Byrne, Susanna Flood, Naresh Puri, Tim Singleton</p><p><strong>NATIONS &amp; REGIONS</strong> </p><p>The Fight for Justice, The Herald Magazine <br />Lucy Adams </p><p>JUDGES: Patrick Corrigan, William Crawley, Jenifer Johnston, Tomos Livingstone, Jon Manel</p><p><strong>NATIONAL NEWSPAPERS</strong> </p><p>MI5 and the Torture Chambers of Pakistan, The Guardian <br />Ian Cobain</p><p>JUDGES: Jack Doyle, Sarfraz Manzoor, Maggie Paterson, Alison Philips, Julie Tomlin</p><p><strong>NEW MEDIA</strong> </p><p>Kenya: The Cry of Blood - Extra Judicial Killings and Disappearances, Wikileaks <br />Julian Assange</p><p>JUDGES: Sara Ashton, Peter Barron, Sunny Hundal, Martha Lane Fox, Danielle Long</p><p><strong>PERIODICALS  - CONSUMER MAGAZINES</strong></p><p>The 'No Place for Children' campaign, New Statesman<br />Sir Al Aynsley Green, Gillian Slovo, Alice O'Keefe </p><p>JUDGES: Jeremy Dear, Maggie Paterson, John Mulholland, Anne Penketh, Sigrid Rausing</p><p><strong>PERIODICALS  - NEWSPAPER SUPPLEMENTS</strong></p><p>Why do the Italians Hate Us? The Observer Magazine<br />Dan McDougall, Robin Hammond</p><p>JUDGES: Jeremy Dear, Maggie Paterson, John Mulholland, Anne Penketh, Sigrid Rausing</p><p><strong>PHOTOJOURNALISM </strong></p><p>No One Much Cares, Newsweek, Eugene Richards</p><p>JUDGES: Simon Bainbridge, Sophie Batterbury, Camilla Brown, Maggie Paterson, Carlos Reyes-Manzo</p><p><strong>RADIO </strong></p><p>Forgotten: The Central African Republic, BBC Radio 4 - Today Programme<br />Edward Main, Ceri Thomas, Mike Thomson</p><p>JUDGES: Jane Anderson, Mike Blakemore, Ian Collins, Anna Doble, Alan Johnston</p><p><strong>TELEVISION DOCUMENTARY &amp; DOCUDRAMA</strong> </p><p>Dispatches: Saving Africa's Witch Children, Channel 4 / Red Rebel Films / Southern Star Factual<br />Mags Gavan, Joost Van der Valk, Alice Keens-Soper, Paul Woolwich</p><p>JUDGES: Mike Blakemore, Clemency Burton-Hill, Cait Fitzsimons, Tim Marshall, Hugh Williamson</p><p><strong>TELEVISION NEWS</strong> </p><p>Kiwanja Massacre: Congo, Channel 4 News / ITN<br />Ben De Pear, Jonathan Miller, Stuart Webb, Robert Chamwami </p><p>JUDGES: Mike Blakemore, Krishnan Guru-Murthy, Caroline Hurford, Ben Rayner, Julian Worricker</p><p><strong>ENDS</strong></p><p>Amnesty International UK media information: <br />Mike Blakemore: 020 7033 1546, <a href="mailto:mike.blakemore@amnesty.org.uk">mike.blakemore@amnesty.org.uk</a><br />Steve Ballinger: 020 7033 1548, <a href="mailto:steve.ballinger@amnesty.org.uk">steve.ballinger@amnesty.org.uk</a><br />Out of hours: 07721 398984, <a>www.amnesty.org.uk</a> </p><p>Read the daily media blog: Press release me, let me go<br />Follow us on Twitter: @NewsFromAmnesty</p></div>
+					
+					</div>
+				</td>
+			</tr>
+		</table>
+	</div>
+	<div id="page-tools" class="s1">
+      <ul>
+        <li id="tools-print"><a href="/news_details_p.asp?NewsID=18227" onkeypress="" onclick="window.open(this.href,'print');return false;">Print Version</a></li>
+        <li id="tools-send"><a href="/page_send.asp?p=/news_details.asp?NewsID=18227" onkeypress="" onclick="window.open(this.href,'send','width=300,height=300,scrollbars=yes');return false;">Send Page</a></li>
+        <li id="tools-feedback"><a href="/page_feedback.asp?p=/news_details.asp?NewsID=18227" onkeypress="" onclick="window.open(this.href,'feed','width=450,height=400,scrollbars=yes');return false;">Feedback</a></li>
+        <li id="tools-bookmark"><a href="/bookmark_page_add.asp?p=/news_details.asp?NewsID=18227" onkeypress="" onclick="window.open(this.href,'book','width=400,height=300,scrollbars=yes');return false;">bookmark</a></li>
+      </ul>
+    </div>
+    <br />
+    
+     <!--<div class="s1 dig-delicious-icons">
+	        <div id="tools-delicious"><a href="http://del.icio.us/post" onclick="window.open('http://del.icio.us/post?v=4&noui&jump=close&url='+encodeURIComponent(location.href)+'&title='+encodeURIComponent(document.title), 'delicious','toolbar=no,width=700,height=400'); return false;">Add to del.icio.us</a></div>
+	    </div>-->
+	<br /><br />
+    
+
+</div>
+<!-- page -->
+<div style="clear:both"></div>
+<div class="clr"></div><div id="footer" class="s1"><div id="footer-links-tools"><div id="footer-links"><ul><li><a href="/content.asp?CategoryID=21">Campaigns</a></li><li><a href="http://web.amnesty.org/contacts/engindex" target="_blank">Amnesty worldwide</a></li><li><a href="/content.asp?CategoryID=345">Privacy policy</a></li><li><a href="/content.asp?CategoryID=77">About this site</a></li><li><a href="/content.asp?CategoryID=11750">Feedback</a></li><li class="last"><a href="/content.asp?CategoryID=342 ">Contact us</a></li></ul></div><div id="access-tools"><ul><li><a href="http://validator.w3.org/check?uri=http%3A%2F%2Famnesty%2Eorg%2Euk%2Fnews%5Fdetails%2Easp%3FNewsID%3D18227"><img width="80" height="15" src="images/w3c/xhtml10.png" alt="XHTML 1.0" /><span class="hdn">XHTML 1.0</span></a></li><li><a href="http://jigsaw.w3.org/css-validator/validator?uri=http%3A%2F%2Famnesty%2Eorg%2Euk%2Fnews%5Fdetails%2Easp%3FNewsID%3D18227"><img width="80" height="15" src="images/w3c/css.png" alt="CSS" /><span class="hdn">CSS</span></a></li><li><a href="http://www.w3.org/TR/WAI-WEBCONTENT/"><img width="80" height="15" src="images/w3c/waiaaa.png" alt="WAI-AAA" /><span class="hdn">WAI-AAA</span></a></li></ul></div></div><p><a href="/content.asp?CategoryID=10275">Copyright</a>
+				© Amnesty international, UK 2008. Amnesty International UK is a company limited by guarantee. 
+				<br />Registered in England no 01735872, <a href="/content.asp?CategoryID=342#eng">registered office</a><br />The charity number for Amnesty International UK Section Charitable Trust is 1051681<br /></p></div><div class="clr"></div>
+</div>
+
+
+
+</body>
+</html>

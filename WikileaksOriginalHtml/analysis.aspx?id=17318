@@ -1,0 +1,555 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML>
+	<HEAD>
+		<title>firstamendmentcenter.org: analysis</title>
+		<meta name="GENERATOR" content="Microsoft Visual Studio.NET 7.0">
+		<meta name="CODE_LANGUAGE" content="Visual Basic 7.0">
+		<meta name="vs_defaultClientScript" content="JavaScript">
+		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
+		<link rel="stylesheet" href="stylesheet\general1.css" type="text/css">
+		<script language="JavaScript">
+		<!--
+		function MM_preloadImages() { //v3.0
+		var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+			var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+			if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+		}
+
+		function MM_swapImgRestore() { //v3.0
+		var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+		}
+
+		function MM_findObj(n, d) { //v4.0
+		var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+			d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+		if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+		for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+		if(!x && document.getElementById) x=document.getElementById(n); return x;
+		}
+
+		function MM_swapImage() { //v3.0
+		var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+		if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+		}
+		//-->
+		</script>
+		<style> <!-- A.chan {line-height:8.0pt;line-space:1.0pt;color:white;font:size=-2 Verdana, Arial, Helvetica, sans-serif;text-decoration:none}
+	A.chan:visited {color:white;text-decoration:none}
+	A.chan:visited:hover {color:yellow;text-decoration:underline}
+	//--> 
+		</style>
+		<style> <!-- A.chan2 {color:#000066;font:size=3 Verdana, Arial, Helvetica, sans-serif;text-decoration:none}
+	A.chan2:visited {color:white;text-decoration:none}
+	A.chan2:visited:hover {color:yellow;text-decoration:underline}
+	//--> 
+		</style>
+		<style> <!-- A.chan5 {line-height:10.0pt;color:white;font:size=3 Verdana, Arial, Helvetica, sans-serif;text-decoration:none}
+	A.chan5:visited {color:white;text-decoration:none}
+	A.chan5:visited:hover {color:yellow;text-decoration:underline}
+	//--> 
+		</style>
+		<style> <!-- A.chan7 {color:#000066;font:size=2 Verdana, Arial, Helvetica, sans-serif;text-decoration:none}
+	A.chan7:visited {color:#000066;text-decoration:none}
+	A.chan7:visited:hover {color:brown;text-decoration:underline}
+	//--> 
+		</style>
+		<style> <!-- A.chan8 {color:white;font:size=smallest;family:Arial, Helvetica, sans-serif;text-decoration:none}
+	A.chan8:visited {color:white;text-decoration:none}
+	A.chan8:visited:hover {color:yellow;text-decoration:underline}
+	//--> 
+		</style>
+		<style> <!-- A.chan9 {color:black;font:size=2 Courier New, Verdana, Arial, Helvetica, sans-serif;text-decoration:none}
+	A.chan9:visited {color:black;text-decoration:none}
+	A.chan9:visited:hover {color:brown;text-decoration:underline}
+	//--> 
+		</style>
+	</HEAD>
+	<body bgcolor="#ffffff" text="#000000" leftmargin="1" topmargin="1" marginwidth="1" marginheight="1" onLoad="MM_preloadImages('images/overview_red_over.gif','images/overview_red_down.gif','images/faqs_red_over.gif','images/faqs_red_down.gif','images/cases_red_over.gif','images/cases_red_down.gif','images/go_over.gif','images/go_down.gif')">
+		<form id="Form1" target="_blank" method="post" action="/Search/SearchResults.aspx">
+			<table bordercolor=#00A1E1width="770" bgcolor="white" border="1" cellspacing="0" cellpadding="0" align="center" height="100%">
+<tr><td height="40" bgcolor="000066"><img src="images/fac_topmasthead.gif" width=770 height="40"></td></tr><tr>
+<td  valign="top" height="100%">
+<table width="770" border="0" cellspacing="0" cellpadding="0" height="100%" align="center">
+<tr>
+<td valign="top" width="770">
+<table height="900" width="630" border="0" cellspacing="0" cellpadding="0">
+<tr align="left">
+<td bgcolor="#333399" align="right" width="615" height="20">
+<div align="right"><font face="Verdana, Arial, Helvetica, sans-serif" size="1" color="#ffffff">
+<a href=http://www.firstamendmentcenter.org/default.aspx class=chan>HOME </a> &gt;  <a href="#"  class=chan><font color="#ffff66">Analysis</a> </font></div>
+	</td>
+<td bgcolor="#333399" width="5" height="20">&nbsp;</td>
+</tr>
+<tr>
+<td valign="top" width="630" height="76"  colspan="2">
+<a href="topicssummary.aspx" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('topics','','images/home/topicbox_over.gif',1)" onMouseDown="MM_swapImage('topics','','images/home/topicbox_down.gif',1)"><img src="images/home/topicbox.gif" width="220" height="76" border="0" alt="First Amendment topics" name="topics"></a><a href="about.aspx?item=about_firstamd" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('flags','','images/home/flag_constitution_header2_over.jpg',1)" onMouseDown="MM_swapImage('flags','','images/home/flag_constitution_header2_over.jpg',1)"><img src="images/home/flag_constitution_header2.jpg" width="410"  bgcolor="000066" height="76"  alt="About the First Amendment" name="flags" border="0"></a></td></tr>
+<tr>
+<td width="630" bgcolor="lightyellow" height="20"  colspan="2">
+<table>
+<tr>
+<td width="100" bgcolor="lightyellow" height="20"  colspan="2">
+</td><td width="530" bgcolor="lightyellow" height="20"  colspan="2">
+<font color="#660000", size=3><strong>
+Analysis
+</strong></font>
+</td></tr>
+</table>
+</td><tr>
+<td bgcolor="white" width="630"  colspan="2">
+<table width="625" border="0" cellspacing="0" cellpadding="0" bgcolor="white">
+<tr>
+<td width="90">
+&nbsp;
+</td>
+<td bgcolor="white" align=left width="500">
+<br>
+<div align=left>
+<a  href=/analysis.aspx?id=17318&printer-friendly=y target=_new  ><IMG src=http://www.firstamendmentcenter.org/images/buttons/printicon.gif border="0" width="20" height="15" alt="print this" /></a>&nbsp;&nbsp;
+<a  href=/analysis.aspx?id=17318&printer-friendly=y target=_new  ><font style="FONT-SIZE: 10pt; COLOR: #0054A6; ; FONT-FAMILY: Arial, Helvetica, sans-serif; "><strong>Print</strong></span></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a  href=email_this.aspx?linkURL=analysis.aspx&id=17318><IMG src=http://www.firstamendmentcenter.org/images/buttons/emailicon.jpg border="0" width="20" height="15" alt="E-mail this article" /></a>&nbsp;
+<a  href=email_this.aspx?linkURL=analysis.aspx&id=17318><font style="FONT-SIZE: 10pt; COLOR: #0054A6; ; FONT-FAMILY: Arial, Helvetica, sans-serif; "><strong>E-mail this article</strong></span></a></div>
+<br>
+<font size="3" color="black" face="sans-serif, Times New Roman, Verdana, Arial, Helvetica"><b>
+AIPAC, Espionage Act & First Amendment
+</b></font>
+<br>
+<br></strong></b>
+<font size="2" color="black" face="Verdana,Arial,Helvetica,sans-serif">
+<a href=/biography.aspx?name=collins class=chan><font face="Verdana, Arial, Helvetica" color="#000066"><strong>By Ronald K.L. Collins </font></strong></a><BR>
+First Amendment scholar
+<br>
+<font size="2" color="black" face="Verdana, Arial, Helvetica">
+09.04.06
+</font>
+<font size="3" color="black" face="Times New Roman, Verdana, Arial, Helvetica">
+<P>U.S. District Judge T.S. Ellis III ruled Aug. 10 that the Bush administration could use the <A href="http://www.law.cornell.edu/uscode/html/uscode18/usc_sec_18_00000793----000-.html">Espionage Act of 1917</A> to prosecute private citizens who obtain access to national-defense information. The case was <I><A href="http://72.14.207.104/search?q=cache:Muz4yYbR-tAJ:www.fas.org/sgp/jud/rosen080906.pdf+Judge+T.S.+Ellis+and+AIPAC&hl=en&gl=us&ct=clnk&cd=1&client=firefox-a">United States v. Rosen.</A></I> The ruling appears to be the first in which a court has held the act applies to private citizens, as distinguished from government employees, who receive and/or disclose classified or secret government information.</P>
+<P>The defendants, Steven J. Rosen and Keith Weissman, were charged with conspiring to transmit information relating to the national defense to those not lawfully entitled to receive it. Rosen was also charged with aiding and abetting the transmission of information relating to the national defense to one not entitled to receive it, in violation of a portion of the Espionage Act spelled out at <A href="http://www.law.cornell.edu/uscode/html/uscode18/usc_sec_18_00000793----000-.html">18 U.S.C. § 793(d) and 2.</A> The defendants were represented by Abbe Lowell and John Nassikas, respectively.</P>
+<P>The two former <A href="http://www.aipac.org/">American Israel Public Affairs Committee</A> lobbyists were indicted in August 2005 for allegedly conspiring to receive and disclose classified national defense information gathered or obtained over a five-year period dating to 1999. As <A href="http://www.latimes.com/sports/boxing/la-na-aipac11aug11,0,1101487.story?coll=la-story-footer">reported in the <I>Los Angeles Times,</A></I> the information purportedly related to “American policy options in the Middle East, an FBI report on the 1996 Khobar Towers bombing in Saudi Arabia, and terrorist groups such as Al Qaeda. The indictment alleges they disclosed the information to AIPAC colleagues, an Israeli Embassy official and a reporter for the Washington Post.”</P>
+<P><B>Legal challenges</B><BR>The defendants urged the court to dismiss the charges. Their pretrial motion argued that: (1) the statute, as applied to them, was unconstitutionally vague in violation of the due-process clause of the Fifth Amendment; (2) the statute, as applied to them, abridged their First Amendment right to free speech and their First Amendment right to petition the government; (3) the First Amendment rights of others were infringed because the statute was  overbroad; and (4) the court could avoid these constitutional issues by interpreting the statute to apply solely to the transmission of tangible items, i.e., documents, tapes, discs, maps and the like. </P>
+<P>Before ruling on the merits of those claims, Judge Ellis <A href="http://www.rcfp.org/news/releases/20060301-judgerejec.html">denied a request by the Reporters Committee for Freedom of the Press</A> to file a friend-of-the-court brief. Thereafter, he denied the defendants’ pretrial motions and ordered that the case proceed to trial. (As <A href="http://jurist.law.pitt.edu/paperchase/2006/08/federal-judge-rules-espionage-act.php">reported in JURIST,</A> “earlier this year former Pentagon analyst Lawrence A. Franklin was sentenced to 12 years and 7 months in federal prison for leaking information to Rosen and Weissman, as well as an official from the Israeli embassy.”)</P>
+<P><B>The opinion</B><BR>In his memorandum opinion, Judge Ellis recognized the complexity of the issues before him:</P>
+<P>
+<BLOCKQUOTE>"In the end, it must be said that this is a hard case, and not solely because the parties’ positions and arguments are both substantial and complex. It is also a hard case because it requires an evaluation of whether Congress has violated our Constitution’s most sacred values, enshrined in the First and the Fifth Amendment, when it passed legislation in furtherance of our nation’s security."</BLOCKQUOTE>
+<P></P>
+<P>Nonetheless, he ruled in favor of the Espionage Act’s constitutionality as applied to the facts in this case:</P>
+<P>
+<BLOCKQUOTE>"The conclusion here is that the balance struck by § 793 between these competing interests is constitutionally permissible because (1) it limits the breadth of the term “related to the national defense” to matters closely held by the government for the legitimate reason that their disclosure could threaten our collective security; and (2) it imposes rigorous scienter requirements as a condition for finding criminal liability."</BLOCKQUOTE>
+<P></P>
+<P>Relying on <I>United States v. Morison,</I> 844 F.2d 1057 (4th Cir. 1988), Ellis found that the Espionage Act provided a constitutionally “fair warning” as to who is “entitled to receive” national-defense information. He also concluded that the executive branch had the constitutional authority to define such information, which it did through a uniform classification system for national-security information. Similarly, he ruled that the Supreme Court’s opinions in <I><A href="http://www.firstamendmentcenter.org/faclibrary/case.aspx?id=1541">New York Times Co. v. United States</A></I> (1971 — the Pentagon Papers case), supported the law’s constitutionality as applied to the defendants. Even so, he added:</P>
+<P>
+<BLOCKQUOTE>"The conclusion that the statute is constitutionally permissible does not reflect a judgment about whether Congress could strike a more appropriate balance between these competing interests, or whether a more carefully drawn statute could better serve both the national security and the value of public debate. Indeed, the basic terms and structure of this statute have remained largely unchanged since the administration of William Howard Taft. The intervening years have witnessed dramatic changes in the position of the United States in world affairs and the nature of threats to our national security. The increasing importance of the United States in world affairs has caused a significant increase in the size and complexity of the United States&#39; military and foreign policy establishments, and in the importance of our nation&#39;s foreign policy decision making. Finally, in the nearly one hundred years since the passage of the Defense Secrets Act mankind has made great technological advances affecting not only the nature and potential devastation of modern warfare, but also the very nature of information and communication."</BLOCKQUOTE>
+<P></P>
+<P>Given that, Ellis urged Congress to reconsider the wisdom of certain provisions of the Espionage Act of 1917 in light of modern circumstances.</P>
+<P>
+<BLOCKQUOTE>"These changes should suggest to even the most casual observer that the time is ripe for Congress to engage in a thorough review and revision of these provisions to ensure that they reflect both these changes, and contemporary views about the appropriate balance between our nation’s security and our citizens’ ability to engage in public debate about the United States’ conduct in the society of nations."</BLOCKQUOTE>
+<P></P>
+<P>Meanwhile, he ruled that the defendants’ First Amendment challenges must be denied:</P>
+<P>
+<BLOCKQUOTE>"In essence, their position is that once a government secret has been leaked to the general public and the first line of defense thereby breached, the government has no recourse but to sit back and watch as the threat to the national security caused by the first disclosure multiplies with every subsequent disclosure."</BLOCKQUOTE>
+<P></P>
+<P>“This position cannot be sustained,” Ellis concluded. Moreover, “both common sense and the relevant precedent point persuasively to the conclusion that the government can punish those outside of the government for the unauthorized receipt and deliberate retransmission of information relating to the national defense.”</P>
+<P>But the government, the judge stressed, cannot simply invoke the Espionage Act in a talismanic way. It must prove that “national security is genuinely at risk” and it must likewise show that those charged under the act knew that its disclosure could injure the national defense. Similarly, the government must show that its officials did not authorize the leaking of any such information.</P>
+<P><B>The future</B><BR>The trial, which was originally scheduled for April 25, 2006, has been delayed; a date has yet to be set. The judge announced that he would hold a status conference in September to set the schedule.</P>
+<P>In June, Senate Judiciary Committee Chairman Arlen Specter, R-Pa., and other members of the committee clashed with Justice Department officials who maintained that the executive branch had the legal authority to prosecute the news media for reporting national-security leaks.</P>
+<P>During that hearing, however, Gabriel Schoenfeld (a senior editor at <I>Commentary</I> and author of an <A href="http://www.commentarymagazine.com/Production/files/schoenfeld0306advance.html">article</A> calling for the prosecution of <I>The New York Times</I> under the Espionage Act), stated: “If Americans are still wondering why our intelligence has been as defective as it has been, leading us from disaster to disaster, one of the reasons is unquestionably the hemorrhaging of classified information into the press.”</P>
+<P>Schoenfeld made those comments in connection with a Dec. 16, 2005, <I>Times</I> story by James Risen and Eric Lichtblau. The story, which won a Pulitzer Prize, revealed that President Bush had “authorized the National Security Agency to eavesdrop on Americans and others inside the United States … without the court-approved warrants ordinarily required for domestic spying.”</P>
+<P>Taking a different view, First Amendment Center Ombudsman Paul McMasters contends: “Criminalizing speech about government secrecy flouts the First Amendment and allows government officials to slip through the back door of the nation’s newsrooms to stifle legitimate inquiry and punish journalists and others who raise uncomfortable issues.”</P>
+<P>Whether the government will obtain a conviction in the AIPAC case remains to be seen. There is also the question as to what Congress will or will not do in reviewing the wisdom of the Espionage Act of 1917.</P>
+<P>Finally, there is the matter of how all of this might affect the press should any reporters or editors ever be prosecuted under such laws. The latter question is a topic of a forthcoming First Amendment Center First Report by University of Chicago law professor <A href="http://www.law.uchicago.edu/faculty/stone-g/">Geoffrey Stone</A> with assistance from University of Miami law professor <A href="http://www.law.miami.edu/facadmin/faculty/svladeck.html">Stephen Vladeck</A> and <A href="http://www.sourcewatch.org/index.php?title=Scott_Armstrong">Scott Armstrong,</A> founder of the Information Trust.</P>
+						
+						
+						
+						
+						
+						
+</font>
+<br>
+<font face="Verdana,Arial,Helvetica,sans-serif" size="2" color="#660000"><strong>
+Related
+</strong></font>
+<br>
+<br>
+<a href=/news.aspx?id=16982 class=chan9 >
+<strong><font color=black size=3 face="Times New Roman, Verdana, Arial, Helvetica, sans-serif">
+Senators seek answers in probe of late columnist&#39;s records</font></strong></a></font>
+<br>
+<font color=black size=2 face="Times New Roman, Verdana, Arial, Helvetica, sans-serif">
+Judiciary Committee members grow impatient when Justice Department official refuses to comment on FBI investigation into Jack Anderson papers. 06.06.06
+</font>
+<br>
+<br>
+<a href=/news.aspx?id=17262 class=chan9 >
+<strong><font color=black size=3 face="Times New Roman, Verdana, Arial, Helvetica, sans-serif">
+Judge won&#39;t toss case about receiving leaked info</font></strong></a></font>
+<br>
+<font color=black size=2 face="Times New Roman, Verdana, Arial, Helvetica, sans-serif">
+Despite previous reservations on free-speech grounds, district judge upholds constitutionality of 1917 Espionage Act. 08.10.06
+</font>
+<br>
+<br>
+<a href=/news.aspx?id=17291 class=chan9 >
+<strong><font color=black size=3 face="Times New Roman, Verdana, Arial, Helvetica, sans-serif">
+News-media groups decry bill to curb intelligence leaks</font></strong></a></font>
+<br>
+<font color=black size=2 face="Times New Roman, Verdana, Arial, Helvetica, sans-serif">
+Legislation introduced by Sen. Kit Bond revives nearly identical measure approved by Congress in 2000 but vetoed by President Clinton. 08.18.06
+</font>
+<br>
+<br>
+<a href=/news.aspx?id=17311 class=chan9 >
+<strong><font color=black size=3 face="Times New Roman, Verdana, Arial, Helvetica, sans-serif">
+Judge orders probe of leak in AIPAC case</font></strong></a></font>
+<br>
+<font color=black size=2 face="Times New Roman, Verdana, Arial, Helvetica, sans-serif">
+Federal court tells Justice Dept. to investigate how news media learned of criminal probe involving two pro-Israel lobbyists now on trial for illegally disclosing classified info. 08.23.06
+</font>
+<br>
+<br>
+<a href=/news.aspx?id=17448 class=chan9 >
+<strong><font color=black size=3 face="Times New Roman, Verdana, Arial, Helvetica, sans-serif">
+Bush declassifies part of intel report</font></strong></a></font>
+<br>
+<font color=black size=2 face="Times New Roman, Verdana, Arial, Helvetica, sans-serif">
+President criticizes press, leakers concerning publicized portions of classified intelligence assessment suggesting Iraq war worsened terrorism. 09.26.06
+</font>
+<br>
+<br>
+<a href=/news.aspx?id=17893 class=chan9 >
+<strong><font color=black size=3 face="Times New Roman, Verdana, Arial, Helvetica, sans-serif">
+ACLU: Government wants &#39;secret&#39; document returned</font></strong></a></font>
+<br>
+<font color=black size=2 face="Times New Roman, Verdana, Arial, Helvetica, sans-serif">
+Executive director says subpoena serves no legitimate investigative purpose, tramples on fundamental First Amendment rights. 12.14.06
+</font>
+<br>
+<br>
+<a href=/news.aspx?id=17909 class=chan9 >
+<strong><font color=black size=3 face="Times New Roman, Verdana, Arial, Helvetica, sans-serif">
+Government gives up fight over secret document</font></strong></a></font>
+<br>
+<font color=black size=2 face="Times New Roman, Verdana, Arial, Helvetica, sans-serif">
+Justice Department withdraws subpoena against ACLU, saying document about photographs of detainees will be made public. 12.19.06
+</font>
+<br>
+<br>
+<a href=/news.aspx?id=18399 class=chan9 >
+<strong><font color=black size=3 face="Times New Roman, Verdana, Arial, Helvetica, sans-serif">
+News media seek public access in AIPAC trial</font></strong></a></font>
+<br>
+<font color=black size=2 face="Times New Roman, Verdana, Arial, Helvetica, sans-serif">
+Organizations, defense oppose government request to close portions of upcoming trial of two former pro-Israel lobbyists accused of violating the Espionage Act. 04.10.07
+</font>
+<br>
+<br>
+<a href=/news.aspx?id=18427 class=chan9 >
+<strong><font color=black size=3 face="Times New Roman, Verdana, Arial, Helvetica, sans-serif">
+Federal judge rejects secrecy for AIPAC trial</font></strong></a></font>
+<br>
+<font color=black size=2 face="Times New Roman, Verdana, Arial, Helvetica, sans-serif">
+Court says government proposal to keep huge swaths of evidence out of public view is unprecedented, would violate defendants&#39;, public&#39;s right to open trial. 04.17.07
+</font>
+<br>
+<br>
+<a href=/news.aspx?id=21292 class=chan9 >
+<strong><font color=black size=3 face="Times New Roman, Verdana, Arial, Helvetica, sans-serif">
+Defense gets OK to use classified info at AIPAC trial</font></strong></a></font>
+<br>
+<font color=black size=2 face="Times New Roman, Verdana, Arial, Helvetica, sans-serif">
+Unanimous decision by 4th Circuit panel is setback in government&#39;s prosecution of two former pro-Israel lobbyists accused of illegally disclosing national defense secrets. 02.25.09
+</font>
+<br>
+<br>
+<a href=/news.aspx?id=21543 class=chan9 >
+<strong><font color=black size=3 face="Times New Roman, Verdana, Arial, Helvetica, sans-serif">
+Feds dropping charges against pro-Israel lobbyists</font></strong></a></font>
+<br>
+<font color=black size=2 face="Times New Roman, Verdana, Arial, Helvetica, sans-serif">
+Critics had accused government of trying to criminalize back-channel discussions between officials, lobbyists and reporters that are commonplace in nation&#39;s capital. 05.01.09
+</font>
+<br>
+<br>
+
+<a href=/analysis.aspx?id=17319 class=chan9 >
+<strong><font color=black size=3 face="Times New Roman, Verdana, Arial, Helvetica, sans-serif">
+AIPAC, Espionage Act & First Amendment related links</font></strong></a></font>
+<br>
+<font color=black size=2 face="Times New Roman, Verdana, Arial, Helvetica, sans-serif">
+Additional bibliography for analysis by Ronald K.L. Collins. 08.25.06
+</font>
+<br>
+<br>
+<a href=/analysis.aspx?id=23649 class=chan9 >
+<strong><font color=black size=3 face="Times New Roman, Verdana, Arial, Helvetica, sans-serif">
+WikiLeaks: Espionage? Journalism? Something else?</font></strong></a></font>
+<br>
+<font color=black size=2 face="Times New Roman, Verdana, Arial, Helvetica, sans-serif">
+<B>By The Associated Press</B> As government discusses whether to prosecute Julian Assange, some say he could argue he&#39;s protected by the First Amendment. 12.01.10
+</font>
+<br>
+<br>
+
+<a href=/commentary.aspx?id=17265 class=chan9 >
+<strong><font color=black size=3 face="Times New Roman, Verdana, Arial, Helvetica, sans-serif">
+Criminalizing speech to protect secrets</font></strong></a></font>
+<br>
+<font color=black size=2 face="Times New Roman, Verdana, Arial, Helvetica, sans-serif">
+<B>By Paul K. McMasters</B> The specter of an &#39;official secrets act&#39; rises again, casting a pall over free speech, free flow of information and government accountability. 08.13.06
+</font>
+<br>
+<br>
+
+
+
+
+
+<a href="analysis_commentary.aspx" class=chan9>
+<font face="Verdana,Arial,Helvetica,sans-serif" size="2" color="black"><strong>
+Analysis/Commentary summary page
+</strong></font></a>
+<br>
+<font face="Times News Roman, Verdana,Arial,Helvetica,sans-serif" size="2" color="black" >
+View the latest analysis and commentary throughout the First Amendment Center Online.
+</font><br>
+<br>
+<table cellspacing="0" cellpadding="0"  bgcolor="white" width="400" height="100" border="0" >
+<tr>
+<td bgcolor="white" align="center" valign="Top" border="0" width="400" >
+<br><br>
+<font size=2 style="sans-serif, Verdana, Arial, Helvetica">
+Last system update: 
+Sunday, December 26, 2010 | 17:50:15
+</font>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+<td width="140" bgcolor="#666666" valign="top">
+<table width="140" border="0" cellspacing="0" valign="top" cellpadding="4">
+<tr>
+<td>
+<font face="Verdana, Arial, Helvetica, sans-serif" size="1" color="white">
+&nbsp;SEARCH&nbsp;</font>
+<a href=about.aspx?item=search_tips>
+<font face="Verdana, Arial, Helvetica, sans-serif" size="1" color="yellow">
+MORE</font></a>
+<input width="80" type="text" name="qs" height="6" size="12" value="">
+</td>
+<td>
+<input type="image"  src="images/Buttons/go2.gif" width="30"  align="top" alt="go" name="go" border="0"  onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('go','','images/Buttons/go2_over.gif',1)" onMouseDown="MM_swapImage('go','','images/Buttons/go2_click.gif',1)">
+</td>
+</tr>
+</table>
+<table width="140" border="0" cellspacing="0" cellpadding="10">
+<tr>
+<td><font face="Verdana, Arial, Helvetica, sans-serif" size="1" color="#ffffff">
+<a href=/about.aspx?item=about_this_site class=chan5 ><b>
+About this site</b></a><br>
+</font>
+</td>
+</tr>
+<tr>
+<td><font face="Verdana, Arial, Helvetica, sans-serif" size="1" color="#ffffff">
+<a href=/about.aspx?item=about_firstamd class=chan5 ><b>
+About the First Amendment </b></a><br>
+</font>
+</td>
+</tr>
+<tr>
+<td><font face="Verdana, Arial, Helvetica, sans-serif" size="1" color="#ffffff">
+<a href=/about.aspx?item=about_fac class=chan5 ><b>
+About the First Amendment Center </b></a><br>
+</font>
+</td>
+</tr>
+<tr>
+<td><font face="Verdana, Arial, Helvetica, sans-serif" size="1" color="#ffffff">
+<a href=/special.aspx?item=how_you_can_help_us class=chan5 ><b>
+How to contribute </b></a><br>
+</font>
+</td>
+</tr>
+<tr>
+<td><font face="Verdana, Arial, Helvetica, sans-serif" size="1" color="#ffffff">
+<a href=/about.aspx?item=videoRSSpodcasts class=chan5 ><b>
+Video/RSS/podcasts </b></a><br>
+</font>
+</td>
+</tr>
+<tr>
+<td><font face="Verdana, Arial, Helvetica, sans-serif" size="1" color="#ffffff">
+<a href=/about.aspx?item=FAC_programs class=chan5 ><b>
+First Amendment programs </b></a><br>
+</font>
+</td>
+</tr>
+<tr>
+<td><font face="Verdana, Arial, Helvetica, sans-serif" size="1" color="#ffffff">
+<a href=sofa_reports/index.aspx class=chan5 ><b>
+State of the First Amendment<br> reports </b></a><br>
+</font>
+</td>
+</tr>
+<tr>
+<td><font face="Verdana, Arial, Helvetica, sans-serif" size="1" color="#ffffff">
+<a href=http://www.religionpublicschools.org/ class=chan5 ><b>
+Religious liberty in public schools </b></a><br>
+</font>
+</td>
+</tr>
+<tr>
+<td><font face="Verdana, Arial, Helvetica, sans-serif" size="1" color="#ffffff">
+<a href=/about.aspx?item=FAC_publications#firstreports class=chan5 ><b>
+First Reports </b></a><br>
+</font>
+</td>
+</tr>
+<tr>
+<td><font face="Verdana, Arial, Helvetica, sans-serif" size="1" color="#ffffff">
+<a href=/about.aspx?item=1011_SCT_tracker class=chan5 ><b>
+Supreme Court </b></a><br>
+</font>
+</td>
+</tr>
+<tr>
+<td><font face="Verdana, Arial, Helvetica, sans-serif" size="1" color="#ffffff">
+<a href=/about.aspx?item=columnists class=chan5 ><b>
+Columnists </b></a><br>
+</font>
+</td>
+</tr>
+<tr>
+<td><font face="Verdana, Arial, Helvetica, sans-serif" size="1" color="#ffffff">
+<a href=/about.aspx?item=experts class=chan5 ><b>
+Experts </b></a><br>
+</font>
+</td>
+</tr>
+<tr>
+<td><font face="Verdana, Arial, Helvetica, sans-serif" size="1" color="#ffffff">
+<a href=/about.aspx?item=FAC_publications class=chan5 ><b>
+First Amendment publications </b></a><br>
+</font>
+</td>
+</tr>
+<tr>
+<td><font face="Verdana, Arial, Helvetica, sans-serif" size="1" color="#ffffff">
+<a href=http://1forall.us/ class=chan5 ><b>
+1 for All </b></a><br>
+</font>
+</td>
+</tr>
+<tr>
+<td><font face="Verdana, Arial, Helvetica, sans-serif" size="1" color="#ffffff">
+<a href=/about.aspx?item=about_fac#history class=chan5 ><b>
+First Amendment Center history </b></a><br>
+</font>
+</td>
+</tr>
+<tr>
+<td><font face="Verdana, Arial, Helvetica, sans-serif" size="1" color="#ffffff">
+<a href=/about.aspx?item=glossary class=chan5 ><b>
+Glossary </b></a><br>
+</font>
+</td>
+</tr>
+<tr>
+<td><font face="Verdana, Arial, Helvetica, sans-serif" size="1" color="#ffffff">
+<a href=/about.aspx?item=Freedom_Sings class=chan5 ><b>
+Freedom Sings&reg; </b></a><br>
+</font>
+</td>
+</tr>
+<tr>
+<td><font face="Verdana, Arial, Helvetica, sans-serif" size="1" color="#ffffff">
+<a href=/about.aspx?item=events class=chan5 ><b>
+Events </b></a><br>
+</font>
+</td>
+</tr>
+<tr>
+<td><font face="Verdana, Arial, Helvetica, sans-serif" size="1" color="#ffffff">
+<a href=/about.aspx?item=crs_reports class=chan5 ><b>
+Congressional Research Service reports </b></a><br>
+</font>
+</td>
+</tr>
+<tr>
+<td><font face="Verdana, Arial, Helvetica, sans-serif" size="1" color="#ffffff">
+<a href=/about.aspx?item=guest_editorials class=chan5 ><b>
+Guest editorials </b></a><br>
+</font>
+</td>
+</tr>
+<tr>
+<td><font face="Verdana, Arial, Helvetica, sans-serif" size="1" color="#ffffff">
+<a href=faclibrary/index.aspx class=chan5 ><b>
+The First Amendment<br> Library </b></a><br>
+</font>
+</td>
+</tr>
+<tr>
+<td><font face="Verdana, Arial, Helvetica, sans-serif" size="1" color="#ffffff">
+<a href=http://1forall.us/teach-the-first-amendment/ class=chan5 ><b>
+Lesson plans </b></a><br>
+</font>
+</td>
+</tr>
+<tr>
+<td><font face="Verdana, Arial, Helvetica, sans-serif" size="1" color="#ffffff">
+<a href=http://www.freedomforum.org/ class=chan5 ><b>
+freedomforum.org </b></a><br>
+</font>
+</td>
+</tr>
+<tr>
+<td><font face="Verdana, Arial, Helvetica, sans-serif" size="1" color="#ffffff">
+<a href=http://www.newseum.org class=chan5 ><b>
+Newseum </b></a><br>
+</font>
+</td>
+</tr>
+<tr>
+<td><font face="Verdana, Arial, Helvetica, sans-serif" size="1" color="#ffffff">
+<a href=/about.aspx?item=contact_us class=chan5 ><b>
+Contact us </b></a><br>
+</font>
+</td>
+</tr>
+<tr>
+<td><font face="Verdana, Arial, Helvetica, sans-serif" size="1" color="#ffffff">
+<a href=/about.aspx?item=privacy_statement class=chan5 ><b>
+Privacy statement </b></a><br>
+</font>
+</td>
+</tr>
+<tr>
+<td><font face="Verdana, Arial, Helvetica, sans-serif" size="1" color="#ffffff">
+<a href=/about.aspx?item=related_links class=chan5 ><b>
+Related links </b></a><br>
+</font>
+</td>
+</tr>
+
+</table>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+		</form>
+	</body>
+</HTML>

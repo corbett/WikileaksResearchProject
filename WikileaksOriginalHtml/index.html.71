@@ -1,0 +1,364 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Wikileaks denies Tor hacker eavesdropping gave site its start • The Register</title>
+<script type="text/javascript">
+var RegArticle = { id:104065, pf:0, af:0, bms:0, ec:'', rating:{count:9,avg:7}, kw:[['tor','Tor'],['hacking','Hacking'],['wikileaks','Wikileaks'],['eavesdropping','Eavesdropping'],['lawful surveillance','Lawful Surveillance']], short_url:'http://reg.cx/1Jae'};
+</script>
+<meta name="keywords" content='"tor", "hacking", "wikileaks", "eavesdropping", "lawful surveillance"'>
+<link rel="image_src" href="http://www.theregister.co.uk/Design/graphics/icons/vulture_black_60_trans.png">
+<link rel="alternate" media="print" title="Printer-Friendly version" href="print.html" type="text/html">
+<link rel="up" title="Security: Enterprise Security section" href="/security/enterprise/">
+<link rel=stylesheet type="text/css" href="/style_picker/design?a">
+<style type="text/css" media="screen, projection">
+#sec-security a { font-weight: bold }
+#sub-sec-enterprise a { font-weight: bold }
+</style>
+<link rel=alternate type="application/atom+xml" href="/headlines.atom" title="The Register: whole site">
+<link rel=alternate type="application/atom+xml" href="/security/headlines.atom" title="The Register: Security section">
+<link rel=alternate type="application/atom+xml" href="/security/enterprise/headlines.atom" title="The Register: Enterprise Security subsection">
+
+<script type="text/javascript" src="/Design/javascript/_.js?a"></script>
+<script type="text/javascript">document.write(RegNIR('sec.enterprise'))</script>
+<script type="text/javascript" src="/security/enterprise/data.js"></script>
+<link rel="SHORTCUT ICON" type="image/x-icon" href="/favicon.ico">
+<link rel=top title="Site homepage" href="/">
+<link rel=search href="http://search.theregister.co.uk/">
+<link rel=search type="application/opensearchdescription+xml" title="El Reg Search" href="/Design/page/search.osd">
+<link rel=apple-touch-icon href="/Design/graphics/icons/vulture_black_60_trans.png">
+<link rel=microsummary href="/microsummary.txt" type="text/plain; charset=utf-8">
+
+
+
+<script type="text/javascript">
+google_ad_client="pub-6455808816405956";
+google_targeting="content";
+google_ad_channel='2140906281';
+google_ad_output='js';
+google_max_num_ads='6';
+google_ad_type='text';
+google_language='en';
+google_encoding='utf8';
+google_safe='high';
+google_feedback='on';
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script>
+
+
+</head>
+<body>
+<div id=page>
+<p id=contentlink><a href="#main-content">Skip to content</a></p>
+<div id="am">
+  <p class=login></p>
+  <ul>
+    <li><a href="http://whitepapers.theregister.co.uk/">Whitepapers</a></li>
+    
+    <li>| <a href="http://www.reghardware.com/">Reg Hardware</a></li>
+    <li>| <a href="http://www.channelregister.co.uk/">Channel Reg</a></li>
+  </ul>
+</div>
+<div id=masthead>
+<h1>
+<a href="/"><img src="/Design/graphics/std/logo_414_80.png" width=414 height=80 alt="The Register® — Biting the hand that feeds IT"></a>
+</h1>
+
+</div>
+<div id=top-nav>
+<ul>
+<li id=sec-hardware><a href="/hardware/" title="Hardware: PCs &amp; Chips, Servers, Storage, Data Networking, Virtualization">Hardware</a></li>
+<li id=sec-software><a href="/software/" title="Software: Operating Systems, Applications, Developer, Microbite">Software</a></li>
+<li id=sec-music-media><a href="/music_media/" title="Music and media">Music &amp; Media</a></li>
+<li id=sec-networks><a href="/networks/" title="Networks: VoIP, Wireless, Mobile, Telecoms">Networks</a></li>
+<li id=sec-security><a href="/security/" title="Security: Crime, Enterprise Security, Anti-Virus, Spam, Identity, Spyware">Security</a></li>
+<li id=sec-public-sector><a href="/public_sector/" title="Public Sector: Government, Law, Policing">Public Sector</a></li>
+<li id=sec-business><a href="/business/" title="Business: Financial News, Small Biz, IT Director, Tech Panel">Business</a></li>
+<li id=sec-science><a href="/science/" title="Science: Environment, Biology, Physics, Space, Rise of the Machines™">Science</a></li>
+<li id=sec-odds><a href="/odds/" title="Odds &amp; Sods: BOFH, Verity Stob, Bootnotes, Entertainment, Letters">Odds &amp; Sods</a></li>
+</ul>
+
+<form action="http://search.theregister.co.uk/" method=GET>
+<input type=text name=q id=q>
+<noscript>
+<input type=submit value="Search »">
+</noscript>
+</form>
+
+<a href="/Design/page/feeds.html"><img src="/Design/graphics/std/feed-icon-28x28.png" width=18 height=18 alt=Feeds></a>
+
+</div>
+<div id=sub-nav>
+<ul id=subsections>
+<li id=sub-sec-crime><a href="/security/crime/" title="Crime news, analysis and opinion">Crime</a></li>
+<li id=sub-sec-malware><a href="/security/malware/" title="Malware news, analysis and opinion">Malware</a></li>
+<li id=sub-sec-enterprise><a href="/security/enterprise/" title="Enterprise Security news, analysis and opinion">Enterprise Security</a></li>
+<li id=sub-sec-spam><a href="/security/spam/" title="Spam news, analysis and opinion">Spam</a></li>
+<li id=sub-sec-identity><a href="/security/identity/" title="Identity news, analysis and opinion">ID</a></li>
+</ul>
+
+<img src="/Design/graphics/std/strap.png" width=225 height=24 alt="Biting the hand that feeds IT" class=strap>
+
+</div>
+
+
+<div id=lb>
+<div class=ad-now id=ad-lb-spot>
+<div id=ad-lb><script type="text/javascript">RegAd('lb', 'reg.security.4159/enterprise', 'pos=top;dcopt=ist;sz=728x90', VCs);</script></div>
+<noscript>
+<a href="http://ad.uk.doubleclick.net/jump/reg.security.4159/enterprise;tile=1;pos=top;dcove=d;sz=728x90;ord=TRgJGsCoAT4AABVcOscAAAAe?" target="_blank"><img src="http://ad.uk.doubleclick.net/ad/reg.security.4159/enterprise;tile=1;pos=top;dcove=d;sz=728x90;ord=TRgJGsCoAT4AABVcOscAAAAe?" alt=""></a>
+</noscript>
+</div>
+</div>
+
+<div id=main-content>
+
+
+<div id=main-col>
+
+<div id="article">
+<h2>Wikileaks denies Tor hacker eavesdropping gave site its start</h2>
+<div class="article-nav" id="article-top-nav"><ul>
+<li id="track-this-topic"><a href="alert.html" title="Get email or RSS alerts for articles like this one">Alert <img src="/Design/graphics/std/track.png" width="17" height="17" alt=""></a></li>
+<li><a href="print.html" title="View a printer-friendly version of this article"><img src="/Design/graphics/std/print.png" width="17" height="17" alt=""> Print</a></li>
+<li><a title="Tweet this to Twitter" href="http://twitter.com/home/?status=Wikileaks%20denies%20Tor%20hacker%20eavesdropping%20gave%20site%20its%20start+http://reg.cx/1Jae"><img src="/Design/graphics/icons/twitter.png" width="17" height="17" alt="">Retweet</a></li>
+<li><a title="Share on Facebook" href="http://www.facebook.com/share.php?u=http://reg.cx/1Jae"><img src="/Design/graphics/icons/facebook-grey.png" width="17" height="17" alt="">Facebook</a></li>
+</ul></div>
+<p class="standfirst">Perish the thought</p>
+<p class="byline">By <a href="http://forms.theregister.co.uk/mail_author/?story_url=/2010/06/02/wikileaks_tor_snooping_denial/" title="Send email to the author">John Leyden</a> • <a href="http://search.theregister.co.uk/?author=John%20Leyden" class="more-by-author" title="More stories on this site by John Leyden">Get more from this author</a></p>
+<p class="dateline">Posted in <a href="/security/enterprise/">Enterprise Security</a>, <a href="/2010/06/02/" title="More stories published on this date">2nd June 2010 14:08 GMT</a></p>
+<p class="wptl top"><a href="http://go.theregister.com/tl/385/-1472/an-enterprise-virtualization-primer.pdf?td=wptl385">Free whitepaper – The Register Guide to Enterprise Virtualization</a></p>
+<div id="body">
+<p><strong class="trailer">Updated</strong> WikiLeaks has denied that eavesdropping on Chinese hackers played a key part in the early days of the whistle-blowing site.</p>
+
+<p><em>Wired</em> <a target="_blank" href="http://www.wired.com/threatlevel/2010/06/wikileaks-documents">reports</a> that early WikiLeaks documents were siphoned off from Chinese hackers' activities via a node on the Tor anonymiser network, as an <a target="_blank" href="http://www.newyorker.com/reporting/2010/06/07/100607fa_fact_khatchadourian?printable=true#ixzz0pgidmuBe">extensive interview</a> with WikiLeaks' founder Julian Paul Assange by the <em>New Yorker</em> explains in greater depth.</p>
+
+<div id="article-mpu-container">
+<div class=ad-now id=ad-mpu1-spot>
+<div id=ad-mpu1><script type="text/javascript">RegAd('mpu1', 'reg.security.4159/enterprise', 'pos=top;sz=336x280', VCs);</script></div>
+<noscript>
+<a href="http://ad.uk.doubleclick.net/jump/reg.security.4159/enterprise;tile=2;pos=top;dcove=d;sz=336x280;ord=TRgJGsCoAT4AABVcOscAAAAe?" target="_blank"><img src="http://ad.uk.doubleclick.net/ad/reg.security.4159/enterprise;tile=2;pos=top;dcove=d;sz=336x280;ord=TRgJGsCoAT4AABVcOscAAAAe?" alt=""></a>
+</noscript>
+</div>
+
+<blockquote>One of the WikiLeaks activists owned a server that was being used as a node for the Tor network. Millions of secret transmissions passed through it. The activist noticed that hackers from China were using the network to gather foreign governments’ information, and began to record this traffic. Only a small fraction has ever been posted on WikiLeaks, but the initial tranche served as the site’s foundation, and Assange was able to say, “We have received over one million documents from thirteen countries.”</blockquote>
+</div>
+
+<p>Only a very small number of the documents obtained were ever published. However, the first publication on WikiLeaks back in December 2006 was culled from just this Tor-harvested traffic, <em>Wired</em> reports. This tranche of documents referred to a “secret decision,” supposedly made by Somali rebel leader Sheikh Hassan Dahir Aweys, to hire criminals as hit men in the assassination of government officials.</p>
+
+<p>The documents were published in an attempt to verify their authenticity, alongside a commentary by Assange noting they might just as easily be a clever smear as the edicts of an Islamic militant with possible links to Al-Queda.</p>
+
+<p>All this smoke and dagger intrigue received short shrift from WikiLeaks in an anonymous and sketchy denial, <a target="_blank" href="http://twitter.com/wikileaks/status/15220072701">posted</a> on the site's official Twitter feed late on Tuesday.</p>
+
+<blockquote>Wired has a beatup on WL&amp;Tor,with no new info,spinning "our" 2006 investigation into Chinese spying. Don't be fooled</blockquote>
+
+<p><em>The Register</em> has asked WikiLeaks to explain what role, if any, Tor traffic snooping might have played in the foundation of the site.</p>
+
+<p>Assange responded to our inquiries by saying the <em>New Yorker</em> and <em>Wired</em> had each presented a misleading picture, without shedding much light on WikiLeaks use of Tor exit node interception.</p>
+
+<blockquote>The imputation is incorrect. The facts concern a 2006 investigation into Chinese espionage one of our contacts were involved in. Somewhere between none and handful of those documents were ever released on WikiLeaks. Non-government targets of the Chinese espionage, such as Tibetan associations were informed (by us).</blockquote>
+
+<h3>Smoke and mirrors</h3>
+
+<p>Traffic passing through the Tor (The Onion Router) anonymizing network is encrypted until it reaches the point when it leaves the network, where it is decrypted and forwarded to its final destination. Traffic leaving at a particular exit node can always be monitored, a point which Tor has always emphasised. This monitoring may be a criminal offence, depending on where it takes place, and is certainly ethically questionable.</p>
+
+<p>Anyone using Tor should use SSH, SSL, or a VPN connection to encrypt traffic because Tor is only good for anonymity - certainly not end-to-end encryption. Users have no control over which exit nodes will be used, still less on the path traffic takes through the network, which is random by design.</p>
+
+<p>The potential to extract sensitive data by eavesdropping on traffic flowing out of a Tor exit node is well known in security circles.</p>
+
+<p>For example, in September 2007, Swedish security consultant Dan Egerstad ran a packet sniffer on five Tor exit nodes under his control, recovering the login credentials of about 1,000 email addresses, including at least 100 accounts belonging to foreign embassies in the process. One likely theory is that Egerstad had stumbled onto the surveillance of hacked accounts by unknown intelligence agencies, who were using Tor to disguise their identity. Egerstad was hauled in for questioning by the Swedish authorities over this exercise but never charged.</p>
+
+<p>Egerstad was part of a team that also found TOR exit-nodes that only forwarded traffic association with ports used for unencrypted email protocols and IM traffic. ®</p>
+
+<p><em>Additional reporting by Chris Williams.</em></p>
+</div>
+<p class="wptl btm"><a href="http://go.theregister.com/tl/385/-1472/an-enterprise-virtualization-primer.pdf?td=wptl385">Free whitepaper – The Register Guide to Enterprise Virtualization</a></p>
+<div class="article-nav" id="article-bottom-nav"><ul><li><a href="http://forums.theregister.co.uk/forum/1/2010/06/02/wikileaks_tor_snooping_denial/" title="View comments on this article"><img src="/Design/graphics/std/comment.png" width="17" height="17" alt=""><span class="number">9</span> comments</a></li></ul></div>
+<div id="related-stories">
+<h3>Related stories</h3>
+<ul class="headline-list">
+<li>
+<a href="/2010/08/02/wikileaks_insurance/" title="1.4GB mystery">Wikileaks publishes encrypted 'insurance' file</a> <small>(2 August 2010)</small>
+</li>
+<li>
+<a href="/2010/07/28/wikileaks/" title="Greasepaint - check. Factoids - check."><strong class="trailer">Analysis</strong> Hypnotic illusions at the Wikileaks Show</a> <small>(28 July 2010)</small>
+</li>
+<li>
+<a href="/2010/07/26/wikileaks_war_logs/" title="Thousands of front line reports released">Wikileaks creaks under demand for Afghan war logs</a> <small>(26 July 2010)</small>
+</li>
+<li>
+<a href="/2010/07/06/manning_formally_charged/" title="Will face military justice overseas">Wikileaks US Army mole Manning charged</a> <small>(6 July 2010)</small>
+</li>
+<li>
+<a href="/2010/06/15/twitter_downtime/" title="No one can hear you scream">Twitter topples over</a> <small>(15 June 2010)</small>
+</li>
+<li>
+<a href="/2010/06/07/wikileaks_arrest/" title="Intelligence specialist held over Baghdad video">Wikileaks' US army 'leaker' arrested</a> <small>(7 June 2010)</small>
+</li>
+<li>
+<a href="/2010/05/19/wikileaks_passport/" title="Document bit scuffed, gov bit sensitive?">Wikileaks founder relieved of passport in Oz</a> <small>(19 May 2010)</small>
+</li>
+<li>
+<a href="/2010/04/06/wikileaks_gunfire_video/" title="The pics the Pentagon didn't want you to see">Wikileaks video shows US gunfire on Reuters staff</a> <small>(6 April 2010)</small>
+</li>
+<li>
+<a href="/2010/02/04/wikileaks_pledge_drive/" title="Don't (whistle)blow it all at once">Wikileaks finds cash to continue</a> <small>(4 February 2010)</small>
+</li>
+<li>
+<a href="/2010/01/25/wikileaks_paypal/" title="Cheers, Pal">Wikileaks pledge drive hobbled by PayPal suspension</a> <small>(25 January 2010)</small>
+</li>
+<li>
+<a href="/2009/12/29/wikileaks_appeal/" title="Send money, techies, lawyers to keep whistles blowing">Wikileaks suspends ops to launch pledge drive</a> <small>(29 December 2009)</small>
+</li>
+<li>
+<a href="/2009/12/11/tsa_dhs/" title="I'll huff and I'll puff and I'll achieve very little">Congressmen steam over Wikileaks TSA breach</a> <small>(11 December 2009)</small>
+</li>
+<li>
+<a href="/2009/12/09/wikileaks_legal/" title="Good luck with that">UK air traffic control goes after Wikileaks</a> <small>(9 December 2009)</small>
+</li>
+<li>
+<a href="/2009/10/20/wikileaks_bnp/" title="Haters' data"><strong class="trailer">Updated</strong> Wikileaks publishes BNP 'member list' (again)</a> <small>(20 October 2009)</small>
+</li>
+<li>
+<a href="/2007/11/23/tor_abuse/" title="Noise on the wire">Rogue nodes snoop on TOR traffic</a> <small>(23 November 2007)</small>
+</li>
+<li>
+<a href="/2007/11/15/tor_hacker_arrest/" title="Don't want no more of the spyin' game">Tor embassy 'hacker' raided by Swedish Feds</a> <small>(15 November 2007)</small>
+</li>
+</ul>
+</div>
+</div>
+<div id=whitepapers><h3><a href="http://whitepapers.theregister.co.uk/">Whitepapers</a></h3><div class="paper first-row row-start">
+<h4><a href="http://whitepapers.theregister.co.uk/paper/view/1826/apps-security-whitepaper-2010?td=related"><img src="http://regmedia.co.uk/2010/12/13/1826.png" alt="" width="60" height="60">Google Apps Messaging and Collaboration Products</a></h4>
+<p class="standfirst"><a href="http://whitepapers.theregister.co.uk/paper/view/1826/apps-security-whitepaper-2010?td=related">Read this whitepaper to get a comprehensive look at the security controls, processes and technologies that we have implemented in Google Apps.</a></p>
+</div><div class="paper first-row">
+<h4><a href="http://whitepapers.theregister.co.uk/paper/view/1398/aberdeen-group-safe-email-7-tips-better-email-security?td=related"><img src="http://regmedia.co.uk/2010/03/19/1398.gif" alt="" width="60" height="60">Seven Important Tips for Better Email Security</a></h4>
+<p class="standfirst"><a href="http://whitepapers.theregister.co.uk/paper/view/1398/aberdeen-group-safe-email-7-tips-better-email-security?td=related">This report highlights ways Best-in-Class organizations harden themselves against threats from email.</a></p>
+</div><div class="paper row-start">
+<h4><a href="http://whitepapers.theregister.co.uk/paper/view/1410/the-critical-need-for-encrypted-email-and-file-transfer-solutions?td=related"><img src="http://regmedia.co.uk/2010/03/22/1410.gif" alt="" width="60" height="60">The Critical Need for Encrypted Email and File Transfer Solutions</a></h4>
+<p class="standfirst"><a href="http://whitepapers.theregister.co.uk/paper/view/1410/the-critical-need-for-encrypted-email-and-file-transfer-solutions?td=related">This white paper discusses Webroot Software, the sponsor of the white paper, and their relevant offerings</a></p>
+</div><div class="paper">
+<h4><a href="http://whitepapers.theregister.co.uk/paper/view/1737/how-to-get-the-foundation-right?td=related"><img src="http://regmedia.co.uk/2010/10/20/1737.gif" alt="" width="60" height="60">How to Get The Foundation Right For True Unified Communications</a></h4>
+<p class="standfirst"><a href="http://whitepapers.theregister.co.uk/paper/view/1737/how-to-get-the-foundation-right?td=related">Learn how your business can build the right foundation to achieve UC and other next-generation benefits.</a></p>
+</div><div class="paper row-start last">
+<h4><a href="http://whitepapers.theregister.co.uk/paper/view/1397/00001081-webroot-white-paper?td=related"><img src="http://regmedia.co.uk/2010/03/19/1397.gif" alt="" width="60" height="60">Why web security is best served in the cloud</a></h4>
+<p class="standfirst"><a href="http://whitepapers.theregister.co.uk/paper/view/1397/00001081-webroot-white-paper?td=related">This paper discusses the reality of web-based threats today, and discusses the drivers for cloud-based computing.</a></p>
+</div><div class="search-more"><a href="http://whitepapers.theregister.co.uk">Search more Resources</a></div>
+
+</div>
+</div>
+<div id=right-col>
+
+<script type="text/javascript">if (RegArticle.bms){
+document.write('<div class=ad-now id=ad-mpu1-spot><div id=ad-mpu1>');
+RegAd('mpu1', 'reg.security.4159/enterprise', 'pos=top;sz=336x280', VCs);
+document.write('<\/div><\/div>');
+}</script>
+
+<div id="hot" class="box">
+<h3>Most read</h3>
+<ol class="headline-list">
+<li><a href="/2010/08/10/german_government_mulls_blackberry_iphone_ban/" title="Closed proprietary system not safe for gov">Germany bans BlackBerrys and iPhones on snooping fears</a></li>
+<li><a href="/2010/12/09/operation_payback_anonymous_wikileaks_infowar_latest/" title="DDoS bombardment spreads: Op Payback to spare Twitter">Anonymous hackers' Wikileaks 'infowar' LATEST ROUNDUP</a></li>
+<li><a href="/2010/10/26/kaspersky_update_snafu/" title="Windows server security users in 2-day restart loop">Misfiring Kaspersky update reduces servers to a crawl</a></li>
+<li><a href="/2010/08/20/spanair_malware/" title="Cascading fail">Trojan-ridden warning system implicated in Spanair crash</a></li>
+<li><a href="/2010/12/15/openbsd_backdoor_claim/" title="Break out the code auditing kit">FBI 'planted backdoor' in OpenBSD</a></li>
+</ol>
+</div>
+
+
+
+<p style="padding-bottom:1em;border-bottom:1px solid #ccc"><strong><a href="http://account.theregister.co.uk/register/?product=security_news" target="_blank">Sign up, sign up for The Register's weekly IT security newsletter - click here</a></strong></p>
+
+<div><script type="text/javascript" src="http://ad.uk.doubleclick.net/adj/reg.misc.4159/textlink;dcove=d;tlid=222964969;sz=1x1;ord=TRgJGsCoAT4AABVcOscAAAAe?"></script>
+<noscript><a href="http://ad.uk.doubleclick.net/jump/reg.misc.4159/textlink;dcove=d;tlid=222964969;sz=1x1;ord=TRgJGsCoAT4AABVcOscAAAAe?" target="_blank"><img src="http://ad.uk.doubleclick.net/ad/reg.misc.4159/textlink;dcove=d;tlid=222964969;sz=1x1;ord=TRgJGsCoAT4AABVcOscAAAAe?" width=336 height=90 alt=""></a></noscript>
+</div>
+
+
+<div class="report promo white translucent">
+<h3><a href="/2010/12/23/lemv_cargo_potential/">US spy airship could haul big cargoes</a></h3>
+<div>
+<a href="/2010/12/23/lemv_cargo_potential/"><img alt="" src="http://regmedia.co.uk/2010/06/22/lemv_sidey.jpg" width=336 height=196></a><p><a href="/2010/12/23/lemv_cargo_potential/">Dirigible dream to come true in 2011?</a></p>
+</div>
+</div>
+
+
+
+<div class="report promo white translucent">
+<h3><a href="/2010/12/22/ice_cube_complete/">Building a 1km ice-cube machine at the south pole stilt-base</a></h3>
+<div>
+<a href="/2010/12/22/ice_cube_complete/"><img alt="" src="http://regmedia.co.uk/2010/12/22/ski_plane_sidey.jpg" width=336 height=223></a><p><a href="/2010/12/22/ice_cube_complete/">Extreme boffinry in the Antarctic</a></p>
+</div>
+</div>
+
+<div class=ad-now id=ad-mpu2-spot>
+<div id=ad-mpu2><script type="text/javascript">RegAd('mpu2', 'reg.security.4159/enterprise', 'pos=btm;sz=336x280,160x600', VCs);</script></div>
+<noscript>
+<a href="http://ad.uk.doubleclick.net/jump/reg.security.4159/enterprise;tile=3;pos=btm;dcove=d;sz=336x280;ord=TRgJGsCoAT4AABVcOscAAAAe?" target="_blank"><img src="http://ad.uk.doubleclick.net/ad/reg.security.4159/enterprise;tile=3;pos=btm;dcove=d;sz=336x280;ord=TRgJGsCoAT4AABVcOscAAAAe?" alt=""></a>
+</noscript>
+</div>
+
+
+<div id=sponlinks>
+<h3>Sponsored links</h3>
+<ul>
+<li><a href="http://ad.doubleclick.net/clk;231375033;13533154;r?http://ad-emea.doubleclick.net/clk;231438387;55369037;q">Switch your SSL Certificate to GeoTrust for FREE</a></li>
+<li><a target=_blank href="http://ad.doubleclick.net/clk;232400459;13533154;t?http://www.appro.com/promotion/SC_2010_booth_Invitation_intel.htm">Visit Appro &amp; Intel at SC10 for Supercomputer Technology Demos</a></li>
+</ul>
+
+
+</div>
+
+</div>
+<div id=boot>
+
+<div id=editorial-navigation>
+<h2 class=major>Don’t Miss</h2>
+<ul>
+<li class=first><a href="/odds/about/contact/">Send us News Tips</a></li>
+<li><a href="/week.html">Week’s Headlines</a></li>
+<li><a href="/archive.html">Reg Archive</a></li>
+<li><a href="/popular.html">Top 20 Stories</a></li>
+
+</ul>
+</div>
+
+<script type="text/javascript">RegTopRotInit();RegHotInit()</script>
+
+<div id=trailer>
+<div class=ad-now id=ad-trailerboard-spot>
+<div id=ad-trailerboard><script type="text/javascript">RegAd('trailerboard', 'reg.security.4159/enterprise', 'pos=btm;sz=728x90', VCs);</script></div>
+<noscript>
+<a href="http://ad.uk.doubleclick.net/jump/reg.security.4159/enterprise;tile=4;pos=btm;dcove=d;sz=728x90;ord=TRgJGsCoAT4AABVcOscAAAAe?" target="_blank"><img src="http://ad.uk.doubleclick.net/ad/reg.security.4159/enterprise;tile=4;pos=btm;dcove=d;sz=728x90;ord=TRgJGsCoAT4AABVcOscAAAAe?" alt=""></a>
+</noscript>
+</div>
+</div>
+
+
+
+</div>
+</div>
+<ul id=btm-nav>
+<li><a href="http://www.channelregister.co.uk/">Channel Register</a></li>
+<li class=last><a href="http://www.reghardware.com/">Register Hardware</a></li>
+</ul>
+<div id=footer>
+<div>
+<a href="/"> </a>
+<ul>
+<li><a href="/about/company/privacy/">Privacy</a></li>
+<li><a href="http://media.theregister.co.uk/">Advertise with Us</a></li>
+<li class=last><a href="/about/company/">Company Info</a></li>
+</ul>
+<p>© Copyright 1998–2010</p>
+
+</div>
+</div>
+
+
+</div>
+
+
+
+</body>
+</html>

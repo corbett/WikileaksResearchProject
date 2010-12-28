@@ -1,0 +1,577 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+
+<title>Wikileaks Releases Secret Report on Military Equipment - September 9, 2007 - The New York Sun</title>
+
+<link rel="stylesheet" href="http://www.nysun.com/style_new.css" type="text/css" />
+<link rel="stylesheet" href="http://www.nysun.com/style_print.css" type="text/css" />
+<link rel="shortcut icon" href="http://www.nysun.com/favicon.ico" type="image/x-icon" />
+<link rel="alternate" type="application/rss+xml" href="http://www.nysun.com/rss.xml" title="RSS feed" />
+
+<script src="http://www.nysun.com/includes/jquery.js" type="text/javascript"></script>
+
+<meta name="description" content="The government transparency Web site Wikileaks.org has unveiled secret military documents detailing the complete equipment register for all units managed by the American Army in Afghanistan. 
+The confidential records -- which Wikileaks said were">
+<meta name="keywords" content="Wikileaks Releases Secret Report on Military Equipment">
+
+<script language="JavaScript">
+function MenuSubmenu() {
+document.getElementById('sub_news').style.display = 'none';
+// document.getElementById('sub_sports').style.display = 'none';
+// document.getElementById('sub_real').style.display = 'none';
+document.getElementById('sub_oped').style.display = 'none';
+document.getElementById('sub_blogs').style.display = 'none';
+document.getElementById('sub_arts').style.display = 'none';
+document.getElementById('sub_leisure').style.display = 'none';
+document.getElementById('sub_promo').style.display = 'none';
+}
+</script>
+
+<link rel="stylesheet" type="text/css" id="bla" href="http://www.nysun.com/includes/css/article.css" />
+
+<link type="text/css" media="screen" rel="stylesheet" href="http://www.nysun.com/includes/colorbox/colorbox.css" />
+<script type="text/javascript" src="http://www.nysun.com/includes/colorbox/jquery.colorbox.js"></script>
+<script type="text/javascript">
+$(document).ready(function(){
+$("a[rel='example2']").colorbox({transition:"fade"});
+});
+</script>
+
+<script language="javascript">
+function PrintFriendly() { 
+if (document.getElementById("print_content")) {  var print_value = document.getElementById("print_content").innerHTML; }
+if (document.getElementById("print_content_2")) {  var print_value_2 = document.getElementById("print_content_2").innerHTML; }
+if (document.getElementById("print_content_3")) {  var print_value_3 = document.getElementById("print_content_3").innerHTML; }
+if (document.getElementById("print_content_4")) {  var print_value_4 = document.getElementById("print_content_4").innerHTML; }
+var page_charset=(document.charset||document.characterSet);
+
+var popup = window.open('', '569', 'width=730,height=450,toolbar=0,scrollbars=1,location=0,statusbar=0,menubar=1,resizable=1');
+
+popup.document.write('<html >\n<head>\n<meta http-equiv="Content-Type" content="text/html; charset=' + page_charset + '">\n');
+popup.document.write('<link rel="stylesheet" href="http://www.nysun.com/style_print_2.css">\n');
+popup.document.write('</head>\n');
+popup.document.write('<body>\n\n');
+if (print_value) { popup.document.write(print_value); }
+if (print_value_2) { popup.document.write(print_value_2); }
+if (print_value_3) { popup.document.write(print_value_3); }
+if (print_value_4) { popup.document.write(print_value_4); }
+popup.document.write('\n\n</body>\n</html>'); 
+popup.document.close(); 
+popup.focus(); 
+}
+
+</script>
+
+<meta name="robots" content="noarchive">
+<meta http-equiv="cache-control" content="no-cache">
+<meta http-equiv="pragma" content="no-cache">
+
+<script src="http://www.nysun.com/includes/js/toolbar.js" type="text/javascript"></script>
+<script src="http://www.nysun.com/includes/js/comments.js" type="text/javascript"></script>
+<link rel="stylesheet" href="http://www.nysun.com/includes/css/comments_form.css">
+
+<style type="text/css">
+<!--
+body {
+background:white;
+}
+
+.table_main {
+width:978px;
+border:1px solid gray;
+background: white;
+}
+.content_cell {
+padding:0 15px 0 15px;
+width:438px;
+border-right:1px solid #ccc;
+}
+-->
+</style>
+
+<style type="text/css" media="print">
+<!--
+body {
+background:white;
+}
+
+.table_main {
+width:100%;
+border:none;
+}
+.content_cell {
+width: 100%;
+padding:0;
+border:none;
+background:none;
+}
+-->
+</style>
+
+</head>
+
+<body>
+
+<div id="cover" class="no_print"></div>
+<table cellpadding="0" cellspacing="0" border="0" align="center" class="table_main">
+<tr class="no_print">
+
+<td style="width:211px; background-color:#373C41; height:105px;">
+<a href="http://www.nysun.com"><img src="http://www.nysun.com/images/logo_inside.jpg" width="211" height="105" alt="" border="0"></a>
+</td>
+
+<td style="width:767px; background-color:#373C41; height:105px; text-align:center; vertical-align:middle;" valign="middle" align="center">
+<script>var cwfl = "http://www.nysun.com/cwfl.htm";</script>
+<script src="http://tag.contextweb.com/TagPublish/getjs.aspx?action=VIEWAD&cwrun=200&cwadformat=728X90&cwpid=520504&cwwidth=728&cwheight=90&cwpnet=1&cwtagid=67046"></script>
+</td>
+
+</tr>
+
+<tr class="no_print">
+
+<td colspan="2" style="width:978px; height:81px;">
+
+<table cellpadding="0" cellspacing="0" border="0" style="width:978px; height:81px;">
+<tr>
+<td style="width:760px; height:38px; background-color:black;">
+
+<table width="760" cellspacing="0" cellpadding="0" border="0">
+<tr>
+<td class="nav2" style="background-color:#CC0000; font-weight:bold;"><a href="http://www.nysun.com/news/" style="padding:7px 10px 7px 10px;" onMouseover="MenuSubmenu(); document.getElementById('sub_news').style.display = '';">News</a></td>
+<td class="nav2"><a href="http://www.nysun.com/op-ed/" style="padding:7px 0 7px 0px;" onMouseover="MenuSubmenu(); document.getElementById('sub_oped').style.display = '';">Editorials</a></td>
+<td class="nav2"><a href="http://www.nysun.com/blogs.php" style="padding:7px 0 7px 0;" onMouseover="MenuSubmenu(); document.getElementById('sub_blogs').style.display = '';">Blogs</a></td>
+<td class="nav2"><a href="http://www.nysun.com/arts/" style="padding:7px 0 7px 0;" onMouseover="MenuSubmenu(); document.getElementById('sub_arts').style.display = '';">ARTS+</a></td>
+<td class="nav2"><a href="http://www.nysun.com/leisure/" style="padding:7px 0 7px 0;" onMouseover="MenuSubmenu(); document.getElementById('sub_leisure').style.display = '';">Features</a></td>
+<td class="nav2"><a href="http://www.nysun.com/?switch_site_version=mobile" style="padding:7px 0 7px 0;" onMouseover="MenuSubmenu();">Mobile Site</a></td>
+<td class="nav2"><a href="http://www.nysun.com/list_subscribe.php" style="padding:7px 0 7px 0;" onMouseover="MenuSubmenu();">Mailing List</a></td>
+<td class="nav2"><a href="http://www.nysun.com/blogs/legal-notices" style="padding:7px 0 7px 0;" onMouseover="MenuSubmenu();">Legal Notices</a></td>
+<td class="nav2"><a href="http://www.nysun.com/login.php" style="padding:7px 0 7px 0;" onMouseover="MenuSubmenu();">Premium Archive</a></td>
+</tr>
+</table>
+
+</td>
+<td width="218" style="width:218px; height:38px; background-color:black; text-align:center; vertical-align:middle; background:url('http://www.nysun.com/images/bg_search.gif') 0 0 no-repeat;">
+<form method="get" action="http://www.nysun.com/search.php" style="margin:0px;">
+<input type="hidden" name="cx" value="011149266269070419472:7p4afqogkoy" />
+<input type="hidden" name="cof" value="FORID:9" />
+<input type="hidden" name="ie" value="ISO-8859-1" />
+<input type="text" name="q" size="14" style="margin:0px; font-size:11px; width:120px; height:15px; border:none; display:inline;">
+<input type="submit" width="29" height="18" name="sa" value="Search" title="Search" style="padding:4px; margin:0px; background-color:transparent; color:white; font-family:Verdana,Helvetica,sans-serif; font-size:11px; font-weight:bold; text-transform:uppercase; border:none; display:inline;">
+</form>
+</td>
+</tr>
+
+<tr>
+<td style="width:760px; height:43px; background-color:white;">
+<table width="760" cellspacing="0" cellpadding="0" border="0" style="background-color:white; margin:0;" align="center">
+<tr>
+<td style="padding-left:15px; padding-right:15px; text-align:center;" align="center" width="100%">
+
+<table height="18" cellspacing="0" cellpadding="0" border="0" align="center" width="100%">
+<tr>
+<td id="sub_cell" width="100%" style="height:41px; vertical-align:middle; text-align:center;" align="center">
+
+<div id="sub_promo" style="text-align:center; vertical-align:middle; font:14px Arial;"><a href="https://www.nysun.com/subscribe_archive.php" style="color:black; text-decoration:none;"><b>Back by popular demand - The New York Sun Premium Archive</b></a></div>
+<div id="sub_news" style="text-align:left;display:none;">
+<li class="nav3"><a href="http://www.nysun.com/new-york/"><nobr>New York</nobr></a></li>
+<li class="nav3"><a href="http://www.nysun.com/national/"><nobr>National</nobr></a></li>
+<li class="nav3"><a href="http://www.nysun.com/foreign/"><nobr>Foreign</nobr></a></li>
+<li class="nav3"><a href="http://www.nysun.com/business/"><nobr>Business</nobr></a></li>
+<li class="nav3"><a href="http://www.nysun.com/obituaries/"><nobr>Obituaries</nobr></a></li>
+<li class="nav3"><a href="http://www.nysun.com/health-fitness/"><nobr>Health+</nobr></a></li>
+</div>
+
+
+
+<div id="sub_oped" style="text-align:center;display:none;">
+<li class="nav3"><a href="http://www.nysun.com/editorials/"><nobr>Editorials</nobr></a></li>
+<li class="nav3"><a href="http://www.nysun.com/opinion/"><nobr>Opinion</nobr></a></li>
+<li class="nav3"><a href="http://www.nysun.com/letters/"><nobr>Letters to the Editor</nobr></a></li>
+<li class="nav3"><a href="http://www.nysun.com/archive_editorial.php"><nobr>Editorials Archive</nobr></a></li>
+</div>
+
+<div id="sub_blogs" style="text-align:center;display:none;">
+<li class="nav3"><a href="http://www.nysun.com/blogs/citizens-constitution"><nobr>Citizen's Constitution</nobr></a></li>
+<li class="nav3"><a href="http://www.nysun.com/blogs/lawful-money"><nobr>Lawful Money</nobr></a></li>
+<li class="nav3"><a href="http://www.nysun.com/blogs/out-and-about"><nobr>Out & About Blog</nobr></a></li>
+<li class="nav3"><a href="http://www.nysun.com/blogs/united-nations"><nobr>United Nations</nobr></a></li>
+</div>
+
+<div id="sub_arts" style="text-align:center;display:none;">
+<li class="nav3"><a href="http://www.nysun.com/books/"><nobr>Books</nobr></a></li>
+<li class="nav3"><a href="http://www.nysun.com/dance/"><nobr>Dance</nobr></a></li>
+<li class="nav3"><a href="http://www.nysun.com/fine-arts/"><nobr>Fine Arts</nobr></a></li>
+<li class="nav3"><a href="http://www.nysun.com/movies/"><nobr>Movies</nobr></a></li>
+<li class="nav3"><a href="http://www.nysun.com/music/"><nobr>Music</nobr></a></li>
+<li class="nav3"><a href="http://www.nysun.com/theater/"><nobr>Theater</nobr></a></li>
+<li class="nav3"><a href="http://www.nysun.com/television/"><nobr>Television</nobr></a></li>
+<li class="nav3"><a href="http://www.nysun.com/other-arts/"><nobr>Other Arts</nobr></a></li>
+</div>
+
+<div id="sub_leisure" style="text-align:right;display:none;">
+<li class="nav3"><a href="http://www.nysun.com/style/"><nobr>Style</nobr></a></li>
+<li class="nav3"><a href="http://www.nysun.com/food-drink/"><nobr>Food and Drink</nobr></a></li>
+<li class="nav3"><a href="http://www.nysun.com/related_results.php?term=Abroad+in+New+York&topic=TRUE"><nobr>Abroad in NY</nobr></a></li>
+<li class="nav3"><a href="http://www.nysun.com/out-and-about/"><nobr>Out & About</nobr></a></li>
+<li class="nav3"><a href="http://www.nysun.com/parenting/"><nobr>Parenting</nobr></a></li>
+<li class="nav3"><a href="http://www.nysun.com/crosswords/subscriber_puzzle.php"><nobr>Crossword</nobr></a></li>
+<li class="nav3"><a href="http://www.nysun.com/antiques/"><nobr>Antiques</nobr></a></li>
+</div>
+
+
+</td>
+</tr>
+</table>
+
+</td>
+</tr>
+</table>
+
+</td>
+
+<td align="top" style="width:218px; height:43px; background-color:white; vertical-align:middle;">
+
+<!--<table height="30" cellpadding="0" cellspacing="0" border="0" style="margin:0; padding:0; vertical-align:middle;" >
+<tr>
+<td style="margin:0; vertical-align:middle; font-family:verdana,helvetica,sans-serif; font-size:18px; color:#0089C4;">F</td>
+<td style="margin:0; padding-left:2px; vertical-align:middle;"><img src="http://www.nysun.com/weather/icons/.gif" width="30" height="30" style="margin:0; padding:0; display:inline;"></td>
+<td style="margin:0; padding-left:2px; vertical-align:middle; font-family:verdana,helvetica,sans-serif; font-size:9px; color:#0089C4;">Hi F<br>
+Lo F</td>
+<td width="100" style="margin:0; padding-left:6px; vertical-align:middle;">
+</td>
+</tr>
+</table>-->
+
+</td>
+</tr>
+</table>
+
+</td>
+
+</tr>
+
+
+<tr>
+
+<td colspan="2" style="width:978px; background-color:white; border-bottom:1px solid black;">
+
+<table cellpadding="0" cellspacing="0" border="0" style="width:100%">
+<tr>
+
+<td class="no_print" style="width:190px; padding-left:10px; padding-right:10px; border-right:1px solid #ccc;">
+<p style="font-family:Verdana,Helvetica,sans-serif; font-size:12px; color:#CC0000; margin:0px 0px 10px 0px;"><b>Recent Blog Posts</b></p>
+<p class="related" style="font-size:10px; margin:0px 0px 6px 0px;"><a href="http://www.nysun.com/blogs/out-and-about/2010/10/lyn-devon-to-collaborate-with-ballet-his.html">Lyn Devon to Collaborate with Ballet Hispanico for Junior Society Benefit</a></p>
+<p class="related" style="font-size:10px; margin:0px 0px 6px 0px;"><a href="http://www.nysun.com/blogs/lawful-money/2010/10/while-youre-up-get-me-grants.html">While You’re Up, Get Me Grant’s . . .</a></p>
+<p class="related" style="font-size:10px; margin:0px 0px 6px 0px;"><a href="http://www.nysun.com/blogs/lawful-money/2010/10/john-paulsons-motives.html">John Paulson's Motives</a></p>
+<p class="related" style="font-size:10px; margin:0px 0px 6px 0px;"><a href="http://www.nysun.com/blogs/out-and-about/2010/07/moma-opening-the-original-copy-the-photo.html">MoMA Opening: "The Original Copy: The Photography of Sculpture, 1839 to Today"</a></p>
+<p class="related" style="font-size:10px; margin:0px 0px 6px 0px;"><a href="http://www.nysun.com/blogs/out-and-about/2010/07/peter-stein-bows-out-of-met-operas-new-p.html">Peter Stein bows out of Met Opera's New Production of Boris Godunov</a></p>
+<p class="related" style="font-size:10px; margin:0px 0px 6px 0px;"><a href="http://www.nysun.com/blogs/out-and-about/2010/06/handing-the-torch-of-liberty-to-a-newspa.html">Handing the Torch of Liberty to a Newspaperman</a></p>
+<div style="text-align:center; margin-top:0px;">
+<script>var cwfl = "http://www.nysun.com/cwfl.htm";</script>
+<script src="http://tag.contextweb.com/TagPublish/getjs.aspx?action=VIEWAD&cwrun=200&cwadformat=160X600&cwpid=520504&cwwidth=160&cwheight=600&cwpnet=1&cwtagid=67051"></script>
+</div>
+
+<div style="text-align:center; margin-top:10px;">
+<script>var cwfl = "http://www.nysun.com/cwfl.htm";</script>
+<script src="http://tag.contextweb.com/TagPublish/getjs.aspx?action=VIEWAD&cwrun=200&cwadformat=160X600&cwpid=520504&cwwidth=160&cwheight=600&cwpnet=1&cwtagid=89299"></script>
+</div>
+
+</td>
+
+<td class="content_cell">
+
+<div class="content">
+<!-- CONTENT BEGIN -->
+<div id="print_content"><div class="article_head"><h1 style="margin-bottom:10px;">Wikileaks Releases Secret Report on Military Equipment</h1>
+
+<p style="margin:2px 0 0 0;"><b>By <span style="color:black;"><a href="http://www.nysun.com/authors/Channing+Joseph">CHANNING JOSEPH</a></span>, <nobr>Staff Reporter of the Sun</nobr> | September 9, 2007</b></p>
+
+<p style="margin:0 0 10px 0;" class="no_screen"><b>http://www.nysun.com/foreign/wikileaks-releases-secret-report-on-military/62236/</b></p>
+
+</div>
+</div>
+
+<table id="links" cellpadding="0" cellspacing="0" border="0" class="no_print" style="border-bottom:1px solid gray; margin:5px 0 5px 0;">
+<tr><td style="vertical-align:bottom; padding:3px 5px 3px 5px; font-family:arial; font-size:12px;"><a href="#" onclick="PrintFriendly(); return false;" style="text-decoration:none; color:#525252;"><img src="http://www.nysun.com/images/icons/item_print.gif" width="21" height="12" border="0"> Print</a></td>
+
+<td style="vertical-align:bottom; padding:3px 5px 3px 5px; font-family:arial; font-size:12px; border-left:1px solid gray;"><a href="http://www.nysun.com/article_send.php?id=62236" onclick="$.fn.colorbox({href:'http://www.nysun.com/article_send.php?id=62236&overlay=TRUE', width:'500px', height:'470px', iframe:true}); return false;" style="text-decoration:none; color:#525252;"><img src="http://www.nysun.com/images/icons/item_email.gif" width="16" height="12" border="0"> Send</a></td>
+
+<td style="vertical-align:bottom; padding:3px 5px 3px 5px; font-family:arial; font-size:12px; border-left:1px solid gray;"><a href="http://www.nysun.com/foreign/wikileaks-releases-secret-report-on-military/62236/#comment_submit" style="text-decoration:none; color:#525252;"><img src="http://www.nysun.com/images/icons/item_comment.gif" width="14" height="14" border="0"> Comment</a></td>
+
+<td style="white-space:nowrap; vertical-align:bottom; padding:3px 5px 3px 5px; font-family:arial; font-size:12px; text-decoration:none; color:#525252; border-left:1px solid gray;"><noscript>Share: <a href="http://www.facebook.com/share.php?u=http%3A%2F%2Fwww.nysun.com%2Fforeign%2Fwikileaks-releases-secret-report-on-military%2F62236%2F" target=_blank><img src="http://www.nysun.com/images/icons/facebook.gif" width="16" height="16" border="0" style="vertical-align:text-bottom; padding-bottom:1px;" title="Facebook" alt="Facebook" /></a> <a href="http://api.tweetmeme.com/share?url=http%3A%2F%2Fwww.nysun.com%2Fforeign%2Fwikileaks-releases-secret-report-on-military%2F62236%2F&service=bit.ly&source=newyorksun" target=_blank><img src="http://www.nysun.com/images/icons/twitter.gif" width="16" height="16" border="0" style="vertical-align:text-bottom; padding-bottom:1px;" title="Twitter" alt="Twitter" /></a> <a href="http://www.google.com/buzz/post?url=http%3A%2F%2Fwww.nysun.com%2Fforeign%2Fwikileaks-releases-secret-report-on-military%2F62236%2F" target=_blank><img src="http://www.nysun.com/images/icons/google-buzz.gif" width="16" height="16" border="0" style="vertical-align:text-bottom; padding-bottom:1px;" alt="Google Buzz" title="Google Buzz" /></a> <a href="http://digg.com/submit?phase=2&url=http%3A%2F%2Fwww.nysun.com%2Fforeign%2Fwikileaks-releases-secret-report-on-military%2F62236%2F&title=Wikileaks+Releases+Secret+Report+on+Military+Equipment" target=_blank><img src="http://www.nysun.com/images/icons/digg.gif" width="16" height="16" border="0" style="vertical-align:text-bottom; padding-bottom:1px;" alt="Digg" title="Digg" /></a> <a href="http://del.icio.us/post?v=4&noui&jump=close&url=http%3A%2F%2Fwww.nysun.com%2Fforeign%2Fwikileaks-releases-secret-report-on-military%2F62236%2F&title=Wikileaks+Releases+Secret+Report+on+Military+Equipment" target=_blank><img src="http://www.nysun.com/images/icons/delicious.gif" width="16" height="16" border="0" style="vertical-align:text-bottom; padding-bottom:1px;" alt="del.icio.us" title="del.icio.us" /></a> </noscript>
+<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#username=newyorksun"></script>
+<script type="text/javascript">
+var addthis_config = {
+services_exclude: 'print,email',
+ui_language: 'en'
+}
+</script>
+<div id="share_cell_62236" class="addthis_toolbox addthis_default_style" style="display:none;"><a href="http://www.addthis.com/bookmark.php?v=250&amp;username=newyorksun" id="#share_link_62236" class="addthis_button" addthis:url="http://www.nysun.com/foreign/wikileaks-releases-secret-report-on-military/62236/" addthis:title="Wikileaks Releases Secret Report on Military Equipment" style="text-decoration:none; color:#525252; vertical-align:text-bottom; padding-bottom:1px;"><img src="http://s7.addthis.com/static/btn/sm-plus.gif" width="16" height="16" border="0" style="vertical-align:text-bottom; padding-bottom:1px;" alt="Share" /> Share</a></div>
+<script type="text/javascript">document.getElementById('share_cell_62236').style.display = '';</script>
+</td>
+
+</tr></table>
+<!-- PLAINTEXT STRIP END -->
+
+<div id="print_content_3"><div class="content-copy"><p class="introduction">The government transparency Web site Wikileaks.org has unveiled secret military documents detailing the complete equipment register for all units managed by the American Army in Afghanistan.</p>
+<p>The confidential records -- which Wikileaks said were probably given to the site by an unnamed government official -- list most of the equipment held in that country as of last April by American and coalition forces, and possibly even the CIA. According to the site's staff, who also remain anonymous, the authenticity of the material has been confirmed by military sources.</p>
+<p>"The leaked documents help us to understand how war money is being spent and the nature of operations in Afghanistan," the site's administrators wrote on a Wikileaks page devoted to commentary and analysis of the documents. "They provide a completely objective window into the functioning of various U.S. units from psy-ops (psychological operations) to Kabul headquarters."</p>
+<p>Asked to comment on the fact that confidential military records had been put on the Internet, Lieutenant Colonel Jonathan Withington of the Department of Defense press office told The New York Sun simply: "We were unaware of the Web site posting."</p>
+<p>Wikileaks was founded to provide a way for ordinary citizens and government officials to shed light on corruption by anonymously leaking secret documents to the public. Though the Internet site has not yet made its official debut, this is the second time in just a few days that it has released a leaked document to the press. The first instance involved a report related to a $3 billion Kenyan government corruption case, which has been subsequently covered in international news outlets, including a front-page story in Britain's Guardian newspaper.</p>
+<p>"Wikileaks has not yet publicly ‘launched,'" the site's staff wrote in a press release sent by e-mail. "However, we feel we would be remiss in our obligations to our source to sit on this material any longer."</p>
+<p>The newly released Afghanistan documents indicate that the America is using two types of chemical weapons in that country, including 72 M7 grenade dischargers -- gas grenade launchers -- and eight FN303s, "which can fire pepper-spray impregnated projectiles," according to the unsigned Wikileaks article. It was not immediately clear whether these weapons were illegal.</p>
+<p>In addition, Wikileaks wrote: "Half of all equipment purchases have been diverted to dealing with homemade mobile phone and radio bombs. Not since the U.S. 1945-1951 nuclear buildup has there been such a decisive shift in military purchasing priorities."</p>
+<p>The site administrators are encouraging visitors to examine the documents in even greater detail and to post their comments.</p>
+<p>"There is much more to be found in this [equipment] list: huge numbers of vehicles, trucks, security equipment, radio equipment, detailed in some cases right down to the level of screws and washers," Wikileaks wrote. "This list, in fact, is a perfect example of the sort of leaked document that would benefit from a global analysis: Everyone can examine it, make comments, discuss ... the various units, what their items are, and what they do, and come to conclusions about their strategic, political, and human rights significance."</p>
+<p>The Wikileaks article on the leak is available here: <a href="https://wikileaks.org/wiki/US_Military_Equipment_in_Afghanistan">https://wikileaks.org/wiki/US_Military_Equipment_in_Afghanistan</a></p></div>
+
+<!-- CONTENT END -->
+</div></div><br clear="all" />
+
+<a name="comment_submit"></a><a name="comments"></a>
+<h2 class="no_print" style="margin:5px 0 10px 0;">Comment on this article</h2>
+<script type="text/javascript" src="http://www.nysun.com/admin/FCKeditor/fckeditor.js"></script>
+<script type="text/javascript">
+window.onload = function()
+{
+var oFCKeditor = new FCKeditor( 'c_send_comment' ) ;
+oFCKeditor.BasePath   = 'http://www.nysun.com/admin/FCKeditor/' ;
+oFCKeditor.ToolbarSet = 'CommentPublic' ;
+oFCKeditor.Width	= 438 ;
+oFCKeditor.Height	= 150 ;
+oFCKeditor.ReplaceTextarea() ;
+}
+</script>
+
+
+<script language="javascript" type="text/javascript">
+var http_request = false;
+var ajax_response = false;
+
+function ValSubmit(form) {
+
+var AlertMsg = '';
+var valid = true;
+var EmailFilter = /^([a-zA-Z0-9_\'\.\-])+\@(([a-zA-Z0-9\-])+\.)+([a-zA-Z0-9]{2,6})+$/;
+var email = form.c_send_email.value;
+email = email.replace(/^\s+|\s+$/g,"");
+
+if (form.c_send_commenter.value.length < 2) {
+AlertMsg += "* Please fill in the 'Name' field.\n"; valid = false;
+}
+if (form.c_send_email.value.length < 6) {
+AlertMsg += "* Please fill in a valid email address.\n"; valid = false;
+} else if (!EmailFilter.test(email)) {
+AlertMsg += "* The email address you entered is not valid.\n"; valid = false;
+}
+if ((form.c_send_commenter.value.length >= 2) && (form.c_send_commenter.value == form.c_send_email.value)) {
+AlertMsg += "* The commenter's name may not be the same as the commenter email address.\n"; valid = false;
+}
+
+if ((form.c_send_commenter.value.length >= 2) && (form.c_send_commenter.value == form.c_send_title.value)) {
+AlertMsg += "* The comment title may not be the same as the commenter's name.\n"; valid = false;
+} else if (form.c_send_title.value.length < 3) {
+AlertMsg += "* Please fill in the 'Comment Title' field.\n"; valid = false;
+} else if (form.c_send_title.value == form.c_send_email.value) {
+AlertMsg += "* The comment title may not be the same as the commenter email address.\n"; valid = false;
+}
+
+if (valid) {
+
+form.c_send_submit.value = 'Loading...';
+document.getElementById('c_send_loading').style.display = 'inline';
+setTimeout("document.getElementById('c_send_submit').disabled = false; document.getElementById('c_send_submit').value = 'Submit Comment'; document.getElementById('c_send_loading').style.display = 'none'", 15000);
+
+return true;
+
+form.c_send_submit.disabled = true;
+
+} else {
+alert(AlertMsg);
+return false;
+}
+
+}
+
+</script>
+
+<script type="text/javascript" src="http://www.nysun.com/admin/FCKeditor/fckeditor.js"></script>
+<script type="text/javascript">
+window.onload = function()
+{
+var oFCKeditor = new FCKeditor( 'c_send_comment' ) ;
+oFCKeditor.BasePath   = 'http://www.nysun.com/admin/FCKeditor/' ;
+oFCKeditor.ToolbarSet = 'CommentPublic' ;
+oFCKeditor.Width	= 438 ;
+oFCKeditor.Height	= 150 ;
+oFCKeditor.ReplaceTextarea() ;
+}
+
+</script>
+
+<div id="show_ajax_response" style="font-family:Arial,sans-serif;"></div>
+<form name="comment_form" id="comment_form" method="POST" action="http://www.nysun.com/comment_send.php" onsubmit="return ValSubmit(comment_form)" class="no_print" style="margin:0; padding:0;">
+<input type="hidden" name="entry_id" value="62236">
+<input type="hidden" name="entry_url" value="http://www.nysun.com/foreign/wikileaks-releases-secret-report-on-military/62236/">
+<input type="hidden" name="comment_type" value="">
+<input type="hidden" name="submit_time" value="2010-12-26 22:33:46">
+
+<table width="438" cellspacing="0" cellpadding="0" border="0" style="margin:0 0 10px 0;">
+
+<tr>
+<td width="215" valign="top" style="font-size:12px; font-family:Arial,sans-serif; padding-right:4px; padding-bottom:4px;">
+<b>Name</b> <br><input style="width:99%;" type="text" size="20" name="c_send_commenter" value="" class="text">
+</td>
+
+<td width="215" valign="top" style="font-size:12px; font-family:Arial,sans-serif; padding-left:4px; padding-bottom:4px;">
+<b>Email Address</b> <br><input style="width:99%;" type="text" size="20" name="c_send_email" value="" class="text">
+</td>
+</tr>
+
+<tr>
+<td colspan="2" valign="top" style="font-size:12px; font-family:Arial,sans-serif; padding-bottom:4px;">
+<b>Title of Comments</b><br><input style="width:99%;" type="text" size="20" name="c_send_title" value="" class="text">
+</td>
+</tr>
+
+<tr>
+<td colspan="2" valign="top" style="font-size:12px; font-family:Arial,sans-serif; padding-bottom:4px;">
+<b>Comments:</b><br>
+<textarea id="c_send_comment" name="c_send_comment" cols="40" rows="10" style="width:438px; height:150px;" wrap="virtual" class="text"></textarea>
+</td>
+</tr>
+
+<tr>
+<td colspan="2">
+
+<table cellspacing="0" cellpadding="0" border="0" width="100%">
+<tr>
+
+<td style="font-size:12px;"><input type="Submit" name="c_send_submit" id="c_send_submit" value="Submit Comment" style="width:120px;"></td>
+
+<td width="18"><img src="http://www.nysun.com/images/loading.gif" width="16" height="16" alt="Loading" id="c_send_loading" style="display:none; padding-left:2px;">
+<img src="http://www.nysun.com/images/clear_pix.gif" width="16" height="0" style="display:block; padding:0 0 0 2px; margin:0;"></td>
+
+<td width="99%" style="vertical-align:top; font-size:12px; font-family:Arial,sans-serif;">
+<p class="checkbox" style="margin:0; font-size:12px; font-family:Arial,sans-serif;"><input type="checkbox" name="c_thread_notify" id="c_thread_notify" value="1"><label style="margin-top:1px;"><b>Email me</b> if someone replies to my comment</label></input></p>
+</td>
+</tr>
+</table>
+
+<p style="margin:10px 0 0 0; font-size:12px; font-family:Arial,sans-serif;"><i><b>Note:</b> Comments are screened, and in some cases edited, before posting. The New York Sun reserves the right to reject anything found to be objectionable.</i></p>
+</td>
+</tr>
+</table>
+</form>
+
+<img src="http://www.nysun.com/images/clear_pix.gif" width="438" height="1" class="no_print">
+
+<script language="javascript" src="http://www.nysun.com/tracker.js?ts=zRXY0N3Xlx2YpRnchxnNy0iMx0CMxAjM8ZzMyIjN"></script>
+
+</td>
+
+<td class="no_print" style="width:300px; padding:0 10px 0 10px;">
+<div style="background:#0189C6; color:white; padding:12px; margin-bottom:10px; font-family:Arial,sans-serif; font-weight:bold;">
+<p style="margin:0;">Would You Like to Become a Sustaining Subscriber of the Sun? <a href="https://www.nysun.com/membership.php" style="color:white; text-decoration:underline; font-weight:normal;">Sign up now</a></p>
+<p style="margin:6px 0 0 0;">* <a href="mailto:seminars@nysun.com" style="color:white; text-decoration:underline;">Inquire</a> about the Sun Seminars</p>
+</div>
+
+<div class="right_box" style="width:299px;">
+<p class="right_box_heading"><b>Follow The New York Sun</b></p>
+<div class="right_box_inner" style="text-align:center;">
+<a href="http://www.facebook.com/pages/The-New-York-Sun/109819009036381"><img src="http://www.nysun.com/images/icons/facebook_large.png" width="43" height="43" border="0" style="margin:0;" alt="Facebook" title="Facebook"></a> &nbsp;&nbsp; 
+<a href="http://twitter.com/NewYorkSun"><img src="http://www.nysun.com/images/icons/twitter_large.png" width="43" height="43" border="0" style="margin:0;" alt="Twitter" title="Twitter"></a> &nbsp;&nbsp; 
+<a href="http://www.nysun.com/rss.xml"><img src="http://www.nysun.com/images/icons/rss_large.png" width="43" height="43" border="0" style="margin:0;" alt="RSS" title="RSS"></a> &nbsp;&nbsp; 
+<a href="http://www.nysun.com/list_subscribe.php"><img src="http://www.nysun.com/images/icons/mailing_large.png" width="43" height="43" border="0" alt="Join Mailing List" title="Join Mailing List"></a>
+</div></div>
+
+<script>var cwfl = "http://www.nysun.com/cwfl.htm";</script>
+<script src="http://tag.contextweb.com/TagPublish/getjs.aspx?action=VIEWAD&cwrun=200&cwadformat=300X250&cwpid=520504&cwwidth=300&cwheight=250&cwpnet=1&cwtagid=66861"></script>
+<script>var cwfl = "http://www.nysun.com/cwfl.htm";</script>
+<script src="http://tag.contextweb.com/TagPublish/getjs.aspx?action=VIEWAD&cwrun=200&cwadformat=300X250&cwpid=520504&cwwidth=300&cwheight=250&cwpnet=1&cwtagid=66862"></script>
+<div style="margin-bottom:5px;"></div>
+<script>var cwfl = "http://www.nysun.com/cwfl.htm";</script>
+<script src="http://tag.contextweb.com/TagPublish/getjs.aspx?action=VIEWAD&cwrun=200&cwadformat=300X250&cwpid=520504&cwwidth=300&cwheight=250&cwpnet=1&cwtagid=66863"></script>
+<div style="margin:10px 0 10px 0;">
+<a href="http://www.inform.com" target=_blank><img src="http://www.nysun.com/images/inform.png" width="103" height="20" border="0" alt="Powered by Inform" style="float:right;"></a>
+<p style="font-family:Verdana,Helvetica,sans-serif; font-size:12px; color:#CC0000; margin:0 0px 10px 0px;"><b>RELATED SUN TOPICS &rsaquo;</b></p>
+
+<p class="related" style="font-size:12px; border-bottom:1px dotted gray; padding-bottom:5px; margin:5px 0px 5px 0px;"><a title="Middle East" href="http://www.nysun.com/related_results.php?term=Middle+East&topic=TRUE">Middle East</a></p>
+<p class="related" style="font-size:12px; border-bottom:1px dotted gray; padding-bottom:5px; margin:5px 0px 5px 0px;"><a title="Terrorism" href="http://www.nysun.com/related_results.php?term=Terrorism&topic=TRUE">Terrorism</a></p>
+<p style="font-family:Verdana,Helvetica,sans-serif; font-size:12px; color:#CC0000; margin:10px 0px 8px 0px;"><b>RELATED SUN STORIES &rsaquo;</b></p>
+
+<p class="related" style="font-size:12px; border-bottom:1px dotted gray; padding-bottom:5px; margin:5px 0px 5px 0px;"><a href="http://www.nysun.com/business/abu-dhabi-investors-buy-share-of-carlyle-group/63171/">Abu Dhabi Investors Buy Share of Carlyle Group</a></p>
+<p class="related" style="font-size:12px; border-bottom:1px dotted gray; padding-bottom:5px; margin:5px 0px 5px 0px;"><a href="http://www.nysun.com/business/after-ports-failure-dubai-buys-portion-of-nasdaq/63145/">After Ports Failure, Dubai Buys Portion of Nasdaq Stock Market</a></p>
+<p class="related" style="font-size:12px; border-bottom:1px dotted gray; padding-bottom:5px; margin:5px 0px 5px 0px;"><a href="http://www.nysun.com/foreign/bin-laden-declares-war-on-musharraf/63139/">Bin Laden Declares War On Musharraf</a></p>
+<p class="related" style="font-size:12px; border-bottom:1px dotted gray; padding-bottom:5px; margin:5px 0px 5px 0px;"><a href="http://www.nysun.com/foreign/bin-laden-calls-for-pakistan-revolt/63103/">Bin Laden Calls for Pakistan Revolt</a></p>
+<p class="related" style="font-size:12px; border-bottom:1px dotted gray; padding-bottom:5px; margin:5px 0px 5px 0px;"><a href="http://www.nysun.com/foreign/rice-hopeful-on-israeli-palestinian-progress/63088/">Rice Hopeful on Israeli-Palestinian Progress</a></p>
+</div>
+
+<div align="center" style="margin:7px 0 7px 0;"><script>var cwfl = "http://www.nysun.com/cwfl.htm";</script>
+<script src="http://tag.contextweb.com/TagPublish/getjs.aspx?action=VIEWAD&cwrun=200&cwadformat=160X600&cwpid=520504&cwwidth=160&cwheight=600&cwpnet=1&cwtagid=67004"></script></div>
+
+</td>
+
+</tr>
+</table>
+
+</td>
+
+</tr>
+
+<tr class="no_print">
+
+<td colspan="2" valign="bottom" height="100" style="width:978px; border-top:10px solid #CC0000; vertical-align:bottom; background:white;">
+
+<div align="center" style="margin:8px 0 8px 0;"><script>var cwfl = "http://www.nysun.com/cwfl.htm";</script>
+<script src="http://tag.contextweb.com/TagPublish/getjs.aspx?action=VIEWAD&cwrun=200&cwadformat=728X90&cwpid=520504&cwwidth=728&cwheight=90&cwpnet=1&cwtagid=67003"></script></div>
+<p style="text-align:center;"><a href="http://www.nysun.com"><img src="http://www.nysun.com/images/logo_new.png" width="451" height="89" alt="" border="0"></a></p>
+<p style="text-align:center; margin:8px 10px; 0px; 10px;" class="nav_footer">&copy; 2002-2010 TWO SL LLC, New York, NY. All rights reserved.<br />
+Use of this site signifies your agreement to the <a href="http://www.nysun.com/terms.php">Terms of Service</a> and <a href="http://www.nysun.com/privacy.php">Privacy Policy</a>.</p>
+
+<div style="margin-left:10px;" class="footer-navigation clearfix">
+<ul class="clearfix"><li><a href="http://www.nysun.com/contact.php">Contact Us</a></li></ul>
+<ul class="clearfix"><li><a href="http://www.nysun.com/rss.php">RSS Feeds</a></li></ul>
+<ul class="clearfix"><li><a href="http://www.nysun.com/authors">NY Sun Authors</a></li></ul>
+<ul class="clearfix"><li></li></ul>
+<ul class="clearfix"><li></li></ul>
+<ul class="clearfix"><li></li></ul>
+<ul class="clearfix"><li></li></ul>
+</div>
+
+<div class="footer-navigation-2 clearfix" style="clear:both; text-align:center;">
+<ul class="clearfix"><li><a href="http://www.nysun.com/news">NEWS</a></li></ul>
+<ul class="clearfix"><li><a href="http://www.nysun.com/sports">SPORTS</a></li></ul>
+<ul class="clearfix"><li><a href="http://www.nysun.com/real-estate">REAL ESTATE</a></li></ul>
+<ul class="clearfix"><li><a href="http://www.nysun.com/opinion">OPINION</a></li></ul>
+<ul class="clearfix"><li><a href="http://www.nysun.com/blogs.php">BLOGS</a></li></ul>
+<ul class="clearfix"><li><a href="http://www.nysun.com/arts">ARTS+</a></li></ul>
+<ul class="clearfix"><li><a href="http://www.nysun.com/leisure">LEISURE</a></li></ul>
+</div>
+
+</td>
+
+</tr>
+
+<tr class="no_print">
+<td colspan="2" style="width:958px; padding:10px; background:#312F2C;"><img src="http://www.nysun.com/images/clear_pix.gif" width="958" height="1" alt="" border="0"></td>
+</tr>
+
+</table>
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-4755118-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script></body>
+</html>

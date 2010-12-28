@@ -1,0 +1,951 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><head><title>Bank Of America Stock Steadies After WikiLeaks-Related Drop : The Two-Way : NPR</title><meta http-equiv="Content-type" content="text/html; charset=UTF-8"></meta><meta http-equiv="Content-Language" content="en-us"></meta><meta name="robots" content="noarchive,index,follow"></meta><meta name="Copyright" content="Copyright (c) 2010 NPR"></meta><meta http-equiv="imagetoolbar" content="no"></meta><meta name="MSSmartTagsPreventParsing" content="true"></meta><meta name="Rating" content="General"></meta><meta name="date" content="Wed, 01 Dec 2010 12:33:00 -0500"></meta><link rel="canonical" href="http://www.npr.org/blogs/thetwo-way/2010/12/01/131727190/bank-of-america-stock-steadies-after-wikileaks-related-drop"></link><meta name="description" content="Investors' fears that the whistle-blowing website might have damaging information hurt the bank's stock Tuesday. Bank of America says it has &quot;no evidence&quot; that WikiLeaks has any such data."></meta><link rel="alternate" type="application/rss+xml" title="Around the Nation" href="/rss/rss.php?id=1091"></link><link rel="alternate" type="application/rss+xml" title="The Two-Way" href="/rss/rss.php?id=103943429"></link><link type="text/css" rel="stylesheet" media="screen, print" href="/templates/css/generated/newsBlogPost.css"></link><link type="text/css" rel="stylesheet" media="print" href="/templates/css/news/print_blog.css"></link><script type="text/javascript" src="/templates/javascript/generated/newsBlogPost.js">
+   </script>
+<script type="text/javascript" src="http://community.npr.org/ver1.0/Direct/DirectProxy">
+   </script>
+<script type="text/javascript" src="http://community.npr.org/ver1.0/Direct/FacebookProxy">
+   </script>
+<script type="text/javascript">
+   document.domain="npr.org";
+AddNamespace("NPR.community");
+NPR.community.sitelifeServerURL = "http://community.npr.org/ver1.0/Direct/Process";
+</script>
+        <!-- ACCIPITER TARGET -->
+        <script type="text/javascript" language="javascript">
+        <!--
+            userver = "http://u.npr.org";
+            target = "/site=NPR/area=News.U_S_.Around_the_Nation/agg=103943429/theme=103943429/storyid=131727190/blog=103943429";
+        // -->
+        </script>           <!--  ACCIPITER AD MANAGER  -->
+           <script type="text/javascript" language="javascript"> 
+           <!--
+           var ADSERVER = function() {
+               if (!pageNum) var pageNum = Math.round(Math.random() * 100000000);
+               var aamRnd      = Math.round(Math.random() * 8000000000 + 1000000000);
+               var adServer    = window.userver + "/bserver";
+               var adLocation  = window.target;
+               var allAdTags   = "/AAMALL/utype=banner/acc_random=" + aamRnd + "/pageid=" + pageNum + adLocation;
+               var adLocations = '/AAMB0/aamsz=300x250/position=right_main'
+				+ '/AAMB1/aamsz=88x31/position=search_box';
+
+               return {
+                   writeBServerScript : function() {
+                       document.write('<scr' + 'ipt src="' + adServer + allAdTags + adLocations + '?" type="text/javascript" language="javascript">'); 
+                       document.write('</scr' + 'ipt>'); 
+                   }
+               }
+           }();
+           
+           try {
+               ADSERVER.writeBServerScript();
+           }catch(e){
+           }
+           
+           // --> 
+           </script></head><body id="news" class="tmplBlogNewsStory type1 id131727190 blog103943429 theme103943429"> <!--googleoff: index--><div id="sectionWrap" class="blogPage">
+      <script type="text/javascript">
+//<![CDATA[
+
+function getDateStr()
+    {
+        var today = new Date();
+        var year = today.getYear();
+        if(year<1000) year+=1900;
+        var todayStr = toFullMonth(today.getMonth()) + " " + today.getDate() + ", " + year;
+        return todayStr;
+    }
+
+//]]>
+</script>
+
+<div id="header">
+
+    <div id="login">
+		<div id="todaysdate">
+		<script type="text/javascript">
+			 //<![CDATA[
+			 document.write(getDateStr());
+			 //]]>
+		</script>
+		</div>
+		
+		<div class="loginwrap">	
+			<div class="donate"><a href="/stations/donate/index.php?ps=st273"></a></div>		
+	    	<p id="loginPElm">
+				<!--<a href="/stations/donate/?ps=sttn" class="donate">Donate</a> | -->
+				<a href="http://shop.npr.org/?utm_source=topnav&amp;utm_medium=topnav&amp;utm_campaign=topnav" class="shop">NPR Shop</a> | 
+				<a href="/templates/community/" class="comm">NPR Social Media</a> | 
+				<a href="/templates/reg/login.php">Login</a> | 
+				<a href="/templates/reg" class="reg">Register</a>
+			</p>
+		</div>			
+			
+	</div>
+
+    <div class="headercontent">
+        <a href="/"><img src="http://media.npr.org/chrome/news/nprlogo_138x46.gif" width="138" height="46" alt="NPR" /></a>
+
+        <div class="supportwrap">
+            <div class="support">
+
+                <div class="tab" id="globalstationlocation">
+                </div>
+                <script src="/templates/javascript/localize/station_include_global.js" type="text/javascript"></script>
+
+                <p><a href="/templates/stations/stations/" class="find">Find a Station</a></p>
+            </div>
+        </div>
+
+        <!--<div class="topnavSponsor">
+            <div class="searchSponsorTxt">Support<br />provided by:</div>
+            <div class="searchSponsor"><a href=""><img src="/banners/generic_88x31.gif" width="88" height="31" alt="" /></a></div>
+        </div>-->
+		
+		<!-- ACCIPITER Search Sponsorship -->
+        <!-- COMMENTED IN - IN USE CURRENTLY -->
+        <div class="topnavSponsor">
+			<script language="javascript" type="text/javascript">
+			<!--
+			try {
+				document.writeln(AAMB1);
+			} catch(e){}
+			// -->
+			</script>
+        </div>				
+
+        <form action="/search/index.php" method="get" name="searchForm" id="searchForm" class="search">
+			<label for="searchinput">Search</label>
+			<input type="text" name="searchinput" id="searchinput" class="textbox searchbox"/>
+			<input type="button" value="" class="btn_go" onclick="submit();" />
+		</form>
+
+    </div>
+
+    <!-- localization dropdown -->
+    <div class="ddstn">
+
+        <!-- station info will be written here -->
+        <div id="station_info" class="station"></div>
+
+        <a href="javascript:void(0);" class="closemenu">close</a>
+
+        <div class="stationdata_arrow">&nbsp;</div>
+
+    </div>
+
+
+    <!-- global nav -->
+    <ul id="nav">
+        <li class="navhome"><a href="/">home</a></li>
+        <li class="navnews"><a href="/sections/news/">news</a></li>
+        <li class="navarts"><a href="/sections/arts/">arts &amp; life</a></li>
+        <li class="navmusic"><a href="/music/">music</a></li>
+        <li class="navprograms"><a href="javascript:void(0);">programs</a></li>
+        <li class="navlisten"><a href="javascript:void(0);">listen</a></li>
+        <li class="navhourly"><a href="javascript:getNewsCast();"></a></li>
+        <li class="navpodcasts"><a href="/podcasts/"></a></li>
+    </ul>
+
+    <!-- programs dropdown -->
+    <div id="menuprograms">
+
+        <div class="col news">
+            <h3>news/talk</h3>
+            <ul class="left">
+                <li><a href="/programs/morning-edition/">Morning Edition</a></li>
+                <li><a href="/programs/all-things-considered/">All Things Considered</a></li>
+                <li><a href="/programs/fresh-air/">Fresh Air</a></li>
+                <li><a href="http://thedianerehmshow.org">The Diane Rehm Show</a></li>
+                <li><a href="http://www.onthemedia.org">On The Media</a></li>
+                <li><a href="http://www.onpointradio.org/">On Point</a></li>
+				<li><a href="/programs/talk-of-the-nation/">Talk of the Nation</a></li>
+            </ul>
+            <ul class="right">
+				<li><a href="http://sciencefriday.com/">Talk of the Nation Science Friday</a></li>
+				<li><a href="/programs/tell-me-more/">Tell Me More</a></li>
+                <li><a href="/programs/weekend-edition-saturday/">Weekend Edition Saturday</a></li>
+                <li><a href="/programs/weekend-edition-sunday/">Weekend Edition Sunday</a></li>
+                <li class="hdr">Also heard on NPR stations:</li>
+                <li class="other"><a href="http://marketplace.publicradio.org">Marketplace <span>APM</span></a></li>
+            </ul>
+        </div>
+
+        <div class="col entertainment">
+            <h3>entertainment</h3>
+            <ul>
+                <li><a href="http://www.cartalk.com">Car Talk</a></li>
+				<li><a href="http://www.radiolab.org">Radiolab</a></li>
+                <li><a href="/programs/wait-wait-dont-tell-me/">Wait Wait...Don't Tell Me!</a></li>
+                <li class="hdr">Also heard on NPR stations:</li>
+                <li class="other"><a href="http://www.thisamericanlife.org">This American Life <span>PRI</span></a></li>
+                <li class="other"><a href="http://prairiehome.publicradio.org">A Prairie Home Companion <span>APM</span></a></li>
+            </ul>
+        </div>
+
+        <div class="col music">
+            <h3>music</h3>
+            <ul class="left">
+                <li><a href="/programs/all-songs-considered/">All Songs Considered</a></li>
+				<li><a href="http://www.fromthetop.org/">From The Top</a></li>             
+                <li><a href="/programs/jazzset/">JazzSet</a></li>
+                <li><a href="/programs/piano-jazz/">Marian McPartland's Piano Jazz</a></li>
+				<li><a href="/series/mountain-stage/">Mountain Stage</a></li>
+            </ul>
+            <ul class="right">
+                <li><a href="/series/4703895/song-of-the-day">Song of the Day</a></li>
+				<li><a href="http://www.thistleradio.com/">The Thistle &amp; Shamrock</a></li>
+                <li><a href="/programs/world-cafe/">World Cafe</a></li>
+                <li><a href="/programs/world-of-opera/">World of Opera</a></li>
+            </ul>
+        </div>
+
+        <div class="col special">
+            <h3>special series</h3>
+            <ul>
+                <li><a href="/series/4516989/storycorps">StoryCorps</a></li>
+                <li><a href="/blogs/money/">Planet Money</a></li>
+				<li><a href="/blogs/pictureshow/">Picture Show</a></li>
+				<li><a href="/blogs/krulwich/">Krulwich Wonders...</a></li>
+            </ul>
+        </div>
+
+        <div class="footer">
+            <a href="/programs/">PUBLIC RADIO PROGRAMS A-Z </a> <span class="pipe">|</span> <a href="#" class="closemenu">close</a>
+        </div>
+
+
+    </div>
+    <!-- end programs dropdown -->
+
+
+    <!-- listen dropdown -->
+    <div id="menulisten">
+        <div class="audiostreams">
+			<h3>hear continuous streams</h3>
+			<div class="listenblock">
+				<div class="primary">
+					<a href="javascript:getProgramStream();" class="listenicon"></a>
+					<div class="listencontent">
+						<h4><a href="javascript:getProgramStream();">24-Hour Program Stream</a></h4>
+						<p class="info">NPR News and Shows</p>
+					</div>
+				</div>
+				<div class="tab"><span><a href="/audiohelp/progstream.html" class="trans">View Schedule</a></span></div>
+				<p class="findstreams"><a href="/templates/stations/stations/">Find Stations</a> | <a href="/templates/websites/musicstreams.php?t=10001">Music Streams</a></p> 
+			</div>
+		</div>
+
+        <script type="text/javascript" src="/include/navigation/news/listenLatestProgram.js"></script>
+		
+		<div class="hourlynews">
+			<h3>hear the latest news</h3>
+			<div class="listenblock">
+				<div class="primary">
+					<a href="javascript:getNewsCast();" class="listenicon"></a>
+					<div class="listencontent">
+						<h4><a href="javascript:getNewsCast();">Hourly News Summary</a></h4>
+						<div class="duration">[4 min 45 sec]</div>
+						<p class="info">Latest NPR Newscast</p>
+					</div>
+				</div>
+			</div>
+		</div>
+        <div class="footer">
+            <a href="/programs/">Public Radio Programs A-Z</a> <span class="pipe">|</span> <a href="#" class="closemenu">close</a>
+        </div>
+
+
+    </div>
+    <!-- listen dropdown -->
+    
+    <div class="beta"></div>
+
+</div>
+   <div id="wrapper">
+            <div id="pagespanglobal">
+               </div>
+      
+<!-- END ID="PAGESPANGLOBAL" -->
+      <div id="wrapper_main">
+                  <div id="main_content">
+                        <div id="content">
+                              <div id="postspantheme01" class="themelocation">
+                                    <div id="res127610947" class="bucketwrap statichtml">
+                                          <div id="blogheader">
+	<h2>The Two-Way - NPR's News Blog</h2>
+	<a href="http://www.npr.org/blogs/thetwo-way/"><img src="http://media.npr.org/images/branding/blogs/the-two-way-BH.gif" alt="The Two-Way" /></a>
+	<div class="spacer">&nbsp;</div>
+</div>
+                  </div>
+                  
+<!-- END ID="RES127610947" CLASS="BUCKETWRAP STATICHTML" -->
+               </div>
+               
+<!-- END ID="POSTSPANTHEME01" CLASS="THEMELOCATION" -->
+               <div class="blognav">
+                                    <a href="http://www.npr.org/blogs/thetwo-way/2010/12/01/131726767/ftc-privacy-report-proposes-do-not-track-option-for-online-marketers" class="prev">&lt; previous post</a>                  <a href="http://www.npr.org/blogs/thetwo-way/2010/12/01/131729019/stocks-are-rallying-on-good-economic-news" class="next">next post  &gt;</a>
+               </div>
+               
+<!-- END CLASS="BLOGNAV" -->
+                <!--googleon: index-->               <div class="blogpost">
+                                    <a name="archivestory131727190"></a>                  <div class="storytitle">
+                                          <h1><a href="http://www.npr.org/blogs/thetwo-way/2010/12/01/131727190/bank-of-america-stock-steadies-after-wikileaks-related-drop">Bank Of America Stock Steadies After WikiLeaks-Related Drop</a></h1>
+                     <p class="categories">Categories: <a href='http://www.npr.org/templates/archives/archive.php?thingId=127747535'>Business</a>, <a href='http://www.npr.org/templates/archives/archive.php?thingId=127602855'>National News</a>, <a href='http://www.npr.org/templates/archives/archive.php?thingId=127602719'>Security</a>, <a href='http://www.npr.org/templates/archives/archive.php?thingId=127602464'>Foreign News</a></p>
+                  </div>
+                  
+<!-- END CLASS="STORYTITLE" -->
+                  <div class="postinfo">
+                                          <p class="timestamp">12:33 pm</p>                     <p class="datestamp">December 1, 2010</p>                     <input type="hidden" id="title131727190" value="Bank Of America Stock Steadies After WikiLeaks-Related Drop"></input>
+                     <input type="hidden" id="modelShortUrl131727190" value="http://n.pr/gB0vLZ"></input>
+                     <div class="storytoolswrap">
+                                                <ul class="storytools">
+                                                      <li class="twitterTool"><a class="retweetStory story131727190 twitter" onclick="javascript:NPR.socialMedia.shareOnTwitter(131727190);">Twitter<!--0--></a></li>
+                           <li class="facebookLi fbStory131727190" onclick="javascript:NPR.socialMedia.updateShareCount('Facebook',131727190);"><script type="text/javascript">function fbs_click_131727190() {u="http://www.npr.org/blogs/thetwo-way/2010/12/01/131727190/bank-of-america-stock-steadies-after-wikileaks-related-drop";t=document.title;window.open('http://www.facebook.com/sharer.php?u='+encodeURIComponent(u)+'&amp;t='+encodeURIComponent(t),'sharer','toolbar=0,status=0,width=626,height=436');return false;}</script><a class="facebook fbStory131727190" href="javascript:void(0);" onclick="return fbs_click_131727190()" target="_blank">Facebook<!--0--></a></li>
+                           <li><a class="email" href="/templates/email/emailAFriend.php?storyId=131727190" >E-mail</a></li>
+                           <li class="shareStoryTool"><a class="share" href="javascript: void(0);">Share</a><div class="sharepop">
+      <ul>
+            <li><a href="http://www.stumbleupon.com/submit?url=http://www.npr.org/blogs/thetwo-way/2010/12/01/131727190/bank-of-america-stock-steadies-after-wikileaks-related-drop&amp;title=Bank+Of+America+Stock+Steadies+After+WikiLeaks-Related+Drop" class="stumble" target="_blank">Stumble Upon</a></li>
+      <li><a class="reddit" title="Post this story to reddit" href="http://reddit.com/submit?url=http://www.npr.org/blogs/thetwo-way/2010/12/01/131727190/bank-of-america-stock-steadies-after-wikileaks-related-drop&amp;title=Bank+Of+America+Stock+Steadies+After+WikiLeaks-Related+Drop" target="_blank">Reddit</a></li>
+      <li><script type="text/javascript" showbranding="0" src="http://d.yimg.com/ds/badge.js" badgetype="text">npr708:http://www.npr.org/blogs/thetwo-way/2010/12/01/131727190/bank-of-america-stock-steadies-after-wikileaks-related-drop</script></li>
+      <li><a href="http://digg.com/submit?url=http://www.npr.org/blogs/thetwo-way/2010/12/01/131727190/bank-of-america-stock-steadies-after-wikileaks-related-drop&amp;title=Bank+Of+America+Stock+Steadies+After+WikiLeaks-Related+Drop&amp;bodytext=Investors%27+fears+that+the+whistle-blowing+website+might+have+damaging+information+hurt+the+bank%27s+stock+Tuesday.+Bank+of+America+says+it+has+%22no+evidence%22+that+WikiLeaks+has+any+such+data.&amp;media=MEDIA" class="digg" target="_blank">Digg</a></li>
+   </ul>
+   <p class="footer"><a href="http://help.npr.org/npr/consumer/kbdetail.asp?kbid=46">What is this?</a></p>
+</div>
+<div class="shareselected">
+      <a href="javascript:void(0);">Share</a>
+</div>
+
+<!-- END CLASS="SHARESELECTED" -->
+</li>
+                           <li class="printStoryTool"><a class="print" href="javascript: window.print(); void(1);">Print</a></li>
+                           <li class="commentStoryTool"><a class="comment" href="http://www.npr.org/blogs/thetwo-way/2010/12/01/131727190/bank-of-america-stock-steadies-after-wikileaks-related-drop#commentBlock">Comments (<span id="left131727190c"></span>)</a></li>
+                           <li class="recommendStoryTool"><span id="left131727190r" class="blogEntryRecommendation131727190"></span></li>
+                        </ul>
+                        <div class="spacer">
+                           &nbsp;
+                        </div>
+                     </div>
+                  </div>
+                  <div class="postcontent">
+                                          <div class="story">
+                                                <div id="storybyline" class="storylocation">
+                                                      <div class="bucketwrap byline" id="res131727192">
+                                                            <p class="byline">by <span>Mark Memmott</span></p>
+                           </div>
+                           
+<!-- END CLASS="BUCKETWRAP BYLINE" ID="RES131727192" PREVIEWTITLE="BYLINES" -->
+                        </div>
+                        
+<!-- END ID="STORYBYLINE" CLASS="STORYLOCATION" -->
+                        <div id="storytext" class="storylocation">
+                                                      <p>One day after <a href="http://www.npr.org/templates/story/story.php?storyId=131706053" target="_blank">dropping a bit more than 3%</a> on talk that it may be the next target of a WikiLeaks' documents dump, stock in Bank of America Corp. has recovered some from that loss. At this moment, <a href="http://www.nyse.com/about/listed/lcddata.html?ticker=BAC" target="_blank">shares are up about 1%</a> for the day.</p>                           <p>As <a href="http://www.charlotteobserver.com/2010/12/01/1877836/wikileaks-speculation-now-turns.html" target="_blank">the <em>Charlotte Observer </em>reports</a>, the bank:</p>                           <blockquote class="edTag">                           <p>"Said  Tuesday that it has 'no evidence' that the organization known for revealing U.S.  defense secrets has possession of one of its executives' hard drives. But  interviews with WikiLeaks' founder suggested otherwise, sending the bank's  shares to a 52-week low."</p>                           </blockquote>                           <p>WikiLeaks' Julian Assange <a href="http://blogs.forbes.com/andygreenberg/2010/11/30/is-bank-of-america-wikileaks-next-target/" target="_blank">told </a><em><a href="http://blogs.forbes.com/andygreenberg/2010/11/30/is-bank-of-america-wikileaks-next-target/" target="_blank">Forbes</a> </em>that early next year he'll have a "megaleak" about an American bank. And last year, <a href="http://www.computerworld.com/s/article/9139180/Wikileaks_plans_to_make_the_Web_a_leakier_place" target="_blank">he said WikiLeaks</a> was "sitting on 5GB from Bank of America, one of the executive's hard drives."</p>                           <p>As <a href="http://www.npr.org/blogs/thetwo-way/2010/12/01/131722777/timeline-the-international-arrest-warrant-for-wikileaks-julian-assange" target="_blank">we reported earlier</a>, Assange is the subject of an Interpol red alert because Swedish authorities want to question him again about accusations (which he denies) involving a possible rape.</p>
+                        </div>
+                        <p class="tags">Tags: <a href='http://www.npr.org/templates/archives/archive.php?thingId=131728207'>Julian Assange</a>, <a href='http://www.npr.org/templates/archives/archive.php?thingId=131728205'>WikiLeaks</a>, <a href='http://www.npr.org/templates/archives/archive.php?thingId=125951635'>Bank of America</a></p>
+                     </div>
+                     
+<!-- END CLASS="STORY" -->
+                     <div class="storytoolswrap stbottom">
+                                                <ul class="storytools">
+                                                      <li class="twitterTool"><a class="retweetStory story131727190 twitter" onclick="javascript:NPR.socialMedia.shareOnTwitter(131727190);">Twitter<!--0--></a></li>
+                           <li class="facebookLi fbStory131727190" onclick="javascript:NPR.socialMedia.updateShareCount('Facebook',131727190);"><script type="text/javascript">function fbs_click_131727190() {u="http://www.npr.org/blogs/thetwo-way/2010/12/01/131727190/bank-of-america-stock-steadies-after-wikileaks-related-drop";t=document.title;window.open('http://www.facebook.com/sharer.php?u='+encodeURIComponent(u)+'&amp;t='+encodeURIComponent(t),'sharer','toolbar=0,status=0,width=626,height=436');return false;}</script><a class="facebook fbStory131727190" href="javascript:void(0);" onclick="return fbs_click_131727190()" target="_blank">Facebook<!--0--></a></li>
+                           <li><a class="email" href="/templates/email/emailAFriend.php?storyId=131727190" >E-mail</a></li>
+                           <li class="shareStoryTool"><a class="share" href="javascript: void(0);">Share</a><div class="sharepop">
+      <ul>
+            <li><a href="http://www.stumbleupon.com/submit?url=http://www.npr.org/blogs/thetwo-way/2010/12/01/131727190/bank-of-america-stock-steadies-after-wikileaks-related-drop&amp;title=Bank+Of+America+Stock+Steadies+After+WikiLeaks-Related+Drop" class="stumble" target="_blank">Stumble Upon</a></li>
+      <li><a class="reddit" title="Post this story to reddit" href="http://reddit.com/submit?url=http://www.npr.org/blogs/thetwo-way/2010/12/01/131727190/bank-of-america-stock-steadies-after-wikileaks-related-drop&amp;title=Bank+Of+America+Stock+Steadies+After+WikiLeaks-Related+Drop" target="_blank">Reddit</a></li>
+      <li><script type="text/javascript" showbranding="0" src="http://d.yimg.com/ds/badge.js" badgetype="text">npr708:http://www.npr.org/blogs/thetwo-way/2010/12/01/131727190/bank-of-america-stock-steadies-after-wikileaks-related-drop</script></li>
+      <li><a href="http://digg.com/submit?url=http://www.npr.org/blogs/thetwo-way/2010/12/01/131727190/bank-of-america-stock-steadies-after-wikileaks-related-drop&amp;title=Bank+Of+America+Stock+Steadies+After+WikiLeaks-Related+Drop&amp;bodytext=Investors%27+fears+that+the+whistle-blowing+website+might+have+damaging+information+hurt+the+bank%27s+stock+Tuesday.+Bank+of+America+says+it+has+%22no+evidence%22+that+WikiLeaks+has+any+such+data.&amp;media=MEDIA" class="digg" target="_blank">Digg</a></li>
+   </ul>
+   <p class="footer"><a href="http://help.npr.org/npr/consumer/kbdetail.asp?kbid=46">What is this?</a></p>
+</div>
+<div class="shareselected">
+      <a href="javascript:void(0);">Share</a>
+</div>
+
+<!-- END CLASS="SHARESELECTED" -->
+</li>
+                           <li class="printStoryTool"><a class="print" href="javascript: window.print(); void(1);">Print</a></li>
+                           <li class="commentStoryTool"><a class="comment" href="http://www.npr.org/blogs/thetwo-way/2010/12/01/131727190/bank-of-america-stock-steadies-after-wikileaks-related-drop#commentBlock">Comments (<span id="bottom131727190c"></span>)</a></li>
+                           <li class="recommendStoryTool"><span id="bottom131727190r" class="blogEntryRecommendation131727190"></span></li>
+                        </ul>
+                        <div class="spacer">
+                           &nbsp;
+                        </div>
+                     </div>
+                  </div>
+                  
+<!-- END CLASS="POSTCONTENT" -->
+               </div>
+               
+<!-- END CLASS="BLOGPOST" -->
+                <!--googleoff: index-->               <a name="commentBlock">&nbsp</a>               <div class="commentbox">
+                                    <h3>Comments</h3>
+                  <p id="commentBoxLinkSuccess" style="display:none"></p>                  <p class="closeddisc"><strong>Discussions for this story are now closed.</strong> Please see the <a href="/help/communityfaq.html">Community FAQ</a> for more information.</p>                  <div class="spacer">
+                     &nbsp;
+                  </div>
+                  <span id="overlaysGoHere"></span>
+               </div>
+               
+<!-- END CLASS="COMMENTBOX" -->
+               <script type="text/javascript">
+                              NPR.community.commentPageNum = 1;
+            NPR.community.pluckPageNum = 1;
+            NPR.community.pluckCommentKey = '';
+            NPR.community.numCommentToDisplay=10;
+            NPR.community.storyId = 131727190;
+            NPR.community.storyTitle = NPR.community.urlencode('Bank Of America Stock Steadies After WikiLeaks-Related Drop');
+               </script>
+               <form class="sortcomments" style="display:none" ><select id="sortCommentsSelector" onchange="NPR.community.sortComments(this);" onclick="NPR.community.sortComments(this);">
+      <option value="TimeStampDescending">Recent First</option>
+   <option value="TimeStampAscending">Oldest First</option>
+   <option value="RecommendationsDescending">Most Recommended</option>
+</select>
+</form>               <div id="comments">
+                                 </div>
+               
+<!-- END ID="COMMENTS" -->
+               <p class="commentsarchive" style="display:none"><a href="/templates/story/storyComments.php?storyId=131727190">View all comments <span id="commentCntArchive"></span>&raquo;</a></p>               <div class="blognav">
+                                    <a href="http://www.npr.org/blogs/thetwo-way/2010/12/01/131726767/ftc-privacy-report-proposes-do-not-track-option-for-online-marketers" class="prev">&lt; previous post</a>                  <a href="http://www.npr.org/blogs/thetwo-way/2010/12/01/131729019/stocks-are-rallying-on-good-economic-news" class="next">next post  &gt;</a>
+               </div>
+               
+<!-- END CLASS="BLOGNAV" -->
+            </div>
+            
+<!-- END ID="CONTENT" -->
+         </div>
+         
+<!-- END ID="MAIN_CONTENT" -->
+         <div id="main_sidebar">
+                        <div id="globalcontent">
+                           </div>
+            
+<!-- END ID="GLOBALCONTENT" -->
+            <div class="adwrapper">
+                              <div class="sponsor300">
+                                    
+<!-- START UNDERWRITING -->
+                              <!--  ACCIPITER AD MANAGER  -->
+            <script type="text/javascript" language="javascript">
+            <!--
+           
+            try {
+                document.writeln(AAMB0)
+            }catch(e){
+            }
+            // -->
+            </script>
+                  
+<!-- END UNDERWRITING -->
+               </div>
+               
+<!-- END CLASS="SPONSOR300" -->
+            </div>
+            
+<!-- END CLASS="ADWRAPPER" -->
+            <div id="" class="bucketwrap search">
+                              <h3>Search <span>The Two-Way</span></h3>
+               <form class="search" method="get" action="/search/index.php"><input type="hidden" name="aggId" value="103943429"></input>
+<input type="hidden" name="aggTitle" value="The Two-Way"></input>
+<input class="textbox searchbox" type="text" onblur="if(this.value==''){this.value='Search';}" onclick="if(this.value=='Search'){this.value='';}" value="Search" size="20" name="searchinput"></input>
+<input class="btn_search" type="submit" value=""></input>
+</form>
+            </div>
+            
+<!-- END ID="" CLASS="BUCKETWRAP SEARCH" -->
+            <div id="themecontent02" class="themelocation">
+                              <div id="res127610944" class="bucketwrap statichtml">
+                                    <div class="host">
+	<h3>Blog <span>Hosts</span></h3>
+	<div class="bucket img">
+		<a href="/blogs/thetwo-way/2009/05/meet_twoway_coblogger_frank_ja.html"><img src="/blogs/thetwo-way/90_james_frank.jpg" alt="Frank James" class="img90" /></a>
+		<div class="bucketblock">
+			<h4><a href="/blogs/thetwo-way/2009/05/meet_twoway_coblogger_frank_ja.html">Frank James</a></h4>
+			<p class="title"></p>
+			<p class="hostinfo"></p>
+		</div>
+	</div>
+	<div class="bucket img">
+		<a href="/blogs/thetwo-way/2009/05/meet_mark_memmott.html"><img src="/blogs/thetwo-way/90_memmott_mark.jpg" alt="Mark Memmott" class="img90" /></a>
+		<div class="bucketblock">
+			<h4><a href="/blogs/thetwo-way/2009/05/meet_mark_memmott.html">Mark Memmott</a></h4>
+			<p class="title"></p>
+			<p class="hostinfo"></p>
+		</div>
+	</div>
+</div>
+               </div>
+               
+<!-- END ID="RES127610944" CLASS="BUCKETWRAP STATICHTML" -->
+            </div>
+            
+<!-- END ID="THEMECONTENT02" CLASS="THEMELOCATION" -->
+            <div class="themewrap">
+                              <div class="innerwrap">
+                                    <div id="themecontent02a" class="themelocation">
+                                          <div id="res127610951" class="bucketwrap listtext">
+                                                <div class="bucket">
+                                                      <h3 class="edTag">What Is 'The Two-Way'?</h3>                           <p>This is NPR's news blog. It's a place to come for breaking news, analysis and for stories that are just too interesting — or too entertaining — to pass up.<br /></p>                           <p>It's also a place for conversation about the news; we're counting on you to keep us honest. But please read the <a href="http://www.npr.org/help/discussionrules.html">discussion rules</a> before diving in.<br /></p>
+                        </div>
+                        
+<!-- END CLASS="BUCKET" -->
+                     </div>
+                     
+<!-- END ID="RES127610951" CLASS="BUCKETWRAP LISTTEXT" -->
+                  </div>
+                  
+<!-- END ID="THEMECONTENT02A" CLASS="THEMELOCATION" -->
+                  <div id="themecontent02b" class="themelocation">
+                                          <div id="res127610954" class="bucketwrap listtext">
+                                                <div class="bucket">
+                                                      <h3 class="edTag">Learn More</h3>                           <p>You can find out more about The Two-Way, including the origin of its name, on the <a href="http://www.npr.org/blogs/thetwo-way/2009/05/about_the_twoway.html">"Welcome" page</a>.<br /></p>
+                        </div>
+                        
+<!-- END CLASS="BUCKET" -->
+                     </div>
+                     
+<!-- END ID="RES127610954" CLASS="BUCKETWRAP LISTTEXT" -->
+                     <div id="res127610956" class="bucketwrap listtext">
+                                                <div class="bucket">
+                                                      <h3 class="edTag">Contact 'The Two-Way'</h3>                           <p>You can drop us a line via <a href="http://www.npr.org/templates/contact/index.php?columnId=103943429">our contact form</a>.<br /></p>
+                        </div>
+                        
+<!-- END CLASS="BUCKET" -->
+                     </div>
+                     
+<!-- END ID="RES127610956" CLASS="BUCKETWRAP LISTTEXT" -->
+                  </div>
+                  
+<!-- END ID="THEMECONTENT02B" CLASS="THEMELOCATION" -->
+               </div>
+               
+<!-- END CLASS="INNERWRAP" -->
+            </div>
+            
+<!-- END CLASS="THEMEWRAP" -->
+            <div class="feed">
+                              <h3>Podcast + RSS Feeds</h3>
+               <div class="bucket">
+                                    <h4><div class="feedhdrs">
+      <span>Podcast</span>   <span>RSS</span>
+</div>
+
+<!-- END CLASS="FEEDHDRS" -->
+</h4>
+                  <ul>
+                                          <li><span class="title">The Two-Way</span><a href="javascript: void(0);" class="podicon"></a><a href="http://www.npr.org/rss/rss.php?id=103943429" class="rssicon"></a><div class="podbox" style="display:none;">
+      <p>Subscribe to <span>The Two-Way</span> podcast via:</p>   <p><a href="itpc://www.npr.org/templates/rss/podlayer.php?id=103943429" class="subitunes"><img src="http://media.npr.org/images/podcasts/ui/icon_itunes.gif" width="72" height="28" alt="iTunes"></img></a><a href="zune://subscribe/?The Two-Way=http://www.npr.org/templates/rss/podlayer.php?id=103943429" class="subzune"><img src="http://media.npr.org/images/podcasts/ui/icon_zune.gif" width="56" height="28" alt="Zune"></img></a></p>   <p class="divider">Or use this URL:</p>   <p><a class="podurllink" href="http://www.npr.org/templates/rss/podlayer.php?id=103943429"><img src="http://media.npr.org/images/podcasts/ui/icon_pod.gif" width="21" height="21" alt="This podcast"></img></a><input type="text" class="podurl" value="http://www.npr.org/templates/rss/podlayer.php?id=103943429"></input>
+</p>   <p class="closethis"><a href="#">close</a></p>   <div class="spacer">
+      &nbsp;
+   </div>
+</div>
+
+<!-- END CLASS="PODBOX" STYLE="DISPLAY:NONE;" -->
+<div class="spacer">
+   &nbsp;
+</div>
+</li>
+                     <li><span class="title">Around the Nation</span><a href="javascript: void(0);" class="podicon"></a><a href="http://www.npr.org/rss/rss.php?id=1091" class="rssicon"></a><div class="podbox" style="display:none;">
+      <p>Subscribe to <span>Around the Nation</span> podcast via:</p>   <p><a href="itpc://www.npr.org/templates/rss/podlayer.php?id=1091" class="subitunes"><img src="http://media.npr.org/images/podcasts/ui/icon_itunes.gif" width="72" height="28" alt="iTunes"></img></a><a href="zune://subscribe/?Around the Nation=http://www.npr.org/templates/rss/podlayer.php?id=1091" class="subzune"><img src="http://media.npr.org/images/podcasts/ui/icon_zune.gif" width="56" height="28" alt="Zune"></img></a></p>   <p class="divider">Or use this URL:</p>   <p><a class="podurllink" href="http://www.npr.org/templates/rss/podlayer.php?id=1091"><img src="http://media.npr.org/images/podcasts/ui/icon_pod.gif" width="21" height="21" alt="This podcast"></img></a><input type="text" class="podurl" value="http://www.npr.org/templates/rss/podlayer.php?id=1091"></input>
+</p>   <p class="closethis"><a href="#">close</a></p>   <div class="spacer">
+      &nbsp;
+   </div>
+</div>
+
+<!-- END CLASS="PODBOX" STYLE="DISPLAY:NONE;" -->
+<div class="spacer">
+   &nbsp;
+</div>
+</li>
+                  </ul>
+                  <div class="spacer">
+                     &nbsp;
+                  </div>
+               </div>
+               
+<!-- END CLASS="BUCKET" -->
+               <div class="bucketbottom">
+                                 </div>
+               
+<!-- END CLASS="BUCKETBOTTOM" -->
+            </div>
+            
+<!-- END CLASS="FEED" -->
+                    <!-- CALENDAR -->
+        <div class="calhdr">
+            <h3>Access Archived Stories</h3>
+        </div>
+        <div id="calendarwrap">
+        <form name="frmblogCalendar">
+            <div class="selectwrap">
+
+                <select name="myMonth" onchange="changeMonth(this);" onclick="changeMonth(this);" class="month">
+                    <option value="0">January</option>
+                    <option value="1">February</option>
+                    <option value="2">March</option>
+                    <option value="3">April</option>
+                    <option value="4">May</option>
+                    <option value="5">June</option>
+                    <option value="6">July</option>
+                    <option value="7">August</option>
+                    <option value="8">September</option>
+                    <option value="9">October</option>
+                    <option value="10">November</option>
+                    <option value="11">December</option>
+                </select>
+
+                <select name="myYear" onchange="changeYear(this);" onclick="changeYear(this);" class="year"><option value="2010">2010</option>
+<option value="2009">2009</option>
+<option value="2008">2008</option>
+<option value="2007">2007</option>
+<option value="2006">2006</option>
+<option value="2005">2005</option>
+<option value="2004">2004</option>
+<option value="2003">2003</option>
+<option value="2002">2002</option>
+<option value="2001">2001</option>
+<option value="2000">2000</option>
+<option value="1999">1999</option>
+<option value="1998">1998</option>
+<option value="1997">1997</option>
+<option value="1996">1996</option>
+<option value="1995">1995</option>
+<option value="1994">1994</option>
+<option value="1993">1993</option>
+</select>
+</div>
+
+<div id="calendar">
+<script src="/javascript_calendar/javascript_calendar.js"></script>
+
+<script language="javascript">
+window.calUrl = '/templates/archives/archive.php';
+window.calParamNames = 'thingId,date';
+window.calParamValues = '103943429,dateSelected';
+
+window.calLinks = "1111111";
+
+window.startDay = "0";
+window.startMonth = "1";
+window.startYear = "1993";
+
+window.selDay = 26;
+window.selMonth = 11;
+window.selYear = "2010";
+
+window.tableCellSpacing = "2";
+
+document.frmblogCalendar.myMonth.options.selectedIndex = window.selMonth;
+for (myy_i=0;myy_i<document.frmblogCalendar.myYear.options.length;myy_i++)
+{
+    if (document.frmblogCalendar.myYear.options[myy_i].value==window.selYear)
+    {
+        document.frmblogCalendar.myYear.options.selectedIndex = myy_i;
+    }
+}
+
+setCalendarOnLoadValues();
+doCalendarLoad();
+
+function changeYear(sel)
+{
+    window.selDay = '';
+    window.selYear = sel.options[sel.selectedIndex].value;
+    setCalendarOnLoadValues();
+    doCalendarLoad();
+}
+
+function changeMonth(sel)
+{
+    selDay = '';
+    window.selMonth = sel.options[sel.selectedIndex].value;
+    setCalendarOnLoadValues();
+    doCalendarLoad();
+}
+</script>
+
+</div>
+</form>
+</div>            <div class="bucketwrap blog">
+                              <h3>Blog <span>Categories</span></h3>
+               <ul class="left">
+                                    <li><a href='http://www.npr.org/templates/archives/archive.php?thingId=131216964'>Above the Fray</a></li>
+                  <li><a href='http://www.npr.org/templates/archives/archive.php?thingId=127602334'>Accidents and Disasters</a></li>
+                  <li><a href='http://www.npr.org/templates/archives/archive.php?thingId=127747535'>Business</a></li>
+                  <li><a href='http://www.npr.org/templates/archives/archive.php?thingId=129523531'>Congo River</a></li>
+                  <li><a href='http://www.npr.org/templates/archives/archive.php?thingId=127602446'>Crime</a></li>
+                  <li><a href='http://www.npr.org/templates/archives/archive.php?thingId=127602802'>Culture</a></li>
+                  <li><a href='http://www.npr.org/templates/archives/archive.php?thingId=127602331'>Economy</a></li>
+                  <li><a href='http://www.npr.org/templates/archives/archive.php?thingId=127608293'>Education</a></li>
+                  <li><a href='http://www.npr.org/templates/archives/archive.php?thingId=128644960'>Energy</a></li>
+                  <li><a href='http://www.npr.org/templates/archives/archive.php?thingId=127605092'>Entertainment</a></li>
+                  <li><a href='http://www.npr.org/templates/archives/archive.php?thingId=127602567'>Environment</a></li>
+                  <li><a href='http://www.npr.org/templates/archives/archive.php?thingId=129009726'>Food</a></li>
+                  <li><a href='http://www.npr.org/templates/archives/archive.php?thingId=127602464'>Foreign News</a></li>
+                  <li><a href='http://www.npr.org/templates/archives/archive.php?thingId=127602405'>Fun</a></li>
+                  <li><a href='http://www.npr.org/templates/archives/archive.php?thingId=128010892'>Government</a></li>
+                  <li><a href='http://www.npr.org/templates/archives/archive.php?thingId=128193325'>Grand Trunk Road</a></li>
+                  <li><a href='http://www.npr.org/templates/archives/archive.php?thingId=127606515'>Health</a></li>
+                  <li><a href='http://www.npr.org/templates/archives/archive.php?thingId=127612725'>History</a></li>
+               </ul>
+               <ul class="right">
+                                    <li><a href='http://www.npr.org/templates/archives/archive.php?thingId=127604136'>Immigration</a></li>
+                  <li><a href='http://www.npr.org/templates/archives/archive.php?thingId=127603218'>Legal</a></li>
+                  <li><a href='http://www.npr.org/templates/archives/archive.php?thingId=127857532'>Military</a></li>
+                  <li><a href='http://www.npr.org/templates/archives/archive.php?thingId=127602855'>National News</a></li>
+                  <li><a href='http://www.npr.org/templates/archives/archive.php?thingId=128059985'>Nature</a></li>
+                  <li><a href='http://www.npr.org/templates/archives/archive.php?thingId=127603166'>News Media</a></li>
+                  <li><a href='http://www.npr.org/templates/archives/archive.php?thingId=128466026'>Obituaries</a></li>
+                  <li><a href='http://www.npr.org/templates/archives/archive.php?thingId=127602596'>Politics</a></li>
+                  <li><a href='http://www.npr.org/templates/archives/archive.php?thingId=128654323'>Race in America</a></li>
+                  <li><a href='http://www.npr.org/templates/archives/archive.php?thingId=127608374'>Religion</a></li>
+                  <li><a href='http://www.npr.org/templates/archives/archive.php?thingId=127606256'>Science</a></li>
+                  <li><a href='http://www.npr.org/templates/archives/archive.php?thingId=127602719'>Security</a></li>
+                  <li><a href='http://www.npr.org/templates/archives/archive.php?thingId=127602530'>Sports</a></li>
+                  <li><a href='http://www.npr.org/templates/archives/archive.php?thingId=127602971'>Technology</a></li>
+                  <li><a href='http://www.npr.org/templates/archives/archive.php?thingId=127610560'>Travel</a></li>
+                  <li><a href='http://www.npr.org/templates/archives/archive.php?thingId=127605625'>Weather</a></li>
+                  <li><a href='http://www.npr.org/templates/archives/archive.php?thingId=129641447'>human interest</a></li>
+               </ul>
+            </div>
+            
+<!-- END CLASS="BUCKETWRAP BLOG" -->
+            <div id="themecontent05" class="themelocation">
+                              <div id="res127610958" class="bucketwrap statichtml">
+                                    <!-- blogroll -->
+<div class="blog">
+	<h3>What <span>We're Reading</span></h3>	
+	<ul class="left">
+			<li><a href="http://baselinescenario.com/">The Baseline Scenario</a></li>
+			<li><a href="http://news.bbc.co.uk/">BBC News</a></li>
+			<li><a href="http://andrewsullivan.theatlantic.com/">The Daily Dish</a></li>
+			<li><a href="http://www.huffingtonpost.com/">The Huffington Post</a></li>
+			<li><a href="http://thelede.blogs.nytimes.com/">The Lede</a></li>
+			
+	</ul>
+	<ul class="right">
+		<li><a href="http://www.memeorandum.com/">memeorandum</a></li>
+        <li><a href="http://blogs.usatoday.com/ondeadline/">On Deadline</a></li>
+	    <li><a href="http://www.politico.com/">Politico</a></li>
+	    <li><a href="http://www.propublica.org/">Pro Publica</a></li>
+		<li><a href="http://www.swamppolitics.com/news/politics/blog/">The Swamp</a></li>
+	</ul>
+</div>		
+
+
+
+		
+               </div>
+               
+<!-- END ID="RES127610958" CLASS="BUCKETWRAP STATICHTML" -->
+            </div>
+            
+<!-- END ID="THEMECONTENT05" CLASS="THEMELOCATION" -->
+            <div id="globalcontentbottom">
+                              <script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js"></script><script type="text/javascript">AddNamespace("NPR.google");</script><script type="text/javascript">    <!--    if(NPR.google.adsEnabled == null || NPR.google.adsEnabled == false)    {	    try {	        GS_googleAddAdSenseService("ca-pub-6667715786680641");	        GS_googleEnableAllServices();	    }catch(e){	    }    }    // --></script><script type="text/javascript">    <!--     if(NPR.google.adsEnabled == null || NPR.google.adsEnabled == false)    {	    try {    	        GA_googleAddSlot("ca-pub-6667715786680641", "npr_ros_300x138_a");	        GA_googleAddSlot("ca-pub-6667715786680641", "npr_ros_300x138_b");	        GA_googleAddSlot("ca-pub-6667715786680641", "npr_ros_300x138_c");	    }catch(e){	    }    }    // --></script><script type="text/javascript">    <!--       if(NPR.google.adsEnabled == null || NPR.google.adsEnabled == false)    {	    try {    	        GA_googleFetchAds();	    }catch(e){	    }    }    // --></script><script type="text/javascript">    <!--        try {            GA_googleFillSlot("npr_ros_300x138_a");    }catch(e){    }    // --></script><script type="text/javascript">    <!--       try {            GA_googleFillSlot("npr_ros_300x138_b");    }catch(e){    }    // --></script><script type="text/javascript">NPR.google.adsEnabled = true;</script>
+            </div>
+            
+<!-- END ID="GLOBALCONTENTBOTTOM" -->
+         </div>
+         
+<!-- END ID="MAIN_SIDEBAR" -->
+         <div class="spacer">
+            &nbsp;
+         </div>
+      </div>
+      
+<!-- END ID="WRAPPER_MAIN" -->
+      <script language="JavaScript">
+                         NPR.community.title = 'Bank Of America Stock Steadies After WikiLeaks-Related Drop';
+                NPR.community.storyId = 131727190;
+                NPR.community.storyInfoArray = [];
+                NPR.community.storyElemArray = [];
+                NPR.community.topicFilter = 'parent131727190'; NPR.community.storyInfoArray[0] = "131727190";  NPR.community.storyElemArray[131727190] = "left131727190,bottom131727190"; 
+      </script>
+   </div>
+   
+<!-- END ID="WRAPPER" -->
+   <div id="footer">
+
+    <div class="footerwrap">
+
+        <div class="everywhere">
+            <h3><a href="/services/">npr <span>always on</span></a></h3>
+            <ul>
+                <li><a href="/email/" class="newsletter">Newsletters</a></li>
+                <li><a href="/podcasts/" class="pod">Podcasts</a></li>
+                <li><a href="/services/mobile/" class="mobile">Mobile</a></li>
+                <li><a href="/rss/" class="rss">RSS Feeds</a></li>
+                <li><a href="/services/desktop.html" class="widget">Widgets</a></li>
+                <li><a href="/api/" class="api">API</a></li>
+                <li><a href="/services/radio.html" class="radio">Radio</a></li>
+            </ul>
+        </div>
+
+        <div class="listbg">
+
+            <div class="col first">
+                <h4><a href="/sections/news/">news</a></h4>
+                <ul>
+                    <li><a href="/sections/us/">U.S.</a></li>
+                    <li><a href="/sections/world/">World</a></li>
+                    <li><a href="/sections/opinion/">Opinion</a></li>
+                    <li><a href="/sections/politics">Politics</a></li>
+                    <li><a href="/sections/business/">Business</a></li>
+                    <li><a href="/sections/technology/">Technology</a></li>
+                    <li><a href="/sections/science/">Science</a></li>
+                    <li><a href="/sections/health/">Health</a></li>
+                    <li><a href="/sections/sports/">Sports</a></li>
+                </ul>
+            </div>
+
+            <div class="col">
+                <h4><a href="/sections/arts/">arts &amp; life</a></h4>
+                <ul>
+                    <li><a href="/sections/books/">Books</a></li>
+                    <li><a href="/sections/movies/">Movies</a></li>
+                    <li><a href="/sections/pop-culture/">Pop Culture</a></li>
+                    <li><a href="/sections/food/">Food</a></li>
+                    <li><a href="/sections/performing-arts/">Performing Arts</a></li>
+                    <li><a href="/sections/games-humor/">Games &amp; Humor</a></li>
+                </ul>
+            </div>
+
+            <div class="col">
+                <h4><a href="/music/">music</a></h4>
+                <ul>
+                    <li><a href="/sections/concerts/">Concerts</a></li>
+                    <li><a href="/sections/music-lists/">Music Lists</a></li>
+                    <li><a href="/sections/music-interviews/">Music Interviews</a></li>
+                    <li><a href="/sections/music-news/">Music News</a></li>
+                    <li><a href="/music/blogs/">Music Blogs</a></li>
+					<li><a href="/music/genres/rock-pop-folk/">Rock/Pop/Folk</a></li>
+					<li><a href="/music/genres/jazz-blues/">Jazz &amp; Blues</a></li>
+					<li><a href="/music/genres/classical/">Classical</a></li>
+                    <li><a href="/templates/artist/artist_index.php?filter=A">Browse Artists A-Z</a></li>
+                </ul>
+
+                <ul>
+                    <li><a href="/programs/all-songs-considered/">All Songs Considered</a></li>
+					<li><a href="http://www.fromthetop.org/">From The Top</a></li>
+                    <li><a href="/programs/jazzset/">JazzSet</a></li>
+                    <li><a href="/programs/piano-jazz/">Marian McPartland's <span>Piano Jazz</span></a></li>
+                    <li><a href="/series/mountain-stage/">Mountain Stage</a></li>
+					<li><a href="/series/4703895/song-of-the-day">Song of the Day</a></li>
+					<li><a href="http://www.thistleradio.com/">The Thistle &amp; Shamrock</a></li>
+                    <li><a href="/programs/world-cafe/">World Cafe</a></li>
+                    <li><a href="/programs/world-of-opera/">World Of Opera</a></li>
+                </ul>
+            </div>
+
+            <div class="col">
+                <h4><a href="/programs/">programs a-z</a></h4>
+                <ul>
+                    <li><a href="/programs/morning-edition/">Morning Edition</a></li>
+                    <li><a href="/programs/all-things-considered/">All Things Considered</a></li>
+                    <li><a href="/programs/fresh-air/">Fresh Air</a></li>
+                    <li><a href="http://thedianerehmshow.org">The Diane Rehm Show</a></li>
+                    <li><a href="http://www.onthemedia.org">On The Media</a></li>
+                    <li><a href="http://www.onpointradio.org/">On Point</a></li>
+                    <li><a href="/programs/talk-of-the-nation/">Talk of the Nation</a></li>
+                    <li><a href="/programs/tell-me-more/">Tell Me More</a></li>
+                    <li><a href="/programs/weekend-edition-saturday/">Weekend Edition <span>Saturday</span></a></li>
+                    <li><a href="/programs/weekend-edition-sunday/">Weekend Edition Sunday</a></li>
+                    <li><a href="http://www.cartalk.com">Car Talk</a></li>
+                    <li><a href="/programs/wait-wait-dont-tell-me/">Wait Wait...Don't Tell Me!</a></li>
+                </ul>
+            </div>
+
+            <div class="col">
+                <h4>listen</h4>
+                <ul>
+                    <li><a href="javascript:getNewsCast();">Hourly News</a></li>
+                    <li><a href="javascript:getProgramStream();">NPR Program Stream</a></li>
+                    <li><a href="/audiohelp/progstream.html"><span>Schedule</span></a></li>
+                    <li><a href="/stations/">Find Station Streams</a></li>
+                </ul>
+            </div>
+
+            <div class="col last">
+				<h4>more</h4>
+				<ul>				
+					<li><a href="/sections/multimedia/">Multimedia</a></li>
+					<li><a href="/sections/columns/">Columns</a></li>
+					<li><a href="/blogs/">Blogs</a></li>
+					<li><a href="/sections/analysis/">Analysis</a></li>
+					<li><a href="/sections/commentary/">Commentary</a></li>
+					<li><a href="/ombudsman/">NPR Ombudsman</a></li>
+					<li><a href="http://topics.npr.org/">Topic Index</a></li>
+				</ul>				
+				<h4><a href="/about/">about</a></h4>	
+				<ul>
+					<li><a href="/about/">This Is NPR</a></li>
+					<li><a href="/about/support/">Support and Sponsor</a></li>
+					<li><a href="/about/press/">Press Room</a></li>
+					<li><a href="/about/careers/">Careers</a></li>
+					<li><a href="http://shop.npr.org">NPR Shop</a></li>
+					<li><a href="/contact/">Contact Us</a></li>
+				</ul>
+            </div>
+
+        </div>
+
+    </div>
+
+    <ul class="bottomlist">
+        <li>Copyright <script type="text/javascript">
+               year = new Date();
+               document.write(year.getFullYear());
+           </script> NPR</li>
+        <li><a href="/about/termsofuse.html">Terms of Use</a></li>
+        <li><a href="/about/privacypolicy.html">Privacy Policy</a></li>
+        <li><a href="/about/permissioninfo.html">Permissions</a></li>
+        <li><a href="/corrections/">Corrections</a></li>
+        <li><a href="http://thin.npr.org">Text-Only Site</a></li>
+        <li class="help"><a href="/help/">Help</a></li>
+        <li class="contact"><a href="/contact/">Contact Us</a></li>
+        <li class="donate"><a href="/stations/donate/?ps=stbn">Donate</a></li>
+        <li class="pbs">Our partner in public broadcasting <a href="http://www.pbs.org"><img src="http://media.npr.org/chrome/news/pbs_logo.gif" alt="pbs" /></a></li>
+    </ul>
+
+</div>
+<script type="text/javascript" src="/include/javascript/test/test1.js"></script>
+<script type="text/javascript" src="/include/foresee/foresee-trigger.js"></script>
+
+</div>
+
+<!-- END ID="SECTIONWRAP" CLASS="BLOGPAGE" -->
+            <script type="text/javascript">
+                var pageTrackingCPTV = function() {
+                    try {
+                        AddNamespace("NPR.metrics");
+                        NPR.metrics.vstag = {"title":"131727190-Bank+Of+America+Stock+Steadies+After+WikiLeaks-Related+Drop","omnitureContentType":"1","storyId":"131727190","channel":"103943429","date":"20101201","pageTypeId":"1","orgId":"1","aggIds":"131728207,131728205,127747535,127602855,127602719,127602464,125951635,103943429","storyLength":1813,"byline":"Mark+Memmott","primaryTopic":"1091","assignedTopics":"1091,1122,1006,1003,1002,1001"};
+                        NPR.metrics.pageImpression();
+                    }  catch (e) {
+                        NPR.messaging.exception(e, 'commonPageTrackView', 'document.ready', NPR.messaging.constants.METRICS_ERROR);
+                    }
+                };
+                if($('docreadybind').length) {
+                    $('docreadybind').bind('click', pageTrackingCPTV);
+                } else {
+                    $(document).ready(pageTrackingCPTV);
+                }
+            </script>
+            <noscript>
+            <img alt="" src="/images/zag.gif?Log=1&amp;v_jd=1&amp;dt=131727190-Bank+Of+America+Stock+Steadies+After+WikiLeaks-Related+Drop&amp;omnitureContentType=1&amp;storyId=131727190&amp;channel=103943429&amp;date=20101201&amp;pageTypeId=1&amp;orgId=1&amp;aggIds=131728207,131728205,127747535,127602855,127602719,127602464,125951635,103943429&amp;storyLength=1813&amp;byline=Mark+Memmott&amp;primaryTopic=1091&amp;assignedTopics=1091,1122,1006,1003,1002,1001" border="0" width="1" height="1"/>
+            </noscript>        		            <script type="text/javascript">
+                var _gaq = _gaq || [];
+                _gaq.push(['_setAccount', 'UA-5828686-4']);
+                _gaq.push(['_setCustomVar',1,'Breadcrumb','The Two-Way',1]);
+                _gaq.push(['_setCustomVar',2,'story ID','131727190',1]);
+        		        
+                _gaq.push(['_trackPageview']);
+                
+                (function() { var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true; ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js'; var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s); })();
+            
+            </script>        </body></html>
+
+<!--  Burned on demand at 2010-12-26 18:06:53-->
+
+<!-- LIVE -->

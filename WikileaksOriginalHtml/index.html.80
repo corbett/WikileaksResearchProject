@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" 
+   "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"> 
+<html xmlns="http://www.w3.org/1999/xhtml"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xml:lang="en" > 
+<head> 
+	<meta http-equiv="Content-Type" content="application/xhtml+xml; charset=UTF-8" /> 
+	<link rel="icon" type="image/png" href="IMG/favicon.ico" /> 
+	<link rel="stylesheet" href="/squelettes/css.css" type="text/css" /> 
+	<title>WikiLeaks</title> 
+</head> 
+<body> 
+	<div class="main"> 
+		<div class="bar"></div> 
+		<div class="nav"> 
+			<a href="/">Main</a> 
+		  
+			<a href="Video.html">Video</a> 
+			<a href="Support.html">Support</a> 
+			<a href="About.html">About</a> 
+			<a href="Submissions.html">Submissions</a> 
+			<a href="Medias.html">Medias</a> 
+			<a href="Mirrors.html">Mirrors</a> 
+		</div> 
+		<div class="left"> 
+			<a href="/"><img style="border:none;" src="/IMG/wlogo.png" class="logo" alt="WikiLeaks Blog" /> </a> 
+ 
+			<a href="support.html" class="donate"><div class="donate"><script src="/squelettes/random.js" type="text/javascript"></script></div></a>
+			<div style="height: 100px"> 
+			</div> 
+			<div style="margin: 0px 0px 20px 10px;"></div>
+		</div> 
+
+		<div class="first">
+		
+		  <p><span class='spip_document_12 spip_documents spip_documents_center'>
+<a href="Support.html" class="spip_in"><img src='IMG/jpg/ja-main.jpg' width="690" height="170" alt="" /></a></span></p>
+
+<blockquote class="spip">
+<p>"Could become as important a journalistic tool as the Freedom of Information Act." - Time Magazine</p>
+</blockquote>
+<p>WikiLeaks is a non-profit media organization dedicated to bringing important news and information to the public. We provide an innovative, secure and anonymous way for independent sources around the world to leak information to our journalists. We publish material of ethical, political and historical significance while keeping the identity of our sources anonymous, thus providing a universal way for the revealing of suppressed and censored injustices.</p>
+
+<p>WikiLeaks relies on its supporters in order to stay strong. Please keep us at the forefront of anti-censorship and <a href="Support.html" class='spip_in'>support us today</a>. You can also <strong><a href="About.html" class='spip_in'>read more about WikiLeaks, our mission and objectives</a></strong>.</p>
+		  
+
+		</div>
+
+		<hr />
+
+		
+		<div class="newsbar">
+			<h2><a href="/cablegate.html">Cablegate: 250,000 US Embassy Diplomatic Cables</a></h2>
+			<span class="timestamp">2010-11-28</span>
+			<p>On Sunday 28th Novembre 2010, Wikileaks began publishing 251,287 leaked United States embassy cables, the largest set of confidential documents ever to be released into the public domain. The documents will give people around the world an unprecedented insight into the US Government&#8217;s foreign activities.</p>
+		</div>
+		
+		<div class="newsbar">
+			<h2><a href="/file/wikileaks_archive.7z">All released leaks archived</a></h2>
+			<span class="timestamp">2010-11-28</span>
+			<p>Due to recent attacks on our infrastructure, we&#8217;ve decided to make sure everyone can reach our content. As part of this process we&#8217;re releasing archived copy of all files we ever released - that&#8217;s almost 20,000 files. The archive linked here contains a torrent generated for each file and each directory.</p>
+		</div>
+		
+		<div class="newsbar">
+			<h2><a href="http://213.251.145.96/iraq/diarydig/">War Diary: Iraq War Logs</a></h2>
+			<span class="timestamp">2010-10-22</span>
+			<p>The 391,832 reports (&#8217;The Iraq War Logs&#8217;), document the war and occupation in Iraq, from 1st January 2004 to 31st December 2009 (except for the months of May 2004 and March 2009) as told by soldiers in the United States Army. Each is a &#8217;SIGACT&#8217; or Significant Action in the war. They detail events as seen and heard by the US military troops on the ground in Iraq and are the first real glimpse into the secret history of the war that the United States government has been privy to throughout.</p>
+		</div>
+		
+		<div class="newsbar">
+			<h2><a href="http://213.251.145.96/iraq/diarydig/">War Diary: Afghanistan War Logs</a></h2>
+			<span class="timestamp">2010-07-25</span>
+			<p>From here, you can browse through all of the documents that have been released, organized by type, category, date, number of casualties, and many other properties. From any document page, clicking on the green underlined text will open a popup that links to other documents that contain those phrases, making it possible to see important search terms and connections that you might not otherwise notice.</p>
+		</div>
+		
+		<div class="newsbar">
+			<h2><a href="http://www.collateralmurder.com/">Video: Collateral Murder</a></h2>
+			<span class="timestamp">2010-04-05</span>
+			<p>WikiLeaks has released a classified US military video depicting the indiscriminate slaying of over a dozen people in the Iraqi suburb of New Baghdad &mdash; including two Reuters news staff. Reuters has been trying to obtain the video through the Freedom of Information Act, without success since the time of the attack. The video, shot from an Apache helicopter gun-sight, clearly shows the unprovoked slaying of a wounded Reuters employee and his rescuers. Two young children involved in the rescue were also seriously wounded.</p>
+		</div>
+		
+
+		</div>
+</body> 
+</html> 

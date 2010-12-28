@@ -1,0 +1,404 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="ltr">
+  <head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://wlcentral.org/blogapi/rsd" />
+<script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+<link rel="alternate" type="application/rss+xml" title="WL Central RSS" href="http://wlcentral.org/rss.xml" />
+<link rel="shortcut icon" href="/misc/favicon.ico" type="image/x-icon" />
+  <title>WL Central | An unofficial WikiLeaks information resource</title>
+    <meta http-equiv="Content-Style-Type" content="text/css" />
+  <link type="text/css" rel="stylesheet" media="all" href="/modules/aggregator/aggregator.css?B" />
+<link type="text/css" rel="stylesheet" media="all" href="/modules/book/book.css?B" />
+<link type="text/css" rel="stylesheet" media="all" href="/modules/node/node.css?B" />
+<link type="text/css" rel="stylesheet" media="all" href="/modules/poll/poll.css?B" />
+<link type="text/css" rel="stylesheet" media="all" href="/modules/system/defaults.css?B" />
+<link type="text/css" rel="stylesheet" media="all" href="/modules/system/system.css?B" />
+<link type="text/css" rel="stylesheet" media="all" href="/modules/system/system-menus.css?B" />
+<link type="text/css" rel="stylesheet" media="all" href="/modules/user/user.css?B" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/lightbox2/css/lightbox_alt.css?B" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/twitter_pull/twitter-pull-listing.css?B" />
+<link type="text/css" rel="stylesheet" media="all" href="/modules/forum/forum.css?B" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/extlink/extlink.css?B" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/views/css/views.css?B" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/tweetbutton/tweetbutton.css?B" />
+<link type="text/css" rel="stylesheet" media="all" href="/modules/openid/openid.css?B" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/danland/style.css?B" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/danland/danblog/danblog.css?B" />
+   <!--[if IE 6]><link rel="stylesheet" href="/sites/all/themes/danland/danblog/style.ie6.css" type="text/css" /><![endif]-->
+  <script type="text/javascript" src="/misc/jquery.js?B"></script>
+<script type="text/javascript" src="/misc/drupal.js?B"></script>
+<script type="text/javascript" src="/sites/all/modules/lightbox2/js/lightbox.js?B"></script>
+<script type="text/javascript" src="/sites/all/modules/extlink/extlink.js?B"></script>
+<script type="text/javascript" src="/sites/all/themes/danland/scripts/jquery.cycle.all.js?B"></script>
+<script type="text/javascript" src="/modules/openid/openid.js?B"></script>
+<script type="text/javascript" src="/sites/all/themes/danland/scripts/hoverIntent.js?B"></script>
+<script type="text/javascript" src="/sites/all/themes/danland/scripts/superfish.js?B"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, { "basePath": "/", "lightbox2": { "rtl": 0, "file_path": "/(\\w\\w/)sites/default/files", "default_image": "/sites/all/modules/lightbox2/images/brokenimage.jpg", "border_size": 10, "font_color": "000", "box_color": "fff", "top_position": "", "overlay_opacity": "0.8", "overlay_color": "000", "disable_close_click": 1, "resize_sequence": 0, "resize_speed": 400, "fade_in_speed": 400, "slide_down_speed": 600, "use_alt_layout": 1, "disable_resize": 0, "disable_zoom": 0, "force_show_nav": 0, "show_caption": 1, "loop_items": 0, "node_link_text": "View Image Details", "node_link_target": 0, "image_count": "Image !current of !total", "video_count": "Video !current of !total", "page_count": "Page !current of !total", "lite_press_x_close": "press \x3ca href=\"#\" onclick=\"hideLightbox(); return FALSE;\"\x3e\x3ckbd\x3ex\x3c/kbd\x3e\x3c/a\x3e to close", "download_link_text": "", "enable_login": false, "enable_contact": false, "keys_close": "c x 27", "keys_previous": "p 37", "keys_next": "n 39", "keys_zoom": "z", "keys_play_pause": "32", "display_image_size": "original", "image_node_sizes": "()", "trigger_lightbox_classes": "", "trigger_lightbox_group_classes": "", "trigger_slideshow_classes": "", "trigger_lightframe_classes": "", "trigger_lightframe_group_classes": "", "custom_class_handler": 0, "custom_trigger_classes": "", "disable_for_gallery_lists": true, "disable_for_acidfree_gallery_lists": true, "enable_acidfree_videos": true, "slideshow_interval": 5000, "slideshow_automatic_start": true, "slideshow_automatic_exit": true, "show_play_pause": true, "pause_on_next_click": false, "pause_on_previous_click": true, "loop_slides": false, "iframe_width": 600, "iframe_height": 400, "iframe_border": 1, "enable_video": 0 }, "extlink": { "extTarget": "_blank", "extClass": "ext", "extSubdomains": 1, "extExclude": "", "extInclude": "", "extAlert": 0, "extAlertText": "This link will take you to an external web site. We are not responsible for their content.", "mailtoClass": "mailto" } });
+//--><!]]>
+</script>
+<!--[if IE 6]>
+        <script type="text/javascript" src="/sites/all/themes/danland/danblog/scripts/jquery.pngFix.js"></script>
+<![endif]-->
+<!--[if IE 6]>
+<script type="text/javascript">
+    jQuery(document).ready(function($) {
+        $(document).pngFix();
+    });
+</script>
+<![endif]-->
+<script type="text/javascript">
+  jQuery(document).ready(function($) {
+    $("#superfish ul.menu").superfish({ 
+            delay:       100,                           
+            animation:   {opacity:'show',height:'show'},  
+            speed:       'fast',                          
+            autoArrows:  true,                           
+            dropShadows: true                   
+        });
+  });
+</script>
+ </head>
+
+<body class="sidebars-1" id="sidebar-side-1">
+<div id="header">
+<div id="header-wrapper">
+        <div id="header-first">
+           
+          <div class="logo">
+            <a href="/" title="Home"><img src="/sites/all/themes/danland/danblog/logo.png" alt="Home" height="50"/></a>
+          </div>
+                  </div><!-- /header-first -->
+        <div id="header-middle">
+	  <h2 class="logo-name"><a href="/" title="Home">WL Central</a></h2>				<div class='logo-text'>An unofficial WikiLeaks information resource</div>        </div><!-- /header-middle -->
+        <div id="search-box">
+          <form action="/"  accept-charset="UTF-8" method="post" id="search-theme-form">
+<div><div id="search" class="container-inline">
+  <div class="form-item" id="edit-search-theme-form-1-wrapper">
+ <label for="edit-search-theme-form-1">Search this site: </label>
+ <input type="text" maxlength="128" name="search_theme_form" id="edit-search-theme-form-1" size="15" value="" title="Enter the terms you wish to search for." class="form-text" />
+</div>
+<input type="submit" name="op" id="edit-submit-1" value="Search"  class="form-submit" />
+<input type="hidden" name="form_build_id" id="form-2da28873de66e738bc433e16311f58fd" value="form-2da28873de66e738bc433e16311f58fd"  />
+<input type="hidden" name="form_id" id="edit-search-theme-form" value="search_theme_form"  />
+</div>
+
+</div></form>
+        </div><!-- /search-box -->
+
+	<div id="authorize">
+      <ul><li class="first"><a href="/user">Login</a></li><li><a href="/user/register">Register</a></li></ul>
+	  <a href="http://wlcentral.org/rss.xml" class="feed-icon"><img src="/misc/feed.png" alt="Syndicate content" title="WL Central RSS" width="16" height="16" /></a>  </div>
+
+      </div><!-- /header-wrapper -->
+
+</div> <!-- /header -->
+
+<div id="menu">
+<div id="rounded-menu-left"></div>
+       <!-- PRIMARY -->
+      <div id="superfish">
+        <div id="block-menu-primary-links" class="block ">
+
+  <h2>Primary links</h2>
+
+  <div class="content"><ul class="menu"><li class="expanded first active-trail"><a href="/" title="" class="active">News</a><ul class="menu"><li class="leaf first"><a href="/wl-news" title="">News Archive</a></li>
+<li class="leaf"><a href="/twitter-feed" title="Official Twitter Feed">Official Twitter Feed</a></li>
+<li class="leaf last"><a href="/site-updates" title="">Site updates</a></li>
+</ul></li>
+<li class="expanded"><a href="/action-items" title="">Action</a><ul class="menu"><li class="leaf first"><a href="/action-items" title="">Action items</a></li>
+<li class="leaf"><a href="/events-protests" title="">Events and protests</a></li>
+<li class="leaf last"><a href="/campaigns" title="Campaigns and petitions">Campaigns and Petitions</a></li>
+</ul></li>
+<li class="expanded"><a href="/press-conf" title="">Events</a><ul class="menu"><li class="leaf first"><a href="/press-conf" title="">Press conferences</a></li>
+<li class="leaf last"><a href="/talks-panels" title="">Talks, panels</a></li>
+</ul></li>
+<li class="expanded"><a href="/print-web" title="">Media Archive</a><ul class="menu"><li class="leaf first"><a href="/print-web" title="">Print and web</a></li>
+<li class="leaf"><a href="/video-audio" title="">Video and audio</a></li>
+<li class="leaf last"><a href="/media-resources" title="Media Resources">Media Resources</a></li>
+</ul></li>
+<li class="expanded"><a href="/editor-blogs" title="">Editorial</a><ul class="menu"><li class="leaf first"><a href="/editor-blogs" title="Editor Blogs">Editor Blogs</a></li>
+<li class="leaf last"><a href="/guest-features" title="">Guest Features</a></li>
+</ul></li>
+<li class="expanded"><a href="/cablegate" title="">Topics</a><ul class="menu"><li class="leaf first"><a href="/cablegate" title="Cablegate">Cablegate</a></li>
+<li class="leaf"><a href="/iraq-war-logs" title="">Iraq War Logs</a></li>
+<li class="leaf"><a href="/assange-in-sweden" title="">Assange in Sweden</a></li>
+<li class="leaf"><a href="/frequent-falsehoods" title="Frequent Falsehoods">Frequent Falsehoods</a></li>
+<li class="leaf last"><a href="/node/512" title="">Country Resources</a></li>
+</ul></li>
+<li class="expanded"><a href="/about-us" title="">About</a><ul class="menu"><li class="leaf first"><a href="/about-wl" title="">About WikiLeaks</a></li>
+<li class="leaf"><a href="/about-us" title="">About Us</a></li>
+<li class="leaf last"><a href="/q-a" title="Questions and Answers">Site Q &amp; A</a></li>
+</ul></li>
+<li class="expanded last"><a href="/links" title="">Misc</a><ul class="menu"><li class="leaf first"><a href="/links" title="Sites of Interest">Sites of interest</a></li>
+<li class="leaf"><a href="/how-to" title="How-to Guide">How-to Guide</a></li>
+<li class="leaf last"><a href="/thanks" title="Thanks">Thanks</a></li>
+</ul></li>
+</ul></div>
+</div>
+      </div> <!-- /primary -->
+    <div id="rounded-menu-right"></div>
+</div> <!-- end menu -->
+
+ 
+<div style="clear:both"></div>
+<div id="wrapper">
+<div id="content">
+						<div class="content-top"><div id="block-block-4" class="block ">
+
+
+  <div class="content"><p><strong>Hot topics:</strong> <a href="/events-protests">Global WikiLeaks support rallies</a>: Dec 22: Vienna | Jan 15: Washington DC, Sydney, Calgary, Hobart | Jan 29: Hobart | <a href="/campaigns">Campaigns and petitions</a></p>
+</div>
+</div>
+</div>
+																				      <div class="content-middle">  <div class="node">
+        <h2 class="title"><a href="/node/721">2010-12-26: WikiLeaks in today&#039;s media: Cablegate coverage</a></h2>    <span class="submitted">Submitted by <a href="/user/23" title="View user profile.">aguillonmata</a> on Sun, 12/26/2010 - 22:02</span>        <div class="content"><div class="tweetbutton"><a href="http://twitter.com/share" class="twitter-share-button"  data-count="none" data-via="" data-related=":" data-text="WLCentral: 2010-12-26: WikiLeaks in today&amp;#039;s media: Cablegate coverage #WikiLeaks #Assange #Cablegate" data-url="http://wlcentral.org/node/721" data-lang="en">Tweet</a></div><p><strong>El País: China garantizó su apoyo a EE UU en lo peor de la crisis financiera (China announced its support to the United States during the worst part of the financial crisis)</strong></p>
+<p>"Pekín sugirió que seguiría comprando deuda pública estadounidense tras la quiebra de Lehman Brothers para no recrudecer la crisis. Amenazó a Washington con cambiar su política de adquisición de bonos por una operación de venta de armas a Taiwán. (Beijing suggested that it will keep buying American public debt after Lehman Brothers bankruptcy to not make the crisis worse. Though it threatened Washington with changing that policy due to an American weapons deal with Taiwan.)"</p>
+<p><a href="http://www.elpais.com/articulo/economia/China/garantizo/apoyo/EE/UU/peor/crisis/financiera/elpepueco/20101226elpepueco_1/Tes">Read more (Spanish)</a></p>
+<p><strong>El País: Washington destapó el ataque israelí a Siria tras ocultarlo siete meses (Washington unveiled the Israeli attack against Siria after covering it for seven months)</strong></p>
+<p>"EE UU solo informó a sus aliados del bombardeo de una planta atómica secreta en el desierto sirio para impulsar la investigación nuclear de Naciones Unidas. (The United States informed only to its allies about an Israeli bombing of a secret nuclear facility in the Syrian desert in order to push nuclear investigations in the UN forward.)"</p>
+<p><a href="http://www.elpais.com/articulo/internacional/Washington/destapo/ataque/israeli/Siria/ocultarlo/meses/elpepuint/20101226elpepuint_11/Tes">Read more (Spanish)</a></p>
+<p><strong>El País: EE UU ve el juicio contra Jodorkovski como una farsa (The United States sees the trial against Jodorkovski as a charade)</strong></p>
+<p>"La Embajada en Moscú considera que el antiguo magnate del petróleo ruso es una víctima del régimen de Putin. (The American Embassy in Moscow believes the former russian oil magnate is a victim of Putin's regime.)"</p>
+<p><a href="http://www.elpais.com/articulo/internacional/EE/UU/ve/juicio/Jodorkovski/farsa/elpepuint/20101226elpepuint_13/Tes">Read more (Spanish)</a></p>
+</div>
+          <div class="links"><ul class="links inline"><li class="comment_forbidden first"><span><a href="/user/login?destination=comment%2Freply%2F721%23comment-form">Login</a> or <a href="/user/register?destination=comment%2Freply%2F721%23comment-form">register</a> to post comments</span></li>
+<li class="node_read_more last"><a href="/node/721" title="Read the rest of 2010-12-26: WikiLeaks in today&#039;s media: Cablegate coverage.">Read more</a></li>
+</ul></div>
+      </div>
+  <div class="node">
+        <h2 class="title"><a href="/node/719">2010-12-25: WikiLeaks in today&#039;s media: Cablegate coverage</a></h2>    <span class="submitted">Submitted by <a href="/user/23" title="View user profile.">aguillonmata</a> on Sat, 12/25/2010 - 21:02</span>        <div class="content"><div class="tweetbutton"><a href="http://twitter.com/share" class="twitter-share-button"  data-count="none" data-via="" data-related=":" data-text="WLCentral: 2010-12-25: WikiLeaks in today&amp;#039;s media: Cablegate coverage #WikiLeaks #Assange #Cablegate" data-url="http://wlcentral.org/node/719" data-lang="en">Tweet</a></div><p><strong>The New York Times: Cables Portray Expanded Reach of Drug Agency</strong></p>
+<p>"The Drug Enforcement Administration has been transformed into a global intelligence organization with a reach that extends far beyond narcotics, and an eavesdropping operation so expansive it has to fend off foreign politicians who want to use it against their political enemies, according to secret diplomatic cables."</p>
+<p><a href="http://www.nytimes.com/2010/12/26/world/26wikidrugs.html?_r=1&amp;ref=global-home">Read more</a></p>
+<p><strong>El País: Dubái reveló la pista israelí en la muerte de un líder de Hamás por temor a represalias (Due to feared sanctions, Dubai revealed the Israeli track on the death of famous Hamas leader)</strong></p>
+<p>"El emirato quiso evitar que los radicales lo considerasen cómplice del Mosad. (The Emirate wanted to prevent the radicals from thinking Dubai was working with Mossad.)"</p>
+<p><a href="http://www.elpais.com/articulo/internacional/Dubai/revelo/pista/israeli/muerte/lider/Hamas/temor/represalias/elpepuint/20101224elpepuint_5/Tes">Read more (Spanish)</a></p>
+<p><strong>El País: El Gobierno pidió ayuda a la CIA para paralizar la construcción de una fábrica española de ácido nítrico en Libia (The Spanish government asked for help to  the CIA to prevent a Spanish factory of Nitric Acid from working in Libia)</strong></p>
+<p>"Técnicas Reunidas nunca logró hacer la planta por la sospecha de que la factoría sirviese para elaborar combustible para misiles Scud. ("United Techniques" never achieved its facilities in Libia due to the suspicion of producing fuel for Scud missiles.)"</p>
+<p><a href="http://www.elpais.com/articulo/espana/Gobierno/pidio/ayuda/CIA/paralizar/construccion/fabrica/espanola/acido/nitrico/Libia/elpepuesp/20101224elpepunac_6/Tes">Read more (Spanish)</a></p>
+<p><strong>El País: La Agencia Antidroga de EE UU pone el punto de mira en África Occidental (The American Drug Enforcement Administration focuses on West Africa)</strong></p>
+<p>"La DEA alerta de que la región ha caído en manos de los narcotraficantes sudamericanos. Los carteles usan esos países como escala en la ruta internacional de la cocaína. (The DEA warns about the region, allegedly on the ands of South American drugdealers. The cartels use these countries as part of the international route of cocaine.)"</p>
+<p><a href="http://www.elpais.com/articulo/internacional/Agencia/Antidroga/EE/UU/pone/punto/mira/Africa/Occidental/elpepuint/20101224elpepuint_6/Tes">Read more (Spanish)</a></p>
+<p><strong>El País: El presidente de Panamá pidió a la DEA escuchas telefónicas (The President of Panama asked the DEA to make telephonic records)</strong></p>
+<p>"La agencia respondió que no espiaba a "objetivos políticos". (The Administration answered that they do not spy on "political targets".)"</p>
+<p><a href="http://www.elpais.com/articulo/internacional/presidente/Panama/pidio/DEA/escuchas/telefonicas/elpepuint/20101224elpepuint_8/Tes">Read more (Spanish)</a></p>
+</div>
+          <div class="links"><ul class="links inline"><li class="comment_comments first"><a href="/node/719#comments" title="Jump to the first comment of this posting.">2 comments</a></li>
+<li class="node_read_more last"><a href="/node/719" title="Read the rest of 2010-12-25: WikiLeaks in today&#039;s media: Cablegate coverage.">Read more</a></li>
+</ul></div>
+      </div>
+  <div class="node">
+        <h2 class="title"><a href="/node/718">Extradition Part 3</a></h2>    <span class="submitted">Submitted by <a href="/user/944" title="View user profile.">Peter Kemp</a> on Sat, 12/25/2010 - 13:31</span>        <div class="content"><div class="tweetbutton"><a href="http://twitter.com/share" class="twitter-share-button"  data-count="none" data-via="" data-related=":" data-text="WLCentral: Extradition Part 3 #WikiLeaks #Assange #Cablegate" data-url="http://wlcentral.org/node/718" data-lang="en">Tweet</a></div><p>Extradition 3</p>
+<p>Backtracking a little from the UK’s <em>Extradition Act</em> <A HREF="http://wlcentral.org/node/595">(in the Extradition 1 post)</a> it is necessary to understand that the origin of that legislation comes from the European Arrest Warrant (“EAW”) regime in turn based on the <em>Council Framework Decision of 13 June 2002 on the European arrest warrant <A HREF="http://www.homeoffice.gov.uk/publications/police/operational-policing/european-arrest-warrant1">and the surrender procedures between Member States.</a></em>(Pdf)</p>
+<p>It is also necessary to understand that where interpreting legislation like the UK’s <em>Extradition Act</em> (that will be applied in Assange's hearing) and if finding ambiguity or uncertainty, resort can be made--ordinarily to <A HREF="http://www.austlii.edu.au/au/legis/nsw/consol_act/ia1987191/s34.html">parliamentry second reading speeches in countries like Australia for example</a><br />
+—to examining, in this case, that very document of the <em>Council Framework Decision.</em></p>
+<p>The Preamble to the Council Framework Decision states in part:</p>
+</div>
+          <div class="links"><ul class="links inline"><li class="blog_usernames_blog first"><a href="/blog/944" title="Read Peter Kemp&#039;s latest blog entries.">Peter Kemp&#039;s blog</a></li>
+<li class="comment_forbidden"><span><a href="/user/login?destination=comment%2Freply%2F718%23comment-form">Login</a> or <a href="/user/register?destination=comment%2Freply%2F718%23comment-form">register</a> to post comments</span></li>
+<li class="node_read_more last"><a href="/node/718" title="Read the rest of Extradition Part 3.">Read more</a></li>
+</ul></div>
+      </div>
+  <div class="node">
+        <h2 class="title"><a href="/node/715">2010-12-24 Huffington Post: Bianca Jagger - Trial by Newspaper </a></h2>    <span class="submitted">Submitted by <a href="/user/11" title="View user profile.">GeorgieBC</a> on Fri, 12/24/2010 - 22:54</span>        <div class="content"><div class="tweetbutton"><a href="http://twitter.com/share" class="twitter-share-button"  data-count="none" data-via="" data-related=":" data-text="WLCentral: 2010-12-24 Huffington Post: Bianca Jagger - Trial by Newspaper  #WikiLeaks #Assange #Cablegate" data-url="http://wlcentral.org/node/715" data-lang="en">Tweet</a></div><p><a href="http://www.huffingtonpost.com/bianca-jagger/trial-by-newspaper_b_800847.html">Bianca Jagger</a> has written a long and detailed article in the Huffington Post condemning Nick Davies' recent <a href="http://www.guardian.co.uk/media/2010/dec/17/julian-assange-sweden">article</a> for the Guardian.</p>
+<blockquote><p>I object to the Guardian's decision to publish selective passages from the Swedish police report, whilst omitting exculpatory evidence contained in the document. ...<br /><br />Assange has been criticized for not being willing to return to Sweden to prove his innocence. It is hardly surprising he has reservations, given Sweden's human rights record. ... <br /><br />In the Today Show on December 21st, Assange revealed that Sweden has requested that if he returns and is arrested, he is to be held incommunicado, and his Swedish lawyer is to be given a gag order. ...<br /><br />I suspect that what is on trial here is not Julian Assange's alleged sexual misconduct, but freedom of speech ....</p></blockquote>
+</div>
+          <div class="links"><ul class="links inline"><li class="comment_comments first last"><a href="/node/715#comments" title="Jump to the first comment of this posting.">1 comment</a></li>
+</ul></div>
+      </div>
+  <div class="node">
+        <h2 class="title"><a href="/node/714">2010-12-25 Le Monde names WikiLeaks&#039; Julian Assange Man of the Year</a></h2>    <span class="submitted">Submitted by <a href="/user/36" title="View user profile.">skdadl</a> on Fri, 12/24/2010 - 22:42</span>        <div class="content"><div class="tweetbutton"><a href="http://twitter.com/share" class="twitter-share-button"  data-count="none" data-via="" data-related=":" data-text="WLCentral: 2010-12-25 Le Monde names WikiLeaks&amp;#039; Julian Assange Man of the Year #WikiLeaks #Assange #Cablegate" data-url="http://wlcentral.org/node/714" data-lang="en">Tweet</a></div><p><img src='/sites/default/files/imagepicker/4/JA_LeMonde_20101225.jpg' alt='Image' style="float: left" class="imgp_img" height="150px" /></p>
+<p><strong>Le Monde Magazine: WikiLeaks: défis et limites de la transparence (WikiLeaks: challenges and limits of transparency)</strong></p>
+<p>"Julian Assange homme de l'année? Time Magazine a hésité, puis lui a préféré Mark Zuckerberg, le père de Facebook. L'homme de WikiLeaks, ou l'homme de Facebook? Le Monde a hésité aussi, mettant en plus dans la balance une femme exemplaire, qui n'a créé ni site pour fuites géantes ni réseau social, mais qui inspire tout un peuple par son idéal et son courage, Aung San Suu Kyi. Puis nous avons choisi Julian Assange – un choix confirmé par celui des lecteurs du Monde.fr."</p>
+<p>(Julian Assange: man of the year? Time Magazine hesitated, then chose instead Mark Zuckerberg, father of Facebook. The man of WikiLeaks, or the man of Facebook? Le Monde also hesitated, balancing as well an exemplary woman who has created neither a giant site for leaks nor a social-networking giant but who has inspired an entire people by her ideals and her courage, Aung San Suu Kyi. Finally we have chosen Julian Assange, a choice confirmed by the readers of Le Monde.fr.) </p>
+<p><em>Photo credit: Le Monde</em></p>
+<p><a href="http://www.lemonde.fr/documents-wikileaks/article/2010/12/24/defis-et-limites-de-la-transparence_1457338_1446239.html#ens_id=1450400">Read more (French)</a></p>
+</div>
+          <div class="links"><ul class="links inline"><li class="comment_comments first"><a href="/node/714#comments" title="Jump to the first comment of this posting.">2 comments</a></li>
+<li class="node_read_more last"><a href="/node/714" title="Read the rest of 2010-12-25 Le Monde names WikiLeaks&#039; Julian Assange Man of the Year.">Read more</a></li>
+</ul></div>
+      </div>
+  <div class="node">
+        <h2 class="title"><a href="/node/711">2010-12-24  Glenn Greenwald: What WikiLeaks revealed to the world in 2010</a></h2>    <span class="submitted">Submitted by <a href="/user/36" title="View user profile.">skdadl</a> on Fri, 12/24/2010 - 14:13</span>        <div class="content"><div class="tweetbutton"><a href="http://twitter.com/share" class="twitter-share-button"  data-count="none" data-via="" data-related=":" data-text="WLCentral: 2010-12-24  Glenn Greenwald: What WikiLeaks revealed to the world in 2010 #WikiLeaks #Assange #Cablegate" data-url="http://wlcentral.org/node/711" data-lang="en">Tweet</a></div><p>Glenn Greenwald has assembled a graphic collection of headlines from around the world that dramatize how much WikiLeaks has revealed since April 2010, and counters claims either that there was "nothing new" in the documents or that they have done "grave harm" to U.S. national security.</p>
+<p>As a coda to the succession of headlines, Greenwald writes:  </p>
+<blockquote><p>Those are the truths that led WikiLeaks -- and whomever the leaker(s) is -- to sacrifice their own interests in order to disclose to the world.</p></blockquote>
+<p><a href="http://www.salon.com/news/opinion/glenn_greenwald/2010/12/24/wikileaks/index.html">Read more</a></p>
+</div>
+          <div class="links"><ul class="links inline"><li class="comment_comments first last"><a href="/node/711#comments" title="Jump to the first comment of this posting.">4 comments</a></li>
+</ul></div>
+      </div>
+  <div class="node">
+        <h2 class="title"><a href="/node/708">A Holiday Statement from Bradley Manning</a></h2>    <span class="submitted">Submitted by <a href="/user/306" title="View user profile.">knowledgeempire</a> on Fri, 12/24/2010 - 10:53</span>        <div class="content"><div class="tweetbutton"><a href="http://twitter.com/share" class="twitter-share-button"  data-count="none" data-via="" data-related=":" data-text="WLCentral: A Holiday Statement from Bradley Manning #WikiLeaks #Assange #Cablegate" data-url="http://wlcentral.org/node/708" data-lang="en">Tweet</a></div><p><img class="alignright size-medium wp-image-811" style="float: right" hspace="12" vspace="4" src="http://wikileaksempire.files.wordpress.com/2010/12/39021_1542528566444_1331875451_1416366_7801452_n.jpg?w=300" alt="" width="210" height="140" /><BR /><BR /><em>23 December 2010</em></p>
+<p>"I greatly appreciate everyone's support and well wishes during this time.  I am also thankful for everything that has been done to aid in my defense.  I ask that everyone takes the time to remember those who are separated from their loved ones at this time due to deployment and important missions.   Specifically, I am thinking of those that I deployed with and have not seen for the last seven months, and of the staff here at the Quantico Confinement Facility who will be spending their Christmas without their family."</p>
+<p><a href="http://www.armycourtmartialdefense.info/2010/12/mannings-holiday-statement.html" target="_blank">Posted by Army Court-Martial Defense Specialist</a></p>
+<p align="right">"It is not enough to say we must not wage war. It is necessary to love peace and sacrifice for it."<br />
+<em>Dr. Martin Luther King Jr.</em></p>
+</div>
+          <div class="links"><ul class="links inline"><li class="comment_comments first last"><a href="/node/708#comments" title="Jump to the first comment of this posting.">4 comments</a></li>
+</ul></div>
+      </div>
+  <div class="node">
+        <h2 class="title"><a href="/node/704">2010-12-23: New Investigation Launched into Pfc. Bradley Manning Case</a></h2>    <span class="submitted">Submitted by <a href="/user/306" title="View user profile.">knowledgeempire</a> on Fri, 12/24/2010 - 04:29</span>        <div class="content"><div class="tweetbutton"><a href="http://twitter.com/share" class="twitter-share-button"  data-count="none" data-via="" data-related=":" data-text="WLCentral: 2010-12-23: New Investigation Launched into Pfc. Bradley Manning Case #WikiLeaks #Assange #Cablegate" data-url="http://wlcentral.org/node/704" data-lang="en">Tweet</a></div><p><img vspace="5" hspace="12" src='/sites/default/files/imagepicker/306/BMANNING_1.jpg' width="120" height="185" alt='Image' style="float: left" class="imgp_img" /><br />
+The U.S. Army has launched a new task force to further investigate various details underlying the case of Private First Class Bradley Manning, who has been in pre-trial confinement since last May. The task force was ordered by Army Secretary John McHugh and will be led by Army Lt. Gen. Robert Caslen Jr. </p>
+<p><a href="http://www.statesman.com/news/nation/army-opens-wide-ranging-wikileaks-investigation-1143272.html">Nancy A. Youssef reports</a> that</p>
+<blockquote><p>The Army confirmed the new investigation, but wouldn't release details. An Army official familiar with the investigation told McClatchy that the six-member task force has been given until Feb. 1 to complete a report that will look at everything from how Pfc. Bradley Manning was selected for his job and trained to whether his superiors missed warning signs that he was downloading documents he had no need to read.<br /></p>
+</blockquote></div>
+          <div class="links"><ul class="links inline"><li class="comment_comments first"><a href="/node/704#comments" title="Jump to the first comment of this posting.">2 comments</a></li>
+<li class="node_read_more last"><a href="/node/704" title="Read the rest of 2010-12-23: New Investigation Launched into Pfc. Bradley Manning Case.">Read more</a></li>
+</ul></div>
+      </div>
+  <div class="node">
+        <h2 class="title"><a href="/node/703">2010-12-24: WikiLeaks in today&#039;s media: Extradition coverage</a></h2>    <span class="submitted">Submitted by <a href="/user/944" title="View user profile.">Peter Kemp</a> on Fri, 12/24/2010 - 03:44</span>        <div class="content"><div class="tweetbutton"><a href="http://twitter.com/share" class="twitter-share-button"  data-count="none" data-via="" data-related=":" data-text="WLCentral: 2010-12-24: WikiLeaks in today&amp;#039;s media: Extradition coverage #WikiLeaks #Assange #Cablegate" data-url="http://wlcentral.org/node/703" data-lang="en">Tweet</a></div><p><a href="http://www.guardian.co.uk/media/2010/dec/23/julian-assange-fate-david-cameron"><img src='/sites/default/files/imagepicker/306/GUARDIAN.gif' alt='Guardian' style="float: left" class="imgp_img" /></a><BR /><br />
+The Guardian reports on Julian Assange's views on a prospective extradition request from the USA while he is in the UK in an ongoing Swedish extradition process.</p>
+<blockquote><p>Julian Assange said today that it would be "politically impossible" for Britain to extradite him to the United States, and that the final word on his fate if he were charged with espionage would rest with David Cameron.<BR /><BR />In an interview with the Guardian in Ellingham Hall, the Norfolk country mansion where he is living under virtual house arrest, the founder of WikiLeaks said it would be difficult for the prime minister to hand him over to the Americans if there was strong support for him from the British people.<BR /><BR />"It's all a matter of politics. We can presume there will be an attempt to influence UK political opinion, and to influence the perception of our standing as a moral actor," he said.</p></blockquote>
+<p><a href="http://www.guardian.co.uk/media/2010/dec/23/julian-assange-fate-david-cameron">Read more</a></p>
+</div>
+          <div class="links"><ul class="links inline"><li class="node_read_more first last"><a href="/node/703" title="Read the rest of 2010-12-24: WikiLeaks in today&#039;s media: Extradition coverage.">Read more</a></li>
+</ul></div>
+      </div>
+  <div class="node">
+        <h2 class="title"><a href="/node/701">2010-12-23: WikiLeaks in today&#039;s media: Cablegate coverage</a></h2>    <span class="submitted">Submitted by <a href="/user/23" title="View user profile.">aguillonmata</a> on Thu, 12/23/2010 - 21:19</span>        <div class="content"><div class="tweetbutton"><a href="http://twitter.com/share" class="twitter-share-button"  data-count="none" data-via="" data-related=":" data-text="WLCentral: 2010-12-23: WikiLeaks in today&amp;#039;s media: Cablegate coverage #WikiLeaks #Assange #Cablegate" data-url="http://wlcentral.org/node/701" data-lang="en">Tweet</a></div><p><strong>El País: Industria crea un concurso a medida de una firma solar de California a petición de EE UU (The Secretary of Industry created a contest to suit the profile of a Californian solar company after asked to do so by the United States)</strong></p>
+<p>"El embajador reclamó a Sebastián en enero que la empresa Solar Reserve entrara en el cupo termosolar siete meses fuera de plazo, según un cable. En noviembre el Gobierno convocó un concurso diseñado para la compañía, que proyecta una central en Ciudad Real. (The American ambassador demanded in January to the judge Miguel Sebastián to accept the company Solar Reserve in the termosolar competition seven months after the contest was due, according with the cable. Designed to suit such company, the contest started by the government in November and projects new facilities in Ciudad Real.)"</p>
+<p><a href="http://www.elpais.com/articulo/espana/Industria/crea/concurso/medida/firma/solar/California/peticion/EE/UU/elpepuesp/20101223elpepunac_12/Tes">Read more (Spanish)</a></p>
+<p><strong>El País: El Gobierno asegura que Pumpido intentó abrir una vía judicial para la familia Couso en EE UU (The Spanish government affirms that Pumpido tried to open a judicial case against the Couso family in the United States)</strong></p>
+<p>"Rubalcaba defiende que España tomó una posición más activa en el caso de lo que hacen pensar las revelaciones de los cables de la Embajada de EE UU. ([The First Vice-president of the Spanish government and Internal Minister] Alfredo Pérez Rubalcaba argues that Spain tried a more active position on this case than the one that could be inferred after the revelations of the American embassy’s cables.)"</p>
+<p><a href="http://www.elpais.com/articulo/espana/Gobierno/asegura/Pumpido/intento/abrir/via/judicial/familia/Couso/EE/UU/elpepuesp/20101223elpepunac_14/Tes">Read more (Spanish)</a></p>
+<p><strong>El País: Francia rechaza los planes de desarme nuclear de la Casa Blanca (France rejects the White House’s plans on nuclear disarmament)</strong></p>
+<p>"Sarkozy se resiste a que la propuesta de un mundo sin armas atómicas lanzada por Obama obligue a eliminar la fuerza de disuasión francesa. (Sarkozy is reluctant to the proposal by Obama on nuclear disarmament to eliminate the French dissuasion weapons.)"</p>
+<p><a href="http://www.elpais.com/articulo/internacional/Francia/rechaza/planes/desarme/nuclear/Casa/Blanca/elpepuint/20101223elpepuint_16/Tes">Read more (Spanish)</a></p>
+<p><strong>El País: Berlusconi y la oposición recelan de la justicia italiana (Berlusconi and the opposition distrust the Italian justice)</strong></p>
+<p>"Tanto el jefe del Gobierno como D'Alema, líder en la sombra del centro-izquierda, aseguran a la Embajada de EE UU en Roma que la magistratura amenaza al Estado. (Both the President and D’Alema, leader of the center-leftist shade, affirm to the American embassy that the magistracy threats the country.)"</p>
+<p><a href="http://www.elpais.com/articulo/internacional/Berlusconi/oposicion/recelan/justicia/italiana/elpepuint/20101223elpepuint_11/Tes">Read more (Spanish)</a></p>
+<p><strong>El País: EE UU quiere vigilar de por vida al jefe de Al Qaeda en España (The United States want to keep watching on the chief of Al Qaeda in Spain during his whole life)</strong></p>
+<p>"Pretende que se incluya a Abu Dahdah en una lista negra de terroristas. Interior apoya la iniciativa pero Exteriores se ha opuesto, según revelan los cables secretos de la embajada. ( The US want to put Abu Dahdah in a list of terrorists. The Spanish government aproves the initiative, but the office of foreign affairs opposes it.)"</p>
+<p><a href="http://www.elpais.com/articulo/espana/EE/UU/quiere/vigilar/vida/jefe/Qaeda/Espana/elpepuesp/20101222elpepunac_33/Tes">Read more (Spanish)</a></p>
+<p><strong>El País: España entregó una lista secreta de 87 posibles islamistas (Spain gave to the US a secret list with 87 alleged islamists)</strong></p>
+<p>"El Gobierno facilitó en 2004 a la Embajada de Estados Unidos una lista de 87 sospechosos islamistas "con posibles vínculos terroristas en España" entre los que figuran cinco españoles, según recoge uno de los cables de la legación diplomática. El documento, sin clasificar, advierte que el texto completo no es accesible. (The Spanish government provided in 2004 to the American Embassy with a list of 87 suspicious islamists "with possible terrorist links in Spain"; five Spaniards are part of the list, according to one of the American diplomatic cables. The document, without classification, admits that the complete text is inaccessible.)"</p>
+<p><a href="http://www.elpais.com/articulo/espana/Espana/entrego/lista/secreta/87/posibles/islamistas/elpepuesp/20101222elpepunac_35/Tes">Read more (Spanish)</a></p>
+<p><strong>Toronto Star: "Dirty oil" anger shocked Tories, leaked documents show</strong></p>
+<p>"Canada was 'too slow' to respond to the damage done to the country’s reputation by the Alberta oilsands, then-Environment Minister Jim Prentice told the American envoy in Ottawa a meeting last year. Despite the brave public face of the Conservative government, Prentice told U.S. ambassador David Jacobson that he was stunned by backlash around the world to carbon-intensive Canadian oil and was prepared to correct the damage done with stringent emissions-cutting regulations."</p>
+<p><a href="http://www.thestar.com/news/canada/article/911233--dirty-oil-anger-shocked-tories-leaked-documents-show?bn=1">Read more</a></p>
+</div>
+          <div class="links"><ul class="links inline"><li class="comment_comments first"><a href="/node/701#comments" title="Jump to the first comment of this posting.">1 comment</a></li>
+<li class="node_read_more last"><a href="/node/701" title="Read the rest of 2010-12-23: WikiLeaks in today&#039;s media: Cablegate coverage.">Read more</a></li>
+</ul></div>
+      </div>
+<div class="item-list"><ul class="pager"><li class="pager-current first">1</li>
+<li class="pager-item"><a href="/node?page=1" title="Go to page 2" class="active">2</a></li>
+<li class="pager-item"><a href="/node?page=2" title="Go to page 3" class="active">3</a></li>
+<li class="pager-item"><a href="/node?page=3" title="Go to page 4" class="active">4</a></li>
+<li class="pager-item"><a href="/node?page=4" title="Go to page 5" class="active">5</a></li>
+<li class="pager-item"><a href="/node?page=5" title="Go to page 6" class="active">6</a></li>
+<li class="pager-item"><a href="/node?page=6" title="Go to page 7" class="active">7</a></li>
+<li class="pager-item"><a href="/node?page=7" title="Go to page 8" class="active">8</a></li>
+<li class="pager-item"><a href="/node?page=8" title="Go to page 9" class="active">9</a></li>
+<li class="pager-ellipsis">…</li>
+<li class="pager-next"><a href="/node?page=1" title="Go to next page" class="active">next ›</a></li>
+<li class="pager-last last"><a href="/node?page=21" title="Go to last page" class="active">last »</a></li>
+</ul></div></div>
+						
+</div> <!-- end content -->
+
+			<div id="sidebar-right" class="sidebar">
+				<div id="block-user-0" class="block ">
+  <div class="block-inner">
+
+          <h2 class="block-title">User login</h2>
+    
+    <div class="block-content">
+      <div class="block-content-inner">
+        <form action="/node?destination=node"  accept-charset="UTF-8" method="post" id="user-login-form">
+<div><div class="form-item" id="edit-openid-identifier-wrapper">
+ <label for="edit-openid-identifier">Log in using OpenID: </label>
+ <input type="text" maxlength="255" name="openid_identifier" id="edit-openid-identifier" size="13" value="" class="form-text" />
+ <div class="description"><a href="http://openid.net/">What is OpenID?</a></div>
+</div>
+<div class="form-item" id="edit-name-wrapper">
+ <label for="edit-name">Username: <span class="form-required" title="This field is required.">*</span></label>
+ <input type="text" maxlength="60" name="name" id="edit-name" size="15" value="" class="form-text required" />
+</div>
+<div class="form-item" id="edit-pass-wrapper">
+ <label for="edit-pass">Password: <span class="form-required" title="This field is required.">*</span></label>
+ <input type="password" name="pass" id="edit-pass"  maxlength="60"  size="15"  class="form-text required" />
+</div>
+<input type="submit" name="op" id="edit-submit" value="Log in"  class="form-submit" />
+<input type="hidden" name="form_build_id" id="form-1bdf16575f144b47c4464d1d6ba53221" value="form-1bdf16575f144b47c4464d1d6ba53221"  />
+<input type="hidden" name="form_id" id="edit-user-login-block" value="user_login_block"  />
+<input type="hidden" name="openid.return_to" id="edit-openid.return-to" value="http://wlcentral.org/openid/authenticate?destination=node"  />
+<div class="item-list"><ul><li class="openid-link first"><a href="/%2523">Log in using OpenID</a></li>
+<li class="user-link last"><a href="/%2523">Cancel OpenID login</a></li>
+</ul></div><div class="item-list"><ul><li class="first"><a href="/user/register" title="Create a new user account.">Create new account</a></li>
+<li class="last"><a href="/user/password" title="Request new password via e-mail.">Request new password</a></li>
+</ul></div>
+</div></form>
+      </div>
+    </div>
+
+  </div>
+</div> <!-- /block -->
+<div id="block-user-1" class="block ">
+  <div class="block-inner">
+
+          <h2 class="block-title">Navigation</h2>
+    
+    <div class="block-content">
+      <div class="block-content-inner">
+        <ul class="menu"><li class="leaf first"><a href="/tracker">Recent posts</a></li>
+<li class="leaf last"><a href="/search">Search</a></li>
+</ul>      </div>
+    </div>
+
+  </div>
+</div> <!-- /block -->
+<div id="block-blog-0" class="block ">
+  <div class="block-inner">
+
+          <h2 class="block-title">Recent blog posts</h2>
+    
+    <div class="block-content">
+      <div class="block-content-inner">
+        <div class="item-list"><ul><li class="first"><a href="/node/720">Bradley Manning in Quantico: A Call with Public Affairs Officer Villiard by Dennis Leahy</a></li>
+<li><a href="/node/718">Extradition Part 3</a></li>
+<li><a href="/node/713">WikiLeaks and the CIA: Beyond the Paradigm of Power</a></li>
+<li><a href="/node/706">Comic Relief from RT: Terrorists tweeting down the Bank of America</a></li>
+<li><a href="/node/664">WikiLeaks and OpenLeaks </a></li>
+<li><a href="/node/645">For Bradley, Dec 16 2010</a></li>
+<li><a href="/node/644">2084 A Short Satirical Story</a></li>
+<li><a href="/node/640">1.3. A confession</a></li>
+<li><a href="/node/635">Bail Arguments and the Appeal</a></li>
+<li class="last"><a href="/node/634">Noam Chomsky, Julian Assange and Michael Moore: Brothers in Arms</a></li>
+</ul></div><div class="more-link"><a href="/blog" title="Read the latest blog entries.">more</a></div>      </div>
+    </div>
+
+  </div>
+</div> <!-- /block -->
+			</div>
+		<div style="clear:both"></div>
+</div> <!-- end wrapper -->
+
+
+
+
+ 
+<div style="clear:both"></div>
+<div id="footer-wrapper">
+<div id="footer">
+ <div id="block-block-2" class="block ">
+
+
+  <div class="content"><p><a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/3.0/80x15.png" /></a><br />
+<font size="1">This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-ShareAlike 3.0 Unported License</a>.</font></p>
+</div>
+</div>
+</div>
+</div> <!-- end footer wrapper -->
+
+<div style="clear:both"></div>
+</body>
+</html>
+

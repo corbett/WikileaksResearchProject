@@ -1,0 +1,512 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" dir="ltr">
+<head>
+<title>Category:Wikileaks - Wikimedia Commons</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta http-equiv="Content-Style-Type" content="text/css" />
+<meta name="generator" content="MediaWiki 1.16wmf4" />
+<link rel="stylesheet" type="text/css" href="/w/extensions/CategoryTree/CategoryTree.css?6" />
+<link rel="alternate" type="application/x-wiki" title="Edit" href="/w/index.php?title=Category:Wikileaks&amp;action=edit" />
+<link rel="edit" title="Edit" href="/w/index.php?title=Category:Wikileaks&amp;action=edit" />
+<link rel="apple-touch-icon" href="http://commons.wikipedia.org/apple-touch-icon.png" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikimedia Commons" />
+<link rel="copyright" href="http://creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikimedia Commons Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="http://bits.wikimedia.org/skins-1.5/vector/main-ltr.css?283-17" type="text/css" media="screen" />
+<link rel="stylesheet" href="http://bits.wikimedia.org/skins-1.5/common/shared.css?283-17" type="text/css" media="screen" />
+<link rel="stylesheet" href="http://bits.wikimedia.org/skins-1.5/common/commonPrint.css?283-17" type="text/css" media="print" />
+<link rel="stylesheet" href="http://bits.wikimedia.org/w/extensions/UsabilityInitiative/css/combined.min.css?117" type="text/css" media="all" />
+<link rel="stylesheet" href="http://bits.wikimedia.org/w/extensions/UsabilityInitiative/css/vector/jquery-ui-1.7.2.css?1.7.2y" type="text/css" media="all" />
+<link rel="stylesheet" href="/w/index.php?title=MediaWiki:Common.css&amp;usemsgcache=yes&amp;ctype=text%2Fcss&amp;smaxage=2678400&amp;action=raw&amp;maxage=2678400" type="text/css" media="all" />
+<link rel="stylesheet" href="/w/index.php?title=MediaWiki:Print.css&amp;usemsgcache=yes&amp;ctype=text%2Fcss&amp;smaxage=2678400&amp;action=raw&amp;maxage=2678400" type="text/css" media="print" />
+<link rel="stylesheet" href="/w/index.php?title=MediaWiki:Handheld.css&amp;usemsgcache=yes&amp;ctype=text%2Fcss&amp;smaxage=2678400&amp;action=raw&amp;maxage=2678400" type="text/css" media="handheld" />
+<link rel="stylesheet" href="/w/index.php?title=MediaWiki:Vector.css&amp;usemsgcache=yes&amp;ctype=text%2Fcss&amp;smaxage=2678400&amp;action=raw&amp;maxage=2678400" type="text/css" media="all" />
+<link rel="stylesheet" href="/w/index.php?title=-&amp;action=raw&amp;maxage=2678400&amp;gen=css" type="text/css" media="all" />
+<script type="text/javascript">
+var skin="vector",
+stylepath="http://bits.wikimedia.org/skins-1.5",
+wgUrlProtocols="http\\:\\/\\/|https\\:\\/\\/|ftp\\:\\/\\/|irc\\:\\/\\/|gopher\\:\\/\\/|telnet\\:\\/\\/|nntp\\:\\/\\/|worldwind\\:\\/\\/|mailto\\:|news\\:|svn\\:\\/\\/",
+wgArticlePath="/wiki/$1",
+wgScriptPath="/w",
+wgScriptExtension=".php",
+wgScript="/w/index.php",
+wgVariantArticlePath=false,
+wgActionPaths={},
+wgServer="http://commons.wikimedia.org",
+wgCanonicalNamespace="Category",
+wgCanonicalSpecialPageName=false,
+wgNamespaceNumber=14,
+wgPageName="Category:Wikileaks",
+wgTitle="Wikileaks",
+wgAction="view",
+wgArticleId=6011217,
+wgIsArticle=true,
+wgUserName=null,
+wgUserGroups=null,
+wgUserLanguage="en",
+wgContentLanguage="en",
+wgBreakFrames=false,
+wgCurRevisionId=47057998,
+wgVersion="1.16wmf4",
+wgEnableAPI=true,
+wgEnableWriteAPI=true,
+wgSeparatorTransformTable=["", ""],
+wgDigitTransformTable=["", ""],
+wgMainPageTitle="Main Page",
+wgFormattedNamespaces={"-2": "Media", "-1": "Special", "0": "", "1": "Talk", "2": "User", "3": "User talk", "4": "Commons", "5": "Commons talk", "6": "File", "7": "File talk", "8": "MediaWiki", "9": "MediaWiki talk", "10": "Template", "11": "Template talk", "12": "Help", "13": "Help talk", "14": "Category", "15": "Category talk", "100": "Creator", "101": "Creator talk", "102": "TimedText", "103": "TimedText talk", "104": "Sequence", "105": "Sequence talk", "106": "Institution", "107": "Institution talk"},
+wgNamespaceIds={"media": -2, "special": -1, "": 0, "talk": 1, "user": 2, "user_talk": 3, "commons": 4, "commons_talk": 5, "file": 6, "file_talk": 7, "mediawiki": 8, "mediawiki_talk": 9, "template": 10, "template_talk": 11, "help": 12, "help_talk": 13, "category": 14, "category_talk": 15, "creator": 100, "creator_talk": 101, "timedtext": 102, "timedtext_talk": 103, "sequence": 104, "sequence_talk": 105, "institution": 106, "institution_talk": 107, "museum": 106, "museum_talk": 107, "image": 6, "image_talk": 7},
+wgSiteName="Wikimedia Commons",
+wgCategories=["Espionage", "National security", "Web 2.0", "Wikis"],
+wgDBname="commonswiki",
+wgMWSuggestTemplate="http://commons.wikimedia.org/w/api.php?action=opensearch\x26search={searchTerms}\x26namespace={namespaces}\x26suggest",
+wgSearchNamespaces=[0, 6, 12, 14, 100, 106],
+wgMWSuggestMessages=["with suggestions", "no suggestions"],
+wgRestrictionEdit=[],
+wgRestrictionMove=[],
+wgCollapsibleNavBucketTest=false,
+wgCollapsibleNavForceNewVersion=false,
+wgVectorPreferences={"collapsiblenav": {"enable": 1}, "editwarning": {"enable": 1}, "simplesearch": {"enable": 1, "disablesuggest": 0}},
+wgVectorEnabledModules={"collapsiblenav": true, "collapsibletabs": true, "editwarning": true, "expandablesearch": false, "footercleanup": false, "simplesearch": true},
+Geo={"city": "", "country": ""},
+wgNoticeProject="commons";
+</script><script src="http://bits.wikimedia.org/skins-1.5/common/wikibits.js?283-17" type="text/javascript"></script>
+<script type="text/javascript" src="http://bits.wikimedia.org/skins-1.5/common/jquery.min.js?283-17"></script>
+<script type="text/javascript" src="/w/extensions/CategoryTree/CategoryTree.js?6"></script>
+
+	<script type="text/javascript">
+		var categoryTreeCollapseMsg = "collapse";
+		var categoryTreeExpandMsg = "expand";
+		var categoryTreeCollapseBulletMsg = "[\x3cb\x3e−\x3c/b\x3e]";
+		var categoryTreeExpandBulletMsg = "[\x3cb\x3e+\x3c/b\x3e]";
+		var categoryTreeLoadMsg = "load";
+		var categoryTreeLoadingMsg = "loading…";
+		var categoryTreeNothingFoundMsg = "nothing found";
+		var categoryTreeNoSubcategoriesMsg = "no subcategories";
+		var categoryTreeNoParentCategoriesMsg = "no parent categories";
+		var categoryTreeNoPagesMsg = "no pages or subcategories";
+		var categoryTreeErrorMsg = "Problem loading data.";
+		var categoryTreeRetryMsg = "Please wait a moment and try again.";
+	</script>
+
+<script src="http://bits.wikimedia.org/skins-1.5/common/ajax.js?283-17" type="text/javascript"></script>
+<script src="http://bits.wikimedia.org/skins-1.5/common/mwsuggest.js?283-17" type="text/javascript"></script>
+<script src="http://bits.wikimedia.org/w/extensions/UsabilityInitiative/js/plugins.combined.min.js?283-17" type="text/javascript"></script>
+<script src="http://bits.wikimedia.org/w/extensions/UsabilityInitiative/Vector/Vector.combined.min.js?283-17" type="text/javascript"></script>
+<script type="text/javascript">mw.usability.addMessages({'vector-collapsiblenav-more':'More languages','vector-editwarning-warning':'Leaving this page may cause you to lose any changes you have made.\nIf you are logged in, you can disable this warning in the \"Editing\" section of your preferences.','vector-simplesearch-search':'Search','vector-simplesearch-containing':'containing...'});</script>
+<script src="/w/index.php?title=Special:BannerController&amp;cache=/cn.js&amp;283-17" type="text/javascript"></script>
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/skins-1.5/vector/csshover.htc")}</style><![endif]-->
+<script src="/w/index.php?title=-&amp;action=raw&amp;gen=js&amp;useskin=vector&amp;283-17" type="text/javascript"></script>
+
+</head>
+<body class="mediawiki ltr ns-14 ns-subject page-Category_Wikileaks skin-vector">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<!-- content -->
+		<div id="content">
+			<a id="top"></a>
+			<div id="mw-js-message" style="display:none;"></div>
+						<!-- sitenotice -->
+			<div id="siteNotice"><!-- centralNotice loads here --><script type="text/javascript" language="JavaScript">
+/* <![CDATA[ */
+document.writeln("\x3cdiv id=\"localNotice\"\x3e\x3cp\x3e\x3c/p\x3e\n\x3c/div\x3e");
+/* ]]> */
+</script></div>
+			<!-- /sitenotice -->
+						<!-- firstHeading -->
+			<h1 id="firstHeading" class="firstHeading">Category:Wikileaks</h1>
+			<!-- /firstHeading -->
+			<!-- bodyContent -->
+			<div id="bodyContent">
+				<!-- tagline -->
+				<div id="siteSub">From Wikimedia Commons, the free media repository</div>
+				<!-- /tagline -->
+				<!-- subtitle -->
+				<div id="contentSub"></div>
+				<!-- /subtitle -->
+																<!-- jumpto -->
+				<div id="jump-to-nav">
+					Jump to: <a href="#mw-head">navigation</a>,
+					<a href="#p-search">search</a>
+				</div>
+				<!-- /jumpto -->
+								<!-- bodytext -->
+				<p><a href="http://en.wikipedia.org/wiki/Wikileaks" class="extiw" title="w:Wikileaks">Wikileaks</a></p>
+
+
+<!-- 
+NewPP limit report
+Preprocessor node count: 1/1000000
+Post-expand include size: 0/2048000 bytes
+Template argument size: 0/2048000 bytes
+Expensive parser function count: 0/500
+-->
+
+<!-- Saved in parser cache with key commonswiki:pcache:idhash:6011217-0!1!0!default!!en!4 and timestamp 20101215005009 -->
+<div id="mw-subcategories">
+<h2>Subcategories</h2>
+<p>This category has the following 2 subcategories, out of 2 total.
+</p><h3>A</h3>
+<ul><li><div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeEmptyBullet">[<b>×</b>] </span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/wiki/Category:Julian_Assange">Julian Assange</a> <span title="contains 0 subcategories, 0 pages, and 19 files">(19 F)</span></div>
+		<div class="CategoryTreeChildren" style="display:none"></div></div>
+		</li></ul><h3>J</h3>
+<ul><li><div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" style="display: none;" onclick="if (this.href) this.href=&#039;javascript:void(0)&#039;; categoryTreeExpandNode(&#039;July_12,_2007_Baghdad_airstrike&#039;,{&quot;mode&quot;:0,&quot;hideprefix&quot;:20,&quot;showcount&quot;:true,&quot;namespaces&quot;:false},this);" title="expand">[<b>+</b>]</span> </span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/wiki/Category:July_12,_2007_Baghdad_airstrike">July 12, 2007 Baghdad airstrike</a> <span title="contains 2 subcategories, 0 pages, and 0 files">(2 C)</span></div>
+		<div class="CategoryTreeChildren" style="display:none"></div></div>
+		</li></ul>
+</div><div id="mw-category-media">
+<h2>Media in category "Wikileaks"</h2>
+<p>The following 17 files are in this category, out of 17 total.
+</p><table class="gallery" cellspacing="0" cellpadding="0">
+	<tr>
+		<td><div class="gallerybox" style="width: 155px;">
+			<div class="thumb" style="padding: 51px 0; width: 150px;"><div style="margin-left: auto; margin-right: auto; width: 120px;"><a href="/wiki/File:0273_543_35440087-543x199.jpg" class="image"><img alt="0273 543 35440087-543x199.jpg" src="http://upload.wikimedia.org/wikipedia/commons/thumb/7/75/0273_543_35440087-543x199.jpg/120px-0273_543_35440087-543x199.jpg" width="120" height="44" /></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:0273_543_35440087-543x199.jpg" title="File:0273 543 35440087-543x199.jpg">0273 543 35440087-54...</a><br />
+21,810 bytes<br />
+
+			</div>
+		</div></td>
+		<td><div class="gallerybox" style="width: 155px;">
+			<div class="thumb" style="padding: 28px 0; width: 150px;"><div style="margin-left: auto; margin-right: auto; width: 120px;"><a href="/wiki/File:Bradley_Manning.jpg" class="image"><img alt="Bradley Manning.jpg" src="http://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Bradley_Manning.jpg/120px-Bradley_Manning.jpg" width="120" height="90" /></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Bradley_Manning.jpg" title="File:Bradley Manning.jpg">Bradley Manning.jpg</a><br />
+42,898 bytes<br />
+
+			</div>
+		</div></td>
+		<td><div class="gallerybox" style="width: 155px;">
+			<div class="thumb" style="padding: 13px 0; width: 150px;"><div style="margin-left: auto; margin-right: auto; width: 120px;"><a href="/w/index.php?title=File:FBIS_Report_-_Compilation_of_Usama_Bin_Ladin_Statements_1994-2004.djvu&amp;page=1" class="image"><img alt="FBIS Report - Compilation of Usama Bin Ladin Statements 1994-2004.djvu" src="http://upload.wikimedia.org/wikipedia/commons/thumb/3/33/FBIS_Report_-_Compilation_of_Usama_Bin_Ladin_Statements_1994-2004.djvu/page1-93px-FBIS_Report_-_Compilation_of_Usama_Bin_Ladin_Statements_1994-2004.djvu.jpg" width="93" height="120" /></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:FBIS_Report_-_Compilation_of_Usama_Bin_Ladin_Statements_1994-2004.djvu" title="File:FBIS Report - Compilation of Usama Bin Ladin Statements 1994-2004.djvu">FBIS Report - Compil...</a><br />
+108,146 bytes<br />
+
+			</div>
+		</div></td>
+		<td><div class="gallerybox" style="width: 155px;">
+			<div class="thumb" style="padding: 13px 0; width: 150px;"><div style="margin-left: auto; margin-right: auto; width: 120px;"><a href="/wiki/File:WL_Helping_Hand.jpg" class="image"><img alt="WL Helping Hand.jpg" src="http://upload.wikimedia.org/wikipedia/commons/thumb/9/90/WL_Helping_Hand.jpg/56px-WL_Helping_Hand.jpg" width="56" height="120" /></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:WL_Helping_Hand.jpg" title="File:WL Helping Hand.jpg">WL Helping Hand.jpg</a><br />
+59,704 bytes<br />
+
+			</div>
+		</div></td>
+	</tr>
+	<tr>
+		<td><div class="gallerybox" style="width: 155px;">
+			<div class="thumb" style="padding: 15px 0; width: 150px;"><div style="margin-left: auto; margin-right: auto; width: 120px;"><a href="/wiki/File:WL_Hour_Glass_Bottom.jpg" class="image"><img alt="WL Hour Glass Bottom.jpg" src="http://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/WL_Hour_Glass_Bottom.jpg/120px-WL_Hour_Glass_Bottom.jpg" width="120" height="115" /></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:WL_Hour_Glass_Bottom.jpg" title="File:WL Hour Glass Bottom.jpg">WL Hour Glass Bottom...</a><br />
+7,513 bytes<br />
+
+			</div>
+		</div></td>
+		<td><div class="gallerybox" style="width: 155px;">
+			<div class="thumb" style="padding: 13px 0; width: 150px;"><div style="margin-left: auto; margin-right: auto; width: 120px;"><a href="/wiki/File:WL_Hour_Glass_Uppercase_Halfsize.jpg" class="image"><img alt="WL Hour Glass Uppercase Halfsize.jpg" src="http://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/WL_Hour_Glass_Uppercase_Halfsize.jpg/51px-WL_Hour_Glass_Uppercase_Halfsize.jpg" width="51" height="119" /></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:WL_Hour_Glass_Uppercase_Halfsize.jpg" title="File:WL Hour Glass Uppercase Halfsize.jpg">WL Hour Glass Upperc...</a><br />
+14,780 bytes<br />
+
+			</div>
+		</div></td>
+		<td><div class="gallerybox" style="width: 155px;">
+			<div class="thumb" style="padding: 13px 0; width: 150px;"><div style="margin-left: auto; margin-right: auto; width: 120px;"><a href="/wiki/File:WL_Hour_Glass.jpg" class="image"><img alt="WL Hour Glass.jpg" src="http://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WL_Hour_Glass.jpg/52px-WL_Hour_Glass.jpg" width="52" height="120" /></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:WL_Hour_Glass.jpg" title="File:WL Hour Glass.jpg">WL Hour Glass.jpg</a><br />
+58,177 bytes<br />
+
+			</div>
+		</div></td>
+		<td><div class="gallerybox" style="width: 155px;">
+			<div class="thumb" style="padding: 13px 0; width: 150px;"><div style="margin-left: auto; margin-right: auto; width: 120px;"><a href="/wiki/File:WikiLeaks_2010-12-08.png" class="image"><img alt="WikiLeaks 2010-12-08.png" src="http://upload.wikimedia.org/wikipedia/commons/thumb/3/34/WikiLeaks_2010-12-08.png/87px-WikiLeaks_2010-12-08.png" width="87" height="119" /></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:WikiLeaks_2010-12-08.png" title="File:WikiLeaks 2010-12-08.png">WikiLeaks 2010-12-08...</a><br />
+294,503 bytes<br />
+
+			</div>
+		</div></td>
+	</tr>
+	<tr>
+		<td><div class="gallerybox" style="width: 155px;">
+			<div class="thumb" style="padding: 13px 0; width: 150px;"><div style="margin-left: auto; margin-right: auto; width: 120px;"><a href="/wiki/File:WikiLeaks_is_not_Wikimedia_Projects.png" class="image"><img alt="WikiLeaks is not Wikimedia Projects.png" src="http://upload.wikimedia.org/wikipedia/commons/thumb/8/85/WikiLeaks_is_not_Wikimedia_Projects.png/120px-WikiLeaks_is_not_Wikimedia_Projects.png" width="120" height="120" /></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:WikiLeaks_is_not_Wikimedia_Projects.png" title="File:WikiLeaks is not Wikimedia Projects.png">WikiLeaks is not Wik...</a><br />
+373,048 bytes<br />
+
+			</div>
+		</div></td>
+		<td><div class="gallerybox" style="width: 155px;">
+			<div class="thumb" style="padding: 13px 0; width: 150px;"><div style="margin-left: auto; margin-right: auto; width: 120px;"><a href="/wiki/File:Wikileaks_-_A_verdade_vos_libertara.svg" class="image"><img alt="Wikileaks - A verdade vos libertara.svg" src="http://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Wikileaks_-_A_verdade_vos_libertara.svg/85px-Wikileaks_-_A_verdade_vos_libertara.svg.png" width="85" height="120" /></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Wikileaks_-_A_verdade_vos_libertara.svg" title="File:Wikileaks - A verdade vos libertara.svg">Wikileaks - A verdad...</a><br />
+269,404 bytes<br />
+
+			</div>
+		</div></td>
+		<td><div class="gallerybox" style="width: 155px;">
+			<div class="thumb" style="padding: 33px 0; width: 150px;"><div style="margin-left: auto; margin-right: auto; width: 120px;"><a href="/wiki/File:Wikileaks_Rally_Hobart_2010_1.jpg" class="image"><img alt="Wikileaks Rally Hobart 2010 1.jpg" src="http://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Wikileaks_Rally_Hobart_2010_1.jpg/120px-Wikileaks_Rally_Hobart_2010_1.jpg" width="120" height="80" /></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Wikileaks_Rally_Hobart_2010_1.jpg" title="File:Wikileaks Rally Hobart 2010 1.jpg">Wikileaks Rally Hoba...</a><br />
+4,626,818 bytes<br />
+
+			</div>
+		</div></td>
+		<td><div class="gallerybox" style="width: 155px;">
+			<div class="thumb" style="padding: 45px 0; width: 150px;"><div style="margin-left: auto; margin-right: auto; width: 120px;"><a href="/wiki/File:Wikileaks_Rally_Hobart_2010_2.jpg" class="image"><img alt="Wikileaks Rally Hobart 2010 2.jpg" src="http://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Wikileaks_Rally_Hobart_2010_2.jpg/120px-Wikileaks_Rally_Hobart_2010_2.jpg" width="120" height="55" /></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Wikileaks_Rally_Hobart_2010_2.jpg" title="File:Wikileaks Rally Hobart 2010 2.jpg">Wikileaks Rally Hoba...</a><br />
+3,078,568 bytes<br />
+
+			</div>
+		</div></td>
+	</tr>
+	<tr>
+		<td><div class="gallerybox" style="width: 155px;">
+			<div class="thumb" style="padding: 33px 0; width: 150px;"><div style="margin-left: auto; margin-right: auto; width: 120px;"><a href="/wiki/File:Wikileaks_Rally_Hobart_2010_3.jpg" class="image"><img alt="Wikileaks Rally Hobart 2010 3.jpg" src="http://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikileaks_Rally_Hobart_2010_3.jpg/120px-Wikileaks_Rally_Hobart_2010_3.jpg" width="120" height="80" /></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Wikileaks_Rally_Hobart_2010_3.jpg" title="File:Wikileaks Rally Hobart 2010 3.jpg">Wikileaks Rally Hoba...</a><br />
+4,791,440 bytes<br />
+
+			</div>
+		</div></td>
+		<td><div class="gallerybox" style="width: 155px;">
+			<div class="thumb" style="padding: 13px 0; width: 150px;"><div style="margin-left: auto; margin-right: auto; width: 120px;"><a href="/wiki/File:Wikileaks_logo.svg" class="image"><img alt="Wikileaks logo.svg" src="http://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Wikileaks_logo.svg/52px-Wikileaks_logo.svg.png" width="52" height="120" /></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Wikileaks_logo.svg" title="File:Wikileaks logo.svg">Wikileaks logo.svg</a><br />
+44,785 bytes<br />
+
+			</div>
+		</div></td>
+		<td><div class="gallerybox" style="width: 155px;">
+			<div class="thumb" style="padding: 33px 0; width: 150px;"><div style="margin-left: auto; margin-right: auto; width: 120px;"><a href="/wiki/File:Wikileaks_protest_Madrid_11th_December_2.jpg" class="image"><img alt="Wikileaks protest Madrid 11th December 2.jpg" src="http://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Wikileaks_protest_Madrid_11th_December_2.jpg/120px-Wikileaks_protest_Madrid_11th_December_2.jpg" width="120" height="80" /></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Wikileaks_protest_Madrid_11th_December_2.jpg" title="File:Wikileaks protest Madrid 11th December 2.jpg">Wikileaks protest Ma...</a><br />
+208,244 bytes<br />
+
+			</div>
+		</div></td>
+		<td><div class="gallerybox" style="width: 155px;">
+			<div class="thumb" style="padding: 33px 0; width: 150px;"><div style="margin-left: auto; margin-right: auto; width: 120px;"><a href="/wiki/File:Wikileaks_protest_Madrid_11th_December.jpg" class="image"><img alt="Wikileaks protest Madrid 11th December.jpg" src="http://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Wikileaks_protest_Madrid_11th_December.jpg/120px-Wikileaks_protest_Madrid_11th_December.jpg" width="120" height="80" /></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Wikileaks_protest_Madrid_11th_December.jpg" title="File:Wikileaks protest Madrid 11th December.jpg">Wikileaks protest Ma...</a><br />
+182,502 bytes<br />
+
+			</div>
+		</div></td>
+	</tr>
+	<tr>
+		<td><div class="gallerybox" style="width: 155px;">
+			<div class="thumb" style="padding: 28px 0; width: 150px;"><div style="margin-left: auto; margin-right: auto; width: 120px;"><a href="/wiki/File:WikileaksFlag.png" class="image"><img alt="WikileaksFlag.png" src="http://upload.wikimedia.org/wikipedia/commons/thumb/d/de/WikileaksFlag.png/120px-WikileaksFlag.png" width="120" height="90" /></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:WikileaksFlag.png" title="File:WikileaksFlag.png">WikileaksFlag.png</a><br />
+1,317,350 bytes<br />
+
+			</div>
+		</div></td>
+	</tr>
+</table>
+</div><div class="printfooter">
+Retrieved from "<a href="http://commons.wikimedia.org/wiki/Category:Wikileaks">http://commons.wikimedia.org/wiki/Category:Wikileaks</a>"</div>
+				<!-- /bodytext -->
+								<!-- catlinks -->
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: <span dir='ltr'><a href="/wiki/Category:Espionage" title="Category:Espionage">Espionage</a></span> | <span dir='ltr'><a href="/wiki/Category:National_security" title="Category:National security">National security</a></span> | <span dir='ltr'><a href="/wiki/Category:Web_2.0" title="Category:Web 2.0">Web 2.0</a></span> | <span dir='ltr'><a href="/wiki/Category:Wikis" title="Category:Wikis">Wikis</a></span></div></div>				<!-- /catlinks -->
+												<div class="visualClear"></div>
+			</div>
+			<!-- /bodyContent -->
+		</div>
+		<!-- /content -->
+		<!-- header -->
+		<div id="mw-head" class="noprint">
+			
+<!-- 0 -->
+<div id="p-personal" class="">
+	<h5>Personal tools</h5>
+	<ul>
+					<li  id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Category:Wikileaks" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in / create account</a></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+			<div id="left-navigation">
+				
+<!-- 0 -->
+<div id="p-namespaces" class="vectorTabs">
+	<h5>Namespaces</h5>
+	<ul>
+					<li  id="ca-nstab-category" class="selected"><a href="/wiki/Category:Wikileaks"  title="View the category page [c]" accesskey="c"><span>Category</span></a></li>
+					<li  id="ca-talk" class="new"><a href="/w/index.php?title=Category_talk:Wikileaks&amp;action=edit&amp;redlink=1"  title="Discussion about the content page [t]" accesskey="t"><span>Discussion</span></a></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+
+<!-- 1 -->
+<div id="p-variants" class="vectorMenu emptyPortlet">
+		<h5><span>Variants</span><a href="#"></a></h5>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+
+<!-- /1 -->
+			</div>
+			<div id="right-navigation">
+				
+<!-- 0 -->
+<div id="p-views" class="vectorTabs">
+	<h5>Views</h5>
+	<ul>
+					<li id="ca-view" class="selected"><a href="/wiki/Category:Wikileaks" ><span>View</span></a></li>
+					<li id="ca-edit"><a href="/w/index.php?title=Category:Wikileaks&amp;action=edit"  title="You can edit this page. Please use the preview button before saving [e]" accesskey="e"><span>Edit</span></a></li>
+					<li id="ca-history" class="collapsible "><a href="/w/index.php?title=Category:Wikileaks&amp;action=history"  title="Past revisions of this page [h]" accesskey="h"><span>View history</span></a></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+
+<!-- 1 -->
+<div id="p-cactions" class="vectorMenu emptyPortlet">
+	<h5><span>Actions</span><a href="#"></a></h5>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+
+<!-- /1 -->
+
+<!-- 2 -->
+<div id="p-search">
+	<h5><label for="searchInput">Search</label></h5>
+	<form action="/w/index.php" id="searchform">
+		<input type='hidden' name="title" value="Special:Search"/>
+				<div id="simpleSearch">
+			<input id="searchInput" name="search" type="text"  title="Search Wikimedia Commons [f]" accesskey="f"  value="" />
+			<button id="searchButton" type='submit' name='button'  title="Search the pages for this text"><img src="http://bits.wikimedia.org/skins-1.5/vector/images/search-ltr.png?283-17" alt="Search" /></button>
+		</div>
+			</form>
+</div>
+
+<!-- /2 -->
+			</div>
+		</div>
+		<!-- /header -->
+		<!-- panel -->
+			<div id="mw-panel" class="noprint">
+				<!-- logo -->
+					<div id="p-logo"><a style="background-image: url(http://upload.wikimedia.org/wikipedia/commons/7/79/Wiki-commons.png);" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+				<!-- /logo -->
+				
+<!-- SEARCH -->
+
+<!-- /SEARCH -->
+
+<!-- navigation -->
+<div class="portal" id='p-navigation'>
+	<h5>Navigation</h5>
+	<div class="body">
+				<ul>
+					<li id="n-mainpage"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main Page</a></li>
+					<li id="n-welcome"><a href="/wiki/Commons:Welcome">Welcome</a></li>
+					<li id="n-portal"><a href="/wiki/Commons:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+					<li id="n-village-pump"><a href="/wiki/Commons:Village_pump">Village pump</a></li>
+				</ul>
+			</div>
+</div>
+
+<!-- /navigation -->
+
+<!-- participate -->
+<div class="portal" id='p-participate'>
+	<h5>Participate</h5>
+	<div class="body">
+				<ul>
+					<li id="n-uploadbtn"><a href="/wiki/Commons:Upload">Upload file</a></li>
+					<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="The list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+					<li id="n-latestfiles"><a href="/wiki/Special:NewFiles">Latest files</a></li>
+					<li id="n-randomimage"><a href="/wiki/Special:Random/File" title="Load a random file [x]" accesskey="x">Random file</a></li>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="The place to find out">Help</a></li>
+					<li id="n-contact"><a href="/wiki/Commons:Contact_us">Contact us</a></li>
+					<li id="n-sitesupport"><a href="http://wikimediafoundation.org/wiki/Special:Landingcheck?landing_page=WMFJA1&amp;language=en&amp;utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=20101204SB001" title="Support us">Donate</a></li>
+				</ul>
+			</div>
+</div>
+
+<!-- /participate -->
+
+<!-- TOOLBOX -->
+<div class="portal" id="p-tb">
+	<h5>Toolbox</h5>
+	<div class="body">
+		<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Category:Wikileaks" title="List of all wiki pages that link here [j]" accesskey="j">What links here</a></li>
+						<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Category:Wikileaks" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+																																										<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="List of all special pages [q]" accesskey="q">Special pages</a></li>
+									<li id="t-print"><a href="/w/index.php?title=Category:Wikileaks&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+						<li id="t-permalink"><a href="/w/index.php?title=Category:Wikileaks&amp;oldid=47057998" title="Permanent link to this revision of the page">Permanent link</a></li>
+						</ul>
+	</div>
+</div>
+
+<!-- /TOOLBOX -->
+
+<!-- LANGUAGES -->
+<div class="portal" id="p-lang">
+	<h5>In Wikipedia</h5>
+	<div class="body">
+		<ul>
+					<li class="interwiki-ca"><a href="http://ca.wikipedia.org/wiki/WikiLeaks" title="WikiLeaks">Català</a></li>
+					<li class="interwiki-cy"><a href="http://cy.wikipedia.org/wiki/WikiLeaks" title="WikiLeaks">Cymraeg</a></li>
+					<li class="interwiki-de"><a href="http://de.wikipedia.org/wiki/Wikileaks" title="Wikileaks">Deutsch</a></li>
+					<li class="interwiki-en"><a href="http://en.wikipedia.org/wiki/Wikileaks" title="Wikileaks">English</a></li>
+					<li class="interwiki-es"><a href="http://es.wikipedia.org/wiki/Wikileaks" title="Wikileaks">Español</a></li>
+					<li class="interwiki-fr"><a href="http://fr.wikipedia.org/wiki/Wikileaks" title="Wikileaks">Français</a></li>
+					<li class="interwiki-it"><a href="http://it.wikipedia.org/wiki/Wikileaks" title="Wikileaks">Italiano</a></li>
+					<li class="interwiki-ja"><a href="http://ja.wikipedia.org/wiki/Wikileaks" title="Wikileaks">日本語</a></li>
+					<li class="interwiki-nl"><a href="http://nl.wikipedia.org/wiki/Wikileaks" title="Wikileaks">Nederlands</a></li>
+					<li class="interwiki-pl"><a href="http://pl.wikipedia.org/wiki/Wikileaks" title="Wikileaks">Polski</a></li>
+					<li class="interwiki-pt"><a href="http://pt.wikipedia.org/wiki/Wikileaks" title="Wikileaks">Português</a></li>
+					<li class="interwiki-ro"><a href="http://ro.wikipedia.org/wiki/Wikileaks" title="Wikileaks">Română</a></li>
+					<li class="interwiki-ru"><a href="http://ru.wikipedia.org/wiki/Wikileaks" title="Wikileaks">Русский</a></li>
+					<li class="interwiki-scn"><a href="http://scn.wikipedia.org/wiki/Wikileaks" title="Wikileaks">Sicilianu</a></li>
+					<li class="interwiki-simple"><a href="http://simple.wikipedia.org/wiki/Wikileaks" title="Wikileaks">Simple English</a></li>
+					<li class="interwiki-sk"><a href="http://sk.wikipedia.org/wiki/Wikileaks" title="Wikileaks">Slovenčina</a></li>
+					<li class="interwiki-fi"><a href="http://fi.wikipedia.org/wiki/Wikileaks" title="Wikileaks">Suomi</a></li>
+					<li class="interwiki-sv"><a href="http://sv.wikipedia.org/wiki/Wikileaks" title="Wikileaks">Svenska</a></li>
+					<li class="interwiki-th"><a href="http://th.wikipedia.org/wiki/%E0%B8%A7%E0%B8%B4%E0%B8%81%E0%B8%B4%E0%B8%A5%E0%B8%B5%E0%B8%81%E0%B8%AA%E0%B9%8C" title="วิกิลีกส์">ไทย</a></li>
+					<li class="interwiki-vi"><a href="http://vi.wikipedia.org/wiki/WikiLeaks" title="WikiLeaks">Tiếng Việt</a></li>
+					<li class="interwiki-zh"><a href="http://zh.wikipedia.org/wiki/Wikileaks" title="Wikileaks">中文</a></li>
+				</ul>
+	</div>
+</div>
+
+<!-- /LANGUAGES -->
+			</div>
+		<!-- /panel -->
+		<!-- footer -->
+		<div id="footer">
+											<ul id="footer-info">
+																	<li id="footer-info-lastmod"> This page was last modified on 15 December 2010, at 00:50.</li>
+																							<li id="footer-info-copyright">Text is available under the <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike License</a>;
+additional terms may apply.
+See <a href="http://wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> for details.</li>
+															</ul>
+															<ul id="footer-places">
+																	<li id="footer-places-privacy"><a href="/wiki/Commons:Privacy_policy" title="Commons:Privacy policy">Privacy policy</a></li>
+																							<li id="footer-places-about"><a href="/wiki/Commons:Welcome" title="Commons:Welcome">About Wikimedia Commons</a></li>
+																							<li id="footer-places-disclaimer"><a href="/wiki/Commons:General_disclaimer" title="Commons:General disclaimer">Disclaimers</a></li>
+															</ul>
+										<ul id="footer-icons" class="noprint">
+								<li id="footer-icon-poweredby"><a href="http://www.mediawiki.org/"><img src="http://bits.wikimedia.org/skins-1.5/common/images/poweredby_mediawiki_88x31.png" height="31" width="88" alt="Powered by MediaWiki" /></a></li>
+												<li id="footer-icon-copyright"><a href="http://wikimediafoundation.org/"><img src="/images/wikimedia-button.png" width="88" height="31" alt="Wikimedia Foundation"/></a></li>
+							</ul>
+			<div style="clear:both"></div>
+		</div>
+		<!-- /footer -->
+		<!-- fixalpha -->
+		<script type="text/javascript"> if ( window.isMSIE55 ) fixalpha(); </script>
+		<!-- /fixalpha -->
+		
+<script type="text/javascript">if (window.runOnloadHook) runOnloadHook();</script>
+<script type="text/javascript" src="http://geoiplookup.wikimedia.org/"></script>		<!-- Served by srv173 in 0.159 secs. -->			</body>
+</html>

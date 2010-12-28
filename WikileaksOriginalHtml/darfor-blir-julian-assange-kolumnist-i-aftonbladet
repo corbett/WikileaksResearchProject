@@ -1,0 +1,1716 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+       <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+<meta name="google-site-verification" content="K5YyRO1_UPeal8RPTTQ0uYi8-woApGS40kv2qGrGE_Y" />
+<title>D&#xE4;rf&#xF6;r blir Julian Assange kolumnist i Aftonbladet &#xAB; Jan Helin</title>
+
+<!-- APPLICATION: Aftonbladet Blogg 2.0.3, 39735-->
+ <!-- YUI -->
+<link type="text/css" rel="stylesheet" href="/yui/2.7.0/build/reset-fonts-grids/reset-fonts-grids.css"/>
+<link type="text/css" rel="stylesheet" href="/yui/2.7.0/build/menu/assets/skins/sam/menu.css"/>
+<link type="text/css" rel="stylesheet" href="/yui/2.7.0/build/tabview/assets/skins/sam/tabview.css"/>
+<link type="text/css" rel="stylesheet" href="/yui/2.7.0/build/container/assets/container.css"/>
+<script type="text/javascript" src="/yui/2.7.0/build/utilities/utilities.js"></script>
+<script type="text/javascript" src="/yui/2.7.0/build/history/history-min.js"></script>
+<script type="text/javascript" src="/yui/2.7.0/build/json/json-min.js"></script>
+<script type="text/javascript" src="/yui/2.7.0/build/container/container-min.js"></script>
+<script type="text/javascript" src="/yui/2.7.0/build/menu/menu-min.js"></script>
+<script type="text/javascript" src="/yui/2.7.0/build/tabview/tabview-min.js"></script>
+
+<!-- Aftonbladet UserService  -->
+<script type="text/javascript" src="http://www.aftonbladet.se/template/ver1-0/javascript/abse-user-min.js"></script>
+
+<!-- Blog - RSS, CSS and javascript -->
+<link type="text/css" rel="stylesheet" href="/css/userblogs/static.css?rev=39735"/>
+<link type="text/css" rel="stylesheet" href="/css/userblogs/defaultskin.css?rev=39735"/>
+<script type="text/javascript" src="/js/common/common.js?rev=39735"></script>
+<script type="text/javascript" src="/js/blog.js?rev=39735"></script>
+
+ <link type="text/css" rel="stylesheet" href="/style/26609/?v=9"/>
+    <link type="application/rss+xml" rel="alternate" title="Jan Helin - senaste inl&auml;ggen (RSS)" href="/feeds/entries/janhelin/rss"/>
+    <link type="application/rss+xml" rel="alternate" title="Jan Helin - senaste kommentarerna (RSS)" href="/feeds/comments/janhelin/rss"/>
+         <!-- Override skin styles -->
+<link type="text/css" rel="stylesheet" href="/css/userblogs/overrideallskin.css?rev=39735"/>
+ </head>
+  <body>
+    
+    <div id="abBlogFrameworkContainer">
+    
+      <div id="abBlogTopBar">
+           <script type="text/javascript">
+//<![CDATA[
+    YAHOO.util.Event.onContentReady("mainmenu", function () {
+        var oMenuBar = new YAHOO.widget.MenuBar("mainmenu", { 
+                                                hidedelay: 750, 
+                                                lazyload: true });
+        oMenuBar.render();
+    });
+//]]>
+</script>
+
+<div id="abBlogTopNavBar">
+  <a href="http://www.aftonbladet.se/" id="FrontPageLinkAB"></a>
+  <a href="/" id="FrontPageLinkBlogg"></a>
+    <script type="text/javascript">
+    //<![CDATA[
+        YAHOO.util.Event.onContentReady('abBlogTopbarLoginLink', function () {
+            YAHOO.util.Event.addListener('abBlogTopbarLoginLink', 'click', se.aftonbladet.community.login);
+        });
+    //]]>
+    </script>
+    <div id="abBlogTopUserInfo">
+      <div class="InfoLogin"><a href="https://secure.aftonbladet.se/webcommerce/userInfoFree!input.action?sellSiteId=35&amp;offerId=39&amp;returnPath=http://blogg.aftonbladet.se/newBlog.action">Registrera dig</a></div>
+      <div class="Divider"></div>
+      <div class="InfoLogin"><a id="abBlogTopbarLoginLink" href="https://login.aftonbladet.se/?returnPath=http%3A%2F%2Fblogg.aftonbladet.se%2Fjanhelin" rel="nofollow">Logga in</a></div>
+      <div class="InfoLogout" style="float:right;font-weight: normal; padding-right: 10px;"><a style="color:#ffffff;" href="/supportbloggen" >Support</a></div>
+  	  <span class="clear:both"></span>
+  	</div>
+      </div>
+<div id="abBlogTopBarFooter">
+     <div class="abBlogTopBarEntryList">
+    <h3 class="ListHeader"><span>Senast Skrivet</span></h3>
+	        <script type="text/javascript">
+//<![CDATA[
+    pagination585737 = {};
+    pagination585737.abBlogListPage = function(page) {
+        var url = '/latestPublishedEntryList.action?pageSize=15&amp;listType=small'
+            + '&amp;profileImage=false&amp;noAnonymousWriters=false'
+            + '&amp;sortMethod=&amp;entryBodyMaxLength=100'
+            + '&amp;initial=false&amp;paginationId=pagination585737&amp;page=' + page;
+         
+
+        sendYahooUpdate(url, 'abBlog_pagination585737');
+        return false;
+    };
+//]]>
+</script>
+ <div id="abBlog_pagination585737">
+
+      <ul>
+       <li> <a href="/usabloggen/2010/12/nfl-laget-i-slutspelsjakten">NFL: L&#xE4;get i slutspelsjakten</a><ul><li>2010-12-27 03:59</li></ul></li>
+       <li> <a href="/samlaplus/2010/12/dags-att-gora-stan-osaker">Dags att g&#xF6;ra stan os&#xE4;ker</a><ul><li>2010-12-27 03:42</li></ul></li>
+       <li> <a href="/shimeixiaoxiao/2010/12/free-kids-online-games-make-learning-enjoyable-for-your-little-one-with-these-fun-kid-websites">Free Kids Online Games - Make Learning Enjoyable for Your Little One With These Fun Kid Websites</a><ul><li>2010-12-27 03:42</li></ul></li>
+       <li> <a href="/schulman/2010/12/en-besynnerlig">En besynnerlig...</a><ul><li>2010-12-27 03:24</li></ul></li>
+       <li> <a href="/launy/2010/12/sagan-om-hitlers-skatt-nu-i-aftonbladet">...sagan om Hitlers skatt, nu i Aftonbladet!</a><ul><li>2010-12-27 03:20</li></ul></li>
+       <li> <a href="/30091/2010/12/alldeles-for-fortrafflig-for-mitt-eget-basta">Alldeles F&#xD6;R f&#xF6;rtr&#xE4;fflig f&#xF6;r mitt eget b&#xE4;sta</a><ul><li>2010-12-27 03:12</li></ul></li>
+       <li> <a href="/sittingbull/2010/12/systemfelet">Systemfelet</a><ul><li>2010-12-27 03:07</li></ul></li>
+       <li> <a href="/30091/2010/12/young-disciples-apparently-nothin">Young Disciples - Apparently Nothin' </a><ul><li>2010-12-27 02:57</li></ul></li>
+       <li> <a href="/jvm-bloggen/2010/12/summering-dag-1">Summering dag 1</a><ul><li>2010-12-27 02:33</li></ul></li>
+       <li> <a href="/visualdamage/2010/12/borta-med-vintervinden">Borta med vintervinden!</a><ul><li>2010-12-27 02:20</li></ul></li>
+       <li> <a href="/newyorkmamman/2010/12/hurtig">Hurtig</a><ul><li>2010-12-27 02:15</li></ul></li>
+       <li> <a href="/30091/2010/12/fraste-agg">Fr&#xE4;ste &#xE4;gg</a><ul><li>2010-12-27 02:07</li></ul></li>
+       <li> <a href="/8891/2010/12/vilsen-pessimist-far-bot">Vilsen pessimist f&#xE5;r bot</a><ul><li>2010-12-27 02:00</li></ul></li>
+       <li> <a href="/6334/2010/12/etthundrasjuttiofjarde-inlagget-om-kiwi">Etthundrasjuttiofj&#xE4;rde inl&#xE4;gget om Kiwi</a><ul><li>2010-12-27 01:59</li></ul></li>
+       <li> <a href="/adrianbahtiri/2010/12/ett-alldeles-for-sent-klagoinlagg">Ett alldeles f&#xF6;r sent klagoinl&#xE4;gg</a><ul><li>2010-12-27 01:56</li></ul></li>
+       </ul>
+
+ </div>
+ </div> 
+     <div class="RandomBlog"><a href="/randomBlog.action" rel="nofollow"><img src="/images/userblogs/slumpa.gif" alt="Slumpa en blogg"/></a></div>
+ <span class="clear:both"></span>
+</div>
+ </div>
+      
+      <div id="abBlogMainSite">
+      
+	            <!-- AD: [placement=panorama,blogKey=janhelin,adSystem=helios] -->
+ <!-- Panorama -->
+   	<div id="abBlogAdPanorama" >
+	<div id="abBlogAdPanoramaContainer" >
+    <script type="text/javascript">
+    // <![CDATA[
+        if (window.adgroupid == undefined) {
+            window.adgroupid = Math.round(Math.random() * 1000);
+        }
+        document.write('<scr'+'ipt type="text/javascript" src="http://ad.dc2.adtech.de/addyn|3.0|831.1|2029817|0|-1|ADTECH;cookie=info;loc=100;target=_blank;alias=ab_blogg_generell_panorama;key=janhelin;grp='+window.adgroupid+';misc='+new Date().getTime()+'"></scri'+'pt>');
+    // ]]>
+    </script>
+	</div>
+	</div>   
+      <div id="abBlogHeaderContainer" onmouseover="this.style.cursor='pointer';" onclick="location.href='/janhelin';">
+			   <div id="abBlogHeaderContainerText">
+
+     <span class="HeaderText" style="display:none;"><a href="/janhelin">Jan Helin</a></span>
+	      <div class="HeaderSpacer" style="display:none;"></div>
+	      <span class="DescriptionText" style="display:none;">Jag &#xE4;r chefredakt&#xF6;r och ansvarig utgivare f&#xF6;r Aftonbladet.
+I den rollen vill jag kommentera och f&#xF6;rklara varf&#xF6;r vi publicerar som vi g&#xF6;r. Jag vill ocks&#xE5; diskutera de fr&#xE5;gorna med dig som l&#xE4;sare.</span>
+	 </div>
+ </div>
+        
+        <div id="abBlogMainContainer">
+        
+          <div id="abBlogLeftContainer">
+             <div id="abBlogSideImageContainer" >
+         <img src="http://ss11i01.stream.ip-only.net/images/blog/images/styles/admin/05/02/09/0/d00bdd7be8646734" alt="sidobild" />
+         </div>
+
+       <a style="width:100%;height:60px;display:block;background-image:url(http://ss11i01.stream.ip-only.net/images/misc/bloggmenyer/startsidan.png);background-repeat:no-repeat;background-position:left top;" href="http://www.aftonbladet.se/"></a>  <div class="abBlogUserList">
+        <h3 class="ListHeader">Senast skrivet</h3>
+           <div class="abBlogSingleBlogListsLatestEntries">
+	 <span class="blogLink">
+    		<a href='/janhelin/2010/12/svenska-hjaltar-en-motkraft'>Svenska Hj&#xE4;ltar - en motkraft</a>
+    	</span>
+	 <span class="blogLink">
+    		<a href='/janhelin/2010/12/vem-varfor'>Vem? Varf&#xF6;r?</a>
+    	</span>
+	 <span class="blogLink">
+    		<a href='/janhelin/2010/12/felaktig-kritik-och-obehagliga-hot-mot-wikileaks'>Felaktig kritik och obehagliga hot mot Wikileaks</a>
+    	</span>
+	 <span class="blogLink">
+    		<a href='/janhelin/2010/12/aftonbladet-avslojar-wikileaks-dokument-om-sverige'>Aftonbladet avsl&#xF6;jar Wikileaks dokument om Sverige</a>
+    	</span>
+	 <span class="blogLink">
+    		<a href='/janhelin/2010/11/sa-kommer-aftonbladet-ut-pa-ipad'>S&#xE5; kommer Aftonbladet ut p&#xE5; iPad</a>
+    	</span>
+	 <span class="blogLink">
+    		<a href='/janhelin/2010/11/sa-blev'>S&#xE5; blev nye lasermannen misst&#xE4;nkte Peter Mangs</a>
+    	</span>
+	 <span class="blogLink">
+    		<a href='/janhelin/2010/11/kungen-sanningen-och-skandalboken'>Kungen, sanningen och skandalboken</a>
+    	</span>
+	 <!--
+	Keywords
+	
+	-->
+</div> </div>
+
+                  <div class="abBlogUserList">
+        <h3 class="ListHeader">Populära nyckelord</h3>
+
+        <span id="abBlogKeywordsList">
+               <span class="MedFreq"><a href="/janhelin;jsessionid=577B29DC7AB3345706E69245078EF50A.wlb_app3?kid=103053" rel="nofollow">ud</a></span>
+                 <span class="LowFreq"><a href="/janhelin;jsessionid=577B29DC7AB3345706E69245078EF50A.wlb_app3?kid=78621" rel="nofollow">pressfrihet</a></span>
+                 <span class="LowFreq"><a href="/janhelin;jsessionid=577B29DC7AB3345706E69245078EF50A.wlb_app3?kid=104583" rel="nofollow">utrikesminister</a></span>
+                 <span class="LowFreq"><a href="/janhelin;jsessionid=577B29DC7AB3345706E69245078EF50A.wlb_app3?kid=104585" rel="nofollow">utrikesministern</a></span>
+                 <span class="LowFreq"><a href="/janhelin;jsessionid=577B29DC7AB3345706E69245078EF50A.wlb_app3?kid=1043" rel="nofollow">israel</a></span>
+                  </span>
+    </div>
+  <div class="abBlogUserList">
+        <h3 class="ListHeader">Arkiv</h3>
+           <div class="abBlogSingleBlogArchiveEntries">
+	 <span class="blogArchiveListEntry">
+	    	<a 
+	    		href="/archive/janhelin/2010/12"
+	    		title="Visa inlägg för december 2010"
+                rel="nofollow"
+	    	>
+	    		december 2010 </a>
+	    	 </span>
+	 <span class="blogArchiveListEntry">
+	    	<a 
+	    		href="/archive/janhelin/2010/11"
+	    		title="Visa inlägg för november 2010"
+                rel="nofollow"
+	    	>
+	    		november 2010 </a>
+	    	 </span>
+	 <span class="blogArchiveListEntry">
+	    	<a 
+	    		href="/archive/janhelin/2010/10"
+	    		title="Visa inlägg för oktober 2010"
+                rel="nofollow"
+	    	>
+	    		oktober 2010 </a>
+	    	 </span>
+	 <span class="blogArchiveListEntry">
+	    	<a 
+	    		href="/archive/janhelin/2010/09"
+	    		title="Visa inlägg för september 2010"
+                rel="nofollow"
+	    	>
+	    		september 2010 </a>
+	    	 </span>
+	 <span class="blogArchiveListEntry">
+	    	<a 
+	    		href="/archive/janhelin/2010/08"
+	    		title="Visa inlägg för augusti 2010"
+                rel="nofollow"
+	    	>
+	    		augusti 2010 </a>
+	    	 </span>
+	 <span class="blogArchiveListEntry">
+	    	<a 
+	    		href="/archive/janhelin/2010/07"
+	    		title="Visa inlägg för juli 2010"
+                rel="nofollow"
+	    	>
+	    		juli 2010 </a>
+	    	 </span>
+	 <span class="blogArchiveListEntry">
+	    	<a 
+	    		href="/archive/janhelin/2010/06"
+	    		title="Visa inlägg för juni 2010"
+                rel="nofollow"
+	    	>
+	    		juni 2010 </a>
+	    	 </span>
+	 <span class="blogArchiveListEntry">
+	    	<a 
+	    		href="/archive/janhelin/2010/05"
+	    		title="Visa inlägg för maj 2010"
+                rel="nofollow"
+	    	>
+	    		maj 2010 </a>
+	    	 </span>
+	 <span class="blogArchiveListEntry">
+	    	<a 
+	    		href="/archive/janhelin/2010/04"
+	    		title="Visa inlägg för april 2010"
+                rel="nofollow"
+	    	>
+	    		april 2010 </a>
+	    	 </span>
+	 <span class="blogArchiveListEntry">
+	    	<a 
+	    		href="/archive/janhelin/2010/03"
+	    		title="Visa inlägg för mars 2010"
+                rel="nofollow"
+	    	>
+	    		mars 2010 </a>
+	    	 </span>
+	 <span class="blogArchiveListEntry">
+	    	<a 
+	    		href="/archive/janhelin/2010/02"
+	    		title="Visa inlägg för februari 2010"
+                rel="nofollow"
+	    	>
+	    		februari 2010 </a>
+	    	 </span>
+	 <span class="blogArchiveListEntry">
+	    	<a 
+	    		href="/archive/janhelin/2010/01"
+	    		title="Visa inlägg för januari 2010"
+                rel="nofollow"
+	    	>
+	    		januari 2010 </a>
+	    	 </span>
+	 <span class="blogArchiveListEntry">
+	    	<a 
+	    		href="/archive/janhelin/2009/12"
+	    		title="Visa inlägg för december 2009"
+                rel="nofollow"
+	    	>
+	    		december 2009 </a>
+	    	 </span>
+	 <span class="blogArchiveListEntry">
+	    	<a 
+	    		href="/archive/janhelin/2009/11"
+	    		title="Visa inlägg för november 2009"
+                rel="nofollow"
+	    	>
+	    		november 2009 </a>
+	    	 </span>
+	 <span class="blogArchiveListEntry">
+	    	<a 
+	    		href="/archive/janhelin/2009/10"
+	    		title="Visa inlägg för oktober 2009"
+                rel="nofollow"
+	    	>
+	    		oktober 2009 </a>
+	    	 </span>
+	 <span class="blogArchiveListEntry">
+	    	<a 
+	    		href="/archive/janhelin/2009/09"
+	    		title="Visa inlägg för september 2009"
+                rel="nofollow"
+	    	>
+	    		september 2009 </a>
+	    	 </span>
+	 <span class="blogArchiveListEntry">
+	    	<a 
+	    		href="/archive/janhelin/2009/08"
+	    		title="Visa inlägg för augusti 2009"
+                rel="nofollow"
+	    	>
+	    		augusti 2009 </a>
+	    	 </span>
+	 <span class="blogArchiveListEntry">
+	    	<a 
+	    		href="/archive/janhelin/2009/01"
+	    		title="Visa inlägg för januari 2009"
+                rel="nofollow"
+	    	>
+	    		januari 2009 </a>
+	    	 </span>
+	 <span class="blogArchiveListEntry">
+	    	<a 
+	    		href="/archive/janhelin/2008/10"
+	    		title="Visa inlägg för oktober 2008"
+                rel="nofollow"
+	    	>
+	    		oktober 2008 </a>
+	    	 </span>
+	 </div> </div>
+
+    <div class="abBlogUserList">
+        <h3 class="ListHeader">Flöden</h3>
+        <ul class="FlowList">
+        <li><a rel="nofollow" title="Jan Helin - senaste inläggen (RSS 2.0)" href="/feeds/entries/janhelin/rss"><img src="/images/common/rss.gif" alt=""/></a> <a title="Jan Helin - senaste inläggen (RSS 2.0)" href="/feeds/entries/janhelin/rss">Senaste inläggen</a></li>
+        <li><a rel="nofollow" title="Jan Helin - senaste kommentarerna (RSS 2.0)" href="/feeds/comments/janhelin/rss"><img src="/images/common/rss.gif" alt=""/></a> <a title="Jan Helin - senaste kommentarerna (RSS 2.0)" href="/feeds/comments/janhelin/rss">Senaste kommentarerna</a></li>
+        </ul>
+    </div>
+
+        <!-- AD: [placement=insiderLeft,blogKey=janhelin,adSystem=helios] -->
+      <div style="padding-top:15px;">
+        <script type="text/javascript">
+        // <![CDATA[
+            function bloggkoll_click(){
+            u=location.href;
+            bloggkollid=location.pathname.substr(1).split("/")[0];
+            if(bloggkollid == 'blog.php')bloggkollid = location.search.split("=")[1];
+            window.open('http://www.bloggkoll.com/inc/addsubscript.php?net=1&id='+bloggkollid+'&u='+encodeURIComponent(u)+'&b=1');
+            return false;
+            }
+        // ]]>
+        </script>
+        <a onmouseover="this.href='javascript:void(0);';this.target='';" onclick="bloggkoll_click();" href="javascript:void(0);">
+            <img border="0" src="http://www.bloggkoll.com/widget/bilder/lank_2.gif" alt=""/>
+        </a>
+    </div>
+    </div>
+          
+          <div id="abBlogMainContentContainer">
+                          <div class="abBlogEntry">
+
+   
+	   <h1 class="EntryHeader"><a href="/janhelin/2010/08/darfor-blir-julian-assange-kolumnist-i-aftonbladet">D&#xE4;rf&#xF6;r blir Julian Assange kolumnist i Aftonbladet</a></h1>	
+<script type="text/javascript">
+	//<![CDATA[
+		YAHOO.util.Event.onDOMReady(function() {
+		se.aftonbladet.blog.fixImageProportions();
+		
+	});
+
+	//]]>
+</script>
+     <div class="EntryDateLine">
+        <span class="EntryDate">14 augusti 2010, kl 20:06</span>
+        <span class="EntryWriter">
+            Skrivet av
+                                                              <span class="BlogerHeader">
+        <a href="http://snack.aftonbladet.se/publicPage.action?userId=37223">Jan Helin</a>
+           </span>
+
+          </span>
+         <span class="abBlogAbuseLink"><a href="#" rel="nofollow" onclick="showPopup('/janhelin/reportAbuse.action;jsessionid=577B29DC7AB3345706E69245078EF50A.wlb_app3?abuseLink=ecb7969737d788328374df812c668d2c1ea5782a9d41eb963a2b47b7b2e5b0ac15a4da309528542e7eb791644e51afe914c75459e7e3f028195958063650c79f5554a8b24edef9e4','ABUSE','scrollbars=no,',700,600);return false;"><span class="WText">Anmäl</span><span class="WSign">&nbsp;!&nbsp;</span></a></span>    
+    </div>
+      <div class="EntryBody"><p>Aftonbladet inleder ett samarbete med Wikileaks. Vid två tillfällen har jag träffat Wikileaks utgivare och talesman Julian Assange. I går kom vi överrens om att inleda ett samarbete.</p>
+<p>Julian Assange kommer att skriva kolumner i Aftonbladet ungefär varannan månad. Hur han skriver har jag absolut ingen aning om, men han är garanterat den mest spännande hjärnan i världen just nu vad gäller yttrandefrihetsfrågor. Extremt mäktiga krafter vill stänga ner Julian Assange nätverk Wikileaks. Bara det gör det angeläget att lyssna till Assange.</p>
+<p>Det är nu ingen slump att Julian Assange väljer Aftonbladet, trots att hans samarbetspartners i media hittills varit några av världens största tidningar såsom New York Times, Der Spiegel och The Guardian. Aftonbladet har naturligtvis inte samma röst i världen som dessa tidningar. Men även om vi är små i detta sammanhang har vi några saker som gör oss intressanta. Att Aftonbladet är det ledande digitala mediehuset i Sverige på ett sätt som rönt viss uppmärksamhet internationellt är möjligen av någon betydelse, men inte det viktigaste. Viktigast är det faktum att vi ligger i Sverige. Vår tryckfrihetslagstiftning är den juristiktion i världen som bäst skyddar källor. Det är enligt svensk lag förbjudet för en myndighet att efterforska källor. En intressant omständighet om du som publicist till exempel har pentagon efter dig för att ha avslöjat och offentliggjort tiotusentals hemligstämplade dokument om kriget i Afghanistan.</p>
+<p>Aftonbladet bistår nu Wikileaks i arbetet med att få ett svenskt utgivningsbevis och ge Julian Assange formell status som ansvarig utgivare i Sverige. Aftonbladet kommer dock inte att vara ansvarig utgivare för Wikileaks. Det vore en orimlig konstruktion. Julian Assange talade själv i Stockholm i dag om att Sverige blivit ett ”asylland” för nya, globala publicister. Det är en intressant omständighet. Intressant är också diskussionen kring effekterna av Wikileaks massiva publiceringar.</p>
+<p><a href="http://www.dn.se/ledare/huvudledare/lackande-moral-1.1153642">Dagens Nyheter instämmer i dag i kritiken</a> från Amnesty och Reportrar utan gränser som menar att Wikileaks riskerar livet på civila i Afghanistan som lämnat uppgifter till de krigförande natostyrkorna i Afghanistan. Det är en intressant diskussion, men förefaller i sak vara en okunnig kritik. Hittills har Wikileaks avstått från publicering av cirka 15 000 dokument om kriget i Afghanistan av just skälet att människor skulle kunna komma till skada om deras identitet blir känd. Just nu arbetar Wikileaks med att göra de dokumenten tillgängliga, utan att informatörer kommer till skada. Hur de lyckas återstår att se.</p>
+<p>Den krigsmakt som Wikileaks gör transparent med sina publiceringar har dock ostridigt ett tungt ansvar för ett mycket stort antal civila dödsoffer i Afghanistan. Balansen mellan denna granskning, eller genomlysning, av krigsmakten och risken som den nya offentligheten kan utgöra för oskyldiga är ohyggligt komplex. Jag kan inte se en viktigare diskussion om yttrandefriheten i världen just nu. Wikileaks är skickligast i världen på att använda och navigera i våra nya medier. Det är ett nätverk av verklighetens Lisbeth Salander som skakar världens mäktigaste strukturer.</p><p>Kraften i Wikileaks blev uppenbar när vi i våras fick vår tids motsvarighet till Vietnambilderna. Amerikanska soldater som mejar ner Reutersfotografer och civila på öppen gata. Filmen visades i all världens media och har över sju miljoner visningar bara på Youtube. <a href="http://www.aftonbladet.se/kultur/article6985557.ab">I en artikel på Aftonbladet Kultur av Johannes Wahlström</a> sammanfattar Julian Assange motivet till att han tillsammans med kinesiska dissidenter grundade Wikileaks för tre år sedan:</p>
+<p><i>”Viss information skapar förändring, den avgör om världen ska kunna bli en rättvisare plats. De som kontrollerar den informationen förstår det så klart, och det är just därför de försöker hemlighålla den. Vår uppgift är däremot att systematiskt leta fram och publicera just den typen av information.”</i></p>
+<p>Det är ett publicistiskt statement som de flesta journalister kan ta till sitt hjärta och säkert vill leva och verka efter. Men också journalister har en hyra som ska betalas och ägare som ska ha avkastning varför det dagliga arbetet inte i varje stund präglas av ljuset från den ledstjärna som Assange tänder. Det finns en kraftfull idealism i Wikileaks. Möjligen är det därför som media som kämpar för sin överlevnad i en svår strukturomvandling är tvehågsna inför nätverket. Wikileaks påminner obarmhärtigt om en drivkraft förutan vilken journalistiken blir till en kommersiell meningslöshet.</p>
+<p>En del menar att detta klär av journalistiken som något som gått ur tiden. Inget mediehus är lika skickliga som Wikileaks på ta fram enorma mängder material och göra dem tillgängliga för alla. Det är sant. Men slutsatsen om journalistiken är helt fel. Wikileaks är ogenomträngligt utan journalistik. De enorma mängder rådata Wikileaks offentliggör är omöjliga att få något vettigt ur för den som i och för sig vill veta något nytt om världen, men också har annat att göra om dagarna.</p>
+<p>Wikileaks utmanar journalistiken på ett bra sätt. Journalistik som bygger på Wikileaks material blir kontrollerbart för alla och envar. Har journalisten valt rätt vinkel? Gjort en rimlig analys? Återgivit grundmaterialet korrekt?  Wikileaks lägger sig på så sätt mellan granskarna och det som ska granskas. Wikileaks gör det möjligt att granska såväl journalistiken som krigsmakten i fallet Afghanistan. Det är unikt och visar vägen för en intressant utveckling för journalistiken; att göra bakgrundsmaterialet fullt tillgängligt.</p>
+<p>Vi har mycket att lära i ett samarbete med Wikileaks. Och i sinom tid hoppas vi kunna presentera journalistik som resultat av samarbetet mellan Wikileaks och Aftonbladet.</p><p><table class="abBlogEntryImageBox"><tr><td><img alt="Skärmavbild 2010-08-14 kl. 20.04.49.png" class="abBlogEntryImage" src="http://ss11i01.stream.ip-only.net/images/blog/images/entries/63/45/70/37223/a7ab372e4b80be00" style="width:812px;height:543px" title="Skärmavbild 2010-08-14 kl. 20.04.49.png"/></td></tr><tr><td><span class="abBlogEntryImageCaption">Jag hälsar Julian Assange välkommen som kolumnist till Aftonbladet och ett samarbete som ska göra honom till ansvarig utgivare i Sverige.</span></td></tr></table></p></div>
+	
+	          <div class="EntryFooter">
+        <div id="EntryFooterFirstRow">
+        
+            
+   <a id="EntryComments" class="EntryFooterItem" href="/janhelin/2010/08/darfor-blir-julian-assange-kolumnist-i-aftonbladet#comments" style="display:block; float:left;" title="27 (+3) kommentarer">
+                    
+                    27&nbsp;(+3)
+                     </a>
+                <a class="EntryFooterDivider" >|</a>
+            
+      <div class="abBlogEntryLike EntryFooterItem" style="float: left;">
+        <span id="Like1566006">
+            <a id="LikeCounter::blogentrylike::26609:1566006:127.0.0.1"
+                 title="Gilla inlägget"
+                 class="LikeCounter"
+                 style="cursor: pointer;"
+                 onmouseover="this.style.backgroundImage = 'url(/images/entryicons.png)';"
+                 onmouseout="this.style.backgroundImage = 'url(/images/entryicons.png)';">
+			    104 </a>
+        </span>
+    </div>
+
+    <script type="text/javascript">
+    //<![CDATA[
+        if (! YAHOO.lang.isObject(se.aftonbladet.blog.saneVote)) {
+            se.aftonbladet.blog.saneVote = new se.aftonbladet.blog.SaneVote();
+        }
+        se.aftonbladet.blog.saneVote.addData(
+                'blogentrylike',
+                '26609:1566006:127.0.0.1',
+                104,
+                false,
+                false,
+                true);
+    //]]>
+    </script> 
+    
+     <a class="EntryFooterDivider" >|</a>          
+            
+       <a id="EntryPermalink" class="EntryFooterItem"  href="/janhelin/2010/08/darfor-blir-julian-assange-kolumnist-i-aftonbladet" title="Permalänk" >&nbsp;</a>
+            
+  <a class="EntryFooterDivider" >|</a>
+                       
+           
+                        
+                        
+                              
+            
+       <script type="text/javascript">
+//<![CDATA[
+    YAHOO.util.Event.onContentReady("share1566006", function () {
+        var oMenuBar = new YAHOO.widget.MenuBar("share1566006", {
+                                                hidedelay: 750,
+                                                lazyload: true });
+        oMenuBar.render();
+    });
+//]]>
+</script>
+
+<div class="ShareMenue yui-skin-sam EntryFooterItem" style="float:left;padding-top:1px;">
+<div id="share1566006" class="yuimenubar yuimenubarnav">
+  <div class="bd">
+    <ul class="first-of-type">
+	  <li class="yuimenubaritem first-of-type " title="Dela med andra"><a  class="yuimenubaritemlabel" href="#share1566006_1" >Dela</a>
+        <div id="share1566006_1" class="yuimenu">
+        <div class="bd">
+        <ul>
+        	 <li class="yuimenuitem facebook"><a class="yuimenuitemlabel" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fblogg.aftonbladet.se%2Fjanhelin%2F2010%2F08%2Fdarfor-blir-julian-assange-kolumnist-i-aftonbladet&amp;t=D%C3%A4rf%C3%B6r+blir+Julian+Assange+kolumnist+i+Aftonbladet">Facebook</a></li>
+            <li class="yuimenuitem myspace"><a class="yuimenuitemlabel" href="http://www.myspace.com/Modules/PostTo/Pages/?l=3&amp;u=http%3A%2F%2Fblogg.aftonbladet.se%2Fjanhelin%2F2010%2F08%2Fdarfor-blir-julian-assange-kolumnist-i-aftonbladet">MySpace</a></li>
+            <li class="yuimenuitem pusha"><a class="yuimenuitemlabel" href="http://www.pusha.se/posta?url=http%3A%2F%2Fblogg.aftonbladet.se%2Fjanhelin%2F2010%2F08%2Fdarfor-blir-julian-assange-kolumnist-i-aftonbladet&amp;description=D%C3%A4rf%C3%B6r+blir+Julian+Assange+kolumnist+i+Aftonbladet">Pusha</a></li>
+            <li class="yuimenuitem bloggy"><a class="yuimenuitemlabel" href="http://bloggy.se/home?link=http%3A%2F%2Fblogg.aftonbladet.se%2Fjanhelin%2F2010%2F08%2Fdarfor-blir-julian-assange-kolumnist-i-aftonbladet&amp;status=D%C3%A4rf%C3%B6r+blir+Julian+Assange+kolumnist+i+Aftonbladet">Bloggy</a></li>
+            <li class="yuimenuitem twitter"><a class="yuimenuitemlabel" href="http://twitter.com/home?status=http%3A%2F%2Fblogg.aftonbladet.se%2Fjanhelin%2F2010%2F08%2Fdarfor-blir-julian-assange-kolumnist-i-aftonbladet">Twitter</a></li>
+        </ul>
+        </div>
+        </div>
+      </li>
+    </ul>
+  </div>
+</div>
+</div>
+         <div id="abSpecialsShare" style="float:right">
+  <div id="ABBloggfacebookshare" class="EntryFooterItem" style="float: right; padding-top:1px;">
+		        <script>var fbShare = {
+		            url: 'http://blogg.aftonbladet.se/janhelin/2010/08/darfor-blir-julian-assange-kolumnist-i-aftonbladet',
+		            title: 'D&#xE4;rf&#xF6;r blir Julian Assange kolumnist i Aftonbladet',
+		            size: 'small',
+		            google_analytics: 'true'
+		        }</script>
+		        <script src="http://widgets.fbshare.me/files/fbshare.js"></script>
+		        
+		     </div>
+		          <div style="clear:both;padding-top:5px;"></div>
+		     <div id="ABBloggTweetcount" class="EntryFooterItem" style="float: right; padding-top:1px;overflow:hidden;width:65px">
+                <script type="text/javascript">
+                    tweetmeme_url = 'http://blogg.aftonbladet.se/janhelin/2010/08/darfor-blir-julian-assange-kolumnist-i-aftonbladet';
+                    tweetmeme_style = 'compact';
+                </script>
+                <script type="text/javascript" src="http://tweetmeme.com/i/scripts/button.js"></script>
+            </div>
+		       </div>           
+            
+            
+
+            <div style="clear:both;"></div>
+            </div>
+            
+             </div>
+
+
+ 
+
+
+
+
+ 
+
+ 
+</div><!-- abBlogEntry END -->	
+
+ <div class="ExtraSpace"></div>
+    <div class="ExtraSpace"></div>
+    
+		        <!-- AD: [placement=helsida,blogKey=janhelin,adSystem=helios] -->
+  <!-- Helsida -->
+    <div id="abBlogAdHelsida">
+	<div id="abBlogAdHelsidaContainer">    
+    <script type="text/javascript">
+    // <![CDATA[
+        if (window.adgroupid == undefined) {
+            window.adgroupid = Math.round(Math.random() * 1000);
+        }
+        document.write('<scr'+'ipt type="text/javascript" src="http://ad.dc2.adtech.de/addyn|3.0|831.1|2029817|0|-1|ADTECH;cookie=info;loc=100;target=_blank;alias=ab_blogg_generell_helsida;key=janhelin;grp='+window.adgroupid+';misc='+new Date().getTime()+'"></scri'+'pt>');
+    // ]]>
+    </script>
+    </div>
+    </div>
+         <!-- AD: [placement=inhouse,blogKey=janhelin,adSystem=helios] -->
+       <div class="abBlogAdInhouse">
+	<div class="abBlogAdInhouseContainer">
+     </div>
+    </div> 
+ <div class="ExtraSpace"></div>
+    <div class="ExtraSpace"></div>
+
+    <div id="abBlogComments">
+    
+    	<div id="abBlogCommentsBox">
+    	    <a name="comments"></a>
+    		      <div id="abBlogCommentsList">
+		       <span class="NumCommentsText">
+     27 (+3) kommentarer   </span>
+<a href="#writeComment" style="float:right;"> Skriv en kommentar </a>
+ <div class="ExtraSpace"></div>
+<div class="ExtraSpace"></div>
+
+ <a name="comment6893870"></a> <div class="BlogComment">
+	<div style="float:left;width:60%">
+	<div>
+		                                                                                                    <img class="UserImage" alt=""
+             style="float:left;width:30px;height:30px;"
+             title="Arrami, man"
+             src="/images/common/humanmale50x50.png"/>
+               <span class="BlogerHeader">
+       Arrami  </span>
+
+              <br/><span class="BlogerHeader" id="BlogerToggleBlogs"><a href="/launy">Varghjärta</a></span>
+                          </div>
+	</div>
+    <div style="float:right"> <span class="Date">14 augusti 2010, kl 20:17</span></div>
+    <div class="ExtraSpace"></div>
+    <div class="CommentBody">...bra beslut av Aftonbladet! Julian representerar det bästa inom journalistiken och han/Wikileaks skall ha allt tänkbart stöd!</div>
+    <div class="ExtraSpace"></div>
+    <div class="CommentFooter">
+    	 <a href="#" rel="nofollow" class="AbuseLink" onclick="showPopup('/reportAbuse.action;jsessionid=577B29DC7AB3345706E69245078EF50A.wlb_app3?abuseLink=ecb7969737d788328374df812c668d2c1ea5782a9d41eb96e09ab92e42e30ea9176fd559aa5318c610a19abeccb0a7aeaaa033465084164f7cc72e6f1a5fff3beb084f3682a8e346f673a1c2a70cb740e63f83b96cd7837e', 'ABUSE','scrollbars=no,',700,600);return false;">
+			<span class="AbuseText">Anmäl</span><span class="AbuseRedSignal">&nbsp;!&nbsp;</span></a>
+         </div>
+      <div class="abBlogFloatClear"></div>
+	   </div>	
+
+<div class="ExtraSpace"></div>
+<div class="ExtraSpace"></div>
+
+ <a name="comment6893873"></a> <div class="BlogComment">
+	<div style="float:left;width:60%">
+	<div>
+		                                                                                                    <a href="http://snack.aftonbladet.se/publicPage.action?userId=1116">
+            <img class="UserImage" alt=""
+                 style="float:left;width:30px;height:30px;"
+                 title="knaskorken, kvinna"
+                 src="/images/common/humanfemale50x50.png"/>
+        </a>
+                <span class="BlogerHeader">
+        <a href="http://snack.aftonbladet.se/publicPage.action?userId=1116">knaskorken</a>
+           </span>
+
+              <br/><span class="BlogerHeader" id="BlogerToggleBlogs"><a href="/javafan"> märta bloggar igen</a></span>
+                          </div>
+	</div>
+    <div style="float:right"> <span class="Date">14 augusti 2010, kl 20:17</span></div>
+    <div class="ExtraSpace"></div>
+    <div class="CommentBody">Bra! :) </div>
+    <div class="ExtraSpace"></div>
+    <div class="CommentFooter">
+    	 <a href="#" rel="nofollow" class="AbuseLink" onclick="showPopup('/reportAbuse.action;jsessionid=577B29DC7AB3345706E69245078EF50A.wlb_app3?abuseLink=ecb7969737d788328374df812c668d2c1ea5782a9d41eb96e09ab92e42e30ea9176fd559aa5318c610a19abeccb0a7aeaaa033465084164f7cc72e6f1a5fff3beb084f3682a8e346f673a1c2a70cb740c61f9e38920d9ad3', 'ABUSE','scrollbars=no,',700,600);return false;">
+			<span class="AbuseText">Anmäl</span><span class="AbuseRedSignal">&nbsp;!&nbsp;</span></a>
+         </div>
+      <div class="abBlogFloatClear"></div>
+	   </div>	
+
+<div class="ExtraSpace"></div>
+<div class="ExtraSpace"></div>
+
+ <a name="comment6893923"></a> <div class="BlogComment">
+	<div style="float:left;width:60%">
+	<div>
+		      <span class="BlogerHeader">RC</span>
+			     </div>
+	</div>
+    <div style="float:right"> <span class="Date">14 augusti 2010, kl 20:40</span></div>
+    <div class="ExtraSpace"></div>
+    <div class="CommentBody">"/.../ ett samarbete som ska göra honom till ansvarig utgivare i Sverige".<br/>Kan du förklara lite mer ingående vad detta betyder? Ansvarig utgivare för vad då t.ex.</div>
+    <div class="ExtraSpace"></div>
+    <div class="CommentFooter">
+    	 <a href="#" rel="nofollow" class="AbuseLink" onclick="showPopup('/reportAbuse.action;jsessionid=577B29DC7AB3345706E69245078EF50A.wlb_app3?abuseLink=ecb7969737d788328374df812c668d2c1ea5782a9d41eb96e09ab92e42e30ea9176fd559aa5318c610a19abeccb0a7aeaaa033465084164f7cc72e6f1a5fff3beb084f3682a8e346d28a55e26080f951c61f9e38920d9ad3', 'ABUSE','scrollbars=no,',700,600);return false;">
+			<span class="AbuseText">Anmäl</span><span class="AbuseRedSignal">&nbsp;!&nbsp;</span></a>
+         </div>
+      <div class="abBlogFloatClear"></div>
+	   </div>	
+
+<div class="ExtraSpace"></div>
+<div class="ExtraSpace"></div>
+
+ <a name="comment6893968"></a> <div class="BlogComment">
+	<div style="float:left;width:60%">
+	<div>
+		      <span class="BlogerHeader">Daniel Sosa</span>
+			     </div>
+	</div>
+    <div style="float:right"> <span class="Date">14 augusti 2010, kl 20:55</span></div>
+    <div class="ExtraSpace"></div>
+    <div class="CommentBody">Tack så mycket Aftonbladet! <br/>Tack för att ni ser Wikileaks som en samarbetspartner och inte en rival<br/>.<br/>Tack för att ni är beredda att "lära" er av Wikileaks och föra journalistiken framåt<br/>. <br/>Tack för att ni inte ge efter för starka maktfaktorer som  inte vill annat än kontrollera informationsflödet. <br/><br/>Tack för att ni ser att detta leder till att vi som läsare blir mer kritiska mot vad som kommer ut i massmedian.</div>
+    <div class="ExtraSpace"></div>
+    <div class="CommentFooter">
+    	 <a href="#" rel="nofollow" class="AbuseLink" onclick="showPopup('/reportAbuse.action;jsessionid=577B29DC7AB3345706E69245078EF50A.wlb_app3?abuseLink=ecb7969737d788328374df812c668d2c1ea5782a9d41eb96e09ab92e42e30ea9176fd559aa5318c610a19abeccb0a7aeaaa033465084164f7cc72e6f1a5fff3beb084f3682a8e34655c8f81f13f175a68e3fe12a7aa6f208', 'ABUSE','scrollbars=no,',700,600);return false;">
+			<span class="AbuseText">Anmäl</span><span class="AbuseRedSignal">&nbsp;!&nbsp;</span></a>
+         </div>
+      <div class="abBlogFloatClear"></div>
+	   </div>	
+
+<div class="ExtraSpace"></div>
+<div class="ExtraSpace"></div>
+
+ <a name="comment6893975"></a> <div class="BlogComment">
+	<div style="float:left;width:60%">
+	<div>
+		      <span class="BlogerHeader">Pontus Heimerson</span>
+			     </div>
+	</div>
+    <div style="float:right"> <span class="Date">14 augusti 2010, kl 20:58</span></div>
+    <div class="ExtraSpace"></div>
+    <div class="CommentBody">Bravo! På senare tid har Aftonbladet börjat leva upp till sin gamla devis "Om sanningen skall fram". Organstölder, Littorinaffärer och nu Wikileaks för att bara nämna några exempel. Keep up the good spirit! </div>
+    <div class="ExtraSpace"></div>
+    <div class="CommentFooter">
+    	 <a href="#" rel="nofollow" class="AbuseLink" onclick="showPopup('/reportAbuse.action;jsessionid=577B29DC7AB3345706E69245078EF50A.wlb_app3?abuseLink=ecb7969737d788328374df812c668d2c1ea5782a9d41eb96e09ab92e42e30ea9176fd559aa5318c610a19abeccb0a7aeaaa033465084164f7cc72e6f1a5fff3beb084f3682a8e34608835073902531e68d23ac578c46d0e5', 'ABUSE','scrollbars=no,',700,600);return false;">
+			<span class="AbuseText">Anmäl</span><span class="AbuseRedSignal">&nbsp;!&nbsp;</span></a>
+         </div>
+      <div class="abBlogFloatClear"></div>
+	   </div>	
+
+<div class="ExtraSpace"></div>
+<div class="ExtraSpace"></div>
+
+ <a name="comment6893987"></a> <div class="BlogComment">
+	<div style="float:left;width:60%">
+	<div>
+		                                                                                                        <img class="UserImage" alt=""
+             style="float:left;width:30px;height:30px;"
+             title="Pettran, man, 41 &#xE5;r"
+             src="/images/common/humanmale50x50.png"/>
+               <span class="BlogerHeader">
+       Pettran  </span>
+
+      <span class="BlogerBlog"> 41 &aring;r</span> <span class="BlogerBlog"></span>       </div>
+	</div>
+    <div style="float:right"> <span class="Date">14 augusti 2010, kl 21:04</span></div>
+    <div class="ExtraSpace"></div>
+    <div class="CommentBody">Han stjäl sin information det borde du veta, du borde också förstå att det inte kommer att ganga AB att ge en spion pengar, risken är att du gräver AB´s grav nu.</div>
+    <div class="ExtraSpace"></div>
+    <div class="CommentFooter">
+    	 <a href="#" rel="nofollow" class="AbuseLink" onclick="showPopup('/reportAbuse.action;jsessionid=577B29DC7AB3345706E69245078EF50A.wlb_app3?abuseLink=ecb7969737d788328374df812c668d2c1ea5782a9d41eb96e09ab92e42e30ea9176fd559aa5318c610a19abeccb0a7aeaaa033465084164f7cc72e6f1a5fff3beb084f3682a8e34626821ebb381e6fad5f5cb8046d6df0ae', 'ABUSE','scrollbars=no,',700,600);return false;">
+			<span class="AbuseText">Anmäl</span><span class="AbuseRedSignal">&nbsp;!&nbsp;</span></a>
+         </div>
+      <div class="abBlogFloatClear"></div>
+	   </div>	
+
+<div class="ExtraSpace"></div>
+<div class="ExtraSpace"></div>
+
+ <a name="comment6894045"></a> <div class="BlogComment">
+	<div style="float:left;width:60%">
+	<div>
+		      <span class="BlogerHeader">Fredrik</span>
+			     </div>
+	</div>
+    <div style="float:right"> <span class="Date">14 augusti 2010, kl 21:32</span></div>
+    <div class="ExtraSpace"></div>
+    <div class="CommentBody">Efter debaklet med ert "Littorin-avslöjande" kom Aftonbladet rejält ur kurs. Det här var nog vad som behövdes för att komma på fötter igen. Det vibrerar av kraft och oanad potential i detta samarbete - vilken rekrytering! <br/><br/>Synd bara att ni inte - i konsekvensens namn - tog lika tydligt ställning för yttrandefriheten när det gällde Lars Wilks. <br/><br/>Hursomhaver. <br/><br/>Aftonbladet + Wikileaks = <br/>Medievärlden står på tröskeln till något nytt. <br/><br/>Grattis!</div>
+    <div class="ExtraSpace"></div>
+    <div class="CommentFooter">
+    	 <a href="#" rel="nofollow" class="AbuseLink" onclick="showPopup('/reportAbuse.action;jsessionid=577B29DC7AB3345706E69245078EF50A.wlb_app3?abuseLink=ecb7969737d788328374df812c668d2c1ea5782a9d41eb96e09ab92e42e30ea9176fd559aa5318c610a19abeccb0a7aeaaa033465084164f7cc72e6f1a5fff3beb084f3682a8e346fc1d221a3719d8b08d23ac578c46d0e5', 'ABUSE','scrollbars=no,',700,600);return false;">
+			<span class="AbuseText">Anmäl</span><span class="AbuseRedSignal">&nbsp;!&nbsp;</span></a>
+         </div>
+      <div class="abBlogFloatClear"></div>
+	   </div>	
+
+<div class="ExtraSpace"></div>
+<div class="ExtraSpace"></div>
+
+ <a name="comment6894187"></a> <div class="BlogComment">
+	<div style="float:left;width:60%">
+	<div>
+		                                                                                                          <a href="http://snack.aftonbladet.se/publicPage.action?userId=3944">
+            <img class="UserImage" alt=""
+                 style="float:left;width:30px;height:30px;"
+                 title="Kapitano, man, 69 &#xE5;r"
+                 src="http://ss11i01.stream.ip-only.net/images/profile/26/95/18/3944/thumbs/42ff0ef88a90ce42_50_50_JPEG_thumb_CENTER_transparent"/>
+        </a>
+                <span class="BlogerHeader">
+        <a href="http://snack.aftonbladet.se/publicPage.action?userId=3944">Kapitano</a>
+           </span>
+
+      <span class="BlogerBlog"> 69 &aring;r</span>        <br/><span class="BlogerHeader" id="BlogerToggleBlogs"><a href="/kapitanos">Mellan himmel och hav.</a></span>
+                          </div>
+	</div>
+    <div style="float:right"> <span class="Date">14 augusti 2010, kl 22:38</span></div>
+    <div class="ExtraSpace"></div>
+    <div class="CommentBody">Rätt tänkt av aftonbladet att företräda det fria ordet och söka sanningen så långt det går. Grattis till en viktig medarebetare på tidningen.</div>
+    <div class="ExtraSpace"></div>
+    <div class="CommentFooter">
+    	 <a href="#" rel="nofollow" class="AbuseLink" onclick="showPopup('/reportAbuse.action;jsessionid=577B29DC7AB3345706E69245078EF50A.wlb_app3?abuseLink=ecb7969737d788328374df812c668d2c1ea5782a9d41eb96e09ab92e42e30ea9176fd559aa5318c610a19abeccb0a7aeaaa033465084164f7cc72e6f1a5fff3beb084f3682a8e34639ddd6ce403d1eb85f5cb8046d6df0ae', 'ABUSE','scrollbars=no,',700,600);return false;">
+			<span class="AbuseText">Anmäl</span><span class="AbuseRedSignal">&nbsp;!&nbsp;</span></a>
+         </div>
+      <div class="abBlogFloatClear"></div>
+	   </div>	
+
+<div class="ExtraSpace"></div>
+<div class="ExtraSpace"></div>
+
+ <a name="comment6894302"></a> <div class="BlogComment">
+	<div style="float:left;width:60%">
+	<div>
+		                                                                                                        <img class="UserImage" alt=""
+             style="float:left;width:30px;height:30px;"
+             title="kirtapbun, man, 45 &#xE5;r, Uppsala"
+             src="/images/common/humanmale50x50.png"/>
+               <span class="BlogerHeader">
+       kirtapbun  </span>
+
+      <span class="BlogerBlog"> 45 &aring;r</span> <span class="BlogerBlog">Uppsala</span>       </div>
+	</div>
+    <div style="float:right"> <span class="Date">14 augusti 2010, kl 23:21</span></div>
+    <div class="ExtraSpace"></div>
+    <div class="CommentBody">Wikileaks senaste avslöjande är inget nytt. Hundratals videor från kriget och civila som dödas <br/>har funnits i åratal på bla Liveleaks och Youtube. På flera aribiska sidor kan du se videor upplagda av talibaner och Al-qaida där civila dödas.Tv rapporterar hela tiden om civila som dödas i flygattacker eller av självmordsbombare. Civila dödas i krig, och har alltid gjort.Bara en naiv svensk tycker att detta är något nytt. Assange själv vet om detta men hans mål är troligtvis att få stopp på kriget och utnyttjar gärna naiva svenskar.Så det är inte ohyggligt komplext, eftersom han inte avslöjar något nytt finns det ingen anledning att riskera afghaner som sammarbetar mot talibanerna eller Al-qaida.</div>
+    <div class="ExtraSpace"></div>
+    <div class="CommentFooter">
+    	 <a href="#" rel="nofollow" class="AbuseLink" onclick="showPopup('/reportAbuse.action;jsessionid=577B29DC7AB3345706E69245078EF50A.wlb_app3?abuseLink=ecb7969737d788328374df812c668d2c1ea5782a9d41eb96e09ab92e42e30ea9176fd559aa5318c610a19abeccb0a7aeaaa033465084164f7cc72e6f1a5fff3beb084f3682a8e346ee18048f712c01e9727676abdfb33132', 'ABUSE','scrollbars=no,',700,600);return false;">
+			<span class="AbuseText">Anmäl</span><span class="AbuseRedSignal">&nbsp;!&nbsp;</span></a>
+         </div>
+      <div class="abBlogFloatClear"></div>
+	   </div>	
+
+<div class="ExtraSpace"></div>
+<div class="ExtraSpace"></div>
+
+ <a name="comment6894385"></a> <div class="BlogComment">
+	<div style="float:left;width:60%">
+	<div>
+		                                                                                                            <a href="http://snack.aftonbladet.se/publicPage.action?userId=21916">
+            <img class="UserImage" alt=""
+                 style="float:left;width:30px;height:30px;"
+                 title="Pajon, man, 28 &#xE5;r, Kristianstad"
+                 src="http://ss11i01.stream.ip-only.net/images/profile/13/15/31/21916/thumbs/a2f34aa1e65de527_50_50_JPEG_thumb_CENTER_transparent"/>
+        </a>
+                <span class="BlogerHeader">
+        <a href="http://snack.aftonbladet.se/publicPage.action?userId=21916">Pajon</a>
+           </span>
+
+      <span class="BlogerBlog"> 28 &aring;r</span> <span class="BlogerBlog">Kristianstad</span>       <br/><span class="BlogerHeader" id="BlogerToggleBlogs"><a href="/11215">Himmel och jord</a></span>
+                          </div>
+	</div>
+    <div style="float:right"> <span class="Date">14 augusti 2010, kl 23:58</span></div>
+    <div class="ExtraSpace"></div>
+    <div class="CommentBody">Helin: All heder åt dig! Det viktigaste inom journalistik, är att få fram verkligheten på alla sätt och vis!<br/>Det är denna som är grunden inom allt, den som ger folk inblick - det som synar sanningen rakt av!<br/>Vi söker alltid svar, det ligger i människans grund. Om vi nu ev. har en del av sakerna, som just kan ge svar - kör på! Ingen tvekan alls!</div>
+    <div class="ExtraSpace"></div>
+    <div class="CommentFooter">
+    	 <a href="#" rel="nofollow" class="AbuseLink" onclick="showPopup('/reportAbuse.action;jsessionid=577B29DC7AB3345706E69245078EF50A.wlb_app3?abuseLink=ecb7969737d788328374df812c668d2c1ea5782a9d41eb96e09ab92e42e30ea9176fd559aa5318c610a19abeccb0a7aeaaa033465084164f7cc72e6f1a5fff3beb084f3682a8e34625b8246444b562468d23ac578c46d0e5', 'ABUSE','scrollbars=no,',700,600);return false;">
+			<span class="AbuseText">Anmäl</span><span class="AbuseRedSignal">&nbsp;!&nbsp;</span></a>
+         </div>
+      <div class="abBlogFloatClear"></div>
+	   </div>	
+
+<div class="ExtraSpace"></div>
+<div class="ExtraSpace"></div>
+
+ <a name="comment6894622"></a> <div class="BlogComment">
+	<div style="float:left;width:60%">
+	<div>
+		      <span class="BlogerHeader">eric</span>
+			     </div>
+	</div>
+    <div style="float:right"> <span class="Date">15 augusti 2010, kl 04:22</span></div>
+    <div class="ExtraSpace"></div>
+    <div class="CommentBody">jag läser ab mest för att den är störst och har bredast bevakning, oavsett område. även om jag tycker det är mycker "se &amp; hör-journalistik". att ni tar ställning och inleder samarbete med wl ställer er i helt annan dager. ni växer stort i mina ögon i och med detta. jag kommer rösta på piratpartiet. det är det enda partiet som värnar om det som sverige i grunden representerar och inte vill bli något mini-usa. västvärlden (usa) pressar och hittar vinklar för att pressa grundlagarna så långt det går. homeland sequrity är ett betydligt större hot än islamister. ex al quida har inget emot sverige för vi står för verklig frihet, bin laden har tom använt sverige som positivt exempel. vi har inget att frukta från del delen av världen. usa och alla integritetskränkande lagar är i alla fall det jag är rädd för. julian assange är en hjälte och sverige kan mycket väl ställa inför ett vägval i frågan när usa knackar på dörren. jag hoppas att vi har stake att stå för det vi som folk står för. heja mänskliga rättigheter och heja sverige</div>
+    <div class="ExtraSpace"></div>
+    <div class="CommentFooter">
+    	 <a href="#" rel="nofollow" class="AbuseLink" onclick="showPopup('/reportAbuse.action;jsessionid=577B29DC7AB3345706E69245078EF50A.wlb_app3?abuseLink=ecb7969737d788328374df812c668d2c1ea5782a9d41eb96e09ab92e42e30ea9176fd559aa5318c610a19abeccb0a7aeaaa033465084164f7cc72e6f1a5fff3beb084f3682a8e34674a63bb62f8106db727676abdfb33132', 'ABUSE','scrollbars=no,',700,600);return false;">
+			<span class="AbuseText">Anmäl</span><span class="AbuseRedSignal">&nbsp;!&nbsp;</span></a>
+         </div>
+      <div class="abBlogFloatClear"></div>
+	   </div>	
+
+<div class="ExtraSpace"></div>
+<div class="ExtraSpace"></div>
+
+ <a name="comment6894870"></a> <div class="BlogComment">
+	<div style="float:left;width:60%">
+	<div>
+		                                                                                                        <a href="http://snack.aftonbladet.se/publicPage.action?userId=160999">
+            <img class="UserImage" alt=""
+                 style="float:left;width:30px;height:30px;"
+                 title="Susanne Nystr&#xF6;m, kvinna, 28 &#xE5;r"
+                 src="/images/common/humanfemale50x50.png"/>
+        </a>
+                <span class="BlogerHeader">
+        <a href="http://snack.aftonbladet.se/publicPage.action?userId=160999">Susanne Nystr&#xF6;m</a>
+           </span>
+
+      <span class="BlogerBlog"> 28 &aring;r</span> <span class="BlogerBlog"></span>       <br/><span class="BlogerHeader" id="BlogerToggleBlogs"><a href="/nystrom">En redaktörs bekännelser</a></span>
+                          </div>
+	</div>
+    <div style="float:right"> <span class="Date">15 augusti 2010, kl 10:07</span></div>
+    <div class="ExtraSpace"></div>
+    <div class="CommentBody">Great rekrytering!<br/>http://blogg.aftonbladet.se/nystrom/2010/08/dagens-man-julian</div>
+    <div class="ExtraSpace"></div>
+    <div class="CommentFooter">
+    	 <a href="#" rel="nofollow" class="AbuseLink" onclick="showPopup('/reportAbuse.action;jsessionid=577B29DC7AB3345706E69245078EF50A.wlb_app3?abuseLink=ecb7969737d788328374df812c668d2c1ea5782a9d41eb96e09ab92e42e30ea9176fd559aa5318c610a19abeccb0a7aeaaa033465084164f7cc72e6f1a5fff3beb084f3682a8e346124eab976a154cb0e63f83b96cd7837e', 'ABUSE','scrollbars=no,',700,600);return false;">
+			<span class="AbuseText">Anmäl</span><span class="AbuseRedSignal">&nbsp;!&nbsp;</span></a>
+         </div>
+      <div class="abBlogFloatClear"></div>
+	   </div>	
+
+<div class="ExtraSpace"></div>
+<div class="ExtraSpace"></div>
+
+ <a name="comment6895087"></a> <div class="BlogComment">
+	<div style="float:left;width:60%">
+	<div>
+		      <span class="BlogerHeader">Slurre</span>
+			     </div>
+	</div>
+    <div style="float:right"> <span class="Date">15 augusti 2010, kl 11:18</span></div>
+    <div class="ExtraSpace"></div>
+    <div class="CommentBody">Måste bara påpeka att bilden ger sken av att Julian Assange precis anställt Jan Helin och inte tvärtom, ser lite komiskt ut :)</div>
+    <div class="ExtraSpace"></div>
+    <div class="CommentFooter">
+    	 <a href="#" rel="nofollow" class="AbuseLink" onclick="showPopup('/reportAbuse.action;jsessionid=577B29DC7AB3345706E69245078EF50A.wlb_app3?abuseLink=ecb7969737d788328374df812c668d2c1ea5782a9d41eb96e09ab92e42e30ea9176fd559aa5318c610a19abeccb0a7aeaaa033465084164f7cc72e6f1a5fff3beb084f3682a8e3461025b5020ca667f45f5cb8046d6df0ae', 'ABUSE','scrollbars=no,',700,600);return false;">
+			<span class="AbuseText">Anmäl</span><span class="AbuseRedSignal">&nbsp;!&nbsp;</span></a>
+         </div>
+      <div class="abBlogFloatClear"></div>
+	   </div>	
+
+<div class="ExtraSpace"></div>
+<div class="ExtraSpace"></div>
+
+ <a name="comment6895099"></a> <div class="BlogComment">
+	<div style="float:left;width:60%">
+	<div>
+		     <span class="BlogerHeader">Sippan</span><br/>
+			  <span class="BlogerBlog">min blogg <a href="http://www.sippan.se/" target="_new" class="notSnack">http://www.sippan.se/</a></span>
+			      </div>
+	</div>
+    <div style="float:right"> <span class="Date">15 augusti 2010, kl 11:25</span></div>
+    <div class="ExtraSpace"></div>
+    <div class="CommentBody">Jättefint skrivet, men man undrar ju hur Aftonbladet kan skriva en text som denna, samtidigt som de så konsekvent vägrar att låtsas om Piratpartiets existens - det enda partiet som inte kommer att aktivt verka för att luckra upp just de rättsprinciper som Jan Helin hyllar så...<br/><br/>Både källskyddet och tryckfriheten hänger på en skör tråd, och det kan vi tacka riksdagspartierna för &gt;:(</div>
+    <div class="ExtraSpace"></div>
+    <div class="CommentFooter">
+    	 <a href="#" rel="nofollow" class="AbuseLink" onclick="showPopup('/reportAbuse.action;jsessionid=577B29DC7AB3345706E69245078EF50A.wlb_app3?abuseLink=ecb7969737d788328374df812c668d2c1ea5782a9d41eb96e09ab92e42e30ea9176fd559aa5318c610a19abeccb0a7aeaaa033465084164f7cc72e6f1a5fff3beb084f3682a8e3463baaeba10e32e07ded06b1148c68a4e5', 'ABUSE','scrollbars=no,',700,600);return false;">
+			<span class="AbuseText">Anmäl</span><span class="AbuseRedSignal">&nbsp;!&nbsp;</span></a>
+         </div>
+      <div class="abBlogFloatClear"></div>
+	   </div>	
+
+<div class="ExtraSpace"></div>
+<div class="ExtraSpace"></div>
+
+ <a name="comment6895935"></a> <div class="BlogComment">
+	<div style="float:left;width:60%">
+	<div>
+		                                                                                                        <img class="UserImage" alt=""
+             style="float:left;width:30px;height:30px;"
+             title="Mandelhandeln, man, 106 &#xE5;r"
+             src="/images/common/humanmale50x50.png"/>
+               <span class="BlogerHeader">
+       Mandelhandeln  </span>
+
+      <span class="BlogerBlog"> 106 &aring;r</span> <span class="BlogerBlog"></span>       </div>
+	</div>
+    <div style="float:right"> <span class="Date">15 augusti 2010, kl 17:05</span></div>
+    <div class="ExtraSpace"></div>
+    <div class="CommentBody">Det är absolut inte ok att AB ska ge utrymme åt Julian Assange eller Wikileaks. Det skadar AB mer än vad ni tjänar på det.<br/><br/>Ni stöttar ju någon som förstör även för sverige. Han tvekar ju inte att lämna ut svenska försvarshemligheter heller, jag kan inte se något bra med det där.<br/><br/>Dey är inte ok att begå brott för att avslöja brott, hemligheterna är ju stulna från början.</div>
+    <div class="ExtraSpace"></div>
+    <div class="CommentFooter">
+    	 <a href="#" rel="nofollow" class="AbuseLink" onclick="showPopup('/reportAbuse.action;jsessionid=577B29DC7AB3345706E69245078EF50A.wlb_app3?abuseLink=ecb7969737d788328374df812c668d2c1ea5782a9d41eb96e09ab92e42e30ea9176fd559aa5318c610a19abeccb0a7aeaaa033465084164f7cc72e6f1a5fff3beb084f3682a8e346cf1142250b8a2bdb8d23ac578c46d0e5', 'ABUSE','scrollbars=no,',700,600);return false;">
+			<span class="AbuseText">Anmäl</span><span class="AbuseRedSignal">&nbsp;!&nbsp;</span></a>
+         </div>
+      <div class="abBlogFloatClear"></div>
+	   </div>	
+
+<div class="ExtraSpace"></div>
+<div class="ExtraSpace"></div>
+
+ <a name="comment6895937"></a> <div class="BlogComment">
+	<div style="float:left;width:60%">
+	<div>
+		                                                                                                        <img class="UserImage" alt=""
+             style="float:left;width:30px;height:30px;"
+             title="Mandelhandeln, man, 106 &#xE5;r"
+             src="/images/common/humanmale50x50.png"/>
+               <span class="BlogerHeader">
+       Mandelhandeln  </span>
+
+      <span class="BlogerBlog"> 106 &aring;r</span> <span class="BlogerBlog"></span>       </div>
+	</div>
+    <div style="float:right"> <span class="Date">15 augusti 2010, kl 17:05</span></div>
+    <div class="ExtraSpace"></div>
+    <div class="CommentBody">Vad blir nästa steg, att någon går med i gäng som utför värdetransportrån för att kunna skriva om det ?</div>
+    <div class="ExtraSpace"></div>
+    <div class="CommentFooter">
+    	 <a href="#" rel="nofollow" class="AbuseLink" onclick="showPopup('/reportAbuse.action;jsessionid=577B29DC7AB3345706E69245078EF50A.wlb_app3?abuseLink=ecb7969737d788328374df812c668d2c1ea5782a9d41eb96e09ab92e42e30ea9176fd559aa5318c610a19abeccb0a7aeaaa033465084164f7cc72e6f1a5fff3beb084f3682a8e346cf1142250b8a2bdb5f5cb8046d6df0ae', 'ABUSE','scrollbars=no,',700,600);return false;">
+			<span class="AbuseText">Anmäl</span><span class="AbuseRedSignal">&nbsp;!&nbsp;</span></a>
+         </div>
+      <div class="abBlogFloatClear"></div>
+	   </div>	
+
+<div class="ExtraSpace"></div>
+<div class="ExtraSpace"></div>
+
+ <a name="comment6896190"></a> <div class="BlogComment">
+	<div style="float:left;width:60%">
+	<div>
+		     <span class="BlogerHeader">Hans J</span><br/>
+			  <span class="BlogerBlog">min blogg <a href="http://hansblogg.wordpress.com" target="_new" class="notSnack">http://hansblogg.wordpress.com</a></span>
+			      </div>
+	</div>
+    <div style="float:right"> <span class="Date">15 augusti 2010, kl 18:39</span></div>
+    <div class="ExtraSpace"></div>
+    <div class="CommentBody">Ja, Julian Assange är onekligen lite av en gigant i dessa dagar.<br/><br/>Jag skrev ned några synpunkter på min blogg om hur jag anser att Pentagon borde välkomna det arbete som Wikileaks lägger ned och inte bekämpa det!</div>
+    <div class="ExtraSpace"></div>
+    <div class="CommentFooter">
+    	 <a href="#" rel="nofollow" class="AbuseLink" onclick="showPopup('/reportAbuse.action;jsessionid=577B29DC7AB3345706E69245078EF50A.wlb_app3?abuseLink=ecb7969737d788328374df812c668d2c1ea5782a9d41eb96e09ab92e42e30ea9176fd559aa5318c610a19abeccb0a7aeaaa033465084164f7cc72e6f1a5fff3beb084f3682a8e346c641e13c78d79020e63f83b96cd7837e', 'ABUSE','scrollbars=no,',700,600);return false;">
+			<span class="AbuseText">Anmäl</span><span class="AbuseRedSignal">&nbsp;!&nbsp;</span></a>
+         </div>
+      <div class="abBlogFloatClear"></div>
+	   </div>	
+
+<div class="ExtraSpace"></div>
+<div class="ExtraSpace"></div>
+
+ <a name="comment6897583"></a> <div class="BlogComment">
+	<div style="float:left;width:60%">
+	<div>
+		     <span class="BlogerHeader">Sixten</span><br/>
+			  <span class="BlogerBlog">min blogg <a href="www.cargocollective.com/sixten" target="_new" class="notSnack">www.cargocollective.com/sixten</a></span>
+			      </div>
+	</div>
+    <div style="float:right"> <span class="Date">16 augusti 2010, kl 02:11</span></div>
+    <div class="ExtraSpace"></div>
+    <div class="CommentBody">Utan tvekan den bästa rekrytering som någonsin gjorts. Ta tillbaka Nobels Fredspris från Obama och ge det till Assange!</div>
+    <div class="ExtraSpace"></div>
+    <div class="CommentFooter">
+    	 <a href="#" rel="nofollow" class="AbuseLink" onclick="showPopup('/reportAbuse.action;jsessionid=577B29DC7AB3345706E69245078EF50A.wlb_app3?abuseLink=ecb7969737d788328374df812c668d2c1ea5782a9d41eb96e09ab92e42e30ea9176fd559aa5318c610a19abeccb0a7aeaaa033465084164f7cc72e6f1a5fff3beb084f3682a8e346822bb5e4969bad9ac61f9e38920d9ad3', 'ABUSE','scrollbars=no,',700,600);return false;">
+			<span class="AbuseText">Anmäl</span><span class="AbuseRedSignal">&nbsp;!&nbsp;</span></a>
+         </div>
+      <div class="abBlogFloatClear"></div>
+	   </div>	
+
+<div class="ExtraSpace"></div>
+<div class="ExtraSpace"></div>
+
+ <a name="comment6897723"></a> <div class="BlogComment">
+	<div style="float:left;width:60%">
+	<div>
+		      <span class="BlogerHeader">Hugo</span>
+			     </div>
+	</div>
+    <div style="float:right"> <span class="Date">16 augusti 2010, kl 07:46</span></div>
+    <div class="ExtraSpace"></div>
+    <div class="CommentBody">Al-Qaida har själva gått ut med att de använder sig av wikileaks dokument för att finna informatörer. Vad wikileaks säger är en sak och hur de egentligen agerar är en helt annan. Det är inget annat än osmakligt och skamligt vad Aftonbladet gör. Men egentligen inte så förvånande. Det är synd att folk inte förstår bättre i detta land!</div>
+    <div class="ExtraSpace"></div>
+    <div class="CommentFooter">
+    	 <a href="#" rel="nofollow" class="AbuseLink" onclick="showPopup('/reportAbuse.action;jsessionid=577B29DC7AB3345706E69245078EF50A.wlb_app3?abuseLink=ecb7969737d788328374df812c668d2c1ea5782a9d41eb96e09ab92e42e30ea9176fd559aa5318c610a19abeccb0a7aeaaa033465084164f7cc72e6f1a5fff3beb084f3682a8e3460bd514f07b967dcac61f9e38920d9ad3', 'ABUSE','scrollbars=no,',700,600);return false;">
+			<span class="AbuseText">Anmäl</span><span class="AbuseRedSignal">&nbsp;!&nbsp;</span></a>
+         </div>
+      <div class="abBlogFloatClear"></div>
+	   </div>	
+
+<div class="ExtraSpace"></div>
+<div class="ExtraSpace"></div>
+
+ <a name="comment6897770"></a> <div class="BlogComment">
+	<div style="float:left;width:60%">
+	<div>
+		      <span class="BlogerHeader">Hugo</span>
+			     </div>
+	</div>
+    <div style="float:right"> <span class="Date">16 augusti 2010, kl 08:12</span></div>
+    <div class="ExtraSpace"></div>
+    <div class="CommentBody">Rättelse. Talibanerna ska det vara.</div>
+    <div class="ExtraSpace"></div>
+    <div class="CommentFooter">
+    	 <a href="#" rel="nofollow" class="AbuseLink" onclick="showPopup('/reportAbuse.action;jsessionid=577B29DC7AB3345706E69245078EF50A.wlb_app3?abuseLink=ecb7969737d788328374df812c668d2c1ea5782a9d41eb96e09ab92e42e30ea9176fd559aa5318c610a19abeccb0a7aeaaa033465084164f7cc72e6f1a5fff3beb084f3682a8e34636256742cd555960e63f83b96cd7837e', 'ABUSE','scrollbars=no,',700,600);return false;">
+			<span class="AbuseText">Anmäl</span><span class="AbuseRedSignal">&nbsp;!&nbsp;</span></a>
+         </div>
+      <div class="abBlogFloatClear"></div>
+	   </div>	
+
+<div class="ExtraSpace"></div>
+<div class="ExtraSpace"></div>
+
+ <a name="comment6900723"></a> <div class="BlogComment">
+	<div style="float:left;width:60%">
+	<div>
+		      <span class="BlogerHeader">Tony Ingman</span>
+			     </div>
+	</div>
+    <div style="float:right"> <span class="Date">17 augusti 2010, kl 09:37</span></div>
+    <div class="ExtraSpace"></div>
+    <div class="CommentBody"> Det hade varit mycket bättre att anlita Julia Ceasar, som idag skriver från Danmark.<br/><br/>Men det hade väl inte passat in i mallen.</div>
+    <div class="ExtraSpace"></div>
+    <div class="CommentFooter">
+    	 <a href="#" rel="nofollow" class="AbuseLink" onclick="showPopup('/reportAbuse.action;jsessionid=577B29DC7AB3345706E69245078EF50A.wlb_app3?abuseLink=ecb7969737d788328374df812c668d2c1ea5782a9d41eb96e09ab92e42e30ea9176fd559aa5318c610a19abeccb0a7aeaaa033465084164f7cc72e6f1a5fff3beb084f3682a8e34613ebb3f9a8502125c61f9e38920d9ad3', 'ABUSE','scrollbars=no,',700,600);return false;">
+			<span class="AbuseText">Anmäl</span><span class="AbuseRedSignal">&nbsp;!&nbsp;</span></a>
+         </div>
+      <div class="abBlogFloatClear"></div>
+	   </div>	
+
+<div class="ExtraSpace"></div>
+<div class="ExtraSpace"></div>
+
+ <a name="comment6904422"></a> <div class="BlogComment">
+	<div style="float:left;width:60%">
+	<div>
+		      <span class="BlogerHeader">RE: kirtapbun</span>
+			     </div>
+	</div>
+    <div style="float:right"> <span class="Date">18 augusti 2010, kl 14:43</span></div>
+    <div class="ExtraSpace"></div>
+    <div class="CommentBody">Förstår du inte att vad som visas i media inte kanske är den hela sanningen? Att Assange levererar bevis på händelserna är nytt! Eller vad tycker du? Du lyssnar blint på vad tidningen skriver när de skriver utan källa och utan att veta VAD som faktiskt har skett, VEM som gjorde vad och VAR ligger sanningen??<br/><br/>Hmm.. Ge dig in i diskussioner du har koll på istället!<br/><br/>- Bra Aftonbladet att ta in Assang!</div>
+    <div class="ExtraSpace"></div>
+    <div class="CommentFooter">
+    	 <a href="#" rel="nofollow" class="AbuseLink" onclick="showPopup('/reportAbuse.action;jsessionid=577B29DC7AB3345706E69245078EF50A.wlb_app3?abuseLink=ecb7969737d788328374df812c668d2c1ea5782a9d41eb96e09ab92e42e30ea9176fd559aa5318c610a19abeccb0a7aeaaa033465084164f7cc72e6f1a5fff3beb084f3682a8e34611dfa1bf34ca4b18727676abdfb33132', 'ABUSE','scrollbars=no,',700,600);return false;">
+			<span class="AbuseText">Anmäl</span><span class="AbuseRedSignal">&nbsp;!&nbsp;</span></a>
+         </div>
+      <div class="abBlogFloatClear"></div>
+	   </div>	
+
+<div class="ExtraSpace"></div>
+<div class="ExtraSpace"></div>
+
+ <a name="comment6904487"></a> <div class="BlogComment">
+	<div style="float:left;width:60%">
+	<div>
+		      <span class="BlogerHeader">Jan Larsson</span>
+			     </div>
+	</div>
+    <div style="float:right"> <span class="Date">18 augusti 2010, kl 15:16</span></div>
+    <div class="ExtraSpace"></div>
+    <div class="CommentBody">Mycket bra att ge stöd till en person som Julian Assannge och ge honom mera<br/>legitimitet inför de konservativa krafter som försöker att sätta munnkavel på honom.</div>
+    <div class="ExtraSpace"></div>
+    <div class="CommentFooter">
+    	 <a href="#" rel="nofollow" class="AbuseLink" onclick="showPopup('/reportAbuse.action;jsessionid=577B29DC7AB3345706E69245078EF50A.wlb_app3?abuseLink=ecb7969737d788328374df812c668d2c1ea5782a9d41eb96e09ab92e42e30ea9176fd559aa5318c610a19abeccb0a7aeaaa033465084164f7cc72e6f1a5fff3beb084f3682a8e346d38006dfd625b5325f5cb8046d6df0ae', 'ABUSE','scrollbars=no,',700,600);return false;">
+			<span class="AbuseText">Anmäl</span><span class="AbuseRedSignal">&nbsp;!&nbsp;</span></a>
+         </div>
+      <div class="abBlogFloatClear"></div>
+	   </div>	
+
+<div class="ExtraSpace"></div>
+<div class="ExtraSpace"></div>
+
+ <a name="comment6906817"></a> <div class="BlogComment">
+	<div style="float:left;width:60%">
+	<div>
+		                                                                                                        <img class="UserImage" alt=""
+             style="float:left;width:30px;height:30px;"
+             title="Johan R, man, 45 &#xE5;r"
+             src="/images/common/humanmale50x50.png"/>
+               <span class="BlogerHeader">
+       Johan R  </span>
+
+      <span class="BlogerBlog"> 45 &aring;r</span> <span class="BlogerBlog"></span>       </div>
+	</div>
+    <div style="float:right"> <span class="Date">19 augusti 2010, kl 11:07</span></div>
+    <div class="ExtraSpace"></div>
+    <div class="CommentBody">Jan Helin och Lena Melin: Varför hänger ni inte ut de två socialdemokrater som har ertappats på bar gärning när de har köpt sex. De är en stor obalns i hur ni hanterar socialdemokrater som bevisligen har köpt sex jämfört med Litttorin som ni hängde ut och där han sannolkt inte har köpt sex. Detta luktar illa, mycket illa Aftonbladet.</div>
+    <div class="ExtraSpace"></div>
+    <div class="CommentFooter">
+    	 <a href="#" rel="nofollow" class="AbuseLink" onclick="showPopup('/reportAbuse.action;jsessionid=577B29DC7AB3345706E69245078EF50A.wlb_app3?abuseLink=ecb7969737d788328374df812c668d2c1ea5782a9d41eb96e09ab92e42e30ea9176fd559aa5318c610a19abeccb0a7aeaaa033465084164f7cc72e6f1a5fff3beb084f3682a8e346e2a565bbd9063dc25f5cb8046d6df0ae', 'ABUSE','scrollbars=no,',700,600);return false;">
+			<span class="AbuseText">Anmäl</span><span class="AbuseRedSignal">&nbsp;!&nbsp;</span></a>
+         </div>
+      <div class="abBlogFloatClear"></div>
+	   </div>	
+
+<div class="ExtraSpace"></div>
+<div class="ExtraSpace"></div>
+
+ <a name="comment6911909"></a> <div class="BlogComment">
+	<div style="float:left;width:60%">
+	<div>
+		      <span class="BlogerHeader">Uffe</span>
+			     </div>
+	</div>
+    <div style="float:right"> <span class="Date">21 augusti 2010, kl 08:50</span></div>
+    <div class="ExtraSpace"></div>
+    <div class="CommentBody">Ha ha, Jan, måste kännas jättebra för dig att stå fotad bredvid den mannen just nu!!!<br/><br/>What comes around goes around!!!</div>
+    <div class="ExtraSpace"></div>
+    <div class="CommentFooter">
+    	 <a href="#" rel="nofollow" class="AbuseLink" onclick="showPopup('/reportAbuse.action;jsessionid=577B29DC7AB3345706E69245078EF50A.wlb_app3?abuseLink=ecb7969737d788328374df812c668d2c1ea5782a9d41eb96e09ab92e42e30ea9176fd559aa5318c610a19abeccb0a7aeaaa033465084164f7cc72e6f1a5fff3beb084f3682a8e346f59f14dbcd6891c6ed06b1148c68a4e5', 'ABUSE','scrollbars=no,',700,600);return false;">
+			<span class="AbuseText">Anmäl</span><span class="AbuseRedSignal">&nbsp;!&nbsp;</span></a>
+         </div>
+      <div class="abBlogFloatClear"></div>
+	   </div>	
+
+<div class="ExtraSpace"></div>
+<div class="ExtraSpace"></div>
+
+ <a name="comment6921066"></a> <div class="BlogComment">
+	<div style="float:left;width:60%">
+	<div>
+		      <span class="BlogerHeader">Ulf</span>
+			     </div>
+	</div>
+    <div style="float:right"> <span class="Date">25 augusti 2010, kl 07:26</span></div>
+    <div class="ExtraSpace"></div>
+    <div class="CommentBody">Fantastiskt bra skrivet, Helin. Jag har varit kritisk till ditt resonemang kring publiceringen av Assange:s namn i samband med brottsmisstankarna. Däremot är jag väldigt positivt överraskad av de insikter du delar med dig här. <br/>Hoppas att samarbetet blir fruktbart! :).<br/></div>
+    <div class="ExtraSpace"></div>
+    <div class="CommentFooter">
+    	 <a href="#" rel="nofollow" class="AbuseLink" onclick="showPopup('/reportAbuse.action;jsessionid=577B29DC7AB3345706E69245078EF50A.wlb_app3?abuseLink=ecb7969737d788328374df812c668d2c1ea5782a9d41eb96e09ab92e42e30ea9176fd559aa5318c610a19abeccb0a7aeaaa033465084164f7cc72e6f1a5fff3beb084f3682a8e3466017720e9cf6fd82313d426e5c79a777', 'ABUSE','scrollbars=no,',700,600);return false;">
+			<span class="AbuseText">Anmäl</span><span class="AbuseRedSignal">&nbsp;!&nbsp;</span></a>
+         </div>
+      <div class="abBlogFloatClear"></div>
+	   </div>	
+
+<div class="ExtraSpace"></div>
+<div class="ExtraSpace"></div>
+
+ <a name="comment6951960"></a><a name="lastComment"></a> <div class="BlogComment">
+	<div style="float:left;width:60%">
+	<div>
+		      <span class="BlogerHeader">sinikka naumanen</span>
+			     </div>
+	</div>
+    <div style="float:right"> <span class="Date">5 september 2010, kl 20:06</span></div>
+    <div class="ExtraSpace"></div>
+    <div class="CommentBody">Alldeles förträffligt att Aftonbladet  att  just  Wikileaks grundare  Julien Assange får blir kolumnist på Aftonbladet...sanningar skall fram hur obehagliga det nu månne vara!!!<br/><br/>Sedan om denne man har nu trasslat till sig lite med sina SEX affärer i Sverige så har kommit i Historien av större Stadsmän än den här vanliga  killen som verkar väldigt sympatisk och begåvad och jag tror att han ärliga avsikter för att visa värden dessa hemligtstämplade dokument av vad som pågår bakom kulisserna i Afhganistan..detta ska bli intressant att följa sedan vad som gäller om Aftonbladet har något att lära honom om journalistiken...hmm.....det återstår att se!! Sinikka Naumanen författare/ debattör</div>
+    <div class="ExtraSpace"></div>
+    <div class="CommentFooter">
+    	 <a href="#" rel="nofollow" class="AbuseLink" onclick="showPopup('/reportAbuse.action;jsessionid=577B29DC7AB3345706E69245078EF50A.wlb_app3?abuseLink=ecb7969737d788328374df812c668d2c1ea5782a9d41eb96e09ab92e42e30ea9176fd559aa5318c610a19abeccb0a7aeaaa033465084164f7cc72e6f1a5fff3beb084f3682a8e3467c65bcc3a0fe382ce63f83b96cd7837e', 'ABUSE','scrollbars=no,',700,600);return false;">
+			<span class="AbuseText">Anmäl</span><span class="AbuseRedSignal">&nbsp;!&nbsp;</span></a>
+         </div>
+      <div class="abBlogFloatClear"></div>
+	   </div>	
+
+<div class="ExtraSpace"></div>
+<div class="ExtraSpace"></div>
+
+     </div>
+	
+	
+ <a name="writeComment"></a>
+	    <div id="abBlogCommentsWrite">
+	         <div>
+	   </div>
+ <div>
+	 </div>
+
+ <div class="ExtraSpace"></div>
+    <div class="ExtraSpace"></div>
+
+<span class="MakeCommentsHeader">Skriv en kommentar</span>
+ <script type="text/javascript">
+    //<![CDATA[
+        YAHOO.util.Event.onContentReady('abBlogCommentLoginLink', function () {
+            YAHOO.util.Event.addListener('abBlogCommentLoginLink', 'click', se.aftonbladet.community.login);
+        });
+    //]]>
+    </script>
+    <span>&nbsp;&nbsp;&nbsp;&nbsp;(&nbsp;<a title="TIPS! Det är enklare att skriva en kommentar som inloggad." id="abBlogCommentLoginLink" href="https://login.aftonbladet.se/?returnPath=http%3A%2F%2Fblogg.aftonbladet.se%2Fjanhelin%2F2010%2F08%2Fdarfor-blir-julian-assange-kolumnist-i-aftonbladet" rel="nofollow">Logga in</a>&nbsp;)</span>
+ <form id="abBlogCommentForm" action="/janhelin/writeComment.action;jsessionid=577B29DC7AB3345706E69245078EF50A.wlb_app3" method="post" accept-charset="utf-8" onsubmit="return false;">
+     <input type="hidden" name="blogId" value="26609"/>
+	<input type="hidden" name="entryId" value="1566006"/>
+
+	 <div class="InputHeader">Namn</div>
+    <div class="TextField" ><input type="text" name="alias" value=""/></div>
+    <div class="abBlogFloatClear"></div>
+    
+    <div class="InputHeader">E-post</div>
+    <div class="TextField"><input type="text" name="email" value=""/></div>
+    <div class="abBlogFloatClear"></div>  
+                    
+    <div class="InputHeader" >Sajt/blogg</div>
+    <div class="TextField" ><input type="text" name="url" value=""/></div>
+    <div class="abBlogFloatClear"></div>
+    
+    <div class="InputHeader" >Kommentar</div>
+        <div class="TextField" ><textarea name="commentText" cols="" rows=""></textarea></div>
+
+    <div class="InputHeader" style="float:none;width:90%"><span id="abBlogCommentCaptcha"></span> <a href="#" class="NewCaptcha" onclick="se.aftonbladet.blog.loadCaptchaImage('abBlogCommentCaptcha');return false;">Ny kod</a></div>
+    
+    <div class="InputHeader" style="float:none;width:90%">Fyll i texten som syns i bilden ovan</div>
+    <div class="TextField" ><input type="text" name="captcha" value="" title="Kod" maxlength="10"/></div>
+
+     <div class="ExtraSpace"></div>
+        <div class="ExtraSpace"></div>
+        <div class="InputFooter">Ägaren till den här bloggen har valt att godkänna kommentarer innan de visas. Din kommentar kommer därför inte synas förrän den har godkänts av bloggägaren.</div>
+     <div class="ExtraSpace"></div>
+    <div class="ExtraSpace"></div>
+    <input type="image" src="/images/transpix.gif" name="submitComment" title="Skicka" value="Skicka kommentar" onclick="se.aftonbladet.blog.postComment('/janhelin/commentBox!execute.action', 'abBlogCommentsBox', 'abBlogCommentForm', 'abBlogCommentCaptcha');" class="InputSubmitButton"/>
+
+</form>
+    <div class="ExtraSpace"></div>
+    <div class="ExtraSpace"></div>
+
+     <script type="text/javascript">
+//<![CDATA[
+    se.aftonbladet.blog.loadCaptchaImage('abBlogCommentCaptcha');
+//]]>
+</script>
+   </div>
+   </div> <!-- abBlogCommentsBox END -->
+    	
+    </div> <!--abBlogComments END -->
+ </html>
+  <script type="text/javascript">
+//<![CDATA[
+    if (YAHOO.lang.isObject(se.aftonbladet.blog.saneVote)) {
+        var appEnabled = true;
+
+        se.aftonbladet.blog.saneVote.setBaseUrl('http://wwwapp.aftonbladet.se/sanevote/');
+        se.aftonbladet.blog.saneVote.setEnabled(appEnabled);
+        if (appEnabled) {
+            se.aftonbladet.blog.saneVote.refresh();
+        } else {
+            se.aftonbladet.blog.saneVote.updateLinks();
+        }
+    }
+//]]>
+</script>
+ </div>
+          
+          <div id="abBlogRightContainer">
+	                     <div id="abBlogRightContainerFirst">
+           <div class="abBlogWidget">
+  <div class="WidgetBody">
+  	 <img src="http://ss11i01.stream.ip-only.net/images/blog/images/entries/63/45/70/37223/38f2e4464ad8e13c" style="display:block;float:right"/><b>Namn:</b> Jan Helin<br/>
+<b>Född år:</b> 1967<br/>
+<b>Bor:</b> Bromma<br/>
+<b>Varför blogga?</b> Jag tror jag har något att säga om Aftonbladet<br/>
+<b>Bloggstil:</b> Gubbig<br/>
+<b>Favoritbloggare: </b> Alex Schulmans pappablogg och Lance Armstrongs mikroblogg<br/>
+ </div>
+</div>      <div class="abBlogWidget">
+  <div class="WidgetBody">
+  	<div class="listTitle">Aftonbladet i siffror</div>
+  	 <div id="listItemViewContainer">
+		 <div><a href="http://www.aftonbladet.se/siffror/" rel="nofollow">Räckvidd, upplaga, trafik - här hittar du aktuella siffror</a></div>  </div>
+  </div>
+</div>      <div class="abBlogWidget">
+  <div class="WidgetBody">
+  	 <div style="border:2px solid red;">
+<p style="background-color:rgb(255, 0, 0);color:rgb(255, 255, 255);margin:0;padding:0;">NY MOBILTJÄNST</p>
+<p style="padding:2px;margin:0px;"><a rel="nofollow"href="http://www.aftonbladet.se/mobil/article6994166.ab"><strong>Följ den här bloggen i din mobil</strong> </a>– vi skickar sms så fort bloggen uppdateras</p>
+</div> </div>
+</div>      <div class="abBlogWidget" id="abBlogWidgetRss1" style="display:none;">
+  <div class="WidgetHeader" id="abBlogWidgetRssTitle1"></div>
+  <ul id="abBlogWidgetRssItems1">
+      <li></li>
+  </ul>
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+	YAHOO.util.Event.onDOMReady(function() {
+	    var rssProxyUrl = '/RssProxy?blogId=26609&widgetId=1';
+	    
+		YAHOO.util.Connect.asyncRequest('GET', rssProxyUrl, {
+			success  : se.aftonbladet.blog.rssWidgetSuccessHandler,
+			failure  : se.aftonbladet.blog.rssWidgetFailureHandler,
+			argument : {
+			    widgetId   : '1',
+			    title      : '',
+			    maxEntries : '5'
+		    }
+	    });
+	});
+//]]>
+</script>
+     </div>
+
+<div id="abBlogRightContainerSecond">
+    
+	<div class="abBlogGlobalListHeader"></div>
+    <div class="abBlogGlobalList">
+       <h3 class="ListHeader">Senaste blogginläggen</h3>
+            <script type="text/javascript">
+//<![CDATA[
+    pagination352876 = {};
+    pagination352876.abBlogListPage = function(page) {
+        var url = '/latestPublishedEntryList.action?pageSize=20&amp;listType=small'
+            + '&amp;profileImage=false&amp;noAnonymousWriters=false'
+            + '&amp;sortMethod=&amp;entryBodyMaxLength=100'
+            + '&amp;initial=false&amp;paginationId=pagination352876&amp;page=' + page;
+         
+
+        sendYahooUpdate(url, 'abBlog_pagination352876');
+        return false;
+    };
+//]]>
+</script>
+ <div id="abBlog_pagination352876">
+
+      <ul>
+       <li> <a href="/usabloggen/2010/12/nfl-laget-i-slutspelsjakten">NFL: L&#xE4;get i slutspelsjakten</a><ul><li>2010-12-27 03:59</li></ul></li>
+       <li> <a href="/samlaplus/2010/12/dags-att-gora-stan-osaker">Dags att g&#xF6;ra stan os&#xE4;ker</a><ul><li>2010-12-27 03:42</li></ul></li>
+       <li> <a href="/shimeixiaoxiao/2010/12/free-kids-online-games-make-learning-enjoyable-for-your-little-one-with-these-fun-kid-websites">Free Kids Online Games - Make Learning Enjoyable for Your Little One With These Fun Kid Websites</a><ul><li>2010-12-27 03:42</li></ul></li>
+       <li> <a href="/schulman/2010/12/en-besynnerlig">En besynnerlig...</a><ul><li>2010-12-27 03:24</li></ul></li>
+       <li> <a href="/launy/2010/12/sagan-om-hitlers-skatt-nu-i-aftonbladet">...sagan om Hitlers skatt, nu i Aftonbladet!</a><ul><li>2010-12-27 03:20</li></ul></li>
+       <li> <a href="/30091/2010/12/alldeles-for-fortrafflig-for-mitt-eget-basta">Alldeles F&#xD6;R f&#xF6;rtr&#xE4;fflig f&#xF6;r mitt eget b&#xE4;sta</a><ul><li>2010-12-27 03:12</li></ul></li>
+       <li> <a href="/sittingbull/2010/12/systemfelet">Systemfelet</a><ul><li>2010-12-27 03:07</li></ul></li>
+       <li> <a href="/30091/2010/12/young-disciples-apparently-nothin">Young Disciples - Apparently Nothin' </a><ul><li>2010-12-27 02:57</li></ul></li>
+       <li> <a href="/jvm-bloggen/2010/12/summering-dag-1">Summering dag 1</a><ul><li>2010-12-27 02:33</li></ul></li>
+       <li> <a href="/visualdamage/2010/12/borta-med-vintervinden">Borta med vintervinden!</a><ul><li>2010-12-27 02:20</li></ul></li>
+       <li> <a href="/newyorkmamman/2010/12/hurtig">Hurtig</a><ul><li>2010-12-27 02:15</li></ul></li>
+       <li> <a href="/30091/2010/12/fraste-agg">Fr&#xE4;ste &#xE4;gg</a><ul><li>2010-12-27 02:07</li></ul></li>
+       <li> <a href="/8891/2010/12/vilsen-pessimist-far-bot">Vilsen pessimist f&#xE5;r bot</a><ul><li>2010-12-27 02:00</li></ul></li>
+       <li> <a href="/6334/2010/12/etthundrasjuttiofjarde-inlagget-om-kiwi">Etthundrasjuttiofj&#xE4;rde inl&#xE4;gget om Kiwi</a><ul><li>2010-12-27 01:59</li></ul></li>
+       <li> <a href="/adrianbahtiri/2010/12/ett-alldeles-for-sent-klagoinlagg">Ett alldeles f&#xF6;r sent klagoinl&#xE4;gg</a><ul><li>2010-12-27 01:56</li></ul></li>
+       <li> <a href="/19878/2010/12/dag-25-en-forsta">Dag 25: En f&#xF6;rsta.</a><ul><li>2010-12-27 01:51</li></ul></li>
+       <li> <a href="/12923/2010/12/lamnad-vind-for-vag">L&#xE4;mnad vind f&#xF6;r v&#xE5;g</a><ul><li>2010-12-27 01:34</li></ul></li>
+       <li> <a href="/7460/2010/12/gott-slut">Gott slut eller &#xE4;r godheten slut?</a><ul><li>2010-12-27 01:32</li></ul></li>
+       <li> <a href="/19878/2010/12/dag-24-det-har-far-mig-att-grata">Dag 24: Det h&#xE4;r f&#xE5;r mig att gr&#xE5;ta.</a><ul><li>2010-12-27 01:24</li></ul></li>
+       <li> <a href="/tamelaicostarica/2010/12/dagarna-efter-jul">Dagarna efter jul ; )</a><ul><li>2010-12-27 01:20</li></ul></li>
+       </ul>
+
+ </div>
+ </div>
+    <div class="abBlogGlobalList">
+       <h3 class="ListHeader">Senast kommenterade</h3>
+            <script type="text/javascript">
+//<![CDATA[
+    pagination599082 = {};
+    pagination599082.abBlogListPage = function(page) {
+        var url = '/latestCommentedEntryList.action?pageSize=20&amp;listType=small'
+            + '&amp;profileImage=false&amp;noAnonymousWriters=false'
+            + '&amp;sortMethod=&amp;entryBodyMaxLength=100'
+            + '&amp;initial=false&amp;paginationId=pagination599082&amp;page=' + page;
+         
+
+        sendYahooUpdate(url, 'abBlog_pagination599082');
+        return false;
+    };
+//]]>
+</script>
+ <div id="abBlog_pagination599082">
+
+    <ul>
+               <li>
+                    <a href="/sillyseason/2010/12/varldens-dyraste-17-aring-pa-vag-till-real">V&#xE4;rldens dyraste (?) 17-&#xE5;ring p&#xE5; v&#xE4;g till Real</a>
+                    <ul>
+                        <li>
+                            av
+                             Ove   </li>
+                    </ul>
+                </li>
+                    <li>
+                    <a href="/bjurkvist/2010/12/daddy-alias-joakim-ramstedt-hur-kan-du-gor-ditt-bar-sa-illa-k-a">Det finns bra pappor &#xE5; s&#xE5; finns &quot;daddy&quot;. Vem &#xE4;r han?  // K-&#xC5;</a>
+                    <ul>
+                        <li>
+                            av
+                             Jourhavande   </li>
+                    </ul>
+                </li>
+                    <li>
+                    <a href="/kyrksyster/2010/12/inte-ens-halva-befolkningen-vill-ha-kungen-kvar">Inte ens halva befolkningen vill ha kungen kvar!</a>
+                    <ul>
+                        <li>
+                            av
+                                                                               <span class="BlogerHeader">
+      Arrami   </span>
+
+           </li>
+                    </ul>
+                </li>
+                    <li>
+                    <a href="/schulman/2010/12/en-besynnerlig">En besynnerlig...</a>
+                    <ul>
+                        <li>
+                            av
+                                                                                 <span class="BlogerHeader">
+        <a href="http://snack.aftonbladet.se/publicPage.action?userId=62263">Robin Söderlund</a>
+           </span>
+
+           </li>
+                    </ul>
+                </li>
+                    <li>
+                    <a href="/28443/2010/12/sa-mycket-forvantan-och-forberedelser-och-sa-puh">S&#xE5; mycket f&#xF6;rv&#xE4;ntan och f&#xF6;rberedelser och s&#xE5; puh...</a>
+                    <ul>
+                        <li>
+                            av
+                             fasa   </li>
+                    </ul>
+                </li>
+                    <li>
+                    <a href="/perbjurman/2010/12/biffens-forsenade-lista-26-12">Biffens f&#xF6;rsenade lista 26/12</a>
+                    <ul>
+                        <li>
+                            av
+                             Granvista   </li>
+                    </ul>
+                </li>
+                    <li>
+                    <a href="/pokerblogg/2010/12/jag-borde-blivit-pastor">Jag borde blivit pastor...</a>
+                    <ul>
+                        <li>
+                            av
+                                                                                 <span class="BlogerHeader">
+        <a href="http://snack.aftonbladet.se/publicPage.action?userId=212547">Simon ”Dybban” Lindell</a>
+           </span>
+
+           </li>
+                    </ul>
+                </li>
+                    <li>
+                    <a href="/sillyseason/2010/12/har-ar-malvakterna-som-ska-ersatta-van-der-sar-i-united">H&#xE4;r &#xE4;r m&#xE5;lvakterna som ska ers&#xE4;tta van der Sar i United</a>
+                    <ul>
+                        <li>
+                            av
+                             Unitedforever   </li>
+                    </ul>
+                </li>
+                    <li>
+                    <a href="/sillyseason/2010/12/arsenal-vill-kopa-17-aring-for-100-miljoner">Arsenal vill k&#xF6;pa 17-&#xE5;ring f&#xF6;r 100 miljoner</a>
+                    <ul>
+                        <li>
+                            av
+                                                                                 <span class="BlogerHeader">
+        <a href="http://snack.aftonbladet.se/publicPage.action?userId=274163">USA äger Alliansen</a>
+           </span>
+
+           </li>
+                    </ul>
+                </li>
+                    <li>
+                    <a href="/visualdamage/2010/12/green-eyes-prologue">Green Eyes  -Prologue-</a>
+                    <ul>
+                        <li>
+                            av
+                             Leo   </li>
+                    </ul>
+                </li>
+                    <li>
+                    <a href="/marion/2010/12/the-mercy-suck">The Mercy Suck</a>
+                    <ul>
+                        <li>
+                            av
+                             Palle   </li>
+                    </ul>
+                </li>
+                    <li>
+                    <a href="/sillyseason/2010/12/real-och-chelsea-jagar-beckham">Dagens galnaste: Real och Chelsea jagar Beckham</a>
+                    <ul>
+                        <li>
+                            av
+                             Andrew   </li>
+                    </ul>
+                </li>
+                    <li>
+                    <a href="/hannaafwallin/2010/12/frusna-loften-henne-givna">frusna l&#xF6;ften henne givna...</a>
+                    <ul>
+                        <li>
+                            av
+                                                                                 <span class="BlogerHeader">
+        <a href="http://snack.aftonbladet.se/publicPage.action?userId=171280">HEMIMAMMA</a>
+           </span>
+
+           </li>
+                    </ul>
+                </li>
+                    <li>
+                    <a href="/hannaafwallin/2010/12/natt-dikt-tidigare-publicerad">Natt dikt...(tidigare publicerad)</a>
+                    <ul>
+                        <li>
+                            av
+                                                                                 <span class="BlogerHeader">
+        <a href="http://snack.aftonbladet.se/publicPage.action?userId=171280">HEMIMAMMA</a>
+           </span>
+
+           </li>
+                    </ul>
+                </li>
+                    <li>
+                    <a href="/hannaafwallin/2010/12/ett-vingslag-av-hopp-tidigare-publicerad">ett vingslag av hopp...  (tidigare publicerad)</a>
+                    <ul>
+                        <li>
+                            av
+                                                                                 <span class="BlogerHeader">
+        <a href="http://snack.aftonbladet.se/publicPage.action?userId=171280">HEMIMAMMA</a>
+           </span>
+
+           </li>
+                    </ul>
+                </li>
+                    <li>
+                    <a href="/hannaafwallin/2010/12/i-tystaste-stund">i tystaste stund..</a>
+                    <ul>
+                        <li>
+                            av
+                                                                                 <span class="BlogerHeader">
+        <a href="http://snack.aftonbladet.se/publicPage.action?userId=171280">HEMIMAMMA</a>
+           </span>
+
+           </li>
+                    </ul>
+                </li>
+                    <li>
+                    <a href="/matmedmera/2010/12/tant-var-det-har">T&#xE4;nt var det h&#xE4;r!</a>
+                    <ul>
+                        <li>
+                            av
+                                                                               <span class="BlogerHeader">
+      elgreen   </span>
+
+           </li>
+                    </ul>
+                </li>
+                    <li>
+                    <a href="/hemimamma/2010/12/hemimammas-kamp-den-onde-den-gode-och-den-fule-8-fragor-fulingar-och-framtiden">Hemimammas kamp - &quot;Den Onde, den Gode, och den Fule&quot; # 8 Fr&#xE5;gor, Fulingar och Framtiden?</a>
+                    <ul>
+                        <li>
+                            av
+                             helene ekman   </li>
+                    </ul>
+                </li>
+                    <li>
+                    <a href="/sillyseason/2010/12/liverpool-kan-gora-vinterns-storsta-affar">Liverpool kan g&#xF6;ra vinterns st&#xF6;rsta aff&#xE4;r</a>
+                    <ul>
+                        <li>
+                            av
+                                                                               <span class="BlogerHeader">
+      jsundin   </span>
+
+           </li>
+                    </ul>
+                </li>
+                    <li>
+                    <a href="/skaner/2010/12/nar-jesus-fredrik-atervande-och-visade-mirakel">N&#xE4;r Jesus/Fredrik &#xE5;terv&#xE4;nde och visade mirakel...</a>
+                    <ul>
+                        <li>
+                            av
+                             helene ekman   </li>
+                    </ul>
+                </li>
+              </ul>
+
+ </div>
+ </div>
+</div>
+
+<div class="abBlogFloatClear"></div>
+ </div>
+          
+          <br class="abBlogFloatClear" />
+          
+          <div id="abBlogFooterContainer" class="footerText">
+               <div class="abTextBlock">
+
+  <div class="noIndent">
+
+                                                            <p class="firstParagraph">
+Chefredaktör: <b>Jan Helin </b>
+</p>
+<p>
+Tf ansvarig utgivare: <b>Lena Mellin</b>
+</p>
+<p>
+Redaktionschefer: <b>Lena Widman, Markus Gustafsson </b>(tf) 
+</p>
+<p>
+Sajtchef: <b>Sigge Ennart </b>
+</p>
+<p>
+Sveriges mest engagerande tidning - 2,6 miljoner läsare varje dag!<b> </b>
+</p>
+  <div class="abByline">
+	             </div><!-- End abByline -->
+
+  <div class="abFloatclearer"></div>
+
+</div><!-- End blockbox -->
+</div><!-- End abTextBlock --> <div class="abFloatclearer"></div> 
+      </div>
+          
+        </div><!-- abBlogMainContainer END -->
+      </div><!-- abBlogMainSite END -->
+      
+      <!-- put extra right col here (if any) -->
+      
+    </div><!-- abBlogFrameworkContainer END -->
+
+      <!-- BEGIN OAS 6 Analytics -->
+<script type="text/javascript" src="http://sifomedia.aftonbladet.se/Scripts/oas_analytics.js"></script>
+<script type="text/javascript"> <!--
+_version=10; //--> </script>
+<script type="text/javascript"> <!--
+_version=11;
+if (navigator.userAgent.indexOf('Mozilla/3') != -1){
+_version=10;} // --> </script>
+<script type="text/javascript">
+// <![CDATA[
+var server = "http://sifomedia.aftonbladet.se";
+var sitepage = "aftonbladet";
+var position ="TopRight!TopRight";
+if (! (RN)) {
+var RN = new String (Math.random());
+var RNS = RN.substring (2, 11);
+}
+var oas=server + '/RealMedia/ads/';
+var oaspage= sitepage + '/1' + RNS + '@' + position;
+oaspage+='?XE'; //Don't touch.
+oaspage+='&Sajt=aftonbladet&Sektion=blogg'; //Add Taxonomy here.
+oaspage+=OAS_rdl + "&if_nt_CookieAccept=" + OAS_CA + '&XE'; //Don't touch.
+if (_version < 11) {
+document.write ('<a href="' + oas + 'click_nx.ads/'+ oaspage + '" target="_top" ><img src="' + oas + 'adstream_nx.ads/' + oaspage + '" border="0" width="1" height="1" alt="Click!"></a>');
+} else {
+document.write ('<scr'+'ipt language="JavaScript1.1" src="' + oas + 'adstream_jx.ads/' + oaspage + '">');
+document.write ('<!-- -->');
+document.write ('</scri' + 'pt>');
+document.write ('<!-- -->');
+}
+// ]]>
+</script>
+<noscript><img src="http://sifomedia.aftonbladet.se/RealMedia/ads/adstream_nx.ads/aftonbladet/12345@TopRight?XE&amp;JSFLAG=noscript&amp;Sajt=aftonbladet&amp;Sektion=blogg&amp;XE" border="0" alt=""/></noscript>
+<!-- END OAS 6 Analytics -->             <!-- SiteCatalyst code version: H.14.
+    Copyright 1997-2008 Omniture, Inc. More info available at
+    http://www.omniture.com -->
+    <script language="JavaScript" type="text/javascript" src="http://www.aftonbladet.se/template/ver1-0/stats/sitecatalyst/s_code.jsp"></script>
+    <script language="JavaScript" type="text/javascript"><!--
+    s.pageName="blogg:26609:1566006:bloggtext";
+    s.prop3="Bloggtext";
+    s.prop4="bloggtext:1566006";
+    s.prop5="bloggtext";
+    s.prop6="blogg";
+    s.prop7="blogg: Jan Helin";
+    s.prop8="blogg: Jan Helin: D&#xE4;rf&#xF6;r blir Julian Assange kolumnist i Aftonbladet";
+    s.prop9="blogg: Jan Helin: D&#xE4;rf&#xF6;r blir Julian Assange kolumnist i Aftonbladet";
+    s.prop18="free";
+    s.prop20="free:bloggtext";
+    s.hier1="blogg,Jan Helin,D&#xE4;rf&#xF6;r blir Julian Assange kolumnist i Aftonbladet";
+    /************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+    var s_code=s.t();if(s_code)document.write(s_code)//--></script>
+    <script language="JavaScript" type="text/javascript"><!--
+    if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'!-'+'-')
+    //--></script><noscript><a href="http://www.omniture.com" title="Web Analytics"><img
+    src="http://aftonbladetnya.112.2o7.net/b/ss/aftonbladetprod/1/H.14--NS/0"
+    height="1" width="1" border="0" alt="" /></a></noscript><!--/DO NOT REMOVE/-->
+    <!-- End SiteCatalyst code version: H.14. -->
+      <script type="text/javascript">
+    //<![CDATA[
+        var sUrl = 'http://blogg.aftonbladet.se/janhelin/hit.action';
+        se.aftonbladet.blog.increaseHits(sUrl);
+    //]]>
+    </script>
+    <noscript>
+        <img src="http://blogg.aftonbladet.se/janhelin/hit.action?t=1293420930904" alt="" style="width:0px;height:0px;"/>
+    </noscript>
+    
+        <!-- AD: [placement=traffic,blogKey=janhelin,adSystem=helios] -->
+          <!-- AD: [placement=ticker,blogKey=janhelin,adSystem=helios] -->
+    <!-- Ticker -->
+    <div id="abAdArea_BF10">
+        <div id="abAdArea_BF10_closer" >
+            <img src="http://www.aftonbladet.se/template/ver1-0/gfx/ads/v1/close_button_se_dark.gif" alt="Close" onclick="se.aftonbladet.blog.hideModule('abAdArea_BF10');return false;"/>
+        </div>
+        <div id="abAdPlacementTicker" class="abAdPositionBoxF" >
+            <script type="text/javascript">
+            // <![CDATA[
+            	se.aftonbladet.blog.initModule("abAdArea_BF10", true);
+                if (window.adgroupid == undefined) {
+                    window.adgroupid = Math.round(Math.random() * 1000);
+                }
+                document.write('<scr'+'ipt type="text/javascript" src="http://ad.dc2.adtech.de/addyn|3.0|831.1|2029817|0|-1|ADTECH;cookie=info;loc=100;target=_blank;alias=ab_blogg_generell_ticker;key=janhelin;grp='+window.adgroupid+';misc='+new Date().getTime()+'"></scri'+'pt>');
+            // ]]>
+            </script>
+        </div>
+	</div>
+   </body>
+</html>

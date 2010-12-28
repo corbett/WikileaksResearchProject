@@ -1,0 +1,1720 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" dir="ltr" xmlns:og="http://opengraphprotocol.org/schema/">
+
+<head profile="http://gmpg.org/xfn/11">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE8" />
+
+<title>  Wikileaks Servers Move To Underground Nuclear Bunker - Andy Greenberg - The Firewall - Forbes</title>
+
+<link rel="stylesheet" href="http://blogs-images.forbes.com/assets/css/forbesblogs-tsone.css?ver=1.9" type="text/css"  />
+<link rel="stylesheet" href="http://blogs-images.forbes.com/assets/css/forbesblogs-tscontrib.css?ver=1.3" type="text/css"  />
+<!--[if IE 7]>
+	<link rel="stylesheet" type="text/css" href="http://blogs-images.forbes.com/assets/css/ie7.css" media="screen, projection" />
+<![endif]-->
+
+<!--[if IE]>
+    <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]--> 
+<!--[if IE 6]>
+    <script src="http://images.forbes.com/scripts/rl/DD_belatedPNG.js"></script>
+    <script>
+	DD_belatedPNG.fix('a, b, div, img, span, ul, ol, li, td, th, hgroup,nav, section, small, b, i, em, cite, h1, h2, h3, h4, h5, h6, #editbrand, .dropdown, #header_subscriber, .hs_form_sub, .back, .next, .plusmore, .fbook, .name a, .number, .prev, .nexxt, .twitterShare, .wealth,.wealthTime dd, .bar, #footer_datapartners, #footer_sites');
+    </script>
+<![endif]-->  
+
+
+
+<link rel="alternate" type="application/rss+xml" title="The Firewall RSS Feed" href="http://blogs.forbes.com/andygreenberg/feed/" />
+<link rel="pingback" href="http://blogs.forbes.com/andygreenberg/xmlrpc.php" />
+
+
+
+<script type="text/javascript">
+if (top.location != self.location) {
+			top.location = self.location.href;
+}
+</script>
+<script language="javascript" src="http://images.forbes.com/scripts/util/CookieCutter.js"></script>
+
+	<script language="JavaScript">
+		var displayedChannel = 'technology';
+		var displayedSection = 'andygreenbergblog';
+		var displayedSpecialSlot = '';
+		var fdc_center = '1';  
+	</script>
+
+
+<script language="JavaScript">
+ var globalPageName = 'blogs.forbes.com:andygreenberg:2010:08:30:wikileaks-servers-move-to-underground-nuclear-bunker';
+</script>
+
+
+
+	<!-- Begin OAS; Sitepage: forbes.com/technology/blogs/andygreenberg -->
+	<SCRIPT LANGUAGE=JavaScript>
+	<!--
+	
+	// A function for determining which OAS_sitepage to use
+	function determine_OAS_sitepage() {
+	
+		// Array of referrals that trigger overrides
+		var sitewide_overrides=new Array();
+		// Array items
+		sitewide_overrides['empty'] = '';
+
+		// Vars setup for referrer check
+		var referrer_url = "" + document.referrer;
+		var current_url = "" +  window.location;
+		var referrer_string = "";
+		
+		
+		// Referrer check
+		if(referrer_url != "" && referrer_url !== current_url) {
+			referrer_string = referrer_url.replace(/http:\/\/(www.)/,"");
+			if(sitewide_overrides[referrer_string] != undefined) {
+				return sitewide_overrides[referrer_string];
+			} else {
+				return "forbes.com/technology/blogs/andygreenberg";
+			}
+		} else {
+			return "forbes.com/technology/blogs/andygreenberg";
+		}
+
+	}
+	
+	//configuration
+	//OAS_listpos = "AdController,BigBanner,x5,LeftBottom,LeftBottom2,Block,RightUndQuotes,AutosModule,CenterBannerHome,AttacheButton,TradingCenter1,TradingCenter2,TradingCenter3,TradingCenter4,TravelerModule,x81,x88,x89,StoryLogo,x110,MyForbesHeader,loge";
+	OAS_url = 'http://ads.forbes.com/RealMedia/ads/';
+	if(typeof OAS_sitepage=="undefined"){
+		OAS_sitepage = determine_OAS_sitepage();
+	} else {
+		if(OAS_sitepage.length == 0){
+			OAS_sitepage = determine_OAS_sitepage();
+		}
+	}
+	
+	
+	if(typeof OAS_listpos=="undefined"){
+		//OAS_listpos = "AdController,BigBanner,x5,Block,x81,x88";
+		OAS_listpos = "AdController,BigBanner,x5,Block,x81,x88,x89,Loge";
+	} else {
+		if(OAS_listpos.length == 0){
+			//OAS_listpos = "AdController,BigBanner,x5,LeftBottom,LeftBottom2,Block,RightUndQuotes,AutosModule,CenterBannerHome,AttacheButton,TradingCenter1,TradingCenter2,TradingCenter3,TradingCenter4,TravelerModule,x81,x88,x89,StoryLogo,x110,MyForbesHeader,loge";
+			OAS_listpos = "AdController,BigBanner,x5,Block,x81,x88,x89,Loge";
+		}
+	}
+	OAS_query = '?largeads=false';
+	OAS_target = '_top';
+	//end of configuration
+	OAS_version = 10;
+	
+	
+	
+	OAS_rn = '001234567890'; OAS_rns = '1234567890';
+	OAS_rn = new String (Math.random()); OAS_rns = OAS_rn.substring (2, 11);
+	function OAS_NORMAL(pos) {
+  		document.write('<A HREF="' + OAS_url + 'click_nx.cgi/' + OAS_sitepage + '/1' + OAS_rns + '@' + OAS_listpos + '!' + pos + OAS_query + '" TARGET=' + OAS_target + '>');
+  		document.write('<IMG SRC="' + OAS_url + 'adstream_nx.cgi/' + OAS_sitepage + '/1' + OAS_rns + '@' + OAS_listpos + '!' + pos + OAS_query + '" BORDER=0></A>');
+	}
+	function OAS_RICH(pos) {
+  		document.write('<A HREF="' + OAS_url + 'click_nx.cgi/' + OAS_sitepage + '/1' + OAS_rns + '@' + OAS_listpos + '!' + pos + OAS_query + '" TARGET=' + OAS_target + '>');
+  		document.write('<IMG SRC="' + OAS_url + 'adstream_nx.cgi/' + OAS_sitepage + '/1' + OAS_rns + '@' + OAS_listpos + '!' + pos + OAS_query + '" BORDER=0></A>');
+	}
+	//-->
+	</SCRIPT>
+	<SCRIPT LANGUAGE=JavaScript1.1>
+	<!--
+	OAS_version = 11;
+	if (navigator.userAgent.indexOf('Mozilla/3') != -1 || navigator.userAgent.indexOf('Mozilla/4.0 WebTV') != -1)
+  		OAS_version = 10;
+	if (OAS_version >= 11)
+  	document.write('<SCRIPT LANGUAGE=JavaScript1.1 SRC="' + OAS_url + 'adstream_mjx.ads/' + OAS_sitepage + '/1' + OAS_rns + '@' + OAS_listpos + OAS_query + '"><\/SCRIPT>');
+	//-->
+	</SCRIPT>
+	<SCRIPT LANGUAGE=JavaScript>
+	<!--
+	document.write('');
+	function OAS_AD(pos) {
+  		if (OAS_version >= 11)
+    		OAS_RICH(pos);
+  		else
+    		OAS_NORMAL(pos);
+	}
+	//-->
+	</SCRIPT>
+	
+	
+	<script>
+	//first
+    welcomeCookie = "undefined";
+    var frequency;
+
+
+    var today = new Date();
+
+    var fdcwelcb = document.cookie.split(";");
+
+    for(var i=0 ; i < fdcwelcb.length ; i++){
+    	if((fdcweldelim = fdcwelcb[i].indexOf('__welcome')) > -1) {
+        	var fdcwelCookieTime = fdcwelcb[i].substring(fdcweldelim+9);
+        	if(fdcwelCookieTime == "") {
+            	var tomorrow = new Date();
+            	tomorrow.setTime(tomorrow.getTime() + (24*60*60*1000));
+            	document.cookie = fdcwelcb[i] +tomorrow.getTime()+'; path=/; domain=.forbes.com; expires=' + tomorrow.toGMTString();
+            }else if(fdcwelCookieTime>today.getTime()) {
+                var fdcwelExpire = new Date;
+                fdcwelExpire.setTime(fdcwelCookieTime);
+                document.cookie = fdcwelcb[i] +'; path=/; domain=.forbes.com; expires=' + fdcwelExpire.toGMTString();
+            }
+        }
+    }
+
+	if( !(navigator.userAgent.match(/iPhone/i)) && !(navigator.userAgent.match(/iPod/i)) && !(navigator.userAgent.match(/iPad/i)) && !(navigator.userAgent.match(/Android/i)) && !(navigator.userAgent.match(/BlackBerry/i)) ) {
+		document.write('<div style="display:none;">');
+		OAS_AD('x5');
+		document.write('</div>');
+	} 
+
+ 
+	//third
+	if(welcomeCookie != "undefined" && welcomeCookie != null){
+		if ((document.cookie.indexOf(welcomeCookie)==-1) && (navigator.userAgent.indexOf("Mozilla")>-1) && (navigator.userAgent.indexOf("iPad;")==-1) && (this.location.host.indexOf("forbes.com")!=-1) && (document.referrer.indexOf("digg.com")==-1) && (this.location.search.indexOf("partner=yahoo")==-1) && (this.location.search.indexOf("partner=msn")==-1)&& (this.location.search.indexOf("partner=aol")==-1) && (this.location.search.indexOf("partner=compuserve")==-1) && (this.location.search.indexOf("partner=netscape")==-1) && (this.location.search.indexOf('nowelcome')==-1) && (this.location.search.indexOf("partner=Experian-RMX")==-1) && (this.location.search.indexOf("partner=acurapower")==-1) && (this.location.search.indexOf("partner=rolex400")==-1) && (this.location.search.indexOf("partner=powercouples")==-1) && (this.location.href.indexOf("members.forbes.com/bizviz")==-1)) {
+			var tomorrow = new Date();
+			if(frequency == "undefined" || frequency == null){
+				frequency = 24*60*60*1000;
+			}
+
+			var nowPlus =  tomorrow.getTime() + frequency;
+			tomorrow.setTime(nowPlus);
+			document.cookie = welcomeCookie +'__welcome'+tomorrow.getTime()+'; path=/; domain=.forbes.com; expires=' + tomorrow.toGMTString();
+			if (document.cookie.indexOf(welcomeCookie) != -1){
+				document.cookie="toURL"+ "=" +escape(document.URL)+";path=/; domain=.forbes.com; expires="+tomorrow.toGMTString();
+				this.location='http://www.forbes.com/fdc/welcome_mjx.shtml';
+			}
+		}
+	}
+	
+	</script>
+
+	
+
+
+<meta name='author' content='Andy Greenberg' />
+
+
+
+<span id="omniture" style="display:none"><script language="JavaScript" 
+src="http://images.forbes.com/scripts/omniture/s_code_forbescom.js"></script><script>OAS_AD('AdController');</script></span>
+<link rel="alternate" type="application/rss+xml" title="The Firewall &raquo; Wikileaks Servers Move To Underground Nuclear Bunker Comments Feed" href="http://blogs.forbes.com/andygreenberg/2010/08/30/wikileaks-servers-move-to-underground-nuclear-bunker/feed/" />
+<script type='text/javascript' src='http://blogs-images.forbes.com/wp-includes/js/comment-reply.js?ver=20090102'></script>
+<script type='text/javascript' src='http://blogs-images.forbes.com/wp-includes/js/jquery/jquery.js?ver=1.3.2'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://blogs.forbes.com/andygreenberg/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://blogs.forbes.com/andygreenberg/wp-includes/wlwmanifest.xml" /> 
+<link rel='index' title='The Firewall' href='http://blogs.forbes.com/andygreenberg' />
+<link rel='start' title='Project Vigilant: Big Brother Or Small Potatoes?' href='http://blogs.forbes.com/andygreenberg/2010/08/04/project-vigilant-big-brother-or-small-potatoes/' />
+<link rel='prev' title='Indian Researcher Who Showed E-Voting Security Flaws Jailed, Denied Bail, Charged With Theft' href='http://blogs.forbes.com/andygreenberg/2010/08/27/indian-researcher-who-showed-e-voting-security-flaws-jailed-denied-bail-charged-with-theft/' />
+<link rel='next' title='IBM Names Itself Worst Company For Fixing Critical Software Security Bugs' href='http://blogs.forbes.com/andygreenberg/2010/08/31/ibm-names-itself-worst-company-for-fixing-critical-software-security-bugs/' />
+<meta name="generator" content="WordPress 2.9.2" />
+<script type="text/javascript">
+function docdowrite( mystring ) {
+	document.write( mystring );
+}
+</script>
+<link rel="canonical" href="http://blogs.forbes.com/andygreenberg/2010/08/30/wikileaks-servers-move-to-underground-nuclear-bunker/" />
+<meta property="og:title" content="Wikileaks Servers Move To Underground Nuclear Bunker" />
+<meta property="og:type" content="article" />
+<meta property="og:image" content="http://blogs.forbes.com/thumbnails/blog_948/pt_948_504_t.jpg?t=1283196717" />
+<meta property="og:url" content="http://blogs.forbes.com/andygreenberg/2010/08/30/wikileaks-servers-move-to-underground-nuclear-bunker/" />
+<meta property="og:site_name" content="Forbes" />
+<meta property="og:description" content="As the whistle-blower site prepares to release another trove of classified documents, it&#039;s looking for every protection it can find." />
+<script type="text/javascript">
+//<![CDATA[
+	var ppi_rep_info = 'c3RhdHMtOTQ4LTUwNC0w';
+	var ppi_rep_blogid = '948';
+	var ppi_rep_source = '';
+	var ppi_rep_uri = '/andygreenberg/2010/08/30/wikileaks-servers-move-to-underground-nuclear-bunker/?boxes=businesschanneltopstories';
+	var ppi_rep_authorid = '106';
+	var ppi_rep_parentid = '';
+//]]>
+</script>
+<meta name="tweetmeme-title" content="Wikileaks Servers Move To Underground Nuclear Bunker" />
+<meta name="title" content="Wikileaks Servers Move To Underground Nuclear Bunker" />
+<meta name="description" content="Internet service providers often tell their client that they offer &quot;bullet-proof hosting.&quot; Whistle-blower organization Wikileaks, it seems, will settle for nothing less than &quot;bomb-proof.&quot; Some portion of Wikileaks&#039; servers have been moved to the &quot;Pionen&quot; White Mountains data center owned by Swedish broadband provider Bahnhof, as first reported by Norwegian news [...]" />
+<link rel="image_src" href="http://blogs-images.forbes.com/thumbnails/blog_948/pt_948_504_t.jpg?t=1283196717" />
+
+
+<!--
+	generated in 0.327 seconds
+	158955 bytes batcached for 300 
+seconds
+-->
+</head>
+<body>
+	<!--
+	<div style="display:none;">
+		<script type="text/javascript">
+			OAS_AD('x5');
+		</script>
+	</div>
+	-->
+
+	
+<!-- Start Forbes Header --><!-- Start: content -->
+<header>
+    <div class="headerwrapper">
+        <!-- Start: Primary navigation -->
+        <nav id="primnav" class="clearfix">
+            <ul id="header_topnav">
+            <li id="ch1" class="channels  chLeft   "><a href="http://www.forbes.com/business/"  class="dropdown" >Business</a><span></span>
+                <div class="sections clearfix" id="sect1">
+		                            <ul>
+                                                            <li><a href="http://www.forbes.com/autos/">Autos</a></li>
+                                                                                            <li><a href="http://www.forbes.com/energy/">Energy</a></li>
+                                                                                            <li><a href="http://www.forbes.com/entertainment/">Media & Entertainment</a></li>
+                                                                                            <li><a href="http://www.forbes.com/healthcare/">Pharma & Healthcare</a></li>
+                                                                                            <li><a href="http://www.forbes.com/business/sportsmoney/">SportsMoney</a></li>
+                                                                                            <li><a href="http://www.forbes.com/wallstreet/">Wall Street</a></li>
+                                                                    </ul><ul class="last" >
+                                                                                            <li><a href="http://www.forbes.com/beltway/">Washington</a></li>
+                                                                                    </ul>
+		 		    			<div class="header_navpromo">
+			    <a href="http://www.forbes.com/2010/12/03/hollywood-most-successful-actors-business-entertainment.html"><img src="http://images.forbes.com/media/2009/11/23/1123_sweeny-todd-depp-burton_169x99.jpg" alt="Hollywood's Real A-List"/></a>
+			    <h4><a href="http://www.forbes.com/2010/12/03/hollywood-most-successful-actors-business-entertainment.html">Hollywood's Real A-List</a></h4>
+			   			</div>
+		    		                </div>
+        </li>	
+             <li id="ch2" class="channels  chLeft   "><a href="http://www.forbes.com/finance/"  class="dropdown" >Investing</a><span></span>
+                <div class="sections clearfix" id="sect2">
+		                            <ul>
+                                                            <li><a href="http://www.forbes.com/bonds/">Bonds</a></li>
+                                                                                            <li><a href="http://www.forbes.com/commodities/">Commodities & Currencies</a></li>
+                                                                                            <li><a href="http://www.forbes.com/equities/">Stocks</a></li>
+                                                                                            <li><a href="http://www.forbes.com/markets/">Markets</a></li>
+                                                                                            <li><a href="http://www.forbes.com/advisernetwork/">Advisor Network</a></li>
+                                                                                            <li><a href="http://www.forbes.com/intelligentinvesting/">Intelligent Investing</a></li>
+                                                                    </ul><ul class="last" >
+                                                                                            <li><a href="http://www.forbes.com/finance/">Personal Finance</a></li>
+                                                                                            <li><a href="http://www.forbes.com/finance/etfs/">ETFs</a></li>
+                                                                                            <li><a href="http://www.forbes.com/finance/funds/">Mutual Funds</a></li>
+                                                                                            <li><a href="http://www.forbes.com/finance/retirementcollege/">Retirement</a></li>
+                                                                                            <li><a href="http://www.forbes.com/finance/taxesestates/">Taxes</a></li>
+                                                                                            <li><a href="http://search.forbes.com/search/storyTypeSearch?storyType=Real+Estate+Advisor">Real Estate</a></li>
+                                                                                    </ul>
+		 		    			<div class="header_navpromo">
+			    <a href="http://www.forbes.com/2010/12/21/ipo-class-2011-markets-equities-groupon-linkedin-hca.html"><img src="http://images.forbes.com/media/2009/05/26/0526_ipo_169x99.jpg" alt="The IPO Class Of 2011"/></a>
+			    <h4><a href="http://www.forbes.com/2010/12/21/ipo-class-2011-markets-equities-groupon-linkedin-hca.html">The IPO Class Of 2011</a></h4>
+			   			</div>
+		    		                </div>
+        </li>	
+             <li id="ch3" class="channels  chLeft   "><a href="http://www.forbes.com/technology/"  class="dropdown" >Tech</a><span></span>
+                <div class="sections clearfix" id="sect3">
+		                            <ul>
+                                                            <li><a href="http://www.forbes.com/breakthroughs/">Breakthroughs</a></li>
+                                                                                            <li><a href="http://www.forbes.com/on-demand/">On Demand</a></li>
+                                                                                            <li><a href="http://www.forbes.com/cionetwork/">CIO Network</a></li>
+                                                                                            <li><a href="http://www.forbes.com/intelligent-technology/">Intelligent Tech</a></li>
+                                                                                            <li><a href="http://www.forbes.com/personaltech/">Personal Tech</a></li>
+                                                                                            <li><a href="http://www.forbes.com/security/">Security</a></li>
+                                                                    </ul><ul class="last" >
+                                                                                            <li><a href="http://www.forbes.com/wireless/">Wireless</a></li>
+                                                                                    </ul>
+		 		    			<div class="header_navpromo">
+			    <a href="http://www.forbes.com/2010/12/14/ipad-meile-dornbracht-technology-interior-design.html"><img src="http://images.forbes.com/media/2010/12/15/1015_ipad_169x99.jpg" alt="Run Your Home From An iPad"/></a>
+			    <h4><a href="http://www.forbes.com/2010/12/14/ipad-meile-dornbracht-technology-interior-design.html">Run Your Home From An iPad</a></h4>
+			    <div class="header_engagement"><a class="red" href="http://rate.forbes.com/comments/CommentServlet?op=cpage&url=2010/12/14/ipad-meile-dornbracht-technology-interior-design.html&sourcename=story">1 Comments</a></div>			</div>
+		    		                </div>
+        </li>	
+             <li id="ch4" class="channels  chLeft   mid  "><a href="http://www.forbes.com/entrepreneurs/"  class="dropdown" >Entrepreneurs</a><span></span>
+                <div class="sections clearfix" id="sect4">
+		                            <ul>
+                                                            <li><a href="http://www.forbes.com/entrepreneurs/boostyourbusiness/">Boost your Business</a></li>
+                                                                                            <li><a href="http://www.forbes.com/entrepreneurs/finance/">Financing</a></li>
+                                                                                            <li><a href="http://www.forbes.com/entrepreneurs/humanresources/">HR</a></li>
+                                                                                            <li><a href="http://www.forbes.com/entrepreneurs/lawtaxation/">Law & Tax</a></li>
+                                                                                            <li><a href="http://www.forbes.com/entrepreneurs/promising-companies/">Promising Companies</a></li>
+                                                                                            <li><a href="http://www.forbes.com/entrepreneurs/salesmarketing/">Sales & Marketing</a></li>
+                                                                    </ul><ul class="last" >
+                                                                                            <li><a href="http://www.forbes.com/entrepreneurs/management/">Management</a></li>
+                                                                                            <li><a href="http://www.forbes.com/entrepreneurs/technology/">Tech</a></li>
+                                                                                    </ul>
+		 		    			<div class="header_navpromo">
+			    <a href="http://www.forbes.com/2010/12/09/shady-landlord-schemes-entrepreneurs-small-biz-toolkit-10.html"><img src="http://images.forbes.com/media/2010/12/09/1209_shady-landlords-intro_169x99.jpg" alt="Shady Landlord Schemes And How To Fight Back"/></a>
+			    <h4><a href="http://www.forbes.com/2010/12/09/shady-landlord-schemes-entrepreneurs-small-biz-toolkit-10.html">Shady Landlord Schemes And How To Fight Back</a></h4>
+			    <div class="header_engagement"><a class="red" href="http://rate.forbes.com/comments/CommentServlet?op=cpage&url=2010/12/09/shady-landlord-schemes-entrepreneurs-small-biz-toolkit-10.html&sourcename=story">3 Comments</a></div>			</div>
+		    		                </div>
+        </li>	
+             <li id="ch5" class="channels  chRight    mid2 "><a href="http://www.forbes.com/opinions/"  class="dropdown" >Op/Ed</a><span></span>
+                <div class="sections clearfix" id="sect5">
+		    						    <div class="header_navpromo">
+				<a href="http://www.forbes.com/2010/12/20/ranking-america-top-ten-entrepreneurship-opinions-contributors-mark-rice.html"><img src="http://images.forbes.com/media/2010/04/27/0427_us-capital-washington-dc-flag_169x99.jpg" alt="The U.S.: No. 1 In Startups, No. 6 In Headgear Exports"/></a>
+				<h4><a href="http://www.forbes.com/2010/12/20/ranking-america-top-ten-entrepreneurship-opinions-contributors-mark-rice.html">The U.S.: No. 1 In Startups, No. 6 In Headgear Exports</a></h4>
+							    </div>
+					                            <ul class="last" >
+                                                            <li><a href="http://www.forbes.com/opinions/books/">Books & Culture</a></li>
+                                                                                            <li><a href="http://www.forbes.com/businessvisionaries/">Business Visionaries</a></li>
+                                                                                            <li><a href="http://www.forbes.com/static_html/opinions/columnists.html">Columnists</a></li>
+                                                                                            <li><a href="http://search.forbes.com/search/storyTypeSearch?storyType=Contributors">Contributors</a></li>
+                                                                                            <li><a href="http://www.forbes.com/fact-and-comment/">Fact & Comment</a></li>
+                                                                                            <li><a href="http://thoughts.forbes.com/quotes/">Thoughts on the Business of Life</a></li>
+                                                                                    </ul>
+		                 </div>
+        </li>	
+             <li id="ch6" class="channels  chRight   "><a href="http://www.forbes.com/leadership/"  class="dropdown" >Leadership</a><span></span>
+                <div class="sections clearfix" id="sect6">
+		    						    <div class="header_navpromo">
+				<a href="http://www.forbes.com/2010/12/17/self-promotion-jobs-leadership-careers-employment.html"><img src="http://images.forbes.com/media/2010/12/03/1203_optimist-thumbs-up_169x99.jpg" alt="The Right Way To Sell Yourself At Work"/></a>
+				<h4><a href="http://www.forbes.com/2010/12/17/self-promotion-jobs-leadership-careers-employment.html">The Right Way To Sell Yourself At Work</a></h4>
+							    </div>
+					                            <ul>
+                                                            <li><a href="http://www.forbes.com/leadership/careers/">Careers</a></li>
+                                                                                            <li><a href="http://www.forbes.com/leadership/citizenship/">Corporate Citizenship</a></li>
+                                                                                            <li><a href="http://www.forbes.com/leadership/managing/">Managing</a></li>
+                                                                                            <li><a href="http://www.forbes.com/ceonetwork/">CEO Network</a></li>
+                                                                                            <li><a href="http://www.forbes.com/cmo-network/">CMO Network</a></li>
+                                                                                            <li><a href="http://www.forbes.com/forbeswoman/">ForbesWoman</a></li>
+                                                                    </ul><ul class="last" >
+                                                                                            <li><a href="http://www.forbes.com/sales-leadership/">Sales Leadership</a></li>
+                                                                                            <li><a href="http://www.forbes.com/thought-leaders/">Thought Leaders</a></li>
+                                                                                    </ul>
+		                 </div>
+        </li>	
+             <li id="ch7" class="channels  chRight   "><a href="http://www.forbes.com/lifestyle/"  class="dropdown" >Lifestyle</a><span></span>
+                <div class="sections clearfix" id="sect7">
+		    						    <div class="header_navpromo">
+				<a href="http://www.forbes.com/2010/11/12/gentlemans-gift-guide-lifestyle-style-gift-guide-10-luxury_land.html"><img src="http://images.forbes.com/media/2010/05/19/0519_drink-james-bond-thoughts_169x99.jpg" alt="The Gentleman's Gift Guide"/></a>
+				<h4><a href="http://www.forbes.com/2010/11/12/gentlemans-gift-guide-lifestyle-style-gift-guide-10-luxury_land.html">The Gentleman's Gift Guide</a></h4>
+				<div class="header_engagement"><a class="red" href="http://rate.forbes.com/comments/CommentServlet?op=cpage&url=2010/11/12/gentlemans-gift-guide-lifestyle-style-gift-guide-10-luxury_land.html&sourcename=story">1 Comments</a></div>			    </div>
+					                            <ul>
+                                                            <li><a href="http://www.forbes.com/business-travel/">Business Travel</a></li>
+                                                                                            <li><a href="http://www.forbes.com/lifestyle/collecting/">Collecting</a></li>
+                                                                                            <li><a href="http://www.forbes.com/lifestyle/health/">Health</a></li>
+                                                                                            <li><a href="http://www.forbes.com/lifestyle/realestate/">Real Estate</a></li>
+                                                                                            <li><a href="http://www.forbes.com/lifestyle/sports/">Sports</a></li>
+                                                                                            <li><a href="http://www.forbes.com/lifestyle/style/">Style</a></li>
+                                                                    </ul><ul class="last" >
+                                                                                            <li><a href="http://www.forbes.com/lifestyle/travel/">Travel</a></li>
+                                                                                            <li><a href="http://www.forbes.com/lifestyle/vehicles/">Vehicles</a></li>
+                                                                                            <li><a href="http://www.forbes.com/lifestyle/wine/">Wine & Food</a></li>
+                                                                                    </ul>
+		                 </div>
+        </li>	
+             <li id="ch8" class="channels  chRight   "><a href="http://www.forbes.com/lists/"  class="dropdown" >Lists</a><span></span>
+                <div class="sections clearfix" id="sect8">
+		    						    <div class="header_navpromo">
+				<a href="http://www.forbes.com/wealth/powerful-people"><img src="http://images.forbes.com/media/2010/12/22/1222_bloomberg-cameron_169x99.jpg" alt="The World's Most Powerful People"/></a>
+				<h4><a href="http://www.forbes.com/wealth/powerful-people">The World's Most Powerful People</a></h4>
+							    </div>
+					                            <ul>
+                                                            <li><a href="http://www.forbes.com/billionaires/">Billionaires</a></li>
+                                                                                            <li><a href="http://www.forbes.com/400richest/">Richest Americans</a></li>
+                                                                                            <li><a href="http://www.forbes.com/celebrities/">Celebrity 100</a></li>
+                                                                                            <li><a href="http://www.forbes.com/power">World's Most Powerful People</a></li>
+                                                                                            <li><a href="http://www.forbes.com/wealth/power-women">World's Most Powerful Women</a></li>
+                                                                                            <li><a href="http://www.forbes.com/forbes2000/">Largest Public Companies</a></li>
+                                                                    </ul><ul class="last" >
+                                                                                            <li><a href="http://www.forbes.com/private/">Largest Private Companies</a></li>
+                                                                                            <li><a href="http://www.forbes.com/colleges">America's Best Colleges</a></li>
+                                                                                            <li><a href="http://www.forbes.com/zips">Most Expensive Zip Codes</a></li>
+                                                                                            <li><a href="http://www.forbes.com/lists/">All Lists</a></li>
+                                                                                    </ul>
+		                 </div>
+        </li>	
+     </ul>        </nav><!-- End: Primary navigation -->
+        <!-- Start: Branding/Search/User Info -->
+        <div id="header_masthead" class="clearfix">
+            <div id="brand_search">
+                 <!-- Start: Magazine Promo -->
+<!-- End: Magazine Promo -->
+<a href="http://www.forbes.com/" id="main_forbes_logo"><img src="http://images.forbes.com/media/assets/header_baked/forbes_logo_main.gif" alt="" width="280" height="70"/></a>
+<!-- Start: User Info -->
+<div id="header_userinfo"><!-- USER-HEADER-MORE-HERE-PREPEND --><div class="last ribbon-item"><a href="/wp-signup.php?redirect_to=http://blogs.forbes.com/andygreenberg/2010/08/30/wikileaks-servers-move-to-underground-nuclear-bunker/" title="Signup">Signup</a></div><div class="ribbon-item"><a href="/wp-login.php?redirect_to=http://blogs.forbes.com/andygreenberg/2010/08/30/wikileaks-servers-move-to-underground-nuclear-bunker/" title="Log in or register">Login</a></div><div class="ribbon-item"><a class="inlink inlink-topnav" href="/help/">Help</a></div><!-- USER-HEADER-MORE-HERE-APPEND -->
+            <a id="login" href="http://members.forbes.com/membership/signup.jhtml">Login</a>
+    </div>
+<!-- End: User Info -->
+<!-- Start: Searchbox  -->
+<div id="header_search">
+        <form action="http://search.forbes.com/search/find">
+                <div class="hs_inputbox">
+                        <input type="hidden" value="searchtabgeneraldark" name="tab"/>
+                        <input type="text" class="hs_form_text" value="Search news, business leaders, and stock quotes" name="MT"/>
+                        <input type="submit" class="hs_form_sub"/>
+                </div>
+        </form>
+
+</div>
+<!-- End: Searchbox -->
+            </div>
+        <!-- End: Branding/Search/User Info -->        
+                     <!-- Start: Magazine Promo -->
+            <div id="header_magazines">
+    <div id="header_subscriber">
+        <a href="http://www.forbes.com/fdc/subservices.html">Free Issue &gt;</a>
+    </div>
+</div>
+            <!-- End: Magazine Promo -->
+            </div>
+            <!-- Start: Header Promos -->
+            <div id="header_promos" class="clearfix">
+    <dl id="header_promo" class="clearfix">
+                    <dt><a href="http://www.forbes.com/need-to-know/"><img src="http://images.forbes.com/media/2010/12/01/1201_names-need-know-collage_47x28.jpg" alt="Names You Need To Know 2011" width="47" height="28"/></a></dt>
+            <dd><a href="http://www.forbes.com/need-to-know/">Names You Need To Know 2011</a></dd>
+                    <dt><a href="http://www.forbes.com/2010/12/16/lakers-nets-blazers-magic-business-sports-nba-billionaires_slide.html"><img src="http://images.forbes.com/media/2010/12/17/1217_nba-paul-allen-trail-blazers_47x28.jpg" alt="NBA's Billionaires" width="47" height="28"/></a></dt>
+            <dd><a href="http://www.forbes.com/2010/12/16/lakers-nets-blazers-magic-business-sports-nba-billionaires_slide.html"><span class="multimedia">Gallery:</span> NBA's Billionaires</a></dd>
+                    <dt><a href="http://www.forbes.com/2010/12/16/investing-books-make-you-rich-intelligent-investing_slide.html"><img src="http://images.forbes.com/media/2010/12/15/1215_intelligent-investor-graham_47x28.jpg" alt="Books That Will Make You Rich" width="47" height="28"/></a></dt>
+            <dd><a href="http://www.forbes.com/2010/12/16/investing-books-make-you-rich-intelligent-investing_slide.html"><span class="multimedia">Gallery:</span> Books That Will Make You Rich</a></dd>
+                    <dt><a href="http://blogs.forbes.com/sap/2010/12/22/the-evolution-of-sap-runs-sap/"><img src="http://images.forbes.com/media/2010/11/11/1111_arrow_47.jpg" alt="AdVoice: The Evolution Of SAP" width="47" height="28"/></a></dt>
+            <dd><a href="http://blogs.forbes.com/sap/2010/12/22/the-evolution-of-sap-runs-sap/">AdVoice: The Evolution Of SAP</a></dd>
+            </dl>
+</div>            <!-- End: Header Promos -->
+            </div>
+            
+            <div id="header_fakeit"></div>
+    </header><!-- End: header -->
+
+
+
+<!-- End Forbes Header -->
+<div id="page" class="contribpage">
+
+<!-- need site vs blog conditionals for header, need to set page class sitehome -->
+<div id="header" class="clearfix">
+	<!-- sitenav goes here include('site_nav_header.php'); -->
+    <!-- this is the SITE header -->
+    <!-- Bruner adding the class attribute to siteheader div below in order to match /tsone/header.php -->
+	<div id="siteheader">
+
+		<div class="siteribbon">
+    <div class="ribbon-left"><a href="/headline-grabs/" class="headline_grabs inlink inlink-topnav"><span>Headline Grabs</span></a></div>    
+    <div class="ribbon-left"><a href="/contributor-index/" class="contributors inlink inlink-topnav"><span>Contributors</span></a></div>
+    <div class="ribbon-left"><a href="/topics/" class="topics inlink inlink-topnav"><span>Topics</span></a></div>
+    <div class="ribbon-left"><a href="/network/today/allactivity/" class="ts_network_activity inlink inlink-topnav"><span>Live Stream</span></a></div>
+</div>	
+		<!-- this is the BLOG header -->
+		<div id="headerstrip">
+			<div class="ribbon-left">
+				<div class="user-links-ribbon">
+									<a class="user-link" id="editors_picks" href="/">Editor's Picks</a>
+									</div>
+			</div>
+		</div>
+    </div>
+</div>
+
+<div id="middle" class="clearfix">
+
+<!-- activity top -->
+
+<div id="latest">
+	<div class="box"><div id="active_topics_main_slider" class="sliderbox"><div class="scrollable active_topics_main_slider"><ul class="box_items" id="active_topics_main"><li><div class="topiccontainer nethead-twonopic "><div class="stories"><div class="topicstory story_1"><div class="updated">2 days ago</div><h3><a  class="inlink inlink-nethead1-all" href="http://blogs.forbes.com/walterpavlo/2010/12/24/ernst-young-cuomo-initiates-settlement-talks-with-filing/" title="link to Ernst &amp; Young &#8212; Cuomo Initiates Settlement Talks With Filing">Ernst &amp; Young -- Cuomo Initiates Settlement Talks With Filing</a></h3><a class="contrib blogtype-individual contrib-nopic" href="http://blogs.forbes.com/walterpavlo/"><span class="title"><span class="blog_author">Walter Pavlo</span><span class="blog_title">White-Collar Crime</span></span></a></div><div class="topicstory story_2"><div class="updated">Yesterday</div><h3><a  class="inlink inlink-nethead2-all" href="http://blogs.forbes.com/mikemalone/2010/12/25/yes-virginia/" title="link to Yes, Virginia . . .">Yes, Virginia . . .</a></h3><a class="contrib blogtype-individual contrib-nopic" href="http://blogs.forbes.com/mikemalone/"><span class="title"><span class="blog_author">Michael S. Malone</span><span class="blog_title">Silicon Dreams</span></span></a></div></div></div></li></ul><div class="clearboth">&nbsp;</div></div></div></div>
+	<div class="pushdown">&nbsp;</div>
+</div>
+
+
+	<div class="leaderboard_right">
+		<script type="text/javascript">
+			OAS_AD('BigBanner');
+		</script>
+	</div>
+
+
+<div id="container">
+        	<div id="main_left">
+	        	<div id="contrib_intro">
+            	<div class="contrib_photo">
+                    <div class="crop">
+                        <img alt='Andy Greenberg' src='http://blogs-images.forbes.com/assets/images/avatars/agreenberg_136.jpg' class='avatar avatar-136 photo avatar-default' height='136' width='136' />                    </div>
+                    <div title="Click to follow Andy Greenberg" class="newfollow underpic newfollow-underpic follow-contrib-106"><span>Follow Me</span></div>                </div>
+				
+				<div class="contrib_name_and_title">
+                	<h2><a href="http://blogs.forbes.com/andygreenberg/">Andy Greenberg</a></h2>
+                	<h3><a href="http://blogs.forbes.com/andygreenberg/">The Firewall</a></h3>
+				</div>
+				
+                <ul>
+                                        <li class="profile"><a href="/people/agreenberg/">My Profile</a></li>
+					<li class="headlinegrabs"><a href="http://blogs.forbes.com/andygreenberg/headline-grabs/">My Headline Grabs</a></li>
+                    <li class="rss"><a href="http://blogs.forbes.com/andygreenberg/feed/">My RSS Feed</a></li>
+                </ul>
+                <br clear="all" />
+            </div>
+	<hr />
+
+	
+	
+		<div class="post" id="post-504">
+				<h3 class="slug">Security</h3>         		<div class="votecolumn"><div id="socialvotestarget"><!-- waiting to be replaced --></div></div>
+ 
+		<h1 class="post-title">Wikileaks Servers Move To Underground Nuclear Bunker</h1>
+
+            	<div class="date_stamp">Aug. <span class="bigday">30</span>
+					2010 - 3:27 pm | 
+                    <span class="views">22,487 views</span>
+                    | <span class="recommends">2 recommendations</span>
+		| <span class="comments">36 <a href="#post_comments">comments</a></span>
+                </div>
+
+
+			<div class="post-byline post-byline-individual">By ANDY GREENBERG</div>
+			<div class="entry">
+				<p><a href="http://blogs.forbes.com/andygreenberg/files/2010/08/wikleaksbunker.jpg"><img class="alignright size-medium wp-image-505" title="wikleaksbunker" src="http://blogs-images.forbes.com/andygreenberg/files/2010/08/wikleaksbunker-300x210.jpg" alt="" width="300" height="210" /></a>Internet service providers often tell their clients that they offer &#8220;bullet-proof hosting.&#8221; Whistle-blower organization Wikileaks, it seems, will settle for nothing less than &#8220;bomb-proof.&#8221;</p>
+<p>Some portion of Wikileaks&#8217; servers have been moved to the &#8220;Pionen&#8221; White Mountains data center owned by Swedish broadband provider Bahnhof, as <a href="http://www.vg.no/nyheter/utenriks/artikkel.php?artid=10018210">first reported</a> by Norwegian news site VG Nett last Friday. That data center will store Wikileaks&#8217; data 30 meters below ground inside a Cold-War-era nuclear bunker carved out of a large rock hill in downtown Stockholm. The server farm has a single entrance and is outfitted by half-meter thick metal doors and backup generators pulled from German submarines&#8211;fitting safeguards, perhaps, for an organization that raised the ire of several powerful military forces last month when it released thousands of classified Afghanistan war documents.</p>
+<p>Here&#8217;s a video tour from the IT organization Data Center Pulse filmed in 2008, showing a super-secure facility it describes as worthy of &#8220;a James Bond villain.&#8221;<br />
+<object type="application/x-shockwave-flash" width="520" height="316" data="http://www.youtube.com/v/qwlATf9xse4&amp;rel=0"><param name="movie" value="http://www.youtube.com/v/qwlATf9xse4&amp;rel=0" /><param name="wmode" value="transparent" /><param name="quality" value="high" /></object><span id="more-504"></span></p>
+<p>Earlier in August the copyright-flouting Swedish Pirate Party began hosting Wikileaks&#8217; IT operations, and it&#8217;s not clear exactly why it&#8217;s chosen to move Wikileaks&#8217; servers to the Pionen facility. The threat of law enforcement physically seizing or destroying the organization&#8217;s equipment, after all, is much less likely than a legal attempt to gain direct access to Wikileaks&#8217; data. Last year the Swedish government put a crack in the country&#8217;s strong free speech protections when it passed a controversial law allowing surveillance of Internet traffic by the FRA, a law enforcement agency.</p>
+<p>But Stockholm-based Bahnhof executive Jon Karlung tells me in an interview that the company&#8217;s data center is &#8220;a kind of metaphor&#8221; for Bahnhof&#8217;s commitment to resist any sort of intrusion, physical or legal. &#8220;We&#8217;re proud to have clients like these,&#8221; he says. &#8220;The Internet should be an open source for freedom of speech, and the role of an ISP is to be a neutral technological tool of access, not an instrument for collecting information from customers.&#8221;</p>
+<p>Karlung says Bahnhof has not yet complied with Sweden&#8217;s new FRA surveillance law. &#8220;We have an unbroken chain of fiber-optic cables that cover 2,300 kilometers,&#8221; says Karlung. &#8220;We&#8217;re positive that [government agencies] haven&#8217;t installed any equipment yet. That day will come, and when it does we&#8217;ll inform all clients that they&#8217;re surveilled by the Swedish government.&#8221;</p>
+<p>Wikileaks has likely spread its servers well beyond any single data center, including other facilities in Sweden and Iceland, and it&#8217;s also <a href="http://www.wired.com/threatlevel/2010/07/wikileaks-insurance-file/">posted an encrypted file</a> labeled &#8220;insurance&#8221; on its site, <a href="http://cryptome.org/0002/wl-diary-mirror.htm">potentially to be used</a> as a threat of further data spillage aimed at preventing attacks on the site or its volunteer staff.</p>
+<p>In the coming weeks, Wikileaks has said it will release another 15,000 documents related to the war in Afghanistan. As the controversy around the site mounts, it may need every protection it can find.</p>
+
+							</div>
+				
+              <div class="post-meta">
+                		<div class="itemactions">
+			<span title='Click to Star this item' class='newclip clip-item-post-948-504'>Star</span><span title='Click to remove this item from this section' class='remove clip-item-post-948-504'>Remove</span><span title='Click to make this item a Pick' class='pick pick-item-post-948-504'>Pick</span><span title='Click to remove this item from Picks' class='unpick pick-item-post-948-504'>unPick</span>		</div>
+                <ul class="basic-meta">
+		<li class="recommendmeta">
+		<a title="Recommend this post" class="recommend-post recommend-post-504-948" href="#">Recommend</a>				</li>
+                <li class="sharemeta"> 
+			                    	
+<div class="sociable">
+
+<ul>
+	<li><a rel="nofollow" target="_blank" class="outlink outlink-sociable" href="http://buzz.yahoo.com/submit/?submitUrl=http%3A%2F%2Fblogs.forbes.com%2Fandygreenberg%2F2010%2F08%2F30%2Fwikileaks-servers-move-to-underground-nuclear-bunker%2F&amp;submitHeadline=Wikileaks%20Servers%20Move%20To%20Underground%20Nuclear%20Bunker&amp;submitSummary=As the whistle-blower site prepares to release another trove of classified documents, it's looking for every protection it can find.&amp;submitCategory=news&amp;submitAssetType=text" title="Share with Buzz Up!"><img src="http://blogs-images.forbes.com/assets/images/yahoo-buzz-16x16.png" title="Buzz Up!" alt="Buzz Up!" class="sociable-hovers" /><span class="sociable_name">Buzz Up!</span></a></li>
+	<li><a rel="nofollow" target="_blank" class="outlink outlink-sociable" href="http://reddit.com/submit?url=http%3A%2F%2Fblogs.forbes.com%2Fandygreenberg%2F2010%2F08%2F30%2Fwikileaks-servers-move-to-underground-nuclear-bunker%2F&amp;title=Wikileaks%20Servers%20Move%20To%20Underground%20Nuclear%20Bunker" title="Share with Reddit"><img src="http://blogs-images.forbes.com/assets/images/reddit.png" title="Reddit" alt="Reddit" class="sociable-hovers" /><span class="sociable_name">Reddit</span></a></li>
+	<li><a rel="nofollow" target="_blank" class="outlink outlink-sociable" href="http://www.stumbleupon.com/submit?url=http%3A%2F%2Fblogs.forbes.com%2Fandygreenberg%2F2010%2F08%2F30%2Fwikileaks-servers-move-to-underground-nuclear-bunker%2F&amp;title=Wikileaks%20Servers%20Move%20To%20Underground%20Nuclear%20Bunker" title="Share with StumbleUpon"><img src="http://blogs-images.forbes.com/assets/images/stumbleupon.png" title="StumbleUpon" alt="StumbleUpon" class="sociable-hovers" /><span class="sociable_name">StumbleUpon</span></a></li>
+	<li><a rel="nofollow" target="_blank" class="outlink outlink-sociable" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fblogs.forbes.com%2Fandygreenberg%2F2010%2F08%2F30%2Fwikileaks-servers-move-to-underground-nuclear-bunker%2F&amp;t=Wikileaks%20Servers%20Move%20To%20Underground%20Nuclear%20Bunker" title="Share with Facebook"><img src="http://blogs-images.forbes.com/assets/images/facebook.png" title="Facebook" alt="Facebook" class="sociable-hovers" /><span class="sociable_name">Facebook</span></a></li>
+	<li><a rel="nofollow" target="_blank" class="outlink outlink-sociable" href="http://twitter.com/home?status=http%3A%2F%2Fblogs.forbes.com%2Fandygreenberg%2F2010%2F08%2F30%2Fwikileaks-servers-move-to-underground-nuclear-bunker%2F" title="Share with Twitter"><img src="http://blogs-images.forbes.com/assets/images/twitter.gif" title="Twitter" alt="Twitter" class="sociable-hovers" /><span class="sociable_name">Twitter</span></a></li>
+	<li><a rel="nofollow" target="_blank" class="outlink outlink-sociable" href="mailto:?subject=Wikileaks%20Servers%20Move%20To%20Underground%20Nuclear%20Bunker&amp;body=http%3A%2F%2Fblogs.forbes.com%2Fandygreenberg%2F2010%2F08%2F30%2Fwikileaks-servers-move-to-underground-nuclear-bunker%2F" title="Share with Email this"><img src="http://blogs-images.forbes.com/assets/images/email_link.png" title="Email this" alt="Email this" class="sociable-hovers" /><span class="sociable_name">Email this</span></a></li>
+</ul>
+</div>
+                    			</li>
+                </ul>
+		<div class="clearboth">&nbsp;</div>
+		<div class="navigation storynav">
+			<div class="alignleft">Previous Post: <a href="http://blogs.forbes.com/andygreenberg/2010/08/27/indian-researcher-who-showed-e-voting-security-flaws-jailed-denied-bail-charged-with-theft/" rel="prev">Indian Researcher Who Showed E-Voting Security Flaws Jailed, Denied Bail, Charged With Theft</a></div>
+			<div class="alignright">Next Post: <a href="http://blogs.forbes.com/andygreenberg/2010/08/31/ibm-names-itself-worst-company-for-fixing-critical-software-security-bugs/" rel="next">IBM Names Itself Worst Company For Fixing Critical Software Security Bugs</a></div>
+			<div class="clearboth">&nbsp;</div>
+		</div>
+		                <div class="topicsmeta-single">
+                    <h3>More on Forbes Right Now</h3>
+
+<ul id="more_on_ts_now">
+	<li class="left">
+		<div class="yarpp_target yarpp-post-948-504">&nbsp;</div>	
+	</li>
+	<li class="right">
+		
+		<!-- list --><a href="/topics/"><img src="/assets/images/ts_live_streams_plural.png" alt="Live Streams" style="margin-bottom: 15px;" /></a><h4>Related streams</h4> <ul class="small_streams"><li><a class="stream inlink inlink-posttopics" href="/topics/cio-network/">CIO Network</a></li> <li><a class="stream inlink inlink-posttopics" href="/topics/tech/">Tech</a></li></ul>		<!-- <p>'s Categories: <a href="http://blogs.forbes.com/andygreenberg/category/tech/cio-network/" title="View all posts in CIO Network" rel="category tag">CIO Network</a>,  <a href="http://blogs.forbes.com/andygreenberg/category/tech/security/" title="View all posts in Security" rel="category tag">Security</a>,  <a href="http://blogs.forbes.com/andygreenberg/category/tech/" title="View all posts in Tech" rel="category tag">Tech</a>,  <a href="http://blogs.forbes.com/andygreenberg/category/bylineandy-greenberg/" title="View all posts in byline=Andy Greenberg" rel="category tag">byline=Andy Greenberg</a>,  <a href="http://blogs.forbes.com/andygreenberg/category/ticker/tickernasdaqcsco/" title="View all posts in ticker=NASDAQ:CSCO" rel="category tag">ticker=NASDAQ:CSCO</a>,  <a href="http://blogs.forbes.com/andygreenberg/category/tickernasdaqgoog/" title="View all posts in ticker=NASDAQ:GOOG" rel="category tag">ticker=NASDAQ:GOOG</a>,  <a href="http://blogs.forbes.com/andygreenberg/category/tickernasdaqmsft/" title="View all posts in ticker=NASDAQ:MSFT" rel="category tag">ticker=NASDAQ:MSFT</a>,  <a href="http://blogs.forbes.com/andygreenberg/category/ticker/tickernyseibm/" title="View all posts in ticker=NYSE:IBM" rel="category tag">ticker=NYSE:IBM</a>,  <a href="http://blogs.forbes.com/andygreenberg/category/ticker/tickernysejnpr/" title="View all posts in ticker=NYSE:JNPR" rel="category tag">ticker=NYSE:JNPR</a></p> -->
+				<div class="clearboth">&nbsp;</div>
+			</li>
+</ul>
+<br clear="all"/>
+
+                </div>
+            </div>
+		<br clear="all"/>
+
+	
+<!-- 2.7 You can start editing here. -->
+
+<div id="post_comments">
+	
+	<h3 id="comments">Comments</h3>
+	
+	<div class="comments_nav_left filteron">
+		DISPLAY		<br/>
+		<a class="calledoutonly" href="#" title="Click to display only Called-out and Contributor comments">Called-Out Comments</a>
+		<a class="showall" href="#" title="Click to display all comments">All comments</a>
+	</div>
+	<div class="comments_nav_right">
+		<div id="post-conv-504" class="activeconversation"><span class="conv"><span>Active Conversation</span></span></div>		One Called-out Comment, 			36 Total Comments 
+		<br/>
+					<a href="#respond">Post your comment &raquo;</a>
+			</div>
+	<div class="navigation">
+		</div>
+	
+	<div class="clearboth">&nbsp;</div>
+	
+		
+		<ol class="commentlist filteron">
+		        <li class="pingback even thread-even depth-1 collapsed" id="comment-684">
+                <div class="comment-div" id="div-comment-684">
+        		<div class="comment-collapse">
+			<a href="#" class="collapse-from-here collapse-comment-684"><img alt="collapse" src="/assets/images/icon-comment-expanded.png"/></a>
+			<a href="#" class="expand-from-here expand-comment-684"><img alt="expand" src="/assets/images/icon-comment-collapsed.png"/></a>
+		</div>
+                <div class="comment-meta commentmetadata"><a href="http://blogs.forbes.com/andygreenberg/2010/08/30/wikileaks-servers-move-to-underground-nuclear-bunker/comment-page-1/#comment-684">4:59 pm on 08/30/10</a> </div>
+
+                <div class="comment-author vcard ">
+                <a class="trackback_link" href="http://thenextweb.com/eu/2010/08/30/wikileaks-now-hosted-from-an-underground-nuclear-bunker/" target="_blank">Pingback: Wikileaks now hosted from an underground nuclear bunker</a>                </div>
+
+
+                <p>[...] Greenberg at Forbes has picked up on a Norwegian report that Wikileaks&#8216; servers are now hosted in Sweden&#8217;s Pionen [...]</p>
+
+		
+                <div class="reply">
+                <a rel="nofollow" class="comment-reply-login" href="http://blogs.forbes.com/wp-login.php?redirect_to=http%3A%2F%2Fblogs.forbes.com%2Fandygreenberg%2F2010%2F08%2F30%2Fwikileaks-servers-move-to-underground-nuclear-bunker%2F">Log in to Reply</a>                </div>
+		<div class="flag">
+		<a class="abuse_popup_link abuse-684" href="mailto:blogadmin@forbes.com" title="Flag this comment for review">Flag for abuse</a>		</div>
+                                </div>
+                </li>
+        <li class="comment byuser comment-author-bcaulfield odd alt thread-odd thread-alt depth-1 parent bycontributor" id="comment-688">
+                <div class="comment-div" id="div-comment-688">
+        		<div class="comment-collapse">
+			<a href="#" class="collapse-from-here collapse-comment-688"><img alt="collapse" src="/assets/images/icon-comment-expanded.png"/></a>
+			<a href="#" class="expand-from-here expand-comment-688"><img alt="expand" src="/assets/images/icon-comment-collapsed.png"/></a>
+		</div>
+                <div class="comment-meta commentmetadata"><a href="http://blogs.forbes.com/andygreenberg/2010/08/30/wikileaks-servers-move-to-underground-nuclear-bunker/comment-page-1/#comment-688">6:50 pm on 08/30/10</a> </div>
+
+                <div class="comment-author vcard commenter-contrib">
+                <a class="contrib blogtype-individual contrib-62" href="http://blogs.forbes.com/briancaulfield/"><span class="croppic"><span class="pic"><img alt='Brian Caulfield' src='http://blogs-images.forbes.com/cache/gravatars/bcaulfield_62.jpg' class='avatar avatar-62 photo avatar-default' height='62' width='62' /></span></span> <span class="title"><span class="blog_author">Brian Caulfield</span> <span class="blog_title">Velocity</span></span></a>                </div>
+
+
+                <p>This is just cool. That&#8217;s all I&#8217;ve got to say.</p>
+
+		
+                <div class="reply">
+                <a rel="nofollow" class="comment-reply-login" href="http://blogs.forbes.com/wp-login.php?redirect_to=http%3A%2F%2Fblogs.forbes.com%2Fandygreenberg%2F2010%2F08%2F30%2Fwikileaks-servers-move-to-underground-nuclear-bunker%2F">Log in to Reply</a>                </div>
+		<div class="flag">
+		<a class="abuse_popup_link abuse-688" href="mailto:blogadmin@forbes.com" title="Flag this comment for review">Flag for abuse</a>		</div>
+                                </div>
+                <ul class='children'>
+        <li class="comment byuser comment-author-agreenberg bypostauthor even depth-2 parent bycontributor" id="comment-690">
+                <div class="comment-div" id="div-comment-690">
+        		<div class="comment-collapse">
+			<a href="#" class="collapse-from-here collapse-comment-690"><img alt="collapse" src="/assets/images/icon-comment-expanded.png"/></a>
+			<a href="#" class="expand-from-here expand-comment-690"><img alt="expand" src="/assets/images/icon-comment-collapsed.png"/></a>
+		</div>
+                <div class="comment-meta commentmetadata"><a href="http://blogs.forbes.com/andygreenberg/2010/08/30/wikileaks-servers-move-to-underground-nuclear-bunker/comment-page-1/#comment-690">7:25 pm on 08/30/10</a> </div>
+
+                <div class="comment-author vcard commenter-contrib">
+                <a class="contrib blogtype-individual contrib-62" href="http://blogs.forbes.com/andygreenberg/"><span class="croppic"><span class="pic"><img alt='Andy Greenberg' src='http://blogs-images.forbes.com/assets/images/avatars/agreenberg_62.jpg' class='avatar avatar-62 photo avatar-default' height='62' width='62' /></span></span> <span class="title"><span class="blog_author">Andy Greenberg</span> <span class="blog_title">The Firewall</span></span></a>                </div>
+
+
+                <p>I suppose it&#8217;s more evidence, as the Guardian first reported, that Julian Assange may be a Bond villain.</p>
+<p><a href="http://www.guardian.co.uk/media/2010/aug/01/julian-assange-wikileaks-afghanistan" rel="nofollow">http://www.guardian.co.uk/media/2010/aug/01/julian-assange-wikileaks-afghanistan</a></p>
+
+				<em class="incontext">In response to another comment. <a class="expand-to-here expand-to-comment-690" href="#">See in context &raquo;</a></em>
+		
+                <div class="reply">
+                <a rel="nofollow" class="comment-reply-login" href="http://blogs.forbes.com/wp-login.php?redirect_to=http%3A%2F%2Fblogs.forbes.com%2Fandygreenberg%2F2010%2F08%2F30%2Fwikileaks-servers-move-to-underground-nuclear-bunker%2F">Log in to Reply</a>                </div>
+		<div class="flag">
+		<a class="abuse_popup_link abuse-690" href="mailto:blogadmin@forbes.com" title="Flag this comment for review">Flag for abuse</a>		</div>
+                                </div>
+                <ul class='children'>
+        <li class="comment byuser comment-author-sschaefer odd alt depth-3 parent bycontributor" id="comment-716">
+                <div class="comment-div" id="div-comment-716">
+        		<div class="comment-collapse">
+			<a href="#" class="collapse-from-here collapse-comment-716"><img alt="collapse" src="/assets/images/icon-comment-expanded.png"/></a>
+			<a href="#" class="expand-from-here expand-comment-716"><img alt="expand" src="/assets/images/icon-comment-collapsed.png"/></a>
+		</div>
+                <div class="comment-meta commentmetadata"><a href="http://blogs.forbes.com/andygreenberg/2010/08/30/wikileaks-servers-move-to-underground-nuclear-bunker/comment-page-1/#comment-716">12:09 pm on 08/31/10</a> </div>
+
+                <div class="comment-author vcard commenter-contrib">
+                <a class="contrib blogtype-individual contrib-62" href="http://blogs.forbes.com/steveschaefer/"><span class="croppic"><span class="pic"><img alt='Steve Schaefer' src='http://blogs-images.forbes.com/assets/images/avatars/sschaefer_62.jpg' class='avatar avatar-62 photo avatar-default' height='62' width='62' /></span></span> <span class="title"><span class="blog_author">Steve Schaefer</span> <span class="blog_title">Exile On Wall Street</span></span></a>                </div>
+
+
+                <p>That&#8217;s the easy part to figure out Andy. The tricky part is which Bond villain. Blofeld perhaps? Or maybe Elliot Carver, the one who tried to start a UK/China war to generate headlines for his media outfit in one of the Pierce Brosnan Bond films?</p>
+
+				<em class="incontext">In response to another comment. <a class="expand-to-here expand-to-comment-716" href="#">See in context &raquo;</a></em>
+		
+                <div class="reply">
+                <a rel="nofollow" class="comment-reply-login" href="http://blogs.forbes.com/wp-login.php?redirect_to=http%3A%2F%2Fblogs.forbes.com%2Fandygreenberg%2F2010%2F08%2F30%2Fwikileaks-servers-move-to-underground-nuclear-bunker%2F">Log in to Reply</a>                </div>
+		<div class="flag">
+		<a class="abuse_popup_link abuse-716" href="mailto:blogadmin@forbes.com" title="Flag this comment for review">Flag for abuse</a>		</div>
+                                </div>
+                <ul class='children'>
+        <li class="comment byuser comment-author-chelman even depth-4 bycontributor" id="comment-773">
+                <div class="comment-div" id="div-comment-773">
+        		<div class="comment-collapse">
+			<a href="#" class="collapse-from-here collapse-comment-773"><img alt="collapse" src="/assets/images/icon-comment-expanded.png"/></a>
+			<a href="#" class="expand-from-here expand-comment-773"><img alt="expand" src="/assets/images/icon-comment-collapsed.png"/></a>
+		</div>
+                <div class="comment-meta commentmetadata"><a href="http://blogs.forbes.com/andygreenberg/2010/08/30/wikileaks-servers-move-to-underground-nuclear-bunker/comment-page-1/#comment-773">10:49 pm on 09/03/10</a> </div>
+
+                <div class="comment-author vcard commenter-contrib">
+                <a class="contrib blogtype-individual contrib-62" href="http://blogs.forbes.com/christopherhelman/"><span class="croppic"><span class="pic"><img alt='Christopher Helman' src='http://blogs-images.forbes.com/assets/images/avatars/chelman_62.jpg' class='avatar avatar-62 photo avatar-default' height='62' width='62' /></span></span> <span class="title"><span class="blog_author">Christopher Helman</span> <span class="blog_title">Southwest Bureau</span></span></a>                </div>
+
+
+                <p>who was the bond villain with the extraneous third nipple &#8212; the man with the golden gun? now his tropical island was one dope hideout. i&#8217;m thinking assange wanted the bunker cuz it would be a safe place to bring his swedish lady friends.</p>
+
+				<em class="incontext">In response to another comment. <a class="expand-to-here expand-to-comment-773" href="#">See in context &raquo;</a></em>
+		
+                <div class="reply">
+                <a rel="nofollow" class="comment-reply-login" href="http://blogs.forbes.com/wp-login.php?redirect_to=http%3A%2F%2Fblogs.forbes.com%2Fandygreenberg%2F2010%2F08%2F30%2Fwikileaks-servers-move-to-underground-nuclear-bunker%2F">Log in to Reply</a>                </div>
+		<div class="flag">
+		<a class="abuse_popup_link abuse-773" href="mailto:blogadmin@forbes.com" title="Flag this comment for review">Flag for abuse</a>		</div>
+                                </div>
+                </li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+        <li class="pingback odd alt thread-even depth-1 collapsed" id="comment-691">
+                <div class="comment-div" id="div-comment-691">
+        		<div class="comment-collapse">
+			<a href="#" class="collapse-from-here collapse-comment-691"><img alt="collapse" src="/assets/images/icon-comment-expanded.png"/></a>
+			<a href="#" class="expand-from-here expand-comment-691"><img alt="expand" src="/assets/images/icon-comment-collapsed.png"/></a>
+		</div>
+                <div class="comment-meta commentmetadata"><a href="http://blogs.forbes.com/andygreenberg/2010/08/30/wikileaks-servers-move-to-underground-nuclear-bunker/comment-page-1/#comment-691">7:28 pm on 08/30/10</a> </div>
+
+                <div class="comment-author vcard ">
+                <a class="trackback_link" href="http://thedailyconservative.net/2010/08/30/wikileaks-servers-move-to-underground-nuclear-bunker-andy/" target="_blank">Pingback: Wikileaks Servers Move To Underground Nuclear Bunker &#8211; Andy &#8230; | The Daily Conservative</a>                </div>
+
+
+                <p>[...] is the original post: Wikileaks Servers Move To Underground Nuclear Bunker &#8211; Andy &#8230;   Share and [...]</p>
+
+		
+                <div class="reply">
+                <a rel="nofollow" class="comment-reply-login" href="http://blogs.forbes.com/wp-login.php?redirect_to=http%3A%2F%2Fblogs.forbes.com%2Fandygreenberg%2F2010%2F08%2F30%2Fwikileaks-servers-move-to-underground-nuclear-bunker%2F">Log in to Reply</a>                </div>
+		<div class="flag">
+		<a class="abuse_popup_link abuse-691" href="mailto:blogadmin@forbes.com" title="Flag this comment for review">Flag for abuse</a>		</div>
+                                </div>
+                </li>
+        <li class="comment byuser comment-author-jannlipka even thread-odd thread-alt depth-1 curated bymember" id="comment-698">
+                <div class="comment-div" id="div-comment-698">
+        		<div class="comment-collapse">
+			<a href="#" class="collapse-from-here collapse-comment-698"><img alt="collapse" src="/assets/images/icon-comment-expanded.png"/></a>
+			<a href="#" class="expand-from-here expand-comment-698"><img alt="expand" src="/assets/images/icon-comment-collapsed.png"/></a>
+		</div>
+                <div class="comment-meta commentmetadata"><a href="http://blogs.forbes.com/andygreenberg/2010/08/30/wikileaks-servers-move-to-underground-nuclear-bunker/comment-page-1/#comment-698">1:29 am on 08/31/10</a> </div>
+
+                <div class="comment-author vcard commenter-member">
+                <div class="croppic"><a href="/people/jannlipka/" title="jannlipka"><!-- found cached --><img alt='jannlipka' src='http://blogs-images.forbes.com/cache/gravatars/jannlipka_40.jpg' class='avatar avatar-40 photo avatar-default' height='40' width='40' /></a></div><a href="/people/jannlipka/">jannlipka</a>                </div>
+
+
+                <p>You can get a Hires visual on<br />
+Bahnhof  / Wikileaks servers watching those 360 VR  50 Megapixel panoramas I shot recently at Pionen.</p>
+<p><a href="http://www.fotograf.nu/360/bahnhof/" rel="nofollow">http://www.fotograf.nu/360/bahnhof/</a></p>
+<p>regards</p>
+<p>PS:<br />
+Those are fast loading Flash panos &#8211; unfortunately not for Iphone/Ipad</p>
+
+		
+                <div class="reply">
+                <a rel="nofollow" class="comment-reply-login" href="http://blogs.forbes.com/wp-login.php?redirect_to=http%3A%2F%2Fblogs.forbes.com%2Fandygreenberg%2F2010%2F08%2F30%2Fwikileaks-servers-move-to-underground-nuclear-bunker%2F">Log in to Reply</a>                </div>
+		<div class="flag">
+		<a class="abuse_popup_link abuse-698" href="mailto:blogadmin@forbes.com" title="Flag this comment for review">Flag for abuse</a>		</div>
+                                </div>
+                </li>
+        <li class="pingback odd alt thread-even depth-1 collapsed" id="comment-704">
+                <div class="comment-div" id="div-comment-704">
+        		<div class="comment-collapse">
+			<a href="#" class="collapse-from-here collapse-comment-704"><img alt="collapse" src="/assets/images/icon-comment-expanded.png"/></a>
+			<a href="#" class="expand-from-here expand-comment-704"><img alt="expand" src="/assets/images/icon-comment-collapsed.png"/></a>
+		</div>
+                <div class="comment-meta commentmetadata"><a href="http://blogs.forbes.com/andygreenberg/2010/08/30/wikileaks-servers-move-to-underground-nuclear-bunker/comment-page-1/#comment-704">7:31 am on 08/31/10</a> </div>
+
+                <div class="comment-author vcard ">
+                <a class="trackback_link" href="http://www.thaiitstory.com/wikileaks-%e0%b8%a2%e0%b9%89%e0%b8%b2%e0%b8%a2%e0%b9%80%e0%b8%8b%e0%b8%b4%e0%b8%a3%e0%b9%8c%e0%b8%9f%e0%b9%80%e0%b8%a7%e0%b8%ad%e0%b8%a3%e0%b9%8c%e0%b9%84%e0%b8%9b%e0%b8%ad%" target="_blank">Pingback: Wikileaks ย้ายเซิร์ฟเวอร์ไปอยู่ในหลุมหลบภัยนิวเคลียร์ | ข่าวไอที ข่าวเทคโนโลยี ข่าวคอมพิวเตอร์ </a>                </div>
+
+
+                <p>[...] ที่มา &#8211; Forbes [...]</p>
+
+		
+                <div class="reply">
+                <a rel="nofollow" class="comment-reply-login" href="http://blogs.forbes.com/wp-login.php?redirect_to=http%3A%2F%2Fblogs.forbes.com%2Fandygreenberg%2F2010%2F08%2F30%2Fwikileaks-servers-move-to-underground-nuclear-bunker%2F">Log in to Reply</a>                </div>
+		<div class="flag">
+		<a class="abuse_popup_link abuse-704" href="mailto:blogadmin@forbes.com" title="Flag this comment for review">Flag for abuse</a>		</div>
+                                </div>
+                </li>
+        <li class="pingback even thread-odd thread-alt depth-1 collapsed" id="comment-705">
+                <div class="comment-div" id="div-comment-705">
+        		<div class="comment-collapse">
+			<a href="#" class="collapse-from-here collapse-comment-705"><img alt="collapse" src="/assets/images/icon-comment-expanded.png"/></a>
+			<a href="#" class="expand-from-here expand-comment-705"><img alt="expand" src="/assets/images/icon-comment-collapsed.png"/></a>
+		</div>
+                <div class="comment-meta commentmetadata"><a href="http://blogs.forbes.com/andygreenberg/2010/08/30/wikileaks-servers-move-to-underground-nuclear-bunker/comment-page-1/#comment-705">8:54 am on 08/31/10</a> </div>
+
+                <div class="comment-author vcard ">
+                <a class="trackback_link" href="http://eyewar.info/blog/?p=598" target="_blank">Pingback: ░░░░░░▒▒▒▒▒▒▒▒▐▐▐▐░▐▒░▒░▒░ ▐▐▐▐ ▒░▒░▒░▐▒▒▐▐▒░▒░▒░▒░▒░▒░</a>                </div>
+
+
+                <p>[...] The Obama administration is prosecuting State Department contractor Jin-Woo Kim under the Espionage Act for &#8216;leaking&#8217; information to Fox News, &#8216;leaking&#8217; in this case meaning &#8216;talking about events and concepts&#8217;, The Newspaper Association of America is pressuring the Senate to remove protections for Wikileaks from the Free Flow of Information Act, and Wikileaks gets an underground nuclear bunker. [...]</p>
+
+		
+                <div class="reply">
+                <a rel="nofollow" class="comment-reply-login" href="http://blogs.forbes.com/wp-login.php?redirect_to=http%3A%2F%2Fblogs.forbes.com%2Fandygreenberg%2F2010%2F08%2F30%2Fwikileaks-servers-move-to-underground-nuclear-bunker%2F">Log in to Reply</a>                </div>
+		<div class="flag">
+		<a class="abuse_popup_link abuse-705" href="mailto:blogadmin@forbes.com" title="Flag this comment for review">Flag for abuse</a>		</div>
+                                </div>
+                </li>
+        <li class="pingback odd alt thread-even depth-1 collapsed" id="comment-713">
+                <div class="comment-div" id="div-comment-713">
+        		<div class="comment-collapse">
+			<a href="#" class="collapse-from-here collapse-comment-713"><img alt="collapse" src="/assets/images/icon-comment-expanded.png"/></a>
+			<a href="#" class="expand-from-here expand-comment-713"><img alt="expand" src="/assets/images/icon-comment-collapsed.png"/></a>
+		</div>
+                <div class="comment-meta commentmetadata"><a href="http://blogs.forbes.com/andygreenberg/2010/08/30/wikileaks-servers-move-to-underground-nuclear-bunker/comment-page-1/#comment-713">11:58 am on 08/31/10</a> </div>
+
+                <div class="comment-author vcard ">
+                <a class="trackback_link" href="http://pijamasurf.com/2010/08/wikileaks-se-mudara-a-un-bunker-subterraneo/" target="_blank">Pingback: WikiLeaks se mudará a un búnker subterráneo | Pijamasurf</a>                </div>
+
+
+                <p>[...] Via Forbes Blog [...]</p>
+
+		
+                <div class="reply">
+                <a rel="nofollow" class="comment-reply-login" href="http://blogs.forbes.com/wp-login.php?redirect_to=http%3A%2F%2Fblogs.forbes.com%2Fandygreenberg%2F2010%2F08%2F30%2Fwikileaks-servers-move-to-underground-nuclear-bunker%2F">Log in to Reply</a>                </div>
+		<div class="flag">
+		<a class="abuse_popup_link abuse-713" href="mailto:blogadmin@forbes.com" title="Flag this comment for review">Flag for abuse</a>		</div>
+                                </div>
+                </li>
+        <li class="pingback even thread-odd thread-alt depth-1 collapsed" id="comment-714">
+                <div class="comment-div" id="div-comment-714">
+        		<div class="comment-collapse">
+			<a href="#" class="collapse-from-here collapse-comment-714"><img alt="collapse" src="/assets/images/icon-comment-expanded.png"/></a>
+			<a href="#" class="expand-from-here expand-comment-714"><img alt="expand" src="/assets/images/icon-comment-collapsed.png"/></a>
+		</div>
+                <div class="comment-meta commentmetadata"><a href="http://blogs.forbes.com/andygreenberg/2010/08/30/wikileaks-servers-move-to-underground-nuclear-bunker/comment-page-1/#comment-714">12:01 pm on 08/31/10</a> </div>
+
+                <div class="comment-author vcard ">
+                <a class="trackback_link" href="http://www.elarea.com/?p=6241" target="_blank">Pingback: Todo lo que necesitas saber &raquo; Wikileaks alojará sus servidores en un búnker nuclear</a>                </div>
+
+
+                <p>[...] Wikileaks Servers Move To Underground Nuclear Bunke [...]</p>
+
+		
+                <div class="reply">
+                <a rel="nofollow" class="comment-reply-login" href="http://blogs.forbes.com/wp-login.php?redirect_to=http%3A%2F%2Fblogs.forbes.com%2Fandygreenberg%2F2010%2F08%2F30%2Fwikileaks-servers-move-to-underground-nuclear-bunker%2F">Log in to Reply</a>                </div>
+		<div class="flag">
+		<a class="abuse_popup_link abuse-714" href="mailto:blogadmin@forbes.com" title="Flag this comment for review">Flag for abuse</a>		</div>
+                                </div>
+                </li>
+        <li class="pingback odd alt thread-even depth-1 collapsed" id="comment-721">
+                <div class="comment-div" id="div-comment-721">
+        		<div class="comment-collapse">
+			<a href="#" class="collapse-from-here collapse-comment-721"><img alt="collapse" src="/assets/images/icon-comment-expanded.png"/></a>
+			<a href="#" class="expand-from-here expand-comment-721"><img alt="expand" src="/assets/images/icon-comment-collapsed.png"/></a>
+		</div>
+                <div class="comment-meta commentmetadata"><a href="http://blogs.forbes.com/andygreenberg/2010/08/30/wikileaks-servers-move-to-underground-nuclear-bunker/comment-page-1/#comment-721">2:36 pm on 08/31/10</a> </div>
+
+                <div class="comment-author vcard ">
+                <a class="trackback_link" href="http://thecollectorscoach.wordpress.com/2010/08/31/wikileaks-gets-nuke-proof-servers-moved-to-underground-nuclear-bunker/" target="_blank">Pingback: Wikileaks Gets Nuke Proof &#8211; Servers Moved to Underground Nuclear Bunker. &laquo; Thecollectorscoach&#39;s Blog</a>                </div>
+
+
+                <p>[...] In the coming weeks, Wikileaks has said it will release another 15,000 documents related to the war in Afghanistan. As the controversy around the site mounts, it may need every protection it can find&#8230;continue to original article. [...]</p>
+
+		
+                <div class="reply">
+                <a rel="nofollow" class="comment-reply-login" href="http://blogs.forbes.com/wp-login.php?redirect_to=http%3A%2F%2Fblogs.forbes.com%2Fandygreenberg%2F2010%2F08%2F30%2Fwikileaks-servers-move-to-underground-nuclear-bunker%2F">Log in to Reply</a>                </div>
+		<div class="flag">
+		<a class="abuse_popup_link abuse-721" href="mailto:blogadmin@forbes.com" title="Flag this comment for review">Flag for abuse</a>		</div>
+                                </div>
+                </li>
+        <li class="pingback even thread-odd thread-alt depth-1 collapsed" id="comment-724">
+                <div class="comment-div" id="div-comment-724">
+        		<div class="comment-collapse">
+			<a href="#" class="collapse-from-here collapse-comment-724"><img alt="collapse" src="/assets/images/icon-comment-expanded.png"/></a>
+			<a href="#" class="expand-from-here expand-comment-724"><img alt="expand" src="/assets/images/icon-comment-collapsed.png"/></a>
+		</div>
+                <div class="comment-meta commentmetadata"><a href="http://blogs.forbes.com/andygreenberg/2010/08/30/wikileaks-servers-move-to-underground-nuclear-bunker/comment-page-1/#comment-724">3:45 pm on 08/31/10</a> </div>
+
+                <div class="comment-author vcard ">
+                <a class="trackback_link" href="http://quiscus.wordpress.com/2010/08/31/august-31-2010/" target="_blank">Pingback: August 31, 2010 &laquo; Quis Custodiet Ipsos Custodes?</a>                </div>
+
+
+                <p>[...] <a href="http://blogs.forbes.com/andygreenberg/2010/08/30/wikileaks-servers-move-to-underground-nuclear-bunke.." rel="nofollow">http://blogs.forbes.com/andygreenberg/2010/08/30/wikileaks-servers-move-to-underground-nuclear-bunke..</a>. [...]</p>
+
+		
+                <div class="reply">
+                <a rel="nofollow" class="comment-reply-login" href="http://blogs.forbes.com/wp-login.php?redirect_to=http%3A%2F%2Fblogs.forbes.com%2Fandygreenberg%2F2010%2F08%2F30%2Fwikileaks-servers-move-to-underground-nuclear-bunker%2F">Log in to Reply</a>                </div>
+		<div class="flag">
+		<a class="abuse_popup_link abuse-724" href="mailto:blogadmin@forbes.com" title="Flag this comment for review">Flag for abuse</a>		</div>
+                                </div>
+                </li>
+        <li class="pingback odd alt thread-even depth-1 collapsed" id="comment-730">
+                <div class="comment-div" id="div-comment-730">
+        		<div class="comment-collapse">
+			<a href="#" class="collapse-from-here collapse-comment-730"><img alt="collapse" src="/assets/images/icon-comment-expanded.png"/></a>
+			<a href="#" class="expand-from-here expand-comment-730"><img alt="expand" src="/assets/images/icon-comment-collapsed.png"/></a>
+		</div>
+                <div class="comment-meta commentmetadata"><a href="http://blogs.forbes.com/andygreenberg/2010/08/30/wikileaks-servers-move-to-underground-nuclear-bunker/comment-page-1/#comment-730">2:06 am on 09/01/10</a> </div>
+
+                <div class="comment-author vcard ">
+                <a class="trackback_link" href="http://bass-guitar-amplifiers.info/27904/wikileaks-servers-move-to-underground-nuclear-bunker-andy-greenbergthe-firewall/" target="_blank">Pingback: Wikileaks Servers Move To Underground Nuclear Bunker (Andy Greenberg/The Firewall) | bass-guitar-amplifiers.info</a>                </div>
+
+
+                <p>[...] Greenberg / T&amp;#1211&amp;#1077 Firewall:Wikileaks Servers M&amp;#959&amp;#957&amp;#1077 T&amp;#959 Underground Nuclear Bunker&nbsp; &mdash;&nbsp; Internet service providers &amp;#959ft&amp;#1077&amp;#1495 t&amp;#1077&amp;#406&amp;#406 [...]</p>
+
+		
+                <div class="reply">
+                <a rel="nofollow" class="comment-reply-login" href="http://blogs.forbes.com/wp-login.php?redirect_to=http%3A%2F%2Fblogs.forbes.com%2Fandygreenberg%2F2010%2F08%2F30%2Fwikileaks-servers-move-to-underground-nuclear-bunker%2F">Log in to Reply</a>                </div>
+		<div class="flag">
+		<a class="abuse_popup_link abuse-730" href="mailto:blogadmin@forbes.com" title="Flag this comment for review">Flag for abuse</a>		</div>
+                                </div>
+                </li>
+        <li class="pingback even thread-odd thread-alt depth-1 collapsed" id="comment-735">
+                <div class="comment-div" id="div-comment-735">
+        		<div class="comment-collapse">
+			<a href="#" class="collapse-from-here collapse-comment-735"><img alt="collapse" src="/assets/images/icon-comment-expanded.png"/></a>
+			<a href="#" class="expand-from-here expand-comment-735"><img alt="expand" src="/assets/images/icon-comment-collapsed.png"/></a>
+		</div>
+                <div class="comment-meta commentmetadata"><a href="http://blogs.forbes.com/andygreenberg/2010/08/30/wikileaks-servers-move-to-underground-nuclear-bunker/comment-page-1/#comment-735">4:39 am on 09/01/10</a> </div>
+
+                <div class="comment-author vcard ">
+                <a class="trackback_link" href="http://orissakhabar.in/2010/09/01/wikileaks-servers-moved-to-pionen-white-mountain-data-centre/" target="_blank">Pingback: Wikileaks servers moved to &#8220;Pionen&#8221; White Mountain Data Centre &laquo; Orissa Khabar</a>                </div>
+
+
+                <p>[...] from: <a href="http://blogs.forbes.com/andygreenberg/2010/08/30/wikileaks-servers-move-to-underground-nuclear-bunke.." rel="nofollow">http://blogs.forbes.com/andygreenberg/2010/08/30/wikileaks-servers-move-to-underground-nuclear-bunke..</a>. Possibly related posts: (automatically generated)An Experimental Underground Data Center: Iron [...]</p>
+
+		
+                <div class="reply">
+                <a rel="nofollow" class="comment-reply-login" href="http://blogs.forbes.com/wp-login.php?redirect_to=http%3A%2F%2Fblogs.forbes.com%2Fandygreenberg%2F2010%2F08%2F30%2Fwikileaks-servers-move-to-underground-nuclear-bunker%2F">Log in to Reply</a>                </div>
+		<div class="flag">
+		<a class="abuse_popup_link abuse-735" href="mailto:blogadmin@forbes.com" title="Flag this comment for review">Flag for abuse</a>		</div>
+                                </div>
+                </li>
+        <li class="pingback odd alt thread-even depth-1 collapsed" id="comment-745">
+                <div class="comment-div" id="div-comment-745">
+        		<div class="comment-collapse">
+			<a href="#" class="collapse-from-here collapse-comment-745"><img alt="collapse" src="/assets/images/icon-comment-expanded.png"/></a>
+			<a href="#" class="expand-from-here expand-comment-745"><img alt="expand" src="/assets/images/icon-comment-collapsed.png"/></a>
+		</div>
+                <div class="comment-meta commentmetadata"><a href="http://blogs.forbes.com/andygreenberg/2010/08/30/wikileaks-servers-move-to-underground-nuclear-bunker/comment-page-1/#comment-745">10:20 am on 09/01/10</a> </div>
+
+                <div class="comment-author vcard ">
+                <a class="trackback_link" href="http://shadowsecurity.info/5471/wikileaks-alojara-sus-servidores-en-un-bunker-nuclear.html" target="_blank">Pingback: Wikileaks alojará sus servidores en un búnker nuclear | Shadow Security</a>                </div>
+
+
+                <p>[...] ubicación de los servidores del Partido Pirata Sueco era secreta, pero finalmente han revelado que los servidores se encontrarán en un antiguo bunker nuclear en las profundidades de las “Montañas Blancas” de Södermalm [...]</p>
+
+		
+                <div class="reply">
+                <a rel="nofollow" class="comment-reply-login" href="http://blogs.forbes.com/wp-login.php?redirect_to=http%3A%2F%2Fblogs.forbes.com%2Fandygreenberg%2F2010%2F08%2F30%2Fwikileaks-servers-move-to-underground-nuclear-bunker%2F">Log in to Reply</a>                </div>
+		<div class="flag">
+		<a class="abuse_popup_link abuse-745" href="mailto:blogadmin@forbes.com" title="Flag this comment for review">Flag for abuse</a>		</div>
+                                </div>
+                </li>
+        <li class="pingback even thread-odd thread-alt depth-1 collapsed" id="comment-746">
+                <div class="comment-div" id="div-comment-746">
+        		<div class="comment-collapse">
+			<a href="#" class="collapse-from-here collapse-comment-746"><img alt="collapse" src="/assets/images/icon-comment-expanded.png"/></a>
+			<a href="#" class="expand-from-here expand-comment-746"><img alt="expand" src="/assets/images/icon-comment-collapsed.png"/></a>
+		</div>
+                <div class="comment-meta commentmetadata"><a href="http://blogs.forbes.com/andygreenberg/2010/08/30/wikileaks-servers-move-to-underground-nuclear-bunker/comment-page-1/#comment-746">11:22 am on 09/01/10</a> </div>
+
+                <div class="comment-author vcard ">
+                <a class="trackback_link" href="http://blog.solutekcolombia.com/?p=1708" target="_blank">Pingback: Wikileaks alojará sus servidores en un búnker nuclear &raquo; Blog de Solutek Colombia</a>                </div>
+
+
+                <p>[...] Link: Wikileaks Servers Move To Underground Nuclear Bunke (Forbes) [...]</p>
+
+		
+                <div class="reply">
+                <a rel="nofollow" class="comment-reply-login" href="http://blogs.forbes.com/wp-login.php?redirect_to=http%3A%2F%2Fblogs.forbes.com%2Fandygreenberg%2F2010%2F08%2F30%2Fwikileaks-servers-move-to-underground-nuclear-bunker%2F">Log in to Reply</a>                </div>
+		<div class="flag">
+		<a class="abuse_popup_link abuse-746" href="mailto:blogadmin@forbes.com" title="Flag this comment for review">Flag for abuse</a>		</div>
+                                </div>
+                </li>
+        <li class="pingback odd alt thread-even depth-1 collapsed" id="comment-770">
+                <div class="comment-div" id="div-comment-770">
+        		<div class="comment-collapse">
+			<a href="#" class="collapse-from-here collapse-comment-770"><img alt="collapse" src="/assets/images/icon-comment-expanded.png"/></a>
+			<a href="#" class="expand-from-here expand-comment-770"><img alt="expand" src="/assets/images/icon-comment-collapsed.png"/></a>
+		</div>
+                <div class="comment-meta commentmetadata"><a href="http://blogs.forbes.com/andygreenberg/2010/08/30/wikileaks-servers-move-to-underground-nuclear-bunker/comment-page-1/#comment-770">7:56 pm on 09/03/10</a> </div>
+
+                <div class="comment-author vcard ">
+                <a class="trackback_link" href="http://lanoticiatecnologicadelasemana.wordpress.com/2010/09/04/lo-que-ha-pasado-en-agosto/" target="_blank">Pingback: Lo que ha pasado en Agosto &laquo; La Noticia Tecnológica de la Semana</a>                </div>
+
+
+                <p>[...] Wikileaks.- Tal vez el tema más mediático de este mes. Desde la protección del Partido Pirata Sueco a su fundador, a las acusaciones de violación que quedaron en nada. La última (sorprendente) noticia ha sido que sus servidores se han alojado en un búnker nuclear. [...]</p>
+
+		
+                <div class="reply">
+                <a rel="nofollow" class="comment-reply-login" href="http://blogs.forbes.com/wp-login.php?redirect_to=http%3A%2F%2Fblogs.forbes.com%2Fandygreenberg%2F2010%2F08%2F30%2Fwikileaks-servers-move-to-underground-nuclear-bunker%2F">Log in to Reply</a>                </div>
+		<div class="flag">
+		<a class="abuse_popup_link abuse-770" href="mailto:blogadmin@forbes.com" title="Flag this comment for review">Flag for abuse</a>		</div>
+                                </div>
+                </li>
+        <li class="pingback even thread-odd thread-alt depth-1 collapsed" id="comment-781">
+                <div class="comment-div" id="div-comment-781">
+        		<div class="comment-collapse">
+			<a href="#" class="collapse-from-here collapse-comment-781"><img alt="collapse" src="/assets/images/icon-comment-expanded.png"/></a>
+			<a href="#" class="expand-from-here expand-comment-781"><img alt="expand" src="/assets/images/icon-comment-collapsed.png"/></a>
+		</div>
+                <div class="comment-meta commentmetadata"><a href="http://blogs.forbes.com/andygreenberg/2010/08/30/wikileaks-servers-move-to-underground-nuclear-bunker/comment-page-1/#comment-781">2:07 am on 09/06/10</a> </div>
+
+                <div class="comment-author vcard ">
+                <a class="trackback_link" href="http://www.ispam.nl/archives/18455/wikileaks-plaatst-servers-in-james-bond-datacentrum/" target="_blank">Pingback: Wikileaks plaatst servers in &#8216;James Bond-datacentrum&#8217; | ISPam.nl</a>                </div>
+
+
+                <p>[...] het meer weg had van de schuilplaats van een schurk uit een James Bond film dan op een datacentrum, meldt Forbes: The Firewall.Het datacentrum ziet er van binnen niet erg futuristisch uit, maar biedt ook [...]</p>
+
+		
+                <div class="reply">
+                <a rel="nofollow" class="comment-reply-login" href="http://blogs.forbes.com/wp-login.php?redirect_to=http%3A%2F%2Fblogs.forbes.com%2Fandygreenberg%2F2010%2F08%2F30%2Fwikileaks-servers-move-to-underground-nuclear-bunker%2F">Log in to Reply</a>                </div>
+		<div class="flag">
+		<a class="abuse_popup_link abuse-781" href="mailto:blogadmin@forbes.com" title="Flag this comment for review">Flag for abuse</a>		</div>
+                                </div>
+                </li>
+        <li class="pingback odd alt thread-even depth-1 collapsed" id="comment-1356">
+                <div class="comment-div" id="div-comment-1356">
+        		<div class="comment-collapse">
+			<a href="#" class="collapse-from-here collapse-comment-1356"><img alt="collapse" src="/assets/images/icon-comment-expanded.png"/></a>
+			<a href="#" class="expand-from-here expand-comment-1356"><img alt="expand" src="/assets/images/icon-comment-collapsed.png"/></a>
+		</div>
+                <div class="comment-meta commentmetadata"><a href="http://blogs.forbes.com/andygreenberg/2010/08/30/wikileaks-servers-move-to-underground-nuclear-bunker/comment-page-1/#comment-1356">2:18 pm on 10/08/10</a> </div>
+
+                <div class="comment-author vcard ">
+                <a class="trackback_link" href="http://criticohd.com/2010/10/yo-tambien-quiero-trabajar-en-un-bunker/" target="_blank">Pingback: Yo tambien quiero trabajar en un Bunker</a>                </div>
+
+
+                <p>[...] <a href="http://blogs.forbes.com/andygreenberg/2010/08/30/wikileaks-servers-move-to-underground-nuclear-bunke.." rel="nofollow">http://blogs.forbes.com/andygreenberg/2010/08/30/wikileaks-servers-move-to-underground-nuclear-bunke..</a>. [...]</p>
+
+		
+                <div class="reply">
+                <a rel="nofollow" class="comment-reply-login" href="http://blogs.forbes.com/wp-login.php?redirect_to=http%3A%2F%2Fblogs.forbes.com%2Fandygreenberg%2F2010%2F08%2F30%2Fwikileaks-servers-move-to-underground-nuclear-bunker%2F">Log in to Reply</a>                </div>
+		<div class="flag">
+		<a class="abuse_popup_link abuse-1356" href="mailto:blogadmin@forbes.com" title="Flag this comment for review">Flag for abuse</a>		</div>
+                                </div>
+                </li>
+        <li class="pingback even thread-odd thread-alt depth-1 collapsed" id="comment-1483">
+                <div class="comment-div" id="div-comment-1483">
+        		<div class="comment-collapse">
+			<a href="#" class="collapse-from-here collapse-comment-1483"><img alt="collapse" src="/assets/images/icon-comment-expanded.png"/></a>
+			<a href="#" class="expand-from-here expand-comment-1483"><img alt="expand" src="/assets/images/icon-comment-collapsed.png"/></a>
+		</div>
+                <div class="comment-meta commentmetadata"><a href="http://blogs.forbes.com/andygreenberg/2010/08/30/wikileaks-servers-move-to-underground-nuclear-bunker/comment-page-1/#comment-1483">8:34 pm on 10/22/10</a> </div>
+
+                <div class="comment-author vcard ">
+                <a class="trackback_link" href="http://boxbinary.com/2010/10/why-are-some-wikileaks-warlogs-servers-in-the-us/" target="_blank">Pingback: Why are some WikiLeaks Warlogs servers in the US? - BoxBinary Blog</a>                </div>
+
+
+                <p>[...] is just their front-end. These nodes could simply be serving data retrieved from their reported bunker-homed servers. But it still seems strange to me. Conspiracy theorists might ponder if it&#8217;s just asking for [...]</p>
+
+		
+                <div class="reply">
+                <a rel="nofollow" class="comment-reply-login" href="http://blogs.forbes.com/wp-login.php?redirect_to=http%3A%2F%2Fblogs.forbes.com%2Fandygreenberg%2F2010%2F08%2F30%2Fwikileaks-servers-move-to-underground-nuclear-bunker%2F">Log in to Reply</a>                </div>
+		<div class="flag">
+		<a class="abuse_popup_link abuse-1483" href="mailto:blogadmin@forbes.com" title="Flag this comment for review">Flag for abuse</a>		</div>
+                                </div>
+                </li>
+        <li class="pingback odd alt thread-even depth-1 collapsed" id="comment-1501">
+                <div class="comment-div" id="div-comment-1501">
+        		<div class="comment-collapse">
+			<a href="#" class="collapse-from-here collapse-comment-1501"><img alt="collapse" src="/assets/images/icon-comment-expanded.png"/></a>
+			<a href="#" class="expand-from-here expand-comment-1501"><img alt="expand" src="/assets/images/icon-comment-collapsed.png"/></a>
+		</div>
+                <div class="comment-meta commentmetadata"><a href="http://blogs.forbes.com/andygreenberg/2010/08/30/wikileaks-servers-move-to-underground-nuclear-bunker/comment-page-1/#comment-1501">10:24 am on 10/26/10</a> </div>
+
+                <div class="comment-author vcard ">
+                <a class="trackback_link" href="http://cyberarms.wordpress.com/2010/10/26/cyber-arms-intelligence-report-for-october-26th-2010/" target="_blank">Pingback: Cyber Arms Intelligence Report for October 26th, 2010 &laquo; CYBER ARMS &#8211; Computer Security</a>                </div>
+
+
+                <p>[...] away with taunting the United States. In the past, Wikileaks used servers in a converted Swedish cold war nuclear bunker to host their data. But in a brazen move, recently used mirrors in not only Ireland and France, but [...]</p>
+
+		
+                <div class="reply">
+                <a rel="nofollow" class="comment-reply-login" href="http://blogs.forbes.com/wp-login.php?redirect_to=http%3A%2F%2Fblogs.forbes.com%2Fandygreenberg%2F2010%2F08%2F30%2Fwikileaks-servers-move-to-underground-nuclear-bunker%2F">Log in to Reply</a>                </div>
+		<div class="flag">
+		<a class="abuse_popup_link abuse-1501" href="mailto:blogadmin@forbes.com" title="Flag this comment for review">Flag for abuse</a>		</div>
+                                </div>
+                </li>
+        <li class="pingback even thread-odd thread-alt depth-1 collapsed" id="comment-1520">
+                <div class="comment-div" id="div-comment-1520">
+        		<div class="comment-collapse">
+			<a href="#" class="collapse-from-here collapse-comment-1520"><img alt="collapse" src="/assets/images/icon-comment-expanded.png"/></a>
+			<a href="#" class="expand-from-here expand-comment-1520"><img alt="expand" src="/assets/images/icon-comment-collapsed.png"/></a>
+		</div>
+                <div class="comment-meta commentmetadata"><a href="http://blogs.forbes.com/andygreenberg/2010/08/30/wikileaks-servers-move-to-underground-nuclear-bunker/comment-page-1/#comment-1520">1:59 am on 11/08/10</a> </div>
+
+                <div class="comment-author vcard ">
+                <a class="trackback_link" href="http://facthai.wordpress.com/2010/11/08/wikileaks-starts-using-us-servers-register/" target="_blank">Pingback: WikiLeaks starts using US servers-Register &laquo; FACT &#8211; Freedom Against Censorship Thailand</a>                </div>
+
+
+                <p>[...] Recently, the Swedish Pirate Party said that it&#8217;s also hosting servers for WikiLeaks, and according to one report, some WikiLeaks servers are now inside a Cold War–era nuclear bunker that was carved out of a rock hill in downtown Stockholm. [...]</p>
+
+		
+                <div class="reply">
+                <a rel="nofollow" class="comment-reply-login" href="http://blogs.forbes.com/wp-login.php?redirect_to=http%3A%2F%2Fblogs.forbes.com%2Fandygreenberg%2F2010%2F08%2F30%2Fwikileaks-servers-move-to-underground-nuclear-bunker%2F">Log in to Reply</a>                </div>
+		<div class="flag">
+		<a class="abuse_popup_link abuse-1520" href="mailto:blogadmin@forbes.com" title="Flag this comment for review">Flag for abuse</a>		</div>
+                                </div>
+                </li>
+        <li class="pingback odd alt thread-even depth-1 collapsed" id="comment-1551">
+                <div class="comment-div" id="div-comment-1551">
+        		<div class="comment-collapse">
+			<a href="#" class="collapse-from-here collapse-comment-1551"><img alt="collapse" src="/assets/images/icon-comment-expanded.png"/></a>
+			<a href="#" class="expand-from-here expand-comment-1551"><img alt="expand" src="/assets/images/icon-comment-collapsed.png"/></a>
+		</div>
+                <div class="comment-meta commentmetadata"><a href="http://blogs.forbes.com/andygreenberg/2010/08/30/wikileaks-servers-move-to-underground-nuclear-bunker/comment-page-1/#comment-1551">4:23 am on 11/22/10</a> </div>
+
+                <div class="comment-author vcard ">
+                <a class="trackback_link" href="http://dprbcn.wordpress.com/2010/11/22/data-thanatology/" target="_blank">Pingback: Data Thanatology | If the Cloud Fails &laquo; dpr-barcelona</a>                </div>
+
+
+                <p>[...] of so many Swiss bunkers. They offer so secure infrastructure, that it has been speculate that even Wikileaks servers have been moved to an underground nuclear bunker. Having a a database that had grown to more than [...]</p>
+
+		
+                <div class="reply">
+                <a rel="nofollow" class="comment-reply-login" href="http://blogs.forbes.com/wp-login.php?redirect_to=http%3A%2F%2Fblogs.forbes.com%2Fandygreenberg%2F2010%2F08%2F30%2Fwikileaks-servers-move-to-underground-nuclear-bunker%2F">Log in to Reply</a>                </div>
+		<div class="flag">
+		<a class="abuse_popup_link abuse-1551" href="mailto:blogadmin@forbes.com" title="Flag this comment for review">Flag for abuse</a>		</div>
+                                </div>
+                </li>
+        <li class="pingback even thread-odd thread-alt depth-1 collapsed" id="comment-1639">
+                <div class="comment-div" id="div-comment-1639">
+        		<div class="comment-collapse">
+			<a href="#" class="collapse-from-here collapse-comment-1639"><img alt="collapse" src="/assets/images/icon-comment-expanded.png"/></a>
+			<a href="#" class="expand-from-here expand-comment-1639"><img alt="expand" src="/assets/images/icon-comment-collapsed.png"/></a>
+		</div>
+                <div class="comment-meta commentmetadata"><a href="http://blogs.forbes.com/andygreenberg/2010/08/30/wikileaks-servers-move-to-underground-nuclear-bunker/comment-page-1/#comment-1639">6:15 am on 11/30/10</a> </div>
+
+                <div class="comment-author vcard ">
+                <a class="trackback_link" href="http://blogs.forbes.com/gadyepstein/?p=582" target="_blank">Pingback: Assange Slams China&#8217;s WikiLeaks Copycat: &#8216;Very Dangerous To Do It Wrong&#8217; - Gady Epstein - Beijing Dispatch - Forbes</a>                </div>
+
+
+                <p>[...] former computer hacker Assange, who has gone to great lengths to guard his controversial trove of leaked files against sophisticated hackers, worries about the security [...]</p>
+
+		
+                <div class="reply">
+                <a rel="nofollow" class="comment-reply-login" href="http://blogs.forbes.com/wp-login.php?redirect_to=http%3A%2F%2Fblogs.forbes.com%2Fandygreenberg%2F2010%2F08%2F30%2Fwikileaks-servers-move-to-underground-nuclear-bunker%2F">Log in to Reply</a>                </div>
+		<div class="flag">
+		<a class="abuse_popup_link abuse-1639" href="mailto:blogadmin@forbes.com" title="Flag this comment for review">Flag for abuse</a>		</div>
+                                </div>
+                </li>
+        <li class="pingback odd alt thread-even depth-1 collapsed" id="comment-1737">
+                <div class="comment-div" id="div-comment-1737">
+        		<div class="comment-collapse">
+			<a href="#" class="collapse-from-here collapse-comment-1737"><img alt="collapse" src="/assets/images/icon-comment-expanded.png"/></a>
+			<a href="#" class="expand-from-here expand-comment-1737"><img alt="expand" src="/assets/images/icon-comment-collapsed.png"/></a>
+		</div>
+                <div class="comment-meta commentmetadata"><a href="http://blogs.forbes.com/andygreenberg/2010/08/30/wikileaks-servers-move-to-underground-nuclear-bunker/comment-page-1/#comment-1737">3:01 pm on 12/01/10</a> </div>
+
+                <div class="comment-author vcard ">
+                <a class="trackback_link" href="http://www.conservativesforamerica.com/around-the-web/wikileaks-obamas-war-on-america-target-hillary-clinton" target="_blank">Pingback: WIKILEAKS: Obama&#8217;s War on America, Target Hillary Clinton&nbsp;|&nbsp;Conservatives for America</a>                </div>
+
+
+                <p>[...] is paying for the WIKILEAKS state of the art servers housed in nuclear bomb shelters. My money is on Obama puppetmaster, George [...]</p>
+
+		
+                <div class="reply">
+                <a rel="nofollow" class="comment-reply-login" href="http://blogs.forbes.com/wp-login.php?redirect_to=http%3A%2F%2Fblogs.forbes.com%2Fandygreenberg%2F2010%2F08%2F30%2Fwikileaks-servers-move-to-underground-nuclear-bunker%2F">Log in to Reply</a>                </div>
+		<div class="flag">
+		<a class="abuse_popup_link abuse-1737" href="mailto:blogadmin@forbes.com" title="Flag this comment for review">Flag for abuse</a>		</div>
+                                </div>
+                </li>
+        <li class="pingback even thread-odd thread-alt depth-1 collapsed" id="comment-1758">
+                <div class="comment-div" id="div-comment-1758">
+        		<div class="comment-collapse">
+			<a href="#" class="collapse-from-here collapse-comment-1758"><img alt="collapse" src="/assets/images/icon-comment-expanded.png"/></a>
+			<a href="#" class="expand-from-here expand-comment-1758"><img alt="expand" src="/assets/images/icon-comment-collapsed.png"/></a>
+		</div>
+                <div class="comment-meta commentmetadata"><a href="http://blogs.forbes.com/andygreenberg/2010/08/30/wikileaks-servers-move-to-underground-nuclear-bunker/comment-page-1/#comment-1758">3:52 pm on 12/02/10</a> </div>
+
+                <div class="comment-author vcard ">
+                <a class="trackback_link" href="http://new-technology.mobi/general/wikileaks-stores-files-in-james-bond-bunker.html" target="_blank">Pingback: WikiLeaks stores files in &#8216;James Bond&#8217; bunker | New Technology</a>                </div>
+
+
+                <p>[...] cavern inside White Mountain, nearby Stockholm, Sweden, according to headlines reports from Forbes, The Associated Press, as well as a Norwegian headlines website VG [...]</p>
+
+		
+                <div class="reply">
+                <a rel="nofollow" class="comment-reply-login" href="http://blogs.forbes.com/wp-login.php?redirect_to=http%3A%2F%2Fblogs.forbes.com%2Fandygreenberg%2F2010%2F08%2F30%2Fwikileaks-servers-move-to-underground-nuclear-bunker%2F">Log in to Reply</a>                </div>
+		<div class="flag">
+		<a class="abuse_popup_link abuse-1758" href="mailto:blogadmin@forbes.com" title="Flag this comment for review">Flag for abuse</a>		</div>
+                                </div>
+                </li>
+        <li class="pingback odd alt thread-even depth-1 collapsed" id="comment-1762">
+                <div class="comment-div" id="div-comment-1762">
+        		<div class="comment-collapse">
+			<a href="#" class="collapse-from-here collapse-comment-1762"><img alt="collapse" src="/assets/images/icon-comment-expanded.png"/></a>
+			<a href="#" class="expand-from-here expand-comment-1762"><img alt="expand" src="/assets/images/icon-comment-collapsed.png"/></a>
+		</div>
+                <div class="comment-meta commentmetadata"><a href="http://blogs.forbes.com/andygreenberg/2010/08/30/wikileaks-servers-move-to-underground-nuclear-bunker/comment-page-1/#comment-1762">1:15 am on 12/03/10</a> </div>
+
+                <div class="comment-author vcard ">
+                <a class="trackback_link" href="http://www.adilmohd.in/uncategorized/wikileaks-moves-in-to-cold-war-mountain-bunkers/" target="_blank">Pingback: Adilmohd&#39;s Blog &raquo; WikiLeaks moves in to Cold War Mountain Bunkers.</a>                </div>
+
+
+                <p>[...] from a literal cave inside White Mountain, near Stockholm, Sweden, according to news reports from Forbes, The Associated Press, and the Norwegian news website VG [...]</p>
+
+		
+                <div class="reply">
+                <a rel="nofollow" class="comment-reply-login" href="http://blogs.forbes.com/wp-login.php?redirect_to=http%3A%2F%2Fblogs.forbes.com%2Fandygreenberg%2F2010%2F08%2F30%2Fwikileaks-servers-move-to-underground-nuclear-bunker%2F">Log in to Reply</a>                </div>
+		<div class="flag">
+		<a class="abuse_popup_link abuse-1762" href="mailto:blogadmin@forbes.com" title="Flag this comment for review">Flag for abuse</a>		</div>
+                                </div>
+                </li>
+        <li class="pingback even thread-odd thread-alt depth-1 collapsed" id="comment-1766">
+                <div class="comment-div" id="div-comment-1766">
+        		<div class="comment-collapse">
+			<a href="#" class="collapse-from-here collapse-comment-1766"><img alt="collapse" src="/assets/images/icon-comment-expanded.png"/></a>
+			<a href="#" class="expand-from-here expand-comment-1766"><img alt="expand" src="/assets/images/icon-comment-collapsed.png"/></a>
+		</div>
+                <div class="comment-meta commentmetadata"><a href="http://blogs.forbes.com/andygreenberg/2010/08/30/wikileaks-servers-move-to-underground-nuclear-bunker/comment-page-1/#comment-1766">4:27 am on 12/03/10</a> </div>
+
+                <div class="comment-author vcard ">
+                <a class="trackback_link" href="http://sp00kje.nl/?p=3733" target="_blank">Pingback: WikiLeaks now storing files in &#8216;James Bond&#8217; bunker | Sp00kje Nieuws</a>                </div>
+
+
+                <p>[...] from a literal cave inside White Mountain, near Stockholm, Sweden, according to news reports from Forbes, The Associated Press, and the Norwegian news website VG [...]</p>
+
+		
+                <div class="reply">
+                <a rel="nofollow" class="comment-reply-login" href="http://blogs.forbes.com/wp-login.php?redirect_to=http%3A%2F%2Fblogs.forbes.com%2Fandygreenberg%2F2010%2F08%2F30%2Fwikileaks-servers-move-to-underground-nuclear-bunker%2F">Log in to Reply</a>                </div>
+		<div class="flag">
+		<a class="abuse_popup_link abuse-1766" href="mailto:blogadmin@forbes.com" title="Flag this comment for review">Flag for abuse</a>		</div>
+                                </div>
+                </li>
+        <li class="pingback odd alt thread-even depth-1 collapsed" id="comment-1776">
+                <div class="comment-div" id="div-comment-1776">
+        		<div class="comment-collapse">
+			<a href="#" class="collapse-from-here collapse-comment-1776"><img alt="collapse" src="/assets/images/icon-comment-expanded.png"/></a>
+			<a href="#" class="expand-from-here expand-comment-1776"><img alt="expand" src="/assets/images/icon-comment-collapsed.png"/></a>
+		</div>
+                <div class="comment-meta commentmetadata"><a href="http://blogs.forbes.com/andygreenberg/2010/08/30/wikileaks-servers-move-to-underground-nuclear-bunker/comment-page-1/#comment-1776">5:01 pm on 12/03/10</a> </div>
+
+                <div class="comment-author vcard ">
+                <a class="trackback_link" href="http://www.conservativesforamerica.com/big-government/wikileaks-obama%e2%80%99s-war-on-america-target-hillary-clinton" target="_blank">Pingback: Wikileaks: Obama’s War On America, Target Hillary Clinton&nbsp;|&nbsp;Conservatives for America</a>                </div>
+
+
+                <p>[...] is paying for the WikiLeaks state-of-the-art servers, housed in nuclear bomb shelters? Has anyone checked to see if it was Obama’s puppetmaster, George [...]</p>
+
+		
+                <div class="reply">
+                <a rel="nofollow" class="comment-reply-login" href="http://blogs.forbes.com/wp-login.php?redirect_to=http%3A%2F%2Fblogs.forbes.com%2Fandygreenberg%2F2010%2F08%2F30%2Fwikileaks-servers-move-to-underground-nuclear-bunker%2F">Log in to Reply</a>                </div>
+		<div class="flag">
+		<a class="abuse_popup_link abuse-1776" href="mailto:blogadmin@forbes.com" title="Flag this comment for review">Flag for abuse</a>		</div>
+                                </div>
+                </li>
+        <li class="pingback even thread-odd thread-alt depth-1 collapsed" id="comment-1782">
+                <div class="comment-div" id="div-comment-1782">
+        		<div class="comment-collapse">
+			<a href="#" class="collapse-from-here collapse-comment-1782"><img alt="collapse" src="/assets/images/icon-comment-expanded.png"/></a>
+			<a href="#" class="expand-from-here expand-comment-1782"><img alt="expand" src="/assets/images/icon-comment-collapsed.png"/></a>
+		</div>
+                <div class="comment-meta commentmetadata"><a href="http://blogs.forbes.com/andygreenberg/2010/08/30/wikileaks-servers-move-to-underground-nuclear-bunker/comment-page-1/#comment-1782">1:34 am on 12/04/10</a> </div>
+
+                <div class="comment-author vcard ">
+                <a class="trackback_link" href="http://beiu.sytes.net/news/2010/12/04/wikileaks-moves-into-james-bond-inspired-cave-bunker/" target="_blank">Pingback: WikiLeaks moves into James Bond-inspired cave bunker</a>                </div>
+
+
+                <p>[...] Associated Press, CNN and Forbes are reporting that a company called Bahnhof is hosting the site inside White Mountain, near [...]</p>
+
+		
+                <div class="reply">
+                <a rel="nofollow" class="comment-reply-login" href="http://blogs.forbes.com/wp-login.php?redirect_to=http%3A%2F%2Fblogs.forbes.com%2Fandygreenberg%2F2010%2F08%2F30%2Fwikileaks-servers-move-to-underground-nuclear-bunker%2F">Log in to Reply</a>                </div>
+		<div class="flag">
+		<a class="abuse_popup_link abuse-1782" href="mailto:blogadmin@forbes.com" title="Flag this comment for review">Flag for abuse</a>		</div>
+                                </div>
+                </li>
+        <li class="pingback odd alt thread-even depth-1 collapsed" id="comment-1788">
+                <div class="comment-div" id="div-comment-1788">
+        		<div class="comment-collapse">
+			<a href="#" class="collapse-from-here collapse-comment-1788"><img alt="collapse" src="/assets/images/icon-comment-expanded.png"/></a>
+			<a href="#" class="expand-from-here expand-comment-1788"><img alt="expand" src="/assets/images/icon-comment-collapsed.png"/></a>
+		</div>
+                <div class="comment-meta commentmetadata"><a href="http://blogs.forbes.com/andygreenberg/2010/08/30/wikileaks-servers-move-to-underground-nuclear-bunker/comment-page-1/#comment-1788">1:30 pm on 12/04/10</a> </div>
+
+                <div class="comment-author vcard ">
+                <a class="trackback_link" href="http://www.conservativesforamerica.com/around-the-web/pamela-geller-big-government-wikileaks-obama%e2%80%99s-war-on-america-target-hillary-clinton" target="_blank">Pingback: Pamela Geller, Big Government: Wikileaks: Obama’s War On America, Target Hillary Clinton&nbsp;|&nbsp;Conservatives for America</a>                </div>
+
+
+                <p>[...] is paying for the WikiLeaks state-of-the-art servers, housed in nuclear bomb shelters? Has anyone checked to see if it was Obama’s puppetmaster, George [...]</p>
+
+		
+                <div class="reply">
+                <a rel="nofollow" class="comment-reply-login" href="http://blogs.forbes.com/wp-login.php?redirect_to=http%3A%2F%2Fblogs.forbes.com%2Fandygreenberg%2F2010%2F08%2F30%2Fwikileaks-servers-move-to-underground-nuclear-bunker%2F">Log in to Reply</a>                </div>
+		<div class="flag">
+		<a class="abuse_popup_link abuse-1788" href="mailto:blogadmin@forbes.com" title="Flag this comment for review">Flag for abuse</a>		</div>
+                                </div>
+                </li>
+        <li class="pingback even thread-odd thread-alt depth-1 collapsed" id="comment-1791">
+                <div class="comment-div" id="div-comment-1791">
+        		<div class="comment-collapse">
+			<a href="#" class="collapse-from-here collapse-comment-1791"><img alt="collapse" src="/assets/images/icon-comment-expanded.png"/></a>
+			<a href="#" class="expand-from-here expand-comment-1791"><img alt="expand" src="/assets/images/icon-comment-collapsed.png"/></a>
+		</div>
+                <div class="comment-meta commentmetadata"><a href="http://blogs.forbes.com/andygreenberg/2010/08/30/wikileaks-servers-move-to-underground-nuclear-bunker/comment-page-1/#comment-1791">6:38 pm on 12/04/10</a> </div>
+
+                <div class="comment-author vcard ">
+                <a class="trackback_link" href="http://www.pittsreport.com/2010/12/wikileaks-obama%e2%80%99s-war-on-america-target-hillary-clinton/" target="_blank">Pingback: Wikileaks: Obama’s War On America, Target Hillary Clinton | Pitts Report</a>                </div>
+
+
+                <p>[...] is paying for the WikiLeaks state-of-the-art servers, housed in nuclear bomb shelters? Has anyone checked to see if it was Obama’s puppetmaster, George [...]</p>
+
+		
+                <div class="reply">
+                <a rel="nofollow" class="comment-reply-login" href="http://blogs.forbes.com/wp-login.php?redirect_to=http%3A%2F%2Fblogs.forbes.com%2Fandygreenberg%2F2010%2F08%2F30%2Fwikileaks-servers-move-to-underground-nuclear-bunker%2F">Log in to Reply</a>                </div>
+		<div class="flag">
+		<a class="abuse_popup_link abuse-1791" href="mailto:blogadmin@forbes.com" title="Flag this comment for review">Flag for abuse</a>		</div>
+                                </div>
+                </li>
+        <li class="pingback odd alt thread-even depth-1 collapsed" id="comment-1799">
+                <div class="comment-div" id="div-comment-1799">
+        		<div class="comment-collapse">
+			<a href="#" class="collapse-from-here collapse-comment-1799"><img alt="collapse" src="/assets/images/icon-comment-expanded.png"/></a>
+			<a href="#" class="expand-from-here expand-comment-1799"><img alt="expand" src="/assets/images/icon-comment-collapsed.png"/></a>
+		</div>
+                <div class="comment-meta commentmetadata"><a href="http://blogs.forbes.com/andygreenberg/2010/08/30/wikileaks-servers-move-to-underground-nuclear-bunker/comment-page-1/#comment-1799">3:28 am on 12/05/10</a> </div>
+
+                <div class="comment-author vcard ">
+                <a class="trackback_link" href="http://radiopatriot.wordpress.com/2010/12/05/atlas-wikileaks-and-john-bolton/" target="_blank">Pingback: Atlas, Wikileaks, and John Bolton &laquo; The Radio Patriot</a>                </div>
+
+
+                <p>[...] is paying for the WikiLeaks state-of-the-art servers, housed in nuclear bomb shelters? Has anyone checked to see if it was Obama’s puppetmaster, George [...]</p>
+
+		
+                <div class="reply">
+                <a rel="nofollow" class="comment-reply-login" href="http://blogs.forbes.com/wp-login.php?redirect_to=http%3A%2F%2Fblogs.forbes.com%2Fandygreenberg%2F2010%2F08%2F30%2Fwikileaks-servers-move-to-underground-nuclear-bunker%2F">Log in to Reply</a>                </div>
+		<div class="flag">
+		<a class="abuse_popup_link abuse-1799" href="mailto:blogadmin@forbes.com" title="Flag this comment for review">Flag for abuse</a>		</div>
+                                </div>
+                </li>
+        <li class="pingback even thread-odd thread-alt depth-1 collapsed" id="comment-1852">
+                <div class="comment-div" id="div-comment-1852">
+        		<div class="comment-collapse">
+			<a href="#" class="collapse-from-here collapse-comment-1852"><img alt="collapse" src="/assets/images/icon-comment-expanded.png"/></a>
+			<a href="#" class="expand-from-here expand-comment-1852"><img alt="expand" src="/assets/images/icon-comment-collapsed.png"/></a>
+		</div>
+                <div class="comment-meta commentmetadata"><a href="http://blogs.forbes.com/andygreenberg/2010/08/30/wikileaks-servers-move-to-underground-nuclear-bunker/comment-page-1/#comment-1852">3:42 pm on 12/10/10</a> </div>
+
+                <div class="comment-author vcard ">
+                <a class="trackback_link" href="http://bladecyberpunk.wordpress.com/2010/12/10/bunker-de-wikileaks/" target="_blank">Pingback: Los servidores de WikiLeaks están en un Bunker antinuclear &laquo; Bladecyberpunk&#39;s Blog</a>                </div>
+
+
+                <p>[...] aunque Wikileaks toma precauciones y ha trasladado una parte de sus servidores nada menos que a un búnker nuclear subterráneo del proveedor sueco de banda ancha [...]</p>
+
+		
+                <div class="reply">
+                <a rel="nofollow" class="comment-reply-login" href="http://blogs.forbes.com/wp-login.php?redirect_to=http%3A%2F%2Fblogs.forbes.com%2Fandygreenberg%2F2010%2F08%2F30%2Fwikileaks-servers-move-to-underground-nuclear-bunker%2F">Log in to Reply</a>                </div>
+		<div class="flag">
+		<a class="abuse_popup_link abuse-1852" href="mailto:blogadmin@forbes.com" title="Flag this comment for review">Flag for abuse</a>		</div>
+                                </div>
+                </li>
+        <li class="pingback odd alt thread-even depth-1 collapsed" id="comment-1853">
+                <div class="comment-div" id="div-comment-1853">
+        		<div class="comment-collapse">
+			<a href="#" class="collapse-from-here collapse-comment-1853"><img alt="collapse" src="/assets/images/icon-comment-expanded.png"/></a>
+			<a href="#" class="expand-from-here expand-comment-1853"><img alt="expand" src="/assets/images/icon-comment-collapsed.png"/></a>
+		</div>
+                <div class="comment-meta commentmetadata"><a href="http://blogs.forbes.com/andygreenberg/2010/08/30/wikileaks-servers-move-to-underground-nuclear-bunker/comment-page-1/#comment-1853">11:25 pm on 12/10/10</a> </div>
+
+                <div class="comment-author vcard ">
+                <a class="trackback_link" href="http://www.azzuri.org/?p=788" target="_blank">Pingback: azzuri.org &raquo; WikiLeaks No Longer on Amazon EC2, Returns to Swedish Hosting Service</a>                </div>
+
+
+                <p>[...] reported in August that WikiLeaks had moved to Bahnhof, which operates in a Cold War-era nuclear bunker carved out of a rocky hill in downtown [...]</p>
+
+		
+                <div class="reply">
+                <a rel="nofollow" class="comment-reply-login" href="http://blogs.forbes.com/wp-login.php?redirect_to=http%3A%2F%2Fblogs.forbes.com%2Fandygreenberg%2F2010%2F08%2F30%2Fwikileaks-servers-move-to-underground-nuclear-bunker%2F">Log in to Reply</a>                </div>
+		<div class="flag">
+		<a class="abuse_popup_link abuse-1853" href="mailto:blogadmin@forbes.com" title="Flag this comment for review">Flag for abuse</a>		</div>
+                                </div>
+                </li>
+		</ol>
+		
+		<div class="comments_nav_left filteron">
+			DISPLAY			<br/>
+			<a class="calledoutonly" href="#" title="Click to display only Called-out and Contributor comments">Called-Out Comments</a>
+
+			<a class="showall" href="#" title="Click to display all comments">All comments</a>
+		</div>
+		<div class="rss">
+					<div class="post_tracking"><span>Log in for notification options</span></div>				<a href='http://blogs.forbes.com/andygreenberg/2010/08/30/wikileaks-servers-move-to-underground-nuclear-bunker/feed/'>Comments RSS</a>		</div>
+		
+		<div class="navigation">
+				</div>
+	</div>	<!-- / post_comments -->
+	
+
+<div id="respond">
+	
+	<div class="cancel-comment-reply">
+		<small><a rel="nofollow" id="cancel-comment-reply-link" href="/andygreenberg/2010/08/30/wikileaks-servers-move-to-underground-nuclear-bunker/?boxes=businesschanneltopstories#respond" style="display:none;">Cancel</a></small>
+	</div>
+	<h3>Post Your Comment</h3>
+	
+	
+			<p>You must be logged in to post a comment</p>
+		<div class="leftcol">		
+		<h4 class="login-subhead">Members</h4>
+		<p><a href="/wp-login.php?redirect_to=http%3A%2F%2Fblogs.forbes.com%2Fandygreenberg%2F2010%2F08%2F30%2Fwikileaks-servers-move-to-underground-nuclear-bunker%2F">Log in</a> with your Forbes account</p>
+		</div>
+		<div class="rightcol">		
+		<h4 class="login-subhead">Haven't Registered Yet?</h4>
+		
+		<p>Create an account to <a href="/wp-signup.php?redirect_to=http%3A%2F%2Fblogs.forbes.com%2Fandygreenberg%2F2010%2F08%2F30%2Fwikileaks-servers-move-to-underground-nuclear-bunker%2F">join Forbes now</a></p>
+		
+		</div>
+		
+	</div>
+
+	</div>
+
+	
+	</div>
+    
+    <div id='main_right' >
+
+		
+	
+		
+	<div class="Ad300x">
+    <script type="text/javascript">
+    	OAS_AD("Block")
+    </script>
+    </div>
+
+	
+	
+		<!-- 300x600 Ad -->
+		<!-- end 300x600 Ad -->
+
+            <!-- Author information -->
+        <div class="box activity_feed">
+	            <h3 class="my_ts_activity_feed"><span>My Activity Feed</span></h3>
+	            <select class="activity_choices" name="activity_choices">
+                        <option selected="selected" value="">Show all activity</option>
+                        <option value="post">Show only posts</option>
+                        <option value="headgrab">Show only headline grabs</option>
+                        <option value="comment">Show only comments</option>
+                        <option value="recommend">Show only recommended</option> 
+            </select>
+ 	    <!-- input class="activity_user_id" name="activity_user_id" type="hidden" value="106" / -->
+ 	    <input class="activity_blog_id" name="activity_blog_id" type="hidden" value="948" />
+
+	    <div class="sponsored_by"> <script type='text/javascript'><!--// <![CDATA[
+	if (typeof(OA_show) == 'function') {
+    		OA_show(213);
+	}
+// ]]> --></script></div>            <div class="clearboth">&nbsp;</div>
+			<div id="activity_feed_content"><div id="activity_feed_slider" class="sliderbox"><div class="scrollable activity_feed_slider"><ul class="box_items" id="activity_feed"><li><div class="action_head commentplus"><div class="action_title">Andy Commented </div><div class="action_time">3 days ago</div></div><div class="action_content"><blockquote><a href="http://blogs.forbes.com/andygreenberg/2010/12/22/no-wikileaks-has-not-confirmed-it-will-target-bank-of-america/#comment-1895">&ldquo;That statement was made in response to Bank oF America's decision to cut off payments to WikiLeaks...WikiLeaks has criticized ...&rdquo;</a></blockquote><div class="source">Posted to <a href="http://blogs.forbes.com/andygreenberg/2010/12/22/no-wikileaks-has-not-confirmed-it-will-target-bank-of-america/">WikiLeaks Has Not &#039;Confirmed&#039; It Will Target BofA</a></div></div></li><li><div class="action_head post"><div class="action_title">Andy's  New Post</div><div class="action_time">4 days ago</div></div><div class="action_content"><h4><a href="http://blogs.forbes.com/andygreenberg/2010/12/22/smartphone-security-firm-lookout-raises-another-19-5-million/">Smartphone Security Firm Lookout Raises Another $19.5 Million</a></h4></div></li><li><div class="action_head commented"><div class="action_title">Andy Called Out</div><div class="action_time">4 days ago</div></div><div class="action_content"><a class="member member-2946" href="/people/apppro/"><span class="croppic"><span class="pic"><!-- found cached --><img alt='apppro' src='http://blogs-images.forbes.com/cache/gravatars/apppro_40.jpg' class='avatar avatar-40 photo avatar-default' height='40' width='40' /></span></span><span class="title"><span class="member_name">apppro</span><span class="member_location">New York, NY</span></span></a><div class="source">Commented on <a href="http://blogs.forbes.com/andygreenberg/2010/12/22/no-wikileaks-has-not-confirmed-it-will-target-bank-of-america/">WikiLeaks Has Not &#039;Confirmed&#039; It Will Target BofA</a></div><blockquote><a href="http://blogs.forbes.com/andygreenberg/2010/12/22/no-wikileaks-has-not-confirmed-it-will-target-bank-of-america/#comment-1892">&ldquo;Andy hi back,
+
+I don't want the market to be moved by ANYTHING coming out of Wiki. When it comes down...&rdquo;</a></blockquote></div></li><li><div class="action_head commented"><div class="action_title">Andy Called Out</div><div class="action_time">4 days ago</div></div><div class="action_content"><a class="member member-2946" href="/people/apppro/"><span class="croppic"><span class="pic"><img alt='apppro' src='http://blogs-images.forbes.com/cache/gravatars/apppro_40.jpg' class='avatar avatar-40 photo avatar-default' height='40' width='40' /></span></span><span class="title"><span class="member_name">apppro</span><span class="member_location">New York, NY</span></span></a><div class="source">Commented on <a href="http://blogs.forbes.com/andygreenberg/2010/12/22/no-wikileaks-has-not-confirmed-it-will-target-bank-of-america/">WikiLeaks Has Not &#039;Confirmed&#039; It Will Target BofA</a></div><blockquote><a href="http://blogs.forbes.com/andygreenberg/2010/12/22/no-wikileaks-has-not-confirmed-it-will-target-bank-of-america/#comment-1889">&ldquo;Did you ever find out which stocks Assange and his buddies were using their OLD &amp; probably meaningless stolen hard-drive...&rdquo;</a></blockquote></div></li><li class="hide_til_ready"><div class="action_head commentplus"><div class="action_title">Andy Commented </div><div class="action_time">4 days ago</div></div><div class="action_content"><blockquote><a href="http://blogs.forbes.com/andygreenberg/2010/12/22/no-wikileaks-has-not-confirmed-it-will-target-bank-of-america/#comment-1891">&ldquo;No, apppro, I still don't know WikiLeaks' staffers' stock positions, unfortunately. But I'm not sure why you'd rather that the...&rdquo;</a></blockquote><div class="source">Posted to <a href="http://blogs.forbes.com/andygreenberg/2010/12/22/no-wikileaks-has-not-confirmed-it-will-target-bank-of-america/">WikiLeaks Has Not &#039;Confirmed&#039; It Will Target BofA</a></div></div></li><li class="hide_til_ready"><div class="action_head post"><div class="action_title">Andy's  New Post</div><div class="action_time">4 days ago</div></div><div class="action_content"><h4><a href="http://blogs.forbes.com/andygreenberg/2010/12/22/no-wikileaks-has-not-confirmed-it-will-target-bank-of-america/">WikiLeaks Has Not &#039;Confirmed&#039; It Will Target BofA</a></h4></div></li><li class="hide_til_ready"><div class="action_head commented"><div class="action_title">Andy Called Out</div><div class="action_time">5 days ago</div></div><div class="action_content"><a class="member member-11766" href="/people/ice5nake/"><span class="croppic"><span class="pic"><img alt='ice5nake' src='http://blogs-images.forbes.com/cache/gravatars/ice5nake_40.jpg' class='avatar avatar-40 photo avatar-default' height='40' width='40' /></span></span><span class="title"><span class="member_name">ice5nake</span><span class="member_location">1</span></span></a><div class="source">Commented on <a href="http://blogs.forbes.com/andygreenberg/2010/12/21/apple-nixes-wikileaks-iphone-app-will-google-follow/">Apple Nixes WikiLeaks iPhone App: Will Google Follow?</a></div><blockquote><a href="http://blogs.forbes.com/andygreenberg/2010/12/21/apple-nixes-wikileaks-iphone-app-will-google-follow/#comment-1887">&ldquo;News organizations should be outraged by what's happening in the name of national security.  But since it's not at...&rdquo;</a></blockquote></div></li><li class="hide_til_ready"><div class="action_head post"><div class="action_title">Andy's  New Post</div><div class="action_time">5 days ago</div></div><div class="action_content"><h4><a href="http://blogs.forbes.com/andygreenberg/2010/12/21/apple-nixes-wikileaks-iphone-app-will-google-follow/">Apple Nixes WikiLeaks iPhone App: Will Google Follow?</a></h4></div></li><li class="hide_til_ready"><div class="action_head post"><div class="action_title">Andy's  New Post</div><div class="action_time">6 days ago</div></div><div class="action_content"><h4><a href="http://blogs.forbes.com/andygreenberg/2010/12/20/why-isnt-wikileaks-a-wiki-copycat-site-tradeleaks-demonstrates/">How Not To Copycat WikiLeaks</a></h4></div></li></ul></div><div class="controls" style="display:none;"><div class="prevpane"><div class="prevbutton off"><!--ie--></div><img src="http://blogs-images.forbes.com/assets/images/spacer.gif" height="24" width="60" alt="" /></div><ul class="slideshow_indicators"><li class="indicator"><img alt="+" class="on" title="current page" src="http://blogs-images.forbes.com/assets/images/nav-dot-on.png" /><img alt="O" class="off" title="go to page" src="http://blogs-images.forbes.com/assets/images/nav-dot-off.png" /></li><li class="indicator"><img alt="+" class="on" title="current page" src="http://blogs-images.forbes.com/assets/images/nav-dot-on.png" /><img alt="O" class="off" title="go to page" src="http://blogs-images.forbes.com/assets/images/nav-dot-off.png" /></li><li class="indicator"><img alt="+" class="on" title="current page" src="http://blogs-images.forbes.com/assets/images/nav-dot-on.png" /><img alt="O" class="off" title="go to page" src="http://blogs-images.forbes.com/assets/images/nav-dot-off.png" /></li></ul><div class="nextpane"><div class="nextbutton off"><!--ie--></div><img src="http://blogs-images.forbes.com/assets/images/spacer.gif" height="24" width="60" alt="" /></div></div></div><script type="text/javascript">
+//<![CDATA[
+var activity_feed_index = 0;
+var activity_feed_size = 4; // num elements visible at a time.
+var activity_feed_total_elements = 9;
+var activity_feed_speed = 0; // defaults to zero. changed after init
+//]]>
+</script></div>
+            <div class="clearboth">&nbsp;</div>
+        </div>
+        
+
+ <div class="box" id="ts_topposts">
+        	<h3 class="most_popular_posts"><span>Most Popular</span></h3>
+        	<div class="which_list">
+                <ul>
+                    <li><a href="#ts_contributors_alltime_topposts_slider">My Posts</a></li>
+                    <li><a href="#ts_contributors_network_topposts_slider">All Posts Last 24 Hours</a></li>
+                </ul>
+            </div>
+      <div id="ts_contributors_alltime_topposts_slider" class="sliderbox"><div class="scrollable ts_contributors_alltime_topposts_slider"><ul class="box_items" id="ts_contributors_alltime_topposts"><li><ul><li class="num">1.</li><li class="contrib_li"><a title="An Interview With WikiLeaks&#8217; Julian Assange" class="inlink inlink-contribtopposts" href="http://blogs.forbes.com/andygreenberg/2010/11/29/an-interview-with-wikileaks-julian-assange/">An Interview With WikiLeaks&#8217; Julian Assange</a></li><li class="frequency"><span class="number">850,553 views</span> </li></ul></li><li><ul><li class="num">2.</li><li class="contrib_li"><a title="WikiLeaks&#8217; Julian Assange Wants To Spill Your Corporate Secrets" class="inlink inlink-contribtopposts" href="http://blogs.forbes.com/andygreenberg/2010/11/29/wikileaks-julian-assange-wants-to-spill-your-corporate-secrets/">WikiLeaks&#8217; Julian Assange Wants To Spill Your Corporate Secrets</a></li><li class="frequency"><span class="number">482,334 views</span> </li></ul></li><li><ul><li class="num">3.</li><li class="contrib_li"><a title="Full-Body Scan Technology Deployed In Street-Roving Vans" class="inlink inlink-contribtopposts" href="http://blogs.forbes.com/andygreenberg/2010/08/24/full-body-scan-technology-deployed-in-street-roving-vans/">Full-Body Scan Technology Deployed In Street-Roving Vans</a></li><li class="frequency"><span class="number">287,664 views</span> </li></ul></li><li><ul><li class="num">4.</li><li class="contrib_li"><a title="Exclusive: WikiLeaks Will Unveil Major Bank Scandal" class="inlink inlink-contribtopposts" href="http://blogs.forbes.com/andygreenberg/2010/11/29/exclusive-wikileaks-will-unveil-major-bank-scandal/">Exclusive: WikiLeaks Will Unveil Major Bank Scandal</a></li><li class="frequency"><span class="number">86,028 views</span> </li></ul></li><li><ul><li class="num">5.</li><li class="contrib_li"><a title="Is This Flying Drone Google&#8217;s Next Privacy Controversy? Update: Google Says No" class="inlink inlink-contribtopposts" href="http://blogs.forbes.com/andygreenberg/2010/08/09/is-this-flying-drone-googles-next-privacy-controversy/">Is This Flying Drone Google&#8217;s Next Privacy Controversy? Update: Google Says No</a></li><li class="frequency"><span class="number">76,301 views</span> </li></ul></li></ul><div class="clearboth">&nbsp;</div></div></div>
+<!-- cached --><div id="ts_contributors_network_topposts_slider" class="sliderbox hide_til_ready"><div class="scrollable ts_contributors_network_topposts_slider"><ul class="box_items" id="ts_contributors_network_topposts"><li><ul><li class="num">1.</li><li class="contrib_li"><a title="A New Era For The City-state?" class="inlink inlink-topposts-sidebar" href="http://blogs.forbes.com/joelkotkin/2010/12/23/a-new-era-for-the-city-state/">A New Era For The City-state?</a><span><a title="go to JOEL KOTKIN" class="inlink inlink-topposts-sidebar" href="http://blogs.forbes.com/joelkotkin/">JOEL KOTKIN</a></span></li><li class="frequency"><span class="number">4,311</span> views</li></ul></li><li><ul><li class="num">2.</li><li class="contrib_li"><a title="LeBron James Is Right About The NBA Having Too Many Teams" class="inlink inlink-topposts-sidebar" href="http://blogs.forbes.com/mikeozanian/2010/12/26/lebron-james-is-right-about-nba-having-too-many-teams/">LeBron James Is Right About The NBA Having Too Many Teams</a><span><a title="go to MIKE OZANIAN" class="inlink inlink-topposts-sidebar" href="http://blogs.forbes.com/mikeozanian/">MIKE OZANIAN</a></span></li><li class="frequency"><span class="number">2,284</span> views</li></ul></li><li><ul><li class="num">3.</li><li class="contrib_li"><a title="NFL Will Have More TV Blackouts Than Last Year" class="inlink inlink-topposts-sidebar" href="http://blogs.forbes.com/mikeozanian/2010/12/25/nfl-will-have-more-tv-blackouts-than-last-year/">NFL Will Have More TV Blackouts Than Last Year</a><span><a title="go to MIKE OZANIAN" class="inlink inlink-topposts-sidebar" href="http://blogs.forbes.com/mikeozanian/">MIKE OZANIAN</a></span></li><li class="frequency"><span class="number">1,416</span> views</li></ul></li><li><ul><li class="num">4.</li><li class="contrib_li"><a title="T. Boone Pickens Plans Giant Wind Project In Canada" class="inlink inlink-topposts-sidebar" href="http://blogs.forbes.com/eco-nomics/2010/12/17/t-boone-pickens-plans-giant-wind-project-in-canada/">T. Boone Pickens Plans Giant Wind Project In Canada</a><span><a title="go to ECO-NOMICS" class="inlink inlink-topposts-sidebar" href="http://blogs.forbes.com/eco-nomics/">ECO-NOMICS</a></span></li><li class="frequency"><span class="number">1,152</span> views</li></ul></li><li><ul><li class="num">5.</li><li class="contrib_li"><a title="Wal-Mart Buys Stake In China Online Retailer 360buy" class="inlink inlink-topposts-sidebar" href="http://blogs.forbes.com/ericsavitz/2010/12/24/wal-mart-buys-stake-in-china-online-retailer-360buy/">Wal-Mart Buys Stake In China Online Retailer 360buy</a><span><a title="go to ERIC SAVITZ" class="inlink inlink-topposts-sidebar" href="http://blogs.forbes.com/ericsavitz/">ERIC SAVITZ</a></span></li><li class="frequency"><span class="number">1,084</span> views</li></ul></li></ul><div class="clearboth">&nbsp;</div></div></div>
+<!-- cached --> </div>
+
+
+        
+	<div class="box aboutme profile">
+    	  	<h3 class="about_me"><span>About Me</span></h3>
+    	<p>
+	I've covered the cybersecurity and privacy beat for Forbes since 2007, with frequent detours into digital miscellania like switches, servers, supercomputers, search, e-books, online censorship, robots, and China. My favorite stories are the ones where non-fiction resembles science fiction. My favorite sources usually have the word "research" in their titles.</p><p></p><p>Since I joined Forbes, this job has taken me from an autonomous car race in the California desert all the way to Beijing, where I wrote the first English-language cover story on the Chinese search billionaire Robin Li for Forbes Asia. Black hats, white hats, cyborgs, cyberspies, idiot savants and even CEOs are welcome to email me at agreenberg  (at) forbes.com.        </p>
+        <a href="/people/agreenberg/">See my profile &raquo;</a>
+	
+				
+        <table>
+            <tbody>
+            <tr>
+                <td class="label">Followers:</td>
+		                <td><a href="/people/agreenberg/">147</a></td>
+            </tr>
+            <tr>
+                <td class="label">Contributor Since:</td>
+                <td>January 2010</td>
+            </tr>
+            <tr><td class="label">Location:</td><td>1</td></tr>            </tbody>
+         </table>
+
+         <ul>
+	                <li class="profile"><a href="/people/agreenberg/">My Profile</a></li>
+	                <li class="rss"><a href="http://blogs.forbes.com/andygreenberg/feed/">My RSS Feed</a></li>
+			<li class="headlinegrabs"><a href="http://blogs.forbes.com/andygreenberg/headline-grabs/">My Headline Grabs</a></li>
+                        <li class="feedback"><a class="feedback" href="#message-106">Email Me Tips</a></li>
+             
+        </ul>
+        <br clear="all" />
+            
+        <div class="follow">
+			<div title="Click to follow Andy Greenberg" class="newfollow alone newfollow-alone follow-contrib-106"><span>Follow Me</span></div>        </div>
+
+        <div id="message-106" class="popout">
+            <a class="closebox" href="#message-106">Cancel and close</a><br />
+                    </div>
+
+</div>
+
+<div class="Loge_AD">
+	<script type="text/javascript">
+		OAS_AD('Loge');
+	</script>
+</div>
+<br/>
+
+<div class="adsense_x88">
+<script type="text/javascript">
+    OAS_AD('x88');
+</script>
+</div>
+
+</div>
+</div>
+<script type="text/javascript">
+/* <![CDATA[ */
+	var ppi_help_referer = '/andygreenberg/2010/08/30/wikileaks-servers-move-to-underground-nuclear-bunker/?boxes=businesschanneltopstories';
+	var ppi_help_ismember = false;
+	var ppi_abuse_popup = '<div class="help-popup-content"><h3>Flag Abuse<\/h3> <p>You may report comments or other activity here. Our staff will review your concern.<\/p> <br \/><div class="formq">Please select your subject: <select name="lead_source"> <option value="CommentAbuse">Abusive Comments<\/option> <option value="CommentSpam">Comment Spam<\/option> <option value="CommentOther">Other<\/option> <\/select><\/div><p>Please provide contact information so we can get back to you:<\/p><div class="formq"><input name="first_name" type="text"\/><span>First name:<\/span> <\/div><div class="formq"><input name="last_name" type="text"\/><span>Last name:<\/span> <\/div><div class="formq"><input name="email" type="text"\/><span>Email Address:<\/span> <\/div><p><input type="checkbox" name="anon"\/> check here to make your report anonymously, and your contact info will not be used.<\/p> <div class="formq">Please describe your concern with the user or comment:<textarea name="description" cols="60" rows="10"\/><\/div><input type="button" name="sendbutton" value="Send"\/><input type="button" class="close" name="closebutton" alt="Cancel" value="Cancel"\/><\/form><\/div>';
+/* ]]> */
+</script>
+<br clear="all" />
+</div>
+<div id="footer">
+        <div id="sitefooter">
+		<div class="bot_banner"><script type='text/javascript'><!--// <![CDATA[
+	if (typeof(OA_show) == 'function') {
+    		OA_show(2);
+	}
+// ]]> --></script></div>
+    <div id="latest_bot">
+    	<h3 class="latest_bot"><span>Latest Network Activity</span></h3>
+        <div class="see_all"><a class="inlink inlink-footer" href="/network/today/allactivity/">See all network activity &raquo;</a></div>
+   		<div class="box"><div id="top_net_activity_slider" class="sliderbox"><div class="scrollable top_net_activity_slider"><ul class="box_items" id="top_net_activity"><li><div class="activity_head posted activity-group"><div class="activity_title">New Post</div><div class="activity_time">42 minutes ago</div></div><div class="activity_content"><h3><a class="inlink inlink-netactivity-footer" href="http://blogs.forbes.com/shenegotiates/2010/12/26/negotiation-advice-for-crystal-harris/">Negotiation Advice for Crystal Harris</a></h3><div class="source">by <a class="inlink inlink-netactivity-footer" href="http://blogs.forbes.com/shenegotiates/">Victoria Pynchon</a></div><!-- none --></div></li><li><div class="activity_head posted activity-group"><div class="activity_title">New Post</div><div class="activity_time">2 hours ago</div></div><div class="activity_content"><h3><a class="inlink inlink-netactivity-footer" href="http://blogs.forbes.com/prospernow/2010/12/26/youre-going-to-hell-your-luggage-goes-to-chicago/">You&#039;re Going to Hell, Your Luggage Goes to Chicago!</a></h3><div class="source">by <a class="inlink inlink-netactivity-footer" href="http://blogs.forbes.com/prospernow/">T. Scott Gross</a></div><!-- none --></div></li><li><div class="activity_head posted activity-group"><div class="activity_title">New Post</div><div class="activity_time">4 hours ago</div></div><div class="activity_content"><h3><a class="inlink inlink-netactivity-footer" href="http://blogs.forbes.com/beltway/2010/12/26/holiday-blogging-depression/">Holiday Blogging Depression</a></h3><div class="source">by <a class="inlink inlink-netactivity-footer" href="http://blogs.forbes.com/beltway/">Robert McTeer</a></div><!-- list --><ul><li><a class="topiclink inlink inlink-posttopics" href="/topics/business/">Business</a></li> <li><a class="topiclink inlink inlink-posttopics" href="/topics/economics/">Economics</a></li> <li><a class="topiclink inlink inlink-posttopics" href="/topics/oped/">OpEd</a></li></ul></div></li></ul></div><div class="prevpane"><img alt="." class="off" title="no previous pages" src="http://blogs-images.forbes.com/assets/images/nav-prev-clean.png" /><img alt="&lt;" class="on" title="go to prev page" src="http://blogs-images.forbes.com/assets/images/nav-prev-clean.png" /></div><ul class="slideshow_indicators"><li class="indicator"><img alt="+" class="on" title="current page" src="http://blogs-images.forbes.com/assets/images/nav-dot-on.png" /><img alt="O" class="off" title="go to page" src="http://blogs-images.forbes.com/assets/images/nav-dot-off.png" /></li><li class="indicator"><img alt="+" class="on" title="current page" src="http://blogs-images.forbes.com/assets/images/nav-dot-on.png" /><img alt="O" class="off" title="go to page" src="http://blogs-images.forbes.com/assets/images/nav-dot-off.png" /></li><li class="indicator"><img alt="+" class="on" title="current page" src="http://blogs-images.forbes.com/assets/images/nav-dot-on.png" /><img alt="O" class="off" title="go to page" src="http://blogs-images.forbes.com/assets/images/nav-dot-off.png" /></li><li class="indicator"><img alt="+" class="on" title="current page" src="http://blogs-images.forbes.com/assets/images/nav-dot-on.png" /><img alt="O" class="off" title="go to page" src="http://blogs-images.forbes.com/assets/images/nav-dot-off.png" /></li><li class="indicator"><img alt="+" class="on" title="current page" src="http://blogs-images.forbes.com/assets/images/nav-dot-on.png" /><img alt="O" class="off" title="go to page" src="http://blogs-images.forbes.com/assets/images/nav-dot-off.png" /></li><li class="indicator"><img alt="+" class="on" title="current page" src="http://blogs-images.forbes.com/assets/images/nav-dot-on.png" /><img alt="O" class="off" title="go to page" src="http://blogs-images.forbes.com/assets/images/nav-dot-off.png" /></li><li class="indicator"><img alt="+" class="on" title="current page" src="http://blogs-images.forbes.com/assets/images/nav-dot-on.png" /><img alt="O" class="off" title="go to page" src="http://blogs-images.forbes.com/assets/images/nav-dot-off.png" /></li><li class="indicator"><img alt="+" class="on" title="current page" src="http://blogs-images.forbes.com/assets/images/nav-dot-on.png" /><img alt="O" class="off" title="go to page" src="http://blogs-images.forbes.com/assets/images/nav-dot-off.png" /></li><li class="indicator"><img alt="+" class="on" title="current page" src="http://blogs-images.forbes.com/assets/images/nav-dot-on.png" /><img alt="O" class="off" title="go to page" src="http://blogs-images.forbes.com/assets/images/nav-dot-off.png" /></li><li class="indicator"><img alt="+" class="on" title="current page" src="http://blogs-images.forbes.com/assets/images/nav-dot-on.png" /><img alt="O" class="off" title="go to page" src="http://blogs-images.forbes.com/assets/images/nav-dot-off.png" /></li></ul><div class="nextpane"><img alt="&gt;" class="on" title="go to next page" src="http://blogs-images.forbes.com/assets/images/nav-next-clean.png" /><img alt="." class="off" title="no more pages"  src="http://blogs-images.forbes.com/assets/images/nav-next-clean.png" /></div></div></div><script type="text/javascript">
+//<![CDATA[
+if ('undefined' == typeof( ppi_sliders ))
+	var ppi_sliders = [];
+ppi_sliders.push({ name: 'top_net_activity',
+		   isvertical: false,
+		   numitems: 30,
+		   numperpage: 3
+		});
+//]]>
+</script>    </div>
+
+			<div class="clearfix">
+            	<div class="alignleft">
+	                <h3 class="today_pop_posts"><span>Today's Popular Posts</span></h3>
+	                <div class="bottom_box" id="todays_popular_posts">
+	                    <ul>
+	                        <li class="pop_postinfo"><div class="croppic"><a href="http://blogs.forbes.com/joelkotkin/" title="Joel Kotkin"><img alt='Joel Kotkin' src='http://blogs-images.forbes.com/cache/gravatars/joelkotkin_40.jpg' class='avatar avatar-40 photo avatar-default' height='40' width='40' /></a></div><a class="postlink inlink inlink-topposts-footer" title="A New Era For The City-state?" href="http://blogs.forbes.com/joelkotkin/2010/12/23/a-new-era-for-the-city-state/">A New Era For The City-state?</a><span class="newviews">+4,311 views</span></li> <li class="pop_postinfo"><div class="croppic"><a href="http://blogs.forbes.com/mikeozanian/" title="Mike Ozanian"><img alt='Mike Ozanian' src='http://blogs-images.forbes.com/assets/images/avatars/mozanian_40.jpg' class='avatar avatar-40 photo avatar-default' height='40' width='40' /></a></div><a class="postlink inlink inlink-topposts-footer" title="LeBron James Is Right About The NBA Having Too Many Teams" href="http://blogs.forbes.com/mikeozanian/2010/12/26/lebron-james-is-right-about-nba-having-too-many-teams/">LeBron James Is Right About The NBA Having Too Many Teams</a><span class="newviews">+2,284 views</span></li> <li class="pop_postinfo"><div class="croppic"><a href="http://blogs.forbes.com/mikeozanian/" title="Mike Ozanian"><img alt='Mike Ozanian' src='http://blogs-images.forbes.com/assets/images/avatars/mozanian_40.jpg' class='avatar avatar-40 photo avatar-default' height='40' width='40' /></a></div><a class="postlink inlink inlink-topposts-footer" title="NFL Will Have More TV Blackouts Than Last Year" href="http://blogs.forbes.com/mikeozanian/2010/12/25/nfl-will-have-more-tv-blackouts-than-last-year/">NFL Will Have More TV Blackouts Than Last Year</a><span class="newviews">+1,416 views</span></li> <li class="pop_postinfo"><div class="croppic"><a href="http://blogs.forbes.com/eco-nomics/" title="Mother Nature Network"><img alt="avatar" class="avatar avatar-40" src="http://blogs-images.forbes.com/assets/images/avatars/blog-1209_40.jpg" /></a></div><a class="postlink inlink inlink-topposts-footer" title="T. Boone Pickens Plans Giant Wind Project In Canada" href="http://blogs.forbes.com/eco-nomics/2010/12/17/t-boone-pickens-plans-giant-wind-project-in-canada/">T. Boone Pickens Plans Giant Wind Project In Canada</a><span class="newviews">+1,152 views</span></li>
+<!-- cached -->	                    </ul>
+	                    <div class="pushdown">&nbsp;</div>
+	                </div><!-- /bottom_box -->
+	            </div>
+	            <div class="alignright">
+	                <h3 class="active_contributors"><span>Today's Active Contributors</span></h3>
+	                <div class="see_all"><a class="inlink inlink-footer" href="/contributor-index/">See all contributors &raquo;</a></div>
+	                <div class="bottom_box" id="todays_contributors">
+				<div class="newrow"><a class="contrib blogtype-individual contrib-62 inlink inlink-widget-todaysactive" href="http://blogs.forbes.com/abigailesman/"><span class="croppic"><span class="pic"><img alt='Abigail R. Esman' src='http://blogs-images.forbes.com/cache/gravatars/abigailesman_62.jpg' class='avatar avatar-62 photo avatar-default' height='62' width='62' /></span></span> <span class="title"><span class="blog_author">Abigail R. Esman</span> <span class="blog_title">Pen &amp; Sword</span><span class="red">1 new post &raquo;</span> </span></a></div><div ><a class="contrib blogtype-individual contrib-62 inlink inlink-widget-todaysactive" href="http://blogs.forbes.com/danisenberg/"><span class="croppic"><span class="pic"><!-- found cached --><img alt='Daniel Isenberg' src='http://blogs-images.forbes.com/cache/gravatars/danisenberg_62.jpg' class='avatar avatar-62 photo avatar-default' height='62' width='62' /></span></span> <span class="title"><span class="blog_author">Daniel Isenberg</span> <span class="blog_title">Leading an Entrepreneurial Revolution</span><span class="red">1 new post &raquo;</span> </span></a></div><div ><a class="contrib blogcontrib blogtype-group contrib-62" href="http://blogs.forbes.com/prospernow/"><span class="croppic"><span class="pic"><img alt="avatar" class="avatar avatar-62" src="http://blogs-images.forbes.com/assets/images/avatars/blog-1173_62.jpg" /></span></span> <span class="title"><span class="blog_author">Prosper Now</span> <span class="blog_title">&nbsp;</span><span class="red">1 new post &raquo;</span> </span></a></div><div class="newrow"><a class="contrib blogtype-individual contrib-62 inlink inlink-widget-todaysactive" href="http://blogs.forbes.com/mikeozanian/"><span class="croppic"><span class="pic"><img alt='Mike Ozanian' src='http://blogs-images.forbes.com/assets/images/avatars/mozanian_62.jpg' class='avatar avatar-62 photo avatar-default' height='62' width='62' /></span></span> <span class="title"><span class="blog_author">Mike Ozanian</span> <span class="blog_title">SportsMoney</span><span class="red">1 new post &raquo;</span> </span></a></div><div ><a class="contrib blogtype-individual contrib-62 inlink inlink-widget-todaysactive" href="http://blogs.forbes.com/stevecohen/"><span class="croppic"><span class="pic"><img alt='Steve Cohen' src='http://blogs-images.forbes.com/cache/gravatars/stevecohen_62.jpg' class='avatar avatar-62 photo avatar-default' height='62' width='62' /></span></span> <span class="title"><span class="blog_author">Steve Cohen</span> <span class="blog_title">Admissions (t)</span><span class="red">1 new post &raquo;</span> </span></a></div><div ><a class="contrib blogtype-individual contrib-62 inlink inlink-widget-todaysactive" href="http://blogs.forbes.com/mikemalone/"><span class="croppic"><span class="pic"><!-- found cached --><img alt='Michael S. Malone' src='http://blogs-images.forbes.com/cache/gravatars/mikemalone_62.jpg' class='avatar avatar-62 photo avatar-default' height='62' width='62' /></span></span> <span class="title"><span class="blog_author">Michael S. Malone</span> <span class="blog_title">Silicon Dreams</span><span class="red">1 new post &raquo;</span> </span></a></div><!-- cached -->                    
+	                    <div class="pushdown">&nbsp;</div>
+	                </div>
+	            </div>
+        	</div>
+        	
+        
+            <div id="very_bottom">
+                <script type="text/javascript" src="http://images.forbes.com/scripts/foot.js"></script>
+            </div>        
+        
+    </div>
+</div>
+
+
+
+		<script type='text/javascript' src='http://blogs-images.forbes.com/assets/js/header.js?ver=1.0'></script>
+<script type='text/javascript' src='http://blogs-images.forbes.com/assets/js/jquery.selso-1.0.1.js?ver=1.0.1'></script>
+<script type='text/javascript' src='http://blogs-images.forbes.com/assets/js/ppimu.js?ver=.0.4'></script>
+<script type='text/javascript' src='http://blogs-images.forbes.com/assets/js/jquery.quickpaginate.js?ver=1.0.1'></script>
+<script type='text/javascript' src='http://blogs-images.forbes.com/assets/js/jquery.cookie.js?ver=1.0'></script>
+<script type='text/javascript' src='http://blogs-images.forbes.com/assets/js/jquery.overlay-1.0.1.js?ver=1.0.1'></script>
+<script type='text/javascript' src='http://blogs-images.forbes.com/assets/js/jquery.expose-1.0.0.js?ver=1.0.0'></script>
+<script type='text/javascript' src='http://blogs-images.forbes.com/assets/js/topic.js?ver=0.2'></script>
+<script type='text/javascript' src='http://blogs-images.forbes.com/assets/js/follow.js?ver=0.6'></script>
+<script type='text/javascript' src='http://blogs-images.forbes.com/assets/js/clip.js?ver=0.1'></script>
+<script type='text/javascript' src='http://blogs-images.forbes.com/assets/js/recommend.js?ver=0.3'></script>
+<script type='text/javascript' src='http://blogs-images.forbes.com/wp-includes/js/jquery/ui.core.js?ver=1.7.1'></script>
+<script type='text/javascript' src='http://blogs-images.forbes.com/wp-includes/js/jquery/ui.tabs.js?ver=1.7.1'></script>
+<script type='text/javascript' src='http://blogs-images.forbes.com/assets/js/alluser.js?ver=1.1'></script>
+<script type='text/javascript' src='http://blogs-images.forbes.com/assets/js/jquery.scrollable-1.0.1.js?ver=1.0.1'></script>
+<script type='text/javascript' src='http://blogs-images.forbes.com/assets/js/callout.js?ver=0.3'></script>
+<script type='text/javascript' src='http://blogs-images.forbes.com/assets/js/addelay.js?ver=1.0'></script>
+<script type="text/javascript">
+(function() {
+var s = document.createElement('SCRIPT'), s1 = document.getElementsByTagName('SCRIPT')[0];
+s.type = 'text/javascript';
+s.async = true;
+s.src = 'http://widgets.digg.com/buttons.js';
+s1.parentNode.insertBefore(s, s1);
+})();
+</script>
+<script type='text/javascript'>
+	
+	  var _gaq = _gaq || [];
+	  _gaq.push(['_setAccount', 'UA-6079935-1']);
+	  _gaq.push(['_trackPageview']);
+	
+	  (function() {
+	    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+	    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+	    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	  })();
+	
+	</script><!-- added by PPIMU -->
+<script type="text/javascript">
+//<![CDATA[
+var ppi_AjaxURI = 'http://blogs.forbes.com/andygreenberg/wp-admin/admin-ajax.php';
+//]]>
+</script>
+<!-- end PPIMU -->
+<script type="text/javascript">
+//<![CDATA[
+var ppi_topic_slug = '';
+
+//]]>
+</script>
+<!-- added by PPIMU Content Follow -->
+<script type="text/javascript">
+//<![CDATA[
+var ppi_label_startfollowing = 'Follow Me';
+var ppi_label_stopfollowing = 'Don\'t Follow';
+//]]>
+</script>
+<!-- end PPIMU Content Follow -->
+<!-- added by PPIMU Content Clipping -->
+<script type="text/javascript">
+//<![CDATA[
+var ppi_label_unclip = 'unStar';
+var ppi_label_clip = 'Star';
+//]]>
+</script>
+<!-- end PPIMU Content Clipping -->
+<script type="text/javascript">
+//<![CDATA[
+jQuery(document).ready( function() {
+	ppi_rep_report();
+});
+//]]>
+</script>
+<div id="socialvotesdummy" style="display:none"><div class="votebutton votebutton-facebook"><a name="fb_share" type="box_count" share_url="http://blogs.forbes.com/andygreenberg/2010/08/30/wikileaks-servers-move-to-underground-nuclear-bunker/" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fblogs.forbes.com%2Fandygreenberg%2F2010%2F08%2F30%2Fwikileaks-servers-move-to-underground-nuclear-bunker%2F&amp;t=Wikileaks+Servers+Move+To+Underground+Nuclear+Bunker">Share</a><script src="http://static.ak.fbcdn.net/connect.php/js/FB.Share" type="text/javascript"></script><div class="clearboth">&nbsp;</div></div><div class="votebutton votebutton-twitter"><a href="http://twitter.com/share" class="twitter-share-button"
+	data-url="http://blogs.forbes.com/andygreenberg/2010/08/30/wikileaks-servers-move-to-underground-nuclear-bunker/"
+	data-via="forbes"
+    data-text="Wikileaks Servers Move To Underground Nuclear Bunker"
+    data-related="forbes"
+    data-count="vertical">Tweet</a>
+<script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script></div><div class="votebutton votebutton-reddit"><script type="text/javascript">reddit_url='http://blogs.forbes.com/andygreenberg/2010/08/30/wikileaks-servers-move-to-underground-nuclear-bunker/';
+reddit_title = 'Wikileaks Servers Move To Underground Nuclear Bunker';
+</script>
+<script type="text/javascript" src="http://www.reddit.com/static/button/button3.js">
+</script>
+</div><div class="votebutton votebutton-digg"><a class="DiggThisButton DiggMedium" href="http://digg.com/submit?url=http://blogs.forbes.com/andygreenberg/2010/08/30/wikileaks-servers-move-to-underground-nuclear-bunker/&amptitle=Wikileaks Servers Move To Underground Nuclear Bunker"><span style="display:none;">Internet service providers often tell their client that they offer &quot;bullet-proof hosting.&quot; Whistle-blower organization Wikileaks, it seems, will settle for nothing less than &quot;bomb-proof.&quot; Some portion of Wikileaks&#039; servers have been moved to the &quot;Pionen&quot; White Mountains data center owned by Swedish broadband provider Bahnhof, as first reported by Norwegian news [...]</span></a></div><div class="votebutton votebutton-linkedin"><script type="text/javascript" src="http://platform.linkedin.com/in.js"></script><script type="in/share" data-counter="top"></script></div><div class="clearboth">&nbsp;</div></div><script type="text/javascript">
+adDelay.swapOut('socialvotestarget','socialvotesdummy');
+</script></body>
+</html>

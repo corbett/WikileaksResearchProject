@@ -1,0 +1,373 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+
+  <head>
+<BASE HREF="http://www.nowpublic.com.wstub.archive.org/wikileaks_and_untraceable_document_disclosure">
+
+    <title>Wikileaks and Untraceable Document Disclosure | The News is NowPublic.com</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<script type="text/javascript" src="http://web.archive.org/web/20070927224330js_/http://media.nowpublic.com/npjs/detect.js"></script>
+      <script type="text/javascript" src="http://web.archive.org/web/20070927224330js_/http://www.nowpublic.com/sites/all/modules/np_tinymce/tinymce/jscripts/tiny_mce/tiny_mce.js"></script>
+    <script language="javascript" type="text/javascript">
+tinyMCE.init({
+	
+  mode : "exact",
+  theme : "advanced",
+  plugins : "",
+  browsers : "msie,gecko",
+  cleanup : false,
+  content_css : "http://media.nowpublic.com/css/modules/np_tinymce/content.css",
+  theme_advanced_toolbar_location : "top",
+  theme_advanced_statusbar_location : "bottom",
+  theme_advanced_styles : "Body=tinyMCE-body;Headline=tinyMCE-headline;Subhead=tinyMCE-subhead;",
+  theme_advanced_resizing : true,
+  theme_advanced_resize_horizontal : false,theme_advanced_buttons1 : "bold,italic,separator,link,unlink,separator,bullist,numlist,separator,code,separator,indent,outdent,separator,charmap,separator,styleselect",
+    theme_advanced_buttons2 : "",
+    theme_advanced_buttons3 : "",
+	elements : "edit-comment"
+});
+
+  function mceToggle(id, linkid) {
+    element = document.getElementById(id);
+    link = document.getElementById(linkid);
+
+    if (tinyMCE.getEditorId(id) == null) {
+      tinyMCE.addMCEControl(element, id);
+      element.togg = 'on';
+      link.innerHTML = 'Disable HTML Editor / View Source';
+      link.href = "javascript:mceToggle('" +id+ "', '" +linkid+ "');";
+      link.blur();
+    }
+    else {
+      tinyMCE.removeMCEControl(tinyMCE.getEditorId(id));
+      element.togg = 'off';
+      link.innerHTML = 'Enable HTML Editor';
+      link.href = "javascript:mceToggle('" +id+ "', '" +linkid+ "');";
+      link.blur();
+    }
+  }
+  
+  
+  function np_tinymce_init() {
+    if (!isOpera && ((isWin && isMinIE5) || isMoz)) {
+    var a;
+                            var element;
+                            var d;
+                             
+                                if (element = document.getElementById('edit-comment')) {
+                                  a = document.createElement('a');
+                                  d = document.createElement('div');
+                                  d.className = 'tinymce-control-links';
+                                  a.href = 'javascript:mceToggle("edit-comment", "link-edit-comment")';
+                                  a.appendChild(document.createTextNode('Disable HTML Editor / View Source'));
+                                  a.id = 'link-edit-comment';
+                                  d.appendChild(a);
+                                  element.parentNode.appendChild(d);
+                                }
+                                
+    }
+  }
+  
+</script>
+<link rel="search" type="application/opensearchdescription+xml" title="Search NowPublic.com" href="http://web.archive.org/web/20070927224330/http://media.nowpublic.com/opensearch.xml" />
+
+<link rel="shortcut icon" href="http://web.archive.org/web/20070927224330/http://www.nowpublic.com/sites/all/themes/npv5/favicon.ico" type="image/x-icon" />
+    <style type="text/css" media="all">@import "http://media.nowpublic.com/css/5d4b756564e182872688a6ba11f2f3e0.css";</style>
+    <script type="text/javascript" src="http://web.archive.org/web/20070927224330js_/http://media.nowpublic.com/npjs/misc/jquery.js"></script>
+<script type="text/javascript" src="http://web.archive.org/web/20070927224330js_/http://media.nowpublic.com/npjs/misc/drupal.js"></script>
+<script type="text/javascript" src="http://web.archive.org/web/20070927224330js_/http://media.nowpublic.com/npjs/modules/flagging/np_flagging_story.js"></script>
+<script type="text/javascript" src="http://web.archive.org/web/20070927224330js_/http://media.nowpublic.com/npjs/modules/np_member_bubble/np_member_bubble.js"></script>
+<script type="text/javascript" src="http://web.archive.org/web/20070927224330js_/http://media.nowpublic.com/npjs/dimensions.js"></script>
+<script type="text/javascript" src="http://web.archive.org/web/20070927224330js_/http://media.nowpublic.com/npjs/modules/package/slideshow.js"></script>
+<script type="text/javascript" src="http://web.archive.org/web/20070927224330js_/http://media.nowpublic.com/npjs/modules/package/modal.js"></script>
+<script type="text/javascript" src="http://web.archive.org/web/20070927224330js_/http://media.nowpublic.com/npjs/themes/npv5/npv5.js"></script>
+<script type="text/javascript" src="http://web.archive.org/web/20070927224330js_/http://media.nowpublic.com/npjs/jquery.compat-1.0.js"></script>
+<script type="text/javascript">Drupal.extend({ settings: { "base_url": "http://www.nowpublic.com", "loading_signal": "http://media.nowpublic.com/graphics/Throbber.gif?r=1", "media_url": "http://media.nowpublic.com/", "nid": 176422, "node_type": "package", "web_server": "www", "uid": 0, "npSlideshow": { "packageSlideshow": { "baseURL": "http://media.nowpublic.com/", "data": [  ] } } } });</script>
+<script type="text/javascript">tooltip_objects[37956] = { "id": "37956", "u": 0, "n": "KEARNEY", "l": "Washington DC, District of Columb ia, United States", "et": "Off", "ft": "Add", "ul": "\x3ca href=\"http://www.nowpublic.com/kearney\"\x3esee profile\x3c/a\x3e" }
+tooltip_objects[48505] = { "id": "48505", "u": 0, "n": "blueshoe", "l": "Vancouver, B.C., Canada", "et": "Off", "ft": "Add", "ul": "\x3ca href=\"http://www.nowpublic.com/blueshoe\"\x3esee profile\x3c/a\x3e" }
+tooltip_objects[137364] = { "id": "137364", "u": 0, "n": "BigT", "l": "Whittier, CA, United States", "et": "Off", "ft": "Add", "ul": "\x3ca href=\"http://www.nowpublic.com/bigt\"\x3esee profile\x3c/a\x3e" }
+tooltip_objects[114128] = { "id": "114128", "u": 0, "n": "NotPhil", "l": "United States", "et": "Off", "ft": "Add", "ul": "\x3ca href=\"http://www.nowpublic.com/notphil\"\x3esee profile\x3c/a\x3e" }
+tooltip_objects[85309] = { "id": "85309", "u": 0, "n": "moonwolf", "l": "North Vancouver, British Columbia, Canada", "et": "Off", "ft": "Add", "ul": "\x3ca href=\"http://www.nowpublic.com/moonwolf\"\x3esee profile\x3c/a\x3e" }
+tooltip_objects[126320] = { "id": "126320", "u": 0, "n": "TheBigRuski", "l": "San Clemente, CA, United States", "et": "Off", "ft": "Add", "ul": "\x3ca href=\"http://www.nowpublic.com/thebigruski\"\x3esee profile\x3c/a\x3e" }
+</script>
+  </head>
+
+  <body id="node-176422" class="node node-package">
+      <div id="page">
+      <div id="header">
+        <h1 id="logo">
+          <a href="/" title="Home"><img src="http://media.nowpublic.com/graphics/header-logo.png?r=1" alt="NowPublic - Crowd Powered Media" width="245" height="55" /></a> NowPublic
+        </h1>
+
+        <div id="header-popularity">
+          <strong>131077</strong> members in <strong>4323</strong> cities
+        </div>
+
+        <ul id="header-primary-menu"><li class="first 0"><a href="/">Home</a></li>
+<li class="1"><a href="/local">Local</a></li>
+<li class="selected 2"><a href="/tag/Politics" class="selected">Politics</a></li>
+<li class="3"><a href="/tag/Culture">Culture</a></li>
+<li class="4"><a href="/tag/Entertainment">Entertainment</a></li>
+<li class="5"><a href="/tag/Life">Life</a></li>
+<li class="6"><a href="/locations">Places</a></li>
+<li class="7"><a href="/favorites">Favorites</a></li>
+<li class="last 8"><a href="/newsroom">Newsroom</a></li>
+</ul><ul id="header-secondary-menu"><li class="first 0"><a href="/tag/Bush">Bush</a></li>
+<li class="1"><a href="/tag/police">police</a></li>
+<li class="2"><a href="/tag/protest">protest</a></li>
+<li class="3"><a href="/tag/Government">Government</a></li>
+<li class="4"><a href="/tag/war">war</a></li>
+<li class="5"><a href="/tag/president">president</a></li>
+<li class="6"><a href="/tag/Security">Security</a></li>
+<li class="7"><a href="/tag/department">department</a></li>
+<li class="last 8"><a href="/tag/demonstration">demonstration</a></li>
+</ul>
+        <div id="header-whats-your-story">
+          <a href="/whatisyourstory" id="whats-your-story">What's Your Story?</a>          <div>
+            <a href="/user/register">Join</a> <a href="/user/login?destination=node%2F176422">Sign In</a>          </div>
+        </div>
+
+        <div id="header-search">
+          <form id="header-search-form" action="/search" method="get" name="header-search-form">
+            <label for="edit[keys]"><a href="/search">Search NowPublic:</a></label>
+            <input type="hidden" name="type" value="story" />
+            <input type="hidden" name="fulltext" value="1" />
+            <span><input type="text" id="header-search-terms" size="30" name="keys" /></span>
+            <input type="image" id="header-search-submit" src="http://media.nowpublic.com/graphics/header-search-go.png?r=1" alt="go" />
+          </form>
+        </div>
+
+              </div>
+
+      <div id="region-header"></div>
+      <div id="main">
+                                                    
+            
+  <div class="package-details">
+<!-- last mod : 1167859566 -->
+<h3 class="section-title package-details">Politics News</h3>
+  <div id="story-header">
+    <div class="sdhb"><div class="sdht">
+      <div class="shr"><div class="shl"><div class="shbr"><div class="shbl"><div class="shtr"><div class="shtl"><div class="sht"><div class="shb">
+        <h1 class="story-detail-title">Wikileaks and Untraceable Document Disclosure</h1>
+      </div></div></div></div></div></div></div></div>
+      <div class="sddr details"><div class="sddl">
+        <div class="sddb">
+          by <a href="http://www.nowpublic.com/kearney" title="View user profile." class="np-member-bubble np-member-bubble_37956_-7_8_-7_8">KEARNEY</a> | <em>January 3, 2007</em> at <em>05:26 pm</em> | <span>221 views | <a href="/wikileaks_and_untraceable_document_disclosure#comments" class="active">add comment</a></span>
+        </div>
+      </div></div>
+      <div class="sddr slider"><div class="sddl">
+        <div class="sddb"><div class="sdgo">
+          <div class="value" style="width: 20px;"></div>
+          <div class="meter" title="How close is this Story to being Good Stuff?"></div>
+        </div></div>
+      </div></div>
+      <img src="http://media.nowpublic.com/graphics/story-detail/good-stuff-off.png?r=1" class="gs" alt="Not Yet Good Stuff" title="Not Yet Good Stuff" />
+    </div></div>
+  </div>
+  
+  <div id="story-detail-footage-div">
+  <a href="/bulkupload/176422" title="Upload Photos, Videos and Audio"><img src="http://media.nowpublic.com/graphics/story-detail/upload-photos_up.png?r=1" alt="Upload Photos, Videos and Audio" /></a>
+    </div>
+  
+  <div class="story-details">
+    <a href="/bulkupload/176422"><img src="http://media.nowpublic.com/graphics/story-detail/first-upload.png?r=1" alt="Be the First to Add Photos and Video to this Story" style="padding: 3px 0" /></a>    <p>WIKILEAKS AND UNTRACEABLE DOCUMENT DISCLOSURE<br><br>A new internet initiative called Wikileaks seeks to promote good<br>government and democratization by enabling anonymous disclosure and<br>publication of confidential government records.<br><br>"WikiLeaks is developing an uncensorable version of WikiPedia for<br>untraceable mass document leaking and analysis," according to the<br>project web site.<br><br>"Our primary targets are highly oppressive regimes in China, Russia,<br>central eurasia, the middle east and sub-saharan Africa, but we also<br>expect to be of assistance to those in the west who wish to reveal<br>unethical behavior in their own governments and corporations."<br><br>"A system [that] enables everyone to leak safely to a ready audience<br>is the most cost effective means of promoting good government -- in<br>health and medicine, in food supply, in human rights, in arms control<br>and democratic institutions."<br><br>Wikileaks says that it has already acquired over one million documents<br>that it is now preparing for publication.<br><br>The project web site is not yet fully "live." But an initial offering<br>-- a document purportedly authored by Sheikh Hassan Dahir Aweys of<br>Somalia's radical Islamic Courts Union -- is posted in a zipped file<br>here:<br><br>&nbsp;&nbsp;&nbsp;&nbsp; http://www.wikileaks.org/som.zip<br><br>An analysis of the document's authenticity and implications is posted<br>here:<br><br>&nbsp;&nbsp;&nbsp;&nbsp; http://www.wikileaks.org/inside_somalia_v9.html<br><br>Wikileaks invited Secrecy News to serve on its advisory board.&nbsp; We<br>explained that we do not favor automated or indiscriminate<br>publication of confidential records.<br><br>In the absence of accountable editorial oversight, publication can<br>more easily become an act of aggression or an incitement to violence,<br>not to mention an invasion of privacy or an offense against good<br>taste.<br><br>So we disagree on first principles?&nbsp; No problem, replied Wikileaks:<br><br>"Advisory positions are just that -- advisory! If you want to advise<br>us to censor, then by all means do so."<br><br>See Wikileaks here:<br><br>&nbsp;&nbsp;&nbsp;&nbsp; http://www.wikileaks.org<br><br>While Wikileaks seeks to make unauthorized disclosures technologically<br>immune to government control, an opposing school of thought proposes<br>to expand U.S. government authority to seize control of information<br>that is already in the public domain when its continued availability<br>is deemed unacceptably dangerous.<br><br>"Although existing authorities do not directly address the subject, it<br>appears that reasonable restrictions upon the possession and<br>dissemination of catastrophically dangerous information can be<br>constitutionally implemented," suggests Stewart Harris of the<br>Appalachian School of Law.<br><br>See "Restrictions are justifiable," National Law Journal, December 11,<br>2006:<br><br>&nbsp;&nbsp;&nbsp;&nbsp; http://www.law.com/jsp/nlj/PubArticleNLJ.jsp?id=1165501509178<br><br></p>
+            <div id="flagging-placeholder"></div>
+  </div>
+  <br class="cl" />
+  <div class="author-info">
+    <em>January 3, 2007</em> at <em>05:26 pm</em> By <a href="http://www.nowpublic.com/kearney" title="View user profile." class="np-member-bubble np-member-bubble_37956_-7_8_-7_8">KEARNEY</a>, 221 views, <a href="/wikileaks_and_untraceable_document_disclosure#comments" class="active">add comment</a>  </div>
+  <div class="tags">
+    in <a href="/tag/Politics">Politics</a>  </div>
+  <div class="external-links">
+    <a href="http://www.pageflakes.com/subscribe.aspx?url=http://www.nowpublic.com/developing/feed?filter=news&amp;amp;order=recent"><img src="http://media.nowpublic.com/graphics/pageflakes_subscribe.gif?r=1" alt="add to pageflakes" /></a> <a href="http://digg.com/submit?url=http%3A%2F%2Fwww.nowpublic.com%2F%2Fwikileaks_and_untraceable_document_disclosure&amp;phase=2" target="_blank"><img src="http://media.nowpublic.com/graphics/digg.gif?r=1" height="16" width="18" alt="Add to Digg" /> Digg</a> <a href="http://del.icio.us/post?url=http%3A%2F%2Fwww.nowpublic.com%2F%2Fwikileaks_and_untraceable_document_disclosure&amp;title=Wikileaks%20and%20Untraceable%20Document%20Disclosure%20%7C%20The%20News%20is%20NowPublic.com" target="_blank"><img src="http://media.nowpublic.com/graphics/delicious.gif?r=1" height="16" width="16" alt="Add to del.icio.us" /> del.icio.us</a> <a href="http://www.addtoany.com/?sitename=NowPublic&amp;siteurl=http://www.nowpublic.com/&amp;linkname=Wikileaks%20and%20Untraceable%20Document%20Disclosure%20%7C%20The%20News%20is%20NowPublic.com&amp;linkurl=http%3A%2F%2Fwww.nowpublic.com%2F%2Fwikileaks_and_untraceable_document_disclosure&amp;type=page"><img src="http://www.addtoany.com/plus-sm.png" width="16" height="16" border="0" title="Add to any service" alt="Add to any service" />AddToAny</a>  </div>
+  <div class="links">  </div>
+  
+  </div>
+      </div>
+
+      <div id="sub">
+                <div id="block-np_sidebar-0" class="subcontainer rounded">
+  <div id="options"><div class="options-summary"><div style="float: left;height: 51px;width: 51px;margin-right: 8px;"><a href="http://www.nowpublic.com/kearney"><img src="http://media.nowpublic.com/files/mpics/picture-37956.jpg" height="51" width="51" alt="KEARNEY" /></a></div><div style="float: left; width: 150px;">by <strong>KEARNEY</strong><br /><span style="font-size: 10px;">Wednesday January 3, 2007</span><br /></div></div> <ul><li><a href="/kearney"><img src="http://media.nowpublic.com/graphics/go.gif?r=1" class="option-gfx"  alt="go" height="17" width="36" /> to <em>KEARNEY</em>'s page</a></li><li><a href="/user/37956/feed"><img src="http://media.nowpublic.com/graphics/get.gif?r=1" class="option-gfx"  alt="get" height="17" width="36" /> <em>KEARNEY</em>'s RSS feed</a></li></ul></div></div><div id="block-np_sidebar-9" class="block-noborder">
+  <div style="background: transparent url('http://media.nowpublic.com/graphics/what-is-np_s.png?r=1') 0 0 no-repeat; height: 168px; padding: 8px 10px 0 10px; margin-top: 10px;"><h2 style="border-bottom: 2px dotted #FDBC8C; color: #999 !important; margin: 0;">What is NowPublic?</h2><p style="font-size: 12px; color: #666;">NowPublic lets people work together to cover news events around the world. You can even get paid for your newsworthy contributions. <br /><a href="/user/register">Sign up</a> for your free NowPublic account.</p></div></div><div id="block-package-0" class="feature-block rounded">
+            <h2 style="color: #777 !important; margin: 0">Related News</h2>
+            <div class="ibb"><div class="ibt"><div class="ibg">
+              <ul class="stories">
+                <li>
+                  <div class="icons">
+                    <a href="http://www.nowpublic.com/blueshoe" title="View user profile." class="np-member-bubble"><img src="http://media.nowpublic.com/files/mpics/picture-48505.jpg" width="25" height="25" alt="blueshoe" class="np-member-bubble_48505_-7_25_-7_25"/></a>
+                  </div>
+                  <div class="info">
+                    <h3><a href="/politics/vancouver-mayor-sullivan-says-give-them-free-drugs" title="Vancouver Mayor Sullivan Says Give Them Free Drugs">Vancouver Mayor Sullivan...</a></h3>
+                    submitted by <a href="http://www.nowpublic.com/blueshoe" title="View user profile." class="np-member-bubble np-member-bubble_48505_-7_8_-7_8">blueshoe</a>
+                  </div>
+                </li>                <li>
+                  <div class="icons">
+                    <a href="http://www.nowpublic.com/bigt" title="View user profile." class="np-member-bubble"><img src="http://media.nowpublic.com/files/mpics/john_wayne.jpg" width="25" height="25" alt="BigT" class="np-member-bubble_137364_-7_25_-7_25"/></a>
+                  </div>
+                  <div class="info">
+                    <h3><a href="/politics/bigt-s-roundup-evening-edition-9-26-07" title="BigT’s Roundup - Evening Edition (9-26-07)">BigT’s Roundup - Eveni...</a></h3>
+                    submitted by <a href="http://www.nowpublic.com/bigt" title="View user profile." class="np-member-bubble np-member-bubble_137364_-7_8_-7_8">BigT</a>
+                  </div>
+                </li>                <li>
+                  <div class="icons">
+                    <a href="http://www.nowpublic.com/notphil" title="View user profile." class="np-member-bubble"><img src="http://media.nowpublic.com/files/mpics/564786073.jpg" width="25" height="25" alt="NotPhil" class="np-member-bubble_114128_-7_25_-7_25"/></a>
+                  </div>
+                  <div class="info">
+                    <h3><a href="/politics/burmese-riot-police-attack-monks" title="Burmese riot police attack monks">Burmese riot police atta...</a></h3>
+                    submitted by <a href="http://www.nowpublic.com/notphil" title="View user profile." class="np-member-bubble np-member-bubble_114128_-7_8_-7_8">NotPhil</a>
+                  </div>
+                </li>                <li>
+                  <div class="icons">
+                    <a href="http://www.nowpublic.com/moonwolf" title="View user profile." class="np-member-bubble"><img src="http://media.nowpublic.com/files/mpics/Meme3.JPG" width="25" height="25" alt="moonwolf" class="np-member-bubble_85309_-7_25_-7_25"/></a>
+                  </div>
+                  <div class="info">
+                    <h3><a href="/opinions/iraqi-woman-speaks-americans-0" title="An Iraqi Woman Speaks to Americans">An Iraqi Woman Speaks to...</a></h3>
+                    submitted by <a href="http://www.nowpublic.com/moonwolf" title="View user profile." class="np-member-bubble np-member-bubble_85309_-7_8_-7_8">moonwolf</a>
+                  </div>
+                </li>                <li>
+                  <div class="icons">
+                    <a href="http://www.nowpublic.com/thebigruski" title="View user profile." class="np-member-bubble"><img src="http://media.nowpublic.com/files/mpics/blogphoto_0.jpg" width="25" height="25" alt="TheBigRuski" class="np-member-bubble_126320_-7_25_-7_25"/></a>
+                  </div>
+                  <div class="info">
+                    <h3><a href="/culture/monk-revolution-heats-more-deaths-beatings-reported-1" title="Monk Revolution Heats Up; More Deaths, Beatings Reported">Monk Revolution Heats Up...</a></h3>
+                    submitted by <a href="http://www.nowpublic.com/thebigruski" title="View user profile." class="np-member-bubble np-member-bubble_126320_-7_8_-7_8">TheBigRuski</a>
+                  </div>
+                </li>
+              </ul>
+              <div class="spacerforgreatie3"></div>
+            </div></div></div>
+            <div class="more-link"><a href="/tag/Politics">see more in Politics</a></div>
+          <div class="spacerforgreatie6"></div></div><div id="block-np_sidebar-1" class="feature-block rounded">
+      <h2 style="color: #666 !important; margin: width: 99%;">Track</h2>
+    <div style="font-size: 10px; width: 100%;">
+      <div class="ibb"><div class="ibt"><div class="ibg" style="padding-top: 1px;">
+<ul class="context-options"><li><a href="/forward/176422"><img src="http://media.nowpublic.com/graphics/mail.gif?r=1" class="option-gfx"  alt="mail" height="17" width="36" /> email this to a friend</a></li><li></li></ul>
+      <div class="spacerforgreatie3"></div>
+      </div></div></div>
+      <div class="spacerforgreatie3"></div>
+    </div>
+    <div class="spacerforgreatie3 cl" style="height:10px;"></div></div>      </div>
+
+      <div id="comments"></div>
+      <div id="footer">
+        <p><a href="/contact?destination=node%2F176422">Contact us</a>        | <a href="http://corp.nowpublic.com/">About NP</a>
+        | <a href="/newsroom/">Newsroom</a>        | <a href="/newsroom/tips/fine_print/intellectual_property_policy">Copyright</a>        | <a href="/newsroom/tips/fine_print/privacy_policy">Privacy</a>        | <a href="/newsroom/tips/fine_print/terms_of_use">Terms of use</a>        | <a href="/newsroom/tips/fine_print/code_of_conduct">Code of Conduct</a>        | <a href="/contact">Jobs</a>        </p>
+        <p>
+</p>
+
+      </div>
+
+      <div id="user_bubble" class="user-tt">
+  <div class="bb"><div class="bt"><div class="br"><div class="bl">
+    <div class="t clear-block">
+      <div class="l" id="user_bubble_name"></div>
+      <div class="r" id="user_bubble_profile"></div>
+    </div>
+    <div class="loc clear-block" id="user_bubble_location"></div>
+    <div class="m clear-block">
+      <div>
+        <ul>
+          <li><a id="user_bubble_contact"></a></li>
+          <li><a id="user_bubble_favorite"></a></li>
+          <li></li>
+          <li><a id="user_bubble_feed"></a></li>
+         </ul>
+      </div>
+    </div>
+    <div class="b clear-block"></div>
+  </div></div></div></div>
+</div>
+<script type="text/javascript">
+    $(np_tinymce_init);  
+    </script>    </div>
+    
+      
+      <!-- Start of StatCounter Code -->
+      <script type="text/javascript">
+      var sc_project=1345764;
+      var sc_invisible=1;
+      var sc_partition=12;
+      var sc_security="26324a10";
+      var sc_remove_link=1;
+      </script>
+      
+      <script type="text/javascript" src="http://web.archive.org/web/20070927224330js_/http://www.statcounter.com/counter/counter.js"></script>
+      
+      <noscript><img src="http://c13.statcounter.com/counter.php?sc_project=1345764&amp;java=0&amp;security=26324a10&amp;invisible=1" alt="how much traffic is going to my site" /></noscript>
+      <!-- End of StatCounter Code -->
+    
+      </body>
+
+<!-- SOME SCRIPT SRC'S ON THIS PAGE HAVE BEEN REWRITTEN BY THE WAYBACK MACHINE
+OF THE INTERNET ARCHIVE IN ORDER TO PRESERVE THE TEMPORAL INTEGRITY OF THE SESSION. -->
+
+
+<!-- SOME LINK HREF'S ON THIS PAGE HAVE BEEN REWRITTEN BY THE WAYBACK MACHINE
+OF THE INTERNET ARCHIVE IN ORDER TO PRESERVE THE TEMPORAL INTEGRITY OF THE SESSION. -->
+
+
+<SCRIPT language="Javascript">
+<!--
+
+// FILE ARCHIVED ON 20070927224330 AND RETRIEVED FROM THE
+// INTERNET ARCHIVE ON 20101227033354.
+// JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+// ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+// SECTION 108(a)(3)).
+
+   var sWayBackCGI = "http://web.archive.org/web/20070927224330/";
+
+   function xResolveUrl(url) {
+      var image = new Image();
+      image.src = url;
+      return image.src;
+   }
+   function xLateUrl(aCollection, sProp) {
+      var i = 0;
+      for(i = 0; i < aCollection.length; i++) {
+         var url = aCollection[i][sProp];         if (typeof(url) == "string") { 
+          if (url.indexOf("mailto:") == -1 &&
+             url.indexOf("javascript:") == -1
+             && url.length > 0) {
+            if(url.indexOf("http") != 0) {
+                url = xResolveUrl(url);
+            }
+            url = url.replace('.wstub.archive.org','');
+            aCollection[i][sProp] = sWayBackCGI + url;
+         }
+         }
+      }
+   }
+
+   xLateUrl(document.getElementsByTagName("IMG"),"src");
+   xLateUrl(document.getElementsByTagName("A"),"href");
+   xLateUrl(document.getElementsByTagName("AREA"),"href");
+   xLateUrl(document.getElementsByTagName("OBJECT"),"codebase");
+   xLateUrl(document.getElementsByTagName("OBJECT"),"data");
+   xLateUrl(document.getElementsByTagName("APPLET"),"codebase");
+   xLateUrl(document.getElementsByTagName("APPLET"),"archive");
+   xLateUrl(document.getElementsByTagName("EMBED"),"src");
+   xLateUrl(document.getElementsByTagName("BODY"),"background");
+   xLateUrl(document.getElementsByTagName("TD"),"background");
+   xLateUrl(document.getElementsByTagName("INPUT"),"src");
+   var forms = document.getElementsByTagName("FORM");
+   if (forms) {
+       var j = 0;
+       for (j = 0; j < forms.length; j++) {
+              f = forms[j];
+              if (typeof(f.action)  == "string") {
+                 if(typeof(f.method)  == "string") {
+                     if(typeof(f.method) != "post") {
+                        f.action = sWayBackCGI + f.action;
+                     }
+                  }
+              }
+        }
+    }
+
+
+//-->
+</SCRIPT>
+
+</html>

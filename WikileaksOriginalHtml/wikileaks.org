@@ -1,0 +1,3177 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" type="image/ico" href="http://www.alexa.com/favicon.ico" />
+<title>Wikileaks.org Site Info</title>
+<link href="/css/print.1293061115.css" media="print" rel="stylesheet" type="text/css" >
+<link href="/css/layout.1293061115.css" media="screen, projection" rel="stylesheet" type="text/css" >
+<link href="/css/jquery-autocomplete.1293061115.css" media="screen, projection" rel="stylesheet" type="text/css" >
+<link href="/css/site.1293061115.css" media="screen" rel="stylesheet" type="text/css" >
+<link href="/css/reviews.1293061115.css" media="screen" rel="stylesheet" type="text/css" >
+<!--[if IE 8]> <link href="/css/ie8.1293061115.css" media="screen, projection" rel="stylesheet" type="text/css" ><![endif]-->
+<!--[if lt IE 8]> <link href="/css/ie.1293061115.css" media="screen, projection" rel="stylesheet" type="text/css" ><![endif]-->
+<script type="text/javascript" src="/js/jquery.1293061116.js"></script>
+<script type="text/javascript" src="/js/jquery-cookie.1293061116.js"></script>
+<script type="text/javascript" src="/js/jquery-autocomplete.1293061116.js"></script>
+<script type="text/javascript" src="/js/common.1293061116.js"></script>
+<script type="text/javascript" src="/js/detail.1293061116.js"></script>
+<script type="text/javascript" src="/js/reviews.1293061116.js"></script>
+<meta name="description" content="wikileaks.org is one of the top 1,000 sites in the world and is in the Multi-issue Publications category." >
+</head>
+<body>
+<div id="top-ad">
+<!-- Javascript tag  -->
+<!-- begin ZEDO for channel:  TOP 728x90, publisher: default , Ad Dimension: Slider - 1 x 1 -->
+<script language="JavaScript">
+var zflag_nid="1219"; var zflag_cid="51/50/49";
+var zflag_sid="1"; var zflag_width="1"; var zflag_height="1"; var zflag_sz="94";
+var zflag_kw="";
+</script>
+<script language="JavaScript" src="http://d3.zedo.com/jsc/d3/fo.js"></script>
+<!-- end ZEDO for channel:  TOP 728x90 , publisher: default , Ad Dimension: Slider - 1 x 1 -->
+</div>
+<div id="pageContainer">
+<div id="page">
+<div id="header" >
+<div id="header-inner">
+<a id="logo"  href="/"><img src="/images/layout/logo_tagline.png" alt="Alexa Internet"/></a>
+<img src="/images/logo.png" alt="Alexa Internet" class="textOff"/>
+<ul id="mini-nav">
+<li><a href="/register?resource=http%3A%2F%2Fwww.alexa.com%2Fsiteinfo%2Fwikileaks.org">Register</a></li>
+<li><a href="/login?resource=http%3A%2F%2Fwww.alexa.com%2Fsiteinfo%2Fwikileaks.org">Login</a></li>
+<li>
+<a href="/help">Help</a>
+</li>
+</ul>
+<div class="search-spacer">
+&nbsp;
+</div>
+<ul id="nav">
+<li  >
+<a href="/">Home</a>
+</li>
+<li  >
+<a href="/siteowners">Site Tools</a>
+</li>
+<li  >
+<a href="/topsites">Top Sites</a>
+</li>
+<li class='selected' >
+<a href="/siteinfo">Site Info</a>
+</li>
+<li class="textOff"  >
+<a href="/reviews">Reviews</a>
+</li>
+<li  >
+<a href="/whatshot">What's Hot</a>
+</li>
+<li  >
+<a href="/toolbar?utm_source=top-nav&utm_medium=www&utm_campaign=toolbar">Toolbar</a>
+</li>
+</ul>
+</div>
+</div>
+<div id="announcement" class="textOff"></div>
+<div id="threecolwrap">
+<div id="onecolwrap">
+<div id="content" class="clearfix">
+<div id="content-inner">
+<script type="text/javascript">
+//var flip_ads = false;
+//var trafficstatsSnippet = "";
+</script>
+<div class="module up" id="site">
+<div style="float:right">
+<form id="searchBox_form" class="searchForm" action='/search' onsubmit="$.cookie('ax_gr_last_tab', '#trafficstats', { expires: 1});">
+<div class="query"><input name="q" type="text" title="Enter a search query" value="" class="ac_input" id="searchbox" size="30"/></div>
+<button type="submit" ><span>Search</span></button>
+<input type="hidden" name="r" value="site_siteinfo" />
+<input type="hidden" name="p" value="bigtop" />
+</form>
+</div>
+<h1 style="margin-left: 48px;">
+<a class='offsite' href="http://wikileaks.org">wikileaks.org</a>
+</h1>
+<p style="margin-left: 48px;">Wikileaks&nbsp;</p>
+<p>About Wikileaks (wikileaks.org): Publishes and comments on leaked documents alleging government and corporate misconduct.</p>
+<div style='border-top:1px solid gray;'>
+<div style='float:left;width:50%;'>
+<div style='margin-top:5px' class="opp-ads">
+<script language="JavaScript">
+google_ad_client='ca-amazon-alexa_js';
+google_ad_channel = 'g-channel-12';
+google_ad_width='336';
+google_ad_height='280';
+google_ad_format='336x280_as';
+google_ad_type='text';
+google_encoding='utf8';
+google_safe='high';
+google_color_bg='ffffff';
+google_color_border='ffffff';
+google_color_line='00ff00';
+google_color_link='0033cc';
+google_color_text='333333';
+google_color_url='339900';
+google_hints='';
+</script><script src="http://pagead2.googlesyndication.com/pagead/show_ads.js" language="JavaScript"></script>
+</div>
+</div>
+<div style='float:right;margin-right:20px;width:45%;'>
+<h3>You may be interested in...</h3>
+<div>
+<table class="dataTable" width="100%" cellpadding="0" cellspacing="0" border="0" style="color:#404053; margin-top:5px;">
+<tr>
+<th colspan="2">Query</th>
+<th class="number">Activity</th>
+</tr>
+</table>
+<table class="dataTable" width="100%" cellpadding="0" cellspacing="0" border="0" style="color:#404053;">
+<tr>
+<td class="count">1</td>
+<td>
+<span class="searchLink" p="oppkey" r="site_siteinfo"  s="wikileaks.org" >Dns Server</span>
+</td>
+<td class="number">
+<span class="geo_bar" style="float:right;">
+<span style="width: 100px" class="geo_stat"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="count">2</td>
+<td>
+<span class="searchLink" p="oppkey" r="site_siteinfo"  s="wikileaks.org" >Punternet</span>
+</td>
+<td class="number">
+<span class="geo_bar" style="float:right;">
+<span style="width: 100px" class="geo_stat"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="count">3</td>
+<td>
+<span class="searchLink" p="oppkey" r="site_siteinfo"  s="wikileaks.org" >Denic</span>
+</td>
+<td class="number">
+<span class="geo_bar" style="float:right;">
+<span style="width: 100px" class="geo_stat"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="count">4</td>
+<td>
+<span class="searchLink" p="oppkey" r="site_siteinfo"  s="wikileaks.org" >Wikileaks</span>
+</td>
+<td class="number">
+<span class="geo_bar" style="float:right;">
+<span style="width: 100px" class="geo_stat"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="count">5</td>
+<td>
+<span class="searchLink" p="oppkey" r="site_siteinfo"  s="wikileaks.org" >Bnp Membership List</span>
+</td>
+<td class="number">
+<span class="geo_bar" style="float:right;">
+<span style="width: 99.586px" class="geo_stat"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="count">6</td>
+<td>
+<span class="searchLink" p="oppkey" r="site_siteinfo"  s="wikileaks.org" >Enom Inc</span>
+</td>
+<td class="number">
+<span class="geo_bar" style="float:right;">
+<span style="width: 99.586px" class="geo_stat"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="count">7</td>
+<td>
+<span class="searchLink" p="oppkey" r="site_siteinfo"  s="wikileaks.org" >Wiki Leaks</span>
+</td>
+<td class="number">
+<span class="geo_bar" style="float:right;">
+<span style="width: 92.5607px" class="geo_stat"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="count">8</td>
+<td>
+<span class="searchLink" p="oppkey" r="site_siteinfo"  s="wikileaks.org" >wikileaks.org</span>
+</td>
+<td class="number">
+<span class="geo_bar" style="float:right;">
+<span style="width: 90.3724px" class="geo_stat"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="count">9</td>
+<td>
+<span class="searchLink" p="oppkey" r="site_siteinfo"  s="wikileaks.org" >Wikileak</span>
+</td>
+<td class="number">
+<span class="geo_bar" style="float:right;">
+<span style="width: 86.4952px" class="geo_stat"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td class="count">10</td>
+<td>
+<span class="searchLink" p="oppkey" r="site_siteinfo"  s="wikileaks.org" >Jæger - I Krig Med Eliten</span>
+</td>
+<td class="number">
+<span class="geo_bar" style="float:right;">
+<span style="width: 85.7932px" class="geo_stat"></span>
+</span>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</div>
+<br style="clear: both;" />
+<p>Wikileaks has a three-month global Alexa traffic rank of 865.  The fraction of visits to the site referred by search engines is approximately 33%.  It can be found in the &ldquo;Multi-issue Publications&rdquo; category.  While the site is ranked #459 in the US, where roughly 17% of its visitors are located, it is also popular in Pakistan, where it is ranked #122.  Compared with all internet users, Wikileaks&#39;s users are disproportionately male, and they are disproportionately childless, low-income users browsing from school who have postgraduate educations.</p>
+<table id="siteStats">
+<tr>
+<td class="start">
+<div class="data">
+<a href="/write/review/wikileaks.org" rel="nofollow">
+<div  id=""  style=" "
+class="stars rating-none" title="none Star"><span>none         Star</span></div>
+</a>
+</div>
+<div class="label">(No reviews yet)</div>
+</td>
+<td>
+<div class="data up">
+<img src="/images/icons/globe-sm.jpg" alt="Global" style="margin-bottom:-2px;"/>
+865                            </div>
+<div class="label">Alexa Traffic Rank
+<span class="tt  " >
+<img src="/images/icons/icon_tip.png" width="12" height="12" alt=""/>
+<span class="tooltip">
+<span class="top"></span>
+<span class="middle"><strong>Alexa Traffic Rank</strong><br/>A measure of wikileaks.org's popularity.<br/><br/>
+The rank is calculated using a combination of average daily visitors to wikileaks.org and pageviews on wikileaks.org over the past 3 months.
+The site with the highest combination of visitors and pageviews is ranked #1.<br/><br/><strong>Updated Daily</strong></span>
+<span class="bottom"></span>
+</span>
+</span>             </div>
+</td>
+<td>
+<div class="data">
+<img class="dynamic-icon" src="/images/flags/us.png"
+alt="United States Flag"/>
+459              </div>
+<div class="label">Traffic Rank in
+<a href='/topsites/countries/US' title="United States">US</a>
+<span class="tt  " >
+<img src="/images/icons/icon_tip.png" width="12" height="12" alt=""/>
+<span class="tooltip">
+<span class="top"></span>
+<span class="middle"><strong>Traffic Rank in Country</strong><br/>A measure of
+wikileaks.org's popularity in a specific country.   The complete list of wikileaks.org's ranks by
+country is on the 'Traffic Stats' tab below.<br/><br/> The rank by country is
+calculated using a combination of average daily visitors to wikileaks.org and pageviews on wikileaks.org from
+users from that country over the past 3 months. The site with the highest
+combination of visitors and pageviews is ranked #1 in that
+country.<br/><br/><strong>Updated Daily</strong></span>
+<span class="bottom"></span>
+</span>
+</span>               </div>
+</td>
+<td class="end">
+<div class="data">
+<a href="/site/linksin/wikileaks.org">
+4,345                </a>
+</div>
+<div class="label">Sites Linking In             <span class="tt  " >
+<img src="/images/icons/icon_tip.png" width="12" height="12" alt=""/>
+<span class="tooltip">
+<span class="top"></span>
+<span class="middle"><strong>Sites Linking In</strong><br/>A measure of wikileaks.org's reputation.<br/><br/>
+The number of links to wikileaks.org from sites visited by users in the Alexa traffic panel.   Links that were not seen by users in the Alexa traffic panel are not counted. Multiple links from the same site are only counted once.  <br/><br/><strong>
+Updated Quarterly</strong></span>
+<span class="bottom"></span>
+</span>
+</span>             </div>
+</td>
+</tr>
+</table>
+</div>
+<div id="siteinfotabs" class="tabmodule">
+<ul id="navigationTabs" class="tabnav">
+<li id="trafficstats_li"><a id="trafficstats_a" class="infoTab">Traffic Stats</a></li>
+<li id="keywords_li"><a id="keywords_a" class="infoTab">Search Analytics</a></li>
+<li id="demographics_li"><a id="demographics_a" class="infoTab">Audience</a></li>
+<li id="contactinfo_li"><a id="contactinfo_a" class="infoTab">Contact Info</a></li>
+<li id="reviews_li"><a id="reviews_a" class="infoTab">Reviews</a></li>
+<li id="relatedlinks_li"><a id="relatedlinks_a" class="infoTab">Related Links</a></li>
+<li id="clickstream_li" style="margin-right:0px;"><a id="clickstream_a" class="infoTab">Clickstream</a></li>
+</ul>
+<br style="clear:both"/>
+<div id="trafficstats_div" class="module textOff">
+<div id="tw-tabmodule" class="clearfix">
+<ul id="tw-tabList" class="tw-tabnav" >
+<li class="selected"><a href="#rank" >Traffic Rank</a></li>
+<li><a href="#reach">Reach</a></li>
+<li><a href="#pageviews">Pageviews</a></li>
+<li><a href="#pageviews_per_user">Pageviews/User</a></li>
+<li><a href="#bounce">Bounce %</a></li>
+<li><a href="#time_on_site">Time on Site</a></li>
+<li><a href="#search">Search %</a></li>
+</ul>
+<div id="tw-tabContainers" class="traffic-graph-page">
+<div class="tw-graph">
+<img id="tw-graphImg" src="http://traffic.alexa.com/graph?&w=400&h=220&o=f&c=1&y=t&b=ffffff&n=666666&r=3m&u=wikileaks.org&"/>
+<select id="date-range">
+<option value='7d'  >Trailing 7 days </option>
+<option value='1m'  >Trailing 1 month </option>
+<option value='3m' selected='selected' >Trailing 3 months </option>
+<option value='6m'  >Trailing 6 months </option>
+<option value='2y'  >Max</option>
+</select>
+</div>
+<div id="rank" c="1" y="t" class="tw-table">
+<p>Alexa traffic rank for wikileaks.org:</p>
+<table class="rank">
+<tr>
+<td>&nbsp;</td>
+<td class="small" align="center">Traffic Rank</td>
+<td colspan="2" class="small" align="center">Change</td>
+</tr>
+<tr class="even">
+<th>Yesterday</th>
+<td class="avg ">55,465</td>
+<td class="percent ">
+-55,011 </td><td class='arrow'><img src='/images/arrows/up_arrow.gif' alt='Change in Traffic Rank over the trailing 1 day period (A negative change means the site is getting more popular)'' title='Change in Traffic Rank over the trailing 1 day period (A negative change means the site is getting more popular)'' /> </td>
+</tr>
+<tr >
+<th>7 day</th>
+<td class="avg ">47,446</td>
+<td class="percent ">
++35,503 </td><td class='arrow'><img src='/images/arrows/down_arrow.gif' alt='Change in Traffic Rank over the trailing 7 day period (A positive change means the site is getting less popular)'' title='Change in Traffic Rank over the trailing 7 day period (A positive change means the site is getting less popular)'' /> </td>
+</tr>
+<tr class="even">
+<th>1 month</th>
+<td class="avg ">329</td>
+<td class="percent ">
+-5,138 </td><td class='arrow'><img src='/images/arrows/up_arrow.gif' alt='Change in Traffic Rank over the trailing 1 month period (A negative change means the site is getting more popular)'' title='Change in Traffic Rank over the trailing 1 month period (A negative change means the site is getting more popular)'' /> </td>
+</tr>
+<tr >
+<th>3 month</th>
+<td class="avg ">865</td>
+<td class="percent ">
+-1,781 </td><td class='arrow'><img src='/images/arrows/up_arrow.gif' alt='Change in Traffic Rank over the trailing 3 month period (A negative change means the site is getting more popular)'' title='Change in Traffic Rank over the trailing 3 month period (A negative change means the site is getting more popular)'' /> </td>
+</tr>
+</table>    </div>
+<div id="pageviews" c="1" y="p"  class="tw-table">
+<p>Percent of global pageviews on wikileaks.org:</p>
+<table class="pageviews_percent">
+<tr>
+<td>&nbsp;</td>
+<td class="small" align="center">Pageviews</td>
+<td colspan="2" class="small" align="center">Change</td>
+</tr>
+<tr class="even">
+<th>Yesterday</th>
+<td class="avg ">0.00005</td>
+<td class="percent ">
++100% </td><td class='arrow'><img src='/images/arrows/up_arrow.gif' alt='Change in Pageviews over the trailing 1 day period '' title='Change in Pageviews over the trailing 1 day period '' /> </td>
+</tr>
+<tr >
+<th>7 day</th>
+<td class="avg ">0.00006</td>
+<td class="percent ">
+-76% </td><td class='arrow'><img src='/images/arrows/down_arrow.gif' alt='Change in Pageviews over the trailing 7 day period '' title='Change in Pageviews over the trailing 7 day period '' /> </td>
+</tr>
+<tr class="even">
+<th>1 month</th>
+<td class="avg ">0.00986</td>
+<td class="percent ">
++1210% </td><td class='arrow'><img src='/images/arrows/up_arrow.gif' alt='Change in Pageviews over the trailing 1 month period '' title='Change in Pageviews over the trailing 1 month period '' /> </td>
+</tr>
+<tr >
+<th>3 month</th>
+<td class="avg ">0.00394</td>
+<td class="percent ">
++133.3% </td><td class='arrow'><img src='/images/arrows/up_arrow.gif' alt='Change in Pageviews over the trailing 3 month period '' title='Change in Pageviews over the trailing 3 month period '' /> </td>
+</tr>
+</table>    </div>
+<div id="reach" c="1" y="r" class="tw-table">
+<p>Percent of global Internet users who visit wikileaks.org:</p>
+<table class="visitors_percent">
+<tr>
+<td>&nbsp;</td>
+<td class="small" align="center">Reach</td>
+<td colspan="2" class="small" align="center">Change</td>
+</tr>
+<tr class="even">
+<th>Yesterday</th>
+<td class="avg ">0.00430</td>
+<td class="percent ">
++90% </td><td class='arrow'><img src='/images/arrows/up_arrow.gif' alt='Change in Reach over the trailing 1 day period '' title='Change in Reach over the trailing 1 day period '' /> </td>
+</tr>
+<tr >
+<th>7 day</th>
+<td class="avg ">0.00540</td>
+<td class="percent ">
+-73% </td><td class='arrow'><img src='/images/arrows/down_arrow.gif' alt='Change in Reach over the trailing 7 day period '' title='Change in Reach over the trailing 7 day period '' /> </td>
+</tr>
+<tr class="even">
+<th>1 month</th>
+<td class="avg ">0.39900</td>
+<td class="percent ">
++1210% </td><td class='arrow'><img src='/images/arrows/up_arrow.gif' alt='Change in Reach over the trailing 1 month period '' title='Change in Reach over the trailing 1 month period '' /> </td>
+</tr>
+<tr >
+<th>3 month</th>
+<td class="avg ">0.16000</td>
+<td class="percent ">
++211% </td><td class='arrow'><img src='/images/arrows/up_arrow.gif' alt='Change in Reach over the trailing 3 month period '' title='Change in Reach over the trailing 3 month period '' /> </td>
+</tr>
+</table>    </div>
+<div id="bounce" c="" y="b" class="tw-table">
+<p>The percentage of visits to wikileaks.org that consist of a single pageview:</p>
+<table class="bounce_percent">
+<tr>
+<td>&nbsp;</td>
+<td class="small" align="center">Bounce %</td>
+<td colspan="2" class="small" align="center">Change</td>
+</tr>
+<tr class="even">
+<th>Yesterday</th>
+<td class="avg ">84.60000</td>
+<td class="percent ">
++2% </td><td class='arrow'><img src='/images/arrows/up_arrow.gif' alt='Change in Bounce % over the trailing 1 day period '' title='Change in Bounce % over the trailing 1 day period '' /> </td>
+</tr>
+<tr >
+<th>7 day</th>
+<td class="avg ">82.20000</td>
+<td class="percent ">
++12% </td><td class='arrow'><img src='/images/arrows/up_arrow.gif' alt='Change in Bounce % over the trailing 7 day period '' title='Change in Bounce % over the trailing 7 day period '' /> </td>
+</tr>
+<tr class="even">
+<th>1 month</th>
+<td class="avg ">49.80000</td>
+<td class="percent ">
+-3% </td><td class='arrow'><img src='/images/arrows/down_arrow.gif' alt='Change in Bounce % over the trailing 1 month period '' title='Change in Bounce % over the trailing 1 month period '' /> </td>
+</tr>
+<tr >
+<th>3 month</th>
+<td class="avg ">50.30000</td>
+<td class="percent ">
++33% </td><td class='arrow'><img src='/images/arrows/up_arrow.gif' alt='Change in Bounce % over the trailing 3 month period '' title='Change in Bounce % over the trailing 3 month period '' /> </td>
+</tr>
+</table>    </div>
+<div id="pageviews_per_user" c="" y="u" class="tw-table">
+<p>Daily pageviews per user for wikileaks.org:</p>
+<table class="pageviews_per_visitor">
+<tr>
+<td>&nbsp;</td>
+<td class="small" align="center">Pageviews/User</td>
+<td colspan="2" class="small" align="center">Change</td>
+</tr>
+<tr class="even">
+<th>Yesterday</th>
+<td class="avg ">1.10000</td>
+<td class="percent ">
++6% </td><td class='arrow'><img src='/images/arrows/up_arrow.gif' alt='Change in Pageviews/User over the trailing 1 day period '' title='Change in Pageviews/User over the trailing 1 day period '' /> </td>
+</tr>
+<tr >
+<th>7 day</th>
+<td class="avg ">1.04000</td>
+<td class="percent ">
+-9% </td><td class='arrow'><img src='/images/arrows/down_arrow.gif' alt='Change in Pageviews/User over the trailing 7 day period '' title='Change in Pageviews/User over the trailing 7 day period '' /> </td>
+</tr>
+<tr class="even">
+<th>1 month</th>
+<td class="avg ">2.54000</td>
+<td class="percent ">
+0% </td><td class='arrow'> </td>
+</tr>
+<tr >
+<th>3 month</th>
+<td class="avg ">2.52000</td>
+<td class="percent ">
+-25% </td><td class='arrow'><img src='/images/arrows/down_arrow.gif' alt='Change in Pageviews/User over the trailing 3 month period '' title='Change in Pageviews/User over the trailing 3 month period '' /> </td>
+</tr>
+</table>    </div>
+<div id="time_on_site" c="" y="s" class="tw-table">
+<p>Daily time on site for wikileaks.org:</p>
+<table class="time_on_site">
+<tr>
+<td>&nbsp;</td>
+<td class="small" align="center">Time on Site</td>
+<td colspan="2" class="small" align="center">Change</td>
+</tr>
+<tr class="even">
+<th>Yesterday</th>
+<td class="avg ">0.48167</td>
+<td class="percent ">
++68% </td><td class='arrow'><img src='/images/arrows/up_arrow.gif' alt='Change in Time on Site over the trailing 1 day period '' title='Change in Time on Site over the trailing 1 day period '' /> </td>
+</tr>
+<tr >
+<th>7 day</th>
+<td class="avg ">0.44167</td>
+<td class="percent ">
+-5% </td><td class='arrow'><img src='/images/arrows/down_arrow.gif' alt='Change in Time on Site over the trailing 7 day period '' title='Change in Time on Site over the trailing 7 day period '' /> </td>
+</tr>
+<tr class="even">
+<th>1 month</th>
+<td class="avg ">2.55333</td>
+<td class="percent ">
++26% </td><td class='arrow'><img src='/images/arrows/up_arrow.gif' alt='Change in Time on Site over the trailing 1 month period '' title='Change in Time on Site over the trailing 1 month period '' /> </td>
+</tr>
+<tr >
+<th>3 month</th>
+<td class="avg ">2.47333</td>
+<td class="percent ">
+-27% </td><td class='arrow'><img src='/images/arrows/down_arrow.gif' alt='Change in Time on Site over the trailing 3 month period '' title='Change in Time on Site over the trailing 3 month period '' /> </td>
+</tr>
+</table>    </div>
+<div id="search" c="" y="q" class="tw-table">
+<p>The percentage of visits to wikileaks.org that came from a search engine:</p>
+<table class="search_percent">
+<tr>
+<td>&nbsp;</td>
+<td class="small" align="center">Search %</td>
+<td colspan="2" class="small" align="center">Change</td>
+</tr>
+<tr class="even">
+<th>Yesterday</th>
+<td class="avg nodata"> - </td>
+<td class="percent nodata">
+- </td><td>            <span class="tt  " >
+<img src="/images/icons/icon_tip.png" width="12" height="12" alt=""/>
+<span class="tooltip">
+<span class="top"></span>
+<span class="middle">We do not have enough data to display this metric for this site.</span>
+<span class="bottom"></span>
+</span>
+</span> </td></td>
+</tr>
+<tr >
+<th>7 day</th>
+<td class="avg nodata"> - </td>
+<td class="percent nodata">
+- </td><td>            <span class="tt  " >
+<img src="/images/icons/icon_tip.png" width="12" height="12" alt=""/>
+<span class="tooltip">
+<span class="top"></span>
+<span class="middle">We do not have enough data to display this metric for this site.</span>
+<span class="bottom"></span>
+</span>
+</span> </td></td>
+</tr>
+<tr class="even">
+<th>1 month</th>
+<td class="avg ">31.90000</td>
+<td class="percent ">
+-13% </td><td class='arrow'><img src='/images/arrows/down_arrow.gif' alt='Change in Search % over the trailing 1 month period '' title='Change in Search % over the trailing 1 month period '' /> </td>
+</tr>
+<tr >
+<th>3 month</th>
+<td class="avg ">32.50000</td>
+<td class="percent ">
++11% </td><td class='arrow'><img src='/images/arrows/up_arrow.gif' alt='Change in Search % over the trailing 3 month period '' title='Change in Search % over the trailing 3 month period '' /> </td>
+</tr>
+</table>    </div>
+</div>
+<div id="tw-compareto" class="compare-to">
+<div class="compare-text">Compare <strong>wikileaks.org</strong> to:</div>
+<input class="tw-sites" type="text" name="site2" value="">
+<input class="tw-sites" type="text" name="site3" value="">
+<input class="tw-sites"type="text" name="site4" value="">
+<input class="tw-sites" type="text" name="site5" value="">
+<button id="tw-compare" class="trackme"><img src="/images/buttons/button-compare.png" alt="Compare"></button>
+</div>
+</div>
+<br clear="all"/>
+<div class="sharing">
+<span class="shareText">Share this:</span>
+<a onclick="wallposting2( '', 'wikileaks.org', '', '', '', 'siteinfo')" target="_blank"
+class="social" name="facebook/siteinfo/wikileaks.org" rel="nofollow">
+<img src="/images/icons/facebook_share_icon.gif" alt="Facebook" width="16" height="16">
+</a>
+<a class="social" name="twitter/siteinfo/wikileaks.org"
+href="http://twitter.com/home?status=Check out Alexa's site info page for wikileaks.org http://www.alexa.com/siteinfo/wikileaks.org%23trafficstats"
+target="_blank" rel="nofollow"><img src="/images/icons/twiitericon.gif" alt="Twitter" width="16" height="16">
+</a>
+<a id="ax_bookmarkAnchor" href="http://www.alexa.com/siteinfo/wikileaks.org#trafficstats"
+class="jqbookmark" rel="nofollow"
+title="wikileaks.org - Traffic Details from Alexa">
+<span title="Bookmark this page">
+<img src="/images/icons/bookmark.png" alt="Bookmark" width="16" height="16">
+</span>
+</a>
+</div>
+<div class="help alignleft" style="margin-left:10px;">Learn more about
+<a href="/help/traffic-learn-more">Alexa Traffic Stats</a>.
+</div>
+<br clear="all"/>
+<div class="speedAd">
+<div class="content1" style="width: 322px;">
+<h2>Average Load Time for Wikileaks.org</h2>
+<p><span class="Fast">Fast</span> (0.934 Seconds), 75% of sites are slower.</p>
+<p class="help">Note: Slow sites may be penalized by search engines.</p>
+</div>
+<div id="crescendo" class="content1 adImage" style="margin-left: 12px; width: 330px;">
+</div>
+</div>
+<div class="content1" id="traffic-rank-by-country">
+<h2>Wikileaks.org&#146;s Worldwide Traffic Rank</h2>
+<div class="th1">
+<p class="th1" style="width: 50%">Country</p>
+<p class="th1" style="width: 50%; text-align: right;">Rank</p>
+</div>
+<div class="tr1 first_row">
+<p class="tc1" style="width:60%">
+<a href="/topsites/countries/PK">
+<img class="dynamic-icon" src="/images/flags/pk.png" alt="Pakistan Flag"/> &nbsp;Pakistan
+</a>
+</p>
+<p class="tc1" style="width:40%; text-align:right;">122</p>
+</div>
+<div class="tr1 ">
+<p class="tc1" style="width:60%">
+<a href="/topsites/countries/AZ">
+<img class="dynamic-icon" src="/images/flags/az.png" alt="Azerbaijan Flag"/> &nbsp;Azerbaijan
+</a>
+</p>
+<p class="tc1" style="width:40%; text-align:right;">153</p>
+</div>
+<div class="tr1 ">
+<p class="tc1" style="width:60%">
+<a href="/topsites/countries/AT">
+<img class="dynamic-icon" src="/images/flags/at.png" alt="Austria Flag"/> &nbsp;Austria
+</a>
+</p>
+<p class="tc1" style="width:40%; text-align:right;">164</p>
+</div>
+<div class="tr1 ">
+<p class="tc1" style="width:60%">
+<a href="/topsites/countries/SE">
+<img class="dynamic-icon" src="/images/flags/se.png" alt="Sweden Flag"/> &nbsp;Sweden
+</a>
+</p>
+<p class="tc1" style="width:40%; text-align:right;">196</p>
+</div>
+<div class="tr1 ">
+<p class="tc1" style="width:60%">
+<a href="/topsites/countries/IT">
+<img class="dynamic-icon" src="/images/flags/it.png" alt="Italy Flag"/> &nbsp;Italy
+</a>
+</p>
+<p class="tc1" style="width:40%; text-align:right;">200</p>
+</div>
+<div id="moreCountry" class="textOff">
+<div class="tr1">
+<p class="tc1" style="width:60%">
+<a href="/topsites/countries/TR">
+<img class="dynamic-icon" src="/images/flags/tr.png" alt="Turkey Flag"/> &nbsp;Turkey
+</a>
+</p>
+<p class="tc1" style="width:40%; text-align:right;">213</p>
+</div>
+<div class="tr1">
+<p class="tc1" style="width:60%">
+<a href="/topsites/countries/ZA">
+<img class="dynamic-icon" src="/images/flags/za.png" alt="South Africa Flag"/> &nbsp;South Africa
+</a>
+</p>
+<p class="tc1" style="width:40%; text-align:right;">216</p>
+</div>
+<div class="tr1">
+<p class="tc1" style="width:60%">
+<a href="/topsites/countries/FI">
+<img class="dynamic-icon" src="/images/flags/fi.png" alt="Finland Flag"/> &nbsp;Finland
+</a>
+</p>
+<p class="tc1" style="width:40%; text-align:right;">218</p>
+</div>
+<div class="tr1">
+<p class="tc1" style="width:60%">
+<a href="/topsites/countries/NL">
+<img class="dynamic-icon" src="/images/flags/nl.png" alt="Netherlands Flag"/> &nbsp;Netherlands
+</a>
+</p>
+<p class="tc1" style="width:40%; text-align:right;">228</p>
+</div>
+<div class="tr1">
+<p class="tc1" style="width:60%">
+<a href="/topsites/countries/BD">
+<img class="dynamic-icon" src="/images/flags/bd.png" alt="Bangladesh Flag"/> &nbsp;Bangladesh
+</a>
+</p>
+<p class="tc1" style="width:40%; text-align:right;">246</p>
+</div>
+<div class="tr1">
+<p class="tc1" style="width:60%">
+<a href="/topsites/countries/DE">
+<img class="dynamic-icon" src="/images/flags/de.png" alt="Germany Flag"/> &nbsp;Germany
+</a>
+</p>
+<p class="tc1" style="width:40%; text-align:right;">247</p>
+</div>
+<div class="tr1">
+<p class="tc1" style="width:60%">
+<a href="/topsites/countries/AR">
+<img class="dynamic-icon" src="/images/flags/ar.png" alt="Argentina Flag"/> &nbsp;Argentina
+</a>
+</p>
+<p class="tc1" style="width:40%; text-align:right;">251</p>
+</div>
+<div class="tr1">
+<p class="tc1" style="width:60%">
+<a href="/topsites/countries/CH">
+<img class="dynamic-icon" src="/images/flags/ch.png" alt="Switzerland Flag"/> &nbsp;Switzerland
+</a>
+</p>
+<p class="tc1" style="width:40%; text-align:right;">275</p>
+</div>
+<div class="tr1">
+<p class="tc1" style="width:60%">
+<a href="/topsites/countries/GB">
+<img class="dynamic-icon" src="/images/flags/gb.png" alt="United Kingdom Flag"/> &nbsp;United Kingdom
+</a>
+</p>
+<p class="tc1" style="width:40%; text-align:right;">285</p>
+</div>
+<div class="tr1">
+<p class="tc1" style="width:60%">
+<a href="/topsites/countries/CA">
+<img class="dynamic-icon" src="/images/flags/ca.png" alt="Canada Flag"/> &nbsp;Canada
+</a>
+</p>
+<p class="tc1" style="width:40%; text-align:right;">287</p>
+</div>
+<div class="tr1">
+<p class="tc1" style="width:60%">
+<a href="/topsites/countries/AU">
+<img class="dynamic-icon" src="/images/flags/au.png" alt="Australia Flag"/> &nbsp;Australia
+</a>
+</p>
+<p class="tc1" style="width:40%; text-align:right;">288</p>
+</div>
+<div class="tr1">
+<p class="tc1" style="width:60%">
+<a href="/topsites/countries/CO">
+<img class="dynamic-icon" src="/images/flags/co.png" alt="Colombia Flag"/> &nbsp;Colombia
+</a>
+</p>
+<p class="tc1" style="width:40%; text-align:right;">288</p>
+</div>
+<div class="tr1">
+<p class="tc1" style="width:60%">
+<a href="/topsites/countries/NO">
+<img class="dynamic-icon" src="/images/flags/no.png" alt="Norway Flag"/> &nbsp;Norway
+</a>
+</p>
+<p class="tc1" style="width:40%; text-align:right;">291</p>
+</div>
+<div class="tr1">
+<p class="tc1" style="width:60%">
+<a href="/topsites/countries/VE">
+<img class="dynamic-icon" src="/images/flags/ve.png" alt="Venezuela Flag"/> &nbsp;Venezuela
+</a>
+</p>
+<p class="tc1" style="width:40%; text-align:right;">294</p>
+</div>
+<div class="tr1">
+<p class="tc1" style="width:60%">
+<a href="/topsites/countries/IN">
+<img class="dynamic-icon" src="/images/flags/in.png" alt="India Flag"/> &nbsp;India
+</a>
+</p>
+<p class="tc1" style="width:40%; text-align:right;">332</p>
+</div>
+<div class="tr1">
+<p class="tc1" style="width:60%">
+<a href="/topsites/countries/GR">
+<img class="dynamic-icon" src="/images/flags/gr.png" alt="Greece Flag"/> &nbsp;Greece
+</a>
+</p>
+<p class="tc1" style="width:40%; text-align:right;">332</p>
+</div>
+<div class="tr1">
+<p class="tc1" style="width:60%">
+<a href="/topsites/countries/ID">
+<img class="dynamic-icon" src="/images/flags/id.png" alt="Indonesia Flag"/> &nbsp;Indonesia
+</a>
+</p>
+<p class="tc1" style="width:40%; text-align:right;">355</p>
+</div>
+<div class="tr1">
+<p class="tc1" style="width:60%">
+<a href="/topsites/countries/MX">
+<img class="dynamic-icon" src="/images/flags/mx.png" alt="Mexico Flag"/> &nbsp;Mexico
+</a>
+</p>
+<p class="tc1" style="width:40%; text-align:right;">367</p>
+</div>
+<div class="tr1">
+<p class="tc1" style="width:60%">
+<a href="/topsites/countries/RO">
+<img class="dynamic-icon" src="/images/flags/ro.png" alt="Romania Flag"/> &nbsp;Romania
+</a>
+</p>
+<p class="tc1" style="width:40%; text-align:right;">392</p>
+</div>
+<div class="tr1">
+<p class="tc1" style="width:60%">
+<a href="/topsites/countries/DZ">
+<img class="dynamic-icon" src="/images/flags/dz.png" alt="Algeria Flag"/> &nbsp;Algeria
+</a>
+</p>
+<p class="tc1" style="width:40%; text-align:right;">444</p>
+</div>
+<div class="tr1">
+<p class="tc1" style="width:60%">
+<a href="/topsites/countries/US">
+<img class="dynamic-icon" src="/images/flags/us.png" alt="United States Flag"/> &nbsp;United States
+</a>
+</p>
+<p class="tc1" style="width:40%; text-align:right;">459</p>
+</div>
+<div class="tr1">
+<p class="tc1" style="width:60%">
+<a href="/topsites/countries/ES">
+<img class="dynamic-icon" src="/images/flags/es.png" alt="Spain Flag"/> &nbsp;Spain
+</a>
+</p>
+<p class="tc1" style="width:40%; text-align:right;">465</p>
+</div>
+<div class="tr1">
+<p class="tc1" style="width:60%">
+<a href="/topsites/countries/EG">
+<img class="dynamic-icon" src="/images/flags/eg.png" alt="Egypt Flag"/> &nbsp;Egypt
+</a>
+</p>
+<p class="tc1" style="width:40%; text-align:right;">467</p>
+</div>
+<div class="tr1">
+<p class="tc1" style="width:60%">
+<a href="/topsites/countries/KR">
+<img class="dynamic-icon" src="/images/flags/kr.png" alt="South Korea Flag"/> &nbsp;South Korea
+</a>
+</p>
+<p class="tc1" style="width:40%; text-align:right;">477</p>
+</div>
+<div class="tr1">
+<p class="tc1" style="width:60%">
+<a href="/topsites/countries/PL">
+<img class="dynamic-icon" src="/images/flags/pl.png" alt="Poland Flag"/> &nbsp;Poland
+</a>
+</p>
+<p class="tc1" style="width:40%; text-align:right;">488</p>
+</div>
+<div class="tr1">
+<p class="tc1" style="width:60%">
+<a href="/topsites/countries/UA">
+<img class="dynamic-icon" src="/images/flags/ua.png" alt="Ukraine Flag"/> &nbsp;Ukraine
+</a>
+</p>
+<p class="tc1" style="width:40%; text-align:right;">501</p>
+</div>
+<div class="tr1">
+<p class="tc1" style="width:60%">
+<a href="/topsites/countries/RU">
+<img class="dynamic-icon" src="/images/flags/ru.png" alt="Russia Flag"/> &nbsp;Russia
+</a>
+</p>
+<p class="tc1" style="width:40%; text-align:right;">505</p>
+</div>
+<div class="tr1">
+<p class="tc1" style="width:60%">
+<a href="/topsites/countries/FR">
+<img class="dynamic-icon" src="/images/flags/fr.png" alt="France Flag"/> &nbsp;France
+</a>
+</p>
+<p class="tc1" style="width:40%; text-align:right;">640</p>
+</div>
+<div class="tr1">
+<p class="tc1" style="width:60%">
+<a href="/topsites/countries/IR">
+<img class="dynamic-icon" src="/images/flags/ir.png" alt="Iran Flag"/> &nbsp;Iran
+</a>
+</p>
+<p class="tc1" style="width:40%; text-align:right;">836</p>
+</div>
+<div class="tr1">
+<p class="tc1" style="width:60%">
+<a href="/topsites/countries/SA">
+<img class="dynamic-icon" src="/images/flags/sa.png" alt="Saudi Arabia Flag"/> &nbsp;Saudi Arabia
+</a>
+</p>
+<p class="tc1" style="width:40%; text-align:right;">843</p>
+</div>
+<div class="tr1">
+<p class="tc1" style="width:60%">
+<a href="/topsites/countries/BR">
+<img class="dynamic-icon" src="/images/flags/br.png" alt="Brazil Flag"/> &nbsp;Brazil
+</a>
+</p>
+<p class="tc1" style="width:40%; text-align:right;">1,059</p>
+</div>
+<div class="tr1">
+<p class="tc1" style="width:60%">
+<a href="/topsites/countries/JP">
+<img class="dynamic-icon" src="/images/flags/jp.png" alt="Japan Flag"/> &nbsp;Japan
+</a>
+</p>
+<p class="tc1" style="width:40%; text-align:right;">1,796</p>
+</div>
+<div class="tr1">
+<p class="tc1" style="width:60%">
+<a href="/topsites/countries/CN">
+<img class="dynamic-icon" src="/images/flags/cn.png" alt="China Flag"/> &nbsp;China
+</a>
+</p>
+<p class="tc1" style="width:40%; text-align:right;">5,549</p>
+</div>
+</div>
+<div class="tr1">
+<a id="toggleMoreCountry" style="margin:0px;">More</a>
+</div>
+</div>
+<div class="content1" id="where-visitors-go" style="margin-left:20px;">
+<h2>Where Visitors Go on Wikileaks.org</h2>
+<div class="th1">
+<p class="th1" style="width:50%">Subdomain</p>
+<p class="th1" style="width:50%; text-align:right;">Percent of Site Traffic</p>
+</div>
+<div class="tr1  first_row">
+<p class="tc1" style="width:70%">wikileaks.org</p>
+<p class="tc1" style="width:30%; text-align:right;">
+89.0%
+</p>
+</div>
+<div class="tr1  ">
+<p class="tc1" style="width:70%">mail.wikileaks.org</p>
+<p class="tc1" style="width:30%; text-align:right;">
+10.7%
+</p>
+</div>
+<div class="tr1  ">
+<p class="tc1" style="width:70%">secure.wikileaks.org</p>
+<p class="tc1" style="width:30%; text-align:right;">
+0.3%
+</p>
+</div>
+<span id="moreTraffic" class="textOff">
+</span>
+</div>
+<br clear="all" />
+<div class="content1 noborder" style="margin: 20px 20px 0 0">
+<h2>Audience Snapshot</h2>
+</div>
+<div class="content1 noborder" style="margin-top: 20px;">
+<h2>Top Search Queries for Wikileaks.org</h2>
+</div>
+<br clear="all"/>
+<div class="content1 noborder" style="margin-right: 20px;">
+<div>
+Based on internet averages, wikileaks.org is visited more frequently by <strong>males</strong> who are in the age range <strong>18-24</strong>, have <strong>no children</strong>, are <strong>graduate school</strong> educated and browse this site from <strong>school</strong>.</div>                <a onclick="selectTab('#demographics'); return true;" href="#">Get complete site demographics.</a>
+</div>
+<div class="content1 noborder">
+<div id="searchtermsDiv">
+<table class="dataTable" width="100%" cellpadding="0" cellspacing="0" border="0">
+<tr>
+<th>Query</th>
+<th style="text-align:right;">Percent of Search Traffic</th>
+</tr>
+</table>
+<table class="dataTable" width="100%" cellpadding="0" cellspacing="0" border="0">
+<tr>
+<td class="count">1</td>
+<td>
+<span class="searchLink" p="trafkey" r="site_siteinfo" s="wikileaks.org" >wikileaks</span>
+</td>
+<td class="number">82.44%</td>
+</tr>
+<tr>
+<td class="count">2</td>
+<td>
+<span class="searchLink" p="trafkey" r="site_siteinfo" s="wikileaks.org" >wiki leaks</span>
+</td>
+<td class="number">5.50%</td>
+</tr>
+<tr>
+<td class="count">3</td>
+<td>
+<span class="searchLink" p="trafkey" r="site_siteinfo" s="wikileaks.org" >wikileak</span>
+</td>
+<td class="number">2.29%</td>
+</tr>
+<tr>
+<td class="count">4</td>
+<td>
+<span class="searchLink" p="trafkey" r="site_siteinfo" s="wikileaks.org" >wikileaks.org</span>
+</td>
+<td class="number">1.23%</td>
+</tr>
+<tr>
+<td class="count">5</td>
+<td>
+<span class="searchLink" p="trafkey" r="site_siteinfo" s="wikileaks.org" >wikileaks website</span>
+</td>
+<td class="number">0.41%</td>
+</tr>
+<tr>
+<td class="count">6</td>
+<td>
+<span class="searchLink" p="trafkey" r="site_siteinfo" s="wikileaks.org" >wikiliks</span>
+</td>
+<td class="number">0.39%</td>
+</tr>
+<tr>
+<td class="count">7</td>
+<td>
+<span class="searchLink" p="trafkey" r="site_siteinfo" s="wikileaks.org" >wiki leak</span>
+</td>
+<td class="number">0.32%</td>
+</tr>
+</table></div>
+</div>
+<br clear="all"/>
+<div class="content1 noborder" style="margin-right: 20px;">
+<div class="link1">
+<p class="tc1 centered">
+<a onclick="selectTab('#demographics'); return true;" href="#">View the full Audience Profile</a>
+</p>
+</div>
+</div>
+<div class="content1 noborder">
+<div class="link1">
+<p class="tc1 centered">
+<a class="trackme-cross" name="/crosspromo/links/main-content-area/top-search-queries"
+onclick="selectTab('#keywords'); return true;" href="#">View the complete Search Analytics</a>
+</p>
+</div>
+</div>
+<div style="clear:both;margin:10px;">&nbsp;</div>
+<br clear="all"/>
+<h2>Is this your website?</h2>
+<ul class="bullets">
+<li>Update your listing data using our
+<a href="/edit/index/wikileaks.org"  >Self-service tools</a>
+</li>
+<li> Improve your SEO with an <a href="/siteaudit/">Alexa Site Audit</a> for wikileaks.org.  </li>
+</ul>
+</div>
+<div id="keywords_div" class="module textOff">
+<a name="sem"></a>
+<div class="content1 noborder" id="search-traffic">
+<h2>Search Traffic</h2>
+<p>The percentage of site visits from search engines.</p>
+<p><img src="http://traffic.alexa.com/graph?&w=300&h=180&o=lf&c=1&y=q&b=ffffff&r=1m&u=wikileaks.org"></p>
+<div style="width:300px; border-bottom:1px solid #c7c7c7;">
+<table class="dataTable" width="100%" cellpadding="0" cellspacing="0" border="0">
+<tr>
+<th>Period</td>
+<th class="number">Percent of Site Traffic</td>
+</tr>
+</table>
+<table class="dataTable" width="100%" cellpadding="0" cellspacing="0" border="0">
+<tr>
+<td>Last 30 days</td>
+<td class="number">31.9%</td>
+</tr>
+<tr>
+<td>Last 7 days</td>
+<td class="number"> - </td>
+</tr>
+<tr>
+<td>Yesterday</td>
+<td class="number"> - </td>
+</tr>
+</table>
+</div>
+</div>
+<div class="content1" id="top-keywords-from-search" style="margin-left:20px;">
+<h2>Top Queries from Search Traffic</h2>
+<p>The top queries driving traffic to wikileaks.org from search engines. Updated monthly.</p>
+<table class="dataTable" width="100%" cellpadding="0" cellspacing="0" border="0" style="color:#253759;">
+<tr>
+<th width="30%">Query</th>
+<th class="number" width="70%">Percent of Search Traffic</th>
+</tr>
+</table>
+<table class="dataTable" width="100%" cellpadding="0" cellspacing="0" border="0" style="color:#253759;">
+<tr>
+<td class="count">1</td>
+<td><span class="searchLink" p="rkey" r="site_siteinfo"  s="wikileaks.org"  ><u>wikileaks</u></span></td>
+<td class="number">82.44%</td>
+</tr>
+<tr>
+<td class="count">2</td>
+<td><span class="searchLink" p="rkey" r="site_siteinfo"  s="wikileaks.org"  ><u>wiki leaks</u></span></td>
+<td class="number">5.50%</td>
+</tr>
+<tr>
+<td class="count">3</td>
+<td><span class="searchLink" p="rkey" r="site_siteinfo"  s="wikileaks.org"  ><u>wikileak</u></span></td>
+<td class="number">2.29%</td>
+</tr>
+<tr>
+<td class="count">4</td>
+<td><span class="searchLink" p="rkey" r="site_siteinfo"  s="wikileaks.org"  ><u>wikileaks.org</u></span></td>
+<td class="number">1.23%</td>
+</tr>
+<tr>
+<td class="count">5</td>
+<td><span class="searchLink" p="rkey" r="site_siteinfo"  s="wikileaks.org"  ><u>wikileaks website</u></span></td>
+<td class="number">0.41%</td>
+</tr>
+<tr>
+<td class="count">6</td>
+<td><span class="searchLink" p="rkey" r="site_siteinfo"  s="wikileaks.org"  ><u>wikiliks</u></span></td>
+<td class="number">0.39%</td>
+</tr>
+<tr>
+<td class="count">7</td>
+<td><span class="searchLink" p="rkey" r="site_siteinfo"  s="wikileaks.org"  ><u>wiki leak</u></span></td>
+<td class="number">0.32%</td>
+</tr>
+<tr>
+<td class="count">8</td>
+<td><span class="searchLink" p="rkey" r="site_siteinfo"  s="wikileaks.org"  ><u>wikileaks.de</u></span></td>
+<td class="number">0.20%</td>
+</tr>
+<tr>
+<td class="count">9</td>
+<td><span class="searchLink" p="rkey" r="site_siteinfo"  s="wikileaks.org"  ><u>wikileaks.com</u></span></td>
+<td class="number">0.19%</td>
+</tr>
+<tr>
+<td class="count">10</td>
+<td><span class="searchLink" p="rkey" r="site_siteinfo"  s="wikileaks.org"  ><u>wikileaks afghanistan</u></span></td>
+<td class="number">0.17%</td>
+</tr>
+</table>
+</div>
+<div style="clear:both; margin:0px; margin-bottom:10px;">&nbsp;</div>
+<div id="text-ad" align="left" style="display:inline;">
+<span class="alignright help">Sponsored Links</span>
+<a href="http://www.keyworddiscovery.com/?id=912"  onclick="trackCustomEvent('ad/trellian-keyword-research-title')"
+title="Identify which keywords are searched for, which keywords drive the most traffic and what the PPC bids are using Trellian&#039;s KeywordDiscovery.com keyword tool."
+target="%t">
+<span style="color:blue">
+<b>Keyword Research Tool - Find More Keywords</b>
+</span>
+</a>
+<br/>
+<span style="color:black">Identify which keywords are searched for, which keywords drive the most traffic and what the PPC bids are using
+<a href="http://www.keyworddiscovery.com/?id=912" onclick="trackCustomEvent('ad/trellian-keyworddiscovery-link')"
+title="Identify which keywords are searched for, which keywords drive the most traffic and what the PPC bids are using Trellian&#039;s KeywordDiscovery.com keyword tool."
+target="%t">Trellian&#039;s KeywordDiscovery.com keyword tool.
+</a>
+</span>
+<br />
+</div>
+<br />
+<div>
+<h2>Search Traffic on the Rise and Decline</h2>
+<p>The top queries from search engines driving relatively more/less traffic to wikileaks.org in the current month than the previous month. Updated monthly.</p>
+<div class="content1" style="margin-left:0px;">
+<table class="dataTable" width="100%" cellpadding="0" cellspacing="0" border="0" >
+<tr>
+<th>Search Query</th>
+<th class="number">1 Month Increase             <span class="tt  " >
+<img src="/images/icons/icon_tip.png" width="12" height="12" alt=""/>
+<span class="tooltip">
+<span class="top"></span>
+<span class="middle">The change in percentage of search traffic to wikileaks.org for each query.</span>
+<span class="bottom"></span>
+</span>
+</span> </th>
+</tr>
+</table>
+<table class="dataTable" width="100%" cellpadding="0" cellspacing="0" border="0" >
+<tr>
+<td class="count">1</td>
+<td><a href="/search?p=moverkey&r=site_site&s=wikileaks.org&q=wikileaks" class="searchLink">wikileaks</a></td>
+<td class="number positive"> 14.05% </td>
+</tr>
+<tr>
+<td class="count">2</td>
+<td><a href="/search?p=moverkey&r=site_site&s=wikileaks.org&q=wikiliks" class="searchLink">wikiliks</a></td>
+<td class="number positive"> 0.23% </td>
+</tr>
+<tr>
+<td class="count">3</td>
+<td><a href="/search?p=moverkey&r=site_site&s=wikileaks.org&q=wikileaks+iraq" class="searchLink">wikileaks iraq</a></td>
+<td class="number positive"> 0.08% </td>
+</tr>
+<tr>
+<td class="count">4</td>
+<td><a href="/search?p=moverkey&r=site_site&s=wikileaks.org&q=%D9%88%DB%8C%DA%A9%DB%8C+%D9%84%DB%8C%DA%A9%D8%B3" class="searchLink">ویکی لیکس</a></td>
+<td class="number positive"> 0.07% </td>
+</tr>
+<tr>
+<td class="count">5</td>
+<td><a href="/search?p=moverkey&r=site_site&s=wikileaks.org&q=wiki+feet" class="searchLink">wiki feet</a></td>
+<td class="number positive"> 0.04% </td>
+</tr>
+<tr>
+<td class="count">6</td>
+<td><a href="/search?p=moverkey&r=site_site&s=wikileaks.org&q=wikileaks+iraq+war" class="searchLink">wikileaks iraq war</a></td>
+<td class="number positive"> 0.03% </td>
+</tr>
+<tr>
+<td class="count">7</td>
+<td><a href="/search?p=moverkey&r=site_site&s=wikileaks.org&q=wikileaks.com" class="searchLink">wikileaks.com</a></td>
+<td class="number positive"> 0.03% </td>
+</tr>
+<tr>
+<td class="count">8</td>
+<td><a href="/search?p=moverkey&r=site_site&s=wikileaks.org&q=wikilis" class="searchLink">wikilis</a></td>
+<td class="number positive"> 0.02% </td>
+</tr>
+<tr>
+<td class="count">9</td>
+<td><a href="/search?p=moverkey&r=site_site&s=wikileaks.org&q=wikileaks+news" class="searchLink">wikileaks news</a></td>
+<td class="number positive"> 0.02% </td>
+</tr>
+<tr>
+<td class="count">10</td>
+<td><a href="/search?p=moverkey&r=site_site&s=wikileaks.org&q=%D9%88%D9%8A%D9%83%D9%8A+%D9%84%D9%8A%D9%83%D8%B3" class="searchLink">ويكي ليكس</a></td>
+<td class="number positive"> 0.01% </td>
+</tr>
+</table>
+</div>
+<div class="content1" style="margin-left:20px;">
+<table class="dataTable" width="100%" cellpadding="0" cellspacing="0" border="0" >
+<tr>
+<th>Search Query</th>
+<th class="number">1 Month Decline             <span class="tt  " >
+<img src="/images/icons/icon_tip.png" width="12" height="12" alt=""/>
+<span class="tooltip">
+<span class="top"></span>
+<span class="middle">The change in percentage of search traffic to wikileaks.org for each query.</span>
+<span class="bottom"></span>
+</span>
+</span> </th>
+</tr>
+</table>
+<table class="dataTable" width="100%" cellpadding="0" cellspacing="0" border="0" >
+<tr>
+<td class="count">1</td>
+<td><a href="/search?p=moverkey&r=site_site&s=wikileaks.org&q=wiki+leaks" class="searchLink">wiki leaks</a></td>
+<td class="number negative"> 1.29% </td>
+</tr>
+<tr>
+<td class="count">2</td>
+<td><a href="/search?p=moverkey&r=site_site&s=wikileaks.org&q=wikileak" class="searchLink">wikileak</a></td>
+<td class="number negative"> 0.73% </td>
+</tr>
+<tr>
+<td class="count">3</td>
+<td><a href="/search?p=moverkey&r=site_site&s=wikileaks.org&q=wiki" class="searchLink">wiki</a></td>
+<td class="number negative"> 0.42% </td>
+</tr>
+<tr>
+<td class="count">4</td>
+<td><a href="/search?p=moverkey&r=site_site&s=wikileaks.org&q=wiki+leak" class="searchLink">wiki leak</a></td>
+<td class="number negative"> 0.34% </td>
+</tr>
+<tr>
+<td class="count">5</td>
+<td><a href="/search?p=moverkey&r=site_site&s=wikileaks.org&q=wikileaks.de" class="searchLink">wikileaks.de</a></td>
+<td class="number negative"> 0.27% </td>
+</tr>
+<tr>
+<td class="count">6</td>
+<td><a href="/search?p=moverkey&r=site_site&s=wikileaks.org&q=wikileaks+scientology" class="searchLink">wikileaks scientology</a></td>
+<td class="number negative"> 0.13% </td>
+</tr>
+<tr>
+<td class="count">7</td>
+<td><a href="/search?p=moverkey&r=site_site&s=wikileaks.org&q=wiki+links" class="searchLink">wiki links</a></td>
+<td class="number negative"> 0.12% </td>
+</tr>
+<tr>
+<td class="count">8</td>
+<td><a href="/search?p=moverkey&r=site_site&s=wikileaks.org&q=wikileaks+killing+video" class="searchLink">wikileaks killing video</a></td>
+<td class="number negative"> 0.12% </td>
+</tr>
+<tr>
+<td class="count">9</td>
+<td><a href="/search?p=moverkey&r=site_site&s=wikileaks.org&q=wikileaks+italia" class="searchLink">wikileaks italia</a></td>
+<td class="number negative"> 0.11% </td>
+</tr>
+<tr>
+<td class="count">10</td>
+<td><a href="/search?p=moverkey&r=site_site&s=wikileaks.org&q=wikilieaks" class="searchLink">wikilieaks</a></td>
+<td class="number negative"> 0.11% </td>
+</tr>
+</table>
+</div>
+</div>
+<br clear="all"/><br/>
+<br />
+<h2>Search Advertising Metrics Highlights</h2>
+<p>Data provided by iSpionage.  Visit iSpionage to discover additional information metrics for wikileaks.org.</p>
+<div id="ispionage-ad">
+<div id="ispionage-table" class="content1">
+<table id="ispionage_stats" class="dataTable">
+<tr>
+<th colspan="3">Last Month Stats (Estimated)</th>
+</tr>
+<tr id="ppcBudget">
+<td class="label">PPC Budget</td>
+<!--      	<td class="stat">Stat</td>        -->
+<!--      	<td class="link">Link</td>-->
+</tr>
+<tr id="lastClicks">
+<td class="label">Last Month Clicks</td>
+</tr>
+<tr id="avgAdPosition">
+<td class="label">Avg. Ad Position</td>
+</tr>
+<tr id="googleKeywords">
+<td class="label">Google PPC Keywords</td>
+</tr>
+<tr id="yahooKeywords">
+<td class="label">Yahoo PPC Keywords</td>
+</tr>
+</table>
+</div>
+<div id="ispionage-graphic" class="content1" style="margin-left: 20px;">
+<a id="ispionage_img_a" href="">
+<img src="/images/ads/ispionage.gif" alt="iSpionage"/>
+<h3>Advertiser: wikileaks.org</h3>
+<img src="/images/ads/ispionage-view-more.gif" alt="Sign Up for Trial"/>
+</a>
+</div>
+</div>
+<br clear="all"/><br/>
+<table id="kw_general" class="dataTable" width="100%" cellpadding="0" cellspacing="0" border="0">
+<tr>
+<td class="noborder" colspan="4" >
+<h2>High Impact Search Queries for wikileaks.org</h2>
+<p>
+Popular queries that are relevant to this site and are actively targeted by competitors advertising on search engines. Click on queries below to discover who is advertising for these queries.
+</p>
+</td>
+</tr>
+<tr>
+<th>Query             <span class="tt  " >
+<img src="/images/icons/icon_tip.png" width="12" height="12" alt=""/>
+<span class="tooltip">
+<span class="top"></span>
+<span class="middle"><strong>Query</strong><br/>A phrase that drives traffic to &#147;wikileaks.org&#148; from search engines.
+This list also includes sub-phrases that account for a high percentage of this site's search traffic broken out separately. For example, if the site receives traffic for 'buy diamond ring', 'diamond necklace', and 'diamond bracelet', the word 'diamond' might also appear in the list.</span>
+<span class="bottom"></span>
+</span>
+</span>         </th>
+<th class="number impact">Impact Factor             <span class="tt  " >
+<img src="/images/icons/icon_tip.png" width="12" height="12" alt=""/>
+<span class="tooltip">
+<span class="top"></span>
+<span class="middle"><strong>Impact Factor</strong><br /> A high value indicates that &#147;wikileaks.org&#148; is getting significant organic search traffic for queries containing these phrases, despite high advertising competition for these phrases. <br/><br/>Impact Factor is a combined measurement of the importance of a particular phrase to the site's search traffic and the level of search engine advertising competition (QCI). The index is on a scale of 0 to 100.<br/><br/><strong>Updated Monthly</strong></span>
+<span class="bottom"></span>
+</span>
+</span>         </th>
+<th class="number popularity">Query Popularity
+<span class="tt  " >
+<img src="/images/icons/icon_tip.png" width="12" height="12" alt=""/>
+<span class="tooltip">
+<span class="top"></span>
+<span class="middle"><strong>Query Popularity</strong><br />
+An estimate of how frequently users search for these keywords, on a scale from 0 to 100. Higher numbers indicate higher frequencies.<br/><br/>
+<strong>Updated Monthly</strong></span>
+<span class="bottom"></span>
+</span>
+</span>         </th>
+<th class="number qci">QCI             <span class="tt  " >
+<img src="/images/icons/icon_tip.png" width="12" height="12" alt=""/>
+<span class="tooltip">
+<span class="top"></span>
+<span class="middle"><strong>The Query Competition Index</strong><br />
+QCI indicates the typical number of ads displayed for keyword searches on major search engines. A large number of ads indicates strong advertising competition for a query. The index is on a scale from 0 to 100.<br/><br/>
+<strong>Updated Monthly</strong></span>
+<span class="bottom"></span>
+</span>
+</span>         </th>
+</tr>
+<tr>
+<td><a href="/search?q=wiki+leaks&p=gkey&r=site_siteinfo&s=wikileaks.org"><u>wiki leaks</u></a></td>
+<td class="number impact">46.91</td>
+<td class="number popularity">
+<span class="alignright">
+<span class="geo_number">47</span>
+<span class="geo_bar"><span style="width: 47px;" class="geo_stat"></span>
+</span>
+</td>
+<td class="number qci">
+<span class="alignright">
+<span class="geo_number">12</span>
+<span class="geo_bar"><span style="width: 12px;" class="geo_stat"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td><a href="/search?q=wikileak&p=gkey&r=site_siteinfo&s=wikileaks.org"><u>wikileak</u></a></td>
+<td class="number impact">15.98</td>
+<td class="number popularity">
+<span class="alignright">
+<span class="geo_number">45</span>
+<span class="geo_bar"><span style="width: 45px;" class="geo_stat"></span>
+</span>
+</td>
+<td class="number qci">
+<span class="alignright">
+<span class="geo_number">10</span>
+<span class="geo_bar"><span style="width: 10px;" class="geo_stat"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td><a href="/search?q=wikileaks.org&p=gkey&r=site_siteinfo&s=wikileaks.org"><u>wikileaks.org</u></a></td>
+<td class="number impact">8.61</td>
+<td class="number popularity">
+<span class="alignright">
+<span class="geo_number">39</span>
+<span class="geo_bar"><span style="width: 39px;" class="geo_stat"></span>
+</span>
+</td>
+<td class="number qci">
+<span class="alignright">
+<span class="geo_number">10</span>
+<span class="geo_bar"><span style="width: 10px;" class="geo_stat"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td><a href="/search?q=wiki+leak&p=gkey&r=site_siteinfo&s=wikileaks.org"><u>wiki leak</u></a></td>
+<td class="number impact">4.54</td>
+<td class="number popularity">
+<span class="alignright">
+<span class="geo_number">30</span>
+<span class="geo_bar"><span style="width: 30px;" class="geo_stat"></span>
+</span>
+</td>
+<td class="number qci">
+<span class="alignright">
+<span class="geo_number">20</span>
+<span class="geo_bar"><span style="width: 20px;" class="geo_stat"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td><a href="/search?q=website&p=gkey&r=site_siteinfo&s=wikileaks.org"><u>website</u></a></td>
+<td class="number impact">3.60</td>
+<td class="number popularity">
+<span class="alignright">
+<span class="geo_number">51</span>
+<span class="geo_bar"><span style="width: 51px;" class="geo_stat"></span>
+</span>
+</td>
+<td class="number qci">
+<span class="alignright">
+<span class="geo_number">51</span>
+<span class="geo_bar"><span style="width: 51px;" class="geo_stat"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td><a href="/search?q=wikileaks+video&p=gkey&r=site_siteinfo&s=wikileaks.org"><u>wikileaks video</u></a></td>
+<td class="number impact">2.96</td>
+<td class="number popularity">
+<span class="alignright">
+<span class="geo_number">29</span>
+<span class="geo_bar"><span style="width: 29px;" class="geo_stat"></span>
+</span>
+</td>
+<td class="number qci">
+<span class="alignright">
+<span class="geo_number">20</span>
+<span class="geo_bar"><span style="width: 20px;" class="geo_stat"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td><a href="/search?q=wikileaks+website&p=gkey&r=site_siteinfo&s=wikileaks.org"><u>wikileaks website</u></a></td>
+<td class="number impact">2.85</td>
+<td class="number popularity">
+<span class="alignright">
+<span class="geo_number">30</span>
+<span class="geo_bar"><span style="width: 30px;" class="geo_stat"></span>
+</span>
+</td>
+<td class="number qci">
+<span class="alignright">
+<span class="geo_number">10</span>
+<span class="geo_bar"><span style="width: 10px;" class="geo_stat"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td><a href="/search?q=wikileaks+iraq&p=gkey&r=site_siteinfo&s=wikileaks.org"><u>wikileaks iraq</u></a></td>
+<td class="number impact">2.42</td>
+<td class="number popularity">
+<span class="alignright">
+<span class="geo_number">22</span>
+<span class="geo_bar"><span style="width: 22px;" class="geo_stat"></span>
+</span>
+</td>
+<td class="number qci">
+<span class="alignright">
+<span class="geo_number">30</span>
+<span class="geo_bar"><span style="width: 30px;" class="geo_stat"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td><a href="/search?q=wikileaks.de&p=gkey&r=site_siteinfo&s=wikileaks.org"><u>wikileaks.de</u></a></td>
+<td class="number impact">1.43</td>
+<td class="number popularity">
+<span class="alignright">
+<span class="geo_number">30</span>
+<span class="geo_bar"><span style="width: 30px;" class="geo_stat"></span>
+</span>
+</td>
+<td class="number qci">
+<span class="alignright">
+<span class="geo_number">10</span>
+<span class="geo_bar"><span style="width: 10px;" class="geo_stat"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td><a href="/search?q=wikileaks.com&p=gkey&r=site_siteinfo&s=wikileaks.org"><u>wikileaks.com</u></a></td>
+<td class="number impact">1.33</td>
+<td class="number popularity">
+<span class="alignright">
+<span class="geo_number">32</span>
+<span class="geo_bar"><span style="width: 32px;" class="geo_stat"></span>
+</span>
+</td>
+<td class="number qci">
+<span class="alignright">
+<span class="geo_number">10</span>
+<span class="geo_bar"><span style="width: 10px;" class="geo_stat"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td><a href="/search?q=wikileaks+iraq+video&p=gkey&r=site_siteinfo&s=wikileaks.org"><u>wikileaks iraq video</u></a></td>
+<td class="number impact">0.80</td>
+<td class="number popularity">
+<span class="alignright">
+<span class="geo_number">20</span>
+<span class="geo_bar"><span style="width: 20px;" class="geo_stat"></span>
+</span>
+</td>
+<td class="number qci">
+<span class="alignright">
+<span class="geo_number">70</span>
+<span class="geo_bar"><span style="width: 70px;" class="geo_stat"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td><a href="/search?q=collateral+murder&p=gkey&r=site_siteinfo&s=wikileaks.org"><u>collateral murder</u></a></td>
+<td class="number impact">0.75</td>
+<td class="number popularity">
+<span class="alignright">
+<span class="geo_number">33</span>
+<span class="geo_bar"><span style="width: 33px;" class="geo_stat"></span>
+</span>
+</td>
+<td class="number qci">
+<span class="alignright">
+<span class="geo_number">15</span>
+<span class="geo_bar"><span style="width: 15px;" class="geo_stat"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td><a href="/search?q=wikileaks+killing+video&p=gkey&r=site_siteinfo&s=wikileaks.org"><u>wikileaks killing video</u></a></td>
+<td class="number impact">0.68</td>
+<td class="number popularity">
+<span class="alignright">
+<span class="geo_number">22</span>
+<span class="geo_bar"><span style="width: 22px;" class="geo_stat"></span>
+</span>
+</td>
+<td class="number qci">
+<span class="alignright">
+<span class="geo_number">23</span>
+<span class="geo_bar"><span style="width: 23px;" class="geo_stat"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td><a href="/search?q=wikileaks&p=gkey&r=site_siteinfo&s=wikileaks.org"><u>wikileaks</u></a></td>
+<td class="number impact">0.58</td>
+<td class="number popularity">
+<span class="alignright">
+<span class="geo_number">66</span>
+<span class="geo_bar"><span style="width: 66px;" class="geo_stat"></span>
+</span>
+</td>
+<td class="number qci">
+<span class="alignright">
+<span class="geo_number">10</span>
+<span class="geo_bar"><span style="width: 10px;" class="geo_stat"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td><a href="/search?q=afghan+war&p=gkey&r=site_siteinfo&s=wikileaks.org"><u>afghan war</u></a></td>
+<td class="number impact">0.51</td>
+<td class="number popularity">
+<span class="alignright">
+<span class="geo_number">24</span>
+<span class="geo_bar"><span style="width: 24px;" class="geo_stat"></span>
+</span>
+</td>
+<td class="number qci">
+<span class="alignright">
+<span class="geo_number">29</span>
+<span class="geo_bar"><span style="width: 29px;" class="geo_stat"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td><a href="/search?q=iraq+war&p=gkey&r=site_siteinfo&s=wikileaks.org"><u>iraq war</u></a></td>
+<td class="number impact">0.43</td>
+<td class="number popularity">
+<span class="alignright">
+<span class="geo_number">39</span>
+<span class="geo_bar"><span style="width: 39px;" class="geo_stat"></span>
+</span>
+</td>
+<td class="number qci">
+<span class="alignright">
+<span class="geo_number">32</span>
+<span class="geo_bar"><span style="width: 32px;" class="geo_stat"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td><a href="/search?q=wikileaks+thailand&p=gkey&r=site_siteinfo&s=wikileaks.org"><u>wikileaks thailand</u></a></td>
+<td class="number impact">0.29</td>
+<td class="number popularity">
+<span class="alignright">
+<span class="geo_number">14</span>
+<span class="geo_bar"><span style="width: 14px;" class="geo_stat"></span>
+</span>
+</td>
+<td class="number qci">
+<span class="alignright">
+<span class="geo_number">30</span>
+<span class="geo_bar"><span style="width: 30px;" class="geo_stat"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td><a href="/search?q=toy+airplanes&p=gkey&r=site_siteinfo&s=wikileaks.org"><u>toy airplanes</u></a></td>
+<td class="number impact">0.23</td>
+<td class="number popularity">
+<span class="alignright">
+<span class="geo_number">15</span>
+<span class="geo_bar"><span style="width: 15px;" class="geo_stat"></span>
+</span>
+</td>
+<td class="number qci">
+<span class="alignright">
+<span class="geo_number">88</span>
+<span class="geo_bar"><span style="width: 88px;" class="geo_stat"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td><a href="/search?q=videos&p=gkey&r=site_siteinfo&s=wikileaks.org"><u>videos</u></a></td>
+<td class="number impact">0.23</td>
+<td class="number popularity">
+<span class="alignright">
+<span class="geo_number">58</span>
+<span class="geo_bar"><span style="width: 58px;" class="geo_stat"></span>
+</span>
+</td>
+<td class="number qci">
+<span class="alignright">
+<span class="geo_number">31</span>
+<span class="geo_bar"><span style="width: 31px;" class="geo_stat"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td><a href="/search?q=nas&p=gkey&r=site_siteinfo&s=wikileaks.org"><u>nas</u></a></td>
+<td class="number impact">0.18</td>
+<td class="number popularity">
+<span class="alignright">
+<span class="geo_number">58</span>
+<span class="geo_bar"><span style="width: 58px;" class="geo_stat"></span>
+</span>
+</td>
+<td class="number qci">
+<span class="alignright">
+<span class="geo_number">40</span>
+<span class="geo_bar"><span style="width: 40px;" class="geo_stat"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td><a href="/search?q=wikileaks+release&p=gkey&r=site_siteinfo&s=wikileaks.org"><u>wikileaks release</u></a></td>
+<td class="number impact">0.16</td>
+<td class="number popularity">
+<span class="alignright">
+<span class="geo_number">13</span>
+<span class="geo_bar"><span style="width: 13px;" class="geo_stat"></span>
+</span>
+</td>
+<td class="number qci">
+<span class="alignright">
+<span class="geo_number">40</span>
+<span class="geo_bar"><span style="width: 40px;" class="geo_stat"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td><a href="/search?q=diary&p=gkey&r=site_siteinfo&s=wikileaks.org"><u>diary</u></a></td>
+<td class="number impact">0.16</td>
+<td class="number popularity">
+<span class="alignright">
+<span class="geo_number">41</span>
+<span class="geo_bar"><span style="width: 41px;" class="geo_stat"></span>
+</span>
+</td>
+<td class="number qci">
+<span class="alignright">
+<span class="geo_number">33</span>
+<span class="geo_bar"><span style="width: 33px;" class="geo_stat"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td><a href="/search?q=afghanistan&p=gkey&r=site_siteinfo&s=wikileaks.org"><u>afghanistan</u></a></td>
+<td class="number impact">0.15</td>
+<td class="number popularity">
+<span class="alignright">
+<span class="geo_number">50</span>
+<span class="geo_bar"><span style="width: 50px;" class="geo_stat"></span>
+</span>
+</td>
+<td class="number qci">
+<span class="alignright">
+<span class="geo_number">30</span>
+<span class="geo_bar"><span style="width: 30px;" class="geo_stat"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td><a href="/search?q=insurance&p=gkey&r=site_siteinfo&s=wikileaks.org"><u>insurance</u></a></td>
+<td class="number impact">0.13</td>
+<td class="number popularity">
+<span class="alignright">
+<span class="geo_number">50</span>
+<span class="geo_bar"><span style="width: 50px;" class="geo_stat"></span>
+</span>
+</td>
+<td class="number qci">
+<span class="alignright">
+<span class="geo_number">56</span>
+<span class="geo_bar"><span style="width: 56px;" class="geo_stat"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td><a href="/search?q=wikieaks&p=gkey&r=site_siteinfo&s=wikileaks.org"><u>wikieaks</u></a></td>
+<td class="number impact">0.12</td>
+<td class="number popularity">
+<span class="alignright">
+<span class="geo_number">16</span>
+<span class="geo_bar"><span style="width: 16px;" class="geo_stat"></span>
+</span>
+</td>
+<td class="number qci">
+<span class="alignright">
+<span class="geo_number">10</span>
+<span class="geo_bar"><span style="width: 10px;" class="geo_stat"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td><a href="/search?q=lunch+at+the+ritz&p=gkey&r=site_siteinfo&s=wikileaks.org"><u>lunch at the ritz</u></a></td>
+<td class="number impact">0.10</td>
+<td class="number popularity">
+<span class="alignright">
+<span class="geo_number">10</span>
+<span class="geo_bar"><span style="width: 10px;" class="geo_stat"></span>
+</span>
+</td>
+<td class="number qci">
+<span class="alignright">
+<span class="geo_number">45</span>
+<span class="geo_bar"><span style="width: 45px;" class="geo_stat"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td><a href="/search?q=diaries&p=gkey&r=site_siteinfo&s=wikileaks.org"><u>diaries</u></a></td>
+<td class="number impact">0.10</td>
+<td class="number popularity">
+<span class="alignright">
+<span class="geo_number">28</span>
+<span class="geo_bar"><span style="width: 28px;" class="geo_stat"></span>
+</span>
+</td>
+<td class="number qci">
+<span class="alignright">
+<span class="geo_number">52</span>
+<span class="geo_bar"><span style="width: 52px;" class="geo_stat"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td><a href="/search?q=whistleblower+website&p=gkey&r=site_siteinfo&s=wikileaks.org"><u>whistleblower website</u></a></td>
+<td class="number impact">0.10</td>
+<td class="number popularity">
+<span class="alignright">
+<span class="geo_number">10</span>
+<span class="geo_bar"><span style="width: 10px;" class="geo_stat"></span>
+</span>
+</td>
+<td class="number qci">
+<span class="alignright">
+<span class="geo_number">38</span>
+<span class="geo_bar"><span style="width: 38px;" class="geo_stat"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td><a href="/search?q=wiki+ebooks&p=gkey&r=site_siteinfo&s=wikileaks.org"><u>wiki ebooks</u></a></td>
+<td class="number impact">0.08</td>
+<td class="number popularity">
+<span class="alignright">
+<span class="geo_number">11</span>
+<span class="geo_bar"><span style="width: 11px;" class="geo_stat"></span>
+</span>
+</td>
+<td class="number qci">
+<span class="alignright">
+<span class="geo_number">30</span>
+<span class="geo_bar"><span style="width: 30px;" class="geo_stat"></span>
+</span>
+</td>
+</tr>
+<tr>
+<td><a href="/search?q=deutsch&p=gkey&r=site_siteinfo&s=wikileaks.org"><u>deutsch</u></a></td>
+<td class="number impact">0.08</td>
+<td class="number popularity">
+<span class="alignright">
+<span class="geo_number">43</span>
+<span class="geo_bar"><span style="width: 43px;" class="geo_stat"></span>
+</span>
+</td>
+<td class="number qci">
+<span class="alignright">
+<span class="geo_number">17</span>
+<span class="geo_bar"><span style="width: 17px;" class="geo_stat"></span>
+</span>
+</td>
+</tr>
+</table>
+<div style="clear:both; margin:0px; margin-bottom:10px;">&nbsp;</div>
+<h2>Search Engine Marketing (SEM) Activity by  wikileaks.org</h2>
+<p>Ads for wikileaks.org have appeared on major search engines when people performed the queries below. Click on the queries below to discover more information. </p>
+<table class="dataTable" width="100%" cellpadding="0" cellspacing="0" border="0" style="color:#253759;">
+<tr>
+<td colspan="2" >
+<a href="/toolbar?p=semactivity&r=site_siteinfo"
+class="trackme-cross"
+name="/crosspromo/banners/search-analytics/sem-activity">
+<img alt="Download Alexa Toolbar Now" src="/images/toolbar/toolbar_promo-4.gif">
+</a>
+</td>
+</tr>
+</table>
+<div style="clear:both; margin:0px; margin-bottom:10px;">&nbsp;</div>
+<table id="kw_general_sem" class="dataTable" width="100%" cellpadding="0" cellspacing="0" border="0">
+<tr>
+<td class="noborder" colspan="4" >
+<h2> Search Engine Marketing (SEM) Opportunities for  wikileaks.org </h2>
+<p>
+Queries that provide opportunities for this site to advertise through Search Engine Marketing (SEM) to get more traffic. They are popular queries that are relevant to the site, and have low competition in search engine marketing.
+<span class="moreContainer">
+<a class="moreText">Learn More</a>
+<span class="textOff"><span class="moreContent">Many sites are actively advertising in search engines for the most valuable search queries.  This high level of competition tends to result in high advertising costs, which makes it
+difficult to find attractive advertising opportunities.  These opportunities may still exist, however, by looking at the "long tail".  The long tail
+contains search queries with lower Query Popularity, but such queries also tend to have lower QCI.  By advertising for many of these queries, sites may still
+be able to manage an effective search engine marketing campaign.  Note that not all queries on the long tail may be very relevant to this site, but this list
+may contain a number of strong advertising candidates.</span></span>
+</span>                </p>
+</td>
+</tr>
+<tr>
+<td colspan="4" >
+<a href="/toolbar?p=semopportunity&r=site_siteinfo"
+class="trackme-cross" name="/crosspromo/banners/search-analytics/sem-opportunity">
+<img alt="Download Alexa Toolbar Now" src="/images/toolbar/toolbar_promo-3.gif">
+</a>
+</td>
+</tr>
+</table>
+<div id="keywords-content"></div>
+</div>
+<div id="contactinfo_div" class="module traffic-widget textOff" >
+<div class="column span-2">
+<strong>No contact information available.</strong>
+</div>
+<div id="jigsaw">
+</div>
+<br style="clear:both"/><br/>
+<h2>Whois</h2>
+<p>Who is wikileaks.org? Whois lookup at <a href="http://who.godaddy.com/WhoIs.aspx?domain=wikileaks.org&isc=ALEXADOM">GoDaddy</a>.</p>
+<br clear="all"/>
+<h2>About</h2>
+<p>Help Wikileaks fight to get the truth out and change the world for the better. ... From Wikileaks (Redirected from About Wikileaks )
+<a class="offsite" href='http://wikileaks.org:80/wiki/About_Wikileaks' rel="nofollow">
+Wikileaks:About Wikileaks - Wikileaks                 </a>
+</p>
+<br clear="all"/>
+<h2>Is this your website?</h2>
+<ul class="bullets">
+<li>Claim Wikileaks.org.
+Login with your username and password to
+<a href="/edit/index/wikileaks.org"  >update your listing data using our Self-service tools</a>.</li>
+</li>
+<li> Improve your SEO with an <a href="/siteaudit/">Alexa Site Audit</a> for wikileaks.org.  </li>
+</ul>
+</div>
+<div id="reviews_div" class="module textOff">
+<a href="/write/review/wikileaks.org" class="button alignright" rel="nofollow">
+<span>Write a Review</span>
+</a>
+<h2>Review Summary for wikileaks.org</h2>
+<div id="ratingOverview">
+<div class="alignleft">
+<div  id="" onclick="window.location='/siteinfo/wikileaks.org#reviews'" style="cursor: pointer; "
+class="stars rating-No" title="No Stars"><span>No         Stars</span></div>
+</div>
+<span class="alignleft help">(based on  reviews)</span>
+<br clear="all"/>
+<br clear="all"/><br/>
+</div>
+<br clear="all"/><br/>
+<p>Alexa's Reviews system is down for maintenance. Check back soon!</p>
+<br clear="all"/><br/>
+<div>
+<h2>Is this your website?</h2>
+<ul class="bullets">
+<li>
+<a href="/siteowners/reviews?site_url=wikileaks.org">Get site widgets</a>
+that encourage users to review your website.
+</li>
+<li>
+<a href='/siteowners/claim/?site=wikileaks.org'>Claim your site</a>
+to respond to user reviews of your website.
+</li>
+<li><a href="/siteaudit/">Improve your SEO</a> with an Alexa Site Audit for wikileaks.org.  </li>
+</ul>
+</div>
+</div>
+<div id="relatedlinks_div" class="module textOff">
+<p class="help alignright"> Learn more about
+<a href="/faqs/?cat=13">Related Links</a>.
+</p>
+<h3 style="margin-top: 0px;">If you like wikileaks.org you may also like:</h3>
+<div id="relatedlinks-content" class="noborder">
+<ul>
+<li><span class="num textOff">1.</span>
+<span class="faviconBox"><img site="webmasterpoint.org/" src="http://www.alexa.com/images/site/favicon.png" class="favicon" /></span>
+<div class="site-listing">
+<a href="/siteinfo/webmasterpoint.org" class="title"><strong>Webmasterpoint.org - Webmaster, Programmazione, Manuali, Asp, Php, Html, Flash</strong></a> <br/>
+<br/>
+</div>       </li>
+<li><span class="num textOff">2.</span>
+<span class="faviconBox"><img site="tomshw.it/" src="http://www.alexa.com/images/site/favicon.png" class="favicon" /></span>
+<div class="site-listing">
+<a href="/siteinfo/tomshw.it" class="title"><strong>Tom's Hardware Guide</strong></a> <br/>
+<br/>
+</div>       </li>
+<li><span class="num textOff">3.</span>
+<span class="faviconBox"><img site="punto-informatico.it/" src="http://www.alexa.com/images/site/favicon.png" class="favicon" /></span>
+<div class="site-listing">
+<a href="/siteinfo/punto-informatico.it" class="title"><strong>Punto informatico</strong></a> <br/>
+<br/>
+</div>       </li>
+<li><span class="num textOff">4.</span>
+<span class="faviconBox"><img site="netzpolitik.org/" src="http://www.alexa.com/images/site/favicon.png" class="favicon" /></span>
+<div class="site-listing">
+<a href="/siteinfo/netzpolitik.org" class="title"><strong>Netzpolitik</strong></a> <br/>
+<br/>
+</div>       </li>
+<li><span class="num textOff">5.</span>
+<span class="faviconBox"><img site="lewrockwell.com/" src="http://www.alexa.com/images/site/favicon.png" class="favicon" /></span>
+<div class="site-listing">
+<a href="/siteinfo/lewrockwell.com" class="title"><strong>LewRockwell.com</strong></a> <br/>
+<br/>
+</div>       </li>
+<li><span class="num textOff">6.</span>
+<span class="faviconBox"><img site="lawblog.de/" src="http://www.alexa.com/images/site/favicon.png" class="favicon" /></span>
+<div class="site-listing">
+<a href="/siteinfo/lawblog.de" class="title"><strong>Vetter, Udo</strong></a> <br/>
+<br/>
+</div>       </li>
+<li><span class="num textOff">7.</span>
+<span class="faviconBox"><img site="gulli.com/" src="http://www.alexa.com/images/site/favicon.png" class="favicon" /></span>
+<div class="site-listing">
+<a href="/siteinfo/gulli.com" class="title"><strong>gulli</strong></a> <br/>
+<br/>
+</div>       </li>
+<li><span class="num textOff">8.</span>
+<span class="faviconBox"><img site="fefe.de/" src="http://www.alexa.com/images/site/favicon.png" class="favicon" /></span>
+<div class="site-listing">
+<a href="/siteinfo/fefe.de" class="title"><strong>Fefes</strong></a> <br/>
+<br/>
+</div>       </li>
+<li><span class="num textOff">9.</span>
+<span class="faviconBox"><img site="fas.org/" src="http://www.alexa.com/images/site/favicon.png" class="favicon" /></span>
+<div class="site-listing">
+<a href="/siteinfo/fas.org" class="title"><strong>Federation of American Scientists</strong></a> <br/>
+<br/>
+</div>       </li>
+<li><span class="num textOff">10.</span>
+<span class="faviconBox"><img site="basicthinking.de/" src="http://www.alexa.com/images/site/favicon.png" class="favicon" /></span>
+<div class="site-listing">
+<a href="/siteinfo/basicthinking.de" class="title"><strong>Basic Thinking</strong></a> <br/>
+<br/>
+</div>       </li>
+</ul>
+<script type="text/javascript">
+$('img.favicon').each(function(){
+var site = $(this).attr('site');
+$(this).attr('src', 'http://www.alexa.com/cgi-bin/favicon.php?url='+site);
+});
+</script>                </div>
+<div id="siteSentences" style="margin-top:15px;">
+</div>
+<div>
+<h3 style="margin-top: 2px">Find other sites in the same category as wikileaks.org:</h3>
+<a href="/topsites/category/Society/">Society</a>
+&gt;
+<a href="/topsites/category/Society/Issues/">Issues</a>
+&gt;
+<a href="/topsites/category/Society/Issues/Multi-issue_Publications/">Multi-issue Publications</a>
+<br />
+</div>
+</div>
+<div id="clickstream_div" class="module textOff">
+</div>
+<div id="demographics_div" class="module textOff">
+<div align="center">
+<h2>Audience Demographics for Wikileaks.org</h2>
+<p>Relative to <strong>the general internet population</strong> how  popular is wikileaks.org with each audience below?</p>
+</div>
+<div id="demographics-content" class="noborder">
+<div class="column span-2 noborder">    <div class="demog_box">
+<div class="demog_header">
+<strong>Age</strong><br/><br style="font-size:.5em"/>
+</div>
+<div class="demog_percentages">
+<span class="demog_left">
+<span class="demog_label">18-24</span>
+<span class="demog_bar">
+<span class="demog_offset" style="width:50px"></span>
+<span style="width:0px;background-color:rgb(200,55,55)" class="demog_stat"></span>
+</span>
+</span>
+<span class="demog_right">
+<span class="demog_bar">
+<span style="width:11.5px;" class="demog_stat"></span>
+</span>
+<span class="geo_country" style=""></span>
+</span>
+<div class="label">            <span class="tt  " >
+<img src="/images/icons/icon_tip.png" width="12" height="12" alt=""/>
+<span class="tooltip">
+<span class="top"></span>
+<span class="middle">Relative to the general internet population, 18-24 year olds are <strong>over-represented</strong> at <em>wikileaks.org</em>.<br/><br/> <strong>Confidence:</strong> high</span>
+<span class="bottom"></span>
+</span>
+</span> </div>
+</span>
+</div>
+<div class="demog_percentages">
+<span class="demog_left">
+<span class="demog_label">25-34</span>
+<span class="demog_bar">
+<span class="demog_offset" style="width:50px"></span>
+<span style="width:0px;background-color:rgb(200,55,55)" class="demog_stat"></span>
+</span>
+</span>
+<span class="demog_right">
+<span class="demog_bar">
+<span style="width:9px;" class="demog_stat"></span>
+</span>
+<span class="geo_country" style=""></span>
+</span>
+<div class="label">            <span class="tt  " >
+<img src="/images/icons/icon_tip.png" width="12" height="12" alt=""/>
+<span class="tooltip">
+<span class="top"></span>
+<span class="middle">Relative to the general internet population, 25-34 year olds are <strong>over-represented</strong> at <em>wikileaks.org</em>.<br/><br/> <strong>Confidence:</strong> high</span>
+<span class="bottom"></span>
+</span>
+</span> </div>
+</span>
+</div>
+<div class="demog_percentages">
+<span class="demog_left">
+<span class="demog_label">35-44</span>
+<span class="demog_bar">
+<span class="demog_offset" style="width:46.5px"></span>
+<span style="width:3.5px;background-color:rgb(200,55,55)" class="demog_stat"></span>
+</span>
+</span>
+<span class="demog_right">
+<span class="demog_bar">
+<span style="width:0px;" class="demog_stat"></span>
+</span>
+<span class="geo_country" style=""></span>
+</span>
+<div class="label">            <span class="tt  " >
+<img src="/images/icons/icon_tip.png" width="12" height="12" alt=""/>
+<span class="tooltip">
+<span class="top"></span>
+<span class="middle">The audience for <em>wikileaks.org</em> among 35-44 year olds is<br> <strong>similar to the general internet population</strong>.<br/><br/> <strong>Confidence:</strong> high</span>
+<span class="bottom"></span>
+</span>
+</span> </div>
+</span>
+</div>
+<div class="demog_percentages">
+<span class="demog_left">
+<span class="demog_label">45-54</span>
+<span class="demog_bar">
+<span class="demog_offset" style="width:38px"></span>
+<span style="width:12px;background-color:rgb(200,55,55)" class="demog_stat"></span>
+</span>
+</span>
+<span class="demog_right">
+<span class="demog_bar">
+<span style="width:0px;" class="demog_stat"></span>
+</span>
+<span class="geo_country" style=""></span>
+</span>
+<div class="label">            <span class="tt  " >
+<img src="/images/icons/icon_tip.png" width="12" height="12" alt=""/>
+<span class="tooltip">
+<span class="top"></span>
+<span class="middle">Relative to the general internet population, 45-54 year olds are <strong>under-represented</strong> at <em>wikileaks.org</em>.<br/><br/> <strong>Confidence:</strong> high</span>
+<span class="bottom"></span>
+</span>
+</span> </div>
+</span>
+</div>
+<div class="demog_percentages">
+<span class="demog_left">
+<span class="demog_label">55-64</span>
+<span class="demog_bar">
+<span class="demog_offset" style="width:37.5px"></span>
+<span style="width:12.5px;background-color:rgb(200,55,55)" class="demog_stat"></span>
+</span>
+</span>
+<span class="demog_right">
+<span class="demog_bar">
+<span style="width:0px;" class="demog_stat"></span>
+</span>
+<span class="geo_country" style=""></span>
+</span>
+<div class="label">            <span class="tt  " >
+<img src="/images/icons/icon_tip.png" width="12" height="12" alt=""/>
+<span class="tooltip">
+<span class="top"></span>
+<span class="middle">Relative to the general internet population, 55-64 year olds are <strong>under-represented</strong> at <em>wikileaks.org</em>.<br/><br/> <strong>Confidence:</strong> high</span>
+<span class="bottom"></span>
+</span>
+</span> </div>
+</span>
+</div>
+<div class="demog_percentages">
+<span class="demog_left">
+<span class="demog_label">65+</span>
+<span class="demog_bar">
+<span class="demog_offset" style="width:25.5px"></span>
+<span style="width:24.5px;background-color:rgb(200,55,55)" class="demog_stat"></span>
+</span>
+</span>
+<span class="demog_right">
+<span class="demog_bar">
+<span style="width:0px;" class="demog_stat"></span>
+</span>
+<span class="geo_country" style=""></span>
+</span>
+<div class="label">            <span class="tt  " >
+<img src="/images/icons/icon_tip.png" width="12" height="12" alt=""/>
+<span class="tooltip">
+<span class="top"></span>
+<span class="middle">Relative to the general internet population, people over 65 years old are <strong>under-represented</strong> at <em>wikileaks.org</em>.<br/><br/> <strong>Confidence:</strong> high</span>
+<span class="bottom"></span>
+</span>
+</span> </div>
+</span>
+</div>
+</div>
+<div class="demog_box">
+<div class="demog_header">
+<strong>Education</strong><br/><br style="font-size:.5em"/>
+</div>
+<div class="demog_percentages">
+<span class="demog_left">
+<span class="demog_label">No College</span>
+<span class="demog_bar">
+<span class="demog_offset" style="width:36.5px"></span>
+<span style="width:13.5px;background-color:rgb(200,55,55)" class="demog_stat"></span>
+</span>
+</span>
+<span class="demog_right">
+<span class="demog_bar">
+<span style="width:0px;" class="demog_stat"></span>
+</span>
+<span class="geo_country" style=""></span>
+</span>
+<div class="label">            <span class="tt  " >
+<img src="/images/icons/icon_tip.png" width="12" height="12" alt=""/>
+<span class="tooltip">
+<span class="top"></span>
+<span class="middle">Relative to the general internet population, people who did not go to college are <strong>under-represented</strong> at <em>wikileaks.org</em>.<br/><br/> <strong>Confidence:</strong> high</span>
+<span class="bottom"></span>
+</span>
+</span> </div>
+</span>
+</div>
+<div class="demog_percentages">
+<span class="demog_left">
+<span class="demog_label">Some College</span>
+<span class="demog_bar">
+<span class="demog_offset" style="width:45.5px"></span>
+<span style="width:4.5px;background-color:rgb(200,55,55)" class="demog_stat"></span>
+</span>
+</span>
+<span class="demog_right">
+<span class="demog_bar">
+<span style="width:0px;" class="demog_stat"></span>
+</span>
+<span class="geo_country" style=""></span>
+</span>
+<div class="label">            <span class="tt  " >
+<img src="/images/icons/icon_tip.png" width="12" height="12" alt=""/>
+<span class="tooltip">
+<span class="top"></span>
+<span class="middle">The audience for <em>wikileaks.org</em> among people some college education is<br> <strong>similar to the general internet population</strong>.<br/><br/> <strong>Confidence:</strong> high</span>
+<span class="bottom"></span>
+</span>
+</span> </div>
+</span>
+</div>
+<div class="demog_percentages">
+<span class="demog_left">
+<span class="demog_label">College</span>
+<span class="demog_bar">
+<span class="demog_offset" style="width:45.5px"></span>
+<span style="width:4.5px;background-color:rgb(200,55,55)" class="demog_stat"></span>
+</span>
+</span>
+<span class="demog_right">
+<span class="demog_bar">
+<span style="width:0px;" class="demog_stat"></span>
+</span>
+<span class="geo_country" style=""></span>
+</span>
+<div class="label">            <span class="tt  " >
+<img src="/images/icons/icon_tip.png" width="12" height="12" alt=""/>
+<span class="tooltip">
+<span class="top"></span>
+<span class="middle">The audience for <em>wikileaks.org</em> among people who went to college is<br> <strong>similar to the general internet population</strong>.<br/><br/> <strong>Confidence:</strong> high</span>
+<span class="bottom"></span>
+</span>
+</span> </div>
+</span>
+</div>
+<div class="demog_percentages">
+<span class="demog_left">
+<span class="demog_label">Graduate School</span>
+<span class="demog_bar">
+<span class="demog_offset" style="width:50px"></span>
+<span style="width:0px;background-color:rgb(200,55,55)" class="demog_stat"></span>
+</span>
+</span>
+<span class="demog_right">
+<span class="demog_bar">
+<span style="width:13px;" class="demog_stat"></span>
+</span>
+<span class="geo_country" style=""></span>
+</span>
+<div class="label">            <span class="tt  " >
+<img src="/images/icons/icon_tip.png" width="12" height="12" alt=""/>
+<span class="tooltip">
+<span class="top"></span>
+<span class="middle">Relative to the general internet population, people who went to graduate school are <strong>over-represented</strong> at <em>wikileaks.org</em>.<br/><br/> <strong>Confidence:</strong> high</span>
+<span class="bottom"></span>
+</span>
+</span> </div>
+</span>
+</div>
+</div>
+</div><!-- end column ? --><div class="column span-2 noborder">    <div class="demog_box">
+<div class="demog_header">
+<strong>Gender</strong><br/><br style="font-size:.5em"/>
+</div>
+<div class="demog_percentages">
+<span class="demog_left">
+<span class="demog_label">Male</span>
+<span class="demog_bar">
+<span class="demog_offset" style="width:50px"></span>
+<span style="width:0px;background-color:rgb(200,55,55)" class="demog_stat"></span>
+</span>
+</span>
+<span class="demog_right">
+<span class="demog_bar">
+<span style="width:49px;" class="demog_stat"></span>
+</span>
+<span class="geo_country" style=""></span>
+</span>
+<div class="label">            <span class="tt  " >
+<img src="/images/icons/icon_tip.png" width="12" height="12" alt=""/>
+<span class="tooltip">
+<span class="top"></span>
+<span class="middle">Relative to the general internet population, Males are <strong>greatly over-represented</strong> at <em>wikileaks.org</em>. <br/><br/><strong>Confidence:</strong> high</span>
+<span class="bottom"></span>
+</span>
+</span> </div>
+</span>
+</div>
+<div class="demog_percentages">
+<span class="demog_left">
+<span class="demog_label">Female</span>
+<span class="demog_bar">
+<span class="demog_offset" style="width:23px"></span>
+<span style="width:27px;background-color:rgb(200,55,55)" class="demog_stat"></span>
+</span>
+</span>
+<span class="demog_right">
+<span class="demog_bar">
+<span style="width:0px;" class="demog_stat"></span>
+</span>
+<span class="geo_country" style=""></span>
+</span>
+<div class="label">            <span class="tt  " >
+<img src="/images/icons/icon_tip.png" width="12" height="12" alt=""/>
+<span class="tooltip">
+<span class="top"></span>
+<span class="middle">Relative to the general internet population, Females are <strong>greatly under-represented</strong> at <em>wikileaks.org</em>.<br/><br/> <strong>Confidence:</strong> high</span>
+<span class="bottom"></span>
+</span>
+</span> </div>
+</span>
+</div>
+</div>
+<div class="demog_box">
+<div class="demog_header">
+<strong>Has Children</strong><br/><br style="font-size:.5em"/>
+</div>
+<div class="demog_percentages">
+<span class="demog_left">
+<span class="demog_label">Yes</span>
+<span class="demog_bar">
+<span class="demog_offset" style="width:38.5px"></span>
+<span style="width:11.5px;background-color:rgb(200,55,55)" class="demog_stat"></span>
+</span>
+</span>
+<span class="demog_right">
+<span class="demog_bar">
+<span style="width:0px;" class="demog_stat"></span>
+</span>
+<span class="geo_country" style=""></span>
+</span>
+<div class="label">            <span class="tt  " >
+<img src="/images/icons/icon_tip.png" width="12" height="12" alt=""/>
+<span class="tooltip">
+<span class="top"></span>
+<span class="middle">Relative to the general internet population, people with children are <strong>under-represented</strong> at <em>wikileaks.org</em>.<br/><br/> <strong>Confidence:</strong> high</span>
+<span class="bottom"></span>
+</span>
+</span> </div>
+</span>
+</div>
+<div class="demog_percentages">
+<span class="demog_left">
+<span class="demog_label">No</span>
+<span class="demog_bar">
+<span class="demog_offset" style="width:50px"></span>
+<span style="width:0px;background-color:rgb(200,55,55)" class="demog_stat"></span>
+</span>
+</span>
+<span class="demog_right">
+<span class="demog_bar">
+<span style="width:12px;" class="demog_stat"></span>
+</span>
+<span class="geo_country" style=""></span>
+</span>
+<div class="label">            <span class="tt  " >
+<img src="/images/icons/icon_tip.png" width="12" height="12" alt=""/>
+<span class="tooltip">
+<span class="top"></span>
+<span class="middle">Relative to the general internet population, people without children are <strong>over-represented</strong> at <em>wikileaks.org</em>.<br/><br/> <strong>Confidence:</strong> high</span>
+<span class="bottom"></span>
+</span>
+</span> </div>
+</span>
+</div>
+</div>
+<div class="demog_box">
+<div class="demog_header">
+<strong>Browsing Location</strong><br/><br style="font-size:.5em"/>
+</div>
+<div class="demog_percentages">
+<span class="demog_left">
+<span class="demog_label">home</span>
+<span class="demog_bar">
+<span class="demog_offset" style="width:49px"></span>
+<span style="width:1px;background-color:rgb(200,55,55)" class="demog_stat"></span>
+</span>
+</span>
+<span class="demog_right">
+<span class="demog_bar">
+<span style="width:0px;" class="demog_stat"></span>
+</span>
+<span class="geo_country" style=""></span>
+</span>
+<div class="label">            <span class="tt  " >
+<img src="/images/icons/icon_tip.png" width="12" height="12" alt=""/>
+<span class="tooltip">
+<span class="top"></span>
+<span class="middle">The audience for <em>wikileaks.org</em> among people browsing from home is<br> <strong>similar to the general internet population</strong>.<br/><br/> <strong>Confidence:</strong> high</span>
+<span class="bottom"></span>
+</span>
+</span> </div>
+</span>
+</div>
+<div class="demog_percentages">
+<span class="demog_left">
+<span class="demog_label">school</span>
+<span class="demog_bar">
+<span class="demog_offset" style="width:50px"></span>
+<span style="width:0px;background-color:rgb(200,55,55)" class="demog_stat"></span>
+</span>
+</span>
+<span class="demog_right">
+<span class="demog_bar">
+<span style="width:13px;" class="demog_stat"></span>
+</span>
+<span class="geo_country" style=""></span>
+</span>
+<div class="label">            <span class="tt  " >
+<img src="/images/icons/icon_tip.png" width="12" height="12" alt=""/>
+<span class="tooltip">
+<span class="top"></span>
+<span class="middle">Relative to the general internet population, people browsing from school are <strong>over-represented</strong> at <em>wikileaks.org</em>.<br/><br/> <strong>Confidence:</strong> high</span>
+<span class="bottom"></span>
+</span>
+</span> </div>
+</span>
+</div>
+<div class="demog_percentages">
+<span class="demog_left">
+<span class="demog_label">work</span>
+<span class="demog_bar">
+<span class="demog_offset" style="width:49px"></span>
+<span style="width:1px;background-color:rgb(200,55,55)" class="demog_stat"></span>
+</span>
+</span>
+<span class="demog_right">
+<span class="demog_bar">
+<span style="width:0px;" class="demog_stat"></span>
+</span>
+<span class="geo_country" style=""></span>
+</span>
+<div class="label">            <span class="tt  " >
+<img src="/images/icons/icon_tip.png" width="12" height="12" alt=""/>
+<span class="tooltip">
+<span class="top"></span>
+<span class="middle">The audience for <em>wikileaks.org</em> among people browsing from work is<br> <strong>similar to the general internet population</strong>.<br/><br/> <strong>Confidence:</strong> high</span>
+<span class="bottom"></span>
+</span>
+</span> </div>
+</span>
+</div>
+</div>
+</div><!-- end column ? -->
+<br clear="all"/>
+<h2>Advanced Demographics for wikileaks.org</h2>
+<p>Audience breakdown by income, ethnicity, age, education, gender, children and browsing location.</p>
+<a href="/toolbar?p=demogcompare"
+class="trackme-cross"
+name="/crosspromo/banners/search-analytics/sem-activity">
+<img alt="Download Alexa Toolbar Now" src="/images/toolbar/toolbar-promo-5.gif">
+</a>
+</div>
+<br clear="all"/><br/>
+<div class="xpbanner">
+<a class="trackme-cross" name="/crosspromo/banners/search-analytics/2-white-650x72"  onclick="selectTab('#keywords');">
+<img src="/images/ads/search-analytics-650x72.gif" width="650"
+height="72" border="0" alt="Optimize your search traffic with Alexa Search Analytics!" />
+</a>
+</div>
+<div align="center" style="margin-bottom:10px;"><h2>Visitors by Country for Wikileaks.org</h2></div>
+<div class="content1" id="visitors-by-country" style="width:47%; margin-right:20px;">
+<div class="th1">
+<p class="th1" style="width:50%">Country</p>
+<p class="th1" style="width:50%; text-align:right;">Percent of Site Traffic</p>
+</div>
+<div class="tr1  first_row">
+<p class="tc1" style="width:70%">
+<a href="/topsites/countries/US"><img class="dynamic-icon" src="/images/flags/us.png" alt="United States Flag"/>&nbsp; United States</a>
+</p>
+<p class="tc1" style="width:30%; text-align:right;">16.5%</p>
+</div>
+<div class="tr1  ">
+<p class="tc1" style="width:70%">
+<a href="/topsites/countries/DE"><img class="dynamic-icon" src="/images/flags/de.png" alt="Germany Flag"/>&nbsp; Germany</a>
+</p>
+<p class="tc1" style="width:30%; text-align:right;">8.1%</p>
+</div>
+<div class="tr1  ">
+<p class="tc1" style="width:70%">
+<a href="/topsites/countries/IN"><img class="dynamic-icon" src="/images/flags/in.png" alt="India Flag"/>&nbsp; India</a>
+</p>
+<p class="tc1" style="width:30%; text-align:right;">8.1%</p>
+</div>
+<div class="tr1  ">
+<p class="tc1" style="width:70%">
+<a href="/topsites/countries/IT"><img class="dynamic-icon" src="/images/flags/it.png" alt="Italy Flag"/>&nbsp; Italy</a>
+</p>
+<p class="tc1" style="width:30%; text-align:right;">5.1%</p>
+</div>
+<div class="tr1  ">
+<p class="tc1" style="width:70%">
+<a href="/topsites/countries/GB"><img class="dynamic-icon" src="/images/flags/gb.png" alt="United Kingdom Flag"/>&nbsp; United Kingdom</a>
+</p>
+<p class="tc1" style="width:30%; text-align:right;">4.4%</p>
+</div>
+<div class="tr1  ">
+<p class="tc1" style="width:70%">
+<a href="/topsites/countries/RU"><img class="dynamic-icon" src="/images/flags/ru.png" alt="Russia Flag"/>&nbsp; Russia</a>
+</p>
+<p class="tc1" style="width:30%; text-align:right;">3.4%</p>
+</div>
+<div class="tr1  ">
+<p class="tc1" style="width:70%">
+<a href="/topsites/countries/PK"><img class="dynamic-icon" src="/images/flags/pk.png" alt="Pakistan Flag"/>&nbsp; Pakistan</a>
+</p>
+<p class="tc1" style="width:30%; text-align:right;">3.1%</p>
+</div>
+<div class="tr1  ">
+<p class="tc1" style="width:70%">
+<a href="/topsites/countries/TR"><img class="dynamic-icon" src="/images/flags/tr.png" alt="Turkey Flag"/>&nbsp; Turkey</a>
+</p>
+<p class="tc1" style="width:30%; text-align:right;">2.4%</p>
+</div>
+<div class="tr1  ">
+<p class="tc1" style="width:70%">
+<a href="/topsites/countries/CA"><img class="dynamic-icon" src="/images/flags/ca.png" alt="Canada Flag"/>&nbsp; Canada</a>
+</p>
+<p class="tc1" style="width:30%; text-align:right;">2.4%</p>
+</div>
+<div class="tr1  ">
+<p class="tc1" style="width:70%">
+<a href="/topsites/countries/FR"><img class="dynamic-icon" src="/images/flags/fr.png" alt="France Flag"/>&nbsp; France</a>
+</p>
+<p class="tc1" style="width:30%; text-align:right;">2.0%</p>
+</div>
+<span id="moreCountry" class="textOff">
+<div class="tr1">
+<p class="tc1" style="width:70%">
+<a href="/topsites/countries/RU">
+<img class="dynamic-icon" src="/images/flags/ru.png" alt="Russia Flag"/>&nbsp; Russia                        </a>
+</p>
+<p class="tc1" style="width:30%; text-align:right;">3.4%</p>
+</div>
+<div class="tr1">
+<p class="tc1" style="width:70%">
+<a href="/topsites/countries/PK">
+<img class="dynamic-icon" src="/images/flags/pk.png" alt="Pakistan Flag"/>&nbsp; Pakistan                        </a>
+</p>
+<p class="tc1" style="width:30%; text-align:right;">3.1%</p>
+</div>
+<div class="tr1">
+<p class="tc1" style="width:70%">
+<a href="/topsites/countries/TR">
+<img class="dynamic-icon" src="/images/flags/tr.png" alt="Turkey Flag"/>&nbsp; Turkey                        </a>
+</p>
+<p class="tc1" style="width:30%; text-align:right;">2.4%</p>
+</div>
+<div class="tr1">
+<p class="tc1" style="width:70%">
+<a href="/topsites/countries/CA">
+<img class="dynamic-icon" src="/images/flags/ca.png" alt="Canada Flag"/>&nbsp; Canada                        </a>
+</p>
+<p class="tc1" style="width:30%; text-align:right;">2.4%</p>
+</div>
+<div class="tr1">
+<p class="tc1" style="width:70%">
+<a href="/topsites/countries/FR">
+<img class="dynamic-icon" src="/images/flags/fr.png" alt="France Flag"/>&nbsp; France                        </a>
+</p>
+<p class="tc1" style="width:30%; text-align:right;">2.0%</p>
+</div>
+<div class="tr1">
+<p class="tc1" style="width:70%">
+<a href="/topsites/countries/ES">
+<img class="dynamic-icon" src="/images/flags/es.png" alt="Spain Flag"/>&nbsp; Spain                        </a>
+</p>
+<p class="tc1" style="width:30%; text-align:right;">2.0%</p>
+</div>
+<div class="tr1">
+<p class="tc1" style="width:70%">
+<a href="/topsites/countries/ID">
+<img class="dynamic-icon" src="/images/flags/id.png" alt="Indonesia Flag"/>&nbsp; Indonesia                        </a>
+</p>
+<p class="tc1" style="width:30%; text-align:right;">1.9%</p>
+</div>
+<div class="tr1">
+<p class="tc1" style="width:70%">
+<a href="/topsites/countries/NL">
+<img class="dynamic-icon" src="/images/flags/nl.png" alt="Netherlands Flag"/>&nbsp; Netherlands                        </a>
+</p>
+<p class="tc1" style="width:30%; text-align:right;">1.8%</p>
+</div>
+<div class="tr1">
+<p class="tc1" style="width:70%">
+<a href="/topsites/countries/MX">
+<img class="dynamic-icon" src="/images/flags/mx.png" alt="Mexico Flag"/>&nbsp; Mexico                        </a>
+</p>
+<p class="tc1" style="width:30%; text-align:right;">1.8%</p>
+</div>
+<div class="tr1">
+<p class="tc1" style="width:70%">
+<a href="/topsites/countries/AU">
+<img class="dynamic-icon" src="/images/flags/au.png" alt="Australia Flag"/>&nbsp; Australia                        </a>
+</p>
+<p class="tc1" style="width:30%; text-align:right;">1.6%</p>
+</div>
+<div class="tr1">
+<p class="tc1" style="width:70%">
+<a href="/topsites/countries/JP">
+<img class="dynamic-icon" src="/images/flags/jp.png" alt="Japan Flag"/>&nbsp; Japan                        </a>
+</p>
+<p class="tc1" style="width:30%; text-align:right;">1.4%</p>
+</div>
+<div class="tr1">
+<p class="tc1" style="width:70%">
+<a href="/topsites/countries/CN">
+<img class="dynamic-icon" src="/images/flags/cn.png" alt="China Flag"/>&nbsp; China                        </a>
+</p>
+<p class="tc1" style="width:30%; text-align:right;">1.3%</p>
+</div>
+<div class="tr1">
+<p class="tc1" style="width:70%">
+<a href="/topsites/countries/AR">
+<img class="dynamic-icon" src="/images/flags/ar.png" alt="Argentina Flag"/>&nbsp; Argentina                        </a>
+</p>
+<p class="tc1" style="width:30%; text-align:right;">1.2%</p>
+</div>
+<div class="tr1">
+<p class="tc1" style="width:70%">
+<a href="/topsites/countries/AT">
+<img class="dynamic-icon" src="/images/flags/at.png" alt="Austria Flag"/>&nbsp; Austria                        </a>
+</p>
+<p class="tc1" style="width:30%; text-align:right;">1.2%</p>
+</div>
+<div class="tr1">
+<p class="tc1" style="width:70%">
+<a href="/topsites/countries/PL">
+<img class="dynamic-icon" src="/images/flags/pl.png" alt="Poland Flag"/>&nbsp; Poland                        </a>
+</p>
+<p class="tc1" style="width:30%; text-align:right;">1.2%</p>
+</div>
+<div class="tr1">
+<p class="tc1" style="width:70%">
+<a href="/topsites/countries/ZA">
+<img class="dynamic-icon" src="/images/flags/za.png" alt="South Africa Flag"/>&nbsp; South Africa                        </a>
+</p>
+<p class="tc1" style="width:30%; text-align:right;">1.2%</p>
+</div>
+<div class="tr1">
+<p class="tc1" style="width:70%">
+<a href="/topsites/countries/BR">
+<img class="dynamic-icon" src="/images/flags/br.png" alt="Brazil Flag"/>&nbsp; Brazil                        </a>
+</p>
+<p class="tc1" style="width:30%; text-align:right;">1.1%</p>
+</div>
+<div class="tr1">
+<p class="tc1" style="width:70%">
+<a href="/topsites/countries/SE">
+<img class="dynamic-icon" src="/images/flags/se.png" alt="Sweden Flag"/>&nbsp; Sweden                        </a>
+</p>
+<p class="tc1" style="width:30%; text-align:right;">1.1%</p>
+</div>
+<div class="tr1">
+<p class="tc1" style="width:70%">
+<a href="/topsites/countries/IR">
+<img class="dynamic-icon" src="/images/flags/ir.png" alt="Iran Flag"/>&nbsp; Iran                        </a>
+</p>
+<p class="tc1" style="width:30%; text-align:right;">1.0%</p>
+</div>
+<div class="tr1">
+<p class="tc1" style="width:70%">
+<a href="/topsites/countries/EG">
+<img class="dynamic-icon" src="/images/flags/eg.png" alt="Egypt Flag"/>&nbsp; Egypt                        </a>
+</p>
+<p class="tc1" style="width:30%; text-align:right;">0.9%</p>
+</div>
+<div class="tr1">
+<p class="tc1" style="width:70%">
+<a href="/topsites/countries/BD">
+<img class="dynamic-icon" src="/images/flags/bd.png" alt="Bangladesh Flag"/>&nbsp; Bangladesh                        </a>
+</p>
+<p class="tc1" style="width:30%; text-align:right;">0.8%</p>
+</div>
+<div class="tr1">
+<p class="tc1" style="width:70%">
+<a href="/topsites/countries/AZ">
+<img class="dynamic-icon" src="/images/flags/az.png" alt="Azerbaijan Flag"/>&nbsp; Azerbaijan                        </a>
+</p>
+<p class="tc1" style="width:30%; text-align:right;">0.8%</p>
+</div>
+<div class="tr1">
+<p class="tc1" style="width:70%">
+<a href="/topsites/countries/KR">
+<img class="dynamic-icon" src="/images/flags/kr.png" alt="South Korea Flag"/>&nbsp; South Korea                        </a>
+</p>
+<p class="tc1" style="width:30%; text-align:right;">0.8%</p>
+</div>
+<div class="tr1">
+<p class="tc1" style="width:70%">
+<a href="/topsites/countries/GR">
+<img class="dynamic-icon" src="/images/flags/gr.png" alt="Greece Flag"/>&nbsp; Greece                        </a>
+</p>
+<p class="tc1" style="width:30%; text-align:right;">0.8%</p>
+</div>
+<div class="tr1">
+<p class="tc1" style="width:70%">
+<a href="/topsites/countries/CH">
+<img class="dynamic-icon" src="/images/flags/ch.png" alt="Switzerland Flag"/>&nbsp; Switzerland                        </a>
+</p>
+<p class="tc1" style="width:30%; text-align:right;">0.6%</p>
+</div>
+<div class="tr1">
+<p class="tc1" style="width:70%">
+<a href="/topsites/countries/NO">
+<img class="dynamic-icon" src="/images/flags/no.png" alt="Norway Flag"/>&nbsp; Norway                        </a>
+</p>
+<p class="tc1" style="width:30%; text-align:right;">0.6%</p>
+</div>
+<div class="tr1">
+<p class="tc1" style="width:70%">
+<a href="/topsites/countries/FI">
+<img class="dynamic-icon" src="/images/flags/fi.png" alt="Finland Flag"/>&nbsp; Finland                        </a>
+</p>
+<p class="tc1" style="width:30%; text-align:right;">0.6%</p>
+</div>
+<div class="tr1">
+<p class="tc1" style="width:70%">
+<a href="/topsites/countries/SA">
+<img class="dynamic-icon" src="/images/flags/sa.png" alt="Saudi Arabia Flag"/>&nbsp; Saudi Arabia                        </a>
+</p>
+<p class="tc1" style="width:30%; text-align:right;">0.6%</p>
+</div>
+<div class="tr1">
+<p class="tc1" style="width:70%">
+<a href="/topsites/countries/RO">
+<img class="dynamic-icon" src="/images/flags/ro.png" alt="Romania Flag"/>&nbsp; Romania                        </a>
+</p>
+<p class="tc1" style="width:30%; text-align:right;">0.6%</p>
+</div>
+<div class="tr1">
+<p class="tc1" style="width:70%">
+<a href="/topsites/countries/CO">
+<img class="dynamic-icon" src="/images/flags/co.png" alt="Colombia Flag"/>&nbsp; Colombia                        </a>
+</p>
+<p class="tc1" style="width:30%; text-align:right;">0.6%</p>
+</div>
+<div class="tr1">
+<p class="tc1" style="width:70%">
+<a href="/topsites/countries/UA">
+<img class="dynamic-icon" src="/images/flags/ua.png" alt="Ukraine Flag"/>&nbsp; Ukraine                        </a>
+</p>
+<p class="tc1" style="width:30%; text-align:right;">0.6%</p>
+</div>
+<div class="tr1">
+<p class="tc1" style="width:70%">
+<a href="/topsites/countries/VE">
+<img class="dynamic-icon" src="/images/flags/ve.png" alt="Venezuela Flag"/>&nbsp; Venezuela                        </a>
+</p>
+<p class="tc1" style="width:30%; text-align:right;">0.6%</p>
+</div>
+<div class="tr1">
+<p class="tc1" style="width:70%">
+<a href="/topsites/countries/DZ">
+<img class="dynamic-icon" src="/images/flags/dz.png" alt="Algeria Flag"/>&nbsp; Algeria                        </a>
+</p>
+<p class="tc1" style="width:30%; text-align:right;">0.5%</p>
+</div>
+<div class="tr1">
+<p class="tc1" style="width:70%">
+<a href="/topsites/countries/O">
+<img class="dynamic-icon" src="/images/flags/o.png" alt="OTHER Flag"/>&nbsp; OTHER                        </a>
+</p>
+<p class="tc1" style="width:30%; text-align:right;">15.4%</p>
+</div>
+</span>
+</div>
+<div class="column span-2" style="border:1px solid #5B6B89;width:310px;" >
+<div class="widget" id="ammap_c1226c82375f72fd9687e2d2145f0071">
+<p style="padding: 10px; text-align: center">You need <a href="http://get.adobe.com/flashplayer/" target="_blank">Flash 8</a> to view the map.</p>
+</div>
+<script type="text/javascript" src="/js/flex/swfobject.js"></script>
+<script type="text/javascript">
+flashvars={"wmode":"transparent","settings_file":"\/amMap\/ammap_settings.xml","data_file":"\/amMap\/index.php?url=wikileaks.org","path":"\/amMap\/ammap\/"};
+params={"wmode":"transparent","settings_file":"\/amMap\/ammap_settings.xml","data_file":"\/amMap\/index.php?url=wikileaks.org","path":"\/amMap\/ammap\/"};
+attributes={"wmode":"transparent","settings_file":"\/amMap\/ammap_settings.xml","data_file":"\/amMap\/index.php?url=wikileaks.org","path":"\/amMap\/ammap\/","bgcolor":"#E9F0FF","class":"feedback-subject","name":"ammap_c1226c82375f72fd9687e2d2145f0071"};
+swfobject.embedSWF( "/amMap/ammap.swf", "ammap_c1226c82375f72fd9687e2d2145f0071", "100%", "225px", "8.0.0",
+"/objects/flex/expressInstall.swf",
+flashvars, params, attributes
+);
+</script>    </div>
+<div style="clear:both;">&nbsp;</div>
+</div>
+</div>
+<script type="text/javascript">
+var flip_ads = true;
+var trafficstatsSnippet = "/site/trafficstats;goLDFnj%2F52XJbeUNTxzzHA8AFLk%3D/wikileaks.org/?adult=&category=Top%2FSociety%2FIssues%2FMulti-issue_Publications&rank=865";
+var demographicsSnippet = "/site/demographics;goLDFnj%2F52XJbeUNTxzzHA8AFLk%3D/wikileaks.org?relatedSites=webmasterpoint.org%2Ctomshw.it%2Cpunto-informatico.it%2Cnetzpolitik.org";
+var demowidgetSnippet = "/site/demographicscompare;goLDFnj%2F52XJbeUNTxzzHA8AFLk%3D/wikileaks.org";
+var relatedSnippet = "/site/relatedlinks;goLDFnj%2F52XJbeUNTxzzHA8AFLk%3D/wikileaks.org";
+var clickstreamSnippet = "/site/clickstream;goLDFnj%2F52XJbeUNTxzzHA8AFLk%3D/wikileaks.org";
+var keywordsSnippet = "http://www.alexa.com/cgi-bin/ispionage.php?url=wikileaks.org";
+$('img.favicon').error(function(){
+$(this).attr('src', '/images/site/favicon.png');
+});
+$('.externalLink').click(function() {
+if(undefined == $(this).attr('hasClick')) {
+window.location = $(this).attr('src');
+$(this).attr('hasClick', true);
+}
+});
+</script>
+</div>
+</div>
+</div>
+<div id="right-column" >
+<div id="right-column-inner" class="clearfix">
+<p><a href="/toolbar?utm_source=sidebar-ad&utm_medium=www&utm_content=man&utm_campaign=toolbar"
+onclick="trackCustomEvent('ad/ad-toolbar-man')"><img src="/images/ads/ad-toolbar-man2.png" class="ad-toolbar-man"/></a></p>
+<iframe class="adframe" scrolling="no" allowTransparency="true"
+marginheight="0" marginwidth="0" width="300"
+frameborder="0" height="250" scrolling="no"
+style='border:none;width:300;height:250;padding:0;' src="http://d3.zedo.com/jsc/d3/ff2.html?n=1219;c=29/23/20/1;w=300;h=250;d=9;s=1">
+</iframe>
+<a class="small" href="/company/advertise">Advertise with Alexa</a>
+<div class="width300 side-content">
+<div id="top">
+<div class="corners left"><img src="/images/layout/side-top-left.gif" /></div>
+<div class="corners right"><img src="/images/layout/side-top-right.gif" /></div>
+</div>
+<div id="contents">
+<h2>High Impact Search Queries for Wikileaks.org</h2>
+<div>
+<table class="dataTable" width="100%" cellpadding="0" cellspacing="0" border="0">
+<tr>
+<th>Query</th>
+<th style="text-align:right;">Impact</th>
+</tr>
+</table>
+<table class="dataTable" width="100%" cellpadding="0" cellspacing="0" border="0">
+<tr>
+<td class="count">1</td>
+<td><span class="searchLink" p="sempromokey" r="site_siteinfo"  s="wikileaks.org" >wiki leaks</span></td>
+<td class="number">High</td>
+</tr>
+<tr>
+<td class="count">2</td>
+<td><span class="searchLink" p="sempromokey" r="site_siteinfo"  s="wikileaks.org" >wikileak</span></td>
+<td class="number">High</td>
+</tr>
+<tr>
+<td class="count">3</td>
+<td><span class="searchLink" p="sempromokey" r="site_siteinfo"  s="wikileaks.org" >wikileaks.org</span></td>
+<td class="number">High</td>
+</tr>
+<tr>
+<td class="count">4</td>
+<td><span class="searchLink" p="sempromokey" r="site_siteinfo"  s="wikileaks.org" >wiki leak</span></td>
+<td class="number">Medium</td>
+</tr>
+<tr>
+<td class="count">5</td>
+<td><span class="searchLink" p="sempromokey" r="site_siteinfo"  s="wikileaks.org" >website</span></td>
+<td class="number">Medium</td>
+</tr>
+<tr>
+<td class="count">6</td>
+<td><span class="searchLink" p="sempromokey" r="site_siteinfo"  s="wikileaks.org" >wikileaks video</span></td>
+<td class="number">Medium</td>
+</tr>
+<tr>
+<td class="count">7</td>
+<td><span class="searchLink" p="sempromokey" r="site_siteinfo"  s="wikileaks.org" >wikileaks website</span></td>
+<td class="number">Medium</td>
+</tr>
+</table></div>
+<div class="tr1">
+<p class="tc1 centered"><a onclick="selectTab('#keywords'); return true;" href="#keywords">View the complete Search Analytics</a></p>
+</div>
+</div>
+<div id="bottom">
+<div class="corners left"><img src="/images/layout/side-btm-left.gif" /></div>
+<div class="corners right"><img src="/images/layout/side-btm-right.gif" /></div>
+</div>
+</div>
+<div id="sponsored-ads">
+<div style="float:left">      <iframe class="adframe" scrolling="no" allowTransparency="true"
+marginheight="0" marginwidth="0" width="160"
+frameborder="0" height="600" scrolling="no"
+style='border:none;width:160;height:600;padding:0;' src="http://d3.zedo.com/jsc/d3/ff2.html?n=1219;c=25/22/16/1;w=160;h=600;d=7;s=1">
+</iframe>
+</div>
+</div>
+<br style="clear:both"/>
+<div class="width300 side-content">
+<div id="top">
+<div class="corners left"><img src="/images/layout/side-top-left.gif" /></div>
+<div class="corners right"><img src="/images/layout/side-top-right.gif" /></div>
+</div>
+<div id="contents">
+<h2>Top Search Queries for Wikileaks.org</h2>
+<div id="searchtermsDiv">
+<table class="dataTable" width="100%" cellpadding="0" cellspacing="0" border="0">
+<tr>
+<th>Query</th>
+<th style="text-align:right;">Percent of Search Traffic</th>
+</tr>
+</table>
+<table class="dataTable" width="100%" cellpadding="0" cellspacing="0" border="0">
+<tr>
+<td class="count">1</td>
+<td>
+<span class="searchLink" p="promokey" r="site_siteinfo" s="wikileaks.org" >wikileaks</span>
+</td>
+<td class="number">82.44%</td>
+</tr>
+<tr>
+<td class="count">2</td>
+<td>
+<span class="searchLink" p="promokey" r="site_siteinfo" s="wikileaks.org" >wiki leaks</span>
+</td>
+<td class="number">5.50%</td>
+</tr>
+<tr>
+<td class="count">3</td>
+<td>
+<span class="searchLink" p="promokey" r="site_siteinfo" s="wikileaks.org" >wikileak</span>
+</td>
+<td class="number">2.29%</td>
+</tr>
+<tr>
+<td class="count">4</td>
+<td>
+<span class="searchLink" p="promokey" r="site_siteinfo" s="wikileaks.org" >wikileaks.org</span>
+</td>
+<td class="number">1.23%</td>
+</tr>
+<tr>
+<td class="count">5</td>
+<td>
+<span class="searchLink" p="promokey" r="site_siteinfo" s="wikileaks.org" >wikileaks website</span>
+</td>
+<td class="number">0.41%</td>
+</tr>
+<tr>
+<td class="count">6</td>
+<td>
+<span class="searchLink" p="promokey" r="site_siteinfo" s="wikileaks.org" >wikiliks</span>
+</td>
+<td class="number">0.39%</td>
+</tr>
+<tr>
+<td class="count">7</td>
+<td>
+<span class="searchLink" p="promokey" r="site_siteinfo" s="wikileaks.org" >wiki leak</span>
+</td>
+<td class="number">0.32%</td>
+</tr>
+</table></div>
+<div class="tr1">
+<p class="tc1 centered">
+<a class="trackme-cross" name="/crosspromo/links/side-content-area/top-search-queries" onclick="selectTab('#keywords'); return true;"
+href="#">View the complete Search Analytics</a></p>
+</div>
+</div>
+<div id="bottom">
+<div class="corners left"><img src="/images/layout/side-btm-left.gif" /></div>
+<div class="corners right"><img src="/images/layout/side-btm-right.gif" /></div>
+</div>
+</div>
+<div id="wayback">
+<h4>Wayback Machine</h4>
+<p><a href="http://web.archive.org/web/*/wikileaks.org " class="offsite" rel="nofollow">See how Wikileaks.org looked in the past</a></p>
+</div>
+<br/>
+<p>Like wikileaks.org? <a href="/toolbar">Download the Alexa toolbar</a> and access exclusive analytics content.</p>
+<br/>
+<p>您现在可以在Alexa中文官方网站cn.alexa.com上获取<a href="http://cn.alexa.com/siteinfo/wikileaks.org">wikileaks.org的网站流量信息</a>。</p>
+</div>
+</div>
+<br clear="all"/>
+<div id="banner-ad">      <iframe class="adframe" scrolling="no" allowTransparency="true"
+marginheight="0" marginwidth="0" width="728"
+frameborder="0" height="90" scrolling="no"
+style='border:none;width:728;height:90;padding:0;' src="http://d3.zedo.com/jsc/d3/ff2.html?n=1219;c=33/24/18/1;w=728;h=90;d=14;s=1">
+</iframe>
+</div>
+</div>
+<div id="footer">
+<div id="footer-inner">
+<div class="col">
+<h4><a href="/company/">Company</a></h4>
+<ul>
+<li><a href="/company/">About</a></li>
+<li><a href="/company/jobs">Jobs</a></li>
+<li><a href="/company/advertise">Advertise on Alexa</a></li>
+</ul>
+</div>
+<div class="col">
+<h4><a href="/help">Help</a></h4>
+<ul>
+<li><a href="/help">Help System</a></li>
+<li><a href="/tour">Tour</a></li>
+</ul>
+</div>
+<div class="col">
+<h4><a href="/siteowners">Alexa Tools for Site Owners </a></h4>
+<ul>
+<li><a href="/siteaudit">Get a Site Audit for your site</a></li>
+<li><a href="/siteowners">Edit your site listing</a></li>
+</ul>
+</div>
+<div class="col">
+<h4><a href="/siteowners">Related Services</a></h4>
+<ul>
+<li><a class="rs-sell" rel="nofollow" href="#" onclick="trackCustomEvent('ad/footer-sell-on-amazon')">Sell on Amazon</a></li>
+<li><a class="rs-content" rel="nofollow" href="#" onclick="trackCustomEvent('ad/footer-free-website-content')">Free Website Content</a></li>
+<li><a class="rs-aws" rel="nofollow" href="#" onclick="trackCustomEvent('ad/footer-amazon-web-service')">Amazon Web Services</a></li>
+</ul>
+</div>
+<div id="disclaimers">
+<!-- <h4><xsl:if test="($browser='ie' and contains($lowercase-user-agent,'7.')) or ($browser='ff' and contains($lowercase-user-agent,'2.'))">
+<a class="ch" onclick="installSearchEngine()">Add Alexa to Your List of Search Providers!</a>
+</xsl:if></h4> -->
+<h4><a href='/toolbar'>Download the Alexa Toolbar!</a></h4>        <a href="/help/privacy">Privacy Policy</a> <span class="foot-divider">|</span>
+<a href="/help/terms">Terms of Use</a>  <br/>
+&#169;
+Alexa Internet, Inc.<br/>
+<a href="http://www.amazon.com/gp/redirect.html?link_code=ur2&tag=alexashopping-5-20&camp=1789&creative=9325&location=%2Fgp%2Fhomepage.html%2F"><img src="/images/amazon/an_amazon_company.png" width="181" height="33" border="0" alt="An Amazon.com Company"/></a>
+</div>
+<script type="text/javascript">
+$('.rs-sell').click(function() {
+window.location = 'http://www.amazonservices.com/content/sell-on-amazon.htm?ld=AOAlexaGFN';
+return false;
+});
+$('.amz-ads').click(function() {
+window.location = 'http://www.amazonservices.com/content/product-ads-on-amazon.htm?ld=AOPADSAlexaGFN';
+return false;
+});
+$('.amz-store').click(function() {
+window.location = 'http://webstore.amazon.com/?ld=AOWBAAlexaGFN';
+return false;
+});
+$('.amz-landing').click(function() {
+window.location = 'http://www.amazon.com/gp/seller-account/mm-landing.html';
+return false;
+});
+$('.rs-content').click(function() {
+window.location = 'http://www.thefreedictionary.com/_/lookup.htm?2063';
+return false;
+});
+$('.rs-aws').click(function() {
+window.location = 'http://aws.amazon.com/?utm_source=alexa&utm_medium=banner&utm_campaign=BAAlexaFooter';
+return false;
+});
+</script>
+</div>
+<br style="clear:both"/>
+</div>
+</div>
+</div>
+<div id="page-shadow"></div>
+<!-- START GOOGLE ANALYTICS -->
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-2146411-1");
+pageTracker._initData();
+pageTracker._trackPageview();
+</script>
+<script type="text/javascript">
+function trackCustomEvent(customEvent) {
+var eventname = "/custom-event/site/"+customEvent;
+if (pageTracker != undefined) {
+pageTracker._trackPageview(eventname);
+return true;
+}
+}
+function trackExternalLink(externalLink) {
+return trackCustomEvent('external-link/'+externalLink.replace("http://", ""));
+}
+</script>
+<!-- END GOOGLE ANALYTICS -->
+<script type="text/javascript" language="JavaScript" src="http://atrk.alexametrics.com/atrk.js"></script>
+<script type="text/javascript" language="JavaScript">_atrk_opts = { atrk_acct: "s3LE913x9k00WW", domain:"alexa.com", label:"site" }; atrk ();</script>
+<noscript><img src="http://certify.alexametrics.com/atrk.gif?account=s3LE913x9k00WW&jsv=20080822" style="display:none" height="1" width="1"></noscript>
+<script>
+$('a.offsite').click( function() {
+trackExternalLink(this.href);
+});
+$('a.social').click( function() {
+trackCustomEvent( "social/" + this.name );
+});
+$('a.trackme').click( function() {
+trackCustomEvent( "link/" + this.name );
+});
+$('button.trackme').click( function() {
+trackCustomEvent('button/'+$(this).text());
+});
+$('a.trackme-cross').click( function() {
+trackCustomEvent( "link/" + this.name );
+});
+</script>
+<div id="FB_HiddenContainer"  style="position:absolute; top:-10000px; width:0px; height:0px;" ></div>
+<script type="text/javascript">
+fbscripts=["http://static.ak.connect.facebook.com/js/api_lib/v0.4/FeatureLoader.js.php",
+"http://www.alexa.com/js/fbconnect.js"];
+fbkey="50c875995299a232b561d290fdaad03e";
+</script>
+</body>
+</html>

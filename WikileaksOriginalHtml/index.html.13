@@ -1,0 +1,1333 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="ltr">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+				<meta name="keywords" content="Conference Recordings,Documentation,Proceedings,Kriss" />
+		<link rel="shortcut icon" href="../../../../favicon.ico" />
+		<link rel="search" type="application/opensearchdescription+xml" href="../opensearch_desc.php" title="25C3 Public Wiki (English)" />
+		<link rel="copyright" href="http://creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/rss+xml" title="25C3 Public Wiki RSS Feed" href="" />
+<link rel="alternate" type="application/atom+xml" title="25C3 Public Wiki Atom Feed" href="" />
+		<title>Conference Recordings - 25C3 Public Wiki</title>
+		<style type="text/css" media="screen, projection">/*<![CDATA[*/
+			@import "../skins/common/shared.css";
+			@import "../skins/CCC/main.css";
+		/*]]>*/</style>
+		<link rel="stylesheet" type="text/css" media="print" href="../skins/common/commonPrint.css" />
+		<meta http-equiv="imagetoolbar" content="no" />
+		
+		<script type= "text/javascript">/*<![CDATA[*/
+var skin = "CCC";
+var stylepath = "/congress/2008/wiki/skins";
+var wgArticlePath = "/congress/2008/wiki/$1";
+var wgScriptPath = "/congress/2008/wiki";
+var wgScript = "/congress/2008/wiki/index.php";
+var wgServer = "http://events.ccc.de";
+var wgCanonicalNamespace = "";
+var wgCanonicalSpecialPageName = false;
+var wgNamespaceNumber = 0;
+var wgPageName = "Conference_Recordings";
+var wgTitle = "Conference Recordings";
+var wgAction = "view";
+var wgRestrictionEdit = [];
+var wgRestrictionMove = [];
+var wgArticleId = "21";
+var wgIsArticle = true;
+var wgUserName = null;
+var wgUserGroups = null;
+var wgUserLanguage = "en";
+var wgContentLanguage = "en";
+var wgBreakFrames = false;
+var wgCurRevisionId = "5113";
+var wgVersion = "1.12.0";
+var wgEnableAPI = true;
+var wgEnableWriteAPI = false;
+/*]]>*/</script>
+                
+		<script type="text/javascript" src="../skins/common/wikibits.js%253F116"><!-- wikibits js --></script>
+		<!-- Head Scripts -->
+		<script type="text/javascript" src="../skins/common/ajax.js%253F116"></script>
+		<script type="text/javascript" src=""><!-- site js --></script>
+		<style type="text/css">/*<![CDATA[*/
+@import "";
+@import "";
+@import "";
+/*]]>*/</style>
+		<script src="../skins/CCC/preload.js" type="text/javascript"></script> 
+	</head>
+<body class="mediawiki ns-0 ltr page-Conference_Recordings">
+    <div id="globalWrapper">
+	<div id="column-content">
+	    <div id="top-row">
+	        <div id="p-personal">
+		    <h5>Personal tools</h5>
+		    <div class="pBody">
+			<ul>
+				<li id="pt-login"><a href="" title="You are encouraged to log in, it is not mandatory however. [o]" accesskey="o">Log in / create account</a></li>
+			</ul>
+		    </div>
+		</div>
+
+		<div id="p-search">
+		    <form action="" id="searchform">
+				<input id="searchInput" name="search" type="text" title="Search 25C3 Public Wiki [f]" accesskey="f" value="" />
+				<input type='submit' name="go" class="searchButton" id="searchGoButton"	value="Go" title="Go to a page with this exact name if exists" />
+				<input type='submit' name="fulltext" class="searchButton" id="mw-searchButton" value="Search" title="Search the pages for this text" />
+			</form>
+		</div>
+
+    		<div id="first-row">
+		    		    <a href="../Welcome/index.html"><span id="welcome-inactive"></span></a>
+		    <a href="../Fahrplan/index.html"><span id="schedule-inactive"></span></a>
+		    <a href="../Tickets/index.html"><span id="tickets-inactive"></span></a>
+		    <a href="../Travel/index.html"><span id="travel-inactive"></span></a>
+		    <a href="../Volunteers/index.html"><span id="participate-inactive"></span></a>
+		    <a href="../Supporters/index.html"><span id="supporters-inactive"></span></a>
+		    <a href="../Contact/index.html"><span id="contact-inactive"></span></a>
+		</div>
+	
+		 <div id="p-logo"></div>
+	    </div>
+	    <div id="content">
+		<a name="top" id="top"></a>
+				<h1 class="firstHeading">Conference Recordings</h1>
+		<div id="bodyContent">
+			<h3 id="siteSub">From 25C3 Public Wiki</h3>
+			<div id="contentSub"></div>
+									<div id="jump-to-nav">Jump to: <a href="#column-one">navigation</a>, <a href="#searchInput">search</a></div>			<!-- start content -->
+			<table id="toc" class="toc" summary="Contents"><tr><td><div id="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1"><a href="#Official_Releases"><span class="tocnumber">1</span> <span class="toctext">Official Releases</span></a>
+<ul>
+<li class="toclevel-2"><a href="#Online_viewing"><span class="tocnumber">1.1</span> <span class="toctext">Online viewing</span></a></li>
+<li class="toclevel-2"><a href="#Mirrors"><span class="tocnumber">1.2</span> <span class="toctext">Mirrors</span></a>
+<ul>
+<li class="toclevel-3"><a href="#Mirroring_official_files"><span class="tocnumber">1.2.1</span> <span class="toctext">Mirroring official files</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2"><a href="#Torrents_.40_The_Pirate_Bay"><span class="tocnumber">1.3</span> <span class="toctext">Torrents @ The Pirate Bay</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1"><a href="#Errata"><span class="tocnumber">2</span> <span class="toctext">Errata</span></a></li>
+<li class="toclevel-1"><a href="#Unofficial_Podcast"><span class="tocnumber">3</span> <span class="toctext">Unofficial Podcast</span></a>
+<ul>
+<li class="toclevel-2"><a href="#H.264"><span class="tocnumber">3.1</span> <span class="toctext">H.264</span></a></li>
+<li class="toclevel-2"><a href="#Mobile_Video_.28iPod_compatible.29"><span class="tocnumber">3.2</span> <span class="toctext">Mobile Video (iPod compatible)</span></a></li>
+<li class="toclevel-2"><a href="#MP3_Audio"><span class="tocnumber">3.3</span> <span class="toctext">MP3 Audio</span></a></li>
+<li class="toclevel-2"><a href="#OGG_Vorbis_Audio"><span class="tocnumber">3.4</span> <span class="toctext">OGG Vorbis Audio</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1"><a href="#Copyright_license_and_credits"><span class="tocnumber">4</span> <span class="toctext">Copyright license and credits</span></a></li>
+<li class="toclevel-1"><a href="#See_also"><span class="tocnumber">5</span> <span class="toctext">See also</span></a></li>
+</ul>
+</td></tr></table><script type="text/javascript"> if (window.showTocToggle) { var tocShowText = "show"; var tocHideText = "hide"; showTocToggle(); } </script>
+<a name="Official_Releases"></a><h2><span class="editsection">[<a href="" title="Edit section: Official Releases">edit</a>]</span> <span class="mw-headline"> Official Releases </span></h2>
+<p>[updated: Mon Jan 26 12:55:16 CET 2009] finally everthing is done&nbsp;:o)
+</p>
+<table width="100%" border="1">
+<tr>
+<th> ####
+</th><th> Title
+</th><th> Status
+</th><th> H.264
+</th><th> iPod
+</th><th> MP3
+</th><th> OGG
+</th></tr>
+
+<tr>
+<td> 2596
+</td><td> SWF and the Malware Tragedy
+</td><td> released
+</td><td> <a href="http://bork.informatik.uni-erlangen.de/pub/ccc/25c3/video_h264_720x576/25c3-2596-en-swf_and_the_malware_tragedy.mp4" class="external text" title="http://bork.informatik.uni-erlangen.de/pub/ccc/25c3/video_h264_720x576/25c3-2596-en-swf_and_the_malware_tragedy.mp4" rel="nofollow">released</a>
+</td><td> <a href="http://ftp.uni-kl.de/25C3/video_h264_iPod/25c3-2596-en-swf_and_the_malware_tragedy.ipod.m4v" class="external text" title="http://ftp.uni-kl.de/25C3/video_h264_iPod/25c3-2596-en-swf_and_the_malware_tragedy.ipod.m4v" rel="nofollow">released</a>
+</td><td> <a href="http://mirrors.dotsrc.org/congress/25C3/audio_only/25c3-2596-en-swf_and_the_malware_tragedy.mp3" class="external text" title="http://mirrors.dotsrc.org/congress/25C3/audio_only/25c3-2596-en-swf_and_the_malware_tragedy.mp3" rel="nofollow">released</a>
+</td><td> <a href="http://ftp.stw-bonn.de/mirror/25C3/audio_only/25c3-2596-en-swf_and_the_malware_tragedy.ogg" class="external text" title="http://ftp.stw-bonn.de/mirror/25C3/audio_only/25c3-2596-en-swf_and_the_malware_tragedy.ogg" rel="nofollow">released</a>
+</td></tr>
+
+<tr>
+<td> 2639
+</td><td> Attacking NFC mobile phones
+</td><td> released
+</td><td> <a href="http://mirror.netcologne.de/25c3/video_h264_720x576/25c3-2639-en-attacking_nfc_mobile_phones.mp4" class="external text" title="http://mirror.netcologne.de/25c3/video_h264_720x576/25c3-2639-en-attacking_nfc_mobile_phones.mp4" rel="nofollow">released</a>
+</td><td> <a href="http://derchris.eu/ccc/25C3/video_h264_iPod/25c3-2639-en-attacking_nfc_mobile_phones.ipod.m4v" class="external text" title="http://derchris.eu/ccc/25C3/video_h264_iPod/25c3-2639-en-attacking_nfc_mobile_phones.ipod.m4v" rel="nofollow">released</a>
+</td><td> <a href="http://bork.informatik.uni-erlangen.de/pub/ccc/25c3/audio_only/25c3-2639-en-attacking_nfc_mobile_phones.mp3" class="external text" title="http://bork.informatik.uni-erlangen.de/pub/ccc/25c3/audio_only/25c3-2639-en-attacking_nfc_mobile_phones.mp3" rel="nofollow">released</a>
+</td><td> <a href="http://ftp.uni-kl.de/25C3/audio_only/25c3-2639-en-attacking_nfc_mobile_phones.ogg" class="external text" title="http://ftp.uni-kl.de/25C3/audio_only/25c3-2639-en-attacking_nfc_mobile_phones.ogg" rel="nofollow">released</a>
+</td></tr>
+
+<tr>
+<td> 2665
+</td><td> The Trust Situation
+</td><td> released
+</td><td> <a href="http://mirrors.dotsrc.org/congress/25C3/video_h264_720x576/25c3-2665-en-the_trust_situation.mp4" class="external text" title="http://mirrors.dotsrc.org/congress/25C3/video_h264_720x576/25c3-2665-en-the_trust_situation.mp4" rel="nofollow">released</a>
+</td><td> <a href="http://ftp.stw-bonn.de/mirror/25C3/video_h264_iPod/25c3-2665-en-the_trust_situation.ipod.m4v" class="external text" title="http://ftp.stw-bonn.de/mirror/25C3/video_h264_iPod/25c3-2665-en-the_trust_situation.ipod.m4v" rel="nofollow">released</a>
+</td><td> <a href="http://mirror.netcologne.de/25c3/audio_only/25c3-2665-en-the_trust_situation.mp3" class="external text" title="http://mirror.netcologne.de/25c3/audio_only/25c3-2665-en-the_trust_situation.mp3" rel="nofollow">released</a>
+</td><td> <a href="http://derchris.eu/ccc/25C3/audio_only/25c3-2665-en-the_trust_situation.ogg" class="external text" title="http://derchris.eu/ccc/25C3/audio_only/25c3-2665-en-the_trust_situation.ogg" rel="nofollow">released</a>
+</td></tr>
+
+<tr>
+<td> 2669
+</td><td> Collapsing the European security architecture
+</td><td> released
+</td><td> <a href="http://bork.informatik.uni-erlangen.de/pub/ccc/25c3/video_h264_720x576/25c3-2669-en-collapsing_the_european_security_architecture.mp4" class="external text" title="http://bork.informatik.uni-erlangen.de/pub/ccc/25c3/video_h264_720x576/25c3-2669-en-collapsing_the_european_security_architecture.mp4" rel="nofollow">released</a>
+</td><td> <a href="http://ftp.uni-kl.de/25C3/video_h264_iPod/25c3-2669-en-collapsing_the_european_security_architecture.ipod.m4v" class="external text" title="http://ftp.uni-kl.de/25C3/video_h264_iPod/25c3-2669-en-collapsing_the_european_security_architecture.ipod.m4v" rel="nofollow">released</a>
+</td><td> <a href="http://mirrors.dotsrc.org/congress/25C3/audio_only/25c3-2669-en-collapsing_the_european_security_architecture.mp3" class="external text" title="http://mirrors.dotsrc.org/congress/25C3/audio_only/25c3-2669-en-collapsing_the_european_security_architecture.mp3" rel="nofollow">released</a>
+</td><td> <a href="http://ftp.stw-bonn.de/mirror/25C3/audio_only/25c3-2669-en-collapsing_the_european_security_architecture.ogg" class="external text" title="http://ftp.stw-bonn.de/mirror/25C3/audio_only/25c3-2669-en-collapsing_the_european_security_architecture.ogg" rel="nofollow">released</a>
+</td></tr>
+
+<tr>
+<td> 2678
+</td><td> Vulnerability discovery in encrypted closed source PHP applications
+</td><td> released
+</td><td> <a href="http://mirror.netcologne.de/25c3/video_h264_720x576/25c3-2678-en-vulnerability_discovery_in_encrypted_closed_source_php_applications.mp4" class="external text" title="http://mirror.netcologne.de/25c3/video_h264_720x576/25c3-2678-en-vulnerability_discovery_in_encrypted_closed_source_php_applications.mp4" rel="nofollow">released</a>
+</td><td> <a href="http://derchris.eu/ccc/25C3/video_h264_iPod/25c3-2678-en-vulnerability_discovery_in_encrypted_closed_source_php_applications.ipod.m4v" class="external text" title="http://derchris.eu/ccc/25C3/video_h264_iPod/25c3-2678-en-vulnerability_discovery_in_encrypted_closed_source_php_applications.ipod.m4v" rel="nofollow">released</a>
+</td><td> <a href="http://bork.informatik.uni-erlangen.de/pub/ccc/25c3/audio_only/25c3-2678-en-vulnerability_discovery_in_encrypted_closed_source_php_applications.mp3" class="external text" title="http://bork.informatik.uni-erlangen.de/pub/ccc/25c3/audio_only/25c3-2678-en-vulnerability_discovery_in_encrypted_closed_source_php_applications.mp3" rel="nofollow">released</a>
+</td><td> <a href="http://ftp.uni-kl.de/25C3/audio_only/25c3-2678-en-vulnerability_discovery_in_encrypted_closed_source_php_applications.ogg" class="external text" title="http://ftp.uni-kl.de/25C3/audio_only/25c3-2678-en-vulnerability_discovery_in_encrypted_closed_source_php_applications.ogg" rel="nofollow">released</a>
+</td></tr>
+
+<tr>
+<td> 2680
+</td><td> Not Soy Fast: Genetically Modified, Resource Greedy, and coming to a Supermarket Near You
+</td><td> released
+</td><td> <a href="http://mirrors.dotsrc.org/congress/25C3/video_h264_720x576/25c3-2680-en-not_soy_fast:_genetically_modified,_resource_greedy,_and_coming_to_a_supermarket_near_you.mp4" class="external text" title="http://mirrors.dotsrc.org/congress/25C3/video_h264_720x576/25c3-2680-en-not_soy_fast:_genetically_modified,_resource_greedy,_and_coming_to_a_supermarket_near_you.mp4" rel="nofollow">released</a>
+</td><td> <a href="http://ftp.stw-bonn.de/mirror/25C3/video_h264_iPod/25c3-2680-en-not_soy_fast:_genetically_modified,_resource_greedy,_and_coming_to_a_supermarket_near_you.ipod.m4v" class="external text" title="http://ftp.stw-bonn.de/mirror/25C3/video_h264_iPod/25c3-2680-en-not_soy_fast:_genetically_modified,_resource_greedy,_and_coming_to_a_supermarket_near_you.ipod.m4v" rel="nofollow">released</a>
+</td><td> <a href="http://mirror.netcologne.de/25c3/audio_only/25c3-2680-en-not_soy_fast:_genetically_modified,_resource_greedy,_and_coming_to_a_supermarket_near_you.mp3" class="external text" title="http://mirror.netcologne.de/25c3/audio_only/25c3-2680-en-not_soy_fast:_genetically_modified,_resource_greedy,_and_coming_to_a_supermarket_near_you.mp3" rel="nofollow">released</a>
+</td><td> <a href="http://derchris.eu/ccc/25C3/audio_only/25c3-2680-en-not_soy_fast:_genetically_modified,_resource_greedy,_and_coming_to_a_supermarket_near_you.ogg" class="external text" title="http://derchris.eu/ccc/25C3/audio_only/25c3-2680-en-not_soy_fast:_genetically_modified,_resource_greedy,_and_coming_to_a_supermarket_near_you.ogg" rel="nofollow">released</a>
+</td></tr>
+
+<tr>
+<td> 2681
+</td><td> Repurposing the TI EZ430U
+</td><td> released
+</td><td> <a href="http://bork.informatik.uni-erlangen.de/pub/ccc/25c3/video_h264_720x576/25c3-2681-en-repurposing_the_ti_ez430u.mp4" class="external text" title="http://bork.informatik.uni-erlangen.de/pub/ccc/25c3/video_h264_720x576/25c3-2681-en-repurposing_the_ti_ez430u.mp4" rel="nofollow">released</a>
+</td><td> <a href="http://ftp.uni-kl.de/25C3/video_h264_iPod/25c3-2681-en-repurposing_the_ti_ez430u.ipod.m4v" class="external text" title="http://ftp.uni-kl.de/25C3/video_h264_iPod/25c3-2681-en-repurposing_the_ti_ez430u.ipod.m4v" rel="nofollow">released</a>
+</td><td> <a href="http://mirrors.dotsrc.org/congress/25C3/audio_only/25c3-2681-en-repurposing_the_ti_ez430u.mp3" class="external text" title="http://mirrors.dotsrc.org/congress/25C3/audio_only/25c3-2681-en-repurposing_the_ti_ez430u.mp3" rel="nofollow">released</a>
+</td><td> <a href="http://ftp.stw-bonn.de/mirror/25C3/audio_only/25c3-2681-en-repurposing_the_ti_ez430u.ogg" class="external text" title="http://ftp.stw-bonn.de/mirror/25C3/audio_only/25c3-2681-en-repurposing_the_ti_ez430u.ogg" rel="nofollow">released</a>
+</td></tr>
+
+<tr>
+<td> 2734
+</td><td> Short Attention Span Security
+</td><td> released
+</td><td> <a href="http://mirror.netcologne.de/25c3/video_h264_720x576/25c3-2734-en-short_attention_span_security.mp4" class="external text" title="http://mirror.netcologne.de/25c3/video_h264_720x576/25c3-2734-en-short_attention_span_security.mp4" rel="nofollow">released</a>
+</td><td> <a href="http://derchris.eu/ccc/25C3/video_h264_iPod/25c3-2734-en-short_attention_span_security.ipod.m4v" class="external text" title="http://derchris.eu/ccc/25C3/video_h264_iPod/25c3-2734-en-short_attention_span_security.ipod.m4v" rel="nofollow">released</a>
+</td><td> <a href="http://bork.informatik.uni-erlangen.de/pub/ccc/25c3/audio_only/25c3-2734-en-short_attention_span_security.mp3" class="external text" title="http://bork.informatik.uni-erlangen.de/pub/ccc/25c3/audio_only/25c3-2734-en-short_attention_span_security.mp3" rel="nofollow">released</a>
+</td><td> <a href="http://ftp.uni-kl.de/25C3/audio_only/25c3-2734-en-short_attention_span_security.ogg" class="external text" title="http://ftp.uni-kl.de/25C3/audio_only/25c3-2734-en-short_attention_span_security.ogg" rel="nofollow">released</a>
+</td></tr>
+
+<tr>
+<td> 2773
+</td><td> Soviet Unterzoegersdorf
+</td><td> released
+</td><td> <a href="http://mirrors.dotsrc.org/congress/25C3/video_h264_720x576/25c3-2773-en-soviet_unterzoegersdorf.mp4" class="external text" title="http://mirrors.dotsrc.org/congress/25C3/video_h264_720x576/25c3-2773-en-soviet_unterzoegersdorf.mp4" rel="nofollow">released</a>
+</td><td> <a href="http://ftp.stw-bonn.de/mirror/25C3/video_h264_iPod/25c3-2773-en-soviet_unterzoegersdorf.ipod.m4v" class="external text" title="http://ftp.stw-bonn.de/mirror/25C3/video_h264_iPod/25c3-2773-en-soviet_unterzoegersdorf.ipod.m4v" rel="nofollow">released</a>
+</td><td> <a href="http://mirror.netcologne.de/25c3/audio_only/25c3-2773-en-soviet_unterzoegersdorf.mp3" class="external text" title="http://mirror.netcologne.de/25c3/audio_only/25c3-2773-en-soviet_unterzoegersdorf.mp3" rel="nofollow">released</a>
+</td><td> <a href="http://derchris.eu/ccc/25C3/audio_only/25c3-2773-en-soviet_unterzoegersdorf.ogg" class="external text" title="http://derchris.eu/ccc/25C3/audio_only/25c3-2773-en-soviet_unterzoegersdorf.ogg" rel="nofollow">released</a>
+</td></tr>
+
+<tr>
+<td> 2777
+</td><td> Crafting and Hacking: Separated at Birth
+</td><td> released
+</td><td> <a href="http://bork.informatik.uni-erlangen.de/pub/ccc/25c3/video_h264_720x576/25c3-2777-en-crafting_and_hacking:_separated_at_birth.mp4" class="external text" title="http://bork.informatik.uni-erlangen.de/pub/ccc/25c3/video_h264_720x576/25c3-2777-en-crafting_and_hacking:_separated_at_birth.mp4" rel="nofollow">released</a>
+</td><td> <a href="http://ftp.uni-kl.de/25C3/video_h264_iPod/25c3-2777-en-crafting_and_hacking:_separated_at_birth.ipod.m4v" class="external text" title="http://ftp.uni-kl.de/25C3/video_h264_iPod/25c3-2777-en-crafting_and_hacking:_separated_at_birth.ipod.m4v" rel="nofollow">released</a>
+</td><td> <a href="http://mirrors.dotsrc.org/congress/25C3/audio_only/25c3-2777-en-crafting_and_hacking:_separated_at_birth.mp3" class="external text" title="http://mirrors.dotsrc.org/congress/25C3/audio_only/25c3-2777-en-crafting_and_hacking:_separated_at_birth.mp3" rel="nofollow">released</a>
+</td><td> <a href="http://ftp.stw-bonn.de/mirror/25C3/audio_only/25c3-2777-en-crafting_and_hacking:_separated_at_birth.ogg" class="external text" title="http://ftp.stw-bonn.de/mirror/25C3/audio_only/25c3-2777-en-crafting_and_hacking:_separated_at_birth.ogg" rel="nofollow">released</a>
+</td></tr>
+
+<tr>
+<td> 2781
+</td><td> Objects as Software: The Coming Revolution
+</td><td> released
+</td><td> <a href="http://mirror.netcologne.de/25c3/video_h264_720x576/25c3-2781-en-objects_as_software:_the_coming_revolution.mp4" class="external text" title="http://mirror.netcologne.de/25c3/video_h264_720x576/25c3-2781-en-objects_as_software:_the_coming_revolution.mp4" rel="nofollow">released</a>
+</td><td> <a href="http://derchris.eu/ccc/25C3/video_h264_iPod/25c3-2781-en-objects_as_software_the_coming_revolution.ipod.m4v" class="external text" title="http://derchris.eu/ccc/25C3/video_h264_iPod/25c3-2781-en-objects_as_software_the_coming_revolution.ipod.m4v" rel="nofollow">released</a>
+</td><td> <a href="http://bork.informatik.uni-erlangen.de/pub/ccc/25c3/audio_only/25c3-2781-en-objects_as_software:_the_coming_revolution.mp3" class="external text" title="http://bork.informatik.uni-erlangen.de/pub/ccc/25c3/audio_only/25c3-2781-en-objects_as_software:_the_coming_revolution.mp3" rel="nofollow">released</a>
+</td><td> <a href="http://ftp.uni-kl.de/25C3/audio_only/25c3-2781-en-objects_as_software:_the_coming_revolution.ogg" class="external text" title="http://ftp.uni-kl.de/25C3/audio_only/25c3-2781-en-objects_as_software:_the_coming_revolution.ogg" rel="nofollow">released</a>
+</td></tr>
+
+<tr>
+<td> 2791
+</td><td> La Quadrature du Net - Campaigning on Telecoms Package
+</td><td> released
+</td><td> <a href="http://mirrors.dotsrc.org/congress/25C3/video_h264_720x576/25c3-2791-en-la_quadrature_du_net_-_campaigning_on_telecoms_package.mp4" class="external text" title="http://mirrors.dotsrc.org/congress/25C3/video_h264_720x576/25c3-2791-en-la_quadrature_du_net_-_campaigning_on_telecoms_package.mp4" rel="nofollow">released</a>
+</td><td> <a href="http://ftp.stw-bonn.de/mirror/25C3/video_h264_iPod/25c3-2791-en-la_quadrature_du_net_-_campaigning_on_telecoms_package.ipod.m4v" class="external text" title="http://ftp.stw-bonn.de/mirror/25C3/video_h264_iPod/25c3-2791-en-la_quadrature_du_net_-_campaigning_on_telecoms_package.ipod.m4v" rel="nofollow">released</a>
+</td><td> <a href="http://mirror.netcologne.de/25c3/audio_only/25c3-2791-en-la_quadrature_du_net_-_campaigning_on_telecoms_package.mp3" class="external text" title="http://mirror.netcologne.de/25c3/audio_only/25c3-2791-en-la_quadrature_du_net_-_campaigning_on_telecoms_package.mp3" rel="nofollow">released</a>
+</td><td> <a href="http://derchris.eu/ccc/25C3/audio_only/25c3-2791-en-la_quadrature_du_net_-_campaigning_on_telecoms_package.ogg" class="external text" title="http://derchris.eu/ccc/25C3/audio_only/25c3-2791-en-la_quadrature_du_net_-_campaigning_on_telecoms_package.ogg" rel="nofollow">released</a>
+</td></tr>
+
+<tr>
+<td> 2799
+</td><td> Console Hacking 2008: Wii Fail
+</td><td> released
+</td><td> <a href="http://bork.informatik.uni-erlangen.de/pub/ccc/25c3/video_h264_720x576/25c3-2799-en-console_hacking_2008:_wii_fail.mp4" class="external text" title="http://bork.informatik.uni-erlangen.de/pub/ccc/25c3/video_h264_720x576/25c3-2799-en-console_hacking_2008:_wii_fail.mp4" rel="nofollow">released</a>
+</td><td> <a href="http://ftp.uni-kl.de/25C3/video_h264_iPod/25c3-2799-en-console_hacking_2008:_wii_fail.ipod.m4v" class="external text" title="http://ftp.uni-kl.de/25C3/video_h264_iPod/25c3-2799-en-console_hacking_2008:_wii_fail.ipod.m4v" rel="nofollow">released</a>
+</td><td> <a href="http://mirrors.dotsrc.org/congress/25C3/audio_only/25c3-2799-en-console_hacking_2008:_wii_fail.mp3" class="external text" title="http://mirrors.dotsrc.org/congress/25C3/audio_only/25c3-2799-en-console_hacking_2008:_wii_fail.mp3" rel="nofollow">released</a>
+</td><td> <a href="http://ftp.stw-bonn.de/mirror/25C3/audio_only/25c3-2799-en-console_hacking_2008:_wii_fail.ogg" class="external text" title="http://ftp.stw-bonn.de/mirror/25C3/audio_only/25c3-2799-en-console_hacking_2008:_wii_fail.ogg" rel="nofollow">released</a>
+</td></tr>
+
+<tr>
+<td> 2806
+</td><td> Building an international movement: hackerspaces.org
+</td><td> released
+</td><td> <a href="http://mirror.netcologne.de/25c3/video_h264_720x576/25c3-2806-en-building_an_international_movement:_hackerspaces.org.mp4" class="external text" title="http://mirror.netcologne.de/25c3/video_h264_720x576/25c3-2806-en-building_an_international_movement:_hackerspaces.org.mp4" rel="nofollow">released</a>
+</td><td> <a href="http://derchris.eu/ccc/25C3/video_h264_iPod/25c3-2806-en-building_an_international_movement_hackerspaces.org.ipod.m4v" class="external text" title="http://derchris.eu/ccc/25C3/video_h264_iPod/25c3-2806-en-building_an_international_movement_hackerspaces.org.ipod.m4v" rel="nofollow">released</a>
+</td><td> <a href="http://bork.informatik.uni-erlangen.de/pub/ccc/25c3/audio_only/25c3-2806-en-building_an_international_movement:_hackerspaces.org.mp3" class="external text" title="http://bork.informatik.uni-erlangen.de/pub/ccc/25c3/audio_only/25c3-2806-en-building_an_international_movement:_hackerspaces.org.mp3" rel="nofollow">released</a>
+</td><td> <a href="http://ftp.uni-kl.de/25C3/audio_only/25c3-2806-en-building_an_international_movement:_hackerspaces.org.ogg" class="external text" title="http://ftp.uni-kl.de/25C3/audio_only/25c3-2806-en-building_an_international_movement:_hackerspaces.org.ogg" rel="nofollow">released</a>
+</td></tr>
+
+<tr>
+<td> 2807
+</td><td> Erich Muehsams Tagebuecher in der Festungshaft
+</td><td> released
+</td><td> <a href="http://mirrors.dotsrc.org/congress/25C3/video_h264_720x576/25c3-2807-de-erich_muehsams_tagebuecher_in_der_festungshaft.mp4" class="external text" title="http://mirrors.dotsrc.org/congress/25C3/video_h264_720x576/25c3-2807-de-erich_muehsams_tagebuecher_in_der_festungshaft.mp4" rel="nofollow">released</a>
+</td><td> <a href="http://ftp.stw-bonn.de/mirror/25C3/video_h264_iPod/25c3-2807-de-erich_muehsams_tagebuecher_in_der_festungshaft.ipod.m4v" class="external text" title="http://ftp.stw-bonn.de/mirror/25C3/video_h264_iPod/25c3-2807-de-erich_muehsams_tagebuecher_in_der_festungshaft.ipod.m4v" rel="nofollow">released</a>
+</td><td> <a href="http://mirror.netcologne.de/25c3/audio_only/25c3-2807-de-erich_muehsams_tagebuecher_in_der_festungshaft.mp3" class="external text" title="http://mirror.netcologne.de/25c3/audio_only/25c3-2807-de-erich_muehsams_tagebuecher_in_der_festungshaft.mp3" rel="nofollow">released</a>
+</td><td> <a href="http://derchris.eu/ccc/25C3/audio_only/25c3-2807-de-erich_muehsams_tagebuecher_in_der_festungshaft.ogg" class="external text" title="http://derchris.eu/ccc/25C3/audio_only/25c3-2807-de-erich_muehsams_tagebuecher_in_der_festungshaft.ogg" rel="nofollow">released</a>
+</td></tr>
+
+<tr>
+<td> 2812
+</td><td> Fnord News Show
+</td><td> released
+</td><td> <a href="http://bork.informatik.uni-erlangen.de/pub/ccc/25c3/video_h264_720x576/25c3-2812-de-fnord_news_show.mp4" class="external text" title="http://bork.informatik.uni-erlangen.de/pub/ccc/25c3/video_h264_720x576/25c3-2812-de-fnord_news_show.mp4" rel="nofollow">released</a>
+</td><td> <a href="http://ftp.uni-kl.de/25C3/video_h264_iPod/25c3-2812-de-fnord_news_show.ipod.m4v" class="external text" title="http://ftp.uni-kl.de/25C3/video_h264_iPod/25c3-2812-de-fnord_news_show.ipod.m4v" rel="nofollow">released</a>
+</td><td> <a href="http://mirrors.dotsrc.org/congress/25C3/audio_only/25c3-2812-de-fnord_news_show.mp3" class="external text" title="http://mirrors.dotsrc.org/congress/25C3/audio_only/25c3-2812-de-fnord_news_show.mp3" rel="nofollow">released</a>
+</td><td> <a href="http://ftp.stw-bonn.de/mirror/25C3/audio_only/25c3-2812-de-fnord_news_show.ogg" class="external text" title="http://ftp.stw-bonn.de/mirror/25C3/audio_only/25c3-2812-de-fnord_news_show.ogg" rel="nofollow">released</a>
+</td></tr>
+
+<tr>
+<td> 2814
+</td><td> Datenpannen
+</td><td> released
+</td><td> <a href="http://mirror.netcologne.de/25c3/video_h264_720x576/25c3-2814-de-datenpannen.mp4" class="external text" title="http://mirror.netcologne.de/25c3/video_h264_720x576/25c3-2814-de-datenpannen.mp4" rel="nofollow">released</a>
+</td><td> <a href="http://derchris.eu/ccc/25C3/video_h264_iPod/25c3-2814-de-datenpannen.ipod.m4v" class="external text" title="http://derchris.eu/ccc/25C3/video_h264_iPod/25c3-2814-de-datenpannen.ipod.m4v" rel="nofollow">released</a>
+</td><td> <a href="http://bork.informatik.uni-erlangen.de/pub/ccc/25c3/audio_only/25c3-2814-de-datenpannen.mp3" class="external text" title="http://bork.informatik.uni-erlangen.de/pub/ccc/25c3/audio_only/25c3-2814-de-datenpannen.mp3" rel="nofollow">released</a>
+</td><td> <a href="http://ftp.uni-kl.de/25C3/audio_only/25c3-2814-de-datenpannen.ogg" class="external text" title="http://ftp.uni-kl.de/25C3/audio_only/25c3-2814-de-datenpannen.ogg" rel="nofollow">released</a>
+</td></tr>
+
+<tr>
+<td> 2815
+</td><td> Beyond Asimov - Laws for Robots
+</td><td> released
+</td><td> <a href="http://mirrors.dotsrc.org/congress/25C3/video_h264_720x576/25c3-2815-en-beyond_asimov_-_laws_for_robots.mp4" class="external text" title="http://mirrors.dotsrc.org/congress/25C3/video_h264_720x576/25c3-2815-en-beyond_asimov_-_laws_for_robots.mp4" rel="nofollow">released</a>
+</td><td> <a href="http://ftp.stw-bonn.de/mirror/25C3/video_h264_iPod/25c3-2815-en-beyond_asimov_-_laws_for_robots.ipod.m4v" class="external text" title="http://ftp.stw-bonn.de/mirror/25C3/video_h264_iPod/25c3-2815-en-beyond_asimov_-_laws_for_robots.ipod.m4v" rel="nofollow">released</a>
+</td><td> <a href="http://mirror.netcologne.de/25c3/audio_only/25c3-2815-en-beyond_asimov_-_laws_for_robots.mp3" class="external text" title="http://mirror.netcologne.de/25c3/audio_only/25c3-2815-en-beyond_asimov_-_laws_for_robots.mp3" rel="nofollow">released</a>
+</td><td> <a href="http://derchris.eu/ccc/25C3/audio_only/25c3-2815-en-beyond_asimov_-_laws_for_robots.ogg" class="external text" title="http://derchris.eu/ccc/25C3/audio_only/25c3-2815-en-beyond_asimov_-_laws_for_robots.ogg" rel="nofollow">released</a>
+</td></tr>
+
+<tr>
+<td> 2816
+</td><td> Cisco IOS attack and defense
+</td><td> released
+</td><td> <a href="http://bork.informatik.uni-erlangen.de/pub/ccc/25c3/video_h264_720x576/25c3-2816-en-cisco_ios_attack_and_defense.mp4" class="external text" title="http://bork.informatik.uni-erlangen.de/pub/ccc/25c3/video_h264_720x576/25c3-2816-en-cisco_ios_attack_and_defense.mp4" rel="nofollow">released</a>
+</td><td> <a href="http://ftp.uni-kl.de/25C3/video_h264_iPod/25c3-2816-en-cisco_ios_attack_and_defense.ipod.m4v" class="external text" title="http://ftp.uni-kl.de/25C3/video_h264_iPod/25c3-2816-en-cisco_ios_attack_and_defense.ipod.m4v" rel="nofollow">released</a>
+</td><td> <a href="http://mirrors.dotsrc.org/congress/25C3/audio_only/25c3-2816-en-cisco_ios_attack_and_defense.mp3" class="external text" title="http://mirrors.dotsrc.org/congress/25C3/audio_only/25c3-2816-en-cisco_ios_attack_and_defense.mp3" rel="nofollow">released</a>
+</td><td> <a href="http://ftp.stw-bonn.de/mirror/25C3/audio_only/25c3-2816-en-cisco_ios_attack_and_defense.ogg" class="external text" title="http://ftp.stw-bonn.de/mirror/25C3/audio_only/25c3-2816-en-cisco_ios_attack_and_defense.ogg" rel="nofollow">released</a>
+</td></tr>
+
+<tr>
+<td> 2827
+</td><td> U23
+</td><td> released
+</td><td> <a href="http://mirror.netcologne.de/25c3/video_h264_720x576/25c3-2827-de-u23.mp4" class="external text" title="http://mirror.netcologne.de/25c3/video_h264_720x576/25c3-2827-de-u23.mp4" rel="nofollow">released</a>
+</td><td> <a href="http://derchris.eu/ccc/25C3/video_h264_iPod/25c3-2827-de-u23.ipod.m4v" class="external text" title="http://derchris.eu/ccc/25C3/video_h264_iPod/25c3-2827-de-u23.ipod.m4v" rel="nofollow">released</a>
+</td><td> <a href="http://bork.informatik.uni-erlangen.de/pub/ccc/25c3/audio_only/25c3-2827-de-u23.mp3" class="external text" title="http://bork.informatik.uni-erlangen.de/pub/ccc/25c3/audio_only/25c3-2827-de-u23.mp3" rel="nofollow">released</a>
+</td><td> <a href="http://ftp.uni-kl.de/25C3/audio_only/25c3-2827-de-u23.ogg" class="external text" title="http://ftp.uni-kl.de/25C3/audio_only/25c3-2827-de-u23.ogg" rel="nofollow">released</a>
+</td></tr>
+
+<tr>
+<td> 2828
+</td><td> OnionCat – A Tor-based Anonymous VPN
+</td><td> released
+</td><td> <a href="http://mirrors.dotsrc.org/congress/25C3/video_h264_720x576/25c3-2828-en-onioncat_a_tor-based_anonymous_vpn.mp4" class="external text" title="http://mirrors.dotsrc.org/congress/25C3/video_h264_720x576/25c3-2828-en-onioncat_a_tor-based_anonymous_vpn.mp4" rel="nofollow">released</a>
+</td><td> <a href="http://ftp.stw-bonn.de/mirror/25C3/video_h264_iPod/25c3-2828-en-onioncat_a_tor-based_anonymous_vpn.ipod.m4v" class="external text" title="http://ftp.stw-bonn.de/mirror/25C3/video_h264_iPod/25c3-2828-en-onioncat_a_tor-based_anonymous_vpn.ipod.m4v" rel="nofollow">released</a>
+</td><td> <a href="http://mirror.netcologne.de/25c3/audio_only/25c3-2828-en-onioncat_a_tor-based_anonymous_vpn.mp3" class="external text" title="http://mirror.netcologne.de/25c3/audio_only/25c3-2828-en-onioncat_a_tor-based_anonymous_vpn.mp3" rel="nofollow">released</a>
+</td><td> <a href="http://derchris.eu/ccc/25C3/audio_only/25c3-2828-en-onioncat_a_tor-based_anonymous_vpn.ogg" class="external text" title="http://derchris.eu/ccc/25C3/audio_only/25c3-2828-en-onioncat_a_tor-based_anonymous_vpn.ogg" rel="nofollow">released</a>
+</td></tr>
+
+<tr>
+<td> 2831
+</td><td> Security of MICA*-based wireless sensor networks
+</td><td> released
+</td><td> <a href="http://bork.informatik.uni-erlangen.de/pub/ccc/25c3/video_h264_720x576/25c3-2831-en-security_of_mica*-based_wireless_sensor_networks.mp4" class="external text" title="http://bork.informatik.uni-erlangen.de/pub/ccc/25c3/video_h264_720x576/25c3-2831-en-security_of_mica*-based_wireless_sensor_networks.mp4" rel="nofollow">released</a>
+</td><td> <a href="http://ftp.uni-kl.de/25C3/video_h264_iPod/25c3-2831-en-security_of_mica*-based_wireless_sensor_networks.ipod.m4v" class="external text" title="http://ftp.uni-kl.de/25C3/video_h264_iPod/25c3-2831-en-security_of_mica*-based_wireless_sensor_networks.ipod.m4v" rel="nofollow">released</a>
+</td><td> <a href="http://mirrors.dotsrc.org/congress/25C3/audio_only/25c3-2831-en-security_of_mica*-based_wireless_sensor_networks.mp3" class="external text" title="http://mirrors.dotsrc.org/congress/25C3/audio_only/25c3-2831-en-security_of_mica*-based_wireless_sensor_networks.mp3" rel="nofollow">released</a>
+</td><td> <a href="http://ftp.stw-bonn.de/mirror/25C3/audio_only/25c3-2831-en-security_of_mica*-based_wireless_sensor_networks.ogg" class="external text" title="http://ftp.stw-bonn.de/mirror/25C3/audio_only/25c3-2831-en-security_of_mica*-based_wireless_sensor_networks.ogg" rel="nofollow">released</a>
+</td></tr>
+
+<tr>
+<td> 2832
+</td><td> Exploiting Symbian
+</td><td> released
+</td><td> <a href="http://mirror.netcologne.de/25c3/video_h264_720x576/25c3-2832-en-exploiting_symbian.mp4" class="external text" title="http://mirror.netcologne.de/25c3/video_h264_720x576/25c3-2832-en-exploiting_symbian.mp4" rel="nofollow">released</a>
+</td><td> <a href="http://derchris.eu/ccc/25C3/video_h264_iPod/25c3-2832-en-exploiting_symbian.ipod.m4v" class="external text" title="http://derchris.eu/ccc/25C3/video_h264_iPod/25c3-2832-en-exploiting_symbian.ipod.m4v" rel="nofollow">released</a>
+</td><td> <a href="http://bork.informatik.uni-erlangen.de/pub/ccc/25c3/audio_only/25c3-2832-en-exploiting_symbian.mp3" class="external text" title="http://bork.informatik.uni-erlangen.de/pub/ccc/25c3/audio_only/25c3-2832-en-exploiting_symbian.mp3" rel="nofollow">released</a>
+</td><td> <a href="http://ftp.uni-kl.de/25C3/audio_only/25c3-2832-en-exploiting_symbian.ogg" class="external text" title="http://ftp.uni-kl.de/25C3/audio_only/25c3-2832-en-exploiting_symbian.ogg" rel="nofollow">released</a>
+</td></tr>
+
+<tr>
+<td> 2839
+</td><td> Cracking the MSP430 BSL
+</td><td> released
+</td><td> <a href="http://mirrors.dotsrc.org/congress/25C3/video_h264_720x576/25c3-2839-en-cracking_the_msp430_bsl.mp4" class="external text" title="http://mirrors.dotsrc.org/congress/25C3/video_h264_720x576/25c3-2839-en-cracking_the_msp430_bsl.mp4" rel="nofollow">released</a>
+</td><td> <a href="http://ftp.stw-bonn.de/mirror/25C3/video_h264_iPod/25c3-2839-en-cracking_the_msp430_bsl.ipod.m4v" class="external text" title="http://ftp.stw-bonn.de/mirror/25C3/video_h264_iPod/25c3-2839-en-cracking_the_msp430_bsl.ipod.m4v" rel="nofollow">released</a>
+</td><td> <a href="http://mirror.netcologne.de/25c3/audio_only/25c3-2839-en-cracking_the_msp430_bsl.mp3" class="external text" title="http://mirror.netcologne.de/25c3/audio_only/25c3-2839-en-cracking_the_msp430_bsl.mp3" rel="nofollow">released</a>
+</td><td> <a href="http://derchris.eu/ccc/25C3/audio_only/25c3-2839-en-cracking_the_msp430_bsl.ogg" class="external text" title="http://derchris.eu/ccc/25C3/audio_only/25c3-2839-en-cracking_the_msp430_bsl.ogg" rel="nofollow">released</a>
+</td></tr>
+
+<tr>
+<td> 2843
+</td><td> Algorithmic Music in a Box
+</td><td> released
+</td><td> <a href="http://bork.informatik.uni-erlangen.de/pub/ccc/25c3/video_h264_720x576/25c3-2843-en-algorithmic_music_in_a_box.mp4" class="external text" title="http://bork.informatik.uni-erlangen.de/pub/ccc/25c3/video_h264_720x576/25c3-2843-en-algorithmic_music_in_a_box.mp4" rel="nofollow">released</a>
+</td><td> <a href="http://ftp.uni-kl.de/25C3/video_h264_iPod/25c3-2843-en-algorithmic_music_in_a_box.ipod.m4v" class="external text" title="http://ftp.uni-kl.de/25C3/video_h264_iPod/25c3-2843-en-algorithmic_music_in_a_box.ipod.m4v" rel="nofollow">released</a>
+</td><td> <a href="http://mirrors.dotsrc.org/congress/25C3/audio_only/25c3-2843-en-algorithmic_music_in_a_box.mp3" class="external text" title="http://mirrors.dotsrc.org/congress/25C3/audio_only/25c3-2843-en-algorithmic_music_in_a_box.mp3" rel="nofollow">released</a>
+</td><td> <a href="http://ftp.stw-bonn.de/mirror/25C3/audio_only/25c3-2843-en-algorithmic_music_in_a_box.ogg" class="external text" title="http://ftp.stw-bonn.de/mirror/25C3/audio_only/25c3-2843-en-algorithmic_music_in_a_box.ogg" rel="nofollow">released</a>
+</td></tr>
+
+<tr>
+<td> 2845
+</td><td> RF fingerprinting of RFID
+</td><td> released
+</td><td> <a href="http://mirror.netcologne.de/25c3/video_h264_720x576/25c3-2845-en-rf_fingerprinting_of_rfid.mp4" class="external text" title="http://mirror.netcologne.de/25c3/video_h264_720x576/25c3-2845-en-rf_fingerprinting_of_rfid.mp4" rel="nofollow">released</a>
+</td><td> <a href="http://derchris.eu/ccc/25C3/video_h264_iPod/25c3-2845-en-rf_fingerprinting_of_rfid.ipod.m4v" class="external text" title="http://derchris.eu/ccc/25C3/video_h264_iPod/25c3-2845-en-rf_fingerprinting_of_rfid.ipod.m4v" rel="nofollow">released</a>
+</td><td> <a href="http://bork.informatik.uni-erlangen.de/pub/ccc/25c3/audio_only/25c3-2845-en-rf_fingerprinting_of_rfid.mp3" class="external text" title="http://bork.informatik.uni-erlangen.de/pub/ccc/25c3/audio_only/25c3-2845-en-rf_fingerprinting_of_rfid.mp3" rel="nofollow">released</a>
+</td><td> <a href="http://ftp.uni-kl.de/25C3/audio_only/25c3-2845-en-rf_fingerprinting_of_rfid.ogg" class="external text" title="http://ftp.uni-kl.de/25C3/audio_only/25c3-2845-en-rf_fingerprinting_of_rfid.ogg" rel="nofollow">released</a>
+</td></tr>
+
+<tr>
+<td> 2860
+</td><td> Neusprech im Überwachungsstaat
+</td><td> released
+</td><td> <a href="http://mirrors.dotsrc.org/congress/25C3/video_h264_720x576/25c3-2860-de-neusprech_im_ÃÂberwachungsstaat.mp4" class="external text" title="http://mirrors.dotsrc.org/congress/25C3/video_h264_720x576/25c3-2860-de-neusprech_im_ÃÂberwachungsstaat.mp4" rel="nofollow">released</a>
+</td><td> <a href="http://ftp.stw-bonn.de/mirror/25C3/video_h264_iPod/25c3-2860-de-neusprech_im_ÃÂberwachungsstaat.ipod.m4v" class="external text" title="http://ftp.stw-bonn.de/mirror/25C3/video_h264_iPod/25c3-2860-de-neusprech_im_ÃÂberwachungsstaat.ipod.m4v" rel="nofollow">released</a>
+</td><td> <a href="http://mirror.netcologne.de/25c3/audio_only/25c3-2860-de-neusprech_im_ÃÂberwachungsstaat.mp3" class="external text" title="http://mirror.netcologne.de/25c3/audio_only/25c3-2860-de-neusprech_im_ÃÂberwachungsstaat.mp3" rel="nofollow">released</a>
+</td><td> <a href="http://derchris.eu/ccc/25C3/audio_only/25c3-2860-de-neusprech_im_ÃÂberwachungsstaat.ogg" class="external text" title="http://derchris.eu/ccc/25C3/audio_only/25c3-2860-de-neusprech_im_ÃÂberwachungsstaat.ogg" rel="nofollow">released</a>
+</td></tr>
+
+<tr>
+<td> 2863
+</td><td> Climate Change - State of the Science
+</td><td> released
+</td><td> <a href="http://bork.informatik.uni-erlangen.de/pub/ccc/25c3/video_h264_720x576/25c3-2863-en-climate_change_-_state_of_the_science.mp4" class="external text" title="http://bork.informatik.uni-erlangen.de/pub/ccc/25c3/video_h264_720x576/25c3-2863-en-climate_change_-_state_of_the_science.mp4" rel="nofollow">released</a>
+</td><td> <a href="http://ftp.uni-kl.de/25C3/video_h264_iPod/25c3-2863-en-climate_change_-_state_of_the_science.ipod.m4v" class="external text" title="http://ftp.uni-kl.de/25C3/video_h264_iPod/25c3-2863-en-climate_change_-_state_of_the_science.ipod.m4v" rel="nofollow">released</a>
+</td><td> <a href="http://mirrors.dotsrc.org/congress/25C3/audio_only/25c3-2863-en-climate_change_-_state_of_the_science.mp3" class="external text" title="http://mirrors.dotsrc.org/congress/25C3/audio_only/25c3-2863-en-climate_change_-_state_of_the_science.mp3" rel="nofollow">released</a>
+</td><td> <a href="http://ftp.stw-bonn.de/mirror/25C3/audio_only/25c3-2863-en-climate_change_-_state_of_the_science.ogg" class="external text" title="http://ftp.stw-bonn.de/mirror/25C3/audio_only/25c3-2863-en-climate_change_-_state_of_the_science.ogg" rel="nofollow">released</a>
+</td></tr>
+
+<tr>
+<td> 2872
+</td><td> The Privacy Workshop Project
+</td><td> released
+</td><td> <a href="http://mirror.netcologne.de/25c3/video_h264_720x576/25c3-2872-en-the_privacy_workshop_project.mp4" class="external text" title="http://mirror.netcologne.de/25c3/video_h264_720x576/25c3-2872-en-the_privacy_workshop_project.mp4" rel="nofollow">released</a>
+</td><td> <a href="http://derchris.eu/ccc/25C3/video_h264_iPod/25c3-2872-en-the_privacy_workshop_project.ipod.m4v" class="external text" title="http://derchris.eu/ccc/25C3/video_h264_iPod/25c3-2872-en-the_privacy_workshop_project.ipod.m4v" rel="nofollow">released</a>
+</td><td> <a href="http://bork.informatik.uni-erlangen.de/pub/ccc/25c3/audio_only/25c3-2872-en-the_privacy_workshop_project.mp3" class="external text" title="http://bork.informatik.uni-erlangen.de/pub/ccc/25c3/audio_only/25c3-2872-en-the_privacy_workshop_project.mp3" rel="nofollow">released</a>
+</td><td> <a href="http://ftp.uni-kl.de/25C3/audio_only/25c3-2872-en-the_privacy_workshop_project.ogg" class="external text" title="http://ftp.uni-kl.de/25C3/audio_only/25c3-2872-en-the_privacy_workshop_project.ogg" rel="nofollow">released</a>
+</td></tr>
+
+<tr>
+<td> 2873
+</td><td> Privacy in the social semantic web
+</td><td> released
+</td><td> <a href="http://mirrors.dotsrc.org/congress/25C3/video_h264_720x576/25c3-2873-en-privacy_in_the_social_semantic_web.mp4" class="external text" title="http://mirrors.dotsrc.org/congress/25C3/video_h264_720x576/25c3-2873-en-privacy_in_the_social_semantic_web.mp4" rel="nofollow">released</a>
+</td><td> <a href="http://ftp.stw-bonn.de/mirror/25C3/video_h264_iPod/25c3-2873-en-privacy_in_the_social_semantic_web.ipod.m4v" class="external text" title="http://ftp.stw-bonn.de/mirror/25C3/video_h264_iPod/25c3-2873-en-privacy_in_the_social_semantic_web.ipod.m4v" rel="nofollow">released</a>
+</td><td> <a href="http://mirror.netcologne.de/25c3/audio_only/25c3-2873-en-privacy_in_the_social_semantic_web.mp3" class="external text" title="http://mirror.netcologne.de/25c3/audio_only/25c3-2873-en-privacy_in_the_social_semantic_web.mp3" rel="nofollow">released</a>
+</td><td> <a href="http://derchris.eu/ccc/25C3/audio_only/25c3-2873-en-privacy_in_the_social_semantic_web.ogg" class="external text" title="http://derchris.eu/ccc/25C3/audio_only/25c3-2873-en-privacy_in_the_social_semantic_web.ogg" rel="nofollow">released</a>
+</td></tr>
+
+<tr>
+<td> 2874
+</td><td> The Ultimate Commodore 64 Talk
+</td><td> released
+</td><td> <a href="http://bork.informatik.uni-erlangen.de/pub/ccc/25c3/video_h264_720x576/25c3-2874-en-the_ultimate_commodore_64_talk.mp4" class="external text" title="http://bork.informatik.uni-erlangen.de/pub/ccc/25c3/video_h264_720x576/25c3-2874-en-the_ultimate_commodore_64_talk.mp4" rel="nofollow">released</a>
+</td><td> <a href="http://ftp.uni-kl.de/25C3/video_h264_iPod/25c3-2874-en-the_ultimate_commodore_64_talk.ipod.m4v" class="external text" title="http://ftp.uni-kl.de/25C3/video_h264_iPod/25c3-2874-en-the_ultimate_commodore_64_talk.ipod.m4v" rel="nofollow">released</a>
+</td><td> <a href="http://mirrors.dotsrc.org/congress/25C3/audio_only/25c3-2874-en-the_ultimate_commodore_64_talk.mp3" class="external text" title="http://mirrors.dotsrc.org/congress/25C3/audio_only/25c3-2874-en-the_ultimate_commodore_64_talk.mp3" rel="nofollow">released</a>
+</td><td> <a href="http://ftp.stw-bonn.de/mirror/25C3/audio_only/25c3-2874-en-the_ultimate_commodore_64_talk.ogg" class="external text" title="http://ftp.stw-bonn.de/mirror/25C3/audio_only/25c3-2874-en-the_ultimate_commodore_64_talk.ogg" rel="nofollow">released</a>
+</td></tr>
+
+<tr>
+<td> 2875
+</td><td> An introduction to new stream cipher designs
+</td><td> released
+</td><td> <a href="http://mirror.netcologne.de/25c3/video_h264_720x576/25c3-2875-en-an_introduction_to_new_stream_cipher_designs.mp4" class="external text" title="http://mirror.netcologne.de/25c3/video_h264_720x576/25c3-2875-en-an_introduction_to_new_stream_cipher_designs.mp4" rel="nofollow">released</a>
+</td><td> <a href="http://derchris.eu/ccc/25C3/video_h264_iPod/25c3-2875-en-an_introduction_to_new_stream_cipher_designs.ipod.m4v" class="external text" title="http://derchris.eu/ccc/25C3/video_h264_iPod/25c3-2875-en-an_introduction_to_new_stream_cipher_designs.ipod.m4v" rel="nofollow">released</a>
+</td><td> <a href="http://bork.informatik.uni-erlangen.de/pub/ccc/25c3/audio_only/25c3-2875-en-an_introduction_to_new_stream_cipher_designs.mp3" class="external text" title="http://bork.informatik.uni-erlangen.de/pub/ccc/25c3/audio_only/25c3-2875-en-an_introduction_to_new_stream_cipher_designs.mp3" rel="nofollow">released</a>
+</td><td> <a href="http://ftp.uni-kl.de/25C3/audio_only/25c3-2875-en-an_introduction_to_new_stream_cipher_designs.ogg" class="external text" title="http://ftp.uni-kl.de/25C3/audio_only/25c3-2875-en-an_introduction_to_new_stream_cipher_designs.ogg" rel="nofollow">released</a>
+</td></tr>
+
+<tr>
+<td> 2882
+</td><td> Full-Disk-Encryption Crash-Course
+</td><td> released
+</td><td> <a href="http://mirrors.dotsrc.org/congress/25C3/video_h264_720x576/25c3-2882-en-full-disk-encryption_crash-course.mp4" class="external text" title="http://mirrors.dotsrc.org/congress/25C3/video_h264_720x576/25c3-2882-en-full-disk-encryption_crash-course.mp4" rel="nofollow">released</a>
+</td><td> <a href="http://ftp.stw-bonn.de/mirror/25C3/video_h264_iPod/25c3-2882-en-full-disk-encryption_crash-course.ipod.m4v" class="external text" title="http://ftp.stw-bonn.de/mirror/25C3/video_h264_iPod/25c3-2882-en-full-disk-encryption_crash-course.ipod.m4v" rel="nofollow">released</a>
+</td><td> <a href="http://mirror.netcologne.de/25c3/audio_only/25c3-2882-en-full-disk-encryption_crash-course.mp3" class="external text" title="http://mirror.netcologne.de/25c3/audio_only/25c3-2882-en-full-disk-encryption_crash-course.mp3" rel="nofollow">released</a>
+</td><td> <a href="http://derchris.eu/ccc/25C3/audio_only/25c3-2882-en-full-disk-encryption_crash-course.ogg" class="external text" title="http://derchris.eu/ccc/25C3/audio_only/25c3-2882-en-full-disk-encryption_crash-course.ogg" rel="nofollow">released</a>
+</td></tr>
+
+<tr>
+<td> 2890
+</td><td> Scalable Swarm Robotics
+</td><td> released
+</td><td> <a href="http://bork.informatik.uni-erlangen.de/pub/ccc/25c3/video_h264_720x576/25c3-2890-en-scalable_swarm_robotics.mp4" class="external text" title="http://bork.informatik.uni-erlangen.de/pub/ccc/25c3/video_h264_720x576/25c3-2890-en-scalable_swarm_robotics.mp4" rel="nofollow">released</a>
+</td><td> <a href="http://ftp.uni-kl.de/25C3/video_h264_iPod/25c3-2890-en-scalable_swarm_robotics.ipod.m4v" class="external text" title="http://ftp.uni-kl.de/25C3/video_h264_iPod/25c3-2890-en-scalable_swarm_robotics.ipod.m4v" rel="nofollow">released</a>
+</td><td> <a href="http://mirrors.dotsrc.org/congress/25C3/audio_only/25c3-2890-en-scalable_swarm_robotics.mp3" class="external text" title="http://mirrors.dotsrc.org/congress/25C3/audio_only/25c3-2890-en-scalable_swarm_robotics.mp3" rel="nofollow">released</a>
+</td><td> <a href="http://ftp.stw-bonn.de/mirror/25C3/audio_only/25c3-2890-en-scalable_swarm_robotics.ogg" class="external text" title="http://ftp.stw-bonn.de/mirror/25C3/audio_only/25c3-2890-en-scalable_swarm_robotics.ogg" rel="nofollow">released</a>
+</td></tr>
+
+<tr>
+<td> 2892
+</td><td> About Cyborgs and Gargoyles ...
+</td><td> released
+</td><td> <a href="http://mirror.netcologne.de/25c3/video_h264_720x576/25c3-2892-en-about_cyborgs_and_gargoyles_....mp4" class="external text" title="http://mirror.netcologne.de/25c3/video_h264_720x576/25c3-2892-en-about_cyborgs_and_gargoyles_....mp4" rel="nofollow">released</a>
+</td><td> <a href="http://derchris.eu/ccc/25C3/video_h264_iPod/25c3-2892-en-about_cyborgs_and_gargoyles_....ipod.m4v" class="external text" title="http://derchris.eu/ccc/25C3/video_h264_iPod/25c3-2892-en-about_cyborgs_and_gargoyles_....ipod.m4v" rel="nofollow">released</a>
+</td><td> <a href="http://bork.informatik.uni-erlangen.de/pub/ccc/25c3/audio_only/25c3-2892-en-about_cyborgs_and_gargoyles_....mp3" class="external text" title="http://bork.informatik.uni-erlangen.de/pub/ccc/25c3/audio_only/25c3-2892-en-about_cyborgs_and_gargoyles_....mp3" rel="nofollow">released</a>
+</td><td> <a href="http://ftp.uni-kl.de/25C3/audio_only/25c3-2892-en-about_cyborgs_and_gargoyles_....ogg" class="external text" title="http://ftp.uni-kl.de/25C3/audio_only/25c3-2892-en-about_cyborgs_and_gargoyles_....ogg" rel="nofollow">released</a>
+</td></tr>
+
+<tr>
+<td> 2893
+</td><td> Attacking Rich Internet Applications
+</td><td> released
+</td><td> <a href="http://mirrors.dotsrc.org/congress/25C3/video_h264_720x576/25c3-2893-en-attacking_rich_internet_applications.mp4" class="external text" title="http://mirrors.dotsrc.org/congress/25C3/video_h264_720x576/25c3-2893-en-attacking_rich_internet_applications.mp4" rel="nofollow">released</a>
+</td><td> <a href="http://ftp.stw-bonn.de/mirror/25C3/video_h264_iPod/25c3-2893-en-attacking_rich_internet_applications.ipod.m4v" class="external text" title="http://ftp.stw-bonn.de/mirror/25C3/video_h264_iPod/25c3-2893-en-attacking_rich_internet_applications.ipod.m4v" rel="nofollow">released</a>
+</td><td> <a href="http://mirror.netcologne.de/25c3/audio_only/25c3-2893-en-attacking_rich_internet_applications.mp3" class="external text" title="http://mirror.netcologne.de/25c3/audio_only/25c3-2893-en-attacking_rich_internet_applications.mp3" rel="nofollow">released</a>
+</td><td> <a href="http://derchris.eu/ccc/25C3/audio_only/25c3-2893-en-attacking_rich_internet_applications.ogg" class="external text" title="http://derchris.eu/ccc/25C3/audio_only/25c3-2893-en-attacking_rich_internet_applications.ogg" rel="nofollow">released</a>
+</td></tr>
+
+<tr>
+<td> 2895
+</td><td> Der elektronische Personalausweis
+</td><td> released
+</td><td> <a href="http://bork.informatik.uni-erlangen.de/pub/ccc/25c3/video_h264_720x576/25c3-2895-de-der_elektronische_personalausweis.mp4" class="external text" title="http://bork.informatik.uni-erlangen.de/pub/ccc/25c3/video_h264_720x576/25c3-2895-de-der_elektronische_personalausweis.mp4" rel="nofollow">released</a>
+</td><td> <a href="http://ftp.uni-kl.de/25C3/video_h264_iPod/25c3-2895-de-der_elektronische_personalausweis.ipod.m4v" class="external text" title="http://ftp.uni-kl.de/25C3/video_h264_iPod/25c3-2895-de-der_elektronische_personalausweis.ipod.m4v" rel="nofollow">released</a>
+</td><td> <a href="http://mirrors.dotsrc.org/congress/25C3/audio_only/25c3-2895-de-der_elektronische_personalausweis.mp3" class="external text" title="http://mirrors.dotsrc.org/congress/25C3/audio_only/25c3-2895-de-der_elektronische_personalausweis.mp3" rel="nofollow">released</a>
+</td><td> <a href="http://ftp.stw-bonn.de/mirror/25C3/audio_only/25c3-2895-de-der_elektronische_personalausweis.ogg" class="external text" title="http://ftp.stw-bonn.de/mirror/25C3/audio_only/25c3-2895-de-der_elektronische_personalausweis.ogg" rel="nofollow">released</a>
+</td></tr>
+
+<tr>
+<td> 2896
+</td><td> Chip Reverse Engineering
+</td><td> released
+</td><td> <a href="http://mirror.netcologne.de/25c3/video_h264_720x576/25c3-2896-en-chip_reverse_engineering.mp4" class="external text" title="http://mirror.netcologne.de/25c3/video_h264_720x576/25c3-2896-en-chip_reverse_engineering.mp4" rel="nofollow">released</a>
+</td><td> <a href="http://derchris.eu/ccc/25C3/video_h264_iPod/25c3-2896-en-chip_reverse_engineering.ipod.m4v" class="external text" title="http://derchris.eu/ccc/25C3/video_h264_iPod/25c3-2896-en-chip_reverse_engineering.ipod.m4v" rel="nofollow">released</a>
+</td><td> <a href="http://bork.informatik.uni-erlangen.de/pub/ccc/25c3/audio_only/25c3-2896-en-chip_reverse_engineering.mp3" class="external text" title="http://bork.informatik.uni-erlangen.de/pub/ccc/25c3/audio_only/25c3-2896-en-chip_reverse_engineering.mp3" rel="nofollow">released</a>
+</td><td> <a href="http://ftp.uni-kl.de/25C3/audio_only/25c3-2896-en-chip_reverse_engineering.ogg" class="external text" title="http://ftp.uni-kl.de/25C3/audio_only/25c3-2896-en-chip_reverse_engineering.ogg" rel="nofollow">released</a>
+</td></tr>
+
+<tr>
+<td> 2899
+</td><td> Mining social contacts with active RFID
+</td><td> released
+</td><td> <a href="http://mirrors.dotsrc.org/congress/25C3/video_h264_720x576/25c3-2899-en-mining_social_contacts_with_active_rfid.mp4" class="external text" title="http://mirrors.dotsrc.org/congress/25C3/video_h264_720x576/25c3-2899-en-mining_social_contacts_with_active_rfid.mp4" rel="nofollow">released</a>
+</td><td> <a href="http://ftp.stw-bonn.de/mirror/25C3/video_h264_iPod/25c3-2899-en-mining_social_contacts_with_active_rfid.ipod.m4v" class="external text" title="http://ftp.stw-bonn.de/mirror/25C3/video_h264_iPod/25c3-2899-en-mining_social_contacts_with_active_rfid.ipod.m4v" rel="nofollow">released</a>
+</td><td> <a href="http://mirror.netcologne.de/25c3/audio_only/25c3-2899-en-mining_social_contacts_with_active_rfid.mp3" class="external text" title="http://mirror.netcologne.de/25c3/audio_only/25c3-2899-en-mining_social_contacts_with_active_rfid.mp3" rel="nofollow">released</a>
+</td><td> <a href="http://derchris.eu/ccc/25C3/audio_only/25c3-2899-en-mining_social_contacts_with_active_rfid.ogg" class="external text" title="http://derchris.eu/ccc/25C3/audio_only/25c3-2899-en-mining_social_contacts_with_active_rfid.ogg" rel="nofollow">released</a>
+</td></tr>
+
+<tr>
+<td> 2901
+</td><td> FAIFA: A first open source PLC tool
+</td><td> released
+</td><td> <a href="http://bork.informatik.uni-erlangen.de/pub/ccc/25c3/video_h264_720x576/25c3-2901-en-faifa:_a_first_open_source_plc_tool.mp4" class="external text" title="http://bork.informatik.uni-erlangen.de/pub/ccc/25c3/video_h264_720x576/25c3-2901-en-faifa:_a_first_open_source_plc_tool.mp4" rel="nofollow">released</a>
+</td><td> <a href="http://ftp.uni-kl.de/25C3/video_h264_iPod/25c3-2901-en-faifa:_a_first_open_source_plc_tool.ipod.m4v" class="external text" title="http://ftp.uni-kl.de/25C3/video_h264_iPod/25c3-2901-en-faifa:_a_first_open_source_plc_tool.ipod.m4v" rel="nofollow">released</a>
+</td><td> <a href="http://mirrors.dotsrc.org/congress/25C3/audio_only/25c3-2901-en-faifa:_a_first_open_source_plc_tool.mp3" class="external text" title="http://mirrors.dotsrc.org/congress/25C3/audio_only/25c3-2901-en-faifa:_a_first_open_source_plc_tool.mp3" rel="nofollow">released</a>
+</td><td> <a href="http://ftp.stw-bonn.de/mirror/25C3/audio_only/25c3-2901-en-faifa:_a_first_open_source_plc_tool.ogg" class="external text" title="http://ftp.stw-bonn.de/mirror/25C3/audio_only/25c3-2901-en-faifa:_a_first_open_source_plc_tool.ogg" rel="nofollow">released</a>
+</td></tr>
+
+<tr>
+<td> 2904
+</td><td> Solar-powering your Geek Gear
+</td><td> released
+</td><td> <a href="http://mirror.netcologne.de/25c3/video_h264_720x576/25c3-2904-en-solar-powering_your_geek_gear.mp4" class="external text" title="http://mirror.netcologne.de/25c3/video_h264_720x576/25c3-2904-en-solar-powering_your_geek_gear.mp4" rel="nofollow">released</a>
+</td><td> <a href="http://derchris.eu/ccc/25C3/video_h264_iPod/25c3-2904-en-solar-powering_your_geek_gear.ipod.m4v" class="external text" title="http://derchris.eu/ccc/25C3/video_h264_iPod/25c3-2904-en-solar-powering_your_geek_gear.ipod.m4v" rel="nofollow">released</a>
+</td><td> <a href="http://bork.informatik.uni-erlangen.de/pub/ccc/25c3/audio_only/25c3-2904-en-solar-powering_your_geek_gear.mp3" class="external text" title="http://bork.informatik.uni-erlangen.de/pub/ccc/25c3/audio_only/25c3-2904-en-solar-powering_your_geek_gear.mp3" rel="nofollow">released</a>
+</td><td> <a href="http://ftp.uni-kl.de/25C3/audio_only/25c3-2904-en-solar-powering_your_geek_gear.ogg" class="external text" title="http://ftp.uni-kl.de/25C3/audio_only/25c3-2904-en-solar-powering_your_geek_gear.ogg" rel="nofollow">released</a>
+</td></tr>
+
+<tr>
+<td> 2906
+</td><td> Why were we so vulnerable to the DNS vulnerability?
+</td><td> released
+</td><td> <a href="http://mirrors.dotsrc.org/congress/25C3/video_h264_720x576/25c3-2906-en-why_were_we_so_vulnerable_to_the_dns_vulnerability?.mp4" class="external text" title="http://mirrors.dotsrc.org/congress/25C3/video_h264_720x576/25c3-2906-en-why_were_we_so_vulnerable_to_the_dns_vulnerability?.mp4" rel="nofollow">released</a>
+</td><td> <a href="http://ftp.stw-bonn.de/mirror/25C3/video_h264_iPod/25c3-2906-en-why_were_we_so_vulnerable_to_the_dns_vulnerability?.ipod.m4v" class="external text" title="http://ftp.stw-bonn.de/mirror/25C3/video_h264_iPod/25c3-2906-en-why_were_we_so_vulnerable_to_the_dns_vulnerability?.ipod.m4v" rel="nofollow">released</a>
+</td><td> <a href="http://mirror.netcologne.de/25c3/audio_only/25c3-2906-en-why_were_we_so_vulnerable_to_the_dns_vulnerability?.mp3" class="external text" title="http://mirror.netcologne.de/25c3/audio_only/25c3-2906-en-why_were_we_so_vulnerable_to_the_dns_vulnerability?.mp3" rel="nofollow">released</a>
+</td><td> <a href="http://derchris.eu/ccc/25C3/audio_only/25c3-2906-en-why_were_we_so_vulnerable_to_the_dns_vulnerability?.ogg" class="external text" title="http://derchris.eu/ccc/25C3/audio_only/25c3-2906-en-why_were_we_so_vulnerable_to_the_dns_vulnerability?.ogg" rel="nofollow">released</a>
+</td></tr>
+
+<tr>
+<td> 2909
+</td><td> TCP Denial of Service Vulnerabilities
+</td><td> released
+</td><td> <a href="http://bork.informatik.uni-erlangen.de/pub/ccc/25c3/video_h264_720x576/25c3-2909-en-tcp_denial_of_service_vulnerabilities.mp4" class="external text" title="http://bork.informatik.uni-erlangen.de/pub/ccc/25c3/video_h264_720x576/25c3-2909-en-tcp_denial_of_service_vulnerabilities.mp4" rel="nofollow">released</a>
+</td><td> <a href="http://ftp.uni-kl.de/25C3/video_h264_iPod/25c3-2909-en-tcp_denial_of_service_vulnerabilities.ipod.m4v" class="external text" title="http://ftp.uni-kl.de/25C3/video_h264_iPod/25c3-2909-en-tcp_denial_of_service_vulnerabilities.ipod.m4v" rel="nofollow">released</a>
+</td><td> <a href="http://mirrors.dotsrc.org/congress/25C3/audio_only/25c3-2909-en-tcp_denial_of_service_vulnerabilities.mp3" class="external text" title="http://mirrors.dotsrc.org/congress/25C3/audio_only/25c3-2909-en-tcp_denial_of_service_vulnerabilities.mp3" rel="nofollow">released</a>
+</td><td> <a href="http://ftp.stw-bonn.de/mirror/25C3/audio_only/25c3-2909-en-tcp_denial_of_service_vulnerabilities.ogg" class="external text" title="http://ftp.stw-bonn.de/mirror/25C3/audio_only/25c3-2909-en-tcp_denial_of_service_vulnerabilities.ogg" rel="nofollow">released</a>
+</td></tr>
+
+<tr>
+<td> 2916
+</td><td> Wikileaks
+</td><td> released
+</td><td> <a href="http://mirror.netcologne.de/25c3/video_h264_720x576/25c3-2916-en-wikileaks.mp4" class="external text" title="http://mirror.netcologne.de/25c3/video_h264_720x576/25c3-2916-en-wikileaks.mp4" rel="nofollow">released</a>
+</td><td> <a href="http://derchris.eu/ccc/25C3/video_h264_iPod/25c3-2916-en-wikileaks.ipod.m4v" class="external text" title="http://derchris.eu/ccc/25C3/video_h264_iPod/25c3-2916-en-wikileaks.ipod.m4v" rel="nofollow">released</a>
+</td><td> <a href="http://bork.informatik.uni-erlangen.de/pub/ccc/25c3/audio_only/25c3-2916-en-wikileaks.mp3" class="external text" title="http://bork.informatik.uni-erlangen.de/pub/ccc/25c3/audio_only/25c3-2916-en-wikileaks.mp3" rel="nofollow">released</a>
+</td><td> <a href="http://ftp.uni-kl.de/25C3/audio_only/25c3-2916-en-wikileaks.ogg" class="external text" title="http://ftp.uni-kl.de/25C3/audio_only/25c3-2916-en-wikileaks.ogg" rel="nofollow">released</a>
+</td></tr>
+
+<tr>
+<td> 2922
+</td><td> Advanced memory forensics: The Cold Boot Attacks
+</td><td> released
+</td><td> <a href="http://mirrors.dotsrc.org/congress/25C3/video_h264_720x576/25c3-2922-en-advanced_memory_forensics:_the_cold_boot_attacks.mp4" class="external text" title="http://mirrors.dotsrc.org/congress/25C3/video_h264_720x576/25c3-2922-en-advanced_memory_forensics:_the_cold_boot_attacks.mp4" rel="nofollow">released</a>
+</td><td> <a href="http://ftp.stw-bonn.de/mirror/25C3/video_h264_iPod/25c3-2922-en-advanced_memory_forensics:_the_cold_boot_attacks.ipod.m4v" class="external text" title="http://ftp.stw-bonn.de/mirror/25C3/video_h264_iPod/25c3-2922-en-advanced_memory_forensics:_the_cold_boot_attacks.ipod.m4v" rel="nofollow">released</a>
+</td><td> <a href="http://mirror.netcologne.de/25c3/audio_only/25c3-2922-en-advanced_memory_forensics:_the_cold_boot_attacks.mp3" class="external text" title="http://mirror.netcologne.de/25c3/audio_only/25c3-2922-en-advanced_memory_forensics:_the_cold_boot_attacks.mp3" rel="nofollow">released</a>
+</td><td> <a href="http://derchris.eu/ccc/25C3/audio_only/25c3-2922-en-advanced_memory_forensics:_the_cold_boot_attacks.ogg" class="external text" title="http://derchris.eu/ccc/25C3/audio_only/25c3-2922-en-advanced_memory_forensics:_the_cold_boot_attacks.ogg" rel="nofollow">released</a>
+</td></tr>
+
+<tr>
+<td> 2923
+</td><td> Das Grundrecht auf digitale Intimsphäre
+</td><td> released
+</td><td> <a href="http://bork.informatik.uni-erlangen.de/pub/ccc/25c3/video_h264_720x576/25c3-2923-de-das_grundrecht_auf_digitale_intimsphaere.mp4" class="external text" title="http://bork.informatik.uni-erlangen.de/pub/ccc/25c3/video_h264_720x576/25c3-2923-de-das_grundrecht_auf_digitale_intimsphaere.mp4" rel="nofollow">released</a>
+</td><td> <a href="http://ftp.uni-kl.de/25C3/video_h264_iPod/25c3-2923-de-das_grundrecht_auf_digitale_intimsphaere.ipod.m4v" class="external text" title="http://ftp.uni-kl.de/25C3/video_h264_iPod/25c3-2923-de-das_grundrecht_auf_digitale_intimsphaere.ipod.m4v" rel="nofollow">released</a>
+</td><td> <a href="http://mirrors.dotsrc.org/congress/25C3/audio_only/25c3-2923-de-das_grundrecht_auf_digitale_intimsphaere.mp3" class="external text" title="http://mirrors.dotsrc.org/congress/25C3/audio_only/25c3-2923-de-das_grundrecht_auf_digitale_intimsphaere.mp3" rel="nofollow">released</a>
+</td><td> <a href="http://ftp.stw-bonn.de/mirror/25C3/audio_only/25c3-2923-de-das_grundrecht_auf_digitale_intimsphaere.ogg" class="external text" title="http://ftp.stw-bonn.de/mirror/25C3/audio_only/25c3-2923-de-das_grundrecht_auf_digitale_intimsphaere.ogg" rel="nofollow">released</a>
+</td></tr>
+
+<tr>
+<td> 2934
+</td><td> Blinkenlights Stereoscope
+</td><td> released
+</td><td> <a href="http://mirror.netcologne.de/25c3/video_h264_720x576/25c3-2934-en-blinkenlights_stereoscope.mp4" class="external text" title="http://mirror.netcologne.de/25c3/video_h264_720x576/25c3-2934-en-blinkenlights_stereoscope.mp4" rel="nofollow">released</a>
+</td><td> <a href="http://derchris.eu/ccc/25C3/video_h264_iPod/25c3-2934-en-blinkenlights_stereoscope.ipod.m4v" class="external text" title="http://derchris.eu/ccc/25C3/video_h264_iPod/25c3-2934-en-blinkenlights_stereoscope.ipod.m4v" rel="nofollow">released</a>
+</td><td> <a href="http://bork.informatik.uni-erlangen.de/pub/ccc/25c3/audio_only/25c3-2934-en-blinkenlights_stereoscope.mp3" class="external text" title="http://bork.informatik.uni-erlangen.de/pub/ccc/25c3/audio_only/25c3-2934-en-blinkenlights_stereoscope.mp3" rel="nofollow">released</a>
+</td><td> <a href="http://ftp.uni-kl.de/25C3/audio_only/25c3-2934-en-blinkenlights_stereoscope.ogg" class="external text" title="http://ftp.uni-kl.de/25C3/audio_only/25c3-2934-en-blinkenlights_stereoscope.ogg" rel="nofollow">released</a>
+</td></tr>
+
+<tr>
+<td> 2937
+</td><td> DECT
+</td><td> released
+</td><td> <a href="http://mirrors.dotsrc.org/congress/25C3/video_h264_720x576/25c3-2937-en-dect.mp4" class="external text" title="http://mirrors.dotsrc.org/congress/25C3/video_h264_720x576/25c3-2937-en-dect.mp4" rel="nofollow">released</a>
+</td><td> <a href="http://ftp.stw-bonn.de/mirror/25C3/video_h264_iPod/25c3-2937-en-dect.ipod.m4v" class="external text" title="http://ftp.stw-bonn.de/mirror/25C3/video_h264_iPod/25c3-2937-en-dect.ipod.m4v" rel="nofollow">released</a>
+</td><td> <a href="http://mirror.netcologne.de/25c3/audio_only/25c3-2937-en-dect.mp3" class="external text" title="http://mirror.netcologne.de/25c3/audio_only/25c3-2937-en-dect.mp3" rel="nofollow">released</a>
+</td><td> <a href="http://derchris.eu/ccc/25C3/audio_only/25c3-2937-en-dect.ogg" class="external text" title="http://derchris.eu/ccc/25C3/audio_only/25c3-2937-en-dect.ogg" rel="nofollow">released</a>
+</td></tr>
+
+<tr>
+<td> 2938
+</td><td> Methods for Understanding Targeted Attacks with Office Documents
+</td><td> released
+</td><td> <a href="http://bork.informatik.uni-erlangen.de/pub/ccc/25c3/video_h264_720x576/25c3-2938-en-methods_for_understanding_targeted_attacks_with_office_documents.mp4" class="external text" title="http://bork.informatik.uni-erlangen.de/pub/ccc/25c3/video_h264_720x576/25c3-2938-en-methods_for_understanding_targeted_attacks_with_office_documents.mp4" rel="nofollow">released</a>
+</td><td> <a href="http://ftp.uni-kl.de/25C3/video_h264_iPod/25c3-2938-en-methods_for_understanding_targeted_attacks_with_office_documents.ipod.m4v" class="external text" title="http://ftp.uni-kl.de/25C3/video_h264_iPod/25c3-2938-en-methods_for_understanding_targeted_attacks_with_office_documents.ipod.m4v" rel="nofollow">released</a>
+</td><td> <a href="http://mirrors.dotsrc.org/congress/25C3/audio_only/25c3-2938-en-methods_for_understanding_targeted_attacks_with_office_documents.mp3" class="external text" title="http://mirrors.dotsrc.org/congress/25C3/audio_only/25c3-2938-en-methods_for_understanding_targeted_attacks_with_office_documents.mp3" rel="nofollow">released</a>
+</td><td> <a href="http://ftp.stw-bonn.de/mirror/25C3/audio_only/25c3-2938-en-methods_for_understanding_targeted_attacks_with_office_documents.ogg" class="external text" title="http://ftp.stw-bonn.de/mirror/25C3/audio_only/25c3-2938-en-methods_for_understanding_targeted_attacks_with_office_documents.ogg" rel="nofollow">released</a>
+</td></tr>
+
+<tr>
+<td> 2940
+</td><td> Flying for free
+</td><td> released
+</td><td> <a href="http://mirror.netcologne.de/25c3/video_h264_720x576/25c3-2940-en-flying_for_free.mp4" class="external text" title="http://mirror.netcologne.de/25c3/video_h264_720x576/25c3-2940-en-flying_for_free.mp4" rel="nofollow">released</a>
+</td><td> <a href="http://derchris.eu/ccc/25C3/video_h264_iPod/25c3-2940-en-flying_for_free.ipod.m4v" class="external text" title="http://derchris.eu/ccc/25C3/video_h264_iPod/25c3-2940-en-flying_for_free.ipod.m4v" rel="nofollow">released</a>
+</td><td> <a href="http://bork.informatik.uni-erlangen.de/pub/ccc/25c3/audio_only/25c3-2940-en-flying_for_free.mp3" class="external text" title="http://bork.informatik.uni-erlangen.de/pub/ccc/25c3/audio_only/25c3-2940-en-flying_for_free.mp3" rel="nofollow">released</a>
+</td><td> <a href="http://ftp.uni-kl.de/25C3/audio_only/25c3-2940-en-flying_for_free.ogg" class="external text" title="http://ftp.uni-kl.de/25C3/audio_only/25c3-2940-en-flying_for_free.ogg" rel="nofollow">released</a>
+</td></tr>
+
+<tr>
+<td> 2942
+</td><td> Vertex Hacking
+</td><td> released
+</td><td> <a href="http://mirrors.dotsrc.org/congress/25C3/video_h264_720x576/25c3-2942-de-vertex_hacking.mp4" class="external text" title="http://mirrors.dotsrc.org/congress/25C3/video_h264_720x576/25c3-2942-de-vertex_hacking.mp4" rel="nofollow">released</a>
+</td><td> <a href="http://ftp.stw-bonn.de/mirror/25C3/video_h264_iPod/25c3-2942-de-vertex_hacking.ipod.m4v" class="external text" title="http://ftp.stw-bonn.de/mirror/25C3/video_h264_iPod/25c3-2942-de-vertex_hacking.ipod.m4v" rel="nofollow">released</a>
+</td><td> <a href="http://mirror.netcologne.de/25c3/audio_only/25c3-2942-de-vertex_hacking.mp3" class="external text" title="http://mirror.netcologne.de/25c3/audio_only/25c3-2942-de-vertex_hacking.mp3" rel="nofollow">released</a>
+</td><td> <a href="http://derchris.eu/ccc/25C3/audio_only/25c3-2942-de-vertex_hacking.ogg" class="external text" title="http://derchris.eu/ccc/25C3/audio_only/25c3-2942-de-vertex_hacking.ogg" rel="nofollow">released</a>
+</td></tr>
+
+<tr>
+<td> 2952
+</td><td> Pflanzenhacken
+</td><td> released
+</td><td> <a href="http://bork.informatik.uni-erlangen.de/pub/ccc/25c3/video_h264_720x576/25c3-2952-de-pflanzenhacken.mp4" class="external text" title="http://bork.informatik.uni-erlangen.de/pub/ccc/25c3/video_h264_720x576/25c3-2952-de-pflanzenhacken.mp4" rel="nofollow">released</a>
+</td><td> <a href="http://ftp.uni-kl.de/25C3/video_h264_iPod/25c3-2952-de-pflanzenhacken.ipod.m4v" class="external text" title="http://ftp.uni-kl.de/25C3/video_h264_iPod/25c3-2952-de-pflanzenhacken.ipod.m4v" rel="nofollow">released</a>
+</td><td> <a href="http://mirrors.dotsrc.org/congress/25C3/audio_only/25c3-2952-de-pflanzenhacken.mp3" class="external text" title="http://mirrors.dotsrc.org/congress/25C3/audio_only/25c3-2952-de-pflanzenhacken.mp3" rel="nofollow">released</a>
+</td><td> <a href="http://ftp.stw-bonn.de/mirror/25C3/audio_only/25c3-2952-de-pflanzenhacken.ogg" class="external text" title="http://ftp.stw-bonn.de/mirror/25C3/audio_only/25c3-2952-de-pflanzenhacken.ogg" rel="nofollow">released</a>
+</td></tr>
+
+<tr>
+<td> 2953
+</td><td> Security Failures in Smart Card Payment Systems
+</td><td> released
+</td><td> <a href="http://mirror.netcologne.de/25c3/video_h264_720x576/25c3-2953-en-security_failures_in_smart_card_payment_systems.mp4" class="external text" title="http://mirror.netcologne.de/25c3/video_h264_720x576/25c3-2953-en-security_failures_in_smart_card_payment_systems.mp4" rel="nofollow">released</a>
+</td><td> <a href="http://derchris.eu/ccc/25C3/video_h264_iPod/25c3-2953-en-security_failures_in_smart_card_payment_systems.ipod.m4v" class="external text" title="http://derchris.eu/ccc/25C3/video_h264_iPod/25c3-2953-en-security_failures_in_smart_card_payment_systems.ipod.m4v" rel="nofollow">released</a>
+</td><td> <a href="http://bork.informatik.uni-erlangen.de/pub/ccc/25c3/audio_only/25c3-2953-en-security_failures_in_smart_card_payment_systems.mp3" class="external text" title="http://bork.informatik.uni-erlangen.de/pub/ccc/25c3/audio_only/25c3-2953-en-security_failures_in_smart_card_payment_systems.mp3" rel="nofollow">released</a>
+</td><td> <a href="http://ftp.uni-kl.de/25C3/audio_only/25c3-2953-en-security_failures_in_smart_card_payment_systems.ogg" class="external text" title="http://ftp.uni-kl.de/25C3/audio_only/25c3-2953-en-security_failures_in_smart_card_payment_systems.ogg" rel="nofollow">released</a>
+</td></tr>
+
+<tr>
+<td> 2958
+</td><td> Hacker Jeopardy
+</td><td> released
+</td><td> <a href="http://mirrors.dotsrc.org/congress/25C3/video_h264_720x576/25c3-2958-de-hacker_jeopardy.mp4" class="external text" title="http://mirrors.dotsrc.org/congress/25C3/video_h264_720x576/25c3-2958-de-hacker_jeopardy.mp4" rel="nofollow">released</a>
+</td><td> <a href="http://ftp.stw-bonn.de/mirror/25C3/video_h264_iPod/25c3-2958-de-hacker_jeopardy.ipod.m4v" class="external text" title="http://ftp.stw-bonn.de/mirror/25C3/video_h264_iPod/25c3-2958-de-hacker_jeopardy.ipod.m4v" rel="nofollow">released</a>
+</td><td> <a href="http://mirror.netcologne.de/25c3/audio_only/25c3-2958-de-hacker_jeopardy.mp3" class="external text" title="http://mirror.netcologne.de/25c3/audio_only/25c3-2958-de-hacker_jeopardy.mp3" rel="nofollow">released</a>
+</td><td> <a href="http://derchris.eu/ccc/25C3/audio_only/25c3-2958-de-hacker_jeopardy.ogg" class="external text" title="http://derchris.eu/ccc/25C3/audio_only/25c3-2958-de-hacker_jeopardy.ogg" rel="nofollow">released</a>
+</td></tr>
+
+<tr>
+<td> 2963
+</td><td> Handschellen hacken
+</td><td> released
+</td><td> <a href="http://bork.informatik.uni-erlangen.de/pub/ccc/25c3/video_h264_720x576/25c3-2963-de-handschellen_hacken.mp4" class="external text" title="http://bork.informatik.uni-erlangen.de/pub/ccc/25c3/video_h264_720x576/25c3-2963-de-handschellen_hacken.mp4" rel="nofollow">released</a>
+</td><td> <a href="http://ftp.uni-kl.de/25C3/video_h264_iPod/25c3-2963-de-handschellen_hacken.ipod.m4v" class="external text" title="http://ftp.uni-kl.de/25C3/video_h264_iPod/25c3-2963-de-handschellen_hacken.ipod.m4v" rel="nofollow">released</a>
+</td><td> <a href="http://mirrors.dotsrc.org/congress/25C3/audio_only/25c3-2963-de-handschellen_hacken.mp3" class="external text" title="http://mirrors.dotsrc.org/congress/25C3/audio_only/25c3-2963-de-handschellen_hacken.mp3" rel="nofollow">released</a>
+</td><td> <a href="http://ftp.stw-bonn.de/mirror/25C3/audio_only/25c3-2963-de-handschellen_hacken.ogg" class="external text" title="http://ftp.stw-bonn.de/mirror/25C3/audio_only/25c3-2963-de-handschellen_hacken.ogg" rel="nofollow">released</a>
+</td></tr>
+
+<tr>
+<td> 2970
+</td><td> coreboot: Beyond The Final Frontier
+</td><td> released
+</td><td> <a href="http://mirror.netcologne.de/25c3/video_h264_720x576/25c3-2970-en-coreboot:_beyond_the_final_frontier.mp4" class="external text" title="http://mirror.netcologne.de/25c3/video_h264_720x576/25c3-2970-en-coreboot:_beyond_the_final_frontier.mp4" rel="nofollow">released</a>
+</td><td> <a href="http://derchris.eu/ccc/25C3/video_h264_iPod/25c3-2970-en-coreboot:_beyond_the_final_frontier.ipod.m4v" class="external text" title="http://derchris.eu/ccc/25C3/video_h264_iPod/25c3-2970-en-coreboot:_beyond_the_final_frontier.ipod.m4v" rel="nofollow">released</a>
+</td><td> <a href="http://bork.informatik.uni-erlangen.de/pub/ccc/25c3/audio_only/25c3-2970-en-coreboot:_beyond_the_final_frontier.mp3" class="external text" title="http://bork.informatik.uni-erlangen.de/pub/ccc/25c3/audio_only/25c3-2970-en-coreboot:_beyond_the_final_frontier.mp3" rel="nofollow">released</a>
+</td><td> <a href="http://ftp.uni-kl.de/25C3/audio_only/25c3-2970-en-coreboot:_beyond_the_final_frontier.ogg" class="external text" title="http://ftp.uni-kl.de/25C3/audio_only/25c3-2970-en-coreboot:_beyond_the_final_frontier.ogg" rel="nofollow">released</a>
+</td></tr>
+
+<tr>
+<td> 2973
+</td><td> Lightning Talks Day4
+</td><td> released
+</td><td> <a href="http://mirrors.dotsrc.org/congress/25C3/video_h264_720x576/25c3-2973-en-lightning_talks_day4.mp4" class="external text" title="http://mirrors.dotsrc.org/congress/25C3/video_h264_720x576/25c3-2973-en-lightning_talks_day4.mp4" rel="nofollow">released</a>
+</td><td> <a href="http://ftp.stw-bonn.de/mirror/25C3/video_h264_iPod/25c3-2973-en-lightning_talks_day4.ipod.m4v" class="external text" title="http://ftp.stw-bonn.de/mirror/25C3/video_h264_iPod/25c3-2973-en-lightning_talks_day4.ipod.m4v" rel="nofollow">released</a>
+</td><td> <a href="http://mirror.netcologne.de/25c3/audio_only/25c3-2973-en-lightning_talks_day4.mp3" class="external text" title="http://mirror.netcologne.de/25c3/audio_only/25c3-2973-en-lightning_talks_day4.mp3" rel="nofollow">released</a>
+</td><td> <a href="http://derchris.eu/ccc/25C3/audio_only/25c3-2973-en-lightning_talks_day4.ogg" class="external text" title="http://derchris.eu/ccc/25C3/audio_only/25c3-2973-en-lightning_talks_day4.ogg" rel="nofollow">released</a>
+</td></tr>
+
+<tr>
+<td> 2975
+</td><td> Zehn Big Brother Awards in .at
+</td><td> released
+</td><td> <a href="http://bork.informatik.uni-erlangen.de/pub/ccc/25c3/video_h264_720x576/25c3-2975-de-zehn_big_brother_awards_in_.at.mp4" class="external text" title="http://bork.informatik.uni-erlangen.de/pub/ccc/25c3/video_h264_720x576/25c3-2975-de-zehn_big_brother_awards_in_.at.mp4" rel="nofollow">released</a>
+</td><td> <a href="http://ftp.uni-kl.de/25C3/video_h264_iPod/25c3-2975-de-zehn_big_brother_awards_in_.at.ipod.m4v" class="external text" title="http://ftp.uni-kl.de/25C3/video_h264_iPod/25c3-2975-de-zehn_big_brother_awards_in_.at.ipod.m4v" rel="nofollow">released</a>
+</td><td> <a href="http://mirrors.dotsrc.org/congress/25C3/audio_only/25c3-2975-de-zehn_big_brother_awards_in_.at.mp3" class="external text" title="http://mirrors.dotsrc.org/congress/25C3/audio_only/25c3-2975-de-zehn_big_brother_awards_in_.at.mp3" rel="nofollow">released</a>
+</td><td> <a href="http://ftp.stw-bonn.de/mirror/25C3/audio_only/25c3-2975-de-zehn_big_brother_awards_in_.at.ogg" class="external text" title="http://ftp.stw-bonn.de/mirror/25C3/audio_only/25c3-2975-de-zehn_big_brother_awards_in_.at.ogg" rel="nofollow">released</a>
+</td></tr>
+
+<tr>
+<td> 2976
+</td><td> Hacking the iPhone
+</td><td> released
+</td><td> <a href="http://mirror.netcologne.de/25c3/video_h264_720x576/25c3-2976-en-hacking_the_iphone.mp4" class="external text" title="http://mirror.netcologne.de/25c3/video_h264_720x576/25c3-2976-en-hacking_the_iphone.mp4" rel="nofollow">released</a>
+</td><td> <a href="http://derchris.eu/ccc/25C3/video_h264_iPod/25c3-2976-en-hacking_the_iphone.ipod.m4v" class="external text" title="http://derchris.eu/ccc/25C3/video_h264_iPod/25c3-2976-en-hacking_the_iphone.ipod.m4v" rel="nofollow">released</a>
+</td><td> <a href="http://bork.informatik.uni-erlangen.de/pub/ccc/25c3/audio_only/25c3-2976-en-hacking_the_iphone.mp3" class="external text" title="http://bork.informatik.uni-erlangen.de/pub/ccc/25c3/audio_only/25c3-2976-en-hacking_the_iphone.mp3" rel="nofollow">released</a>
+</td><td> <a href="http://ftp.uni-kl.de/25C3/audio_only/25c3-2976-en-hacking_the_iphone.ogg" class="external text" title="http://ftp.uni-kl.de/25C3/audio_only/25c3-2976-en-hacking_the_iphone.ogg" rel="nofollow">released</a>
+</td></tr>
+
+<tr>
+<td> 2977
+</td><td> Security and anonymity vulnerabilities in Tor
+</td><td> released
+</td><td> <a href="http://mirrors.dotsrc.org/congress/25C3/video_h264_720x576/25c3-2977-en-security_and_anonymity_vulnerabilities_in_tor.mp4" class="external text" title="http://mirrors.dotsrc.org/congress/25C3/video_h264_720x576/25c3-2977-en-security_and_anonymity_vulnerabilities_in_tor.mp4" rel="nofollow">released</a>
+</td><td> <a href="http://ftp.stw-bonn.de/mirror/25C3/video_h264_iPod/25c3-2977-en-security_and_anonymity_vulnerabilities_in_tor.ipod.m4v" class="external text" title="http://ftp.stw-bonn.de/mirror/25C3/video_h264_iPod/25c3-2977-en-security_and_anonymity_vulnerabilities_in_tor.ipod.m4v" rel="nofollow">released</a>
+</td><td> <a href="http://mirror.netcologne.de/25c3/audio_only/25c3-2977-en-security_and_anonymity_vulnerabilities_in_tor.mp3" class="external text" title="http://mirror.netcologne.de/25c3/audio_only/25c3-2977-en-security_and_anonymity_vulnerabilities_in_tor.mp3" rel="nofollow">released</a>
+</td><td> <a href="http://derchris.eu/ccc/25C3/audio_only/25c3-2977-en-security_and_anonymity_vulnerabilities_in_tor.ogg" class="external text" title="http://derchris.eu/ccc/25C3/audio_only/25c3-2977-en-security_and_anonymity_vulnerabilities_in_tor.ogg" rel="nofollow">released</a>
+</td></tr>
+
+<tr>
+<td> 2979
+</td><td> Embracing Post-Privacy
+</td><td> released
+</td><td> <a href="http://bork.informatik.uni-erlangen.de/pub/ccc/25c3/video_h264_720x576/25c3-2979-en-embracing_post-privacy.mp4" class="external text" title="http://bork.informatik.uni-erlangen.de/pub/ccc/25c3/video_h264_720x576/25c3-2979-en-embracing_post-privacy.mp4" rel="nofollow">released</a>
+</td><td> <a href="http://ftp.uni-kl.de/25C3/video_h264_iPod/25c3-2979-en-embracing_post-privacy.ipod.m4v" class="external text" title="http://ftp.uni-kl.de/25C3/video_h264_iPod/25c3-2979-en-embracing_post-privacy.ipod.m4v" rel="nofollow">released</a>
+</td><td> <a href="http://mirrors.dotsrc.org/congress/25C3/audio_only/25c3-2979-en-embracing_post-privacy.mp3" class="external text" title="http://mirrors.dotsrc.org/congress/25C3/audio_only/25c3-2979-en-embracing_post-privacy.mp3" rel="nofollow">released</a>
+</td><td> <a href="http://ftp.stw-bonn.de/mirror/25C3/audio_only/25c3-2979-en-embracing_post-privacy.ogg" class="external text" title="http://ftp.stw-bonn.de/mirror/25C3/audio_only/25c3-2979-en-embracing_post-privacy.ogg" rel="nofollow">released</a>
+</td></tr>
+
+<tr>
+<td> 2980
+</td><td> The Infinite Library
+</td><td> released
+</td><td> <a href="http://mirror.netcologne.de/25c3/video_h264_720x576/25c3-2980-en-the_infinite_library.mp4" class="external text" title="http://mirror.netcologne.de/25c3/video_h264_720x576/25c3-2980-en-the_infinite_library.mp4" rel="nofollow">released</a>
+</td><td> <a href="http://derchris.eu/ccc/25C3/video_h264_iPod/25c3-2980-en-the_infinite_library.ipod.m4v" class="external text" title="http://derchris.eu/ccc/25C3/video_h264_iPod/25c3-2980-en-the_infinite_library.ipod.m4v" rel="nofollow">released</a>
+</td><td> <a href="http://bork.informatik.uni-erlangen.de/pub/ccc/25c3/audio_only/25c3-2980-en-the_infinite_library.mp3" class="external text" title="http://bork.informatik.uni-erlangen.de/pub/ccc/25c3/audio_only/25c3-2980-en-the_infinite_library.mp3" rel="nofollow">released</a>
+</td><td> <a href="http://ftp.uni-kl.de/25C3/audio_only/25c3-2980-en-the_infinite_library.ogg" class="external text" title="http://ftp.uni-kl.de/25C3/audio_only/25c3-2980-en-the_infinite_library.ogg" rel="nofollow">released</a>
+</td></tr>
+
+<tr>
+<td> 2988
+</td><td> Just Estonia and Georgia?
+</td><td> released
+</td><td> <a href="http://mirrors.dotsrc.org/congress/25C3/video_h264_720x576/25c3-2988-en-just_estonia_and_georgia?.mp4" class="external text" title="http://mirrors.dotsrc.org/congress/25C3/video_h264_720x576/25c3-2988-en-just_estonia_and_georgia?.mp4" rel="nofollow">released</a>
+</td><td> <a href="http://ftp.stw-bonn.de/mirror/25C3/video_h264_iPod/25c3-2988-en-just_estonia_and_georgia?.ipod.m4v" class="external text" title="http://ftp.stw-bonn.de/mirror/25C3/video_h264_iPod/25c3-2988-en-just_estonia_and_georgia?.ipod.m4v" rel="nofollow">released</a>
+</td><td> <a href="http://mirror.netcologne.de/25c3/audio_only/25c3-2988-en-just_estonia_and_georgia?.mp3" class="external text" title="http://mirror.netcologne.de/25c3/audio_only/25c3-2988-en-just_estonia_and_georgia?.mp3" rel="nofollow">released</a>
+</td><td> <a href="http://derchris.eu/ccc/25C3/audio_only/25c3-2988-en-just_estonia_and_georgia?.ogg" class="external text" title="http://derchris.eu/ccc/25C3/audio_only/25c3-2988-en-just_estonia_and_georgia?.ogg" rel="nofollow">released</a>
+</td></tr>
+
+<tr>
+<td> 2991
+</td><td> Terrorist All-Stars
+</td><td> released
+</td><td> <a href="http://bork.informatik.uni-erlangen.de/pub/ccc/25c3/video_h264_720x576/25c3-2991-en-terrorist_all-stars.mp4" class="external text" title="http://bork.informatik.uni-erlangen.de/pub/ccc/25c3/video_h264_720x576/25c3-2991-en-terrorist_all-stars.mp4" rel="nofollow">released</a>
+</td><td> <a href="http://ftp.uni-kl.de/25C3/video_h264_iPod/25c3-2991-en-terrorist_all-stars.ipod.m4v" class="external text" title="http://ftp.uni-kl.de/25C3/video_h264_iPod/25c3-2991-en-terrorist_all-stars.ipod.m4v" rel="nofollow">released</a>
+</td><td> <a href="http://mirrors.dotsrc.org/congress/25C3/audio_only/25c3-2991-en-terrorist_all-stars.mp3" class="external text" title="http://mirrors.dotsrc.org/congress/25C3/audio_only/25c3-2991-en-terrorist_all-stars.mp3" rel="nofollow">released</a>
+</td><td> <a href="http://ftp.stw-bonn.de/mirror/25C3/audio_only/25c3-2991-en-terrorist_all-stars.ogg" class="external text" title="http://ftp.stw-bonn.de/mirror/25C3/audio_only/25c3-2991-en-terrorist_all-stars.ogg" rel="nofollow">released</a>
+</td></tr>
+
+<tr>
+<td> 2992
+</td><td> Tricks: makes you smile
+</td><td> released
+</td><td> <a href="http://mirror.netcologne.de/25c3/video_h264_720x576/25c3-2992-en-tricks:_makes_you_smile.mp4" class="external text" title="http://mirror.netcologne.de/25c3/video_h264_720x576/25c3-2992-en-tricks:_makes_you_smile.mp4" rel="nofollow">released</a>
+</td><td> <a href="http://derchris.eu/ccc/25C3/video_h264_iPod/25c3-2992-en-tricks:_makes_you_smile.ipod.m4v" class="external text" title="http://derchris.eu/ccc/25C3/video_h264_iPod/25c3-2992-en-tricks:_makes_you_smile.ipod.m4v" rel="nofollow">released</a>
+</td><td> <a href="http://bork.informatik.uni-erlangen.de/pub/ccc/25c3/audio_only/25c3-2992-en-tricks:_makes_you_smile.mp3" class="external text" title="http://bork.informatik.uni-erlangen.de/pub/ccc/25c3/audio_only/25c3-2992-en-tricks:_makes_you_smile.mp3" rel="nofollow">released</a>
+</td><td> <a href="http://ftp.uni-kl.de/25C3/audio_only/25c3-2992-en-tricks:_makes_you_smile.ogg" class="external text" title="http://ftp.uni-kl.de/25C3/audio_only/25c3-2992-en-tricks:_makes_you_smile.ogg" rel="nofollow">released</a>
+</td></tr>
+
+<tr>
+<td> 2995
+</td><td> Predictable RNG in the vulnerable Debian OpenSSL package
+</td><td> released
+</td><td> <a href="http://mirrors.dotsrc.org/congress/25C3/video_h264_720x576/25c3-2995-en-predictable_rng_in_the_vulnerable_debian_openssl_package.mp4" class="external text" title="http://mirrors.dotsrc.org/congress/25C3/video_h264_720x576/25c3-2995-en-predictable_rng_in_the_vulnerable_debian_openssl_package.mp4" rel="nofollow">released</a>
+</td><td> <a href="http://ftp.stw-bonn.de/mirror/25C3/video_h264_iPod/25c3-2995-en-predictable_rng_in_the_vulnerable_debian_openssl_package.ipod.m4v" class="external text" title="http://ftp.stw-bonn.de/mirror/25C3/video_h264_iPod/25c3-2995-en-predictable_rng_in_the_vulnerable_debian_openssl_package.ipod.m4v" rel="nofollow">released</a>
+</td><td> <a href="http://mirror.netcologne.de/25c3/audio_only/25c3-2995-en-predictable_rng_in_the_vulnerable_debian_openssl_package.mp3" class="external text" title="http://mirror.netcologne.de/25c3/audio_only/25c3-2995-en-predictable_rng_in_the_vulnerable_debian_openssl_package.mp3" rel="nofollow">released</a>
+</td><td> <a href="http://derchris.eu/ccc/25C3/audio_only/25c3-2995-en-predictable_rng_in_the_vulnerable_debian_openssl_package.ogg" class="external text" title="http://derchris.eu/ccc/25C3/audio_only/25c3-2995-en-predictable_rng_in_the_vulnerable_debian_openssl_package.ogg" rel="nofollow">released</a>
+</td></tr>
+
+<tr>
+<td> 2997
+</td><td> Locating Mobile Phones using SS7
+</td><td> released
+</td><td> <a href="http://bork.informatik.uni-erlangen.de/pub/ccc/25c3/video_h264_720x576/25c3-2997-en-locating_mobile_phones_using_ss7.mp4" class="external text" title="http://bork.informatik.uni-erlangen.de/pub/ccc/25c3/video_h264_720x576/25c3-2997-en-locating_mobile_phones_using_ss7.mp4" rel="nofollow">released</a>
+</td><td> <a href="http://ftp.uni-kl.de/25C3/video_h264_iPod/25c3-2997-en-locating_mobile_phones_using_ss7.ipod.m4v" class="external text" title="http://ftp.uni-kl.de/25C3/video_h264_iPod/25c3-2997-en-locating_mobile_phones_using_ss7.ipod.m4v" rel="nofollow">released</a>
+</td><td> <a href="http://mirrors.dotsrc.org/congress/25C3/audio_only/25c3-2997-en-locating_mobile_phones_using_ss7.mp3" class="external text" title="http://mirrors.dotsrc.org/congress/25C3/audio_only/25c3-2997-en-locating_mobile_phones_using_ss7.mp3" rel="nofollow">released</a>
+</td><td> <a href="http://ftp.stw-bonn.de/mirror/25C3/audio_only/25c3-2997-en-locating_mobile_phones_using_ss7.ogg" class="external text" title="http://ftp.stw-bonn.de/mirror/25C3/audio_only/25c3-2997-en-locating_mobile_phones_using_ss7.ogg" rel="nofollow">released</a>
+</td></tr>
+
+<tr>
+<td> 2999
+</td><td> Closing Ceremony
+</td><td> released
+</td><td> <a href="http://mirror.netcologne.de/25c3/video_h264_720x576/25c3-2999-en-closing_ceremony.mp4" class="external text" title="http://mirror.netcologne.de/25c3/video_h264_720x576/25c3-2999-en-closing_ceremony.mp4" rel="nofollow">released</a>
+</td><td> <a href="http://derchris.eu/ccc/25C3/video_h264_iPod/25c3-2999-en-closing_ceremony.ipod.m4v" class="external text" title="http://derchris.eu/ccc/25C3/video_h264_iPod/25c3-2999-en-closing_ceremony.ipod.m4v" rel="nofollow">released</a>
+</td><td> <a href="http://bork.informatik.uni-erlangen.de/pub/ccc/25c3/audio_only/25c3-2999-en-closing_ceremony.mp3" class="external text" title="http://bork.informatik.uni-erlangen.de/pub/ccc/25c3/audio_only/25c3-2999-en-closing_ceremony.mp3" rel="nofollow">released</a>
+</td><td> <a href="http://ftp.uni-kl.de/25C3/audio_only/25c3-2999-en-closing_ceremony.ogg" class="external text" title="http://ftp.uni-kl.de/25C3/audio_only/25c3-2999-en-closing_ceremony.ogg" rel="nofollow">released</a>
+</td></tr>
+
+<tr>
+<td> 3000
+</td><td> Stormfucker: Owning the Storm Botnet
+</td><td> released
+</td><td> <a href="http://mirrors.dotsrc.org/congress/25C3/video_h264_720x576/25c3-3000-en-stormfucker:_owning_the_storm_botnet.mp4" class="external text" title="http://mirrors.dotsrc.org/congress/25C3/video_h264_720x576/25c3-3000-en-stormfucker:_owning_the_storm_botnet.mp4" rel="nofollow">released</a>
+</td><td> <a href="http://ftp.stw-bonn.de/mirror/25C3/video_h264_iPod/25c3-3000-en-stormfucker:_owning_the_storm_botnet.ipod.m4v" class="external text" title="http://ftp.stw-bonn.de/mirror/25C3/video_h264_iPod/25c3-3000-en-stormfucker:_owning_the_storm_botnet.ipod.m4v" rel="nofollow">released</a>
+</td><td> <a href="http://mirror.netcologne.de/25c3/audio_only/25c3-3000-en-stormfucker:_owning_the_storm_botnet.mp3" class="external text" title="http://mirror.netcologne.de/25c3/audio_only/25c3-3000-en-stormfucker:_owning_the_storm_botnet.mp3" rel="nofollow">released</a>
+</td><td> <a href="http://derchris.eu/ccc/25C3/audio_only/25c3-3000-en-stormfucker:_owning_the_storm_botnet.ogg" class="external text" title="http://derchris.eu/ccc/25C3/audio_only/25c3-3000-en-stormfucker:_owning_the_storm_botnet.ogg" rel="nofollow">released</a>
+</td></tr>
+
+<tr>
+<td> 3002
+</td><td> Squeezing Attack Traces
+</td><td> released
+</td><td> <a href="http://bork.informatik.uni-erlangen.de/pub/ccc/25c3/video_h264_720x576/25c3-3002-en-squeezing_attack_traces.mp4" class="external text" title="http://bork.informatik.uni-erlangen.de/pub/ccc/25c3/video_h264_720x576/25c3-3002-en-squeezing_attack_traces.mp4" rel="nofollow">released</a>
+</td><td> <a href="http://ftp.uni-kl.de/25C3/video_h264_iPod/25c3-3002-en-squeezing_attack_traces.ipod.m4v" class="external text" title="http://ftp.uni-kl.de/25C3/video_h264_iPod/25c3-3002-en-squeezing_attack_traces.ipod.m4v" rel="nofollow">released</a>
+</td><td> <a href="http://mirrors.dotsrc.org/congress/25C3/audio_only/25c3-3002-en-squeezing_attack_traces.mp3" class="external text" title="http://mirrors.dotsrc.org/congress/25C3/audio_only/25c3-3002-en-squeezing_attack_traces.mp3" rel="nofollow">released</a>
+</td><td> <a href="http://ftp.stw-bonn.de/mirror/25C3/audio_only/25c3-3002-en-squeezing_attack_traces.ogg" class="external text" title="http://ftp.stw-bonn.de/mirror/25C3/audio_only/25c3-3002-en-squeezing_attack_traces.ogg" rel="nofollow">released</a>
+</td></tr>
+
+<tr>
+<td> 3004
+</td><td> Why technology sucks
+</td><td> released
+</td><td> <a href="http://mirror.netcologne.de/25c3/video_h264_720x576/25c3-3004-en-why_technology_sucks.mp4" class="external text" title="http://mirror.netcologne.de/25c3/video_h264_720x576/25c3-3004-en-why_technology_sucks.mp4" rel="nofollow">released</a>
+</td><td> <a href="http://derchris.eu/ccc/25C3/video_h264_iPod/25c3-3004-en-why_technology_sucks.ipod.m4v" class="external text" title="http://derchris.eu/ccc/25C3/video_h264_iPod/25c3-3004-en-why_technology_sucks.ipod.m4v" rel="nofollow">released</a>
+</td><td> <a href="http://bork.informatik.uni-erlangen.de/pub/ccc/25c3/audio_only/25c3-3004-en-why_technology_sucks.mp3" class="external text" title="http://bork.informatik.uni-erlangen.de/pub/ccc/25c3/audio_only/25c3-3004-en-why_technology_sucks.mp3" rel="nofollow">released</a>
+</td><td> <a href="http://ftp.uni-kl.de/25C3/audio_only/25c3-3004-en-why_technology_sucks.ogg" class="external text" title="http://ftp.uni-kl.de/25C3/audio_only/25c3-3004-en-why_technology_sucks.ogg" rel="nofollow">released</a>
+</td></tr>
+
+<tr>
+<td> 3007
+</td><td> Running your own GSM network
+</td><td> released
+</td><td> <a href="http://mirrors.dotsrc.org/congress/25C3/video_h264_720x576/25c3-3007-en-running_your_own_gsm_network.mp4" class="external text" title="http://mirrors.dotsrc.org/congress/25C3/video_h264_720x576/25c3-3007-en-running_your_own_gsm_network.mp4" rel="nofollow">released</a>
+</td><td> <a href="http://ftp.stw-bonn.de/mirror/25C3/video_h264_iPod/25c3-3007-en-running_your_own_gsm_network.ipod.m4v" class="external text" title="http://ftp.stw-bonn.de/mirror/25C3/video_h264_iPod/25c3-3007-en-running_your_own_gsm_network.ipod.m4v" rel="nofollow">released</a>
+</td><td> <a href="http://mirror.netcologne.de/25c3/audio_only/25c3-3007-en-running_your_own_gsm_network.mp3" class="external text" title="http://mirror.netcologne.de/25c3/audio_only/25c3-3007-en-running_your_own_gsm_network.mp3" rel="nofollow">released</a>
+</td><td> <a href="http://derchris.eu/ccc/25C3/audio_only/25c3-3007-en-running_your_own_gsm_network.ogg" class="external text" title="http://derchris.eu/ccc/25C3/audio_only/25c3-3007-en-running_your_own_gsm_network.ogg" rel="nofollow">released</a>
+</td></tr>
+
+<tr>
+<td> 3008
+</td><td> Anatomy of smartphone hardware
+</td><td> released
+</td><td> <a href="http://bork.informatik.uni-erlangen.de/pub/ccc/25c3/video_h264_720x576/25c3-3008-en-anatomy_of_smartphone_hardware.mp4" class="external text" title="http://bork.informatik.uni-erlangen.de/pub/ccc/25c3/video_h264_720x576/25c3-3008-en-anatomy_of_smartphone_hardware.mp4" rel="nofollow">released</a>
+</td><td> <a href="http://ftp.uni-kl.de/25C3/video_h264_iPod/25c3-3008-en-anatomy_of_smartphone_hardware.ipod.m4v" class="external text" title="http://ftp.uni-kl.de/25C3/video_h264_iPod/25c3-3008-en-anatomy_of_smartphone_hardware.ipod.m4v" rel="nofollow">released</a>
+</td><td> <a href="http://mirrors.dotsrc.org/congress/25C3/audio_only/25c3-3008-en-anatomy_of_smartphone_hardware.mp3" class="external text" title="http://mirrors.dotsrc.org/congress/25C3/audio_only/25c3-3008-en-anatomy_of_smartphone_hardware.mp3" rel="nofollow">released</a>
+</td><td> <a href="http://ftp.stw-bonn.de/mirror/25C3/audio_only/25c3-3008-en-anatomy_of_smartphone_hardware.ogg" class="external text" title="http://ftp.stw-bonn.de/mirror/25C3/audio_only/25c3-3008-en-anatomy_of_smartphone_hardware.ogg" rel="nofollow">released</a>
+</td></tr>
+
+<tr>
+<td> 3015
+</td><td> Rapid Prototype Your Life
+</td><td> released
+</td><td> <a href="http://mirror.netcologne.de/25c3/video_h264_720x576/25c3-3015-en-rapid_prototype_your_life.mp4" class="external text" title="http://mirror.netcologne.de/25c3/video_h264_720x576/25c3-3015-en-rapid_prototype_your_life.mp4" rel="nofollow">released</a>
+</td><td> <a href="http://derchris.eu/ccc/25C3/video_h264_iPod/25c3-3015-en-rapid_prototype_your_life.ipod.m4v" class="external text" title="http://derchris.eu/ccc/25C3/video_h264_iPod/25c3-3015-en-rapid_prototype_your_life.ipod.m4v" rel="nofollow">released</a>
+</td><td> <a href="http://bork.informatik.uni-erlangen.de/pub/ccc/25c3/audio_only/25c3-3015-en-rapid_prototype_your_life.mp3" class="external text" title="http://bork.informatik.uni-erlangen.de/pub/ccc/25c3/audio_only/25c3-3015-en-rapid_prototype_your_life.mp3" rel="nofollow">released</a>
+</td><td> <a href="http://ftp.uni-kl.de/25C3/audio_only/25c3-3015-en-rapid_prototype_your_life.ogg" class="external text" title="http://ftp.uni-kl.de/25C3/audio_only/25c3-3015-en-rapid_prototype_your_life.ogg" rel="nofollow">released</a>
+</td></tr>
+
+<tr>
+<td> 3016
+</td><td> Life is a Holodeck!
+</td><td> released
+</td><td> <a href="http://mirrors.dotsrc.org/congress/25C3/video_h264_720x576/25c3-3016-en-life_is_a_holodeck.mp4" class="external text" title="http://mirrors.dotsrc.org/congress/25C3/video_h264_720x576/25c3-3016-en-life_is_a_holodeck.mp4" rel="nofollow">released</a>
+</td><td> <a href="http://mirrors.dotsrc.org/congress/25C3/video_h264_iPod/25c3-3016-en-life_is_a_holodeck.ipod.m4v" class="external text" title="http://mirrors.dotsrc.org/congress/25C3/video_h264_iPod/25c3-3016-en-life_is_a_holodeck.ipod.m4v" rel="nofollow">released</a>
+</td><td> <a href="http://mirror.netcologne.de/25c3/audio_only/25c3-3016-en-life_is_a_holodeck.mp3" class="external text" title="http://mirror.netcologne.de/25c3/audio_only/25c3-3016-en-life_is_a_holodeck.mp3" rel="nofollow">released</a>
+</td><td> <a href="http://derchris.eu/ccc/25C3/audio_only/25c3-3016-en-life_is_a_holodeck.ogg" class="external text" title="http://derchris.eu/ccc/25C3/audio_only/25c3-3016-en-life_is_a_holodeck.ogg" rel="nofollow">released</a>
+</td></tr>
+
+<tr>
+<td> 3020
+</td><td> Banking Malware 101
+</td><td> released
+</td><td> <a href="http://bork.informatik.uni-erlangen.de/pub/ccc/25c3/video_h264_720x576/25c3-3020-en-banking_malware_101.mp4" class="external text" title="http://bork.informatik.uni-erlangen.de/pub/ccc/25c3/video_h264_720x576/25c3-3020-en-banking_malware_101.mp4" rel="nofollow">released</a>
+</td><td> <a href="http://ftp.uni-kl.de/25C3/video_h264_iPod/25c3-3020-en-banking_malware_101.ipod.m4v" class="external text" title="http://ftp.uni-kl.de/25C3/video_h264_iPod/25c3-3020-en-banking_malware_101.ipod.m4v" rel="nofollow">released</a>
+</td><td> <a href="http://mirrors.dotsrc.org/congress/25C3/audio_only/25c3-3020-en-banking_malware_101.mp3" class="external text" title="http://mirrors.dotsrc.org/congress/25C3/audio_only/25c3-3020-en-banking_malware_101.mp3" rel="nofollow">released</a>
+</td><td> <a href="http://ftp.stw-bonn.de/mirror/25C3/audio_only/25c3-3020-en-banking_malware_101.ogg" class="external text" title="http://ftp.stw-bonn.de/mirror/25C3/audio_only/25c3-3020-en-banking_malware_101.ogg" rel="nofollow">released</a>
+</td></tr>
+
+<tr>
+<td> 3021
+</td><td> Security Nightmares 2009
+</td><td> released
+</td><td> <a href="http://mirror.netcologne.de/25c3/video_h264_720x576/25c3-3021-de-security_nightmares_2009.mp4" class="external text" title="http://mirror.netcologne.de/25c3/video_h264_720x576/25c3-3021-de-security_nightmares_2009.mp4" rel="nofollow">released</a>
+</td><td> <a href="http://derchris.eu/ccc/25C3/video_h264_iPod/25c3-3021-de-security_nightmares_2009.ipod.m4v" class="external text" title="http://derchris.eu/ccc/25C3/video_h264_iPod/25c3-3021-de-security_nightmares_2009.ipod.m4v" rel="nofollow">released</a>
+</td><td> <a href="http://bork.informatik.uni-erlangen.de/pub/ccc/25c3/audio_only/25c3-3021-de-security_nightmares_2009.mp3" class="external text" title="http://bork.informatik.uni-erlangen.de/pub/ccc/25c3/audio_only/25c3-3021-de-security_nightmares_2009.mp3" rel="nofollow">released</a>
+</td><td> <a href="http://ftp.uni-kl.de/25C3/audio_only/25c3-3021-de-security_nightmares_2009.ogg" class="external text" title="http://ftp.uni-kl.de/25C3/audio_only/25c3-3021-de-security_nightmares_2009.ogg" rel="nofollow">released</a>
+</td></tr>
+
+<tr>
+<td> 3023
+</td><td> Making the theoretical possible
+</td><td> released
+</td><td> <a href="http://mirrors.dotsrc.org/congress/25C3/video_h264_720x576/25c3-3023-en-making_the_theoretical_possible.mp4" class="external text" title="http://mirrors.dotsrc.org/congress/25C3/video_h264_720x576/25c3-3023-en-making_the_theoretical_possible.mp4" rel="nofollow">released</a>
+</td><td> <a href="http://ftp.stw-bonn.de/mirror/25C3/video_h264_iPod/25c3-3023-en-making_the_theoretical_possible.ipod.m4v" class="external text" title="http://ftp.stw-bonn.de/mirror/25C3/video_h264_iPod/25c3-3023-en-making_the_theoretical_possible.ipod.m4v" rel="nofollow">released</a>
+</td><td> <a href="http://mirror.netcologne.de/25c3/audio_only/25c3-3023-en-making_the_theoretical_possible.mp3" class="external text" title="http://mirror.netcologne.de/25c3/audio_only/25c3-3023-en-making_the_theoretical_possible.mp3" rel="nofollow">released</a>
+</td><td> <a href="http://derchris.eu/ccc/25C3/audio_only/25c3-3023-en-making_the_theoretical_possible.ogg" class="external text" title="http://derchris.eu/ccc/25C3/audio_only/25c3-3023-en-making_the_theoretical_possible.ogg" rel="nofollow">released</a>
+</td></tr>
+
+<tr>
+<td> 3024
+</td><td> Jahresrueckblick
+</td><td> released
+</td><td> <a href="http://bork.informatik.uni-erlangen.de/pub/ccc/25c3/video_h264_720x576/25c3-3024-de-jahresrueckblick.mp4" class="external text" title="http://bork.informatik.uni-erlangen.de/pub/ccc/25c3/video_h264_720x576/25c3-3024-de-jahresrueckblick.mp4" rel="nofollow">released</a>
+</td><td> <a href="http://ftp.uni-kl.de/25C3/video_h264_iPod/25c3-3024-de-jahresrueckblick.ipod.m4v" class="external text" title="http://ftp.uni-kl.de/25C3/video_h264_iPod/25c3-3024-de-jahresrueckblick.ipod.m4v" rel="nofollow">released</a>
+</td><td> <a href="http://mirrors.dotsrc.org/congress/25C3/audio_only/25c3-3024-de-jahresrueckblick.mp3" class="external text" title="http://mirrors.dotsrc.org/congress/25C3/audio_only/25c3-3024-de-jahresrueckblick.mp3" rel="nofollow">released</a>
+</td><td> <a href="http://ftp.stw-bonn.de/mirror/25C3/audio_only/25c3-3024-de-jahresrueckblick.ogg" class="external text" title="http://ftp.stw-bonn.de/mirror/25C3/audio_only/25c3-3024-de-jahresrueckblick.ogg" rel="nofollow">released</a>
+</td></tr>
+
+<tr>
+<td> 3025
+</td><td> Opening and Keynote "Nothing to hide"
+</td><td> released
+</td><td> <a href="http://mirror.netcologne.de/25c3/video_h264_720x576/25c3-3025-en-opening_and_keynote_nothing_to_hide.mp4" class="external text" title="http://mirror.netcologne.de/25c3/video_h264_720x576/25c3-3025-en-opening_and_keynote_nothing_to_hide.mp4" rel="nofollow">released</a>
+</td><td> <a href="http://derchris.eu/ccc/25C3/video_h264_iPod/25c3-3025-en-opening_and_keynote_nothing_to_hide.ipod.m4v" class="external text" title="http://derchris.eu/ccc/25C3/video_h264_iPod/25c3-3025-en-opening_and_keynote_nothing_to_hide.ipod.m4v" rel="nofollow">released</a>
+</td><td> <a href="http://bork.informatik.uni-erlangen.de/pub/ccc/25c3/audio_only/25c3-3025-en-opening_and_keynote_nothing_to_hide.mp3" class="external text" title="http://bork.informatik.uni-erlangen.de/pub/ccc/25c3/audio_only/25c3-3025-en-opening_and_keynote_nothing_to_hide.mp3" rel="nofollow">released</a>
+</td><td> <a href="http://ftp.uni-kl.de/25C3/audio_only/25c3-3025-en-opening_and_keynote_nothing_to_hide.ogg" class="external text" title="http://ftp.uni-kl.de/25C3/audio_only/25c3-3025-en-opening_and_keynote_nothing_to_hide.ogg" rel="nofollow">released</a>
+</td></tr>
+
+<tr>
+<td> 3028
+</td><td> Der Hackerparagraph 202c StGB
+</td><td> released
+</td><td> <a href="http://mirrors.dotsrc.org/congress/25C3/video_h264_720x576/25c3-3028-de-der_hackerparagraph_202c_stgb.mp4" class="external text" title="http://mirrors.dotsrc.org/congress/25C3/video_h264_720x576/25c3-3028-de-der_hackerparagraph_202c_stgb.mp4" rel="nofollow">released</a>
+</td><td> <a href="http://ftp.stw-bonn.de/mirror/25C3/video_h264_iPod/25c3-3028-de-der_hackerparagraph_202c_stgb.ipod.m4v" class="external text" title="http://ftp.stw-bonn.de/mirror/25C3/video_h264_iPod/25c3-3028-de-der_hackerparagraph_202c_stgb.ipod.m4v" rel="nofollow">released</a>
+</td><td> <a href="http://mirror.netcologne.de/25c3/audio_only/25c3-3028-de-der_hackerparagraph_202c_stgb.mp3" class="external text" title="http://mirror.netcologne.de/25c3/audio_only/25c3-3028-de-der_hackerparagraph_202c_stgb.mp3" rel="nofollow">released</a>
+</td><td> <a href="http://derchris.eu/ccc/25C3/audio_only/25c3-3028-de-der_hackerparagraph_202c_stgb.ogg" class="external text" title="http://derchris.eu/ccc/25C3/audio_only/25c3-3028-de-der_hackerparagraph_202c_stgb.ogg" rel="nofollow">released</a>
+</td></tr>
+
+<tr>
+<td> 3030
+</td><td> Messing Around with Garage Doors
+</td><td> released
+</td><td> <a href="http://bork.informatik.uni-erlangen.de/pub/ccc/25c3/video_h264_720x576/25c3-3030-en-messing_around_with_garage_doors.mp4" class="external text" title="http://bork.informatik.uni-erlangen.de/pub/ccc/25c3/video_h264_720x576/25c3-3030-en-messing_around_with_garage_doors.mp4" rel="nofollow">released</a>
+</td><td> <a href="http://ftp.uni-kl.de/25C3/video_h264_iPod/25c3-3030-en-messing_around_with_garage_doors.ipod.m4v" class="external text" title="http://ftp.uni-kl.de/25C3/video_h264_iPod/25c3-3030-en-messing_around_with_garage_doors.ipod.m4v" rel="nofollow">released</a>
+</td><td> <a href="http://mirrors.dotsrc.org/congress/25C3/audio_only/25c3-3030-en-messing_around_with_garage_doors.mp3" class="external text" title="http://mirrors.dotsrc.org/congress/25C3/audio_only/25c3-3030-en-messing_around_with_garage_doors.mp3" rel="nofollow">released</a>
+</td><td> <a href="http://ftp.stw-bonn.de/mirror/25C3/audio_only/25c3-3030-en-messing_around_with_garage_doors.ogg" class="external text" title="http://ftp.stw-bonn.de/mirror/25C3/audio_only/25c3-3030-en-messing_around_with_garage_doors.ogg" rel="nofollow">released</a>
+</td></tr>
+
+<tr>
+<td> 3032
+</td><td> Analyzing RFID Security
+</td><td> released
+</td><td> <a href="http://mirror.netcologne.de/25c3/video_h264_720x576/25c3-3032-en-analyzing_rfid_security.mp4" class="external text" title="http://mirror.netcologne.de/25c3/video_h264_720x576/25c3-3032-en-analyzing_rfid_security.mp4" rel="nofollow">released</a>
+</td><td> <a href="http://derchris.eu/ccc/25C3/video_h264_iPod/25c3-3032-en-analyzing_rfid_security.ipod.m4v" class="external text" title="http://derchris.eu/ccc/25C3/video_h264_iPod/25c3-3032-en-analyzing_rfid_security.ipod.m4v" rel="nofollow">released</a>
+</td><td> <a href="http://bork.informatik.uni-erlangen.de/pub/ccc/25c3/audio_only/25c3-3032-en-analyzing_rfid_security.mp3" class="external text" title="http://bork.informatik.uni-erlangen.de/pub/ccc/25c3/audio_only/25c3-3032-en-analyzing_rfid_security.mp3" rel="nofollow">released</a>
+</td><td> <a href="http://ftp.uni-kl.de/25C3/audio_only/25c3-3032-en-analyzing_rfid_security.ogg" class="external text" title="http://ftp.uni-kl.de/25C3/audio_only/25c3-3032-en-analyzing_rfid_security.ogg" rel="nofollow">released</a>
+</td></tr>
+
+<tr>
+<td> 3041
+</td><td> eVoting after Nedap and Digital Pen
+</td><td> released
+</td><td> <a href="http://mirrors.dotsrc.org/congress/25C3/video_h264_720x576/25c3-3041-en-evoting_after_nedap_and_digital_pen.mp4" class="external text" title="http://mirrors.dotsrc.org/congress/25C3/video_h264_720x576/25c3-3041-en-evoting_after_nedap_and_digital_pen.mp4" rel="nofollow">released</a>
+</td><td> <a href="http://ftp.stw-bonn.de/mirror/25C3/video_h264_iPod/25c3-3041-en-evoting_after_nedap_and_digital_pen.ipod.m4v" class="external text" title="http://ftp.stw-bonn.de/mirror/25C3/video_h264_iPod/25c3-3041-en-evoting_after_nedap_and_digital_pen.ipod.m4v" rel="nofollow">released</a>
+</td><td> <a href="http://mirror.netcologne.de/25c3/audio_only/25c3-3041-en-evoting_after_nedap_and_digital_pen.mp3" class="external text" title="http://mirror.netcologne.de/25c3/audio_only/25c3-3041-en-evoting_after_nedap_and_digital_pen.mp3" rel="nofollow">released</a>
+</td><td> <a href="http://derchris.eu/ccc/25C3/audio_only/25c3-3041-en-evoting_after_nedap_and_digital_pen.ogg" class="external text" title="http://derchris.eu/ccc/25C3/audio_only/25c3-3041-en-evoting_after_nedap_and_digital_pen.ogg" rel="nofollow">released</a>
+</td></tr>
+
+<tr>
+<td> 3044
+</td><td> All your base(s) are belong to us
+</td><td> released
+</td><td> <a href="http://bork.informatik.uni-erlangen.de/pub/ccc/25c3/video_h264_720x576/25c3-3044-en-all_your_base(s)_are_belong_to_us.mp4" class="external text" title="http://bork.informatik.uni-erlangen.de/pub/ccc/25c3/video_h264_720x576/25c3-3044-en-all_your_base(s)_are_belong_to_us.mp4" rel="nofollow">released</a>
+</td><td> <a href="http://ftp.uni-kl.de/25C3/video_h264_iPod/25c3-3044-en-all_your_base(s)_are_belong_to_us.ipod.m4v" class="external text" title="http://ftp.uni-kl.de/25C3/video_h264_iPod/25c3-3044-en-all_your_base(s)_are_belong_to_us.ipod.m4v" rel="nofollow">released</a>
+</td><td> <a href="http://mirrors.dotsrc.org/congress/25C3/audio_only/25c3-3044-en-all_your_base(s)_are_belong_to_us.mp3" class="external text" title="http://mirrors.dotsrc.org/congress/25C3/audio_only/25c3-3044-en-all_your_base(s)_are_belong_to_us.mp3" rel="nofollow">released</a>
+</td><td> <a href="http://ftp.stw-bonn.de/mirror/25C3/audio_only/25c3-3044-en-all_your_base(s)_are_belong_to_us.ogg" class="external text" title="http://ftp.stw-bonn.de/mirror/25C3/audio_only/25c3-3044-en-all_your_base(s)_are_belong_to_us.ogg" rel="nofollow">released</a>
+</td></tr>
+
+<tr>
+<td> 3047
+</td><td> Lightning Talks Day3 morning
+</td><td> released
+</td><td> <a href="http://mirror.netcologne.de/25c3/video_h264_720x576/25c3-3047-en-lightning_talks_day3_morning.mp4" class="external text" title="http://mirror.netcologne.de/25c3/video_h264_720x576/25c3-3047-en-lightning_talks_day3_morning.mp4" rel="nofollow">released</a>
+</td><td> <a href="http://derchris.eu/ccc/25C3/video_h264_iPod/25c3-3047-en-lightning_talks_day3_morning.ipod.m4v" class="external text" title="http://derchris.eu/ccc/25C3/video_h264_iPod/25c3-3047-en-lightning_talks_day3_morning.ipod.m4v" rel="nofollow">released</a>
+</td><td> <a href="http://bork.informatik.uni-erlangen.de/pub/ccc/25c3/audio_only/25c3-3047-en-lightning_talks_day3_morning.mp3" class="external text" title="http://bork.informatik.uni-erlangen.de/pub/ccc/25c3/audio_only/25c3-3047-en-lightning_talks_day3_morning.mp3" rel="nofollow">released</a>
+</td><td> <a href="http://ftp.uni-kl.de/25C3/audio_only/25c3-3047-en-lightning_talks_day3_morning.ogg" class="external text" title="http://ftp.uni-kl.de/25C3/audio_only/25c3-3047-en-lightning_talks_day3_morning.ogg" rel="nofollow">released</a>
+</td></tr>
+
+<tr>
+<td> 3048
+</td><td> Lightning Talks Day2
+</td><td> released
+</td><td> <a href="http://mirrors.dotsrc.org/congress/25C3/video_h264_720x576/25c3-3048-en-lightning_talks_day2.mp4" class="external text" title="http://mirrors.dotsrc.org/congress/25C3/video_h264_720x576/25c3-3048-en-lightning_talks_day2.mp4" rel="nofollow">released</a>
+</td><td> <a href="http://ftp.stw-bonn.de/mirror/25C3/video_h264_iPod/25c3-3048-en-lightning_talks_day2.ipod.m4v" class="external text" title="http://ftp.stw-bonn.de/mirror/25C3/video_h264_iPod/25c3-3048-en-lightning_talks_day2.ipod.m4v" rel="nofollow">released</a>
+</td><td> <a href="http://mirror.netcologne.de/25c3/audio_only/25c3-3048-en-lightning_talks_day2.mp3" class="external text" title="http://mirror.netcologne.de/25c3/audio_only/25c3-3048-en-lightning_talks_day2.mp3" rel="nofollow">released</a>
+</td><td> <a href="http://derchris.eu/ccc/25C3/audio_only/25c3-3048-en-lightning_talks_day2.ogg" class="external text" title="http://derchris.eu/ccc/25C3/audio_only/25c3-3048-en-lightning_talks_day2.ogg" rel="nofollow">released</a>
+</td></tr>
+
+<tr>
+<td> 3050
+</td><td> Kurt Goedel - I do not fit into this century
+</td><td> released
+</td><td> <a href="http://bork.informatik.uni-erlangen.de/pub/ccc/25c3/video_h264_720x576/25c3-3050-de-kurt_goedel_-_i_do_not_fit_into_this_century.mp4" class="external text" title="http://bork.informatik.uni-erlangen.de/pub/ccc/25c3/video_h264_720x576/25c3-3050-de-kurt_goedel_-_i_do_not_fit_into_this_century.mp4" rel="nofollow">released</a>
+</td><td> <a href="http://ftp.uni-kl.de/25C3/video_h264_iPod/25c3-3050-de-kurt_goedel_-_i_do_not_fit_into_this_century.ipod.m4v" class="external text" title="http://ftp.uni-kl.de/25C3/video_h264_iPod/25c3-3050-de-kurt_goedel_-_i_do_not_fit_into_this_century.ipod.m4v" rel="nofollow">released</a>
+</td><td> <a href="http://mirrors.dotsrc.org/congress/25C3/audio_only/25c3-3050-de-kurt_goedel_-_i_do_not_fit_into_this_century.mp3" class="external text" title="http://mirrors.dotsrc.org/congress/25C3/audio_only/25c3-3050-de-kurt_goedel_-_i_do_not_fit_into_this_century.mp3" rel="nofollow">released</a>
+</td><td> <a href="http://ftp.stw-bonn.de/mirror/25C3/audio_only/25c3-3050-de-kurt_goedel_-_i_do_not_fit_into_this_century.ogg" class="external text" title="http://ftp.stw-bonn.de/mirror/25C3/audio_only/25c3-3050-de-kurt_goedel_-_i_do_not_fit_into_this_century.ogg" rel="nofollow">released</a>
+</td></tr>
+
+<tr>
+<td> 3052
+</td><td> Weizenbaum
+</td><td> released
+</td><td> <a href="http://mirror.netcologne.de/25c3/video_h264_720x576/25c3-3052-de-weizenbaum.mp4" class="external text" title="http://mirror.netcologne.de/25c3/video_h264_720x576/25c3-3052-de-weizenbaum.mp4" rel="nofollow">released</a>
+</td><td> <a href="http://derchris.eu/ccc/25C3/video_h264_iPod/25c3-3052-de-weizenbaum.ipod.m4v" class="external text" title="http://derchris.eu/ccc/25C3/video_h264_iPod/25c3-3052-de-weizenbaum.ipod.m4v" rel="nofollow">released</a>
+</td><td> <a href="http://bork.informatik.uni-erlangen.de/pub/ccc/25c3/audio_only/25c3-3052-de-weizenbaum.mp3" class="external text" title="http://bork.informatik.uni-erlangen.de/pub/ccc/25c3/audio_only/25c3-3052-de-weizenbaum.mp3" rel="nofollow">released</a>
+</td><td> <a href="http://ftp.uni-kl.de/25C3/audio_only/25c3-3052-de-weizenbaum.ogg" class="external text" title="http://ftp.uni-kl.de/25C3/audio_only/25c3-3052-de-weizenbaum.ogg" rel="nofollow">released</a>
+</td></tr>
+
+<tr>
+<td> 3053
+</td><td> Lightning Talks Day3 - Evening
+</td><td> released
+</td><td> <a href="http://mirrors.dotsrc.org/congress/25C3/video_h264_720x576/25c3-3053-en-lightning_talks_day3_-_evening.mp4" class="external text" title="http://mirrors.dotsrc.org/congress/25C3/video_h264_720x576/25c3-3053-en-lightning_talks_day3_-_evening.mp4" rel="nofollow">released</a>
+</td><td> <a href="http://ftp.stw-bonn.de/mirror/25C3/video_h264_iPod/25c3-3053-en-lightning_talks_day3_-_evening.ipod.m4v" class="external text" title="http://ftp.stw-bonn.de/mirror/25C3/video_h264_iPod/25c3-3053-en-lightning_talks_day3_-_evening.ipod.m4v" rel="nofollow">released</a>
+</td><td> <a href="http://mirror.netcologne.de/25c3/audio_only/25c3-3053-en-lightning_talks_day3_-_evening.mp3" class="external text" title="http://mirror.netcologne.de/25c3/audio_only/25c3-3053-en-lightning_talks_day3_-_evening.mp3" rel="nofollow">released</a>
+</td><td> <a href="http://derchris.eu/ccc/25C3/audio_only/25c3-3053-en-lightning_talks_day3_-_evening.ogg" class="external text" title="http://derchris.eu/ccc/25C3/audio_only/25c3-3053-en-lightning_talks_day3_-_evening.ogg" rel="nofollow">released</a>
+</td></tr>
+
+<tr>
+<td> 3056
+</td><td> Fnord News Show (English interpretation)
+</td><td> released
+</td><td> <a href="http://bork.informatik.uni-erlangen.de/pub/ccc/25c3/video_h264_720x576/25c3-3056-en-fnord_news_show_(english_interpretation).mp4" class="external text" title="http://bork.informatik.uni-erlangen.de/pub/ccc/25c3/video_h264_720x576/25c3-3056-en-fnord_news_show_(english_interpretation).mp4" rel="nofollow">released</a>
+</td><td> <a href="http://ftp.uni-kl.de/25C3/video_h264_iPod/25c3-3056-en-fnord_news_show_(english_interpretation).ipod.m4v" class="external text" title="http://ftp.uni-kl.de/25C3/video_h264_iPod/25c3-3056-en-fnord_news_show_(english_interpretation).ipod.m4v" rel="nofollow">released</a>
+</td><td> <a href="http://mirrors.dotsrc.org/congress/25C3/audio_only/25c3-3056-en-fnord_news_show_(english_interpretation).mp3" class="external text" title="http://mirrors.dotsrc.org/congress/25C3/audio_only/25c3-3056-en-fnord_news_show_(english_interpretation).mp3" rel="nofollow">released</a>
+</td><td> <a href="http://ftp.stw-bonn.de/mirror/25C3/audio_only/25c3-3056-en-fnord_news_show_(english_interpretation).ogg" class="external text" title="http://ftp.stw-bonn.de/mirror/25C3/audio_only/25c3-3056-en-fnord_news_show_(english_interpretation).ogg" rel="nofollow">released</a>
+</td></tr>
+
+<tr>
+<td> 3057
+</td><td> Hacker Jeopardy (English interpretation)
+</td><td> released
+</td><td> <a href="http://mirror.netcologne.de/25c3/video_h264_720x576/25c3-3057-en-hacker_jeopardy_(english_interpretation).mp4" class="external text" title="http://mirror.netcologne.de/25c3/video_h264_720x576/25c3-3057-en-hacker_jeopardy_(english_interpretation).mp4" rel="nofollow">released</a>
+</td><td> <a href="http://derchris.eu/ccc/25C3/video_h264_iPod/25c3-3057-en-hacker_jeopardy_(english_interpretation).ipod.m4v" class="external text" title="http://derchris.eu/ccc/25C3/video_h264_iPod/25c3-3057-en-hacker_jeopardy_(english_interpretation).ipod.m4v" rel="nofollow">released</a>
+</td><td> <a href="http://bork.informatik.uni-erlangen.de/pub/ccc/25c3/audio_only/25c3-3057-en-hacker_jeopardy_(english_interpretation).mp3" class="external text" title="http://bork.informatik.uni-erlangen.de/pub/ccc/25c3/audio_only/25c3-3057-en-hacker_jeopardy_(english_interpretation).mp3" rel="nofollow">released</a>
+</td><td> <a href="http://ftp.uni-kl.de/25C3/audio_only/25c3-3057-en-hacker_jeopardy_(english_interpretation).ogg" class="external text" title="http://ftp.uni-kl.de/25C3/audio_only/25c3-3057-en-hacker_jeopardy_(english_interpretation).ogg" rel="nofollow">released</a>
+</td></tr>
+
+<tr>
+<td> 3058
+</td><td> Security Nightmares 2009 (English interpretation)
+</td><td> released
+</td><td> <a href="http://mirrors.dotsrc.org/congress/25C3/video_h264_720x576/25c3-3058-en-security_nightmares_2009_(english_interpretation).mp4" class="external text" title="http://mirrors.dotsrc.org/congress/25C3/video_h264_720x576/25c3-3058-en-security_nightmares_2009_(english_interpretation).mp4" rel="nofollow">released</a>
+</td><td> <a href="http://ftp.stw-bonn.de/mirror/25C3/video_h264_iPod/25c3-3058-en-security_nightmares_2009_(english_interpretation).ipod.m4v" class="external text" title="http://ftp.stw-bonn.de/mirror/25C3/video_h264_iPod/25c3-3058-en-security_nightmares_2009_(english_interpretation).ipod.m4v" rel="nofollow">released</a>
+</td><td> <a href="http://mirror.netcologne.de/25c3/audio_only/25c3-3058-en-security_nightmares_2009_(english_interpretation).mp3" class="external text" title="http://mirror.netcologne.de/25c3/audio_only/25c3-3058-en-security_nightmares_2009_(english_interpretation).mp3" rel="nofollow">released</a>
+</td><td> <a href="http://derchris.eu/ccc/25C3/audio_only/25c3-3058-en-security_nightmares_2009_(english_interpretation).ogg" class="external text" title="http://derchris.eu/ccc/25C3/audio_only/25c3-3058-en-security_nightmares_2009_(english_interpretation).ogg" rel="nofollow">released</a>
+</td></tr>
+
+</table>
+<a name="Online_viewing"></a><h3><span class="editsection">[<a href="" title="Edit section: Online viewing">edit</a>]</span> <span class="mw-headline">Online viewing</span></h3>
+<ul><li><a href="http://chaosradio.ccc.de/25c3_m4v.html" class="external text" title="http://chaosradio.ccc.de/25c3_m4v.html" rel="nofollow">25C3 Video Recordings at Chaosradio</a> All official recordings in iPod compatible encoding, for download or online viewing (Flash)
+</li></ul>
+<a name="Mirrors"></a><h3><span class="editsection">[<a href="" title="Edit section: Mirrors">edit</a>]</span> <span class="mw-headline"> Mirrors </span></h3>
+<ul><li> <a href="http://dewy.fem.tu-ilmenau.de/CCC/25C3/" class="external free" title="http://dewy.fem.tu-ilmenau.de/CCC/25C3/" rel="nofollow">http://dewy.fem.tu-ilmenau.de/CCC/25C3/</a>
+</li><li> <a href="ftp://dewy.fem.tu-ilmenau.de/CCC/25C3/" class="external free" title="ftp://dewy.fem.tu-ilmenau.de/CCC/25C3/" rel="nofollow">ftp://dewy.fem.tu-ilmenau.de/CCC/25C3/</a>
+</li></ul>
+<ul><li> <a href="ftp://ftp.ccc.de/congress/25c3/" class="external free" title="ftp://ftp.ccc.de/congress/25c3/" rel="nofollow">ftp://ftp.ccc.de/congress/25c3/</a>
+</li><li> <a href="http://ftp.ccc.de/congress/25c3/" class="external free" title="http://ftp.ccc.de/congress/25c3/" rel="nofollow">http://ftp.ccc.de/congress/25c3/</a>
+</li></ul>
+<p>use more bandwidth!&nbsp;:)
+</p><p><br />
+</p>
+<a name="Mirroring_official_files"></a><h4><span class="editsection">[<a href="" title="Edit section: Mirroring official files">edit</a>]</span> <span class="mw-headline"> Mirroring official files </span></h4>
+<table class="prettytable sortable" style="width:100%" border="1">
+<tr>
+<th> Name </th><th> HTTP </th><th> FTP </th><th> RSYNC (rsync://) </th><th class="unsortable"> Cronjob
+</th></tr>
+<tr>
+<td> core.im </td><td> <a href="http://mirror.core.im/video/25c3/" class="external text" title="http://mirror.core.im/video/25c3/" rel="nofollow">HTTP</a></td><td> -- </td><td> -- </td><td> 30 min.
+</td></tr>
+<tr>
+<td> bat-country.de </td><td> <a href="http://bat-country.de/25C3/" class="external text" title="http://bat-country.de/25C3/" rel="nofollow">HTTP</a></td><td> -- </td><td> -- </td><td> 15 min.
+</td></tr>
+<tr>
+<td> ikaria.informatik.uni-rostock.de </td><td> <a href="http://ikaria.informatik.uni-rostock.de/ad001/down/25c3/" class="external text" title="http://ikaria.informatik.uni-rostock.de/ad001/down/25c3/" rel="nofollow">HTTP</a> </td><td> -- </td><td> -- </td><td> 30 min.
+</td></tr>
+<tr>
+<td>mirrors.dotsrc.org (1 Gb/s) </td><td> <a href="http://mirrors.dotsrc.org/congress/25C3/" class="external text" title="http://mirrors.dotsrc.org/congress/25C3/" rel="nofollow">HTTP</a> </td><td> <a href="ftp://mirrors.dotsrc.org/congress/25C3/" class="external text" title="ftp://mirrors.dotsrc.org/congress/25C3/" rel="nofollow">FTP</a> </td><td> -- </td><td> 40 min
+</td></tr>
+<tr>
+<td>incertum.net (FEM/dewy mirror) </td><td> <a href="http://tinkerbell.incertum.net/25c3or/" class="external text" title="http://tinkerbell.incertum.net/25c3or/" rel="nofollow">HTTP</a> </td><td> <a href="ftp://tinkerbell.incertum.net/mirrors/25c3or/" class="external text" title="ftp://tinkerbell.incertum.net/mirrors/25c3or/" rel="nofollow">FTP</a>  </td><td> -- </td><td> 24h
+</td></tr>
+<tr>
+<td> ftp.stw-bonn.de (FEM/dewy mirror) </td><td> <a href="http://ftp.stw-bonn.de/mirror/25C3/" class="external text" title="http://ftp.stw-bonn.de/mirror/25C3/" rel="nofollow">HTTP</a> </td><td> <a href="ftp://ftp.stw-bonn.de/mirror/25C3/" class="external text" title="ftp://ftp.stw-bonn.de/mirror/25C3/" rel="nofollow">FTP</a> </td><td> -- </td><td> 30 min.
+</td></tr>
+<tr>
+<td> ftp.uni-kl.de, 2x 1gbit/s </td><td> <a href="http://ftp.uni-kl.de/25C3/" class="external text" title="http://ftp.uni-kl.de/25C3/" rel="nofollow">HTTP</a> </td><td> <a href="ftp://ftp.uni-kl.de/25C3/" class="external text" title="ftp://ftp.uni-kl.de/25C3/" rel="nofollow">FTP</a> </td><td> -- </td><td> 1 hr.
+</td></tr>
+<tr>
+<td> ftp-stud.hs-esslingen.de </td><td> <a href="http://ftp-stud.hs-esslingen.de/Mirrors/CCC/25C3/" class="external text" title="http://ftp-stud.hs-esslingen.de/Mirrors/CCC/25C3/" rel="nofollow">HTTP</a> </td><td> <a href="ftp://ftp-stud.hs-esslingen.de/Mirrors/CCC/25C3/" class="external text" title="ftp://ftp-stud.hs-esslingen.de/Mirrors/CCC/25C3/" rel="nofollow">FTP</a> </td><td> -- </td><td> --
+</td></tr>
+<tr>
+<td>netcologne.de (FEM/dewy mirror, 2x 1Gbit/s) </td><td> <a href="http://mirror.netcologne.de/25c3/" class="external text" title="http://mirror.netcologne.de/25c3/" rel="nofollow">HTTP</a> </td><td> <a href="ftp://mirror.netcologne.de/25c3/" class="external text" title="ftp://mirror.netcologne.de/25c3/" rel="nofollow">FTP</a>  </td><td> -- </td><td> 30 min.
+</td></tr>
+<tr>
+<td> lando.cc </td><td> <a href="http://public.lando.cc/pub/videos/CCC/25C3/" class="external text" title="http://public.lando.cc/pub/videos/CCC/25C3/" rel="nofollow">HTTP</a> </td><td> <a href="ftp://public.lando.cc/pub/videos/CCC/25C3/" class="external text" title="ftp://public.lando.cc/pub/videos/CCC/25C3/" rel="nofollow">FTP</a> </td><td> -- </td><td> 30 min.
+</td></tr>
+<tr>
+<td> badgateway.de </td><td> <a href="http://files.badgateway.de/" class="external text" title="http://files.badgateway.de/" rel="nofollow">HTTP</a> </td><td> -- </td><td> -- </td><td> 1hr.
+</td></tr>
+<tr>
+<td> 25c3.feyn.in </td><td> <a href="http://25c3.feyn.in/official" class="external text" title="http://25c3.feyn.in/official" rel="nofollow">HTTP</a> </td><td> -- </td><td> -- </td><td> 9 min.
+</td></tr>
+<tr>
+<td>c3.thematrix-reloaded.de (no-audio,no-ipod)</td><td> <a href="http://c3.thematrix-reloaded.de/25c3/release/" class="external text" title="http://c3.thematrix-reloaded.de/25c3/release/" rel="nofollow">HTTP</a> </td><td> -- </td><td> -- </td><td> 2 hr.
+</td></tr>
+<tr>
+<td> derchris.eu (1 Gb/s) </td><td> <a href="http://derchris.eu/ccc/25C3/" class="external text" title="http://derchris.eu/ccc/25C3/" rel="nofollow">HTTP</a></td><td> <a href="ftp://derchris.eu/25C3/" class="external text" title="ftp://derchris.eu/25C3/" rel="nofollow">FTP</a> </td><td> derchris.eu/25C3/ </td><td> 1 hr.
+</td></tr>
+<tr>
+<td> mirror.informatik.uni-mannheim.de </td><td> <a href="http://mirror.informatik.uni-mannheim.de/pub/ccc/25C3/" class="external text" title="http://mirror.informatik.uni-mannheim.de/pub/ccc/25C3/" rel="nofollow">HTTP</a> </td><td> <a href="ftp://mirror.informatik.uni-mannheim.de/pub/ccc/25C3/" class="external text" title="ftp://mirror.informatik.uni-mannheim.de/pub/ccc/25C3/" rel="nofollow">FTP</a> </td><td> -- </td><td> 1 hr.
+</td></tr>
+<tr>
+<td> bork.informatik.uni-erlangen.de (1Gb/s) </td><td> <a href="http://bork.informatik.uni-erlangen.de/pub/ccc/25c3/" class="external text" title="http://bork.informatik.uni-erlangen.de/pub/ccc/25c3/" rel="nofollow">HTTP</a> </td><td> -- </td><td> -- </td><td> 1 hr.
+</td></tr>
+<tr>
+<td> bat-country.de </td><td> <a href="http://bat-country.de/25C3/pre-release/" class="external text" title="http://bat-country.de/25C3/pre-release/" rel="nofollow">HTTP</a> </td><td> -- </td><td> -- </td><td> 15 min.
+</td></tr></table>
+<a name="Torrents_.40_The_Pirate_Bay"></a><h3><span class="editsection">[<a href="" title="Edit section: Torrents @ The Pirate Bay">edit</a>]</span> <span class="mw-headline"> Torrents @ The Pirate Bay </span></h3>
+<p><a href="http://thepiratebay.org/tag/25c3" class="external free" title="http://thepiratebay.org/tag/25c3" rel="nofollow">http://thepiratebay.org/tag/25c3</a>
+</p><p>Or for realtime recordings see:
+<a href="../Streaming/index.html#Real_Time_Recordings" class="external free" title="http://events.ccc.de/congress/2008/wiki/Streaming#Real_Time_Recordings" rel="nofollow">http://events.ccc.de/congress/2008/wiki/Streaming#Real_Time_Recordings</a>
+</p>
+<a name="Errata"></a><h2><span class="editsection">[<a href="" title="Edit section: Errata">edit</a>]</span> <span class="mw-headline"> Errata </span></h2>
+<p>If you find critical errors in a released file which we must
+have missed in our quality check, please append them here.
+We will check this page regularly and note if the error will be fixed.
+</p>
+<pre>#### == Number of Lecture
+Rejected = We could not affirm this Error
+Fixed == We have fixed this Error in a new Version
+Working == We are currently working to fix this problem
+Ignored == We could affirm this Errors but they are minor so we will not release a new Version
+</pre>
+<table width="100%" border="1">
+<tr>
+<th> ####
+</th><th> Format
+</th><th> Error description
+</th><th> FeM says:
+</th><th> Status
+</th></tr>
+<tr>
+<td> <i>1234</i>
+</td><td> <i>H264</i>
+</td><td> <i>this is an example error, at 1h11m30s</i>
+</td><td> <i>just a test</i>
+</td><td> Rejected
+</td></tr>
+<tr>
+<td> 2807
+</td><td> H264 720x576
+</td><td> 42:52 jumps back one minute
+</td><td> Wondering how this could happen *g* we will try to fix this.
+</td><td> Fixed
+</td></tr>
+<tr>
+<td> 2906
+</td><td> H264
+</td><td> no sound after 1:11:00
+</td><td> Jep
+</td><td> Fixed
+</td></tr>
+<tr>
+<td> 2909
+</td><td> H264 720x576
+</td><td> blue screens 4:26, 5:54, 6:30-6:32, 7:52-7:58(!), 8:50, 9:34-9:51(!!), 10:11 and some minor encoding artefacts. but everything watchable imho.
+</td><td> Wel when its watchable everything is ok&nbsp;:o)
+</td><td> Ignored
+</td></tr>
+<tr>
+<td> 2923
+</td><td> H264 iPod
+</td><td> 13:47 jumps back to before the actual start of the lecture, hence the first 14-15mins repeat; from 1:11:35 onwards the sound is missing.
+</td><td> This is a 4GB problem in our encoding chain, and also affects the "Jahresrückblick". We are about to solve it, this file will be released again soon.
+</td><td> Fixed
+</td></tr>
+<tr>
+<td> 2953
+</td><td> H264 720x576
+</td><td> 3:46 jumps back one minute; same at 44:46; 12:30-13:30 is exactly the same as 26:30-27:30 (the latter is where it should be)
+</td><td> I can affirm this. We must cut this recording again.
+</td><td> Fixed
+</td></tr>
+<tr>
+<td> 2975
+</td><td> H264 720x576
+</td><td> End has been cut, missing the end credits.
+</td><td> Jep
+</td><td> Fixed
+</td></tr>
+<tr>
+<td> 3000
+</td><td> H264 720x576
+</td><td> This file contains the talk 3002
+</td><td> I could affirm that. So I guess event 3002 is released soon and #3000 will take some time&nbsp;:o)
+</td><td> Fixed
+</td></tr>
+<tr>
+<td> 3028
+</td><td> H264 720x576
+</td><td> Sound asynchron/audio is out of sync; Delay of -500 works fine
+</td><td> Sorry, I could not affirm that. When I check this recording maybe +250ms would be better than the current value, but -500ms is totally out of sync
+</td><td> Rejected
+</td></tr>
+<tr>
+<td> 3053
+</td><td> H264 720x576
+</td><td> Pink flickering at 0:15-1:15 and 9:30-9:45
+</td><td> There is nothing we could do when People ignore our advice to switch the resolution to 1024x768&nbsp;:/ This is especially problematic in the lightning-talks as they use another laptop and speaker all 4 minutes. It would be better to use only one laptop (from ccc) for the whole event which could be correctly setup and playback videos/audios and presentations in all known formats. This surely would also save some time so more ppl could speak.
+</td><td> Ignored
+</td></tr>
+<tr>
+<td> 3007
+</td><td> IPOD
+</td><td> ipod video is only 22 minutes long... downloaded again from ftp.ccc.de checked md5; size is 128 mb;  both vlc and ipod only have 22:53min, talk is about 45min
+</td><td> Did you try redownloading? VLC plays fine.. we still have no iPod available for testing...
+</td><td> Rejected (for now)
+</td></tr>
+<tr>
+<td> 3030
+</td><td> H264 720x576
+</td><td> The very beginning of the talk (and introduction) is missing; furthermore the audio is a little bit distorted (but understandable). The missing video material is existing in the pre-recordings: it is in a video named 'Pause', of the previous talk 2669. Would be great if you could fix that!
+</td><td> We have no Video called 'Pause', Maybe there are some WMV-Recordings from the Streams but this is not our stuff. As anything is understandable and everything important is in i think it is ok.
+</td><td> ignored
+</td></tr>
+<tr>
+<td> 3015
+</td><td> IPOD
+</td><td> file should be named .ipod.m4v
+</td><td> Jap
+</td><td> Fixed
+</td></tr></table>
+<p><br />
+</p>
+<a name="Unofficial_Podcast"></a><h2><span class="editsection">[<a href="" title="Edit section: Unofficial Podcast">edit</a>]</span> <span class="mw-headline"> Unofficial Podcast </span></h2>
+<p>I've created a Podcast of the currently available files. 
+</p>
+<a name="H.264"></a><h3><span class="editsection">[<a href="" title="Edit section: H.264">edit</a>]</span> <span class="mw-headline"> H.264 </span></h3>
+<pre><a href="http://feeds.feedburner.com/25c3-UnofficialH264Feed?format=xml" class="external free" title="http://feeds.feedburner.com/25c3-UnofficialH264Feed?format=xml" rel="nofollow">http://feeds.feedburner.com/25c3-UnofficialH264Feed?format=xml</a>
+</pre>
+<a name="Mobile_Video_.28iPod_compatible.29"></a><h3><span class="editsection">[<a href="" title="Edit section: Mobile Video (iPod compatible)">edit</a>]</span> <span class="mw-headline"> Mobile Video (iPod compatible) </span></h3>
+<pre><a href="http://feeds.feedburner.com/25c3-UnofficialiPodFeed?format=xml" class="external free" title="http://feeds.feedburner.com/25c3-UnofficialiPodFeed?format=xml" rel="nofollow">http://feeds.feedburner.com/25c3-UnofficialiPodFeed?format=xml</a> 
+</pre>
+<a name="MP3_Audio"></a><h3><span class="editsection">[<a href="" title="Edit section: MP3 Audio">edit</a>]</span> <span class="mw-headline"> MP3 Audio </span></h3>
+<pre><a href="http://feeds.feedburner.com/25c3-UnofficialMp3Feed?format=xml" class="external free" title="http://feeds.feedburner.com/25c3-UnofficialMp3Feed?format=xml" rel="nofollow">http://feeds.feedburner.com/25c3-UnofficialMp3Feed?format=xml</a> 
+</pre>
+<a name="OGG_Vorbis_Audio"></a><h3><span class="editsection">[<a href="" title="Edit section: OGG Vorbis Audio">edit</a>]</span> <span class="mw-headline"> OGG Vorbis Audio </span></h3>
+<pre><a href="http://feeds.feedburner.com/25c3-UnofficialOGGVorbisFeed?format=xml" class="external free" title="http://feeds.feedburner.com/25c3-UnofficialOGGVorbisFeed?format=xml" rel="nofollow">http://feeds.feedburner.com/25c3-UnofficialOGGVorbisFeed?format=xml</a> 
+</pre>
+<p>The Feed is created by a <a href="http://www.mput.de/~kristian/src-snippets/generate_rss.py.html" class="external text" title="http://www.mput.de/~kristian/src-snippets/generate_rss.py.html" rel="nofollow">Python script</a> combining links of the table above and meta information from the schedule. Patches are welcome. --<a href="../User%253AKriss/index.html" title="User:Kriss">Kriss</a> 02:17, 10 January 2009 (UTC)
+</p>
+<a name="Copyright_license_and_credits"></a><h2><span class="editsection">[<a href="" title="Edit section: Copyright license and credits">edit</a>]</span> <span class="mw-headline">Copyright license and credits</span></h2>
+<p>The official releases are made available under the <a href="http://creativecommons.org/licenses/by-nc-nd/2.0/de/" class="external text" title="http://creativecommons.org/licenses/by-nc-nd/2.0/de/" rel="nofollow">Creative Commons NC-ND-2.0/de license</a> ("Namensnennung-Keine kommerzielle Nutzung-Keine Bearbeitung 2.0 Deutschland"). See the credits at the end of each video.
+</p>
+<a name="See_also"></a><h2><span class="editsection">[<a href="" title="Edit section: See also">edit</a>]</span> <span class="mw-headline">See also</span></h2>
+<ul><li><a href="../Documentation/index.html" title="Documentation">Documentation</a>
+</li><li><a href="../Proceedings/index.html" title="Proceedings">Proceedings</a>
+</li></ul>
+
+<!-- 
+NewPP limit report
+Preprocessor node count: 14/1000000
+Post-expand include size: 0/2097152 bytes
+Template argument size: 0/2097152 bytes
+-->
+
+<!-- Saved in parser cache with key 25C3_public_wiki:pcache:idhash:21-0!1!0!!en!2 and timestamp 20100331094606 -->
+<div class="printfooter">
+Retrieved from "<a href="">http://events.ccc.de/congress/2008/wiki/Conference_Recordings</a>"</div>
+						<!-- end content -->
+			<div class="visualClear"></div>
+		</div>
+	    </div>
+	<div id="content-footer">
+	    <div id="content-footer-img">
+	    <div id="p-cactions" class="portlet">
+	<a href="" title="View the content page [c]" accesskey="c"><span id="ca-nstab-main" class="selected"></span></a>
+	<a href="../Talk%253AConference_Recordings/index.html" title="Discussion about the content page [t]" accesskey="t"><span id="ca-talk"></span></a>
+	<a href="" title="You can edit this page. Please use the preview button before saving. [e]" accesskey="e"><span id="ca-edit"></span></a>
+	<a href="" title="Past versions of this page. [h]" accesskey="h"><span id="ca-history"></span></a>
+		    </div>
+	    </div>
+	    <div class="portlet" id="p-tb">
+		<div class="pBody">
+			<ul>
+			<li><a href="" alt="recent changes">Recent changes</a></li>
+				<li id="t-whatlinkshere"><a href="" title="List of all wiki pages that link here [j]" accesskey="j">What links here</a></li>
+				<li id="t-recentchangeslinked"><a href="" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+<li id="t-upload"><a href="" title="Upload files [u]" accesskey="u">Upload file</a></li>
+<li id="t-specialpages"><a href="" title="List of all special pages [q]" accesskey="q">Special pages</a></li>
+				<li id="t-print"><a href="" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				<li id="t-permalink"><a href="" title="Permanent link to this version of the page">Permanent link</a></li>			</ul>
+		</div>
+	</div>
+		</div><!-- end of the left (by default at least) column -->
+			<div class="visualClear"></div>
+			<div id="footer">
+				<div id="f-poweredbyico"><a href="http://www.mediawiki.org/"><img src="../skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" /></a></div>
+				<div id="f-copyrightico"><a href="http://creativecommons.org/licenses/by-sa/3.0/"><img src="http://i.creativecommons.org/l/by-sa/3.0/88x31.png" alt='Attribution-Share Alike 3.0' /></a></div>
+			<ul id="f-list">
+				<li id="lastmod"> This page was last modified 19:46, 6 December 2009.</li>
+				<li id="viewcount">This page has been accessed 133,435 times.</li>
+				<li id="copyright">Content is available under <a href="http://creativecommons.org/licenses/by-sa/3.0/" class="external " title="http://creativecommons.org/licenses/by-sa/3.0/" rel="nofollow">Attribution-Share Alike 3.0</a>.</li>
+				<li id="privacy"><a href="../25C3_Public_Wiki%253APrivacy_policy/index.html" title="25C3 Public Wiki:Privacy policy">Privacy policy</a></li>
+				<li id="about"><a href="../25C3_Public_Wiki%253AAbout/index.html" title="25C3 Public Wiki:About">About 25C3 Public Wiki</a></li>
+				<li id="disclaimer"><a href="../25C3_Public_Wiki%253AGeneral_disclaimer/index.html" title="25C3 Public Wiki:General disclaimer">Disclaimers</a></li>
+			</ul>
+		</div>
+		
+	
+		<script type="text/javascript">if (window.runOnloadHook) runOnloadHook();</script>
+</div>
+</div>
+<!-- Served in 0.032 secs. --></body></html>

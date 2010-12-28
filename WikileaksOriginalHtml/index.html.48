@@ -1,0 +1,1260 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"  xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://opengraphprotocol.org/schema/">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+    <meta name="description" content="Will charges be filed against anyone involved with WikiLeak's publication of classified military documents from the war in Afghanistan? Legal scholars have their doubts. " />
+    <meta NAME="ROBOTS" content="index, follow" /> 
+
+    <title>  Pentagon Papers II? On WikiLeaks and the First Amendment - Law Blog - WSJ</title>
+
+    <link rel="shortcut icon" href="http://s.wsj.net/favicon.ico" />
+    <link rel="alternate" type="application/rss+xml" title="Law Blog RSS Feed" href="http://blogs.wsj.com/law/feed/" />
+    <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://blogs.wsj.com/law/xmlrpc.php?rsd" />
+
+    <link rel="canonical" href="http://blogs.wsj.com/law/2010/07/26/pentagon-papers-ii-on-wikileaks-and-the-first-amendment/"/>    <meta name="verify-v1" content="G7OeL6LGnbrn0Zailv/PZqYmqL84WdTGoZWaLNXmSn0=" />
+
+<meta name="msapplication-task" content="name=WSJ;action-uri=http://online.wsj.com/;icon-uri=http://si.wsj.net/favicon.ico"/>
+<meta name="msapplication-task" content="name=MarketWatch;action-uri=http://www.marketwatch.com/;icon-uri=http://www.marketwatch.com/favicon.ico"/>
+<meta name="msapplication-task" content="name=Barron's;action-uri=http://online.barrons.com/;icon-uri=http://online.barrons.com/favicon.ico"/>
+<meta name="msapplication-task" content="name=All Things Digital;action-uri=http://allthingsd.com/;icon-uri=http://allthingsd.com/favicon.ico"/>
+<meta name="msapplication-task" content="name=SmartMoney;action-uri=http://www.smartmoney.com/;icon-uri=http://www.smartmoney.com/favicon.ico"/>
+
+<meta name="application-name" content="WSJ.com" />
+<meta name="msapplication-tooltip" content="The Wall Street Journal Online" />
+
+
+<link rel="stylesheet" href="http://sc.wsj.net/css/wsjblog_global.css" type="text/css" />
+<link rel="stylesheet" href="http://sc.wsj.net/css/wsjblog_global_2.css" type="text/css" />
+<link rel="stylesheet" href="http://sc.wsj.net/css/wsjblog_global_static.css" type="text/css" />
+<link rel="stylesheet" href="http://sc.wsj.net/css/wsjblog.css" type="text/css" />
+
+<!--[if IE 6]>
+<link rel="stylesheet" href="http://sc.wsj.net/css/ie6-override.css" type="text/css" />
+<link rel="stylesheet" href="http://sc.wsj.net/css/wsjblog_ie6.css" type="text/css" />
+<![endif]-->
+
+ 
+<!--[if IE 7]>
+<link rel="stylesheet" href="http://sc.wsj.net/css/ie7.css" type="text/css" />
+<link rel="stylesheet" href="http://sc.wsj.net/css/wsjblog_ie7.css" type="text/css" />
+<![endif]-->
+
+<link rel="stylesheet" href="http://sc.wsj.net/css/standalone_partner_hat.css" type="text/css" />
+
+
+<style type="text/css"> 
+    .wsjblog .header li.form_factor_nav .inlineNav .blogsLinkContainer a, 
+    .wsjblog .header li.form_factor_nav .inlineNav .blogsLinkContainer a:visited { 
+        color: #E36627; 
+    }
+    //.maintenance { display: none; }
+</style>
+
+<script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+<script type="text/javascript">
+    var globalHeaderPageTitle   = "Blogs"; 
+    var gcDomain                = "online.wsj.com"; 
+    var cdnDomain               = "http://s.wsj.net";
+    var wpDomain                = "blogs.wsj.com";
+    var openHouseMode           = "false";
+    if( typeof dj == "undefined" ) { var dj = {}; }
+    if( typeof dj.context == "undefined" ) { dj.context = {}; }
+</script>
+
+<script type="text/javascript" src="http://online.wsj.com/javascript/package/scriptaculous/prototype.js"></script>    <script>  var current_path = "/law/2010/07/26/pentagon-papers-ii-on-wikileaks-and-the-first-amendment/";</script>    
+</head>
+
+<body>
+    <a name="top"></a>
+    <div class="fullwide wsjblog wsjblog_post law">
+        <div class="reallywide"><script type="text/javascript">
+
+	if(document.cookie.indexOf("wsjregion") === -1){
+		document.write('<img src="http://online.wsj.com/fragment/0_0_WP_2828.html" class="hidden" height="0" width="0"/>');
+	}
+
+</script>
+<script type="text/javascript">(function(){djcs=function(){var openHouseMode='undefined';var _url={decode:function(str){var string="";var i=0;var c=0;var c1=0;var c2=0;var utftext=null;if(!str)return null;utftext=unescape(str);while(i<utftext.length){c=utftext.charCodeAt(i);if(c<128){string+=String.fromCharCode(c);i++;}
+else if((c>191)&&(c<224)){c2=utftext.charCodeAt(i+1);string+=String.fromCharCode(((c&31)<<6)|(c2&63));i+=2;}
+else{c2=utftext.charCodeAt(i+1);c3=utftext.charCodeAt(i+2);string+=String.fromCharCode(((c&15)<<12)|((c2&63)<<6)|(c3&63));i+=3;}}
+return string;}};var _base64={_keyStr:"ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/=",decode:function(input){var output="";var chr1,chr2,chr3;var enc1,enc2,enc3,enc4;var i=0;input=input.replace(/[^A-Za-z0-9\+\/\=]/g,"");while(i<input.length){enc1=_base64._keyStr.indexOf(input.charAt(i++));enc2=_base64._keyStr.indexOf(input.charAt(i++));enc3=_base64._keyStr.indexOf(input.charAt(i++));enc4=_base64._keyStr.indexOf(input.charAt(i++));chr1=(enc1<<2)|(enc2>>4);chr2=((enc2&15)<<4)|(enc3>>2);chr3=((enc3&3)<<6)|enc4;output=output+String.fromCharCode(chr1);if(enc3!=64){output=output+String.fromCharCode(chr2);}
+if(enc4!=64){output=output+String.fromCharCode(chr3);}}
+output=_url.decode(output);return output;}};var _private={runCount:1,canRun:function(){if(_private.runCount>0){_private.runCount--;if(_private.runCount>=0){return true;}}
+return false;},products:{"WSJ-ACCOUNT":3,"WSJ":2,"BARRONS":30,"NEWSREADER":161,"FREEREG-BASE":341,"HILTON":381,"WSJ-TRANSIENT":401,"EXP-LEXISNEXIS":721,"EXP-GAYLORD":761},hasRole:function(role,pArray){if(!pArray)return false;var rCode=_private.products[role];if(!rCode)return false;for(var x=0;x<pArray.length;x++){if(pArray[x]==rCode){return true;}}
+return false;},getCookie:function(cName){if(document.cookie.length<=0){return null;}
+var cStart=document.cookie.indexOf(cName+"=");if(cStart===-1){return null;}
+cStart=cStart+cName.length+1;var cEnd=document.cookie.indexOf(";",cStart);if(cEnd===-1){cEnd=document.cookie.length;}
+var cValue=document.cookie.substring(cStart,cEnd);if(typeof cValue==="remove"||cValue===null){return null;}
+return cValue;}};var _public={isOpenHouseUser:function(){var user=_private.getCookie("djcs_loc");if(user){return true;}
+return false;},isLoggedIn:function(){if(!_private.canRun()){throw new Error('Only allowed to test djcs:isLoggedIn once');}
+var cValue=_private.getCookie("wsjlocal");if(cValue)return true;return false;},hasRole:function(role){var cValue=_private.getCookie("wsjlocal");cValue=_url.decode(cValue);cValue=_url.decode(cValue);cValue=_base64.decode(cValue);var unpr=cValue.split(":");if(unpr.constructor==Array&&unpr.length==3){if(unpr[0]=="V1"){var pr=unpr[2].split(",");if(pr.constructor==Array&&pr.length>0){return _private.hasRole(role,pr);}}}
+return false;},isLoggedInHasRole:function(role){if(!_private.canRun()){throw new Error('Only allowed to test djcs:isLoggedInHasRole once');}
+return _public.hasRole(role);}};return _public;}();var d=document,dl=d.location;var fw=d.getElementsByTagName("div")[0];openHouseMode=djcs.isOpenHouseUser();if(djcs.isLoggedIn()){var partners=["HILTON","EXP-LEXISNEXIS","EXP-GAYLORD"];var sectionNoneClass=" sectionType-none";var partnerClass="";for(var i=0,numPartners=partners.length;i<numPartners;i++){var partner=partners[i];if(djcs.hasRole(partner)){var hat=d.createElement('div');partnerClass=" subType-partner partnerType-"+partner;sectionNoneClass=" sectionType-none sectionType-partner-none";hat.id="partnerHat";hat.className="wsj_partnerhat uberHatPartner-"+partner;fwfc=fw.firstChild;hat.innerHTML='<div class="partnerhat_container"><div class="partnerhat_content"></div></div>';if(fwfc){fw.insertBefore(hat,fwfc);}else{fw.appendChild(hat);}
+break;}}
+if(djcs.hasRole('WSJ')||djcs.hasRole('WSJ-TRANSIENT')){if((typeof globalHeaderPageTitle==='undefined')||(globalHeaderPageTitle==="")){fw.className=fw.className+" subType-subscribed"+sectionNoneClass+partnerClass;}else{fw.className=fw.className+" subType-subscribed"+partnerClass;}}else{if(openHouseMode==true&&((typeof globalHeaderPageTitle==='undefined')||(globalHeaderPageTitle===""))){fw.className=fw.className+" fullwide subType-subscribed sectionType-none sectionType-partner-none subType-partner partnerType-OPENHOUSE userType-reg-OPENHOUSE";}else if(openHouseMode==true){fw.className=fw.className+" fullwide subType-subscribed subType-partner partnerType-OPENHOUSE userType-reg-OPENHOUSE";}else if((typeof globalHeaderPageTitle==='undefined')||(globalHeaderPageTitle==="")){fw.className=fw.className+" subType-registered"+sectionNoneClass+" sectionType-uregistered"+partnerClass;}else{fw.className=fw.className+" subType-registered"+partnerClass;}}}else{if(openHouseMode!='undefined'&&openHouseMode==true&&((typeof globalHeaderPageTitle==='undefined')||(globalHeaderPageTitle===""))){fw.className=fw.className+" fullwide subType-subscribed sectionType-none sectionType-partner-none subType-partner partnerType-OPENHOUSE userType-unsub-OPENHOUSE";}else if(openHouseMode!='undefined'&&openHouseMode==true){fw.className=fw.className+" fullwide subType-subscribed subType-partner partnerType-OPENHOUSE userType-unsub-OPENHOUSE ";}else
+if((typeof globalHeaderPageTitle==='undefined')||(globalHeaderPageTitle==="")){fw.className=fw.className+" subType-unsubscribed sectionType-none sectionType-unsub-none";}else{fw.className=fw.className+" subType-unsubscribed";}}
+if(dl.hash.indexOf("printMode")>-1){try{var head=d.getElementsByTagName('head')[0];var link=document.createElement('link');link.rel='stylesheet';link.href='/css/wsjprint.css';link.type='text/css';head.appendChild(link);}catch(e){d.write('<link rel="stylesheet" href="/css/wsjprint.css" type="text/css"/>');}}})();</script><!-- HAT ALL -->
+
+<link rel="stylesheet" type="text/css" href="http://s.wsj.net/css/autocomplete.css" />
+<link rel="stylesheet" type="text/css" href="http://s.wsj.net/css/hat.css" />
+
+<div id="hat_div" class="hat_wsjren hat_wsjrennonsub">
+
+				<a id="hat_portal" href="http://wsjdn.wsj.com" onclick="hat.track('WSD')"><div id="hat_logo"></div></a>
+				<ul class="hat_tabs">
+					<li id="hat_tab1" class="hat_tabsel">
+						<a id="hat_link1" href="http://online.wsj.com/home" onclick="hat.track('WSJ')"></a>
+					</li>
+
+					<li id="hat_tab2" class="hat_tab">
+						<a id="hat_link2" href="http://www.marketwatch.com" onclick="hat.track('MW')"></a>
+					</li>
+					<li id="hat_tab3" class="hat_tab">
+
+						<a id="hat_link3" href="http://online.barrons.com/home" onclick="hat.track('BOL')"></a>
+					</li>
+					<li id="hat_tab4" class="hat_tab">
+						<a id="hat_link4" href="http://allthingsd.com" onclick="hat.track('ATD')"></a>
+
+					</li>
+<li id="hat_tab6" class="hat_tab">
+						<a id="hat_link6" href="http://www.fins.com" onclick="hat.track('FINS')"></a>
+					</li>
+					<li id="hat_tab7" class="hat_tab">
+						<a id="hat_link7" href="http://www.smartmoney.com" onclick="hat.track('SM')"></a>
+					</li>
+					<li id="hat_tab5" class="hat_tab hat_select">
+						<span>More</span>
+						<ul id="hat_more_menu">
+
+							<li id="hat_more1" class="hat_drop_item">
+								<a href="http://bigcharts.marketwatch.com/" onclick="hat.track('BC')">BigCharts</a>
+							</li>
+
+							<li id="hat_more2" class="hat_drop_item">
+								<a href="http://vse.marketwatch.com/Game/Homepage.aspx" onclick="hat.track('VSE')">Virtual Stock Exchange</a>
+							</li>
+							<li id="hat_more3" class="hat_drop_item">
+								<a href="http://online.wsj.com/asia" onclick="hat.track('ASIA')">WSJ Asia</a>
+
+							</li>
+							<li id="hat_more4" class="hat_drop_item">
+								<a href="http://online.wsj.com/europe" onclick="hat.track('EUR')">WSJ Europe</a>
+							</li>
+							<li id="hat_more5" class="hat_drop_item">
+								<a href="http://online.wsj.com/portuguese" onclick="hat.track('POR')">WSJ Portuguese</a>
+							</li>
+							<li id="hat_more6" class="hat_drop_item">
+
+								<a href="http://online.wsj.com/americas" onclick="hat.track('SPA')">WSJ Spanish</a>
+							</li>
+							<li id="hat_more7" class="hat_drop_item">
+								<a href="http://cn.wsj.com/gb/index.asp" onclick="hat.track('CHI')">WSJ Chinese</a>
+							</li>
+<li id="hat_more8" class="hat_drop_item">
+								<a href="http://jp.wsj.com/gb/index.asp" onclick="hat.track('JP')">WSJ Japanese</a>
+							</li>
+							<li id="hat_more9" class="hat_drop_item">
+								<a href="http://wsjradio.com/" onclick="hat.track('WARD')">WSJ Radio</a>
+							</li>
+							<li id="hat_more10" class="hat_drop_item">
+								<a href="http://efinancialnews.com/" onclick="hat.track('FNO')">Financial News</a>
+							</li>
+							<li id="hat_more11"  class="hat_drop_item lifestyleBrand">
+                            	<span>WSJ Lifestyle Brands</span>
+                            </li>
+						
+							<li id="hat_more13"  class="hat_drop_item lifestyleItem">
+                            	<a href="http://www.wsjwine.com/">WSJ<span>wine</span></a>
+                            </li>
+						</ul>
+					</li>
+				</ul>
+
+				<div class="hat_search_container">
+					<div class="hat_search" id="hat_search_autocomplete">
+					<form name = "autocompleteHeaderForm">
+						<table border="0" cellpadding="0" cellspacing="0" class="autocompleteContainer">
+							<tr>
+							<td>
+								<div class="symbolCompleteContainer">
+								  <div>
+<input type="text" name="hat_input" id="hat_input_auto" value="" maxlength="80"  autocomplete="off" />
+						  </div>
+						</div>
+
+						<div id="SearchQuoteGoButton" class="hat_button">
+						  <span class="hat_button_text"> SEARCH </span>
+						</div>
+<!--<a class="hat_search_ad" href="http://ad.doubleclick.net/clk;217331088;6853491;m?http://www.principal.com/banners/landing/aboutprincipal.htm">
+                                                                                   <img src="/img/principal_logo_transp.gif"/>
+</a>-->
+
+<div style="clear:both;"/>
+								<div id="symbolCompleteResults" class="subSymbolCompleteResults"></div>
+							</td>
+							</tr>
+						</table>
+					</form>
+					</div>
+			</div>
+	</div>
+
+<div id="headerWrapper" >
+
+<!-- Network Hat specific inline css for Network hat -->
+<style type="text/css">
+  #hat_div { width:989px;}
+</style>
+<link rel="stylesheet" href="http://s.wsj.net/css/free-reg.css" type="text/css" />
+<!--[if IE 6]>
+<link rel="stylesheet" href="http://s.wsj.net/css/free-reg-ie6.css" type="text/css" />
+<![endif]-->
+<!--[if gt IE 6]>
+<link rel="stylesheet" href="http://s.wsj.net/css/free-reg-ie7.css" type="text/css" />
+<![endif]-->
+
+<ul class="header category">
+   <li class="masthead">
+     <span class="date" id="pageTimeStamp"></span>
+      <div id="weatherContent">
+        <ul class="local-info">
+
+          <li class="location"><a id="w_location" href=""></a></li>
+          <li class="weather-icon"><a id="w_icon" class="" href=""></a></li>
+          <li id="w_high" class="temperature left"></li>
+          <li class="temperature divider hidden">|</li>
+          <li id="w_low" class="temperature right"></li>
+        </ul>
+      </div>
+
+     <div id="wsjLogo" class="mainlogo">
+
+         <a href="http://online.wsj.com"><img src="http://s.wsj.net/img/b.gif" alt=""/></a>
+         <span class="currentSubSection" style="display:none"></span>
+     </div>
+
+     <ul class="subscription hidden" id="subscribedUserDetailsId">
+       <li class="userNav" id="userDetails">Welcome, <span id="userName" class="username"></span> <small><a id="logoutLink" href="">Logout</a></small>
+       </li>
+       <li class="userTools">
+
+         <ul class="inlineNav">
+         <li class="listFirst"><a class="internalOnly" rel="nofollow" href="http://online.wsj.com/acct/setup_account">My Account</a></li>
+
+         <li><a class="internalOnly myOnlineJournalLink" href="http://online.wsj.com/myonlinejournal">My Journal</a></li>
+         <li><a class="internalOnly helpLink" href="http://help.wsj.com/" target="_blank">Help</a></li>
+         <li><a class="internalOnly messageCenterLink" href="http://online.wsj.com/community/member/mailbox">Message Center <strong>(<span class="messageCount"></span> new)</strong></a></li>
+
+         </ul>
+       </li>
+
+    </ul>
+
+
+    <div id="headerPromoContainer" class="promo" style="display:none;">
+
+    </div>
+
+
+    <br class="clear-both" />
+
+   </li>
+   <li class="form_factor_nav">
+   <div id="formFactorContainer" style="display:none;">
+			<div id="locNavContainer" class="location_nav location_collapsed" >
+                <h4><a id="currentEdition" href="#">U.S. Edition</a></h4>
+                <div class="location_popup">
+
+                    <div class="popup_content">
+                        <p>
+
+                            WSJ.com is available in the following editions and languages:
+                        </p>
+                        <div class="map_labels">
+                            <ul>
+                                <li class="map_us">
+                                    <a id="usEdition" href="http://online.wsj.com/home-page">
+                                        U.S.
+                                        <span class="map_area"> </span>
+                                    </a>
+
+                                </li>
+                                <li class="map_asia">
+
+                                    <a id="asiaEdition" href="http://asia.wsj.com/home-page">
+                                        Asia
+                                        <span class="map_area"> </span>
+                                    </a>
+                                    <ul class="list_languages">
+                                    	<li class="map_india">
+
+                                            <a id="indiaEdition" href="http://india.wsj.com/home-page">
+                                                India
+                                                <span class="map_area"> </span>
+
+                                            </a>
+                                        </li>
+                                		<li class="map_chinese">
+                                            <a id="chiEdition" href="http://chinese.wsj.com/gb/index.asp" target="_blank">
+                                                China <em>&nbsp;</em>
+
+                                                <span class="map_area"> </span>
+                                            </a>
+                                        </li>
+                                		<li class="map_japanese">
+                                            <a id="jpnEdition" href="http://jp.wsj.com/" target="_blank">
+                                                Japan <em>&nbsp;</em>
+                                                <span class="map_area"> </span>
+
+                                            </a>
+                                        </li>
+
+                                    </ul>
+                                </li>
+                                <li class="map_europe">
+                                    <a id="europeEdition" href="http://europe.wsj.com/home-page">
+                                        Europe
+                                        <span class="map_area"> </span>
+
+                                    </a>
+                                </li>
+                                <li class="map_americas">
+
+                                	<span>
+                                    	Americas
+                                    </span>
+                                    <ul class="list_languages">
+                                        <li class="map_spanish">
+                                            <a id="spaEdition" href="http://online.wsj.com/americas">
+
+                                                en Espa&ntilde;ol
+                                                <span class="map_area"> </span>
+                                            </a>
+
+                                        </li>
+                                        <li class="map_portuguese">
+                                            <a id="porEdition" href="http://online.wsj.com/portuguese">
+                                                em Portugu&ecirc;s
+                                                <span class="map_area"> </span>
+
+                                            </a>
+                                        </li>
+                                    </ul>
+
+                                </li>
+
+                            </ul>
+                        </div>
+                        <div class="location_map">
+
+                        </div>
+                        <div id="sectionFooterNonSub" class="sectionFooter">
+                        	<ul class="linkBar">
+                            	<li>
+                                	<a href="http://commerce.wsj.com/auth/login?roles=FREEREG-BASE" rel="nofollow" id="hrefNonSubId">Login/Register</a> to set your edition
+                        		</li>
+                            </ul>
+                        </div>
+
+                        <div id="sectionFooterSub" class="sectionFooter">
+                        	<ul class="linkBar">
+                            	<li>
+                                	<a href="http://setup.wsj.com/pznsetup/pznhome/edition.html" class="" rel="nofollow" id="hrefSubId">Set my edition</a>
+                        		</li>
+                            </ul>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+
+     <ul class="inlineNav" id="inlineNavBlock">
+        <li class="listFirst todaysPaperLinkContainer">
+            <a class="internalOnly todaysPaperLink" href="http://online.wsj.com/public/page/us_in_todays_paper.html">Today's Paper</a>
+        </li>
+        <li class="videoLinkContainer"><a class="internalOnly" href="http://online.wsj.com/video">Video</a></li>
+
+        <!--<li class="columnsLinkContainer"><a class="internalOnly" href="http://online.wsj.com/page/columnists.html">Columns</a></li>-->
+        <li class="blogsLinkContainer"><a class="internalOnly" href="http://blogs.wsj.com/">Blogs</a></li>
+
+       <!-- <li class="topicsLinkContainer"><a href="http://topics.wsj.com">Topics</a></li>-->
+        <li class="highlight communityForumsLinkContainer"><a class="communityForumsLink" href="http://online.wsj.com/community">Journal Community</a></li>
+     </ul>
+     </div>
+
+     <p class="fontsize"></p>
+
+            <a id="goprohook" class="goproHook_bar hidden" href="https://buy.wsj.com/shopandbuy/order/subscribe.jsp?trackCode=aaabt0gt" target="_blank"><strong class="icn_probug">Go Pro</strong>Upgrade to WSJ Pro: <em>Get 4 Weeks Free</em></a>
+<!--Inline Forms Start here-->
+
+ <div id="freereg" class="freereg hidden" style="display:none;">
+
+<a class="freereg_link" href="#" id="register">Register for FREE</a>
+    <!--  Add the class "hidden" the below "fr_container" classed div for the javascript functionality-->
+<div class="fr_container" id="register_module">
+<h4 class="closeFreereg"><span>Register for FREE</span></h4>
+
+<div class="fr_content fr_confirm" id="fr_confirm" name="fr_confirm" style="display: none;">
+<form name="fr_confirmForm" id ="fr_confirmForm" >
+
+    		<p class="rthx">Thank you for registering.</p>
+            <p>We sent an email to: <span class="regemail" id="regemail"></span></p>
+            <p>Please click on the link inside the email to complete your registration</p>
+
+            <input type="image" class="okButton" src="http://s.wsj.net/img/inline_registration_okbutton.gif" value="" id="freeRegConfirmButton" name="freeRegConfirmButton"/>
+			</form>
+
+ 	      </div> <!-- end .fr_content -->
+<div class="fr_content" id="fr_content">
+<div class="fr_formElements">
+<p>Please register to gain free access to WSJ tools.</p>
+<div id="freeregemailerrormsg" class="regerrormsg" style="display:none;">
+<p>An account already exists for the email address entered.</p>
+<p><a href="http://commerce.wsj.com/auth/forgotpass" class="forgot_pswd">Forgot your username or password?</a></p>
+  </div>
+<div id="freeRegServiceErrorMsg" class="regerrormsg" style="display:none;">
+
+<p>This service is temporary unavailable due to system maintenance. Please try again later.</p>
+
+</div>
+ <div id="freeregusererrormsg" class="regerrormsg" style="display:none;">
+<p>The username entered is already associated with<br/>
+another account. Please enter a different username</p>
+</div>
+<div id="regEmailErrorMsg" class="regerrormsg" style="display:none;">
+<p>The email address you have entered is already in use.<br>Please re-enter the email address.</p>
+</div>
+<div class="regerrormsg" id="oregFieldErrorMsg">
+</div>
+
+<form name="freeRegistration_form" id="freeRegistration_form" action="" method="post" accept-charset="utf-8" onsubmit="return false;">
+
+<ul class="regForms">
+<li><div class="form inline regShort">
+ <div class="ctl text">
+<label for="firstname">First Name</label>
+<input type="text" name="firstNameReg" value="" id="firstNameReg" maxlength='32' class="text" />
+ </div></div></li>
+<li>
+<div class="form inline regShort regRight">
+<div class="ctl text">
+<label for="lastname">Last Name</label>
+<input type="text" name="lastNameReg" value="" id="lastNameReg" maxlength='32' class="text" />
+</div></div></li>
+
+<li><div class="form inline regLong">
+ <div class="ctl text">
+<label for="email">Email (your email address will be your login)</label>
+<input type="text" name="emailAddressReg" value="" id="emailAddressReg" maxlength='100' class="text"/>
+</div></div></li>
+
+<li class="user_li">
+<div class="form inline regLong">
+<div class="ctl text">
+<label for="username">Confirm Email</label>
+<input type="text" class="text"  name="emailAddressConfirmationReg" value="" id="emailAddressConfirmationReg" maxlength='100' />
+</div></div></li>
+
+
+<li>
+<div class="form inline regShort">
+ <div class="ctl">
+<label for="password">Create a Password</label>
+<input type="password" name="passwordReg" value="" id="passwordReg" maxlength='15' class="text" />
+ </div></div></li>
+
+<li>
+ <div class="form inline regShort regRight">
+  <div class="ctl">
+<label for="password-confirm">Confirm Password</label>
+
+<input type="password" name="passwordConfirmationReg" value="" id="passwordConfirmationReg" maxlength='15' class="text" />
+  </div> </div></li>
+<li>
+                <div class="form inline regLong">
+                    <div class="ctl">
+                        <label for="company-size">Company Size (Optional)</label>
+                        <select id="companySizeReg" name="companySizeReg">
+                            <option value="">Please make a selection</option>
+
+                            <option value="1">1-99</option>
+                            <option value="2">100-499</option>
+<option value="3">500-999</option>
+<option value="4">1,000-2,499</option>
+<option value="5">2,500-4,999</option>
+<option value="6">5,000-9,999</option>
+<option value="7">10,000-14,999</option>
+<option value="8">15,000-24,999</option>
+
+<option value="9">25,000+</option>
+<option value="0">Not Applicable</option>
+                     </select>
+
+                    </div>
+                </div>
+            </li>
+  </ul> <!-- end .regForms -->
+
+<div class="regChecks">
+<input type="hidden" class="checkbox" name="sendEmailsReg" id="sendEmailsReg" value="true" checked="checked" />
+<p>From time to time, we will send you e-mail announcements on new features and special offers from The Wall Street Journal Online.</p><br>
+<div style="display:none">
+   <input type="checkbox" class="checkbox" name="jcommunityReg" id="jcommunityReg" value="true" />
+   <p>Create a profile for me in the <a href="#">Journal Community</a>
+ </p></div>
+<div class="ctl submit">
+                <input type="image" class="subButton" id="freeRegSubButton" src="http://s.wsj.net/img/inline_reg_button.gif" value=""/></div>
+
+           </div> <!-- end .regChecks -->
+        </form>
+        </div> <!-- end .fr_formElements -->
+        <div class="fr_bottom">
+           <p class="whynot" id="ofreewhyregister"><a href="#" class="ofreewhyReasons">Why Register?</a></p>
+ <p class="tac"><a href="#" class="oprivacyPolicy">Privacy Policy</a> | <a href="#" class="ofreeTermsConditions">Terms &amp; Conditions</a></p>
+
+           <div class="whyreasons" id="whyreasons" style="display:none;">
+               <p>As a registered user of The Wall Street Journal Online, you will be able to:</p>
+               <ul>
+                    <li><p>Setup and manage your portfolio</p></li>
+                    <li><p>Personalize your own news page</p></li>
+<li><p>Receive and manage newsletters</p></li>
+                  <!-- <li><p><a href="#" class="ofreeEmailNewLetter">Receive and manage newsletters</a></p></li>  -->
+
+               </ul>
+           </div> <!-- end .whyreasons -->
+        </div> <!-- end .fr_bottom -->
+	</div> <!-- end .fr_content -->
+</div> <!-- end .fr_cointainer -->
+</div> <!-- end .freereg -->
+    <div id="subscriberLogin" class="login" style="display:none;">
+
+      <a href="#" id="login" class="login_link">Log In</a>
+    <div id="login_module" class="login_module">
+      <h4 class="closeLogin"><span>Log In</span></h4>
+
+
+      <form action="https://commerce.wsj.com/auth/submitlogin" id="login_form" name="login_form" method="post" onsubmit="suppress_popup=true;return true;">
+        <fieldset>
+           <div class="ctl text input_user">
+
+            <label for="user">Login</label>
+            <input type="text" name="user" class="login_username" id="login_username" tabindex="1" value="" maxlength="100"/>
+			</div>
+
+            <div class="ctl text input_pswd">
+            <label for="password" >Password</label>
+            <input type="password" name="password" id="login_password" class="login_pswd" tabindex="2" value="" maxlength="30"/>
+<input type="hidden" name="url"  id="page_url" value=""/>
+			</div>
+
+			<div class="ctl submit input_submit">
+			<label for="login_submit">Log in</label>
+
+            <input type="image" name="login_submit" value="Log In" class="btn_submit" tabindex="4" src="http://s.wsj.net/img/btn_login.gif" id="login_button"/></div>
+			<span class="login_module_footnote"> Your login is either a username or an email address. </span>
+            <p>
+              <input type="checkbox" name="savelogin" id="login_remember" class="login_remember" tabindex="3"  checked="checked"/>
+
+              <label for="savelogin" class="login_remember">Keep me logged in.</label>
+              <a href="http://commerce.wsj.com/auth/forgotpass" class="forgot_pswd" rel="nofollow">Forgot your password?</a>
+
+                   </p>
+                      <!--FB Connect Button Code-->
+				   				   		             <div class ="connectLinks connectLinks-stack connectLinks-note-collapsed">
+				   				   		             	<div class = "connectLinks_main">
+				   				   		             	<span class = "connectLbl">Share articles and comments with your friends</span>
+				   				   		             	<div class = "fbCon">
+
+				   				   		             	  <a class="fb_button fb_button_medium" onclick="dj.module.facebook.connect.processLogin();">
+                    <span class="fb_button_text">Login with facebook</span>
+
+                  </a>
+          	  
+  						
+
+				   				   		             	 </div>
+				   				   		             	<a
+				   				   		             		class = "connectNote connectNoteTrigger"
+				   				   		             		onclick = "this.parentNode.parentNode.className=(this.parentNode.parentNode.className=='connectLinks connectLinks-stack connectLinks-note-expanded')?'connectLinks connectLinks-stack connectLinks-note-collapsed':'connectLinks connectLinks-stack connectLinks-note-expanded';return false;"
+				   				   		             		href = "#">
+				   				   		             	What's This?
+				   				   		             	</a>
+
+				   				   		             	</div>
+				   				   		             	<p class = "connectNoteContent">
+				   				   		             	You can connect your Facebook profile with WSJ.com to share articles, comments, and other activity with your friends.
+				   				   		             	</p>
+
+				   				   		            </div>
+          <!-- FB Conect Code Ends here -->
+
+
+
+        </fieldset>
+      </form>
+
+    </div>
+
+  </div>
+<!--Inline Forms End here-->
+     <br class="clear-both" />
+
+   </li>
+</ul>
+<!-- Start of Interstitial Popup -->
+<div id="modal" style="position:absolute;top:0px;display:none;background-color:#000;width:990px;height:1600px;filter:progid:DXImageTransform.Microsoft.alpha(opacity=50);opacity: 0.5;"></div>
+<div id="message" style="position:absolute;top:100px;left:370px;border:2px solid #0C2577;width:390px;height:350px;display:none;background-image: url(../img/w.gif);background-color:#FFFFFF; z-index: 1">
+<div style="padding:6px 0px 0px 10px"><a href="#" onclick="dj.module.CCS.closeMessage();return false"><img src="/img/closeBOL.gif" width="9" height="10" alt="close window"/><span class="verdana p10" style="color:#0C2577"> Close</span></a></div>
+<div style="padding:15px 10px 10px 10px" id="messagecontent"></div>
+</div>
+
+<!-- End of Interstitial Popup -->
+
+
+</div>
+<div id="usSections" class="mainNav" style="display:none">
+<ul>
+     <li class='main listFirst'><a href="http://online.wsj.com/home-page">Home</a></li> <li class='main'><a href="http://online.wsj.com/public/page/news-global-world.html">World</a></li> <li class='main'><a href="http://online.wsj.com/public/page/news-world-business.html">U.S.</a></li> <li class='main'><a href="http://online.wsj.com/public/page/new-york-main.html">New York</a></li> <li class='main'><a href="http://online.wsj.com/public/page/news-business-us.html">Business</a></li> <li class='main'><a href="http://online.wsj.com/public/page/news-financial-markets-stock.html">Markets</a></li> <li class='main'><a href="http://online.wsj.com/public/page/news-tech-technology.html">Tech</a></li> <li class='main'><a href="http://online.wsj.com/public/page/news-personal-finance.html">Personal Finance</a></li> <li class='main'><a href="http://online.wsj.com/public/page/news-lifestyle-arts-entertainment.html">Life & Culture</a></li> <li class='main'><a href="http://online.wsj.com/public/page/news-opinion-commentary.html">Opinion</a></li> <li class='main'><a href="http://online.wsj.com/public/page/news-career-jobs.html">Careers</a></li> <li class='main'><a href="http://online.wsj.com/public/page/news-real-estate-homes.html">Real Estate</a></li> <li class='main'><a href="http://online.wsj.com/public/page/news-small-business-marketing.html">Small Business</a></li> </ul>
+     <br class="clear-both" /><img src="http://s.wsj.net/img/b.gif" alt="" class="clear-both" />
+</div>
+<div id="asiaSections" class="mainNav" style="display:none">
+<ul>
+     <li class='main listFirst'><a href="http://online.wsj.com/home-page">Home</a></li> <li class='main'><a href="http://online.wsj.com/public/page/news-global-world.html">World</a></li> <li class='main'><a href="http://online.wsj.com/public/page/news-asia-business.html">Asia</a></li> <li class='main'><a href="http://online.wsj.com/public/page/hk-news.html">Hong Kong</a></li> <li class='main'><a href="http://online.wsj.com/public/page/news-china.html">China</a></li> <li class='main'><a href="http://online.wsj.com/public/page/news-india.html">India</a></li> <li class='main'><a href="http://online.wsj.com/public/page/news-japan.html">Japan</a></li> <li class='main'><a href="http://online.wsj.com/public/page/news-business-us.html">Business</a></li> <li class='main'><a href="http://online.wsj.com/public/page/news-financial-markets-stock.html">Markets</a></li> <li class='main'><a href="http://online.wsj.com/public/page/news-tech-technology.html">Tech</a></li> <li class='main'><a href="http://online.wsj.com/public/page/news-lifestyle-arts-entertainment.html">Life & Culture</a></li> <li class='main'><a href="http://asia.wsj.com/public/page/news-real-estate-asia.html">Real Estate</a></li> <li class='main'><a href="http://online.wsj.com/public/page/news-personal-finance.html">Personal Finance</a></li> <li class='main'><a href="http://asia.wsj.com/public/page/opinionasia.html">Opinion</a></li> </ul>
+     <br class="clear-both" /><img src="http://s.wsj.net/img/b.gif" alt="" class="clear-both" />
+</div>
+<div id="europeSections" class="mainNav" style="display:none">
+<ul>
+     <li class='main listFirst'><a href="http://europe.wsj.com/home-page">Home</a></li> <li class='main'><a href="http://online.wsj.com/public/page/news-global-world.html">World</a></li> <li class='main'><a href="http://online.wsj.com/public/page/news-european-union.html">Europe</a></li> <li class='main'><a href="http://online.wsj.com/public/page/uk.html">U.K.</a></li> <li class='main'><a href="http://online.wsj.com/public/page/news-business-us.html">Business</a></li> <li class='main'><a href="http://online.wsj.com/public/page/news-financial-markets-stock.html">Markets</a></li> <li class='main'><a href="http://online.wsj.com/mdc/public/page/marketsdata_europe.html">Market Data</a></li> <li class='main'><a href="http://online.wsj.com/public/page/news-tech-europe.html">Tech</a></li> <li class='main'><a href="http://online.wsj.com/public/page/news-lifestyle-arts-entertainment.html">Life & Culture</a></li> <li class='main'><a href="http://europe.wsj.com/public/page/opinion.html">Opinion</a></li> <li id="EuropeMoreSections_Container"  class="main dropdown_tiny section dropdown_collapsed">
+
+            <span>&nbsp;</span>
+                     
+            <div class="scroll_container collapsed">
+              <div class="selected">
+                  <img src="http://s.wsj.net/img/dropdown_scroll_arrow.gif" alt="expand" class="expand dropdown_indicator" />
+                  
+                  <span>More</span>
+                  </div>                        
+            
+              <div class="scroll_content">
+                <ul class="scroll_values_container">
+                   <li><a href="http://online.wsj.com/public/page/news-personal-finance.html">Personal Finance</a></li><li><a href="http://online.wsj.com/public/page/news-career-jobs.html">Careers</a></li><li><a href="http://online.wsj.com/public/page/news-real-estate-homes.html">Real Estate</a></li><li><a href="http://online.wsj.com/public/page/news-small-business-marketing.html">Small Business</a></li></ul>
+                </div>               
+            </div>           
+         </li> </ul>
+     <br class="clear-both" /><img src="http://s.wsj.net/img/b.gif" alt="" class="clear-both" />
+</div>
+</div>
+        <div class="reallywide">
+        <div class="blogheader ">        <div class="col6wide">
+            <h3><a href="http://blogs.wsj.com/">WSJ Blogs</a></h3>
+            <h5 class="blogtitle">
+<a href="http://blogs.wsj.com/law">Law Blog</a>            </h5>
+            <small>WSJ on the cases, trends and personalities of interest to the business community.</small>
+        </div>
+
+     
+        <div class="col4wide margin-left">
+            <ul class="blognav">
+                <li id="blognav_prev" class="blognav_prev"><a href="http://blogs.wsj.com/law/2010/07/26/manning-person-of-interest-in-militarys-wikileaks-probe/">Manning &#8216;Person of Interest&#8217; in Military&#8217;s WikiLeaks Probe</a></li>
+                <li id="blognav_next" class="blognav_next"><a href="http://blogs.wsj.com/law/2010/07/26/ellsberg-wikileaker-should-be-admired-for-his-courage/">Ellsberg: WikiLeaker Should Be Admired for His Courage</a></li>
+            </ul>
+        </div>
+
+        </div>
+    <div class="wrap padding-left-big">
+        <div class="articleHeadlineBox headlineType-newswire">
+            
+            <ul class="cMetadata metadataType-articleStamp ">
+                
+                <li class="dateStamp first"><small>July 26, 2010, 5:00 PM ET</small></li>
+            </ul>
+                
+            <h1>Pentagon Papers II? On WikiLeaks and the First Amendment</h1>
+                    </div>
+    </div>
+    <div class="art_tabbed_nav">
+        <ul class="tab" id="articleTabs">
+                        <li class="selected">
+                <a class="article" href="http://blogs.wsj.com/law/2010/07/26/pentagon-papers-ii-on-wikileaks-and-the-first-amendment/">Article</a>
+            </li>
+                                                                                    <li class="deselected">
+                <a class="comments" rel="nofollow" href="http://blogs.wsj.com/law/2010/07/26/pentagon-papers-ii-on-wikileaks-and-the-first-amendment/tab/comments/">Comments (34)</a>
+            </li>
+                        		</ul>
+        <div class="more_in"><a href="http://blogs.wsj.com/law/">Law Blog HOME PAGE</a> &raquo;</div>
+	</div>
+
+            <div class="mastertextCenter">
+                <div class="padding-left-big">
+                    <div class="col6wide colOverflowTruncated">
+                    <div class="mjArticleTools toolsMorelinks">
+        <ul class="aTools">
+    <li class="listFirst aToolUnit aToolType-link"><a href="#" rel="nofollow" class="tipTarget" name="clickability" id="abtt.at.emailthis"><img src="http://s.wsj.net/img/icon_email.gif" alt="" /><span>Email</span></a></li>
+    <li class="aToolUnit aToolType-link"><a href="http://blogs.wsj.com/law/2010/07/26/pentagon-papers-ii-on-wikileaks-and-the-first-amendment/tab/print/" rel="nofollow" class="tipTarget" name="print" id="abtt.at.print"><img src="http://s.wsj.net/img/icon_print.gif" alt="" /><span>Print</span></a></li>
+    <li class="aToolUnit aToolType-link"><a href="http://blogs.wsj.com/law/2010/07/26/pentagon-papers-ii-on-wikileaks-and-the-first-amendment/"><img alt="" src="http://s.wsj.net/img/icon_permalink.gif"/><span>Permalink</span></a></li>
+    <li class="aToolUnit aToolType-social">
+      <div class="popupType-social collapsed">
+        <ul class="tooltipBar tooltipType-share">
+          <li class="tooltipUnit aFbLike" id="aFbLikeTop">
+          	<fb:like layout="button_count" width="80" height="21" show_faces="false" href="http://blogs.wsj.com/law/2010/07/26/pentagon-papers-ii-on-wikileaks-and-the-first-amendment/?mod=wsj_like_facebook"></fb:like>
+                        </li>
+          <li class="tooltipUnit">
+            <div class="tooltipBox">
+              <div class="tooltip">
+                <p>Twitter</p>
+              </div>
+            </div>
+            <a class="tipTarget" href="#" id="abtt.share.twitter" rel="nofollow" name="twitter"><img alt="Twitter" src="http://s.wsj.net/img/icon_twitter.gif"/></a>
+          </li>
+          <li class="tooltipUnit">
+            <div class="tooltipBox">
+              <div class="tooltip">
+                <p>Digg</p>
+              </div>
+            </div>
+            <a id="abtt.share.digg" rel="nofollow" class="tipTarget" name="digg" href="#"><img alt="Digg" src="http://s.wsj.net/img/icon_digg.gif"/></a>
+          </li>
+          <li class="tooltipUnit shareLink">
+          	<a href="#" onClick="this.parentNode.parentNode.parentNode.className = 'popupType-social expanded'; return false;">+ More</a>
+          </li>
+        </ul>
+        <div class="popup_socialbox popup_whitebox">
+          <div class="popup_content">
+            <a href="#" class="closebtn" onClick="this.parentNode.parentNode.parentNode.className = 'popupType-social collapsed'; return false"><span>close</span></a>
+            <ul class="iconList">
+              <li><a class="share_icn share_stumbleupon tipTarget" id="abtt.share.stumble" rel="nofollow" name="stumble_upon" href="#">StumbleUpon</a></li>
+              <li><a class="share_icn share_yahoo tipTarget" id="abtt.share.ybuzz" rel="nofollow" name="yahoo_buzz" href="#" >Yahoo! Buzz</a></li>
+              <li><a class="share_icn share_myspace tipTarget" id="abtt.share.myspace" rel="nofollow" name="myspace" href="#">MySpace</a></li>
+              <li><a class="share_icn share_delicious tipTarget" id="abtt.share.delicios" rel="nofollow" name="delicious" href="#">del.icio.us</a></li>
+              <li><a class="share_icn share_reddit tipTarget" id="abtt.share.reddit" rel="nofollow" name="reddit" href="#">Reddit</a></li>
+            </ul>
+            <ul class="iconList">	
+              <li><a class="share_icn share_linkedin tipTarget" id="abtt.share.linkedin" rel="nofollow" name="linkedin" href="#">LinkedIn</a></li>
+              <li><a class="share_icn share_fark tipTarget" id="abtt.share.frak" rel="nofollow" name="fark" href="#">Fark</a></li>
+              <li><a class="share_icn share_viadeo tipTarget" id="abtt.share.viadeo" rel="nofollow" name="viadeo" href="#">Viadeo</a></li>
+              <li><a class="share_icn share_orkut tipTarget" id="abtt.share.orkut" rel="nofollow" class="tipTarget" name="orkut" href="#">Orkut</a></li>
+                    </ul>
+                </div>
+        </div>
+      </div>
+            </li>
+                <li class="aToolUnit aToolType-fontsize">
+      <a id="abtt.at.tbs" href="#"><img src="http://s.wsj.net/img/icon_smaller.gif" alt="smaller" /></a>
+      <span><a id="abtt.at.tbm" href="#">Text</a></span>
+      <a id="abtt.at.tbl" href="#"><img src="http://s.wsj.net/img/icon_larger.gif" alt="larger" /></a>
+    </li>
+                    </ul>
+</div>
+<div class="article story">
+            <div class="articlePage">
+                <!-- sphereit start --><h3 class="byline">By Ashby Jones</h3><p><img src="http://s.wsj.net/public/resources/images/OB-JJ224_classi_CV_20100726125005.jpg" alt="classified" align="left" /><strong>Update (5:00 EDT): This post was updated with additional information.</strong></p>
+<p>Is there a legal angle to the WikiLeaks story?</p>
+<p>The bottom line: the website WikiLeaks, a site that publishes confidential information, got its hands on a huge trove of classified military field reports from the war in Afghanistan, which it then leaked to three publications: the <a href="http://www.nytimes.com/interactive/world/war-logs.html" target="_blank">New York Times</a>, <a href="http://www.guardian.co.uk/world/blog/2010/jul/26/afghanistan-war-logs-wikileaks" target="_blank">the Guardian</a> and <a href="http://www.spiegel.de/international/" target="_blank">Der Spiegel</a>.</p>
+<p>The information disclosed paints a bleak picture of the war in Afghanistan.</p>
+<p>Will there be any legal fallout from the story? Will criminal or civil charges be filed against anyone involved with the leak or publication of the leak?</p>
+<p>We checked in with a couple First Amendment specialists on the topic, each of whom cast doubt on the government&#8217;s ability to prosecute or sue anyone involved with publishing the leaks.</p>
+<p>The question, as posed by <a href="http://www.law.virginia.edu/lawweb/faculty.nsf/FHPbI/1206076" target="_blank">Fred Schauer</a>, a law professor at the University of Virginia, goes like this: &#8220;What can be done &#8212; and to whom &#8212; when information that was originally obtained illegally is then published?&#8221;</p>
+<p>The most obvious Supreme Court case to spring to mind is the <a href="http://en.wikipedia.org/wiki/New_York_Times_Co._v._United_States" target="_blank">New York Times v. U.S.</a>, the famous &#8220;Pentagon Papers&#8221; case from 1971. In the case, the Supreme Court ruled that the First Amendment barred the Nixon administration from keeping the New York Times and Washington Post from publishing classified information related to the Vietnam War.</p>
+<p>Schauer said the opinion isn&#8217;t necessarily &#8220;conclusive,&#8221; partly because  it was issued as a brief &#8220;per curiam&#8221; decision, and didn&#8217;t adopt a categorical rule on when the government might prevent publication of such information. Still, Schauer said that the case, along with two others, <a href="http://en.wikipedia.org/wiki/Landmark_Communications_v._Virginia" target="_blank">Landmark Communications v. Virginia</a> and <a href="http://en.wikipedia.org/wiki/Bartnicki_v._Vopper" target="_blank">Bartnicki v. Vopper</a>, &#8220;all go in the direction&#8221; of dictating that the person at WikiLeaks who got the information would likely elude criminal prosecution or liability unless that person was, said Schauer, &#8220;involved in getting the material in the first place.&#8221;</p>
+<p>But someone who actually leaked the classified information, like Daniel Ellsberg did with the Pentagon Papers, might not evade the long arm of the law, Schauer said.</p>
+<p>In other words, if WikiLeaks was simply a passive recipient of the material, it&#8217;s likely free from culpability. If it played a more active role, the calculus might change depending on just how involved it was. &#8220;There&#8217;s gray area on what&#8217;s proper and improper,&#8221; added Schauer. (WikiLeaks has said, however, that it didn&#8217;t pay for the documents.)</p>
+<p>The organization has so far not been prosecuted or sued civilly for publishing this spring classified footage of a 2007 U.S. helicopter attack in Baghdad that killed two Reuters&#8217; employees.</p>
+<p>The fate was different for the alleged leaker, Army soldier, Pfc. Bradley Manning. The U.S. military recently said it would press criminal charges against him for allegedly transferring classified military information to an unauthorized source. The charges appeared to be connected to the materials released by WikiLeaks. Manning&#8217;s lawyers did not return requests for comment on Monday.</p>
+<p><a href="http://www.yale.edu/lawweb/jbalkin/" target="_blank">Jack Balkin</a>, a First Amendment expert at Yale Law, said that the technological complexities involved in the WikiLeaks situation likely outweigh the legal questions. &#8220;The real story is about technology,&#8221; he told us. &#8220;These folks [WikiLeaks] aren&#8217;t located in the U.S. and use technology to disseminate their product. It&#8217;s very different from the Ellsberg case, when the major players were all in the U.S.&#8221; According to <a href="http://www.newyorker.com/reporting/2010/06/07/100607fa_fact_khatchadourian" target="_blank">this story</a> in the New Yorker from last month, WikiLeaks has worked out of Reykjavic, Iceland, but says it maintains its information on numerous servers around the world.</p>
+<p>It would likely be difficult, said Balkin, for the Department of Justice to gain jurisdiction against a foreign entity like WikiLeaks. Even if it did &#8212; and then won a judgment against it &#8212; it might be hard, if not impossible, to enforce.</p>
+<p>On the First Amendment question, Balkin said most First Amendment lawyers would say that preventing the publication of material &#8220;is justified only where absolutely necessary to prevent almost immediate and imminent disaster. It&#8217;s an extremely high standard.&#8221;</p>
+<p>Balkin said that the standard for exacting criminal punishment or winning a civil injunction <em>after</em> publication, as might be the situation in the WikiLeaks case, is less settled. &#8220;But one assumes the standard is going to be very very high too.&#8221;</p>
+<p>Concluded Balkin: &#8220;I can&#8217;t imagine that given the current situation, any criminal charges are going to be filed against any [media organization].&#8221;</p>
+<p>A military leaker of the documents could face court martial, which  means being kicked out of the military, losing pay and potentially jail time. Criminal charges against a civilian, such as a government employee or contractor  who may have had access to the documents, could vary.</p>
+<p>Ellsberg faced criminal charges under the Espionage Act as well as theft and  conspiracy for his actions. The judge in that case dismissed the charges  after finding that the Nixon White House  tried to discredit Mr.  Ellsberg  by  leaking damaging FBI material about him.</p>
+<p>&#8220;I&#8217;ve been  waiting for someone to do this for 40 years,&#8221; Ellsberg  said on Monday.</p>
+      <!-- sphereit end -->
+            </div>
+          </div><div class="postcats"><ul><li><a href="http://blogs.wsj.com/law/tag/afghanistan/" rel="tag">Afghanistan</a>, </li><li><a href="http://blogs.wsj.com/law/tag/wikileaks/" rel="tag">wikileaks</a></li></ul></div>
+    <ul class="blognav blogpostnav">
+        <li class="blognav_prev">
+            <a href="http://blogs.wsj.com/law/2010/07/26/manning-person-of-interest-in-militarys-wikileaks-probe/"><strong>&laquo; Previous</strong> <br /> Manning &#8216;Person of Interest&#8217; in Military&#8217;s WikiLeaks Probe</a>        </li>
+        <li class="blognav_next">
+            <a href="http://blogs.wsj.com/law/2010/07/26/ellsberg-wikileaker-should-be-admired-for-his-courage/"><strong>Next &raquo;</strong><br/> Ellsberg: WikiLeaker Should Be Admired for His Courage</a>       	</li>
+    </ul>
+
+<div class="bottomRow"><div class="more"><a href="http://blogs.wsj.com/law/">Law Blog HOME PAGE</a></div></div>
+    <div class="articleTools_bottom articleTools_bottom_sponsored">
+        <ul class="aTools">
+    <li class="aToolUnit aToolUnit-email listFirst"><a href="#" rel="nofollow" class="tipTarget" name="clickability"><img alt="" src="http://s.wsj.net/img/icon_email.gif" class="icon">Email</a></li>
+    <li class="aToolUnit aToolUnit-print"><a href="http://blogs.wsj.com/law/2010/07/26/pentagon-papers-ii-on-wikileaks-and-the-first-amendment/tab/print/" rel="nofollow" class="tipTarget" name="print"><img alt="" src="http://s.wsj.net/img/icon_print.gif" class="icon">Printer Friendly</a></li>
+                        <li class="aToolUnit sponsor">
+                <div id="ad_1490772248" class="module_sponsor" > </div>            </li>
+    
+            <li class="aToolUnit share">
+      <!--[if !IE]>  --   Begin Share  --   <![endif]-->
+                <div class="shareTitle">Share:</div>
+                <ul class="tooltipBar tooltipType-share">
+                    <li class="tooltipUnit">
+                        <div class="tooltipBox">
+                            <div class="tooltip">
+              <p>Yahoo! Buzz</p>
+                            </div>
+          </div>
+          <a href="#" name="yahoo_buzz" rel="nofollow" class="tipTarget"><img alt="Yahoo! Buzz" src="http://s.wsj.net/img/icon_buzz.gif"/></a>
+                    </li>
+                    <li class="tooltipUnit">
+                        <div class="tooltipBox">
+                            <div class="tooltip">
+              <p>facebook</p>
+                            </div>
+          </div>
+          <a href="#" name="facebook" rel="nofollow" class="tipTarget"><img alt="facebook" src="http://s.wsj.net/img/icon_facebook.gif"/></a>
+                     </li>
+                     <li class="tooltipUnit">
+                        <div class="tooltipBox">
+                            <div class="tooltip">
+              <p>MySpace</p>
+                            </div>
+          </div>
+          <a href="#" name="myspace" rel="nofollow" class="tipTarget"><img alt="MySpace" src="http://s.wsj.net/img/icon_myspace.gif"/></a>
+                     </li>
+                     <li class="tooltipUnit">
+                        <div class="tooltipBox">
+                            <div class="tooltip">
+              <p>Digg</p>
+                            </div>
+          </div>
+          <a href="#" name="digg" rel="nofollow" class="tipTarget"><img alt="Digg" src="http://s.wsj.net/img/icon_digg.gif"/></a>
+                     </li>
+                     <li class="tooltipUnit">
+                        <div class="tooltipBox">
+                            <div class="tooltip">
+              <p>LinkedIn</p>
+                            </div>
+          </div>
+          <a href="#" name="linkedin" rel="nofollow" class="tipTarget"><img alt="LinkedIn" src="http://s.wsj.net/img/icon_linkedin.gif"/></a>
+                     </li>
+                     <li class="tooltipUnit">
+                        <div class="tooltipBox">
+                            <div class="tooltip">
+              <p>del.icio.us</p>
+                            </div>
+          </div>
+          <a href="#" name="delicious" rel="nofollow" class="tipTarget"><img alt="del.icio.us" src="http://s.wsj.net/img/icon_delicious.gif"/></a>
+                     </li>
+                     <li class="tooltipUnit">
+                        <div class="tooltipBox">
+                            <div class="tooltip">
+              <p>NewsVine</p>
+                            </div>
+                            </div>
+          <a href="#" name="newsvine" rel="nofollow" class="tipTarget"><img alt="NewsVine" src="http://s.wsj.net/img/icon_newsvine.gif"/></a>
+                     </li>
+                     <li class="tooltipUnit">
+                        <div class="tooltipBox">
+                            <div class="tooltip">
+              <p>StumbleUpon</p>
+                            </div>
+                            </div>
+          <a href="#" name="stumble_upon" rel="nofollow" class="tipTarget"><img alt="StumbleUpon" src="http://s.wsj.net/img/icon_stumbleupon.gif"/></a>
+                     </li>
+                     <li class="tooltipUnit">
+                        <div class="tooltipBox">
+                            <div class="tooltip">
+              <p>Mixx</p>
+                            </div>
+                            </div>
+          <a href="#" name="mixx" rel="nofollow" class="tipTarget"><img alt="Mixx" src="http://s.wsj.net/img/icon_mixx.gif"/></a>
+                     </li>
+                </ul>
+      <!--[if !IE]>  --   End Share  --   <![endif]-->
+            </li>
+    <li class="aToolUnit aToolType-fbLike" id="aFbLikeBottom">
+      <fb:like layout="standard" width="450" height="35" show_faces="true" href="http://blogs.wsj.com/law/2010/07/26/pentagon-papers-ii-on-wikileaks-and-the-first-amendment/?mod=wsj_like_facebook"></fb:like>
+    </li>
+    <li class="aToolUnit clear-both">&nbsp;</li>
+        </ul>
+</div>
+
+<div class="adSummary msnlinks">
+            <script type="text/javascript">
+                <!--
+                microsoft_adunitid="2579"; 
+                microsoft_adunit_width="571"; 
+                microsoft_adunit_height="164"; 
+                microsoft_adunit_legacy="false";
+                microsoft_adunit_keywordhints="";  
+                document.write('<script type="text/javascript" src="https://adsyndication.msn.com/delivery/getads.js?'+Math.random()*1000+'"></'+'script>');
+                //--> 
+            </script>
+          </div><a name="commentform"></a><div class="commentform">  <h4>Add a Comment</h4>  <div class="alertMessage" style="display:none;" id="alertdiv" >    <p id="alertp">Error message</p>  </div>  <form method="post" action="http://blogs.wsj.com/law/wp-comments-post.php" id="comment_form">    <input type=hidden name="comment_post_ID" value="31631" />    <input type=hidden name="redirect_to" rel="nofollow" value="http://blogs.wsj.com/law/2010/07/26/pentagon-papers-ii-on-wikileaks-and-the-first-amendment/tab/comments/" />    <fieldset>      <div class="formBlock">        <div class="col3wide">          <label for="author">Name</label>          <input type="text" name="author" class="formtext" id="comment_name" maxlength="100" />        </div>        <span class="formnote">We welcome thoughtful comments from readers. Please comply with our <a href="http://online.wsj.com/community/faq">guidelines</a>. Our blogs do not require the use of your real name.        </span>      </div>      <div class="formBlock">        <label for="comment">Comment</label>        <textarea name="comment" id="comment_text"></textarea>      </div>      <div class="formBlock blockType-buttons">        <input type="reset" class="formbtn" value="CLEAR" />        <input type="submit" class="formbtn" value="POST" />      </div>    </fieldset>  </form></div><div class="postcomments"><div class="headerBox">  <h3>Comments (5 of 34)</h3>  <a class="viewall" rel="nofollow" href="http://blogs.wsj.com/law/2010/07/26/pentagon-papers-ii-on-wikileaks-and-the-first-amendment/tab/comments/">View all Comments &raquo;</a></div>  <ul class="commentlist"><a name="newest"></a>    <li class="commententry listFirst "  >    <a name="comment-653711"></a>      <ul class="unitList unitType-thread">        <li class="unit first">          <ul class="cMetadata metadataType-postInfo">             <li class="postStamp">8:09 am August 8, 2010</li>            <li class="posterName">                <cite>Peter Kemp</cite> wrote:            </li>          </ul>          <div class="commentContent"><p>If the 1st Amendment protections somehow were found not to apply, then the Espionage legislation can be examined to see if any liability exists.:</p>
+<p>&#8220;Whoever, in time of war, with intent that the same shall be communicated to the enemy,&#8230;&#8221;</p>
+<p>And there&#8217;s the difficulty right there: domestic legislation applicable to US citizens with the potential only to apply to foreigners within the jurisdiction for conduct within the jurisdiction.</p>
+<p>Assange is not a US citizen; was not within the jurisdiction when the files were uploaded to Wikileaks; had no role in the removal of files from military computers; had no knowledge presumably of the files until after they landed on a server outside the US.</p>
+<p>If Assange went to the US he could apparently  be held (ie bail refused) as a material witness for the prosecution of the people who copied and took the files. If he was in the US he could theoretically be charged with conspiracy per the Code, but that would likely go nowhere as the common law of conspiracy which I assume applies in the US, requires that one person conspires with another (or more) to perpetrate the conduct such that even if the conduct never happens there is still an offence committed. There would have to be proof that Mr Assange plotted with the leaker(s), communicated with them for a conspiracy charge to stick and there is not a scintilla of evidence for that so far.</p>
+<p>The massive single  difficulty US authorities have is that Mr Assange is not within the jurisdiction and is not likely to go there anytime soon. It is at this point that commentators in the US start conflating US domestic law with International law, or extra-territorial judicial powers. Australia for example can prosecute citizens who have sex with minors in other jurisdictions ie Asia. This is an example of extra territorial judicial powers (and is it constitutional, well ours anyway) but it can never apply to non citizens.</p>
+<p>Given that Mr Assange did not do anything within the jurisdiction of the US, I imagine that any indictment could try to link him as an accessory with the acts of the leaker but this is highly problematic. An accessory in many legal systems must  have some knowledge that a crime is being, or will be committed. This raises a difficulty that Wikileaks goes to great lengths NOT to know who is the leaker by arranging for anybody to anonymously upload through Tor pipelines for example to their servers. Even if the leaker is identified afterwards, &#8212; accessory after the fact&#8211;this runs up against the common law position expressed by Blackstone:</p>
+<p>&#8220;Therefore, to make an accessory ex post facto, it is in the first place requisite that he knows of the felony committed&#8221;.</p>
+<p>To which I would add, logically &#8220;And of the felon&#8221;.</p>
+<p>Whatever the indictment, an extradition request by the US-presuming that Mr Assange remained in one country long enough-would run into more brick walls. Given the fact that the Australian government apparently refused a US request to investigate Assange, an extradition request Downunder is most likely to be refused as well. Other nations and  NATO members in particular are unlikely to cooperate and many of their  citizens would likely regard it all as a political witch hunt given the memory of the legal black hole in Guantanamo Bay. </p>
+<p>The calls from the US for Assange&#8217;s &#8220;blood&#8221; are in the meantime most unedifying and counterproductive in that it will tend to confirm the view held among many in the world that the US tries to solve too many of its problems with violence, and on that topic one thing now seems to be overlooked: that Wikileaks exposed the extreme violence meted out to hundreds more civilians in Afghanistan hitherto, covered up.</p>
+<p>Peter Kemp.<br />
+ Solicitor of the Supreme Court of NSW Australia.</p>
+</div>        </li>      </ul>    </li>    <li class="commententry   "  >    <a name="comment-650509"></a>      <ul class="unitList unitType-thread">        <li class="unit first">          <ul class="cMetadata metadataType-postInfo">             <li class="postStamp">2:10 am August 2, 2010</li>            <li class="posterName">                <cite>TEDWINT</cite> wrote:            </li>          </ul>          <div class="commentContent"><p>How can we adequately reward the Lame Stream Media for their more-than-willing complicity in almost (at this point in time) bringing down our (and,  inexplicably, their own) country?</p>
+<p>Their latest attack on the security of their country and the safety of her citizens, namely, the New York Times’ contemptible publishing of the WikiLeaks documents is a glaring example of their reckless willingness to aid our enemies in their terrorist campaign against us with no regard for the lives of our troops abroad and the preservation of our nation‘s interests around the world.<br />
+But is it merely recklessness and irresponsibility… or could there be an ulterior, more sinister, plan?</p>
+<p>Their “slobbering love affair” with our president could maybe be excused owing to a justifiably enthusiastic zeal / fanaticism in electing who they thought was an extremely well-qualified and honorable (and, of course, electable) candidate in Barack Obama.<br />
+But how can we excuse their total refusal to do even the most rudimentary performance of due diligence in investigating a candidate with, at best, a murky and checkered background, for the most powerful office in the world?<br />
+The ongoing boycott of their product: magazines, newspapers, TV news and talk shows, etc., obviously continues as we speak, as evidenced by layoffs by the print media, dismal ratings of their TV broadcasts, etc.</p>
+<p>But is this sufficient punishment? After all, they stood by, complicit in their lethargic apathy, as the Obama administration forged ahead inexorably in their campaign to weaken, cripple, and yes, to destroy the most noble country in the history of the world.</p>
+<p>We kill terrorists who try to blow up buildings or airplanes packed with innocent men, women and children. In a less complicated time, we have hanged spies who traded in espionage that would damage the country’s military capacity and defense capabilities.</p>
+<p>Killing and hanging are, admittedly, a bit extreme, but the destruction of the country that is their ultimate goal rises to the levels sought by terrorists and spies, if they are successful. Treason is the only word that adequately describes the behavior demonstrated by the sycophantic, state-controlled Propaganda Wing of the Obama Administration!!</p>
+<p>Criminal prosecution is compellingly indicated here, with prison sentences and fiercely punitive fines for those in charge.</p>
+</div>        </li>      </ul>    </li>    <li class="commententry   "  >    <a name="comment-649015"></a>      <ul class="unitList unitType-thread">        <li class="unit first">          <ul class="cMetadata metadataType-postInfo">             <li class="postStamp">12:53 pm July 31, 2010</li>            <li class="posterName">                <cite>Honza Prchal</cite> wrote:            </li>          </ul>          <div class="commentContent"><p>If it leads to a death, they may be civilly liable. It would be fun to hit the Grey lady and the other media ators with a wrongful death judgment and put a lien on some of their assets.</p>
+</div>        </li>      </ul>    </li>    <li class="commententry   "  >    <a name="comment-647261"></a>      <ul class="unitList unitType-thread">        <li class="unit first">          <ul class="cMetadata metadataType-postInfo">             <li class="postStamp">1:40 pm July 28, 2010</li>            <li class="posterName">                <cite>Burton Hill</cite> wrote:            </li>          </ul>          <div class="commentContent"><p>How can Wikileaks be classified as a &#8220;publisher&#8221; if they only dump the classified information on the internet?  How is what they do different from taking classified information and just leaving it on the street for anyone to find?  I do not see that Wikileaks qualifies as a &#8220;publisher&#8221; and thus for First Amendment protection.</p>
+</div>        </li>      </ul>    </li>    <li class="commententry   "  >    <a name="comment-646634"></a>      <ul class="unitList unitType-thread">        <li class="unit first">          <ul class="cMetadata metadataType-postInfo">             <li class="postStamp">2:50 pm July 27, 2010</li>            <li class="posterName">                <cite>Walter Ferine</cite> wrote:            </li>          </ul>          <div class="commentContent"><p>You all can argue the fine legal points of prosecuting an foreign registered business but I am more concerned about the ramifications for our troops in that part of the world. They are already constrained by a too strict rules of engagement policy that is costing lives. Now this criminal act will further exacerbate the danger these men an women now face. What kind of nation sacrifices it&#8217;s people and promotes the dissemination of illegally obtained secret intelligence information? Wrong un-winnable war? BS!!!!!!!!!!!!!!&#8230;We pull out and the Muslim leadership will come after the Jude o /Christian counties in a slow but effective manner and wreak chaos. Then what will we do? Sing Kumbayah songs and hope some Messianic ethnic politician will save us all?</p>
+</div>        </li>      </ul>    </li>  </ul></div>                    </div>
+                    <div class="col4wide margin-left colOverFlowTruncated">
+                        <div id="rightRail" class="rightRail">
+                            <div id="ad_370456761" class="adSummary advertisement" > </div>    <div class="searchform">
+        <form action="http://blogs.wsj.com/law/" method="get" id="blgSearchFrm">
+            <label for="s">Search Law Blog</label>
+            <input type="text" id="blog_search_query" class="formtext unUsed" name="s" value="Search Law Blog" size="30"/>
+                        <input type="submit" value="SEARCH" class="searchsubmit"/>
+                    </form>
+    </div>
+<div class="headlineSummary about">  <div class="headerBox">    <h3>About Law Blog</h3>    <ul class="tools">      <li class="listLbl">Follow Us:</li>      <li class="rssIcon"><a href="http://blogs.wsj.com/law/feed/" ><span>RSS</span></a></li>      <li class="twitterIcon"><a class="aptureNoEnhance" href="http://twitter.com/wsjlawblog" rel="nofollow"><span>twitter</span></a>      <li class="facebookIcon"><a href="http://www.facebook.com/pages/WSJ-Law-Blog/174031386899" rel="nofollow"><span>facebook</span></a>    </ul>  </div>  <ul class="newsItem">    <li>      <div class="newsImage">        <img src="http://s.wsj.net/img/Ashby-Jones-colhed.gif" alt="" />      </div>      <p><p>The Wall Street Journal&#8217;s Law Blog covers the notable legal cases, trends and personalities of interest to the business community. Ashby Jones is the lead writer of the blog, which includes contributions from reporters of the WSJ&#8217;s Law Bureau, led by Joanna Chung. Ashby, who has covered the legal and business worlds for over a decade as a journalist, has also worked as a litigator at a law firm and clerked for a federal judge. Have a comment or tip? Write to <a href="mailto:lawblog@wsj.com">lawblog@wsj.com</a>.</p>
+</p>    </li>  </ul></div><div class="headlineSummary lexisNexisLegal col4wide">
+	<h3>Search Legal Notices</h3>
+	
+	<ul class="legalNotice">
+		<li><p>Complete one or more of the following fields</p> 
+      <div class="formWrap_b">
+        <form  method="post" action="http://www.mypublicnotices.com/wsj/PublicNotice.asp?Page=SearchResults" name="publicNotice_form" target="_blank">
+          <label>Date Range</label><br />
+          <select name="DateRange">
+  		      <option value="">All Dates</option>
+  		      <option value="Today">Today</option>
+  		      <option value="Last7">Last 7 days</option>
+  		      <option value="Last30">Last 30 days</option>
+  		      <option value="Last60">Last 60 days</option>
+  	      </select><br />
+          
+          <label>Category</label><br />
+          <select name="Category">
+  	        <option value="-1">All Categories</option>
+  	        <option value="1">Auction and Sale</option>
+
+  	        <option value="2">Business and Corporate</option>
+  	        <option value="3">Court Proceeding</option>
+  	        <option value="4">Election and Legislation</option>
+  	        <option value="18">Foreclosure-Notice</option>
+  	        <option value="17">Foreclosure-Sale</option>
+  	        <option value="5">Forfeiture</option>
+
+  	        <option value="6">License and Permit</option>
+  	        <option value="7">Meeting</option>
+  	        <option value="0">Miscellaneous</option>
+  	        <option value="12">Planning & Land-Use</option>
+  	        <option value="10">Probate, Guardianship and Adoption</option>
+  	        <option value="9">Public Finance and Taxation</option>
+
+  	        <option value="14">Purchasing and Procurement</option>
+          </select><br />
+
+          <label>Keywords:</label><br />
+          <input name="keywords" type="text" id="keywords" value="Enter Keyword Here" />
+          <label>
+	          <input type="image" value="Submit" src="/img/searchButton.gif" alt="Search Legal Notices" />
+          </label>
+        </form>
+      </div>
+      <p>Need help? View our <a target="_blank" href="http://www.mypublicnotices.com/PublicNotice/Popups/SearchTips.asp?Cobrand=wsj">Search Tips</a></p>
+    </li>	
+	</ul>
+</div><div id="mostRecentTab_396389941" class="headlineSummary mostPopular">  <h3>Most Popular</h3>  <ul class="tabBar">      <li id="mostRecentTab_396389941_tab_0" class="tab first selectedTab"><a href="#">Read</a></li>      <li id="mostRecentTab_396389941_tab_1" class="tab "><a href="#">Commented</a></li>      <li id="mostRecentTab_396389941_tab_2" class="tab "><a href="#">All Blogs</a></li>  </ul><ul id="mostRecentTab_396389941_panel_0" class="listItems flashlineList "><li class="listFirst ">  <span>1.</span>  <h5><a href="http://blogs.wsj.com/law/2010/12/22/new-sheriff-of-wall-street-appoints-legal-team/"></a></h5><h2><a href="http://blogs.wsj.com/law/2010/12/22/new-sheriff-of-wall-street-appoints-legal-team/">New Sheriff Of Wall Street Appoints Legal Team</a></h2></li><li class="">  <span>2.</span>  <h5><a href="http://blogs.wsj.com/law/2010/12/22/on-the-great-montana-marijuana-mutiny/"></a></h5><h2><a href="http://blogs.wsj.com/law/2010/12/22/on-the-great-montana-marijuana-mutiny/">On the Great Montana Marijuana Mutiny</a></h2></li><li class="">  <span>3.</span>  <h5><a href="http://blogs.wsj.com/law/2010/12/22/lawyers-to-feinberg-stop-bad-mouthing-us/"></a></h5><h2><a href="http://blogs.wsj.com/law/2010/12/22/lawyers-to-feinberg-stop-bad-mouthing-us/">Lawyers to Feinberg: Stop Bad-Mouthing Us</a></h2></li><li class="">  <span>4.</span>  <h5><a href="http://blogs.wsj.com/law/2010/12/22/good-with-gaap-a-preview-of-ernst-youngs-legal-defense/"></a></h5><h2><a href="http://blogs.wsj.com/law/2010/12/22/good-with-gaap-a-preview-of-ernst-youngs-legal-defense/">Good With GAAP: A Preview of Ernst &amp; Young's Legal Defense? </a></h2></li><li class="">  <span>5.</span>  <h5><a href="http://blogs.wsj.com/law/2010/12/21/despite-ailing-wife-judge-denies-former-govs-request-for-early-release/"></a></h5><h2><a href="http://blogs.wsj.com/law/2010/12/21/despite-ailing-wife-judge-denies-former-govs-request-for-early-release/">Despite Ailing Wife, Judge Denies Former Gov's Request for Early Release</a></h2></li></ul><ul id="mostRecentTab_396389941_panel_1" class="listItems flashlineList hidden"><li class="listFirst ">  <span>1.</span><h2><a href="http://blogs.wsj.com/law/2010/12/22/on-the-great-montana-marijuana-mutiny/">On the Great Montana Marijuana Mutiny</a><small class="comment">35 Comments</small></h2></li><li class="">  <span>2.</span><h2><a href="http://blogs.wsj.com/law/2010/12/21/heads-up-supreme-court-arlen-specter-minces-no-words-on-his-way-out/">Heads Up, Supreme Court! Specter Minces No Words on His Way Out</a><small class="comment">30 Comments</small></h2></li><li class="">  <span>3.</span><h2><a href="http://blogs.wsj.com/law/2010/12/22/dont-ask-dont-tell-now-part-of-history/">'Don't Ask, Don't Tell' Now Part of History</a><small class="comment">25 Comments</small></h2></li><li class="">  <span>4.</span><h2><a href="http://blogs.wsj.com/law/2010/12/20/is-it-high-time-for-a-repeal-amendment-part-ii/">Is it High Time for a Repeal Amendment? (Part II)</a><small class="comment">19 Comments</small></h2></li><li class="">  <span>5.</span><h2><a href="http://blogs.wsj.com/law/2010/12/20/in-asking-for-trial-delay-auburn-fan-barks-up-the-right-tree/">In Trial-Scheduling Request, Auburn Fan Barks Up the Right Tree</a><small class="comment">19 Comments</small></h2></li></ul><ul id="mostRecentTab_396389941_panel_2" class="listItems flashlineList hidden"><li class="listFirst ">  <span>1.</span><h2><a href="http://blogs.wsj.com/speakeasy/2010/12/22/does-god-exist-ricky-gervais-takes-your-questions/">Does God Exist? Ricky Gervais Takes Your Questions</a></h2></li><li class="">  <span>2.</span><h2><a href="http://blogs.wsj.com/digits/2010/12/22/skype-down-for-millions-of-users/">Skype Down for Millions of Users</a></h2></li><li class="">  <span>3.</span><h2><a href="http://blogs.wsj.com/digits/2010/12/22/everything-the-internet-knows-about-me-because-i-asked-it-to/">Everything the Internet Knows About Me (Because I Asked It To)</a></h2></li><li class="">  <span>4.</span><h2><a href="http://blogs.wsj.com/marketbeat/2010/12/22/apple-vs-netflix-the-apple-tv-read-through/">Apple vs. Netflix: The Apple TV Read Through</a></h2></li><li class="">  <span>5.</span><h2><a href="http://blogs.wsj.com/economics/2010/12/21/census-2010-which-states-gained-house-seats-which-states-lost/">2010 Census Results: Which States Gained House Seats, Which States Lost</a></h2></li></ul><div class="metaBox metaboxType-sponsor"> </div></div><div class="headlineSummary" style="margin: 0; background-color: #f3f5f8; border-top-color: #b7b7b7;">
+<h3><a href="http://onespot.wsj.com/law/popular/" style="background: none;">Popular Law Stories from Around the Web</a></h3>
+</div><div style="width:377px"><script src="http://onespot.wsj.com/law/breaking-include.embed" type="text/javascript" language="javascript"></script></div><div style="clear: both;height:12px"> </div><div class="headlineSummary relatedCollection">    <h3>Also on WSJ Blogs</h3>    <ul class="newsItem">        <li ><h5>METROPOLIS</h5>            <h2><a href="http://blogs.wsj.com/metropolis/2010/12/26/bad-news-before-good-news/">Breaking Down the Jets&#8217; Loss to the Bears</a></h2>        </li>        <li ><h5>WASHINGTON WIRE</h5>            <h2><a href="http://blogs.wsj.com/washwire/2010/12/26/coburn-sees-dire-scenario-if-debt-isnt-cut/">Coburn Sees Dire Scenario on Debt</a></h2>        </li>        <li ><h5>SPEAKEASY</h5>            <h2><a href="http://blogs.wsj.com/speakeasy/2010/12/26/jeff-bridges-dominates-weekend-box-office/">Jeff Bridges Owns Box Office</a></h2>        </li>        <li ><h5>DRIVER'S SEAT</h5>            <h2><a href="http://blogs.wsj.com/drivers-seat/2010/12/26/is-matte-finish-the-new-black-for-cars/">Is Matte Finish The &#8216;New Black&#8217; For Cars?</a></h2>        </li>        <li ><h5>INDIA REAL TIME</h5>            <h2><a href="http://blogs.wsj.com/indiarealtime/2010/12/25/what-they-said-government-opposition-tussle/">What They Said: Congress vs. BJP</a></h2>        </li>    </ul></div>                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="reallywide clear-left"><div id="footer"><div id="slice" class="hslice" style="display:none;">
+	<div class="entry-title">WSJ Web Slice</div>
+    <div class="entry-content">CONTENT</div>
+    <a rel="entry-content" href="http://ie8.smoothfusion.com/WallStreetJournal/view.aspx">LINKS TO ACTUAL PAGE CONTAINING WEB SLICE FUNCTIONALITY.</a>
+    <a rel="bookmark"  target="_blank" href="http://www.wallstreetjournal.com" ></a>
+    <span class="ttl" style="display: none;">15</span>
+</div><div id="footerWrapper" class="pagefooter clear-left">
+<ul class="footer_columns">
+
+<li class="top">
+<a href="#top" class="backup">back to top</a>
+<a href="http://online.wsj.com" class="logo">&nbsp;</a>
+</li>
+
+<li class="listFirst">
+
+<h4>WSJ.com Account:</h4>
+<ul>
+	<li><a href="http://online.wsj.com/acct/setup_account?mod=WSJ_footer" rel="nofollow">My Account</a></li>
+	<li><a href="http://online.wsj.com/acct/personal?mod=WSJ_footer" rel="nofollow">Subscriber Billing Info</a></li>
+</ul>
+
+<h4 class="margin-top">Create an Account:</h4>
+<ul>
+	<li><a href="http://commerce.wsj.com/entitlements/release_freereg_rel3/login.shtml?roles=FREEREG-BASE&mod=WSJ_footer" rel="nofollow">Register for Free</a></li>
+	<li><a  class="subscribeNow" href="https://order.wsj.com/sub/xdef/053/dec09_OOT32" rel="nofollow">Subscribe to WSJ.com</a></li>
+				<li><a  class="subscribeNow" href="https://buy.wsj.com/shopandbuy/order/subscribe.jsp?trackCode=aaabt0gs" rel="nofollow">Sign up for WSJ Professional</a></li>
+</ul>
+
+<h4 class="margin-top">Help &amp; Information Center:</h4>
+<ul>
+	<li><a href="http://help.wsj.com/?mod=WSJ_footer" target="_blank">Help</a></li>
+	<li><a href="http://help.wsj.com/customer-service/?mod=WSJ_footer">Customer Service</a></li>
+	<li><a rel="nofollow" href="http://help.wsj.com/contact-us/?mod=WSJ_footer">Contact Us</a></li>
+	<li><a href="http://help.wsj.com/new-on-wsjcom/?mod=WSJ_footer">New on WSJ.com</a></li>
+	<li><a href="http://online.wsj.com/tour?mod=WSJ_footer">Tour the new Journal</a></li>
+</ul>
+</li>
+
+<li class="column">
+<h4>About:</h4>
+<ul>
+	<li><a rel="nofollow" href="http://public.wsj.com/partner/?mod=WSJ_footer">News Licensing</a></li>
+	<li><a rel="nofollow" href="http://www.wsjdigital.com/?mod=WSJ_footer">Advertising</a></li>
+<li><a href="http://www.wsjlocal.com/?mod=WSJ_footer" rel="nofollow">Advertise Locally</a></li>
+	<li><a href="http://online.wsj.com/conferences?mod=WSJ_footer">Conferences</a></li>
+	<li><a rel="nofollow" href="http://www.dj.com/?mod=WSJ_footer">About Dow Jones</a></li>
+	<li><a rel="nofollow" href="http://online.wsj.com/public/page/privacy_policy.html?mod=WSJ_footer" >Privacy Policy - Updated</a></li>
+	<li><a rel="nofollow" href="http://online.wsj.com/public/page/subscriber_agreement.html?mod=WSJ_footer">Subscriber Agreement &amp; Terms of Use - Updated</a></li>
+	<li><a rel="nofollow" href="http://online.wsj.com/public/page/copyright_policy.html?mod=WSJ_footer">Copyright Policy</a></li>
+	<li><a href="http://www.dowjones.com/Careers/Careers.htm?mod=WSJ_footer" rel="nofollow">Jobs at WSJ.com</a></li>
+	<li id="futureLeadProgLink" style="display:none;"><a href="http://www.wsj-asia.com/flp/about.html?mod=WSJ_footer" rel="nofollow">Future Leadership Program</a></li>
+</ul>
+</li>
+
+<li class="column">
+<h4>WSJ.com:</h4>
+<ul>
+	<li><a href="http://online.wsj.com/public/page/sitemap.html?page=Site+Map&mod=WSJ_footer">Site Map</a></li>
+	<li><a href="http://online.wsj.com">Home</a></li>
+	<li><a href="http://online.wsj.com/public/page/news-global-world.html?mod=WSJ_footer">World</a></li>
+	<li><a href="http://online.wsj.com/public/page/news-world-business.html?mod=WSJ_footer">U.S.</a></li>
+<li><a href="http://online.wsj.com/public/page/new-york-main.html?mod=WSJ_footer">New York</a></li>
+	<li><a href="http://online.wsj.com/public/page/news-business-us.html?mod=WSJ_footer">Business</a></li>
+	<li><a href="http://online.wsj.com/public/page/news-financial-markets-stock.html?mod=WSJ_footer">Markets</a></li>
+	<li><a class="internalOnly marketDataLink" href="http://online.wsj.com/mdc/public/page/marketsdata.html?mod=WSJ_footer">Market Data</a></li>
+	<li><a href="http://online.wsj.com/public/page/news-tech-technology.html?mod=WSJ_footer">Tech</a></li>
+	<li><a href="http://online.wsj.com/public/page/news-personal-finance.html?mod=WSJ_footer">Personal Finance</a></li>
+	<li><a href="http://online.wsj.com/public/page/news-lifestyle-arts-entertainment.html?mod=WSJ_footer">Life &amp; Culture</a></li>
+	<li><a href="http://online.wsj.com/public/page/news-opinion-commentary.html?mod=WSJ_footer">Opinion</a></li>
+	<li><a href="http://online.wsj.com/public/page/news-autos-automotive.html?mod=WSJ_footer">Autos</a></li>
+	<li><a href="http://online.wsj.com/public/page/news-career-jobs.html?mod=WSJ_footer">Careers</a></li>
+	<li><a href="http://online.wsj.com/public/page/news-real-estate-homes.html?mod=WSJ_footer">Real Estate</a></li>
+	<li><a href="http://online.wsj.com/public/page/news-small-business-marketing.html?mod=WSJ_footer">Small Business</a></li>
+	<li><a href="http://student.wsj.com?mod=WSJ_footer">Student Journal</a></li>
+	<li><a rel="nofollow" href="http://online.wsj.com/article/Corrections.html?mod=WSJ_footer">Corrections</a></li>
+</ul>
+</li>
+
+<li class="column">
+<h4>Tools &amp; Formats:</h4>
+<ul>
+	<li><a class="internalOnly todaysPaperLink" href="http://online.wsj.com/itp?mod=WSJ_footer">Today's Paper</a></li>
+	<li><a href="http://online.wsj.com/video">Video Center</a></li>
+	<li><a href="http://online.wsj.com/public/page/news-interactive-features-trends.html?mod=WSJ_footer">Graphics</a></li>
+	<li><a href="http://online.wsj.com/page/columnists.html?mod=WSJ_footer">Columns</a></li>
+	<li><a href="http://blogs.wsj.com/?mod=WSJ_footer">Blogs</a></li>
+	<li><a href="http://topics.wsj.com/?mod=WSJ_footer">Topics</a></li>
+	<li><a href="http://online.wsj.com/public/page/guides.html?mod=WSJ_footer">Guides</a></li>
+	<li><a rel="nofollow" href="http://online.wsj.com/ksemail?mod=WSJ_footer">Alerts</a></li>
+	<li><a rel="nofollow" href="http://online.wsj.com/email?mod=WSJ_footer">Newsletters</a></li>
+	<li><a href="http://online.wsj.com/public/page/mobile.html?mod=WSJ_footer">Mobile</a></li>
+	<li><a href="http://online.wsj.com/public/page/tablet.html?mod=WSJ_footer">Tablet Edition</a></li>
+	<li><a href="http://online.wsj.com/public/page/podcast.html?mod=WSJ_footer">Podcasts</a></li>
+	<li><a class="rss" href="http://online.wsj.com/rss?mod=WSJ_footer">RSS Feeds</a></li>
+	<li><a href="http://online.wsj.com/community?mod=WSJ_footer">Journal Community</a>
+		<ul class="footer_sub_ul">
+			<li class="messageCenterLink" style="display:none"><a  rel="nofollow" href="http://online.wsj.com/community/member/mailbox?mod=WSJ_footer">- Message Center</a></li>
+		</ul>
+	</li>
+	<li><a class="icon_twitter" href="http://online.wsj.com/public/page/twitter.html?mod=WSJ_footer"  >WSJ on Twitter</a></li>
+<li><a class="icon_facebook" href="http://www.facebook.com/wsjonline?mod=WSJ_footer" target="_blank">WSJ on Facebook</a></li>
+<li><a class="icon_foursquare" href="http://online.wsj.com/foursquare">WSJ on Foursquare</a></li>
+	<li><a class="internalOnly myOnlineJournalLink" href="http://online.wsj.com/myonlinejournal?mod=WSJ_footer">My Journal</a></li>
+<li><a href="http://online.wsj.com/wsjportfolio?mod=WSJ_Footer">Portfolio</a></li>
+</ul>
+</li>
+
+<li class="network">
+<h4><strong><img src="http://s.wsj.net/img/footer_logo_small.png" alt="The Wall Street Journal" /></strong><span>Digital Network</span></h4>
+<ul>
+<li><a href="http://online.wsj.com">WSJ.com</a></li>
+<li><a href="http://www.marketwatch.com/?siteid=wsj&dist=freedjsiteslink&mod=WSJ_footer">Marketwatch.com</a></li>
+<li><a  href="http://online.barrons.com/public/main?mod=WSJ_footer">Barrons.com</a></li>
+<li><a href="http://www.smartmoney.com/?mod=WSJ_footer">SmartMoney.com</a></li>
+<li><a href="http://allthingsd.com/?reflink=DNH_EUR&mod=WSJ_footer">AllThingsD.com</a></li>
+<li class="fins"><a href="http://www.fins.com/?mod=WSJ_footer">FINS:</a> <a href="http://www.fins.com/finance/?mod=WSJ_footer">Finance,</a> <a href="http://it-jobs.fins.com/?mod=WSJ_footer">IT jobs,</a> <a href="http://sales-jobs.fins.com/?mod=WSJ_footer">Sales jobs</a></li>
+<li><a  href="http://bigcharts.marketwatch.com/?mod=WSJ_footer">BigCharts.com</a></li>
+<!--<li id="feerLink" style="display:none;"><a  href="http://www.feer.com/?mod=WSJ_footer">Far Eastern Economic Review</a></li>-->
+<li><a href="http://vse.marketwatch.com/Game/Homepage.aspx?mod=WSJ_footer">Virtual Stock Exchange</a></li><li><a rel="nofollow" href="http://wsjradio.com?mod=WSJ_footer">WSJ Radio</a></li>
+<li><a href="http://professor.wsj.com?mod=WSJ_footer">ProfessorJournal.com</a></li>
+<li><a id="usEditionFooter" href="http://online.wsj.com/home-page?mod=WSJ_footer">WSJ U.S. Edition</a></li>
+<li><a href="http://asia.wsj.com/home-page?mod=WSJ_footer">WSJ Asia Edition</a></li>
+<li><a href="http://europe.wsj.com/home-page?mod=WSJ_footer">WSJ Europe Edition</a></li>
+<li><a href="http://india.wsj.com/home-page?mod=WSJ_footer">WSJ India Page</a></li>
+<li class="foreignLang"><h4>Foreign language editions:</h4></li>
+<li><a href="http://cn.wsj.com/gb/index.asp?mod=WSJ_footer" target="_blank">WSJ Chinese</a></li>
+<li><a href="http://jp.wsj.com/?mod=WSJ_footer" target="_blank">WSJ Japanese</a></li>
+<li><a href="http://online.wsj.com/portuguese?mod=WSJ_footer">WSJ Portuguese</a></li>
+<li><a href="http://online.wsj.com/americas?mod=WSJ_footer">WSJ Spanish</a></li>
+</ul>
+</li>
+</ul>
+<div class="footnotes">
+<small class="acapLogo"><a href="http://the-acap.org/acap-enabled.php?mod=WSJ_footer" target="_blank"><span>ACAP Enabled</span></a></small>
+<small class="copyright">Copyright &copy;2010 Dow Jones &amp; Company, Inc. All Rights Reserved</small>
+
+</div>
+</div>
+<div id="FIMTracking"  class="hidden"></div>
+</div>
+
+
+</div>
+    </div>
+        <div id="fb-root"></div>
+
+</body>
+<script type="text/javascript" src="http://online.wsj.com/public/page/0_0_W0_1300_BLOGS-4.html"></script>
+<script type="text/javascript" src="http://commerce.wsj.com/epiton/js/kernel.js"></script>
+<script type="text/javascript" src="http://sj.wsj.net/blogs/js/wsj_blogs.js?a"></script>
+
+<script type="text/javascript">
+if (typeof current_path == 'undefined') {
+  current_path = '/';
+}
+var _sf_async_config={uid:8900,domain:"blogs.wsj.com",path:current_path};
+(function(){
+  function loadChartbeat() {
+    window._sf_endpt=(new Date()).getTime();
+    var e = document.createElement('script');
+    e.setAttribute('language', 'javascript');
+    e.setAttribute('type', 'text/javascript');
+    e.setAttribute('src',
+       (("https:" == document.location.protocol) ? "https://s3.amazonaws.com/" : "http://") +
+       "static.chartbeat.com/js/chartbeat.js");
+    document.body.appendChild(e);
+  }
+  var oldonload = window.onload;
+  window.onload = (typeof window.onload != 'function') ?
+     loadChartbeat : function() { oldonload(); loadChartbeat(); };
+})();
+
+</script><script language="javascript1.2">clickURL="http://blogs.wsj.com/law/2010/07/26/pentagon-papers-ii-on-wikileaks-and-the-first-amendment/?blog_id=14&post_id=31631";clickTitle="Pentagon Papers II? On WikiLeaks and the First Amendment";</script><script language="javascript1.2" src="http://btn.clickability.com/104861/button_1/button.js"></script>
+<script type="text/javascript">
+  
+    dj.blogs.util.renderHeaderAd();
+
+wsjblog_next_prev_nav();
+new dj.blogs.ArticleTools( "http://blogs.wsj.com/law/2010/07/26/pentagon-papers-ii-on-wikileaks-and-the-first-amendment/","Pentagon Papers II? On WikiLeaks and the First Amendment","0","104861","14","31631" );
+dj.blogs.AdManager.createAd(
+                            'sponsor_tools', 
+                            'ad_1490772248',
+                            'iframe', 
+                            { width: 234, 
+                              height: 31,
+                              size:'234x31',
+                              site:'interactive.wsj.com', 
+                              zone:'articletools_sponsor',
+                              adClass:'A',
+                              title: 1490772248,
+                              meta:'',
+                              category:'',
+                              frequency:'480',
+                              cacheId:'',
+                              classEnabled:'true',
+                              classValue:'adSummary advertisement',
+                              styleValue:'',
+                              conditionType:'',
+                              conditionValue:'',
+                              conditionalString:'',
+                              registerKey:'article' });
+new dj.blogs.CommentForm(); 
+dj.blogs.AdManager.createAd(
+                            'standard_top', 
+                            'ad_370456761',
+                            'js', 
+                            { width: 300, 
+                              height: 250,
+                              size:'300x250,336x280,300x600,336x850',
+                              site:'interactive.wsj.com', 
+                              zone:'blog_law',
+                              adClass:'A',
+                              title: 370456761,
+                              meta:'',
+                              category:'',
+                              frequency:'480',
+                              cacheId:'',
+                              classEnabled:'true',
+                              classValue:'adSummary advertisement',
+                              styleValue:'',
+                              conditionType:'',
+                              conditionValue:'',
+                              conditionalString:''});
+new dj.blogs.MostRecentTab( '396389941', '0', new Array(0,1,2) );
+</script>
+
+<script src="http://stats.wordpress.com/e-201051.js" type="text/javascript"></script>
+<script type="text/javascript">
+var wp_st_go = {blog:'4200088',v:'ext',post:'31631'};
+st_go({blog:'4200088',v:'ext',post:'31631'});
+var load_cmc = function(){linktracker_init(4200088,31631,2);};
+if ( typeof addLoadEvent != 'undefined' ) addLoadEvent(load_cmc);
+else load_cmc();
+</script>
+<script type="text/javascript">
+	  var tracking;
+	  var proomni = new dj.blogs.util.omni(function(){ 
+      if (this.isProSubscriber() || this.isEntSubscriber()) {
+         var iswsjpro = true;
+      } else {
+         var iswsjpro = false;
+      }
+      tracking = new dj.blogs.Tracking(this);
+      tracking.blogName    = 'Lawblogblog';
+      tracking.title       = 'Pentagon Papers II? On WikiLeaks and the First Amendment_article';
+      tracking.section     = 'Business';
+      tracking.subsection  = 'Law';
+      tracking.ad_zone     = 'blog_law';
+      tracking.publishTime = '2010-07-26 17:00';
+      tracking.pageType    = 'article';
+      tracking.firePixel();   });
+     
+</script>
+<script>
+       window.fbAsyncInit = function() {
+        FB.init({
+          appId: "67fc5e01d68cf35eba52297f5bf2ed3d",
+          xfbml: false
+        });
+
+        FB.XFBML.parse(document.getElementById("aFbLikeTop"));
+        FB.XFBML.parse(document.getElementById("aFbLikeBottom"));
+        FB.XFBML.parse(document.getElementById("postList"));
+        
+       };
+       (function() {
+        var e = document.createElement('script'); e.async = true;
+        e.src = document.location.protocol + '//connect.facebook.net/en_US/all.js';
+        document.getElementById('fb-root').appendChild(e);
+       }());
+</script>
+
+</html>
+
+<!-- Dynamic Page Served (once) in 0.090 seconds -->

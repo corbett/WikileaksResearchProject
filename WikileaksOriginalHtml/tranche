@@ -1,0 +1,464 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" dir="ltr">
+<head>
+<title>tranche - Wiktionary</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Style-Type" content="text/css" />
+<meta name="generator" content="MediaWiki 1.16wmf4" />
+<link rel="alternate" type="application/x-wiki" title="Edit" href="/w/index.php?title=tranche&amp;action=edit" />
+<link rel="edit" title="Edit" href="/w/index.php?title=tranche&amp;action=edit" />
+<link rel="apple-touch-icon" href="http://en.wiktionary.org/apple-touch-icon.png" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wiktionary (en)" />
+<link rel="copyright" href="http://creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wiktionary Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="http://bits.wikimedia.org/skins-1.5/vector/main-ltr.css?283-17" type="text/css" media="screen" />
+<link rel="stylesheet" href="http://bits.wikimedia.org/skins-1.5/common/shared.css?283-17" type="text/css" media="screen" />
+<link rel="stylesheet" href="http://bits.wikimedia.org/skins-1.5/common/commonPrint.css?283-17" type="text/css" media="print" />
+<link rel="stylesheet" href="http://bits.wikimedia.org/w/extensions/UsabilityInitiative/css/combined.min.css?117" type="text/css" media="all" />
+<link rel="stylesheet" href="http://bits.wikimedia.org/w/extensions/UsabilityInitiative/css/vector/jquery-ui-1.7.2.css?1.7.2y" type="text/css" media="all" />
+<link rel="stylesheet" href="/w/index.php?title=MediaWiki:Common.css&amp;usemsgcache=yes&amp;ctype=text%2Fcss&amp;smaxage=2678400&amp;action=raw&amp;maxage=2678400" type="text/css" media="all" />
+<link rel="stylesheet" href="/w/index.php?title=MediaWiki:Print.css&amp;usemsgcache=yes&amp;ctype=text%2Fcss&amp;smaxage=2678400&amp;action=raw&amp;maxage=2678400" type="text/css" media="print" />
+<link rel="stylesheet" href="/w/index.php?title=MediaWiki:Handheld.css&amp;usemsgcache=yes&amp;ctype=text%2Fcss&amp;smaxage=2678400&amp;action=raw&amp;maxage=2678400" type="text/css" media="handheld" />
+<link rel="stylesheet" href="/w/index.php?title=MediaWiki:Vector.css&amp;usemsgcache=yes&amp;ctype=text%2Fcss&amp;smaxage=2678400&amp;action=raw&amp;maxage=2678400" type="text/css" media="all" />
+<link rel="stylesheet" href="/w/index.php?title=-&amp;action=raw&amp;maxage=2678400&amp;gen=css" type="text/css" media="all" />
+<script type="text/javascript">
+var skin="vector",
+stylepath="http://bits.wikimedia.org/skins-1.5",
+wgUrlProtocols="http\\:\\/\\/|https\\:\\/\\/|ftp\\:\\/\\/|irc\\:\\/\\/|gopher\\:\\/\\/|telnet\\:\\/\\/|nntp\\:\\/\\/|worldwind\\:\\/\\/|mailto\\:|news\\:|svn\\:\\/\\/",
+wgArticlePath="/wiki/$1",
+wgScriptPath="/w",
+wgScriptExtension=".php",
+wgScript="/w/index.php",
+wgVariantArticlePath=false,
+wgActionPaths={},
+wgServer="http://en.wiktionary.org",
+wgCanonicalNamespace="",
+wgCanonicalSpecialPageName=false,
+wgNamespaceNumber=0,
+wgPageName="tranche",
+wgTitle="tranche",
+wgAction="view",
+wgArticleId=69363,
+wgIsArticle=true,
+wgUserName=null,
+wgUserGroups=null,
+wgUserLanguage="en",
+wgContentLanguage="en",
+wgBreakFrames=false,
+wgCurRevisionId=10883535,
+wgVersion="1.16wmf4",
+wgEnableAPI=true,
+wgEnableWriteAPI=true,
+wgSeparatorTransformTable=["", ""],
+wgDigitTransformTable=["", ""],
+wgMainPageTitle="Wiktionary:Main Page",
+wgFormattedNamespaces={"-2": "Media", "-1": "Special", "0": "", "1": "Talk", "2": "User", "3": "User talk", "4": "Wiktionary", "5": "Wiktionary talk", "6": "File", "7": "File talk", "8": "MediaWiki", "9": "MediaWiki talk", "10": "Template", "11": "Template talk", "12": "Help", "13": "Help talk", "14": "Category", "15": "Category talk", "90": "Thread", "91": "Thread talk", "92": "Summary", "93": "Summary talk", "100": "Appendix", "101": "Appendix talk", "102": "Concordance", "103": "Concordance talk", "104": "Index", "105": "Index talk", "106": "Rhymes", "107": "Rhymes talk", "108": "Transwiki", "109": "Transwiki talk", "110": "Wikisaurus", "111": "Wikisaurus talk", "114": "Citations", "115": "Citations talk", "116": "Sign gloss", "117": "Sign gloss talk"},
+wgNamespaceIds={"media": -2, "special": -1, "": 0, "talk": 1, "user": 2, "user_talk": 3, "wiktionary": 4, "wiktionary_talk": 5, "file": 6, "file_talk": 7, "mediawiki": 8, "mediawiki_talk": 9, "template": 10, "template_talk": 11, "help": 12, "help_talk": 13, "category": 14, "category_talk": 15, "thread": 90, "thread_talk": 91, "summary": 92, "summary_talk": 93, "appendix": 100, "appendix_talk": 101, "concordance": 102, "concordance_talk": 103, "index": 104, "index_talk": 105, "rhymes": 106, "rhymes_talk": 107, "transwiki": 108, "transwiki_talk": 109, "wikisaurus": 110, "wikisaurus_talk": 111, "citations": 114, "citations_talk": 115, "sign_gloss": 116, "sign_gloss_talk": 117, "ws": 110, "wt": 4, "image": 6, "image_talk": 7},
+wgSiteName="Wiktionary",
+wgCategories=["French derivations", "Old French derivations", "English nouns", "Finance", "French nouns", "French feminine nouns", "French countable nouns", "French verb forms"],
+wgDBname="enwiktionary",
+wgMWSuggestTemplate="http://en.wiktionary.org/w/api.php?action=opensearch\x26search={searchTerms}\x26namespace={namespaces}\x26suggest",
+wgSearchNamespaces=[0],
+wgMWSuggestMessages=["with suggestions", "no suggestions"],
+wgRestrictionEdit=[],
+wgRestrictionMove=[],
+wgCollapsibleNavBucketTest=false,
+wgCollapsibleNavForceNewVersion=false,
+wgVectorPreferences={"collapsiblenav": {"enable": 1}, "editwarning": {"enable": 1}, "simplesearch": {"enable": 1, "disablesuggest": 0}},
+wgVectorEnabledModules={"collapsiblenav": true, "collapsibletabs": true, "editwarning": true, "expandablesearch": false, "footercleanup": false, "simplesearch": true},
+Geo={"city": "", "country": ""},
+wgNoticeProject="wiktionary";
+</script><script src="http://bits.wikimedia.org/skins-1.5/common/wikibits.js?283-17" type="text/javascript"></script>
+<script type="text/javascript" src="http://bits.wikimedia.org/skins-1.5/common/jquery.min.js?283-17"></script>
+<script src="http://bits.wikimedia.org/skins-1.5/common/ajax.js?283-17" type="text/javascript"></script>
+<script src="http://bits.wikimedia.org/skins-1.5/common/mwsuggest.js?283-17" type="text/javascript"></script>
+<script src="http://bits.wikimedia.org/w/extensions/UsabilityInitiative/js/plugins.combined.min.js?283-17" type="text/javascript"></script>
+<script src="http://bits.wikimedia.org/w/extensions/UsabilityInitiative/Vector/Vector.combined.min.js?283-17" type="text/javascript"></script>
+<script type="text/javascript">mw.usability.addMessages({'vector-collapsiblenav-more':'More languages','vector-editwarning-warning':'Leaving this page may cause you to lose any changes you have made.\nIf you are logged in, you can disable this warning in the \"Editing\" section of your preferences.','vector-simplesearch-search':'Search','vector-simplesearch-containing':'containing...'});</script>
+<script src="/w/index.php?title=Special:BannerController&amp;cache=/cn.js&amp;283-17" type="text/javascript"></script>
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/skins-1.5/vector/csshover.htc")}</style><![endif]-->
+<script src="/w/index.php?title=-&amp;action=raw&amp;gen=js&amp;useskin=vector&amp;283-17" type="text/javascript"></script>
+
+<script type="text/javascript" src="/w/extensions/OggHandler/OggPlayer.js?11"></script>
+<script type="text/javascript">
+wgOggPlayer.msg = {"ogg-play": "Play", "ogg-pause": "Pause", "ogg-stop": "Stop", "ogg-no-player": "Sorry, your system does not appear to have any supported player software.\nPlease \x3ca href=\"http://www.mediawiki.org/wiki/Extension:OggHandler/Client_download\"\x3edownload a player\x3c/a\x3e.", "ogg-player-videoElement": "Native browser support", "ogg-player-oggPlugin": "Browser plugin", "ogg-player-cortado": "Cortado (Java)", "ogg-player-vlc-mozilla": "VLC", "ogg-player-vlc-activex": "VLC (ActiveX)", "ogg-player-quicktime-mozilla": "QuickTime", "ogg-player-quicktime-activex": "QuickTime (ActiveX)", "ogg-player-totem": "Totem", "ogg-player-kaffeine": "Kaffeine", "ogg-player-kmplayer": "KMPlayer", "ogg-player-mplayerplug-in": "mplayerplug-in", "ogg-player-thumbnail": "Still image only", "ogg-player-selected": "(selected)", "ogg-use-player": "Use player:", "ogg-more": "More…", "ogg-download": "Download file", "ogg-desc-link": "About this file", "ogg-dismiss": "Close", "ogg-player-soundthumb": "No player", "ogg-no-xiphqt": "You do not appear to have the XiphQT component for QuickTime.\nQuickTime cannot play Ogg files without this component.\nPlease \x3ca href=\"http://www.mediawiki.org/wiki/Extension:OggHandler/Client_download\"\x3edownload XiphQT\x3c/a\x3e or choose another player."};
+wgOggPlayer.cortadoUrl = "http://upload.wikimedia.org/jars/cortado.jar";
+wgOggPlayer.extPathUrl = "/w/extensions/OggHandler";
+</script>
+<style type="text/css">
+.ogg-player-options {
+	border: solid 1px #ccc;
+	padding: 2pt;
+	text-align: left;
+	font-size: 10pt;
+}
+</style></head>
+<body class="mediawiki ltr ns-0 ns-subject page-tranche skin-vector">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<!-- content -->
+		<div id="content">
+			<a id="top"></a>
+			<div id="mw-js-message" style="display:none;"></div>
+						<!-- sitenotice -->
+			<div id="siteNotice"><!-- centralNotice loads here --><script type="text/javascript" language="JavaScript">
+/* <![CDATA[ */
+document.writeln("\x3cdiv id=\"localNotice\"\x3e\x3cp\x3e \n\x3c/p\x3e\x3c/div\x3e");
+/* ]]> */
+</script></div>
+			<!-- /sitenotice -->
+						<!-- firstHeading -->
+			<h1 id="firstHeading" class="firstHeading">tranche</h1>
+			<!-- /firstHeading -->
+			<!-- bodyContent -->
+			<div id="bodyContent">
+				<!-- tagline -->
+				<div id="siteSub">Definition from Wiktionary, the free dictionary</div>
+				<!-- /tagline -->
+				<!-- subtitle -->
+				<div id="contentSub"></div>
+				<!-- /subtitle -->
+																<!-- jumpto -->
+				<div id="jump-to-nav">
+					Jump to: <a href="#mw-head">navigation</a>,
+					<a href="#p-search">search</a>
+				</div>
+				<!-- /jumpto -->
+								<!-- bodytext -->
+				<div class="disambig-see-also-2"><i>See also</i> <b><a href="/wiki/Tranche" title="Tranche">Tranche</a></b></div>
+<table id="toc" class="toc">
+<tr>
+<td>
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#English"><span class="tocnumber">1</span> <span class="toctext">English</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Etymology"><span class="tocnumber">1.1</span> <span class="toctext">Etymology</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Noun"><span class="tocnumber">1.2</span> <span class="toctext">Noun</span></a>
+<ul>
+<li class="toclevel-3 tocsection-4"><a href="#Related_terms"><span class="tocnumber">1.2.1</span> <span class="toctext">Related terms</span></a></li>
+<li class="toclevel-3 tocsection-5"><a href="#Translations"><span class="tocnumber">1.2.2</span> <span class="toctext">Translations</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-6"><a href="#Anagrams"><span class="tocnumber">1.3</span> <span class="toctext">Anagrams</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-7"><a href="#French"><span class="tocnumber">2</span> <span class="toctext">French</span></a>
+<ul>
+<li class="toclevel-2 tocsection-8"><a href="#Pronunciation"><span class="tocnumber">2.1</span> <span class="toctext">Pronunciation</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Noun_2"><span class="tocnumber">2.2</span> <span class="toctext">Noun</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#Verb"><span class="tocnumber">2.3</span> <span class="toctext">Verb</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#External_links"><span class="tocnumber">2.4</span> <span class="toctext">External links</span></a></li>
+<li class="toclevel-2 tocsection-12"><a href="#Anagrams_2"><span class="tocnumber">2.5</span> <span class="toctext">Anagrams</span></a></li>
+</ul>
+</li>
+</ul>
+</td>
+</tr>
+</table>
+<script type="text/javascript">
+//<![CDATA[
+if (window.showTocToggle) { var tocShowText = "show"; var tocHideText = "hide"; showTocToggle(); } 
+//]]>
+</script>
+<h2><span class="editsection">[<a href="/w/index.php?title=tranche&amp;action=edit&amp;section=1" title="Edit section: English">edit</a>]</span> <span class="mw-headline" id="English">English</span></h2>
+<div class="sister-wikipedia sister-project noprint floatright" style="border: solid #aaa 1px; font-size: 90%; background: #f9f9f9; width: 250px; padding: 4px; text-align: left;">
+<div style="float: left;">
+<div class="floatnone"><img alt="" src="http://upload.wikimedia.org/wiktionary/en/thumb/6/63/Wikipedia-logo.png/44px-Wikipedia-logo.png" width="44" height="44" /></div>
+</div>
+<div style="margin-left: 60px;"><a href="/wiki/Wikipedia" title="Wikipedia">Wikipedia</a> has an article on:
+<div style="margin-left: 10px;"><b lang="en" xml:lang="en"><a href="http://en.wikipedia.org/wiki/Tranche" class="extiw" title="w:Tranche">Tranche</a></b></div>
+</div>
+</div>
+<p><span class="interProject"><a href="http://en.wikipedia.org/wiki/Tranche" class="extiw" title="w:Tranche">Wikipedia</a></span></p>
+<h3><span class="editsection">[<a href="/w/index.php?title=tranche&amp;action=edit&amp;section=2" title="Edit section: Etymology">edit</a>]</span> <span class="mw-headline" id="Etymology">Etymology</span></h3>
+<p><span class="etyl">French</span> <span class="mention-Latn" lang="fr" xml:lang="fr"><a href="/wiki/tranche#French" title="tranche">tranche</a></span>, form of <span class="mention-Latn" lang="fr" xml:lang="fr"><a href="/wiki/trancher#French" title="trancher">trancher</a></span>&#160;<span class="mention-gloss-paren">(</span><span class="mention-gloss-double-quote">“</span>to cut, to slice<span class="mention-gloss-double-quote">”</span><span class="mention-gloss-paren">)</span>, from <span class="etyl"><a href="http://en.wikipedia.org/wiki/Old_French_language" class="extiw" title="w:Old French language">Old French</a></span> <span class="mention-Latn"><a href="/wiki/trenchier" title="trenchier">trenchier</a></span>&#160;<span class="mention-gloss-paren">(</span><span class="mention-gloss-double-quote">“</span>cut, make a cut<span class="mention-gloss-double-quote">”</span><span class="mention-gloss-paren">)</span>. Cognate to English <span class="mention-Latn" lang="en" xml:lang="en"><a href="/wiki/trench#English" title="trench">trench</a></span>.</p>
+<h3><span class="editsection">[<a href="/w/index.php?title=tranche&amp;action=edit&amp;section=3" title="Edit section: Noun">edit</a>]</span> <span class="mw-headline" id="Noun">Noun</span></h3>
+<p><span class="infl-inline"><b>tranche</b> (<i>plural</i>&#160;<span class="form-of plural-form-of lang-en"><b><a href="/wiki/tranches#English" title="tranches">tranches</a></b></span>)</span></p>
+<ol>
+<li>A <a href="/wiki/slice" title="slice">slice</a>, <a href="/wiki/section" title="section">section</a> or <a href="/wiki/portion" title="portion">portion</a>.</li>
+<li><span class="ib-brac"><span class="qualifier-brac">(</span></span><span class="ib-content"><span class="qualifier-content">finance</span></span><span class="ib-brac"><span class="qualifier-brac">)</span></span> One of a set of classes or risk maturities which comprise a multiple-class security, such as a <a href="/wiki/CMO" title="CMO">CMO</a> or <a href="/w/index.php?title=REMIC&amp;action=edit&amp;redlink=1" class="new" title="REMIC (page does not exist)">REMIC</a>; a class of bonds; collateralized mortgage obligations are structured with several tranches of bonds that have various maturities.</li>
+</ol>
+<h4><span class="editsection">[<a href="/w/index.php?title=tranche&amp;action=edit&amp;section=4" title="Edit section: Related terms">edit</a>]</span> <span class="mw-headline" id="Related_terms">Related terms</span></h4>
+<ul>
+<li><a href="/wiki/trench" title="trench">trench</a></li>
+<li><a href="/wiki/traunch" title="traunch">traunch</a></li>
+</ul>
+<h4><span class="editsection">[<a href="/w/index.php?title=tranche&amp;action=edit&amp;section=5" title="Edit section: Translations">edit</a>]</span> <span class="mw-headline" id="Translations">Translations</span></h4>
+<div class="NavFrame">
+<div class="NavHead" align="left">slice, section or portion</div>
+<div class="NavContent">
+<table border="0" width="100%" class="translations">
+<tr>
+<td bgcolor="#FFFFE0" valign="top" width="48%" align="left">
+<ul>
+<li>German: <a href="/wiki/Tranche#German" title="Tranche"><span lang="de" xml:lang="de">Tranche</span></a><span class="tneg">&#160;<a href="http://de.wiktionary.org/wiki/Tranche" class="extiw" title="de:Tranche"><span class="tlc">de</span><span class="tlcp">(de)</span></a></span>&#160;<span class="gender f" title="feminine gender"><i>f<span class="gender-period">.</span></i></span></li>
+</ul>
+</td>
+<td width="1%"></td>
+<td bgcolor="#FFFFE0" valign="top" align="left" width="48%"></td>
+</tr>
+</table>
+</div>
+</div>
+<div class="NavFrame">
+<div class="NavHead" align="left">finance</div>
+<div class="NavContent">
+<table border="0" width="100%" class="translations">
+<tr>
+<td bgcolor="#FFFFE0" valign="top" width="48%" align="left">
+<ul>
+<li>German: <a href="/wiki/Tranche#German" title="Tranche"><span lang="de" xml:lang="de">Tranche</span></a><span class="tneg">&#160;<a href="http://de.wiktionary.org/wiki/Tranche" class="extiw" title="de:Tranche"><span class="tlc">de</span><span class="tlcp">(de)</span></a></span>&#160;<span class="gender f" title="feminine gender"><i>f<span class="gender-period">.</span></i></span></li>
+</ul>
+</td>
+<td width="1%"></td>
+<td bgcolor="#FFFFE0" valign="top" align="left" width="48%"></td>
+</tr>
+</table>
+</div>
+</div>
+<h3><span class="editsection">[<a href="/w/index.php?title=tranche&amp;action=edit&amp;section=6" title="Edit section: Anagrams">edit</a>]</span> <span class="mw-headline" id="Anagrams">Anagrams</span></h3>
+<ul>
+<li><a href="/wiki/chanter#English" title="chanter">chanter</a></li>
+</ul>
+<hr />
+<h2><span class="editsection">[<a href="/w/index.php?title=tranche&amp;action=edit&amp;section=7" title="Edit section: French">edit</a>]</span> <span class="mw-headline" id="French">French</span></h2>
+<h3><span class="editsection">[<a href="/w/index.php?title=tranche&amp;action=edit&amp;section=8" title="Edit section: Pronunciation">edit</a>]</span> <span class="mw-headline" id="Pronunciation">Pronunciation</span></h3>
+<ul>
+<li>
+<table class="audiotable" style="vertical-align: top; display:inline-block; list-style:none;line-height: 1em;">
+<tr>
+<td class="unicode audiolink">audio</td>
+<td class="audiofile" rowspan="2">
+<div id="ogg_player_1" style="width: 50px;">
+<div><button onclick="if (typeof(wgOggPlayer)&#160;!= 'undefined') wgOggPlayer.init(false, {&quot;id&quot;: &quot;ogg_player_1&quot;, &quot;videoUrl&quot;: &quot;http://upload.wikimedia.org/wikipedia/commons/a/ad/Fr-tranche.ogg&quot;, &quot;width&quot;: 50, &quot;height&quot;: 35, &quot;length&quot;: &quot;2&quot;, &quot;linkUrl&quot;: &quot;/wiki/File:Fr-tranche.ogg&quot;, &quot;isVideo&quot;: false});" style="width: 50px; text-align: center" title="Play sound"><img src="/w/extensions/OggHandler/play.png" width="22" height="22" alt="Play sound" /></button></div>
+</div>
+</td>
+</tr>
+<tr>
+<td class="audiometa" style="font-size: 80%;">(<a href="/wiki/File:Fr-tranche.ogg" title="File:Fr-tranche.ogg">file</a>)</td>
+</tr>
+</table>
+</li>
+<li><a href="/wiki/Appendix:French_pronunciation" title="Appendix:French pronunciation">IPA</a>: <span class="IPA">/tʁɑ̃ʃ/</span>, <a href="http://en.wikipedia.org/wiki/SAMPA_chart_for_English" class="extiw" title="w:SAMPA chart for English">SAMPA</a>: <tt class="SAMPA">/tRA~S/</tt></li>
+</ul>
+<h3><span class="editsection">[<a href="/w/index.php?title=tranche&amp;action=edit&amp;section=9" title="Edit section: Noun">edit</a>]</span> <span class="mw-headline" id="Noun_2">Noun</span></h3>
+<p><b><span lang="fr" xml:lang="fr">tranche</span></b> <span class="gender f" title="feminine gender"><i>f<span class="gender-period">.</span></i></span> (<i>plural</i> <span class="form-of plural-form-of lang-fr gender-fpl" lang="fr" xml:lang="fr"><b><a href="/wiki/tranches#French" title="tranches">tranches</a></b></span>)</p>
+<ol>
+<li><a href="/wiki/slice" title="slice">slice</a></li>
+</ol>
+<h3><span class="editsection">[<a href="/w/index.php?title=tranche&amp;action=edit&amp;section=10" title="Edit section: Verb">edit</a>]</span> <span class="mw-headline" id="Verb">Verb</span></h3>
+<p><b lang="fr" xml:lang="fr">tranche</b></p>
+<ol>
+<li><i>Form of <b><a href="/wiki/trancher" title="trancher">trancher</a></b></i></li>
+</ol>
+<h3><span class="editsection">[<a href="/w/index.php?title=tranche&amp;action=edit&amp;section=11" title="Edit section: External links">edit</a>]</span> <span class="mw-headline" id="External_links">External links</span></h3>
+<ul>
+<li><a href="http://dictionary.reference.com/search?q=tranche" class="external text" rel="nofollow">Dictionary.com</a></li>
+<li><a href="http://www.investorwords.com/5045/tranche.html" class="external text" rel="nofollow">Investor Words</a></li>
+</ul>
+<h3><span class="editsection">[<a href="/w/index.php?title=tranche&amp;action=edit&amp;section=12" title="Edit section: Anagrams">edit</a>]</span> <span class="mw-headline" id="Anagrams_2">Anagrams</span></h3>
+<ul>
+<li><a href="/wiki/chanter#French" title="chanter">chanter</a></li>
+<li><a href="/wiki/chantre#French" title="chantre">chantre</a></li>
+</ul>
+
+
+<!-- 
+NewPP limit report
+Preprocessor node count: 1950/1000000
+Post-expand include size: 10157/2048000 bytes
+Template argument size: 994/2048000 bytes
+Expensive parser function count: 3/500
+-->
+
+<!-- Saved in parser cache with key enwiktionary:pcache:idhash:69363-0!1!0!default!!en!4 and timestamp 20101226222155 -->
+<div class="printfooter">
+Retrieved from "<a href="http://en.wiktionary.org/wiki/tranche">http://en.wiktionary.org/wiki/tranche</a>"</div>
+				<!-- /bodytext -->
+								<!-- catlinks -->
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: <span dir='ltr'><a href="/wiki/Category:French_derivations" title="Category:French derivations">French derivations</a></span> | <span dir='ltr'><a href="/wiki/Category:Old_French_derivations" title="Category:Old French derivations">Old French derivations</a></span> | <span dir='ltr'><a href="/wiki/Category:English_nouns" title="Category:English nouns">English nouns</a></span> | <span dir='ltr'><a href="/wiki/Category:Finance" title="Category:Finance">Finance</a></span> | <span dir='ltr'><a href="/wiki/Category:French_nouns" title="Category:French nouns">French nouns</a></span> | <span dir='ltr'><a href="/wiki/Category:French_feminine_nouns" title="Category:French feminine nouns">French feminine nouns</a></span> | <span dir='ltr'><a href="/wiki/Category:French_countable_nouns" title="Category:French countable nouns">French countable nouns</a></span> | <span dir='ltr'><a href="/wiki/Category:French_verb_forms" title="Category:French verb forms">French verb forms</a></span></div></div>				<!-- /catlinks -->
+												<div class="visualClear"></div>
+			</div>
+			<!-- /bodyContent -->
+		</div>
+		<!-- /content -->
+		<!-- header -->
+		<div id="mw-head" class="noprint">
+			
+<!-- 0 -->
+<div id="p-personal" class="">
+	<h5>Personal tools</h5>
+	<ul>
+					<li  id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=tranche" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in / create account</a></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+			<div id="left-navigation">
+				
+<!-- 0 -->
+<div id="p-namespaces" class="vectorTabs">
+	<h5>Namespaces</h5>
+	<ul>
+					<li  id="ca-nstab-main" class="selected"><a href="/wiki/tranche"  title="View the content page [c]" accesskey="c"><span>Entry</span></a></li>
+					<li  id="ca-talk" class="new"><a href="/w/index.php?title=Talk:tranche&amp;action=edit&amp;redlink=1"  title="Discussion about the content page [t]" accesskey="t"><span>Discussion</span></a></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+
+<!-- 1 -->
+<div id="p-variants" class="vectorMenu emptyPortlet">
+		<h5><span>Variants</span><a href="#"></a></h5>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+
+<!-- /1 -->
+			</div>
+			<div id="right-navigation">
+				
+<!-- 0 -->
+<div id="p-views" class="vectorTabs">
+	<h5>Views</h5>
+	<ul>
+					<li id="ca-view" class="selected"><a href="/wiki/tranche" ><span>Read</span></a></li>
+					<li id="ca-edit"><a href="/w/index.php?title=tranche&amp;action=edit"  title="You can edit this page. Please use the preview button before saving [e]" accesskey="e"><span>Edit</span></a></li>
+					<li id="ca-history" class="collapsible "><a href="/w/index.php?title=tranche&amp;action=history"  title="Past revisions of this page [h]" accesskey="h"><span>History</span></a></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+
+<!-- 1 -->
+<div id="p-cactions" class="vectorMenu emptyPortlet">
+	<h5><span>Actions</span><a href="#"></a></h5>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+
+<!-- /1 -->
+
+<!-- 2 -->
+<div id="p-search">
+	<h5><label for="searchInput">Search</label></h5>
+	<form action="/w/index.php" id="searchform">
+		<input type='hidden' name="title" value="Special:Search"/>
+				<div id="simpleSearch">
+			<input id="searchInput" name="search" type="text"  title="Search Wiktionary [f]" accesskey="f"  value="" />
+			<button id="searchButton" type='submit' name='button'  title="Search the pages for this text"><img src="http://bits.wikimedia.org/skins-1.5/vector/images/search-ltr.png?283-17" alt="Search" /></button>
+		</div>
+			</form>
+</div>
+
+<!-- /2 -->
+			</div>
+		</div>
+		<!-- /header -->
+		<!-- panel -->
+			<div id="mw-panel" class="noprint">
+				<!-- logo -->
+					<div id="p-logo"><a style="background-image: url(http://upload.wikimedia.org/wiktionary/en/b/bc/Wiki.png);" href="/wiki/Wiktionary:Main_Page"  title="Visit the main page"></a></div>
+				<!-- /logo -->
+				
+<!-- SEARCH -->
+
+<!-- /SEARCH -->
+
+<!-- navigation -->
+<div class="portal" id='p-navigation'>
+	<h5>Navigation</h5>
+	<div class="body">
+				<ul>
+					<li id="n-mainpage-text"><a href="/wiki/Wiktionary:Main_Page">Main Page</a></li>
+					<li id="n-portal"><a href="/wiki/Wiktionary:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+					<li id="n-wiktprefs"><a href="/wiki/Wiktionary:Per-browser_preferences">Preferences</a></li>
+					<li id="n-requestedarticles"><a href="/wiki/Wiktionary:Requested_entries">Requested entries</a></li>
+					<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="The list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+					<li id="n-recentchangesbylanguage"><a href="/wiki/Wiktionary:Recent_changes">(by language)</a></li>
+					<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random page [x]" accesskey="x">Random entry</a></li>
+					<li id="n-randompagebylanguage"><a href="/wiki/Wiktionary:Random_page">(by language)</a></li>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="The place to find out">Help</a></li>
+					<li id="n-sitesupport"><a href="http://wikimediafoundation.org/wiki/Special:Landingcheck?landing_page=WMFJA1&amp;language=en&amp;utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=20101204SB001" title="Support us">Donations</a></li>
+					<li id="n-contact"><a href="/wiki/Wiktionary:Contact_us">Contact us</a></li>
+				</ul>
+			</div>
+</div>
+
+<!-- /navigation -->
+
+<!-- TOOLBOX -->
+<div class="portal" id="p-tb">
+	<h5>Toolbox</h5>
+	<div class="body">
+		<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/tranche" title="List of all wiki pages that link here [j]" accesskey="j">What links here</a></li>
+						<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/tranche" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+																																					<li id="t-upload"><a href="http://commons.wikimedia.org/wiki/Special:Upload" title="Upload files [u]" accesskey="u">Upload file</a></li>
+											<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="List of all special pages [q]" accesskey="q">Special pages</a></li>
+									<li id="t-print"><a href="/w/index.php?title=tranche&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+						<li id="t-permalink"><a href="/w/index.php?title=tranche&amp;oldid=10883535" title="Permanent link to this revision of the page">Permanent link</a></li>
+						</ul>
+	</div>
+</div>
+
+<!-- /TOOLBOX -->
+
+<!-- LANGUAGES -->
+<div class="portal" id="p-lang">
+	<h5>In other languages</h5>
+	<div class="body">
+		<ul>
+					<li class="interwiki-el"><a href="http://el.wiktionary.org/wiki/tranche" title="tranche">Ελληνικά</a></li>
+					<li class="interwiki-fr"><a href="http://fr.wiktionary.org/wiki/tranche" title="tranche">Français</a></li>
+					<li class="interwiki-ko"><a href="http://ko.wiktionary.org/wiki/tranche" title="tranche">한국어</a></li>
+					<li class="interwiki-io"><a href="http://io.wiktionary.org/wiki/tranche" title="tranche">Ido</a></li>
+					<li class="interwiki-id"><a href="http://id.wiktionary.org/wiki/tranche" title="tranche">Bahasa Indonesia</a></li>
+					<li class="interwiki-lt"><a href="http://lt.wiktionary.org/wiki/tranche" title="tranche">Lietuvių</a></li>
+					<li class="interwiki-pl"><a href="http://pl.wiktionary.org/wiki/tranche" title="tranche">Polski</a></li>
+					<li class="interwiki-ru"><a href="http://ru.wiktionary.org/wiki/tranche" title="tranche">Русский</a></li>
+					<li class="interwiki-fi"><a href="http://fi.wiktionary.org/wiki/tranche" title="tranche">Suomi</a></li>
+					<li class="interwiki-ta"><a href="http://ta.wiktionary.org/wiki/tranche" title="tranche">தமிழ்</a></li>
+					<li class="interwiki-vi"><a href="http://vi.wiktionary.org/wiki/tranche" title="tranche">Tiếng Việt</a></li>
+				</ul>
+	</div>
+</div>
+
+<!-- /LANGUAGES -->
+			</div>
+		<!-- /panel -->
+		<!-- footer -->
+		<div id="footer">
+											<ul id="footer-info">
+																	<li id="footer-info-lastmod"> This page was last modified on 3 November 2010, at 07:22.</li>
+																							<li id="footer-info-copyright">Text is available under the <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike License</a>;
+additional terms may apply.
+See <a href="http://wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> for details.</li>
+															</ul>
+															<ul id="footer-places">
+																	<li id="footer-places-privacy"><a href="http://wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+																							<li id="footer-places-about"><a href="/wiki/Wiktionary:About" title="Wiktionary:About">About Wiktionary</a></li>
+																							<li id="footer-places-disclaimer"><a href="/wiki/Wiktionary:General_disclaimer" title="Wiktionary:General disclaimer">Disclaimers</a></li>
+															</ul>
+										<ul id="footer-icons" class="noprint">
+								<li id="footer-icon-poweredby"><a href="http://www.mediawiki.org/"><img src="http://bits.wikimedia.org/skins-1.5/common/images/poweredby_mediawiki_88x31.png" height="31" width="88" alt="Powered by MediaWiki" /></a></li>
+												<li id="footer-icon-copyright"><a href="http://wikimediafoundation.org/"><img src="/images/wikimedia-button.png" width="88" height="31" alt="Wikimedia Foundation"/></a></li>
+							</ul>
+			<div style="clear:both"></div>
+		</div>
+		<!-- /footer -->
+		<!-- fixalpha -->
+		<script type="text/javascript"> if ( window.isMSIE55 ) fixalpha(); </script>
+		<!-- /fixalpha -->
+		
+<script type="text/javascript">if (window.runOnloadHook) runOnloadHook();</script>
+<script type="text/javascript" src="http://geoiplookup.wikimedia.org/"></script>		<!-- Served by srv213 in 0.509 secs. -->			</body>
+</html>

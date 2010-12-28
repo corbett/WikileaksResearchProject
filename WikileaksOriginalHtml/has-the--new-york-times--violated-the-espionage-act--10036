@@ -1,0 +1,1047 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>Has the “New York Times” Violated the Espionage Act?</title>
+
+<meta name="description" content="Gabriel Schoenfeld questions whether two "New York Times" reporters broke the law when revealing to the public the NSA's warrantless wiretapping program." />
+<meta name="keywords" content="James Risen, Eric Lichtblau, Has the "New York Times" Violated the Espionage Act?, Gabriel Schoenfeld, intelligence, New York Times, NSA, surveillance, government, George Bush, classified, terrorists, law, Espionage Act, CIA, Scooter Libby, al Qaeda" />
+
+
+
+
+<link rel="stylesheet" href="http://www.commentarymagazine.com/cm/includes/css/style.css" type="text/css" media="screen"  />
+<link rel="stylesheet" href="http://www.commentarymagazine.com/cm/includes/css/headers.css" type="text/css" media="screen"  />
+<link rel="stylesheet" href="http://www.commentarymagazine.com/cm/includes/css/header_new.css" type="text/css" media="screen"  />
+<link rel="stylesheet" href="http://www.commentarymagazine.com/cm/includes/css/left.css" type="text/css" media="screen"  />
+<link rel="stylesheet" href="http://www.commentarymagazine.com/cm/includes/css/right.css" type="text/css" media="screen"  />
+<link rel="stylesheet" href="http://www.commentarymagazine.com/cm/includes/css/center.css" type="text/css" media="screen"  />
+<link rel="stylesheet" href="http://www.commentarymagazine.com/cm/includes/css/navigation_new.css" type="text/css" media="screen"  />
+<!--[if IE]>
+<link rel="stylesheet" type="text/css" href="ie.css" media="screen"  />
+<![endif]--> 
+
+<script type="text/javascript" src="http://www.commentarymagazine.com/cm/includes/js/font_size.js"></script> 
+<script type="text/javascript" src="http://www.commentarymagazine.com/cm/includes/js/util.js"></script> 
+<script type="text/javascript" src="http://www.commentarymagazine.com/cm/includes/js/commentary.js"></script> 
+<script type="text/javascript" src="http://www.commentarymagazine.com/cm/includes/js/sarissa.js"></script>
+<script type="text/javascript" src="http://www.commentarymagazine.com/cm/includes/js/x.js"></script>
+
+<script type="text/javascript" src="http://www.commentarymagazine.com/cm/includes/js/ajax_gateway.js"></script>
+<script type="text/javascript" src="http://www.commentarymagazine.com/cm/includes/js/ajax_forms.js"></script>
+<script type="text/javascript" src="http://www.commentarymagazine.com/cm/includes/js/prototype.js"></script>
+<script type="text/javascript" src="http://www.commentarymagazine.com/cm/includes/js/effects.js"></script>
+
+<!--
+<script type="text/javascript" src="/cm/includes/js/maxmedia.js"></script>
+-->
+
+
+<script type="text/javascript" src="http://www.commentarymagazine.com/cm/includes/js/validation.js"></script>
+
+
+
+<!-- calendar stylesheet -->
+
+
+
+<!-- main calendar program -->
+<script type="text/javascript" src="http://www.commentarymagazine.com/cm/includes/js/calendar.js"></script>
+
+  <!-- language for the calendar -->
+  <script type="text/javascript" src="http://www.commentarymagazine.com/cm/includes/js/calendar-en.js"></script>
+
+  <!-- the following script defines the Calendar.setup helper function, which makes
+       adding a calendar a matter of 1 or 2 lines of code. -->
+  <script type="text/javascript" src="http://www.commentarymagazine.com/cm/includes/js/calendar-setup.js"></script>
+
+
+	<script type="text/javascript" src="/cm/popupflash/swfobject.js"></script>
+	
+	<script type="text/javascript">
+	var flashvars = {};
+	var params = {};
+	params.menu = "false";
+	params.quality = "high";
+	params.wmode = "transparent";
+	var attributes = {};
+	swfobject.embedSWF("http://www.commentarymagazine.com/cm/popupflash/roll_loader.swf","myAlternativeContent", "737", "647","9.0.0", false, flashvars, params, attributes);
+	</script>
+
+
+ <script language="JavaScript">
+<!-- no script
+function hidetopbar()
+{
+
+document.getElementById("myAlternativeContent").style.visibility = "hidden"
+
+document.getElementById("topbar").style.visibility = "hidden"
+
+}
+-->
+</script>
+
+ <style type="text/css">
+	#topbar {
+	position:absolute;
+	width:737px;
+	height:647px;
+	z-index:200;
+	top: 100px;
+	left: 80px;
+	}
+	.mytext {
+	position:absolute;
+	width:800px;
+	height:700px;
+	z-index:0;
+	top: 20px;
+	left: 20px;
+}
+
+        </style> 
+
+<style type="text/css">#xTooltipElement{position:absolute;visibility:hidden;}</style><style>
+			.mostTabLoad {
+				display: none;
+				position: absolute;
+				width: 0px;
+				height: 0px;
+			}	
+		</style>
+
+<script type="text/JavaScript">
+<!--
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script>
+
+</head>
+<body >
+
+
+<div id="xTooltipElement">xTooltipElement</div>
+
+
+
+  
+
+<div id="globalcontainer">
+ <div class="top">
+ 	<!-- START LOG-IN FORM -->
+
+  <div class="header">
+  
+		<div style="display: block; visibility:hidden; " id="loginPanelMain">
+			<div class="login-panel">
+				<p id="close"><a href="javascript:hideLogin();">X</a></p>
+				<form action="https://www.commentarymagazine.com/login.cfm" name="login" method="post">
+					<div class="field">
+						<p>Email Address:</p>
+						<input id="login-email" name="email" type="text">
+					</div>
+
+					
+					<div class="field">
+						<p>Password:</p>
+						<input id="login-password" name="password" type="password">
+					</div>
+					<input type="hidden" name="redirect" value =/viewarticle.cfm?>
+					<input src="/images/button-go.jpg" id="go" alt="" type="image">
+					
+					<div style="clear: both;">
+					<table id="bottom">
+						<col id="col1">
+
+						<col id="col2">
+						<col id="col3">
+						<tbody><tr>
+							<td><input name="rememberMe" value="1" id="remember" type="checkbox"></td>
+							<td>
+								
+								<label for="remember"><span id="remember-txt">Remember Me</span></label>							</td>
+							<td>
+
+								<span id="forgot"><a href="https://www.commentarymagazine.com/cm/control/gotoLostPassword.html">Forgot password?</a></span>							</td>
+						</tr>
+					</tbody></table>
+					</div>
+						
+										
+				
+					<div id="loginResponsePanel" style="background-color: rgb(255, 255, 255); display: none;"></div>
+
+	    			<div id="loginResponseFooter" style="display: none;">
+
+	    			    <a href="javascript:hideLogin();">OK</a>	    			</div>
+				</form>
+			</div>
+		</div>
+		
+		<!-- END LOG-IN FORM -->
+    <h2 id="logo"><a href="http://www.commentarymagazine.com/" id="logo"></a></h2>
+	<!--top navigate links -->
+	<div class="top_navigator bold"> 	   
+				<a href="javascript:showLogin();" title="">Sign In</a> | 
+			<a href="http://www.commentarymagazine.com/" title="">Home</a> | 
+			<a href="https://www.commentarymagazine.com/cm/subscriber/SubscriberHome.html" title="">Customer Service</a> | 
+			<a href="http://www.commentarymagazine.com/cm/main/aboutHistory.html" title="">About Us</a> | 
+<a href="http://www.commentarymagazine.com/advopportunities.cfm" title="">Advertise</a>
+
+
+    </div>		
+	<div class="subscribe">
+		
+		<IFRAME style="margin-top:25px;" marginWidth="0" marginHeight="0" src="http://xdev.info/?website=CMM&Area=B" frameBorder="0" width="468" scrolling="no" height="60" allowTransparency></IFRAME>
+		
+		
+	</div>
+  </div>
+    <div class="nav_bar">
+	  <div class="nav_bar_left">
+	   
+	   
+<IFRAME marginWidth="0" marginHeight="0" src="http://xdev.info/?website=CMM&Area=A" frameBorder="0" width="728" scrolling="no" height="90" allowTransparency></IFRAME>
+ 
+	   
+	   
+	
+
+</div>
+	  <div class="nav_bar_right">
+</div> 
+	</div>
+  </div>	
+  
+
+
+
+	<script type="text/javascript" src="/cm/includes/js/dw_cookies.js"></script>
+<script type="text/javascript" src="/cm/includes/js/dw_sizerdx.js"></script>
+
+<script type="text/javascript">
+	function textSizeRolls() {
+		xImgRollSetup('/cm/images/interface/buttons/text-size/', '_over', '.gif', 'increase', 'decrease');
+	}
+</script>
+
+	
+
+  	<!--Main container (left,center,right parts) -->
+  <div id="container">
+    <div class="left">
+			
+	<div id="site_search" class="SiteSearch">
+				<form action="/cm/main/searchArticles.html" method="get" >       
+				       <input id="article_keywords" name="keywords" value="search" style="color:#000000" onfocus="this.value='';" onclick="this.value='';" type="text" >
+						<input class="SearchButtonNav" id="btn_search" name="btn_search" src="/images/arrow-right.jpg"  height="16" type="image" width="18">		       
+				</form>	
+				<a href="http://www.commentarymagazine.com/searcharchive.cfm" title="" id="adv_search" style="border-width: 0px;">advanced search
+				<img src="/images/arrow-right-small.jpg" id="adv_search_btn" alt="" />				</a>			</div>
+			<ul class="leftmenu">
+
+<li style="height:29px"><a href="http://www.commentarymagazine.com/cm/main/viewSubjectPage.html?s=PS" title="Politics &amp; Society"><img src="/images/link2.gif" alt=""  id="l2" onmouseover="MM_swapImage('l2','','/images/link2_on.gif',1)" onmouseout="MM_swapImgRestore()"  /></a></li>
+<li style="height:30px"><a href="http://www.commentarymagazine.com/cm/main/viewSubjectPage.html?s=AM" title="America &amp; The World"><img src="/images/link3.gif" alt=""  id="l3" onmouseover="MM_swapImage('l3','','/images/link3_on.gif',1)" onmouseout="MM_swapImgRestore()"  /></a></li>
+<li style="height:29px"><a href="http://www.commentarymagazine.com/cm/main/viewSubjectPage.html?s=CR" title="Culture &amp; Religion"><img src="/images/link4.gif" alt=""  id="l4" onmouseover="MM_swapImage('l4','','/images/link4_on.gif',1)" onmouseout="MM_swapImgRestore()"  /></a></li>
+<li style="height:29px"><a href="http://www.commentarymagazine.com/cm/main/viewSubjectPage.html?s=IS" title="Israel, Jews, &amp; Judaism"><img src="/images/link5.gif" alt=""  id="l5" onmouseover="MM_swapImage('l5','','/images/link5_on.gif',1)" onmouseout="MM_swapImgRestore()"  /></a></li>
+<li style="height:29px"><a href="http://www.commentarymagazine.com/cm/main/viewSubjectPage.html?s=AL" title="Arts &amp; Letters"><img src="/images/link6.gif" alt=""  id="l6" onmouseover="MM_swapImage('l6','','/images/link6_on.gif',1)" onmouseout="MM_swapImgRestore()"  /></a></li>
+<li style="height:31px"><a href="http://www.commentarymagazine.com/currentissue.cfm?month=December&year=2010&current=1" alt="download issue" ><img src="/images/link1.gif" alt=""  id="l1" onmouseover="MM_swapImage('l1','','/images/link1_on.gif',1)" onmouseout="MM_swapImgRestore()"  /></a></li>
+
+<li style="height:29px"><a href="http://www.commentarymagazine.com/viewpdf.cfm?issue_id=771" target='_blank'><img src="/images/link8.gif" alt=""  id="l8" onmouseover="MM_swapImage('l8','','/images/link8_on.gif',1)" onmouseout="MM_swapImgRestore()"  /></a></li>
+<li style="height:29px"><a href="http://www.commentarymagazine.com/searcharchive.cfm"><img src="/images/link9.gif" alt=""  id="l9" onmouseover="MM_swapImage('l9','','/images/link9_on.gif',1)" onmouseout="MM_swapImgRestore()"  /></a></li>
+<li style="height:29px"><a href="http://www.commentarymagazine.com/blog_directory.cfm"><img src="/images/link10.gif" alt=""  id="l10" onmouseover="MM_swapImage('l10','','/images/link10_on.gif',1)" onmouseout="MM_swapImgRestore()"  /></a></li>
+<li style="height:29px"><a href="http://www.commentarymagazine.com/news_media.cfm"><img src="/images/link11.gif" alt=""  id="l11" onmouseover="MM_swapImage('l11','','/images/link11_on.gif',1)" onmouseout="MM_swapImgRestore()"  /></a></li>
+<li style="height:29px"><a href="http://www.commentarymagazine.com/rss.cfm"><img src="/images/link12.gif" alt=""  id="l12" onmouseover="MM_swapImage('l12','','/images/link12_on.gif',1)" onmouseout="MM_swapImgRestore()"  /></a></li>
+	</ul>	
+			<div class="leftblock_cont">
+			  	
+				<ul class="left_servblock">
+					<li><a id="serv_link1" href="https://www.commentarymagazine.com/subscribe.cfm"> Subscribe</a></li> 
+					<li><a id="serv_link2" href="https://www.commentarymagazine.com/subscribe_gift.cfm" >Give a Gift</a></li>
+					<li><a id="serv_link3" href="https://www.commentarymagazine.com/subscribe_renew.cfm" >Renew</a></li>
+					<li><a id="serv_link5r" href="https://www.commentarymagazine.com/print_register.cfm" >Register Online</a></li>
+					<li><a id="serv_link4" href="https://www.commentarymagazine.com/customerservice.cfm" >Customer Service</a></li>
+					<li><a id="serv_link5a" href="https://www.commentarymagazine.com/back_issue.cfm" >Back Issues</a></li>
+					<li><a id="serv_link5" href="https://www.commentarymagazine.com/buyarticles.cfm" >Buy Articles</a></li>
+					<li><a id="serv_link6" href="https://www.commentarymagazine.com/donate.cfm" >Donate</a></li>					
+
+				</ul>
+			</div>	
+			
+
+
+			<!-- start most box javascript -->
+
+
+		
+		<!-- load images via css hack (just set display to none) -->
+		<img src="/images/most_006.gif" class="mostTabLoad" />
+		<img src="/images/most_002.gif" class="mostTabLoad" />
+		<img src="/images/most_003.gif" class="mostTabLoad" />
+		<img src="/images/most.gif" class="mostTabLoad" />
+
+		
+		<!-- start most box javascript -->
+		<script type="text/javascript">
+			function showMost(sectionID) {
+				if(sectionID == 'viewed') {
+					hideMost('emailed');
+				}
+				if(sectionID == 'emailed') {
+					hideMost('viewed');
+				}
+				document.getElementById(sectionID).style.visibility = "visible";
+				document.getElementById(sectionID).style.display = "block";									
+			}
+			function hideMost(sectionID) {
+				document.getElementById(sectionID).style.visibility = "hidden";
+				document.getElementById(sectionID).style.display = "none";													
+			}
+
+			function changeMostTab(imgName, imgSrc) {
+				if(imgName == 'most-emailed') {
+					document['most-viewed'].src = '/images/most_002.gif';
+			}
+				if(imgName == 'most-viewed') {
+					document['most-emailed'].src = '/images/most.gif';
+			
+				}					
+				document[imgName].src = '/images/' + imgSrc + '.gif';
+			}				
+		</script>
+		<!-- end most box javascript -->
+		
+	
+
+
+		<div id="most">
+		<div class="overfl-hid">
+<div id="most-header" >			</div>
+			<div id="most-tabs">
+				<a href="javascript:showMost('viewed');" onclick="changeMostTab('most-viewed','most_006');"><img name="most-viewed" src="/images/most_006.gif" alt="" class="most-tab" /></a><a href="javascript:showMost('emailed');" onclick="changeMostTab('most-emailed','most_003');"><img name="most-emailed" src="/images/most.gif" alt="" class="most-tab" /></a>		</div>
+		</div>
+			<div class="section" id="section">
+	
+		
+				<div  id="viewed">
+							
+					<ol id="ddd2">
+				
+							
+	
+							
+					<ol>
+								<li> <a href="http://www.commentarymagazine.com/viewarticle.cfm/In--i-Bush-v--Obama-i--Bush-Wins-in-a-Rout-15497">In <i>Bush v. Obama</i>, Bush Wins in a Rout</a><br/>
+								<span class="author"> Peter  Wehner<br/>
+								</span></li> <li> <a href="http://www.commentarymagazine.com/viewarticle.cfm/The-Re-Hollowing-of-the-Military-15498">The Re-Hollowing of the Military</a><br/>
+								<span class="author"> Arthur  Herman<br/>
+								September 2010</span></li> <li> <a href="http://www.commentarymagazine.com/viewarticle.cfm/The-Conversion-of-David-Mamet-15486">The Conversion of David Mamet</a><br/>
+								<span class="author"> Terry  Teachout<br/>
+								July/August 2010</span></li> <li> <a href="http://www.commentarymagazine.com/viewarticle.cfm/Is-the-War-Over--11599">Is the War Over?</a><br/>
+								<span class="author"> Michael J. Totten<br/>
+								</span></li> <li> <a href="http://www.commentarymagazine.com/viewarticle.cfm/Hiroshima--Obama--and-Truman-15496">Hiroshima, Obama, and Truman</a><br/>
+								<span class="author"> Jonathan S. Tobin<br/>
+								</span></li> 
+					</ol>
+				</div>
+				<div style="visibility: hidden; display:none;  " id="emailed">
+									
+
+					
+					<ol>
+								<li> <a href="http://www.commentarymagazine.com/viewarticle.cfm/In--i-Bush-v--Obama-i--Bush-Wins-in-a-Rout-15497">In <i>Bush v. Obama</i>, Bush Wins in a Rout</a><br/>
+								<span class="author"> Peter  Wehner<br/>
+								</span></li> <li> <a href="http://www.commentarymagazine.com/viewarticle.cfm/The-Re-Hollowing-of-the-Military-15498">The Re-Hollowing of the Military</a><br/>
+								<span class="author"> Arthur  Herman<br/>
+								September 2010</span></li> <li> <a href="http://www.commentarymagazine.com/viewarticle.cfm/The-Conversion-of-David-Mamet-15486">The Conversion of David Mamet</a><br/>
+								<span class="author"> Terry  Teachout<br/>
+								July/August 2010</span></li> <li> <a href="http://www.commentarymagazine.com/viewarticle.cfm/Iran-Cannot-Be-Contained-15462">Iran Cannot Be Contained</a><br/>
+								<span class="author"> Bret  Stephens<br/>
+								July/August 2010</span></li> <li> <a href="http://www.commentarymagazine.com/viewarticle.cfm/Why-Are-Jews-Liberals-A-Symposium-15223">Why Are Jews Liberals?—A Symposium</a><br/>
+								<span class="author"> David  Wolpe, Jonathan D. Sarna, Michael  Medved, William  Kristol and Jeff  Jacoby<br/>
+								September 2009</span></li> 
+					</ol>
+				</div> 
+			
+			
+
+			</div>
+		</div>
+		
+			
+
+	
+		
+			
+		
+		 	
+	  <div class="aligned160">
+				  
+	    <div align="center" >		<div   style="margin:0px">
+	
+		
+	
+
+	
+		
+				
+		<p class="small color-grey2 nomargins mb5px">Advertisement</p>		
+		<div>
+
+
+<IFRAME marginWidth="0" marginHeight="0" src="http://xdev.info/?website=CMM&Area=H" frameBorder="0" width="160" scrolling="no" height="600" allowTransparency></IFRAME>
+
+
+
+
+
+<br /> <br /> 
+<IFRAME marginWidth="0" marginHeight="0" src="http://xdev.info/?website=CMM&Area=I" frameBorder="0" width="160" scrolling="no" height="600" allowTransparency></IFRAME>
+
+
+
+
+
+
+
+
+
+		</div>				
+		
+
+		
+		</div>
+		
+		
+		</div>
+	  </div>	
+	  
+	</div><!--/left-->
+	<div class="center">
+	 			<div id="header">
+					<h1>Has the “New York Times” Violated the Espionage Act?</h1>
+
+					<span class="author"> Gabriel  Schoenfeld</span>
+				</div>
+
+				<div id="subhead">
+			
+					<p id="date">March 2006</p>
+					<div id="functions">				
+						<!-- start text size rollover listener -->
+						<script type="text/javascript">				
+							xAddEventListener(window,'load',textSizeRolls);
+						</script>
+
+						<!-- end text size rollover listener -->				
+									
+						<div id="text-sizer">
+							<a href="" onclick="dw_fontSizerDX.adjust(-2); return false" title="Decrease font size">
+	    					<img id="decrease" class="text-size" src="/cm/images/interface/buttons/text-size/decrease.gif" /></a>	
+							<a href="" onclick="dw_fontSizerDX.adjust(2); return false" title="Increase font size">
+							<img id="increase" class="text-size" src="/cm/images/interface/buttons/text-size/increase.gif" /></a>						
+							<a href="" onclick="dw_fontSizerDX.reset(); return false" title="Reset font size">
+							<img src="/cm/images/interface/button.text-size.gif" alt="Text Size" /></a>
+						</div>
+						<a href="/printArticle.cfm/Has-the--New-York-Times--Violated-the-Espionage-Act--10036" target = "_new">
+
+						<img src="/cm/images/interface/button.print.gif" alt="Print Article" /></a>
+						
+						<a href="#" onclick="toggleDiv('email_article_form');return false;" title="E-mail Article">
+
+						<img src="/cm/images/interface/button.email.gif" alt="E-mail Article" /></a>
+						<a href="/viewarticle.cfm/Has-the--New-York-Times--Violated-the-Espionage-Act--10036?mode=reserve" title="Reserve Article">
+						<img src="/cm/images/interface/button.reserve.gif" alt="Reserve Article" /></a>
+						<a href="/viewpdf.cfm?article_id=10036" target = "_new" title="Download PDF Version">
+						<img src="/cm/images/interface/button.pdf.gif" alt="Download PDF Version" /></a>
+					</div>								
+				</div>
+
+							
+				
+				<script type="text/javascript">
+				/*************************************************************************
+				    This code is from Dynamic Web Coding at dyn-web.com
+				    Copyright 2004-5 by Sharon Paine 
+				    See Terms of Use at www.dyn-web.com/bus/terms.html
+				    regarding conditions under which you may use this code.
+				    This notice must be retained in the code as is!
+				*************************************************************************/
+				
+				// setDefaults arguments: size unit, default size, minimum, maximum
+				// optional array of elements or selectors to apply these defaults to
+				dw_fontSizerDX.setDefaults('px', 14, 9, 18, ['div#articlecontent', 'div#articlecontent blockquote', 'div#articlecontent p']);
+				
+				// set arguments: default size, minimum, maximum
+				// array of elements or selectors to apply these settings to
+				//dw_fontSizerDX.set(12, 9, 32, ['div#articlecontent'] );
+				//dw_fontSizerDX.set(12, 9, 32, ['div#articlecontent blockquote'] );
+				//dw_fontSizerDX.set(12, 9, 32, ['div#articlecontent p'] );
+				dw_fontSizerDX.init();
+				</script>						
+				
+				<div id="content">	
+				<div id="email_article_form">
+
+					<div id="head">
+						E-mail This Article to a Friend
+					</div>
+					
+					<input id="btn_email_form_close" type="image"
+						src="/cm/images/interface/buttons/btn_close_24bit.png"
+						width="23" height="23" title="close navigation" />
+					
+					<div style="margin-left:15px;border-width:0px;">
+						<label>Subject: <span style="font-weight:normal;">Has the “New York Times” Violated the Espionage Act?</span></label>
+					</div>
+					
+					<form id = "emailArticleFriendForm" name="emailArticleFriendForm" action="javascript:emailArticleFriend();" >
+
+<table><tr><td><input type="checkbox" name="subscribe1" onclick="if(document.emailArticleFriendForm.subscribe.value==1)document.emailArticleFriendForm.subscribe.value=0;else  document.emailArticleFriendForm.subscribe.value=1;" /></td><td>  <span style="font-size:9px">Yes, I would like to receive periodic updates and information 
+via e-mail from <i>Commentary</i></span>.</td></tr></table>
+						<label for="recipients">Recipient Addresses:
+							<p>Separate each address with a comma.</p>
+						</label>
+						<input type="hidden" name="subscribe" value="0" />
+						<textarea id="recipients" name="recipients"></textarea>
+						
+						<label for="from_address">Your E-mail Address:</label>
+						<input type="text" id="from_address" name="from_address" />
+
+						<label for="msg">Message:</label>
+
+						<textarea id="msg" name="msg"></textarea>
+						<input type = "hidden" name="aid" value = "10036">
+						<input id="btn_send_email" name="submit"
+							   type="image" width="73" height="32"
+							   src="/cm/images/interface/buttons/btn_bl_send.png"
+							   onclick="if(validateEmailFriend(this.form)){toggleDiv('email_article_form');toggleDiv('email_article_thanks');javascript:emailArticleFriend();} return false;" />
+					</form>
+				</div><!-- end email_article_form -->
+				
+				<div id="email_article_thanks">
+					<div id="head">
+						E-mail This Article to a Friend
+					</div>
+
+					
+						<input id="btn_email_thanks_close" type="image"
+							src="/cm/images/interface/buttons/btn_close_24bit.png"
+							width="23" height="23" title="close navigation" />
+					
+					<div id="email_article_thanks_sub1">
+						<h4>Thank You</h4>
+						<p>A link to <p>&quot;Has the “New York Times” Violated the Espionage Act?&quot;</p> has been emailed to your friends.</p>
+					</div>
+					<div id="email_article_thanks_sub2">
+
+					
+						<h5>Most E-mailed articles:</h5>
+				
+					<ol>
+							
+								
+					</div>
+				</div><!-- end email_article_thanks -->
+
+				
+					<!-- start article copy -->
+
+
+<div id="articlecontent">
+	
+
+					<p> <p>&ldquo;Bush Lets U.S. Spy on Callers Without Courts.&rdquo; Thus ran the headline of a front-page news story whose repercussions have roiled American politics ever since its publication last December 16 in the <em>New York Times</em>. The article, signed by James Risen and Eric Lichtblau, was adapted from Risen&#39;s then-forthcoming book, <em>State of War</em>.
+
+<sup><a name="1" href="#1.1">1</a></sup> In it, the <em>Times</em> reported that shortly after September 11, 2001, President Bush had &ldquo;authorized the National Security Agency [NSA] to eavesdrop on Americans and others inside the United States . . . without the court-approved warrants ordinarily required for domestic spying.&rdquo;</p>
+<p>Not since Richard Nixon&#39;s misuse of the CIA and the IRS in Watergate, perhaps not since Abraham Lincoln suspended the writ of habeas corpus, have civil libertarians so hugely cried alarm at a supposed law-breaking action of government. People for the American Way, the Left-liberal interest group, has called the NSA wiretapping &ldquo;arguably the most egregious undermining of our civil liberties in a generation.&rdquo; The American Civil Liberties Union has blasted Bush for &ldquo;violat[ing] our Constitution and our fundamental freedoms.&rdquo;</p>
+<p>Leading Democratic politicians, denouncing the Bush administration in the most extreme terms, have spoken darkly of a constitutional crisis. Former Vice President Al Gore has accused the Bush White House of &ldquo;breaking the law repeatedly and insistently&rdquo; and has called for a special counsel to investigate. Senator Barbara Boxer of California has solicited letters from four legal scholars inquiring whether the NSA program amounts to high crimes and misdemeanors, the constitutional standard for removal from office. John Conyers of Michigan, the ranking Democrat on the House Judiciary Committee, has demanded the creation of a select panel to investigate &ldquo;those offenses which appear to rise to the level of impeachment.&rdquo;</p>
+
+<p>The President, for his part, has not only stood firm, insisting on both the legality and the absolute necessity of his actions, but has condemned the <em>disclosure</em> of the NSA surveillance program as a &ldquo;shameful act.&rdquo; In doing so, he has implicitly raised a question that the <em>Times</em> and the President&#39;s foes have conspicuously sought to ignore&mdash;namely, what is, and what should be, the relationship of news-gathering media to government secrets in the life-and-death area of national security. Under the protections provided by the First Amendment of the Constitution, do journalists have the right to publish whatever they can ferret out? Such is certainly today&#39;s working assumption, and it underlies today&#39;s practice. But is it based on an informed reading of the Constitution and the relevant statutes? If the President is right, does the December 16 story in the <em>Times</em> constitute not just a shameful act, but a crime?</p>
+
+<p align="center">_____________</p><br />
+<p>II<br /><br />
+Ever since 9/11, U.S. intelligence and law-enforcement authorities have bent every effort to prevent our being taken once again by surprise. An essential component of that effort, the interception of al-Qaeda electronic communications around the world, has been conducted by the NSA, the government arm responsible for signals intelligence. The particular NSA program now under dispute, which the <em>Times</em> itself has characterized as the U.S. government&#39;s &ldquo;most closely guarded secret,&rdquo; was set in motion by executive order of the President shortly after the attacks of September 11. Just as the <em>Times</em> has reported, it was designed to track and listen in on a large volume of calls and e-mails <em>without</em> applying for warrants to the Foreign Intelligence Security Act (FISA) courts, whose procedures the administration deemed too cumbersome and slow to be effective in the age of cell phones, calling cards, and other rapidly evolving forms of terrorist telecommunication.</p>
+
+<p>Beyond this, all is controversy. According to the critics, many of whom base themselves on a much-cited study by the officially nonpartisan Congressional Research Service, Congress has never granted the President the authority to bypass the 1978 FISA Act and conduct such surveillance. In doing so, they charge, the Bush administration has flagrantly overstepped the law, being guilty, in the words of the <em>New Republic</em>, of a &ldquo;bald abuse of executive power.&rdquo;</p>
+<p>Defenders answer in kind. On more than twelve occasions, as the administration itself has pointed out, leaders of Congress from both parties have been given regularly scheduled, classified briefings about the NSA program. In addition, the program has been subject to internal executive-branch review every 45 days, and cannot continue without explicit presidential reauthorization (which as of January had been granted more than 30 times). Calling it a &ldquo;domestic surveillance program&rdquo; is, moreover, a misnomer: the communications being swept up are international in nature, confined to those calls or e-mails one terminus of which is abroad and at one terminus of which is believed to be an al-Qaeda operative.</p>
+<p>Defenders further maintain that, contrary to the Congressional Research Service, the law itself is on the President&#39;s side.
+<sup><a name="2" href="#2.2">2</a></sup> In addition to the broad wartime powers granted to the executive in the Constitution, Congress, immediately after September 11, empowered the President &ldquo;to take action to deter and prevent acts of international terrorism against the United States.&rdquo; It then supplemented this by authorizing the President to &ldquo;use all necessary and appropriate force against those nations, organizations, or persons he determines planned, authorized, committed, or aided the terrorist attacks.&rdquo; The NSA surveillance program is said to fall under these specified powers.
+
+<sup><a name="3" href="#3.3">3</a></sup></p>
+<p>The debate over the legality of what the President did remains unresolved, and is a matter about which legal minds will no doubt continue to disagree, largely along partisan lines. What about the legality of what the <em>Times</em> did?</p>
+<p align="center">_____________</p><br />
+<p>III<br /><br />
+Although it has gone almost entirely undiscussed, the issue of leaking vital government secrets in wartime remains of exceptional relevance to this entire controversy, as it does to our very security. There is a rich history here that can help shed light on the present situation.</p>
+<p>One of the most pertinent precedents is a newspaper story that appeared in the <em>Chicago Tribune</em> on June 7, 1942, immediately following the American victory in the battle of Midway in World War II. In a front-page article under the headline, &ldquo;Navy Had Word of Jap Plan to Strike at Sea,&rdquo; the <em>Tribune</em> disclosed that the strength and disposition of the Japanese fleet had been &ldquo;well known in American naval circles several days before the battle began.&rdquo; The paper then presented an exact description of the imperial armada, complete with the names of specific Japanese ships and the larger assemblies of vessels to which they were deployed. All of this information was attributed to &ldquo;reliable sources in . . . naval intelligence.&rdquo;</p>
+
+<p>The inescapable conclusion to be drawn from the <em>Tribune</em> article was that the United States had broken Japanese naval codes and was reading the enemy&#39;s encrypted communications. Indeed, cracking JN-25, as it was called, had been one of the major Allied triumphs of the Pacific war, laying bare the operational plans of the Japanese Navy almost in real time and bearing fruit not only at Midway&mdash;a great turning point of the war&mdash;but in immediately previous confrontations, and promising significant advantages in the terrible struggles that still lay ahead. Its exposure, a devastating breach of security, thus threatened to extend the war indefinitely and cost the lives of thousands of American servicemen.</p>
+<p>An uproar ensued in those quarters in Washington that were privy to the highly sensitive nature of the leak. The War Department and the Justice Department raised the question of criminal proceedings against the <em>Tribune</em> under the Espionage Act of 1917. By August 1942, prosecutors brought the paper before a federal grand jury. But fearful of alerting the Japanese, and running up against an early version of what would come to be known as graymail, the government balked at providing jurors with yet more highly secret information that would be necessary to demonstrate the damage done.</p>
+<p>Thus, in the end, the <em>Tribune</em> managed to escape criminal prosecution. For their part, the Japanese either never got wind of the story circulating in the United States or were so convinced that their naval codes were unbreakable that they dismissed its significance. In any case, they left them unaltered, and their naval communications continued to be read by U.S. and British cryptographers until the end of the war.
+
+<sup><a name="4" href="#4.4">4</a></sup></p>
+<p>If the government&#39;s attempt to employ the provisions of the 1917 Espionage Act in the heat of World War II failed, another effort three decades later was no more successful. This was the move by the Nixon White House to prosecute Daniel Ellsberg and Anthony Russo for leaking the Pentagon Papers, which foundered on the rocks of the administration&#39;s gross misconduct in investigating the offense. The administration also petitioned the Supreme Court to stop the <em>New York Times</em> from publishing Ellsberg&#39;s leaked documents, in order to prevent &ldquo;grave and irreparable danger&rdquo; to the public interest; but it did not even mention the Espionage Act in this connection, presumably because that statute does not allow for the kind of injunctive relief it was seeking.</p>
+<p align="center">_____________</p> 
+</p>
+
+
+
+			
+
+<hr class="divider" />
+					
+					<!-- start respond to this article -->
+
+					<div id="respond-to-article" >
+
+						<div style="float:left;; ">
+							<h4 id="respond"><a href="#" onclick="toggleDiv('letter_to_editor');return false;">Respond to this Article</a></h2>
+
+							<a href="#" onclick="toggleDiv('letter_to_editor');return false;"><img id="respond" src="/cm/images/interface/icon.respond.gif" alt="Respond to this Article" /></a>
+												
+						</div>
+						
+						
+						<div id="pagination" >
+
+							&nbsp;
+							<a href="/cm/main/viewArticle.html?id=10036&page=2">
+							Next Page <img id="arrows" src="/cm/images/interface/double-arrow-right.gif" /></a> 				
+							<br/>
+
+							(<span class="current">page 1 of 5 - </span><a href="/cm/main/viewArticle.html?id=10036&page=all">view all</a>)
+						</div>
+
+					</div>
+					<!-- end respond to this article -->
+					
+					<hr class="divider" />
+					<div id="letter_to_editor" >	
+						<div id="head">
+							Write a Letter to the Editor
+						</div>
+					<div style="margin-left:20px">
+						<label>Subject:</label>
+
+						<p>Has the “New York Times” Violated the Espionage Act?</p>
+					</div>
+					<form id="emailEditorForm" action="javascript:emailEditor();">
+					<table><tr><td><input type="checkbox" name="subscribe" /></td><td>  <span style="font-size:9px">Yes, I would like to receive periodic updates and information 
+via e-mail from <i>Commentary</i></span>.</td></tr></table>
+						<input type = "hidden" name="aid" value="10036">
+						<input type = "hidden" name="title" value="Has the “New York Times” Violated the Espionage Act?">						
+
+						<label for="editor_name">Your Name:</label>
+						<input type="text" id="editor_name" name="name" />						
+						
+						<label for="editor_from_address">Your Email Address:</label>
+
+						<input type="text" id="editor_from_address" name="email" />
+
+						<label for="editor_msg">Message:</label>
+						<textarea id="editor_msg" name="content" rows="10"></textarea>
+					
+					
+					<label for="editor_mail">Your Mailing Address<br>(required if your letter is to be printed):</label>
+						<textarea id="editor_mail" name="mail_address" rows="10"></textarea>
+						<input id="btn_send_email_editor" name=""
+							   type="image" width="73" height="32"
+							   src="/cm/images/interface/buttons/btn_bl_send.png"
+							     onclick="if(validateEmailEditor(this.form)){toggleDiv('letter_to_editor');toggleDiv('letter_to_editor_thanks');javascript:emailEditor();} return false;" /> 
+					</form>
+</div><!-- end letter_to_editor -->			
+
+<div id="letter_to_editor_thanks" style="height:150px;">
+					<div id="head">
+						Write a Letter to the Editor
+					<input id="btn_letter_to_editor_close" type="image"
+							src="http://www.commentarymagazine.com/cm/images/interface/buttons/btn_close_24bit.png"
+							width="23" height="23" title="close window" />
+					</div>
+
+					
+					
+					<div id="email_article_thanks_sub1">
+						<h4>Thank You</h4>
+						<p>Your email has been sent.</p>
+					</div>
+					
+				</div><!-- end email_article_thanks -->
+		<!-- start footnotes -->
+						<div id="footnotes">
+
+							<h3>Footnotes</h3>
+							<p><p><sup><a href="#1" name="1.1">1</a></sup> <em>State of War: The Secret History of the CIA and the Bush Administration</em>. Free Press, 240 pp., $26.00.</p>
+<p><sup><a href="#2" name="2.2">2</a></sup> The non-partisan status of the Congressional Research Service has been called into question in this instance by the fact that the study&#39;s author, Alfred Cumming, donated $1,250 to John Kerry&#39;s presidential campaign, as was reported by the <em>Washington Times</em>.</p>
+<p><sup><a href="#3" name="3.3">3</a></sup> What the U.S. government was doing, furthermore, differed little if at all from what it had done in the past in similar emergencies. &ldquo;For as long as electronic communications have existed,&rdquo; as Attorney General Alberto Gonzalez has pointed out, &ldquo;the United States has conducted surveillance of [enemy] communications during wartime&mdash;all without judicial warrant.&rdquo;</p>
+
+<p><sup><a href="#4" name="4.4">4</a></sup> David Kahn concludes in <em>The Codebreakers</em> (1967) that in part, &ldquo;the Japanese trusted too much to the reconditeness of their language for communications security, clinging to the myth that no foreigner could ever learn its multiple meanings well enough to understand it properly. In part they could not envision the possibility that their codes might be read.&rdquo;</p>
+<p><sup><a href="#5" name="5.5">5</a></sup> In January 2001, a decade-and-a-half after his release, and following a campaign on his behalf by Senator Daniel Patrick Moynihan, Morison was granted a full pardon by President Bill Clinton on his final day in office.</p>
+<p><sup><a href="#6" name="6.6">6</a></sup> If Franklin continues to cooperate with the authorities, his sentence will be reviewed and probably reduced after the trial of Rosen and Weissman.</p>
+<p><sup><a href="#7" name="7.7">7</a></sup> According to Jon Friedman&#39;s online Media Web, the <em>Times</em>&rsquo;s publisher, Arthur Sulzberger, Jr., also met with President Bush before the NSA story was published.</p>
+
+<p><sup><a href="#8" name="8.8">8</a></sup> &ldquo;The Espionage Statutes and Publication of Defense Information,&rdquo; <em>Columbia Law Review</em>, Vol. 73., No. 5., May 1973.</p>
+<p><sup><a href="#9" name="9.9">9</a></sup> If the Japanese were not paying close attention to American newspapers, the Germans were. Within days of Pearl Harbor, Hitler declared war on the United States, indirectly citing as a <em>casus belli</em> the American war plans revealed in the <em>Tribune</em>.</p>
+<p><sup><a href="#10" name="10.10">10</a></sup> Whether Plame was in fact a secret agent&mdash;according to <em>USA Today</em>, she has worked at CIA headquarters in Langley, Virginia since 1997&mdash;remains an issue that is likely to be explored fully if the Libby case proceeds to trial.</p>
+
+<p align="center">_____________</p><br />
+</body>
+</html></p>		
+						</div>
+					<!-- end footnotes -->
+				
+		        
+
+					<!-- end article copy -->
+					
+					 <hr class="divider" />					
+				
+					<!-- start about the author -->
+					<div id="about-author">
+
+						<h3>About the Author</h3>
+						
+									<p><p><strong>Gabriel Schoenfeld</strong> <em>is the senior editor of</em> COMMENTARY. <em>His previous articles on intelligence matters in these pages include &ldquo;Could September 11 Have Been Averted?&rdquo; (December 2001), &ldquo;How Inept Is the FBI?&rdquo; (May 2002), and &ldquo;What Became of the CIA&rdquo; (March 2005).</em></p>
+<p>&nbsp;</p></p>
+								
+
+
+					</div>
+					
+					<!-- end about the author -->
+				
+					<!-- start copyright -->
+					<p id="copyright">&copy; 2010 Commentary Inc.</p>
+
+					<!-- end copyright -->
+				</div> 	
+				
+			
+				</div>
+			
+			
+			
+			
+			
+			
+
+						<!-- end also in this issue -->
+	 
+	</div><!--/center-->
+	<div class="right">
+    <div class="right_btop"></div>
+
+
+
+	  <div class="right_content">
+	  
+	  
+			
+			<div id="also-by-author">
+				<div id="head" style="margin-bottom:0">
+					<img id="header" src="/cm/images/interface/alsobyauthor.gif" alt="Also by this Author" style="margin-bottom:0" />
+				</div>
+				<div id="content" style="margin-top:0">
+					
+					<p>
+						<a href="http://www.commentarymagazine.com/viewarticle.cfm/In-the-Matter-of-George-W--Bush-v--the-Constitution-11388" title="">In the Matter of George W. Bush v. the Constitution</a>
+						<span class="date">June 2008</span>
+					</p>
+					
+					<p>
+						<a href="http://www.commentarymagazine.com/viewarticle.cfm/The-Return-of-History-and-the-End-of-Dreams-by-Robert-Kagan-11361" title="">The Return of History and the End of Dreams by Robert Kagan</a>
+						<span class="date">May 2008</span>
+					</p>
+					
+					<p>
+						<a href="http://www.commentarymagazine.com/viewarticle.cfm/Surrender-Is-Not-An-Option-br--by-John-Bolton-11034" title="">Surrender Is Not An Option<br />by John Bolton</a>
+						<span class="date">January 2008</span>
+					</p>
+				
+	<p style="margin-top:5px; margin-bottom:5px;"><a href="http://www.commentarymagazine.com/cm/main/searchArticles.html?authorKeywords=Gabriel  Schoenfeld"><img 
+	 src="/cm/images/interface/more.gif" alt=""  align="left" /></a></p>
+			<br />
+				</div>
+			</div>
+			
+			
+			<div id="also-by-author">
+
+				
+				<div id="head" style="margin-bottom:0">
+					<img id="header" src="/cm/images/interface/relatedletters.gif" alt="Related Letters" style="margin-bottom:0"  />
+				
+				</div>
+
+				 
+				<div id="content" style="margin-top:0">
+				
+					
+					<p>
+						<a href="http://www.commentarymagazine.com/viewarticle.cfm/The-Espionage-Act-and-the--New-York-Times--11158" title="">The Espionage Act and the "New York Times"</a>
+						<span class="date">June 2006</span>
+					</p>
+				
+	
+				</div>
+			</div>
+			
+			<div style="margin-top:5px;margin-bottom:0px;">
+				<p class="small color-grey2 nomargins mb5px">Advertisement</p>
+		
+	 
+			
+
+
+			
+			<div style="margin-top:5px;margin-bottom:5px;">
+			 	<iframe id='ab267c5b' name='ab267c5b' src='http://ads.dkelseymedia.com/www/delivery/afr.php?zoneid=104&amp;cb=INSERT_RANDOM_NUMBER_HERE' frameborder='0' scrolling='no' width='160' height='200'><a href='http://ads.dkelseymedia.com/www/delivery/ck.php?n=a38a6e57&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://ads.dkelseymedia.com/www/delivery/avw.php?zoneid=104&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=a38a6e57' border='0' alt='' /></a></iframe>
+			</div>
+			
+<div style="margin-top:5px;margin-bottom:5px;">			
+			<!-- BEGIN Powered by WebAds CODE BLOCK -->
+ 
+<!-- Campaign ID: 929 -->
+<!-- Campaign Name: Yad Vashem Testimonies 160x200 [Commentary] -->
+<!-- Size ID: 27 -->
+<!-- Size Name: Half Sidebar -->
+<!-- Size Width: 160 -->
+<!-- Size Height: 200 -->
+ 
+<IFRAME src="http://adserver.webads.co.il/servlet/view/banner/html/campaign?cid=929&pid=148" height="200" width="160" hspace="0" vspace="0" frameborder="0" marginwidth="0" marginheight="0" scrolling="no">
+<A href="http://adserver.webads.co.il/servlet/click/campaign?cid=929&pid=148&lookup=true&position=1" target="_top">
+<IMG src="http://adserver.webads.co.il/servlet/view/banner/image/campaign?cid=929&pid=148&position=1" height="200" width="160" hspace="0" vspace="0" border="0" alt="WebAds">
+</A>
+</IFRAME>
+ 
+ 
+<!-- END PoweredbyWebAds.com CODE BLOCK -->
+</div>
+			
+			
+	
+
+
+
+<div style="margin-bottom:5px;">
+
+	<IFRAME marginWidth="0" marginHeight="0" src="http://xdev.info/?website=CMM&Area=C" frameBorder="0" width="160" scrolling="no" height="600" allowTransparency></IFRAME>
+
+</div>
+<div style="margin-bottom:5px;">
+	
+		<IFRAME marginWidth="0" marginHeight="0" src="http://xdev.info/?website=CMM&Area=D" frameBorder="0" width="160" scrolling="no" height="600" allowTransparency></IFRAME>
+	
+</div>
+<div style="margin-bottom:5px;">
+
+	<IFRAME marginWidth="0" marginHeight="0" src="http://xdev.info/?website=CMM&Area=E" frameBorder="0" width="160" scrolling="no" height="600" allowTransparency></IFRAME>
+
+</div>
+
+
+
+<div style="margin-bottom:5px;">
+	
+		<IFRAME marginWidth="0" marginHeight="0" src="http://xdev.info/?website=CMM&Area=F" frameBorder="0" width="160" scrolling="no" height="600" allowTransparency></IFRAME>
+	
+</div>
+
+
+<div style="margin-bottom:5px;">
+	<a href="http://www.commentarymagazine.com/redirect_.cfm?zoneid=36" target="_blank"><img src="/banner_.cfm?zoneid=36" width="160"   border="0" /></a>
+</div>
+
+
+
+	</div>
+			 
+	    <div class="newsletter" style="margin-top:5px">
+		<a href="http://commentarymagazine.us2.list-manage.com/subscribe?u=d3f8fcad99d20c1213d67b0bd&id=a6a27453af"><img src="/images/red_signup.gif" alt="" class="red_signup" /></a>
+	    </div>
+          <div id="this_issue">
+				
+
+				<div id="this_issue_full">
+
+					<img src="/cm/images/covers/13005_cover_full.png" id="issue_pic" alt="image of latest cover"/>
+
+					<input id="btn_close" type="image" src="/cm/images/interface/buttons/btn_close_24bit.png"
+						   width="23" height="23" title="close navigation"  />
+				</div>
+				
+				<a href="/free_issue.cfm" class="color-white"><img id="this_issue_collapsed" src="/cm/images/covers/13005_cover.png" alt="image of latest cover" /></a>
+				<input id="btn_open" type="image" src="/cm/images/interface/buttons/btn_open_24bit.png"
+					   width="23" height="23" title="open navigation"  />
+          </div>
+        
+		
+		<div class="text_in_red">
+		<img src="/images/list_img.gif" alt="" class="floatleft listim" />
+		<p class="floatleft" style="margin-bottom:0"><a href="/free_issue.cfm" class="color-white" style="color:white"><font  color="#FFFFFF">FREE SAMPLE ISSUE</font></a></p>
+		</div>
+	
+	
+	
+		<div class="archive" style="margin-top:5px;">
+          <ul>
+		    <li><a href="http://www.commentarymagazine.com/searcharchive.cfm">the complete archive</a></li>
+		    <li><a href="http://www.commentarymagazine.com/searcharchive.cfm">hundreds of authors</a></li>
+		    <li><a href="http://www.commentarymagazine.com/searcharchive.cfm">thousands of articles</a></li>
+		    <li class="last_li"><a href="http://www.commentarymagazine.com/searcharchive.cfm">American history<br />since 1945</a></li>									
+		  </ul>
+		</div>
+ <div class="text_in_red">
+		    <img src="/images/list_img.gif" alt="" class="floatleft listim" />
+		    <p class="floatleft"><a href="http://www.commentarymagazine.com/searcharchive.cfm" class="color-white" ><font  color="#FFFFFF">ENTER THE ARCHIVE</font></a></p>
+		  </div>
+ 
+<div style="margin-top:5px;">
+		<a href="http://www.commentarymagazine.com/advonline.cfm"><img src="/images/advertise.gif" alt="" /></a></div>
+		<div style="margin-top:5px;">
+		<a href="http://www.commentarymagazine.com/shalomofsafed.cfm"><img src="/images/shalomofsafed.jpg" alt="" /></a></div>
+			
+	 <p style="background-color:#cccccc; width:160px; padding-top:5px; padding-bottom:5px; text-align:center; margin:0; font-family: Aricle, sans-serif; font-weight:bolder">ADVERTISER LINKS</p>
+	 <div class="textadsds" style="font-size:9px; text-decoration:underline">
+	  <p>
+<a href="http://www.nobelcom.com"><font size="2">calling card</font></a><br />
+<a href="http://www.phonecardscentral.com/"><font size="2">international phone cards</font></a><br />
+<a href="http://www.DiyAwards.com/"><font size="2">Engraved Crystal Awards and Plaques</font></a><br />
+<a href="http://www.carloan4u.co.uk/"><font size="2">Car Finance</font></a><br />
+<a href="http://astronutrition.com"><font size="2">Nutrition Supplements</font></a><br />
+<a href="http://www.etchedcrystals.com"><font size="2">Etched Crystal Awards & Crystal Plaques</font></a><br />
+<a href="http://yourlocalsecurity.com/monitoring.html"><font size="2">ADT Alarm Monitoring</font></a><br />
+</p>
+
+	 </div>
+	 
+	
+		<div>
+		
+		<p class="small color-grey2 nomargins mb5px">Advertisement</p>		
+		<div>
+			<IFRAME marginWidth="0" marginHeight="0" src="http://xdev.info/?website=CMM&Area=G" frameBorder="0" width="160" scrolling="no" height="600" allowTransparency></IFRAME>
+
+
+		</div>	
+		
+        </div>
+
+	  </div>
+	 
+	  <div class="right_bbot"></div>
+	  </div>
+	  
+	</div>  <!--/right-->
+	<div class="footer">
+	  <div class="left_footer">
+	  <p>
+			<a href="/" title="">Home</a> |
+			<a href="https://www.commentarymagazine.com/subscribe.cfm" title="Subscribe to Commentary">Subscribe</a> | 
+			<a href="/cm/main/aboutHistory.html" title="">About Us</a> | 
+			<a href="https://www.commentarymagazine.com/donate.cfm" title="Donate to Commentary">Donate</a> | 
+			<a href="/cm/main/advOpportunities.html" title="">Advertise</a> | 
+			<a href="/cm/main/aboutMasthead.html#contact" title="">Contact Us</a> | 
+			<a href="/cm/main/aboutTerms.html" title="">Legal Notices</a> | 
+			<a href="/cm/rss/rssFeeds.html" title="">RSS</a> 		
+			</p>
+	  </div>
+      <div class="right_footer">
+	      <h1 id="flogo"><a href="/" id="flogo"></a>Commentary</h1>
+		  <p class="copy">Copyright &#169; 1997-2010 Commentary Magazine<br />
+All Rights Reserved</p>
+	  </div>
+	</div><!--/footer-->
+  </div><!--/container--> 
+</div> <!--/global-->
+
+<!-- End SiteCatalyst code version: H.8. -->
+<!-- google analytics -->
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-525474-1");
+pageTracker._initData();
+pageTracker._trackPageview();
+</script>
+
+
+<script language="JavaScript">
+// METATRAFFIC -- COPYRIGHT (C) 2002-2005, Metasun Software Corp.
+
+var pagetitle = document.title; //INSERT CUSTOM PAGE NAME IN QUOTES
+var action = ""; //ACTION CODE
+var amount = "0"; //ACTION AMOUNT (LEAVE BLANK OR 0 IF NO AMOUNT)
+var order = ""; //INSERT UNIQUE ORDER NUMBER
+
+var scriptlocation = "/metatraffic2/track.asp";
+
+var pagedata = 'mtpt=' + escape(pagetitle) + '&mtac=' + escape(action) + '&mta=' + amount + '&mto=' + escape(order) + '&mtr=' + escape(document.referrer) + '&mtt=2&mts=' + window.screen.width + 'x' + window.screen.height + '&mti=1&mtz=' + Math.random(); 
+document.write ('<img height=1 width=1 ');
+document.write ('src="' + scriptlocation + '?' + pagedata + '">');
+</script>
+<noscript><a href="http://www.metasun.com/" target="_blank">
+<img src="/metatraffic2/track.asp?mtt=2&mti=1" alt="site traffic analysis" border=0></a>
+</noscript>
+
+	<!-- Start Quantcast tag -->
+	<script type="text/javascript"
+	src="http://edge.quantserve.com/quant.js"></script>
+
+	<script type="text/javascript">
+	_qoptions={
+	qacct:"p-e2MuTDQDDJ-hc"
+	};
+	</script>
+	<noscript>
+	
+	</noscript>
+
+	<!-- End Quantcast tag -->
+	
+	<!-- Advertiser 'Vizi Direct',  Include user in segment 'Conservative Sites' - DO NOT MODIFY THIS PIXEL IN ANY WAY -->
+	
+	<img src="http://ad.iconadserver.com/pixel?id=80935&t=2" width="1" height="1" />
+	
+	<!-- End of segment tag -->
+
+
+
+<!-- Start Quantcast tag -->
+<script type="text/javascript">
+_qoptions={
+qacct:"p-e2MuTDQDDJ-hc"
+};
+</script>
+
+<noscript>
+
+</noscript>
+<!-- End Quantcast tag -->
+
+</body>
+</html>

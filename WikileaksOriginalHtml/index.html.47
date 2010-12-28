@@ -1,0 +1,650 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+		<title>Wikileaks loses domain name after DoS attacks | Security | ZDNet UK</title>
+			<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+		<meta name="description" content="Wikileaks has lost its DNS services after its provider pulled the plug following a massive denial-of-service attack to the site." />
+		
+			<link rel="stylesheet" href="/css/grp.css/style.css--1291821222&amp;zdnet-uk.css--1292604203" media="screen" type="text/css" />
+		<!--[if lt IE 7]>
+	<link rel="stylesheet" href="/css/ie6.css" type="text/css" />
+<![endif]-->
+	
+			<script type="text/javascript" src="/js/grp.js/mootools-1.2.5-core.js--1287654603&amp;mootools-1.2.4-more.js--1279532697&amp;formcheck.js--1283869479&amp;member.js--1291725164&amp;tabswapper.js--1279532697&amp;global.js--1291136102"></script>
+			<script type="text/javascript" src="http://platform.twitter.com/anywhere.js?id=sFRPpMTSo4Zv89IQKflE0g&v=1"></script>
+</head>
+<body>
+	<div style="position:absolute;"><script type="text/javascript" src="http://ad.uk.doubleclick.net/adj/zdnetuk.news-and-analysis/security;chan=news-and-analysis;var1=security;topic=wikileaks;story=40091046;dcopt=ist;tile=1;sz=1x1;ord=1293405311?"></script>
+<noscript><a href="http://ad.uk.doubleclick.net/jump/zdnetuk.news-and-analysis/security;chan=news-and-analysis;var1=security;topic=wikileaks;story=40091046;tile=1;sz=1x1;ord=1293405311?" target="_blank"><img src="http://ad.uk.doubleclick.net/ad/zdnetuk.news-and-analysis/security;chan=news-and-analysis;var1=security;topic=wikileaks;story=40091046;tile=1;sz=1x1;ord=1293405311?" border="0" alt="" /></a></noscript>
+</div>
+<div id="header">
+	<a href="/" class="logo" title="ZDNet UK - Business IT News and Reviews">ZDNet UK - Business IT News and Reviews</a>
+	
+			<ul class="membership">
+						<li><a href="" class="signin" id="log-in" onclick="logIn();return false;" rel="nofollow" title="Sign in to your account">Sign In</a></li>
+			<li><a href="" class="join" onclick="loadLightbox('long-registration');return false;" rel="nofollow" title="Join ZDNet UK">Join</a></li>
+		</ul>
+	
+	<form action="/search/" class="search" method="post" onsubmit="if ($('terms').defaultValue == $('terms').value) $('terms').value = ''; Omniture.trackSearch(this, $('terms').value);">
+		<fieldset>
+		<input name="terms" id="terms" tabindex="1" type="text" value="Search" onclick="if (this.defaultValue == this.value) this.value = '';" />
+		<input class="submit" type="submit" value="Search" />
+		</fieldset>
+	</form>
+	<ul class="edition">
+		<li><a href="/">UK Edition</a></li>
+		<li class="countries">
+			<p>ZDNet is available in the following editions:</p>
+			<p><a href="http://www.zdnetasia.com/">Asia</a><br />
+				<a href="http://www.zdnet.com.au/">Australia</a><br />
+				<a href="http://www.zdnet.com.cn/">China</a><br />
+				<a href="http://www.zdnet.fr/">France</a><br />
+				<a href="http://www.zdnet.de/">Germany</a><br />
+                                <a href="http://japan.zdnet.com/">Japan</a></p>
+				<a href="http://www.zdnet.com/">USA</a></p>
+		</li>
+	</ul>
+	<ul class="topics">
+			<li><a href="/news/" onclick="Omniture.trackGeneric(this,redbar-News,'/news/');" >News</a></li>
+			<li><a href="/reviews/" onclick="Omniture.trackGeneric(this,redbar-Reviews,'/reviews/');" >Reviews</a></li>
+			<li><a href="/blogs/" onclick="Omniture.trackGeneric(this,redbar-Blogs,'/blogs/');" >Blogs</a></li>
+			<li><a href="/hot-topics/broadband-261114375/" onclick="Omniture.trackGeneric(this,redbar-Broadband,'/hot-topics/broadband-261114375/');" >Broadband</a></li>
+			<li><a href="/hot-topics/cloud-261114369/" onclick="Omniture.trackGeneric(this,redbar-Cloud,'/hot-topics/cloud-261114369/');" >Cloud</a></li>
+			<li><a href="/hot-topics/wikileaks-261856003/" onclick="Omniture.trackGeneric(this,redbar-Wikileaks,'/hot-topics/wikileaks-261856003/');" >Wikileaks</a></li>
+			<li><a href="/hot-topics/html-5-261577090/" onclick="Omniture.trackGeneric(this,redbar-HTML 5,'/hot-topics/html-5-261577090/');" >HTML 5</a></li>
+			<li><a href="/hot-topics/security-261538552/" onclick="Omniture.trackGeneric(this,redbar-Security,'/hot-topics/security-261538552/');" >Security</a></li>
+			<li><a href="/hot-topics/windows-7-261114371/" onclick="Omniture.trackGeneric(this,redbar-Windows 7,'/hot-topics/windows-7-261114371/');" >Windows 7</a></li>
+			<li><a href="/tags/date/0/n-69l/apple.htm" onclick="Omniture.trackGeneric(this,redbar-Apple,'/tags/date/0/n-69l/apple.htm');" >Apple</a></li>
+			<li><a href="/tags/date/0/n-69l/google.htm" onclick="Omniture.trackGeneric(this,redbar-Google,'/tags/date/0/n-69l/google.htm');" >Google</a></li>
+			<li><a href="/tags/date/0/n-69l/linux.htm" onclick="Omniture.trackGeneric(this,redbar-Linux,'/tags/date/0/n-69l/linux.htm');" >Linux</a></li>
+	</ul>
+</div>
+
+<div id="page">
+		<div id="leaderboard-top" class="wrapper leaderboard">
+		<div class="ad"><script type="text/javascript" src="http://ad.uk.doubleclick.net/adj/zdnetuk.news-and-analysis/security;chan=news-and-analysis;var1=security;pos=leader;topic=wikileaks;story=40091046;tile=2;sz=728x90,980x150,970x66;ord=1293405311?"></script>
+<noscript><a href="http://ad.uk.doubleclick.net/jump/zdnetuk.news-and-analysis/security;chan=news-and-analysis;var1=security;pos=leader;topic=wikileaks;story=40091046;tile=2;sz=728x90,980x150,970x66;ord=1293405311?" target="_blank"><img src="http://ad.uk.doubleclick.net/ad/zdnetuk.news-and-analysis/security;chan=news-and-analysis;var1=security;pos=leader;topic=wikileaks;story=40091046;tile=2;sz=728x90,980x150,970x66;ord=1293405311?" border="0" alt="" /></a></noscript>
+</div>
+	</div>
+		<div class="wrapper clearfix">
+			<div class="banner baseline-up-1 pull-0" style="background-image:url(/i/hot-topics/wikileaks.jpg);">
+	<script type="text/javascript" src="http://ad.uk.doubleclick.net/adj/zdnetuk.news-and-analysis/security;chan=news-and-analysis;var1=security;topic=wikileaks;story=40091046;tile=3;sz=60x30;ord=1293405311?"></script>
+<noscript><a href="http://ad.uk.doubleclick.net/jump/zdnetuk.news-and-analysis/security;chan=news-and-analysis;var1=security;topic=wikileaks;story=40091046;tile=3;sz=60x30;ord=1293405311?" target="_blank"><img src="http://ad.uk.doubleclick.net/ad/zdnetuk.news-and-analysis/security;chan=news-and-analysis;var1=security;topic=wikileaks;story=40091046;tile=3;sz=60x30;ord=1293405311?" border="0" alt="" /></a></noscript>
+
+	<p><a href="/hot-topics/wikileaks-261856003/"><span>ZDNet UK's special coverage on</span>Wikileaks</a></p>
+</div>
+	<div class="column-10 first">
+			<h3 class="breadcrumb">
+									<a href="/">ZDNet UK</a> / 												<a href="/news/">News and Analysis</a> / 												<a href="/news/security/">Security</a>						</h3>
+			
+	<h1>Wikileaks loses domain name after DoS attacks</h1>
+<span class="byline">By
+		   		                      <a href="/search/darren-pauli/n-1z0wm2e/" >Darren Pauli</a> , 	   		ZDNet Australia, 			<a href="/2010/12/03/"> 3 December, 2010 09:24</a>
+	</span>
+<div class="column-2 first">
+	
+<div class="section">
+	<h2 class="sub">Topics</h2>
+	<p>
+			<a href="/tags/wikileaks.htm">Wikileaks</a>, 			<a href="/tags/dns.htm">DNS</a>, 			<a href="/tags/dos.htm">DoS</a>, 			<a href="/tags/attack.htm">Attack</a>		</p>
+</div>
+
+
+
+
+<div class="sponsored-links">
+	<iframe src="http://bwp.zdnet.co.uk/search%3Fstyle=new" frameborder="0" scrolling="no"></iframe>
+</div>	</div>	
+
+<div class="column-8 last">
+	<div class="content clearfix">
+        						<div class="bug"><strong>NEWS</strong></div>			                        
+				
+
+
+
+
+
+
+
+<strong><p>The DNS services of Wikileaks.org and Cablegate.org have been ceased in a move that may torpedo efforts to access the websites.</strong>
+</p><div class="magic-box">
+            <div class="basic">
+
+                <p class="red">Read this</p>
+
+                      <h5><a href="http://www.zdnet.co.uk/news/security/2010/12/02/amazon-pulls-the-plug-on-wikileaks-servers-40091041/">Amazon pulls the plug on Wikileaks servers</a></h5>
+
+                <p>Amazon has terminated its cloud services relationship with the whistleblower site after pressure from a US government committee, according to a US senator</p>
+
+                <p class="more"><a href="http://www.zdnet.co.uk/news/security/2010/12/02/amazon-pulls-the-plug-on-wikileaks-servers-40091041/" title="Read full story">Read more<img src="/i/z5/gl/bul/plus.gif" alt="+" title="" width="12" height="12" /></a></p>
+
+</div>
+    </div><p>The websites can still be accessed via their IP addresses — http://88.80.13.160/ and http://204.236.131.131/, respectively — according to a <a href="http://wikileaks.info/" target="_blank">Wikileaks list of IP address mirrors</a>. Alternatives are also on the mirror site.
+
+</p><p>However, the DNS services that allows a user to enter an alphabetical web address, such as www.wikileaks.org, have been ceased. Users attempting to type in the address will be served a blank page.
+
+</p><p><a href="http://www.zdnet.co.uk/blogs/mixed-signals-10000051/wikileaks-shows-us-cyber-intelligence-at-work-10021175/">Wikileaks</a>' DNS provider EveryDNS.net pulled the DNS services at 10pm EST (3am GMT) after the site suffered a massive denial-of-service (DoS) attack. EveryDNS.net said in a <a href="http://www.everydns.com/index.php" target="_blank">post on its site</a> that it had done so because the DoS contravened acceptable use policy.
+</p><div style="width: 610px;" class="center"><div><img alt="Wikileaks.org image" src="/i/z5/illo/nw/story_graphics/10dec/wikileaks-ss.jpg"></div><p class="credit"><b>The web address www.wikileaks.org returns a blank page. </b><i>Screenshot: Shannon Doubleday/ZDNet UK</i></p> </div><p>For more on this ZDNet UK-selected story, see <a target="_blank" href="http://www.zdnet.com.au/wikileaks-site-down-but-not-out-339307752.htm">Wikileaks site down ... but not out</a> on ZDNet Australia.</p>								</div>
+					<ul class="section tools clearfix">
+	<li class="comments"><a href="#comments">4</a></li>
+			<li class="facebook-like"><iframe src="http://www.facebook.com/plugins/like.php?href=http://www.zdnet.co.uk%2Fnews%2Fsecurity%2F2010%2F12%2F03%2Fwikileaks-loses-domain-name-after-dos-attacks-40091046%2F&amp;layout=button_count&amp;show_faces=false&amp;width=90&amp;action=like&amp;colorscheme=light&amp;height=21" scrolling="no" frameborder="0" allowTransparency="true"></iframe></li>
+		<li class="tweet"><a href="http://twitter.com/home?status=http://www.zdnet.co.uk%2Fnews%2Fsecurity%2F2010%2F12%2F03%2Fwikileaks-loses-domain-name-after-dos-attacks-40091046%2F" class="twitter-share-button" data-count="none">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script></li>
+		<li class="reddit"><a href="http://reddit.com/submit" onclick="window.location = 'http://reddit.com/submit?url=' + encodeURIComponent(window.location); return false">Reddit</a></li>
+	<li class="email"><a href="javascript:void(0)" onclick="loadLightbox('email-story','/news/security/2010/12/03/wikileaks-loses-domain-name-after-dos-attacks-40091046/');return false;" rel="nofollow">Email</a></li>
+		<li class="print"><a href="/news/security/2010/12/03/wikileaks-loses-domain-name-after-dos-attacks-40091046/print/" rel="nofollow" target="_blank">Print</a></li>
+		<li class="alert"><a href="javascript:void(0)" onclick="createAlert({'type':'topics','topics':[[3900308289, 'Wikileaks'], [3900172543, 'DNS'], [3900160793, 'DoS'], [3900152428, 'Attack']]});">Alert</a></li>
+</ul>	<div class="section clearfix">
+	<h2 class="sub">Related stories</h2>
+	<div class="archive column-4 first">
+		<h4><a href="/news/security/2010/12/02/amazon-pulls-the-plug-on-wikileaks-servers-40091041/">Amazon pulls the plug on Wikileaks servers</a></h4>
+		<h4><a href="/news/security/2010/11/29/wikileaks-taken-off-australian-blacklist-40091002/">Wikileaks taken off Australian blacklist</a></h4>
+	</div>
+	<div class="archive column-4 last">
+			<h4><a href="/news/security/2010/11/29/congressman-wants-wikileaks-on-terrorist-list-40091000/">Congressman wants Wikileaks on terrorist list</a></h4>
+			<h4><a href="/news/business-of-it/2010/11/19/wikileaks-assange-faces-arrest-on-rape-charges-40090919/">Wikileaks&#039; Assange faces arrest on rape charges</a></h4>
+			<h4><a href="/news/security/2010/10/23/wikileaks-releases-secret-iraq-war-files-40090627/">Wikileaks releases secret Iraq war files</a></h4>
+		</div>
+</div>	<div id="comments" class="section">
+				<h2>Talkback</h2>
+					<div class="talkback">
+				<div class="comment">
+										    <p>Wikileaks&#039; DNS provider said: The interference at issues arises from the fact that wikileaks.org has become the target of multiple distributed denial of service (DDOS) attacks. These attacks have, and future attacks would, threaten the stability of the EveryDNS.net infrastructure, which enables access to almost 500,000 other websites.<br />
+<br />
+Interesting isn&#039;t it that Wikileaks has become the focus of a DOS attack because it told the truth? Compare that to the thousands (probably more) of sites that spread lies and disinformation to protect the powerful - where are these self-appointed guardians then?</p>
+					    <div class="author clearfix">
+						    						    <a href="/member-profile/114626/">manek</a>
+						    <span class="date"> 3 December, 2010 10:51</span>
+					    </div>
+						<span class="more-engagement">
+												<a href="#comment-submit" class="reply">Reply</a></span>
+									</div>
+			</div>
+					<div class="talkback">
+				<div class="comment">
+										    <p>Very much agree Manek.<br />
+<br />
+The translation is:<br />
+We were leaned on by someone big and we have no balls.</p>
+					    <div class="author clearfix">
+						    						    <a href="/member-profile/2000561399/">Tezzer</a>
+						    <span class="date"> 3 December, 2010 12:27</span>
+					    </div>
+						<span class="more-engagement">
+												<a href="#comment-submit" class="reply">Reply</a></span>
+									</div>
+			</div>
+					<div class="talkback">
+				<div class="comment">
+										    <p>Wonder why the Pentagon cares?  Outside the US, everybody already knows that their policy is making more enemies so they can keep wasting tax money on arms,  oil, and MREs.  In the States, nobody knows about the leaks and the patriotic propaganda stands as God&#039;s truth.  Wikileaks really didn&#039;t change that much.  But kudos to their courage.</p>
+					    <div class="author clearfix">
+						    						    <a href="/member-profile/2000702884/">Briefcentury</a>
+						    <span class="date"> 3 December, 2010 20:13</span>
+					    </div>
+						<span class="more-engagement">
+												<a href="#comment-submit" class="reply">Reply</a></span>
+									</div>
+			</div>
+					<div class="talkback">
+				<div class="comment">
+										    <p>WikiLeaks is now available at:<br />
+<br />
+http://wikileaks.de/<br />
+<br />
+http://wikileaks.fi/<br />
+<br />
+http://wikileaks.nl/</p>
+					    <div class="author clearfix">
+						    						    <a href="/member-profile/2000702889/">velvetfog</a>
+						    <span class="date"> 3 December, 2010 22:19</span>
+					    </div>
+						<span class="more-engagement">
+												<a href="#comment-submit" class="reply">Reply</a></span>
+									</div>
+			</div>
+					<div class="talkback">
+				<div class="comment">
+										    <p>This post has been removed by a moderator.</p>
+									</div>
+			</div>
+			</div>
+<div id="comment-submit" class="section">
+	<h2>Post your comment</h2>
+<p class="strong">In order to post a comment you need to be registered and logged in</p>
+<p class="mb-20"><a href="#" class="strong" onclick="loadLightbox('log-in');return false;">Log in</a> or create your ZDNet UK account below</p>
+<form action="" class="form float-fields" id="comment-form" onsubmit="return false;" method="post">
+	<div class="clearfix">
+		<p class="msg-error" id="comment-form-message" style="display:none;"></p>
+		<label for="email">Your email *</label>
+		<div class="textwrapper">
+			<input autocomplete="off" class="validate['required','email','email_availability']" id="email" name="email" type="text" value="" />
+		</div>
+		<p class="quiet note clear">Will not be displayed with your comment</p>
+		<label for="username">Choose a username *</label>
+		<div class="textwrapper">
+			<input autocomplete="off" class="validate['required','alphanum','length[3,16]','username_availability']" id="username" name="username" type="text" value="" />
+		</div>
+		<label for="password">Choose a password *</label>
+		<div class="textwrapper">
+			<input autocomplete="off" class="validate['required']" id="password" name="password" type="password" value="" />
+		</div>
+		<label for="confirm_password">Retype password *</label>
+		<div class="textwrapper">
+			<input autocomplete="off" class="validate['confirm[password]']" id="confirm_password" name="confirm_password" type="password" value="" />
+		</div>
+		<label for="recaptcha_response_field">Captcha *</label>
+		<div class="captcha">
+	
+										
+			<script type="text/javascript">
+				var RecaptchaOptions = {
+				   theme : 'clean'
+				};
+			</script>
+			
+		
+			<script type="text/javascript" src="http://api.recaptcha.net/challenge?k=6LdcdQgAAAAAABTF2WRTFCrJRF1JWvGsGJDdhDaq"></script>
+
+	<noscript>
+  		<iframe src="http://api.recaptcha.net/noscript?k=6LdcdQgAAAAAABTF2WRTFCrJRF1JWvGsGJDdhDaq" height="300" width="500" frameborder="0"></iframe><br/>
+  		<textarea name="recaptcha_challenge_field" rows="3" cols="40"></textarea>
+  		<input type="hidden" name="recaptcha_response_field" value="manual_challenge"/>
+	</noscript>		</div>
+	</div>
+	<div>
+		<input type="hidden" id="content_type" name="content_type" value="Story" />
+		<input type="hidden" id="content_id" name="content_id" value="40091046" />
+		<button class="button2" type="submit"><span>Submit</span></button>
+	</div>
+</form>
+
+
+<script type="text/javascript">
+	fc = new FormCheck('comment-form', { onValidateSuccess : doShortRegistration } );
+</script>
+
+<p class="quiet mt-20">By signing up for this service, you indicate that you agree to our <a href="http://www.cbsinteractive.co.uk/aboutus/0,10000092,10000088,00.htm" target="_blank">Terms and Conditions</a> and have read and understood our <a href="http://www.cbsinteractive.co.uk/aboutus/0,10000092,10000087,00.htm" target="_blank">Privacy Policy</a>. Questions about membership? Find the answers in the <a href="/faq/" target="_blank">Community FAQ</a></p></div></div>		
+									</div>
+
+	<div class="column-4 last">
+	<div id="mpu-top" class="mpu"><div class="ad baseline-up-0"><script type="text/javascript" src="http://ad.uk.doubleclick.net/adj/zdnetuk.news-and-analysis/security;chan=news-and-analysis;var1=security;pos=top;topic=wikileaks;story=40091046;tile=4;sz=300x250,300x600,300x750;ord=1293405311?"></script>
+<noscript><a href="http://ad.uk.doubleclick.net/jump/zdnetuk.news-and-analysis/security;chan=news-and-analysis;var1=security;pos=top;topic=wikileaks;story=40091046;tile=4;sz=300x250,300x600,300x750;ord=1293405311?" target="_blank"><img src="http://ad.uk.doubleclick.net/ad/zdnetuk.news-and-analysis/security;chan=news-and-analysis;var1=security;pos=top;topic=wikileaks;story=40091046;tile=4;sz=300x250,300x600,300x750;ord=1293405311?" border="0" alt="" /></a></noscript>
+</div></div>
+<div class="section">
+	<h2 title="The 'Power' box">ZDNet UK Live</h2>
+	<div class="activity" style="height: 400px;">
+				<div class="article"> 
+			<a href="/member-profile/2000703375/" title="Sekonda"><img src="/i/z5/gl/ava/default/default.gif" width="40" alt="Sekonda" /></a>			<p>Like what Skiggy said, there are plenty of programs available. And chances are you&#039;re already able to do that without needing to install another...</p>
+						<span class="date comment">1 hour ago by <a href="/member-profile/2000703375/">Sekonda</a> on <a href="/news/security/2010/12/20/government-to-review-access-to-internet-porn-40091216/#comments">Government to review access to internet porn</a></span>
+					</div>
+				<div class="article"> 
+			<a href="/member-profile/2000701733/" title="Thepalsahota"><img src="/i/z5/gl/ava/default/default.gif" width="40" alt="Thepalsahota" /></a>			<p>My name is Pal Sahota and I think that USPTO should be more accountable if they have made a mistake in issuing a patent because they have not done...</p>
+						<span class="date comment">3 hours ago by <a href="/member-profile/2000701733/">Thepalsahota</a> on <a href="/blogs/mixed-signals-10000051/google-instant-does-search-as-you-type-10018603/">Google Instant does search as you type</a></span>
+					</div>
+				<div class="article"> 
+			<a href="/member-profile/2000703372/" title="palacefan"><img src="/i/z5/gl/ava/default/default.gif" width="40" alt="palacefan" /></a>			<p>this has to be the best machine in mans history. its just beyond imagination.</p>
+						<span class="date comment">8 hours ago by <a href="/member-profile/2000703372/">palacefan</a> on <a href="/news/after-hours/2010/12/21/nasas-voyager-1-reaches-solar-system-edge-40091227/#comments">Nasa's Voyager 1 reaches solar system edge</a></span>
+					</div>
+				<div class="article"> 
+			<a href="/member-profile/2000331760/" title="Charles McLellan"><img src="/i/z5/gl/ava/default/Charles_M.JPG" width="40" alt="Charles McLellan" /></a>			<p>The service worked fine on 25 December for Skype calls to Sarawak and California...</p>
+						<span class="date comment">10 hours ago by <a href="/member-profile/2000331760/">Charles McLellan</a> on <a href="/blogs/mapping-babel-10017967/skype-service-resumes-after-major-outage-10021381/">Skype service resumes after major outage</a></span>
+					</div>
+				<div class="article"> 
+			<a href="/member-profile/2000703367/" title="jme0598"><img src="/i/z5/gl/ava/default/default.gif" width="40" alt="jme0598" /></a>			<p>It would seem all the consecutive natural disasters that have been occurring back as far as January 2010 are in some way caused by CERN&rsquo;s...</p>
+						<span class="date comment">1 day ago by <a href="/member-profile/2000703367/">jme0598</a> on <a href="/news/networking/2010/12/02/cern-prepares-for-shift-to-100gbe-with-brocade-gear-40091043/#comments">Cern prepares for shift to 100GbE with Brocade gear</a></span>
+					</div>
+				<div class="article"> 
+			<a href="/member-profile/69753/" title="69753"><img src="/i/z5/gl/ava/default/default.gif" width="40" alt="69753" /></a>			<p>The  government know this is impossible to legislate on, but they want to put forward the image of caring leaders. As they do not know what to do...</p>
+						<span class="date comment">2 days ago by <a href="/member-profile/69753/">69753</a> on <a href="/news/security/2010/12/20/government-to-review-access-to-internet-porn-40091216/#comments">Government to review access to internet porn</a></span>
+					</div>
+				<div class="article"> 
+			<a href="/member-profile/2000703355/" title="graemeh2020"><img src="/i/z5/gl/ava/default/default.gif" width="40" alt="graemeh2020" /></a>			<p>i still cannot use skype- the serice is not restored, whatever nunmber i try I get &quot;recording device defect&quot;</p>
+						<span class="date comment">2 days ago by <a href="/member-profile/2000703355/">graemeh2020</a> on <a href="/blogs/mapping-babel-10017967/skype-service-resumes-after-major-outage-10021381/">Skype service resumes after major outage</a></span>
+					</div>
+				<div class="article"> 
+			<a href="/member-profile/2000698730/" title="Jack Clark"><img src="/i/z5/gl/ava/default/jackclark100.jpg" width="40" alt="Jack Clark" /></a>			<p>Skype service has resumed. Last figure showed 20 million people online. Have a merry christmas everyone. New story here &gt;...</p>
+						<span class="date comment">2 days ago by <a href="/member-profile/2000698730/">Jack Clark</a> on <a href="/blogs/mapping-babel-10017967/skype-experiences-major-outage-10021367/">Skype experiences major outage</a></span>
+					</div>
+				<div class="article"> 
+			<a href="/member-profile/2000698364/" title="Ben Woods"><img src="/i/z5/gl/ava/default/benwoods.JPG" width="40" alt="Ben Woods" /></a>			<p>Hi zydok, 
+While it would be good to see a comprehensive and simple answer to online privacy included as a default in all browsers, it simply isn&#039;t...</p>
+						<span class="date comment">3 days ago by <a href="/member-profile/2000698364/">Ben Woods</a> on <a href="/news/security/2010/12/23/mozilla-denies-firefox-4-do-not-track-privacy-option-40091255/#comments">Mozilla denies Firefox 4 'do-not-track' privacy option</a></span>
+					</div>
+				<div class="article"> 
+			<a href="http://twitter.com/ZDNetUK_News/status/18247661089988608" title="ZDNetUK_News"><img src="http://a1.twimg.com/profile_images/269211818/news_normal.JPG" width="40" alt="ZDNetUK_News" /></a>			<p>Read our Q&amp;A with @<a href="http://twitter.com/mswindows/" rel="nofollow" target="_blank">mswindows</a> app experience lead Chris Jackson: Windows 7: How to prepare apps for IE8 #windows7 #zdwin7</p>
+						<span class="date twitter">3 days ago on Twitter by <a href="http://twitter.com/ZDNetUK_News/status/18247661089988608">ZDNetUK_News</a></span>
+					</div>
+				<div class="article"> 
+			<a href="http://twitter.com/ZDNetUK_Win7/status/18247769487577088" title="ZDNetUK_Win7"><img src="http://a2.twimg.com/profile_images/1158220314/twitterskin_Win7_avatar_normal.jpg" width="40" alt="ZDNetUK_Win7" /></a>			<p>RT @<a href="http://twitter.com/ZDNetUK/" rel="nofollow" target="_blank">ZDNetUK</a>_News: Read our Q&amp;A with @<a href="http://twitter.com/mswindows/" rel="nofollow" target="_blank">mswindows</a> app experience lead Chris Jackson: Windows 7: How to prepare apps for IE8 #windows7 #zdwin7</p>
+						<span class="date twitter">3 days ago on Twitter by <a href="http://twitter.com/ZDNetUK_Win7/status/18247769487577088">ZDNetUK_Win7</a></span>
+					</div>
+				<div class="article"> 
+			<a href="/member-profile/2000703347/" title="zydok0510"><img src="/i/z5/gl/ava/default/default.gif" width="40" alt="zydok0510" /></a>			<p>Mozilla guess what? I&#039;m not upgrading until you make such privacy options available as I&#039;m sure others will follow suit we want privacy not more...</p>
+						<span class="date comment">3 days ago by <a href="/member-profile/2000703347/">zydok0510</a> on <a href="/news/security/2010/12/23/mozilla-denies-firefox-4-do-not-track-privacy-option-40091255/#comments">Mozilla denies Firefox 4 'do-not-track' privacy option</a></span>
+					</div>
+				<div class="article"> 
+			<a href="/member-profile/2000702106/" title="Tim Paine"><img src="/i/z5/gl/ava/default/default.gif" width="40" alt="Tim Paine" /></a>			<p>This just shows us how insecure facebook is and the repercussions this could have. Facebook has become too insecure and is almost unusable today....</p>
+						<span class="date comment">3 days ago by <a href="/member-profile/2000702106/">Tim Paine</a> on <a href="/blogs/corporate-chatter-10020998/the-impact-of-social-networking-10021353/">The impact of social networking</a></span>
+					</div>
+				<div class="article"> 
+			<a href="/member-profile/2000683514/" title="2cwsnyder"><img src="/i/z5/gl/ava/default/default.gif" width="40" alt="2cwsnyder" /></a>			<p>Don&#039;t discount the interaction between your video display driver and your Broadcom driver.  My desktop (eMachines T5212) back in 2007 when I first...</p>
+						<span class="date comment">3 days ago by <a href="/member-profile/2000683514/">2cwsnyder</a> on <a href="/blogs/jamies-mostly-linux-stuff-10006480/strange-interactions-and-side-effects-10021371/">Strange Interactions and Side Effects</a></span>
+					</div>
+				<div class="article"> 
+			<a href="/member-profile/2000703344/" title="shinbet"><img src="/i/z5/gl/ava/default/default.gif" width="40" alt="shinbet" /></a>			<p>some good PR and a nice clip of Skype&#039;s CEO 
+http://www.skypeoutage.com/</p>
+						<span class="date comment">3 days ago by <a href="/member-profile/2000703344/">shinbet</a> on <a href="/news/networking/2010/12/23/skype-outage-continues-to-affect-enterprise-users-40091249/#comments">Skype outage continues to affect enterprise users</a></span>
+					</div>
+				<div class="article"> 
+			<a href="/member-profile/2000703343/" title="Seabridgeman"><img src="/i/z5/gl/ava/default/default.gif" width="40" alt="Seabridgeman" /></a>			<p>Skype went down here (close to London Gatwick) yesterday and this morning is back on line.  Has been OK today so far but only 12.5m people on line.</p>
+						<span class="date comment">3 days ago by <a href="/member-profile/2000703343/">Seabridgeman</a> on <a href="/blogs/mapping-babel-10017967/skype-experiences-major-outage-10021367/">Skype experiences major outage</a></span>
+					</div>
+				<div class="article"> 
+			<a href="/member-profile/2000498448/" title="J.A. Watson"><img src="/i/z5/gl/ava/default/JA_Watson.jpg" width="40" alt="J.A. Watson" /></a>			<p>apex - yes, a strange problem indeed.  I did make sure that I was completely up to date with the Fedora kernel, and that I was getting the latest...</p>
+						<span class="date comment">3 days ago by <a href="/member-profile/2000498448/">J.A. Watson</a> on <a href="/blogs/jamies-mostly-linux-stuff-10006480/strange-interactions-and-side-effects-10021371/">Strange Interactions and Side Effects</a></span>
+					</div>
+				<div class="article"> 
+			<a href="/member-profile/2000643222/" title="apexwm"><img src="/i/z5/gl/ava/default/avatar_10.jpg" width="40" alt="apexwm" /></a>			<p>Jamie... You&#039;ve stumbled on a very strange problem with the fonts changing like that from the Broadcom driver.  Thankfully the drivers for their...</p>
+						<span class="date comment">3 days ago by <a href="/member-profile/2000643222/">apexwm</a> on <a href="/blogs/jamies-mostly-linux-stuff-10006480/strange-interactions-and-side-effects-10021371/">Strange Interactions and Side Effects</a></span>
+					</div>
+				<div class="article"> 
+			<a href="/member-profile/2000643222/" title="apexwm"><img src="/i/z5/gl/ava/default/avatar_10.jpg" width="40" alt="apexwm" /></a>			<p>It will be interesting what they come up with.  CE seems to be getting outdated.  But CE is efficient which I&#039;m guessing is why it&#039;s still used...</p>
+						<span class="date comment">3 days ago by <a href="/member-profile/2000643222/">apexwm</a> on <a href="/blogs/jacks-blog-10017212/windows-for-arm-maybe-but-not-in-2011-10021366/">Windows for ARM? Maybe, but not in 2011</a></span>
+					</div>
+				<div class="article"> 
+			<a href="/member-profile/2000691823/" title="Shannon Doubleday"><img src="/i/z5/gl/ava/default/default.gif" width="40" alt="Shannon Doubleday" /></a>			<p>Hey, albertcalus -- we feel your pain. I use Skype all the time to speak to my family overseas and would find it really expensive and difficult to...</p>
+						<span class="date comment">3 days ago by <a href="/member-profile/2000691823/">Shannon Doubleday</a> on <a href="/news/networking/2010/12/23/skype-outage-continues-to-affect-enterprise-users-40091249/#comments">Skype outage continues to affect enterprise users</a></span>
+					</div>
+			</div>
+</div>
+
+			<div class="section">
+		
+	
+			<h2>Latest in Security</h2>
+		
+	
+	<div class="archive">
+			<h4><a href="/news/security/2010/12/23/mozilla-denies-firefox-4-do-not-track-privacy-option-40091255/">Mozilla denies Firefox 4 &#039;do-not-track&#039; privacy option</a></h4>
+			<h4><a href="/news/security/2010/12/23/intels-mcafee-acquisition-clears-ftc-hurdle-40091252/">Intel&#039;s McAfee acquisition clears FTC hurdle</a></h4>
+			<h4><a href="/news/security/2010/12/23/hospital-trust-reports-data-breach-to-1500-patients-40091245/">Hospital trust reports data breach to 1,500 patients</a></h4>
+		</div>
+</div>
+
+	<script type="text/javascript" src="http://ad.uk.doubleclick.net/adj/zdnetuk.news-and-analysis/security;chan=news-and-analysis;var1=security;topic=wikileaks;story=40091046;tile=5;sz=300x390;ord=1293405311?"></script>
+<noscript><a href="http://ad.uk.doubleclick.net/jump/zdnetuk.news-and-analysis/security;chan=news-and-analysis;var1=security;topic=wikileaks;story=40091046;tile=5;sz=300x390;ord=1293405311?" target="_blank"><img src="http://ad.uk.doubleclick.net/ad/zdnetuk.news-and-analysis/security;chan=news-and-analysis;var1=security;topic=wikileaks;story=40091046;tile=5;sz=300x390;ord=1293405311?" border="0" alt="" /></a></noscript>
+
+<div id="mpu-bottom" class="mpu"><div class="ad baseline-up-0"><script type="text/javascript" src="http://ad.uk.doubleclick.net/adj/zdnetuk.news-and-analysis/security;chan=news-and-analysis;var1=security;pos=bottom;topic=wikileaks;story=40091046;tile=6;sz=300x250,300x600;ord=1293405311?"></script>
+<noscript><a href="http://ad.uk.doubleclick.net/jump/zdnetuk.news-and-analysis/security;chan=news-and-analysis;var1=security;pos=bottom;topic=wikileaks;story=40091046;tile=6;sz=300x250,300x600;ord=1293405311?" target="_blank"><img src="http://ad.uk.doubleclick.net/ad/zdnetuk.news-and-analysis/security;chan=news-and-analysis;var1=security;pos=bottom;topic=wikileaks;story=40091046;tile=6;sz=300x250,300x600;ord=1293405311?" border="0" alt="" /></a></noscript>
+</div></div>
+<div class="section paint">
+	<h2>Featured white papers</h2>
+		<div class="article white-paper">
+		<h3><a href="/white-papers/view/it-budgeting/why-email-and-web-security-should-be-tied-together-261555423/">Why email and web security should be tied together</a></h3>
+							<div><a href="/search/webroot-software/n-1z10ouo/" class="quiet">Webroot Software</a></div>
+						<p>Today&#039;s threat environment is increasingly complex, with hackers using sophisticated exploits that use both email and...</p>		<p class="strong"><a href="/white-papers/view/it-budgeting/why-email-and-web-security-should-be-tied-together-261555423/">Download now</a></p>
+	</div>
+		<div class="article white-paper">
+		<h3><a href="/white-papers/view/components/enterprise-security-benefits-of-microsoft-windows-7-261758283/">Enterprise Security Benefits of Microsoft Windows 7</a></h3>
+							<div><a href="/search/intel/n-1z10sv3/" class="quiet">Intel</a></div>
+						<p>Download this whitepaper to find out more about Intel IT&#039;s deployment of 64-bit Microsoft Windows 7 Enterprise across...</p>		<p class="strong"><a href="/white-papers/view/components/enterprise-security-benefits-of-microsoft-windows-7-261758283/">Download now</a></p>
+	</div>
+		<div class="article white-paper">
+		<h3><a href="/white-papers/view/it-budgeting/the-benefits-of-basing-email-and-web-security-in-the-cloud-261561603/">The benefits of basing email and web security in the cloud</a></h3>
+							<div><a href="/search/webroot-software/n-1z10ouo/" class="quiet">Webroot Software</a></div>
+						<p>Today&#039;s threat landscape is complex and no organisation is immune from security threats, no matter their size. The low...</p>		<p class="strong"><a href="/white-papers/view/it-budgeting/the-benefits-of-basing-email-and-web-security-in-the-cloud-261561603/">Download now</a></p>
+	</div>
+	</div>
+
+<div id="featured-jobs" class="section paint">
+	<div class="paint-box-inner">
+	<h2>Latest jobs</h2>
+				<div class="article">
+			<h3><a href="/jobs/view/it-services/aquila-developeradministrator-3-6-month-contract-261873990/">Aquila Developer/Administrator - 3-6 Month Contract</a></h3>
+			<p>Aquila Developer/Administrator - 3-6 Month...</p>
+			<p class="more-link strong clearfix"><a href="/jobs/view/it-services/aquila-developeradministrator-3-6-month-contract-261873990/"><span>Apply now</span></a></p>
+		</div>
+				<div class="article">
+			<h3><a href="/jobs/view/it-services/java-developertech-lead-electronic-trading-investment-bank-261873989/">Java developer/tech lead - Electronic trading - Investment Bank</a></h3>
+			<p>Java, FIX, Developer, Electronic trading, Algorithmic trading, DMA, Order Routing, Equities, Trading Strategies,...</p>
+			<p class="more-link strong clearfix"><a href="/jobs/view/it-services/java-developertech-lead-electronic-trading-investment-bank-261873989/"><span>Apply now</span></a></p>
+		</div>
+				<div class="article">
+			<h3><a href="/jobs/view/it-services/pmo-planning-manager-investment-bank-261873986/">PMO Planning Manager - Investment Bank</a></h3>
+			<p>PMO, Planning Manager, Project Management, Investment Banking, Finance, Product Control, operations Risk...</p>
+			<p class="more-link strong clearfix"><a href="/jobs/view/it-services/pmo-planning-manager-investment-bank-261873986/"><span>Apply now</span></a></p>
+		</div>
+			</div>
+</div>
+
+<script type="text/javascript" src="http://ad.uk.doubleclick.net/adj/zdnetuk.news-and-analysis/security;chan=news-and-analysis;var1=security;topic=wikileaks;story=40091046;tile=7;sz=300x85;ord=1293405311?"></script>
+<noscript><a href="http://ad.uk.doubleclick.net/jump/zdnetuk.news-and-analysis/security;chan=news-and-analysis;var1=security;topic=wikileaks;story=40091046;tile=7;sz=300x85;ord=1293405311?" target="_blank"><img src="http://ad.uk.doubleclick.net/ad/zdnetuk.news-and-analysis/security;chan=news-and-analysis;var1=security;topic=wikileaks;story=40091046;tile=7;sz=300x85;ord=1293405311?" border="0" alt="" /></a></noscript>
+	</div>
+
+<div class="section clear clearfix">
+	<h2>Inside ZDNet UK</h2>
+	<div class="column-2 center first"><a href="/broadband-speedtest/"><img src="/i/site-highlights/broadband-speedtest.jpg" alt="Broadband Speed Test" class="border" height="98" width="130" /></a>
+		<h3><a href="/broadband-speedtest/">How fast is your broadband?</a></h3>
+	</div>
+	<div class="column-2 center"><a href="http://www.facebook.com/ZDNETUK?s_cid=989"><img src="/i/site-highlights/zdnet-facebook.jpg" alt="Join ZDNet UK on Facebook" class="border" height="98" width="130" /></a>
+		<h3><a href="http://www.facebook.com/ZDNETUK?s_cid=989">Join ZDNet UK on Facebook</a></h3>
+	</div>
+	<div class="column-2 center"><a href="/white-papers/"><img src="/i/site-highlights/white-papers.jpg" alt="White Papers" class="border" height="98" width="130" /></a>
+		<h3><a href="/white-papers/">Free technology white papers</a></h3>
+	</div>
+	<div class="column-2 center last"><a href="http://ad.doubleclick.net/clk;232405301;46888681;i?http://www.zdnet.co.uk/resource-centres/windows-7-migration/"><img src="/i/site-highlights/windows-7-migration.jpg" alt="Windows 7 Migration" class="border" height="98" width="130" /></a>
+		<h3><a href="http://ad.doubleclick.net/clk;232405301;46888681;i?http://www.zdnet.co.uk/resource-centres/windows-7-migration/">Windows 7 Migration</a></h3>
+	</div>
+	<div class="column-2 center"><a href="/jobs/"><img src="/i/site-highlights/jobs.jpg" alt="Jobs" class="border" height="98" width="130" /></a>
+		<h3><a href="/jobs/">Search for a new job</a></h3>
+	</div>
+	<div class="column-2 center"><a href="/blogs/message-received-blog/"><img src="/i/site-highlights/message-received.jpg" alt="Join the Unified Comms debate" class="border" height="98" width="130" /></a>
+		<h3><a href="/blogs/message-received-blog/">Join the Unified Comms debate</a></h3>
+	</div>
+		<div class="column-2 center last"><a href="/resource-centres/neverfail/"><img src="/i/site-highlights/disaster-recovery.jpg" alt="Disaster Recovery Resource Centre" class="border" height="98" width="130" /></a>
+		<h3><a href="/resource-centres/neverfail/">Disaster Recovery Resource Centre</a></h3>
+	</div>
+</div>
+	</div>
+		<div id="leaderboard-bottom" class="wrapper leaderboard">
+		<div class="ad"><script type="text/javascript" src="http://ad.uk.doubleclick.net/adj/zdnetuk.news-and-analysis/security;chan=news-and-analysis;var1=security;pos=bottom;topic=wikileaks;story=40091046;tile=8;sz=728x90;ord=1293405311?"></script>
+<noscript><a href="http://ad.uk.doubleclick.net/jump/zdnetuk.news-and-analysis/security;chan=news-and-analysis;var1=security;pos=bottom;topic=wikileaks;story=40091046;tile=8;sz=728x90;ord=1293405311?" target="_blank"><img src="http://ad.uk.doubleclick.net/ad/zdnetuk.news-and-analysis/security;chan=news-and-analysis;var1=security;pos=bottom;topic=wikileaks;story=40091046;tile=8;sz=728x90;ord=1293405311?" border="0" alt="" /></a></noscript>
+</div>
+	</div>
+	</div>
+
+<div id="follow">
+	<div class="wrapper">
+		<ul class="container clearfix">
+									<li class="membership"><a href="#" rel="nofollow" onclick="loadLightbox('long-registration');return false;" class="colorbox">Join</a> | <a href="#" rel="nofollow" onclick="logIn();return false;" class="colorbox">Sign In</a></li>
+				<li class="social">Follow ZDNet: <a href="http://twitter.com/zdnetuk_News" class="twitter">Twitter</a> and <a href="/rss/" class="feed">RSS</a></li>
+								<li class="close"><a href="">Close</a></li>
+		</ul>
+	</div>
+</div>
+
+<div id="footer">
+	<div class="wrapper clearfix">
+		<a href="/" class="logo" title="ZDNet UK - Business IT News and Reviews">ZDNet UK - Business IT News and Reviews</a>
+		<div class="column-2 push-3 first">
+			<h3><a href="/news/">News &amp; Analysis</a></h3>
+			<ul>
+				<li><a href="/news/mobile-it/">Mobile IT</a></li>
+				<li><a href="/news/workspace-it/">Workspace IT</a></li>
+				<li><a href="/news/cloud/">Cloud</a></li>
+				<li><a href="/news/virtualisation/">Virtualisation</a></li>
+				<li><a href="/news/security/">Security</a></li>
+				<li><a href="/news/application-development/">Application Development</a></li>
+				<li><a href="/news/infrastructure/">Infrastructure</a></li>
+				<li><a href="/news/emerging-tech/">Emerging Tech</a></li>
+				<li><a href="/news/business-of-it/">Business of IT</a></li>
+				<li><a href="/news/after-hours/">After Hours</a></li>
+			</ul>
+		</div>
+		<div class="column-2">
+			<h3><a href="/reviews/">Reviews</a></h3>
+			<ul>
+				<li><a href="/reviews/laptops/n-1z1412b/">Laptops</a></li>
+				<li><a href="/reviews/desktops/n-1z1411v/">Desktops</a></li>
+				<li><a href="/reviews/handhelds/n-1z1410w/">Handhelds</a></li>
+				<li><a href="/reviews/monitors/n-1z0xfkx/">Monitors</a></li>
+				<li><a href="/reviews/network-storage/n-1z140s3/">Network Storage</a></li>
+				<li><a href="/reviews/printers-and-mfds/n-1z0xsc3/">Printers</a></li>
+				<li><a href="/reviews/operating-systems/n-1z141lh/">Operating Systems</a></li>
+				<li><a href="/reviews/virtualisation/n-1z14163/">Virtualisation</a></li>
+				<li><a href="/reviews/applications/n-1z141vu/">Applications</a></li>
+				<li><a href="/reviews/components/n-1z141uy/">Components</a></li>
+				<li><a href="/reviews/infrastructure/n-1z141x2/">Infrastructure</a></li>
+				<li><a href="/reviews/cloud/n-1z141co/">Cloud</a></li>
+			</ul>
+		</div>
+		<div class="column-2">
+			<h3><a href="/blogs/">Blogs</a></h3>
+			<ul>
+				<li><a href="/blogs/ruperts-diary/">Rupert's Diary</a></li>
+				<li><a href="/blogs/care-in-the-community-10005031/">Karen Friar</a></li>
+				<li><a href="/blogs/communication-breakdown-10000030/">David Meyer</a></li>
+				<li><a href="/blogs/product-central-10000033/">Charles McLellan</a></li>
+				<li><a href="/blogs/security-bullet-in-10000166/">Tom Espiner</a></li>
+				<li><a href="/blogs/zdnet-uk-first-take-10013312/">First Take</a></li>
+				<li><a href="/blogs/back-office-10012454/">Manek Dubash</a></li>
+				<li><a href="/blogs/web-design-and-foss-10004587/">Jake Rayson</a></li>
+				<li><a href="/blogs/jacks-blog-10017212/">Jack Schofield</a></li>
+				<li><a href="/blogs/500-words-into-the-future-10014052/">Simon Bisson</a></li>
+				<li><a href="/blogs/500-words-into-the-future-10014052/">Mary Branscombe</a></li>
+				<li><a href="/blogs/qubits-and-pieces-10017876/">Lucy Sherriff</a></li>
+			</ul>
+		</div>
+		<div class="column-2">
+			<h3>Resources</h3>
+			<ul>
+				<li><a href="/jobs/">Jobs</a></li>
+				<li><a href="/white-papers/">White Papers</a></li>
+				<li><a href="/downloads/">Downloads</a></li>
+				<li><a href="/videos/">Videos</a></li>
+				<li><a href="/rss/">RSS</a></li>
+				<li><a href="/mobile/">ZDNet UK Mobile</a></li>
+			</ul>
+			<h3>About Us</h3>
+			<ul>
+				<li><a href="/archive/">Content archive</a></li>
+				<li><a href="/contact-us/">Contact</a></li>
+				<li><a href="/meet-the-team/">Meet the team</a></li>
+				<li><a href="http://www.cbsinteractive.co.uk/aboutus/0,10000092,10000088,00.htm">Terms of use</a></li>
+				<li><a href="http://www.cbsinteractive.co.uk/aboutus/0,10000092,10000087,00.htm">Privacy policy</a></li>
+				<li><a href="http://www.cbsinteractive.co.uk/advertise/">Advertise</a></li>
+				<li><a href="http://www.cbsinteractive.co.uk/aboutus/0,10000092,10000091,00.htm">Permissions and reprints</a></li>
+			</ul>
+		</div>
+		<div class="column-3 last">
+			<h3>Member Services</h3>
+			<ul>
+				<li><a href="/newsletters/">Newsletters</a></li>
+				<li><a href="/member-services/">Membership benefits</a></li>
+					<li><a href="#" rel="nofollow" onclick="loadLightbox('long-registration');return false;">Register</a></li>
+				<li><a href="/member-services/profile/">Manage your account</a></li>
+				<li><a href="/faq/">Community FAQ</a></li>
+			</ul>
+			<h3>Special Features</h3>
+			<ul>
+				<li><a href="/broadband-speedtest/">Broadband Speed Test</a></li>
+			</ul>
+			<h3>Advertising Features</h3>
+			<ul>
+				<!--
+				<li><a href="/resource-centres/hp-3com/">HP 3com resource centre</a></li>
+				-->
+				<li><a href="/resource-centres/hp-bsm-9/">HP BSM 9.0 resource centre</a></li>
+				<li><a href="/resource-centres/seagate/">Seagate resource centre</a></li>
+				<li><a href="/resource-centres/windows-7-migration/">Windows 7 Migration resource centre</a></li>
+				<li><a href="/resource-centres/neverfail/">Neverfail resource centre</a></li>
+				<li><a href="/resource-centres/star/">Star resource centre</a></li>
+				<li><a href="/resource-centres/storage-solutions/">Storage solutions resource centre</a></li>
+				<li><a href="/resource-centres/vulnerability-management/">Vulnerability management resource centre</a></li>
+			</ul>
+		</div>
+		<div class="copyright clear">
+			<div class="column-8 push-3 first">Copyrig<span id="rtime" title="">h</span><span id="srtime" title="1293405311.8469">t</span> <span id="trtime" title="0.17369">&copy;</span> <span id="cm" title="">1998</span>-<span id="pm" title="">2010</span> CBS Interactive, a CBS Company. All rights reserved</div>
+			<div class="column-3 last" style="text-align:right">ver 6.0.11502:11508M</div>
+		</div>
+	</div>
+</div>
+
+  <script type="text/javascript">
+
+    twttr.anywhere(function (T) {
+      T.hovercards();
+    });
+
+  </script>
+
+<div id="hidden-content" style="display: none; height: 1px; width: 1px; top: 0px; left: 0px;">
+<!-- SiteCatalyst code version: H.1.
+Copyright 1997-2005 Omniture, Inc. More info available at
+http://www.omniture.com -->
+<script type="text/javascript" src="/js/s_code.js"></script>
+<script type="text/javascript">
+if (s)
+{
+	s.pageName = 'Wikileaks loses domain name after DoS attacks - story - security - news - page 1';
+	s.channel = 'news';
+	s.server = 'c16-uk-fdc-www01';
+	s.pageType = '';
+	s.products = ';story_40091046';
+
+	s.hier1 = 'standard,news,security,story';
+
+	s.prop2 = 'story';
+	s.prop3 = 'Text';
+	s.prop7 = 'standard';
+	s.prop10 = '40091046';
+	s.prop13 = 'Wikileaks loses domain name after DoS attacks | Security | ZDNet UK';
+	s.prop14 = 'News';
+	s.prop15 = '';
+	s.prop16 = 'news - security - story';
+	s.prop19 = 'Wikileaks loses domain name after DoS attacks';
+	s.prop30 = 'security';
+	s.prop36 = '';
+	s.prop37 = '';
+	s.prop38 = '';
+
+	s.eVar7 = 'D=c7';
+	s.eVar11 = 'D=ch';
+	s.eVar13 = 'D=c1';
+	s.eVar14 = 'D=c2';
+	s.eVar15 = 'D=c3';
+	s.eVar16 = 'D=c14';
+	s.eVar19 = 'D=c15';
+	s.eVar30 = 'D=c30';
+	s.eVar32 = 'D=c41';
+	s.eVar37 = 'D=c11';
+	s.eVar38 = 'D=c10';
+	s.eVar39 = 'D=c39';
+	s.eVar40 = 'D=gn';
+	s.eVar41 = 'D=c19';
+	s.eVar42 = 'D=c6';
+
+	s.events = 'event45';
+
+}
+/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+var s_code=s.t();if(s_code)document.write(s_code)//--></script>
+<script type="text/javascript"><!--
+if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
+//--></script><!--/DO NOT REMOVE/-->
+<!-- End SiteCatalyst code version: H.1. -->
+</div>
+<script type="text/javascript" src="/js/omniture.js"></script>
+<script type="text/javascript" src="http://dw-eu.com.com/js/dw.js"></script>
+<script type="text/javascript">
+	DW.pageParams = { siteId: '55' };
+	DW.clear();
+</script>
+<noscript><img src="http://dw-eu.com.com/clear/c.gif?ts=1293405311&amp;sId=55" height="1" width="1" border="0" alt="" /></noscript>
+<script type="text/javascript" src="http://js.revsci.net/gateway/gw.js?csid=D08735"></script>
+<script type="text/javascript">
+	DM_addEncToLoc('site', ('55'));
+	DM_tag();
+</script><!-- CBSi Content Checker -->
+</body>
+</html>

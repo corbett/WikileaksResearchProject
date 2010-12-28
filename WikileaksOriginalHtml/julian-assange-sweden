@@ -1,0 +1,2825 @@
+            
+    
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+						    <script type="text/javascript" >
+	    					document.domain = "guardian.co.uk";
+				</script>
+			    		    <title> 10 days in Sweden: the full allegations against Julian Assange | Media | The Guardian </title>
+
+    
+    				<!------ OAS SETUP begin ------>
+		<script type="text/javascript">
+			//<![CDATA[
+				OAS_url = 'http://oas.guardian.co.uk/RealMedia/ads/';
+				OAS_sitepage = window.location.hostname + window.location.pathname + "/oas.html";
+				OAS_listpos = 'Top,Right1,x31,x32';
+
+								OAS_query = 'k=julian-assange&k=the-us-embassy-cables&k=media&k=sweden&k=world&k=uk&cf=global+%28temp+commercial%29&pid=&ct=article&pt=article&';
+				OAS_target = '_blank';
+
+				OAS_rn = '001234567890';
+				OAS_rns = '1234567890';
+				OAS_rn = new String (Math.random());
+				OAS_rns = OAS_rn.substring (2, 11);
+			//]]>
+		</script>
+	        			<script type="text/javascript">
+		//<![CDDATA[
+											function OAS_NORMAL(pos) {
+							document.write('<A HREF="' + OAS_url + 'click_nx.ads/' + OAS_sitepage + '/1' + OAS_rns + '@' + pos + '!' + pos + '?' + OAS_query + '" TARGET=' + OAS_target + '>');
+							document.write('<IMG SRC="' + OAS_url + 'adstream_nx.ads/' + OAS_sitepage + '/1' + OAS_rns + '@' + pos + '!' + pos + '?' + OAS_query + '" BORDER=0></A>');
+						}
+
+						OAS_version = 11;
+						if ((navigator.userAgent.indexOf('Mozilla/3') != -1) || (navigator.userAgent.indexOf('Mozilla/4.0 WebTV') != -1)) OAS_version = 10;
+						if (OAS_version >= 11) document.write('<SCR' + 'IPT LANGUAGE=JavaScript1.1 SRC="' + OAS_url + 'adstream_mjx.ads/' + OAS_sitepage + '/1' + OAS_rns + '@' + OAS_listpos + '?' + OAS_query + '"><\/SCRIPT>');
+
+						function OAS_AD(pos) {
+							if (OAS_version >= 11) OAS_RICH(pos);
+							else OAS_NORMAL(pos);
+						}
+					
+				//]]>
+				</script>
+				<!------ OAS SETUP end ------>
+	
+
+    	    
+
+
+
+
+
+		
+										
+
+        
+
+
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Style-Type" content="text/css" />
+<link rel="canonical" href="http://www.guardian.co.uk/media/2010/dec/17/julian-assange-sweden" />
+			<meta name="description" content="Unseen police documents provide the first complete account of the allegations against the WikiLeaks founder" />
+				<link rel="image_src" href="http://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2010/12/17/1292617650888/Julian-Assange-at-Ellingh-003.jpg" />
+		
+			<meta name="DC.date.issued" content="2010-12-17">
+		
+<meta name="keywords" content="Julian Assange,The US embassy cables,World news,Media,Sweden,UK news,Media" />
+	<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+
+
+
+
+
+	<!-- short url for this page http://gu.com/p/2mvem -->
+        	<link href="http://feeds.guardian.co.uk/theguardian/media/rss" rel="alternate" type="application/rss+xml" title="Media RSS feed" />
+			<link href="http://www.guardian.co.uk/media/julian-assange/rss" rel="alternate" type="application/rss+xml" title="Julian Assange RSS feed" />
+		<link href="http://feeds.guardian.co.uk/theguardian/world/rss" rel="alternate" type="application/rss+xml" title="World news RSS feed" />
+			<link href="http://www.guardian.co.uk/world/the-us-embassy-cables/rss" rel="alternate" type="application/rss+xml" title="The US embassy cables RSS feed" />
+			<link href="http://www.guardian.co.uk/world/sweden/rss" rel="alternate" type="application/rss+xml" title="Sweden RSS feed" />
+		<link href="http://feeds.guardian.co.uk/theguardian/uk/rss" rel="alternate" type="application/rss+xml" title="UK news RSS feed" />
+	
+
+
+    <script type="text/javascript">
+//<![CDATA[
+	if (!commonStaticRoot) {	
+		var commonStaticRoot = "http://static.guim.co.uk/static/97858/common/";
+	}
+	if (!sectionStaticRoot) {	
+		var sectionStaticRoot = "http://static.guim.co.uk/static/97858/media/";
+	}
+	if (!staticHost) {	
+		var staticHost="http://www.guardian.co.uk/";
+	}
+	if (!sitePrefixUrl) {
+		var sitePrefixUrl = "http://www.guardian.co.uk";
+	}
+//]]>
+</script>
+	  		<link rel="alternate stylesheet" title="No layout" type="text/css" href="http://static.guim.co.uk/static/97858/common/styles/no-layout.css" media="screen" class="contrast" id="no-layout-sheet" />
+
+					<link rel="stylesheet" type="text/css" href="http://static.guim.co.uk/static/97858/common/styles/article-top.css" media="screen" />
+			<link rel="stylesheet" type="text/css" href="http://static.guim.co.uk/static/97858/common/styles/print.css" media="print" class="contrast" />
+		
+		<link rel="stylesheet" type="text/css" href="http://static.guim.co.uk/static/97858/zones/news/styles/zone-accent.css" media="screen" class="contrast" />
+		
+			<link rel="stylesheet" type="text/css" href="http://static.guim.co.uk/static/97858/common/styles/base-typography.css" media="screen" />
+
+
+			
+
+		<!--[if ie 7]>
+		    <link rel="stylesheet" type="text/css" href="http://static.guim.co.uk/static/97858/common/styles/ie7.css" media="screen" class="ie" />
+		<![endif]-->
+		
+		<!--[if ie 8]>
+			<link rel="stylesheet" type="text/css" href="http://static.guim.co.uk/static/97858/common/styles/ie8.css" media="screen" class="ie" />
+		<![endif]-->
+		
+		<!--[if lte IE 6]>
+			<link rel="stylesheet" type="text/css" href="http://static.guim.co.uk/static/97858/common/styles/ie-scratch.css" media="screen" class="ie" />
+    		<link rel="stylesheet" type="text/css" href="http://static.guim.co.uk/static/97858/zones/news/styles/zone-navigation-ie.css" media="screen" class="contrast" />
+		<![endif]-->
+		
+		<!--[if lte IE 9]>
+			<script src="http://static.guim.co.uk/static/97858/common/external-scripts/html5enable.js"></script>
+		<![endif]-->
+		
+	<link rel="stylesheet" type="text/css" href="http://combo.guim.co.uk/97858/content-actions+gu-now+header-local-info+page-toolbox+related-content+related-keywords+top-navigation.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="http://combo.guim.co.uk/97858/m-482~public/css/jobs-box-4+m-87~styles/simplelightbox+m-87~styles/twitter-app+m-963~related-information/static/related-information-5.css" media="screen" />
+    	<link rel="stylesheet" type="text/css" href="http://static.guim.co.uk/static/97858/common/styles/article-page-typography.css" media="screen" />
+    
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+
+<script type="text/javascript">
+if (typeof jQuery == 'undefined') {
+    document.write(unescape("%3Cscript src='http://static.guim.co.uk/static/97858/common/external-scripts/jquery-1.4.2.min.js' type='text/javascript'%3E%3C/script%3E"));
+}
+</script>
+
+<script type="text/javascript" src="http://static.guim.co.uk/static/97858/common/external-scripts/jquery-libraries/jquery.cookie.js"></script>
+<script type="text/javascript">
+ var jQ = jQuery.noConflict();
+</script> 
+
+<script type="text/javascript">
+	//<![CDATA[
+	function insertStyleSheet(href) {
+		var styleObject = document.createElement('link');
+		styleObject.setAttribute('href', commonStaticRoot + href);
+		styleObject.setAttribute('type', 'text/css');
+		styleObject.setAttribute('media', 'screen');
+		styleObject.setAttribute('rel', 'stylesheet');
+		var head = document.getElementsByTagName('head')[0];
+		head.appendChild(styleObject);
+	}
+	insertStyleSheet('styles/js-on.css');
+	insertPluckStylesheet = true;
+	//]]>
+</script>
+<script src="http://static.guim.co.uk/static/97858/common/scripts/gu-core.js"></script>
+<script type="text/javascript">
+    //<![CDATA[
+    function init() {
+	new SearchForm(true, 'http://browse.guardian.co.uk', null, 'http://www.guardian.co.uk/websearch' );
+	urlStack.clearUrlStack();
+	var signOutLink = document.getElementById("sign-out");
+	if (signOutLink) {
+		signOutLink.onclick = signOut;
+	}
+    }
+
+    var pageUrl = "http://www.guardian.co.uk/media/2010/dec/17/julian-assange-sweden";
+    var pageSignature =  "e142d5e6967d5a68760ed88df6e4e3785c0616731703f057b700ce672fb91a6f";
+    
+    var thirdPartyReferralCookieService = new guardian.r2.ThirdPartyReferralCookieService();
+    thirdPartyReferralCookieService.setThirdPartyReferralCookie();
+	    
+    var urlStack = new UrlStack(".guardian.co.uk");	
+    var communitiesSite = false;
+	
+    
+    	
+    guardian.r2.signInListeners = new guardian.r2.SignInListeners();
+    (function () {	
+	var signInView = new guardian.r2.SignInView("http://static.guim.co.uk/static/97858/common/scripts/md5.js", communitiesSite);
+	var obfuscationService = new guardian.r2.ObfuscationService();
+	guardian.r2.signInController = new guardian.r2.SignInController(signInView, guardian.r2.signInListeners, obfuscationService, "http://www.guardian.co.uk/tools/signin", pageUrl, pageSignature);
+	
+	/* here be dragons...
+	    var popupUrlWithPolicyOrProduct = "http://www.guardian.co.uk/tools/signin";
+	    var queryString = "?returnUrl=" + pageUrl + "&sig=" + pageSignature;
+	    if(packageCode){ queryString += "&package=" + packageCode; }
+	    if(policyName) { queryString += "&policyName=" + policyName; }
+	    var url = popupUrlWithPolicyOrProduct +=  queryString);
+	*/
+	
+    }) ();
+	
+    (function () {
+	    var profileLinkView = new guardian.r2.ProfileLinkView();
+	    profileLinkController = new guardian.r2.ProfileLinkController(profileLinkView, "http://www.guardian.co.uk/discussion/user/");
+    }) ();
+
+    addSafeLoadEvent(init);
+    //]]>
+</script>
+<script type="text/javascript" src="http://combo.guim.co.uk/97858/common/scripts/convertJSONtoAd+common/scripts/formChecker+common/scripts/glossaryPopupView+common/scripts/sendtoafriend+common/scripts/shareCounts+common/scripts/tweet_button.js"></script>
+<script type="text/javascript" src="http://combo.guim.co.uk/97858/m-87~js/guardian.r2.TwitterApp.ver2+m-87~js/simplelightbox+m-87~js/simplelightbox-init.js"></script>
+
+			<script type="text/javascript" language="javascript">
+	//	<![CDATA[
+	if (insertPluckStylesheet && true) {
+		insertStyleSheet('styles/pluck-on.css');
+		insertPluckStylesheet = false;
+	}
+	// ]]>
+	</script>
+	
+	
+</head>
+
+
+
+<body class="	article   has-badge ">
+
+<div id="wrapper">
+		        		
+    
+
+	<div id="header">
+	
+		    			<div id="sub-header">
+			
+							    		
+
+
+	
+						
+			
+		
+										
+												
+												
+												
+												
+												
+												
+								
+		
+	
+<div id="fake-bar"></div>
+<div class="top-navigation twelve-col initially-off">
+
+	<div class="user-functions">
+		<div id="video-settings">
+    <div class="cookied">
+        <p class="on"><a class="autoplay-off" href="#skiplinks">Turn autoplay off</a></p>
+        <p class="off"><a class="autoplay-on" href="#skiplinks">Turn autoplay on</a></p>
+    </div>
+    <div class="not-cookied">
+        <p>Please activate cookies in order to turn autoplay off</p>
+    </div>
+</div>
+
+<div id="skiplinks">
+	<ul>
+		<li><a href="#box" accesskey="s">Jump to content [s]</a></li>
+				<li><a href="#global-nav" accesskey="0">Jump to site navigation [0]</a></li>
+		<li><a href="#web-search-field" accesskey="4">Jump to search [4]</a></li>
+		<li><a href="http://guardian.co.uk/Users/help/article/0,,933909,00.html" accesskey="8">Terms and conditions [8]</a></li>
+	</ul>
+</div>		
+
+
+
+
+
+
+
+        	
+    
+               
+    
+    
+<div class="user-details">
+    
+        <span><a href="http://m.guardian.co.uk" class="register-required">Mobile site</a></span>
+    <span><a class="same-page-login-required" href="http://www.guardian.co.uk/identity/signin?returnUrl=http://www.guardian.co.uk/media/2010/dec/17/julian-assange-sweden&sig=e142d5e6967d5a68760ed88df6e4e3785c0616731703f057b700ce672fb91a6f">Sign in</a></span>
+    <span><a href="http://www.guardian.co.uk/identity/register?returnUrl=http://www.guardian.co.uk/media/2010/dec/17/julian-assange-sweden&sig=e142d5e6967d5a68760ed88df6e4e3785c0616731703f057b700ce672fb91a6f" class="register-required">Register</a></span>
+        
+</div>
+
+<span id="larger" class="first">Text <a href="/help/accessibility">larger</a></span>
+<span class="middot">&middot;</span>
+<span id="smaller"><a href="/help/accessibility">smaller</a></span>
+					<div id="drop-down-1" class="drop-down">
+					<h2>
+		
+	        About us
+    </h2>
+			<ul class="initially-off">
+							    
+
+																												
+				
+		
+		
+			
+						
+		<li>
+		
+	        <a      href="http://www.guardian.co.uk/information/0,,711853,00.html"  class="link-text">About us</a>
+    </li>
+					
+							    
+
+																												
+				
+		
+		
+			
+						
+		<li>
+		
+	        <a      href="http://www.guardian.co.uk/gu_contacts/0,,180767,00.html"  class="link-text">Contact us</a>
+    </li>
+					
+							    
+
+																												
+				
+		
+		
+			
+						
+		<li>
+		
+	        <a      href="http://www.guardian.co.uk/gnm-press-office"  class="link-text">Press office</a>
+    </li>
+					
+							    
+
+																												
+				
+		
+		
+			
+						
+		<li>
+		
+	        <a      href="http://www.guardian.co.uk/gpc"  class="link-text">Guardian Print Centre</a>
+    </li>
+					
+							    
+
+																												
+				
+		
+		
+			
+						
+		<li>
+		
+	        <a      href="http://www.guardian.co.uk/theguardian/page/readerseditor"  class="link-text">Guardian readers' editor</a>
+    </li>
+					
+							    
+
+																												
+				
+		
+		
+			
+						
+		<li>
+		
+	        <a      href="http://www.guardian.co.uk/observer-readers-editor"  class="link-text">Observer readers' editor</a>
+    </li>
+					
+							    
+
+																												
+				
+		
+		
+			
+						
+		<li>
+		
+	        <a      href="http://www.guardian.co.uk/help/terms-of-service"  class="link-text">Terms of service</a>
+    </li>
+					
+							    
+
+																												
+				
+		
+		
+			
+						
+		<li>
+		
+	        <a      href="http://www.guardian.co.uk/help/privacy-policy"  class="link-text">Privacy policy</a>
+    </li>
+					
+							    
+
+																												
+				
+		
+		
+			
+						
+		<li>
+		
+	        <a      href="http://www.guardian.co.uk/advertising"  class="link-text">Advertising guide</a>
+    </li>
+					
+							    
+
+																												
+				
+		
+		
+			
+						
+		<li>
+		
+	        <a      href="http://www.guardian.co.uk/archive"  class="link-text">Digital archive</a>
+    </li>
+					
+							    
+
+																												
+				
+		
+		
+			
+						
+		<li>
+		
+	        <a      href="http://guardian.newspaperdirect.com/epaper/viewer.aspx"  class="link-text">Digital edition</a>
+    </li>
+					
+							    
+
+																												
+				
+		
+		
+			
+						
+		<li>
+		
+	        <a      href="http://www.guardian.co.uk/weekly"  class="link-text">Guardian Weekly</a>
+    </li>
+					
+							    
+
+																												
+				
+		
+		
+			
+						
+		<li>
+		
+	        <a      href="http://3276.e-printphoto.co.uk/guardian"  class="link-text">Buy Guardian and Observer photos</a>
+    </li>
+					
+							    
+
+																												
+				
+		
+		
+			
+						
+		<li>
+		
+	        <a      href="http://www.guardian.co.uk/subscription-services"  class="link-text">Subscribe</a>
+    </li>
+					
+					</ul>
+		</div>
+		</div>
+	
+	<div class="other-functions">
+							<div id="drop-down-2" class="drop-down mirror">
+					<h2>
+		
+	        Today's paper
+    </h2>
+			<ul class="initially-off">
+							    
+
+	
+				
+		
+		
+	
+							    
+
+																												
+				
+		
+		
+			
+						
+		<li>
+		
+	        <a      href="http://observer.guardian.co.uk"  class="link-text">The Observer</a>
+    </li>
+					
+							    
+
+																												
+				
+		
+		
+			
+						
+		<li>
+		
+	        <a      href="http://www.guardian.co.uk/theobserver/news/comment"  class="link-text">Comment</a>
+    </li>
+					
+							    
+
+																												
+				
+		
+		
+			
+						
+		<li>
+		
+	        <a      href="http://www.guardian.co.uk/theobserver/sport"  class="link-text">Sport</a>
+    </li>
+					
+							    
+
+																												
+				
+		
+		
+			
+						
+		<li>
+		
+	        <a      href="http://www.guardian.co.uk/theobserver/new-review"  class="link-text">New Review</a>
+    </li>
+					
+							    
+
+																												
+				
+		
+		
+			
+						
+		<li>
+		
+	        <a      href="http://www.guardian.co.uk/theobserver/magazine"  class="link-text">Magazine</a>
+    </li>
+					
+							    
+
+																												
+				
+		
+		
+			
+						
+		<li>
+		
+	        <a      href="http://www.guardian.co.uk/theobserver/foodmonthly"  class="link-text">Observer Food Monthly</a>
+    </li>
+					
+					</ul>
+		</div>
+						<div id="drop-down-3" class="drop-down mirror">
+					<h2>
+		
+	        Zeitgeist
+    </h2>
+			<ul class="initially-off">
+							    
+
+																												
+				
+		
+		
+			
+						
+		<li>
+		
+	        <a      href="http://www.guardian.co.uk/zeitgeist"  class="link-text">Today's hot topics</a>
+    </li>
+					
+					</ul>
+		</div>
+		</div>
+		
+</div>
+
+
+<script type="text/javascript">
+	ensurePackage('guardian.r2');
+
+	guardian.r2.dropDownMenu = function () {
+	
+		// bar set up
+		jQ('.top-navigation').css('display', 'block');
+		jQ('#fake-bar').remove();
+
+		// functionality
+		jQ('.drop-down').mouseover(function() {
+			jQ(this).find('ul').css('display', 'block');
+		});
+
+		jQ('.drop-down').mouseout(function() {
+			jQ(this).find('ul').css('display', 'none');
+		});
+
+	};	
+	
+	jQ(document).ready(function() {
+		var myDropDownMenu = new guardian.r2.dropDownMenu();
+		insertStyleSheet('styles/top-navigation-drop-down.css');
+	});
+</script>
+			
+						
+    
+		
+		<div id="Top" class=" hide-on-popup">
+
+		
+            
+                        <script type="text/javascript">
+                //<![CDATA[
+
+                                                            OAS_AD('Top');
+                                    //]]>
+            </script>
+                    
+        </div>
+
+		</div>
+	
+		
+					    
+
+
+	<div id="guardian-logo">
+					<a href="http://www.guardian.co.uk" ><img src="http://static.guim.co.uk/static/97858/zones/news/images/logo.gif" height="22" width="140" alt="guardian.co.uk home" /></a>
+					</div>
+					
+			
+					
+			<form id="searchbeta" method="get" action="http://www.guardian.co.uk/search" onsubmit="return searchWeb('http://www.guardian.co.uk/websearch', 'http://www.guardian.co.uk/search');" >
+			<input type="text" name="q" placeholder="Your search terms..."/>
+			 <select name="section" id="gu-site-search" style="z-index: 0 !important;">
+									<option value="" id="search-guardian">guardian.co.uk</option>
+													<option value="media" id="search-section" selected="selected">Media</option>
+								<option value="web" id="search-web">Web</option>
+			</select>
+			<input type="submit" value="Search" />
+		</form>
+					
+				
+		<div id="zones-nav">
+							    
+
+	<div id="global-nav">
+		<ul>
+			
+																								<li class="first news">
+						<a href="http://www.guardian.co.uk" >News</a>
+					</li>
+							
+																			<li class="sport">
+						<a href="http://www.guardian.co.uk/sport" >Sport</a>
+					</li>
+							
+																			<li class="comment">
+						<a href="http://www.guardian.co.uk/commentisfree" >Comment</a>
+					</li>
+							
+																			<li class="culture">
+						<a href="http://www.guardian.co.uk/culture" >Culture</a>
+					</li>
+							
+																			<li class="business">
+						<a href="http://www.guardian.co.uk/business" >Business</a>
+					</li>
+							
+																			<li class="money">
+						<a href="http://www.guardian.co.uk/money" >Money</a>
+					</li>
+							
+																			<li class="life-and-style">
+						<a href="http://www.guardian.co.uk/lifeandstyle" >Life &amp; style</a>
+					</li>
+							
+																			<li class="travel">
+						<a href="http://www.guardian.co.uk/travel" >Travel</a>
+					</li>
+							
+																			<li class="environment">
+						<a href="http://www.guardian.co.uk/environment" >Environment</a>
+					</li>
+							
+																			<li class="culture">
+						<a href="http://www.guardian.co.uk/tv-and-radio" >TV</a>
+					</li>
+							
+																			<li class="global">
+						<a href="http://www.guardian.co.uk/multimedia" >Video</a>
+					</li>
+							
+																			<li class="news">
+						<a href="http://www.guardian.co.uk/data" >Data</a>
+					</li>
+							
+																			<li class="">
+						<a href="http://www.guardian.co.uk/lifeandstyle/shopping?INTCMP=ILCROFFTXT2094" >Offers</a>
+					</li>
+							
+																								<li class="last ">
+						<a href="http://jobs.guardian.co.uk/" >Jobs</a>
+					</li>
+									</ul>
+	</div>
+
+
+										    
+	
+	            
+                            
+
+
+<div class="crumb-wrapper">
+
+            <ul class="crumb-nav">
+                            <li id="crumb1">
+                    <a href="http://www.guardian.co.uk/">News</a>
+                </li>
+                            <li id="crumb2">
+                    <a href="http://www.guardian.co.uk/media">Media</a>
+                </li>
+                            <li id="crumb3">
+                    <a href="http://www.guardian.co.uk/media/julian-assange">Julian Assange</a>
+                </li>
+                    </ul>
+    
+    
+</div>
+
+					</div>
+				
+						    	    
+
+
+
+
+
+		
+										
+
+        
+
+	</div>
+
+
+
+<div id="box"
+											>
+
+ 	    
+
+
+
+        
+
+
+
+
+<div id="article-header">
+
+                
+
+
+    
+        	    
+
+
+
+
+
+		
+										
+
+        
+
+
+                
+
+
+	    
+
+	
+
+
+
+
+									
+			<div id="badge-medium">
+						 <h1> 							<a href="http://www.guardian.co.uk/world/the-us-embassy-cables">
+						<img src="http://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2010/11/23/cable_620x120.jpg" alt="The US embassy cables" width="620" height="120" class="image-badge" />
+							</a>
+						 </h1> 			
+												</div>
+	
+
+ 	
+     	
+ 	
+ 	<div id="main-article-info">
+ 		
+					
+				
+			<h1
+																									>10 days in Sweden: the full allegations against Julian Assange</h1>
+				
+					<p id="stand-first"
+				 class="stand-first-alone"																				>Unseen police documents provide the first complete account of the allegations against the WikiLeaks founder</p>
+		
+				
+  	</div>
+  	
+  	  	<ul id="content-actions" class="share-links">
+        	                    
+    
+	
+		
+													
+
+        
+    <li class="share-links">
+        <ul>
+    
+			
+			
+	
+	<li class="full-line tweet tweet_button">
+												<a href="http://twitter.com/share" class="twitter-share-button" data-url="http://gu.com/p/2mvem/tw" data-via="guardian" data-counturl="http://www.guardian.co.uk/media/2010/dec/17/julian-assange-sweden" data-related="guardian_world" data-text="10 days in Sweden: the full allegations against Julian Assange">Tweet this</a>
+	</li>
+	
+	<li class="third-party-tool full-line facebook">
+	    <a name="fb_share"></a>
+	    <script src="http://static.ak.fbcdn.net/connect.php/js/FB.Share" type="text/javascript"></script>
+	</li>	
+	
+
+	<li class="third-party-tool last-line reddit">
+	    <a class="reddit" href="http://reddit.com/submit?url=http%3A%2F%2Fwww.guardian.co.uk%2Fmedia%2F2010%2Fdec%2F17%2Fjulian-assange-sweden" title="Submit to reddit"
+	     onclick="if(true) {omnitureTrackShareLinks(this, 'Buzz')}" >
+		<img src="http://static.guim.co.uk/static/97858/common/styles/images/icon_reddit.gif" alt="Reddit" />
+	    </a>
+	</li>
+	
+			<li class="third-party-tool last-line buzz">
+			<a title="Buzz up" id="share-link-buzz" href="http://uk.buzz.yahoo.com/buzz?publisherurn=the_guardian665&targetUrl=http://www.guardian.co.uk/media/2010/dec/17/julian-assange-sweden&summary=Unseen+police+documents+provide+the+first+complete+account+of+the+allegations+against+the+WikiLeaks+founder&headline= 10 days in Sweden: the full allegations against Julian Assange | Media | The Guardian "
+			 onclick="if(true) {omnitureTrackShareLinks(this, 'Buzz')}" >
+    	    	<img src="http://static.guim.co.uk/static/97858/common/styles/images/icon_buzz.gif" alt="Buzz up" />
+	    	</a>	
+		</li>
+	        
+        </ul>
+    </li>
+
+	
+        
+        
+    </ul> 
+		
+		    </div>
+
+
+<div id="content">
+
+    
+                
+                
+
+	    
+
+
+
+
+<ul class="article-attributes">
+	        		<li class="byline">
+					                        	        	        	            <a class='contributor' href='http://www.guardian.co.uk/profile/nickdavies'
+															>Nick Davies</a>
+				</li>
+	
+
+		   	
+                              	
+          <li class="publication">        
+			<a href="http://www.guardian.co.uk" >guardian.co.uk</a>,			
+																		
+				            <time datetime="2010-12-17T21:30GMT" pubdate>Friday 17 December 2010 21.30 GMT</time>	        	        
+        </li> 
+		
+	
+		
+		
+	</ul>
+
+    	    
+
+
+
+
+
+		
+										
+
+        
+
+
+
+    
+    
+
+    <div id="article-wrapper"
+    										    	    data-global-auto-refresh-switch="on">
+			
+    			<figure>
+							<img src="http://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2010/12/17/1292617655349/Julian-Assange-at-Ellingh-007.jpg" width="460" height="276" alt="Julian Assange at Ellingham Hall where he is staying"  />
+								  <figcaption>Julian Assange at Ellingham Hall. Photograph: Paul Hackett/Reuters</figcaption>
+									</figure>
+	
+	<p>Documents seen by the Guardian reveal for the first time the full details of the allegations of rape and sexual assault that have led to extradition hearings against the WikiLeaks founder, <a href="http://www.guardian.co.uk/media/julian-assange" title="More from guardian.co.uk on Julian Assange">Julian Assange</a>.</p><p>The case against Assange, which has been the subject of intense speculation and dispute in mainstream media and on the internet, is laid out in police material held in Stockholm to which the Guardian received unauthorised access.</p><p>Assange, who was released on bail on Thursday, denies the Swedish allegations and has not formally been charged with any offence. The two Swedish women behind the charges have been accused by his supporters of making malicious complaints or being "honeytraps" in a wider conspiracy to discredit him.</p><p>Assange's UK lawyer, Mark Stephens, attributed the allegations to "dark forces", saying: "The honeytrap has been sprung ... After what we've seen so far you can reasonably conclude this is part of a greater plan." The journalist John Pilger dismissed the case as a "political stunt" and in an interview with ABC news, Assange said Swedish prosecutors were withholding evidence which suggested he had been "set up."</p><p>However, unredacted statements held by prosecutors in Stockholm, along with interviews with some of the central characters, shed fresh light on the hotly disputed sequence of events that has become the centre of a global storm.</p><p>Stephens has repeatedly complained that Assange has not been allowed to see the full allegations against him, but it is understood his Swedish defence team have copies of all the documents seen by the Guardian. He maintains that other potentially exculpatory evidence has not been made available to his team and may not have been seen by the Guardian.</p><p>The allegations centre on a 10-day period after Assange flew into Stockholm on Wednesday 11 August. One of the women, named in court as Miss A, told police that she had arranged Assange's trip to <a href="http://www.guardian.co.uk/world/sweden" title="More from guardian.co.uk on Sweden">Sweden</a>, and let him stay in her flat because she was due to be away. She returned early, on Friday 13 August, after which the pair went for a meal and then returned to her flat.</p><p>Her account to police, which Assange disputes, stated that he began stroking her leg as they drank tea, before he pulled off her clothes and snapped a necklace that she was wearing. According to her statement she "tried to put on some articles of clothing as it was going too quickly and uncomfortably but Assange ripped them off again". Miss A told police that she didn't want to go any further "but that it was too late to stop Assange as she had gone along with it so far", and so she allowed him to undress her.</p><p>According to the statement, Miss A then realised he was trying to have unprotected sex with her. She told police that she had tried a number of times to reach for a condom but Assange had stopped her by holding her arms and pinning her legs. The statement records Miss A describing how Assange then released her arms and agreed to use a condom, but she told the police that at some stage Assange had "done something" with the condom that resulted in it becoming ripped, and ejaculated without withdrawing.</p><p>When he was later interviewed by police in Stockholm, Assange agreed that he had had sex with Miss A but said he did not tear the condom, and that he was not aware that it had been torn. He told police that he had continued to sleep in Miss A's bed for the following week and she had never mentioned a torn condom.</p><p>On the following morning, Saturday 14 August, Assange spoke at a seminar organised by Miss A. A second woman, Miss W, had contacted Miss A to ask if she could attend. Both women joined Assange, the co-ordinator of the Swedish WikiLeaks group, whom we will call "Harold", and a few others for lunch.</p><p>Assange left the lunch with Miss W. She told the police she and Assange had visited the place where she worked and had then gone to a cinema where they had moved to the back row. He had kissed her and put his hands inside her clothing, she said.</p><p>That evening, Miss A held a party at her flat. One of her friends, "Monica", later told police that during the party Miss A had told her about the ripped condom and unprotected sex. Another friend told police that during the evening Miss A told her she had had "the worst sex ever" with Assange: "Not only had it been the world's worst screw, it had also been violent."</p><p>Assange's supporters point out that, despite her complaints against him, Miss A held a party for him on that evening and continued to allow him to stay in her flat.</p><p>On Sunday 15 August, Monica told police, Miss A told her that she thought Assange had torn the condom on purpose. According to Monica, Miss A said Assange was still staying in her flat but they were not having sex because he had "exceeded the limits of what she felt she could accept" and she did not feel safe.</p><p>The following day, Miss W phoned Assange and arranged to meet him late in the evening, according to her statement. The pair went back to her flat in Enkoping, near Stockholm. Miss W told police that though they started to have sex, Assange had not wanted to wear a condom, and she had moved away because she had not wanted unprotected sex. Assange had then lost interest, she said, and fallen asleep. However, during the night, they had both woken up and had sex at least once when "he agreed unwillingly to use a condom".</p><p>Early the next morning, Miss W told police, she had gone to buy breakfast  before getting back into bed and falling asleep beside Assange. She had awoken to find him having sex with her, she said, but when she asked whether he was wearing a condom he said no. "According to her statement, she said: 'You better not have HIV' and he answered: 'Of course not,' " but "she couldn't be bothered to tell him one more time because she had been going on about the condom all night. She had never had unprotected sex before."</p><p>The police record of the interview with Assange in Stockhom deals only with the complaint made by Miss A. However, Assange and his lawyers have repeatedly stressed that he denies any kind of wrongdoing in relation to Miss W.</p><p>In submissions to the Swedish courts, they have argued that Miss W took the initiative in contacting Assange, that on her own account she willingly engaged in sexual activity in a cinema and voluntarily took him to her flat where, she agrees, they had consensual sex. They say that she never indicated to Assange that she did not want to have sex with him. They also say that in a text message to a friend, she never suggested she had been raped and claimed only to have been "half asleep".</p><p>Police spoke to Miss W's ex-boyfriend, who told them that in two and a half  years they had never had sex without a condom because it was "unthinkable" for her. Miss W told police she went to a chemist to buy a morning-after pill and also went to hospital to be tested for STDs. Police statements record her contacting Assange to ask him to get a test and his refusing on the grounds that he did not have the time.</p><p>On Wednesday 18 August, according to police records, Miss A told Harold and a friend that Assange would not leave her flat and was sleeping in her bed, although she was not having sex with him and he spent most of the night sitting with his computer. Harold told police he had asked Assange why he was refusing to leave the flat and that Assange had said he was very surprised, because Miss A had not asked him to leave. Miss A says she spent Wednesday night on a mattress and then moved to a friend's flat so she did not have to be near him. She told police that Assange had continued to make sexual advances to her every day after they slept together and on Wednesday 18 August had approached her, naked from the waist down, and rubbed himself against her.</p><p>The following day, Harold told police, Miss A called him and for the first time gave him a full account of her complaints about Assange. Harold told police he regarded her as "very, very credible" and he confronted Assange, who said he was completely shocked by the claims and denied all of them. By Friday 20 August, Miss W had texted Miss A looking for help in finding Assange. The two women met and compared stories.</p><p>Harold has independently told the Guardian Miss A made a series of calls to him asking him to persuade Assange to take an STD test to reassure Miss W, and that Assange refused. Miss A then warned if Assange did not take a test, Miss W would go to the police. Assange had rejected this as blackmail, Harold told police.</p><p>Assange told police that Miss A spoke to him directly and complained to him that he had torn their condom, something that he regarded as false.</p><p>Late that Friday afternoon, Harold told police, Assange agreed to take a test, but the clinics had closed for the weekend. Miss A phoned Harold to say that she and Miss W had been to the police, who had told them that they couldn't simply tell Assange to take a test, that their statements must be passed to the prosecutor. That night, the story leaked to the Swedish newspaper Expressen.</p><p>By Saturday morning, 21 August, journalists were asking Assange for a reaction. At 9.15am, he tweeted: "We were warned to expect 'dirty tricks'. Now we have the first one." The following day, he tweeted: "Reminder: US intelligence planned to destroy WikiLeaks as far back as 2008."</p><p>The Swedish tabloid Aftonbladet asked if he had had sex with his two accusers. He said: "Their identities have been made anonymous so even I have no idea who they are. We have been warned that the Pentagon, for example, is thinking of deploying dirty tricks to ruin us."</p><p>Assange's Swedish lawyers have since suggested that Miss W's text messages – which the Guardian has not seen – show that she was thinking of contacting Expressen and that one of her friends told her she should get money for her story. However, police statements by the friend offer a more innocent explanation: they say these text messages were exchanged several days <em>after</em> the women had made their complaint. They followed an inquiry from a foreign newspaper and were meant jokingly, the friend stated to police.</p><p>The Guardian understands that the recent Swedish decision to apply for an international arrest warrant followed a decision by Assange to leave Sweden in late September and not return for a scheduled meeting when he was due to be interviewed by the prosecutor. Assange's supporters have denied this, but Assange himself told friends in London that he was supposed to return to Stockholm for a police interview during the week beginning 11 October, and that he had decided to stay away. Prosecution documents seen by the Guardian record that he was due to be interviewed on 14 October.</p><p>The co-ordinator of the WikiLeaks group in Stockholm, who is a close colleague of Assange and who also knows both women, told the Guardian: "This is a normal police investigation. Let the police find out what actually happened. Of course, the enemies of WikiLeaks may try to use this, but it begins with the two women and Julian. It is not the CIA sending a woman in a short skirt."</p><p>Assange's lawyers were asked to respond on his behalf to the allegations in the documents seen by the Guardian on Wednesday evening. Tonight they said they were still unable obtain a response from Assange.</p><p>Assange's solicitor, Mark Stephens, said: "The allegations of the complainants are not credible and were dismissed by the senior Stockholm prosecutor as not worthy of further investigation." He said Miss A had sent two Twitter messages that appeared to undermine her account in the police statement.</p><p>Assange's defence team had so far been provided by prosecutors with only incomplete evidence, he said. "There are many more text and SMS messages from and to the complainants which have been shown by the assistant prosecutor to the Swedish defence lawyer, Bjorn Hurtig, which suggest motivations of malice and money in going to the police and to Espressen and raise the issue of political motivation behind the presentation of these complaints. He [Hurtig] has been precluded from making notes or copying them.</p><p>"We understand that both complainants admit to having initiated consensual sexual relations with Mr Assange. They do not complain of any physical injury. The first complainant did not make a complaint for six days (in which she hosted the respondent in her flat [actually her bed] and spoke in the warmest terms about him to her friends) until she discovered he had spent the night with the other complainant.</p><p>"The second complainant, too, failed to complain for several days until she found out about the first complainant: she claimed that after several acts of consensual sexual intercourse, she fell half asleep and thinks that he ejaculated without using a condom – a possibility about which she says they joked afterwards.</p><p>"Both complainants say they did not report him to the police for prosecution but only to require him to have an STD test. However, his Swedish lawyer has been shown evidence of their text messages which indicate that they were concerned to obtain money by going to a tabloid newspaper and were motivated by other matters including a desire for revenge."</p>
+
+						
+	    
+        	    
+
+
+
+
+
+		
+										
+
+        
+
+    
+    </div>
+    
+
+    
+    
+</div>
+
+		
+<div id="related">
+		
+						
+		    		
+		
+		
+
+
+
+
+
+	<ul id="article-toolbox-side">
+	
+
+							<li class="printable"><a href="http://www.guardian.co.uk/media/2010/dec/17/julian-assange-sweden/print" rel="nofollow" id="printlink" class="printable rollover" title="Link to a printer-friendly version" ><img src="http://static.guim.co.uk/static/97858/common/images/icon_print.gif" alt="Print this" class="trail-icon" /><span>Printable version</span></a></li>
+		
+			<li><a class="rollover send-email" href="http://www.guardian.co.uk/email/369873870"  title="Opens an email form" ><img src="http://static.guim.co.uk/static/97858/common/images/icon_email-friend.gif" alt="" class="trail-icon" /><span>Send to a friend</span></a></li>
+		
+			<li><a class="rollover send-share"   href="http://www.guardian.co.uk/share/369873870" title="Opens a share this page in a new window" ><img src="http://static.guim.co.uk/static/97858/common/images/icon_share.gif" alt="" class="trail-icon" /><span>Share</span></a></li>
+		
+			<li><a href="http://www.guardian.co.uk/users/clippings/add?r2PageId=1496308" id="clippable" title="Sends this page to your clippings file" class="rollover anchor-based-login-required package-required-YCLD" ><img src="http://static.guim.co.uk/static/97858/common/images/icon_clip.gif" alt="" class="trail-icon" /><span>Clip</span></a></li>
+		
+			<li><a href="http://www.guardian.co.uk/contactus/369873870"  class="rollover contact-link" title="Displays contact data for guardian.co.uk"><img src="http://static.guim.co.uk/static/97858/common/images/icon_email-us.gif" alt="" class="trail-icon" /><span>Contact us</span></a></li>
+		
+		
+			<li class="resize">
+			
+			<img src="http://static.guim.co.uk/static/97858/common/images/icon_font.gif" alt="" class="trail-icon" />
+			<a href="/help/accessibility" id="larger-sidebar" title="Increase text size">larger</a> | 
+			<a href="/help/accessibility" id="smaller-sidebar" title="Decrease text size">smaller</a>		</li>
+	
+	
+    
+    
+</ul>
+
+	    
+
+
+<div class="toolbox-popup" id="send-email-box">
+	<div class="send-inner">
+		<div class="share-top">
+			<h3>Email</h3>
+			<span><a class="close-toolbox" href="#send-email">Close</a></span>
+		</div>
+		<div>
+		
+				        	       		        
+	        			<form method="post" name="emailthis" id="emailthis" action="http://www.guardian.co.uk/email/369873870">
+				<fieldset>
+					<div>
+						<label for="to">Recipient's email address</label>
+					</div>
+					<input type="text" name="to" maxlength="64" value="" />
+									</fieldset>
+				<fieldset>
+					<div>
+						<label for="name">Your first name</label>
+					</div>
+				   <input type="text" name="firstName" maxlength="64" value="" />
+				</fieldset>
+				<fieldset>
+					<div>
+						<label for="name">Your surname</label>
+					</div>
+				   <input type="text" name="surname" maxlength="64" value="" />
+				   				</fieldset>
+				<fieldset>
+					<div>
+						<label for="note">Add a note (optional)</label>
+						<br /><span id="warning-side"></span>
+					</div>
+				   <textarea name="note" cols="25" rows="5" onkeyup="formCheckerSide(this,250)"></textarea>
+				</fieldset>
+				<div class="inputrow">
+					<input type="submit" value="Send" />
+				</div>
+				<p class="ip_logged">Your IP address will be logged</p>
+			</form>
+		</div>
+	</div>
+</div>
+	    
+
+
+<div class="toolbox-popup" id="send-share-box">
+    <div class="send-inner">
+    <div class="share-top">
+            <h3>Share</h3>
+            <span><a class="close-toolbox" href="#send-share-box">Close</a></span>
+    </div>
+    	
+			<div class="shortlink">
+			Short link for this page: 
+			<a rel="shortlink nofollow" href="http://gu.com/p/2mvem">
+				 http://gu.com/p/2mvem
+			</a>
+		</div>
+			   <ul>
+        <li><a class="digg" href="http://digg.com/submit?phase=2&amp;url=http%3A%2F%2Fwww.guardian.co.uk%2Fmedia%2F2010%2Fdec%2F17%2Fjulian-assange-sweden&amp;title=10+days+in+Sweden%3A+the+full+allegations+against+Julian+Assange" name="lid={share}{Digg}">Digg</a></li>
+      <li>
+        <a class="reddit" href="http://reddit.com/submit?url=http%3A%2F%2Fwww.guardian.co.uk%2Fmedia%2F2010%2Fdec%2F17%2Fjulian-assange-sweden&amp;title=10+days+in+Sweden%3A+the+full+allegations+against+Julian+Assange" name="lid={share}{reddit}">reddit</a>
+      </li>
+       <li>
+        <a class="google" href="http://www.google.com/bookmarks/mark?op=edit&amp;bkmk=http%3A%2F%2Fwww.guardian.co.uk%2Fmedia%2F2010%2Fdec%2F17%2Fjulian-assange-sweden&amp;title=10+days+in+Sweden%3A+the+full+allegations+against+Julian+Assange" name="lid={share}{Google Bookmarks}">Google Bookmarks</a>
+      </li>
+        <li>
+            <a class="twitter" href="http://twitter.com/home?status=http%3A%2F%2Fgu.com%2Fp%2F2mvem%2Ftw" name="lid={share}{Twitter}">Twitter</a>
+        </li>
+      <li>
+        <a class="delicious" href="http://del.icio.us/post?url=http%3A%2F%2Fwww.guardian.co.uk%2Fmedia%2F2010%2Fdec%2F17%2Fjulian-assange-sweden&amp;title=10+days+in+Sweden%3A+the+full+allegations+against+Julian+Assange" name="lid={share}{del.icio.us}">del.icio.us</a>
+      </li>
+      <li>
+        <a class="stumbleupon" href="http://www.stumbleupon.com/submit?url=http%3A%2F%2Fwww.guardian.co.uk%2Fmedia%2F2010%2Fdec%2F17%2Fjulian-assange-sweden&amp;title=10+days+in+Sweden%3A+the+full+allegations+against+Julian+Assange" >StumbleUpon</a>
+      </li>
+      <li>
+        <a class="newsvine" href="http://www.newsvine.com/_tools/seed&amp;save?popoff=0&amp;u=http%3A%2F%2Fwww.guardian.co.uk%2Fmedia%2F2010%2Fdec%2F17%2Fjulian-assange-sweden&amp;h=10+days+in+Sweden%3A+the+full+allegations+against+Julian+Assange" >Newsvine</a>
+      </li>
+      <li>
+        <a class="livejournal" href="http://www.livejournal.com/update.bml?subject=http%3A%2F%2Fwww.guardian.co.uk%2Fmedia%2F2010%2Fdec%2F17%2Fjulian-assange-sweden" name="lid={share}{livejournal}">livejournal</a>
+      </li>
+      <li>
+        <a class="facebook" href="http://www.facebook.com/share.php?u=http%3A%2F%2Fwww.guardian.co.uk%2Fmedia%2F2010%2Fdec%2F17%2Fjulian-assange-sweden" name="lid={share}{Facebook}">Facebook</a>
+      </li>
+        <li>
+            <a class="mixx" href="http://www.mixx.com/submit?page_url=http%3A%2F%2Fwww.guardian.co.uk%2Fmedia%2F2010%2Fdec%2F17%2Fjulian-assange-sweden" name="lid={share}{Mixx}">Mixx it!</a>
+        </li>
+   </ul>
+   <div class="clear"></div>
+   </div>
+</div>
+	    
+
+<div class="toolbox-popup" id="contact-link-box">
+	<div class="send-inner">
+		<div class="share-top">
+			<h3>Contact us</h3>
+            <span><a class="close-toolbox" href="#contact">Close</a></span>
+		</div>
+		
+		<div class="col first">
+						<ul>
+															<li>
+														
+		
+	        Contact the Media editor<br><a href="mailto:editor@mediaguardian.co.uk">editor@mediaguardian.co.uk</a>
+    													</li>
+													<li>
+					                        Report errors or inaccuracies: <a href="mailto:reader@guardian.co.uk">reader@guardian.co.uk</a>
+                    				</li>
+				<li>
+											Letters for publication should be sent to: <a href="mailto:letters@guardian.co.uk">letters@guardian.co.uk</a>
+									</li>
+			</ul>
+		</div>
+		<div class="col">
+			<ul>
+				<li>
+					If you need help using the site: <a href="mailto:userhelp@guardian.co.uk">userhelp@guardian.co.uk</a>
+				</li>
+				<li>
+					Call the main Guardian and Observer switchboard: <br /><span>+44 (0)20 3353 2000</span>
+				</li>
+				<li>
+					<ul>
+						<li>
+							<a href="http://adinfo-guardian.co.uk/">Advertising guide</a>
+						</li>
+						<li>
+							<a href="http://www.guardian.co.uk/syndication/">License/buy our content</a>
+						</li>
+					</ul>
+				</li>
+			</ul>
+		</div>
+	</div>
+</div>
+	    	    
+
+
+
+
+
+		
+										
+
+        
+
+
+
+
+	    			    
+		
+
+
+
+    
+	<div class="related-keywords">
+	
+					
+					<h4 class="b4 t6"><a href="http://www.guardian.co.uk/media" >Media</a></h4>
+		
+	    						<ul>
+						<li>
+																		<a href="http://www.guardian.co.uk/media/julian-assange"  rel="tag">Julian Assange</a> 															</li>
+				</ul>
+										
+					<h4 class="b3 t6"><a href="http://www.guardian.co.uk/world" >World news</a></h4>
+		
+	    						<ul>
+						<li>
+																		<a href="http://www.guardian.co.uk/world/the-us-embassy-cables"  rel="tag">The US embassy cables</a> &middot;															</li>
+								<li>
+																		<a href="http://www.guardian.co.uk/world/sweden"  rel="tag">Sweden</a> 															</li>
+				</ul>
+										
+					<h4 class="b3 t6"><a href="http://www.guardian.co.uk/uk" >UK news</a></h4>
+		
+	    			
+	
+			
+
+																						<p class="t6 b4"><a href="http://www.guardian.co.uk/tone/news" >More 			news
+	</a></p>
+														
+				
+	
+</div>
+
+
+	    							
+		    
+
+									
+								<div id="manual-trailblock" class="package">
+					<ul>
+																				
+														
+																								<li class="first">
+										<h3>More on this story</h3>
+									</li>
+																	
+																																																										
+														
+													
+														
+															
+																																																																										<li class="picture">
+																										<p class="thumbnail">
+	
+		
+								
+    
+            <img src="http://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2010/12/17/1292619509205/Julian-Assange-003.jpg" width="140" height="84" alt="Julian Assange" 
+        						         />
+    	
+</p>
+																										<p>
+		
+	        <a     data-cpt="cpt-239" href="http://www.guardian.co.uk/media/2010/dec/17/julian-assange-q-and-a"  class="link-text"> Q&amp;A: Julian Assange allegations </a>
+    </p>
+																											<p> Despite three legal hearings, there remains a lack of consensus about the status of charges against the WikiLeaks founder<br> </p>
+																									</li>
+																																																																
+														
+																				
+														
+															
+																																																		<li>
+																																							<p>
+														    
+
+
+		    		    
+		
+	
+	
+			
+	
+														
+		
+	        <a     data-cpt="cpt-239" href="http://www.guardian.co.uk/world/2010/dec/17/wikileaks-european-human-rights-standards"  class="link-text"> US criticises court that may decide on Julian Assange extradition, WikiLeaks cables show </a>
+    													</p>
+												</li>
+																																																				
+														
+													
+														
+															
+																																																		<li>
+																																							<p>
+														    
+
+
+		    		    
+		
+	
+	
+			
+	
+														
+		
+	        <a     data-cpt="cpt-239" href="http://www.guardian.co.uk/commentisfree/2010/dec/17/wikileaks-man-idea-editorial-assange"  class="link-text"> WikiLeaks: the man and the idea </a>
+    													</p>
+												</li>
+																																																				
+														
+											</ul>
+										</div>						
+		    	    
+
+
+
+
+
+		
+										
+
+        		
+		
+												
+										
+						
+											    <div class="related-content">
+    
+    <div class="bd">
+        <div class="two-col edge">
+            <p class="b4 t6">Related</p>
+            <ul class="l1d">
+
+                <li>
+                    <p class="t6 web-publication-date">7 Dec 2010</p>
+                    <p class="t7">
+                        <a href="http://www.guardian.co.uk/media/2010/dec/07/wikileaks-cables-julian-assange-arrest">WikiLeaks to keep releasing cables despite Assange arrest</a>
+                    </p>
+                </li><li>
+                    <p class="t6 web-publication-date">9 Dec 2010</p>
+                    <p class="t7">
+                        <a href="http://www.guardian.co.uk/media/2010/dec/09/deborah-orr-julian-assange-wikileaks">Why WikiLeaks' Julian Assange might prefer Sweden</a>
+                    </p>
+                </li><li>
+                    <p class="t6 web-publication-date">4 Dec 2010</p>
+                    <p class="t7">
+                        <a href="http://www.guardian.co.uk/media/2010/dec/04/paypal-internet-backlash-wikileaks">PayPal joins internet backlash against WikiLeaks</a>
+                    </p>
+                </li><li>
+                    <p class="t6 web-publication-date">7 Dec 2010</p>
+                    <p class="t7">
+                        <a href="http://www.guardian.co.uk/media/video/2010/dec/07/julian-assange-uk-police-video">Julian Assange to be questioned by UK police, says lawyer</a>
+                    </p>
+                </li>
+
+            </ul>
+        </div>
+    </div>
+</div>  
+  
+									
+							        
+
+
+		    
+
+		
+
+
+
+
+				    							
+																																									
+	
+</div>
+
+
+
+	
+		
+    		
+		
+		
+
+
+
+
+
+	<ul id="article-toolbox">
+
+
+							<li class="printable"><a href="http://www.guardian.co.uk/media/2010/dec/17/julian-assange-sweden/print" rel="nofollow" id="printlink" class="printable rollover" title="Link to a printer-friendly version" ><img src="http://static.guim.co.uk/static/97858/common/images/icon_print.gif" alt="Print this" class="trail-icon" /><span>Printable version</span></a></li>
+		
+			<li><a class="rollover send-email" href="http://www.guardian.co.uk/email/369873870"  title="Opens an email form" ><img src="http://static.guim.co.uk/static/97858/common/images/icon_email-friend.gif" alt="" class="trail-icon" /><span>Send to a friend</span></a></li>
+		
+			<li><a class="rollover send-share"   href="http://www.guardian.co.uk/share/369873870" title="Opens a share this page in a new window" ><img src="http://static.guim.co.uk/static/97858/common/images/icon_share.gif" alt="" class="trail-icon" /><span>Share</span></a></li>
+		
+			<li><a href="http://www.guardian.co.uk/users/clippings/add?r2PageId=1496308" id="clippable" title="Sends this page to your clippings file" class="rollover anchor-based-login-required package-required-YCLD" ><img src="http://static.guim.co.uk/static/97858/common/images/icon_clip.gif" alt="" class="trail-icon" /><span>Clip</span></a></li>
+		
+			<li><a href="http://www.guardian.co.uk/contactus/369873870"  class="rollover contact-link" title="Displays contact data for guardian.co.uk"><img src="http://static.guim.co.uk/static/97858/common/images/icon_email-us.gif" alt="" class="trail-icon" /><span>Contact us</span></a></li>
+		
+			<li class="article-history"><a href="#" title="View the history of this article" class="rollover history-link" ><img src="http://static.guim.co.uk/static/97858/common/images/icon_history.gif" alt="" class="trail-icon" /><span>Article history</span></a></li>
+		
+	
+	
+    
+    
+</ul>
+
+	    
+
+
+<div class="toolbox-popup" id="send-email-box">
+	<div class="send-inner">
+		<div class="share-top">
+			<h3>Email</h3>
+			<span><a class="close-toolbox" href="#send-email">Close</a></span>
+		</div>
+		<div>
+		
+				        	       		        
+	        			<form method="post" name="emailthis" id="emailthis" action="http://www.guardian.co.uk/email/369873870">
+				<fieldset>
+					<div>
+						<label for="to">Recipient's email address</label>
+					</div>
+					<input type="text" name="to" maxlength="64" value="" />
+									</fieldset>
+				<fieldset>
+					<div>
+						<label for="name">Your first name</label>
+					</div>
+				   <input type="text" name="firstName" maxlength="64" value="" />
+				</fieldset>
+				<fieldset>
+					<div>
+						<label for="name">Your surname</label>
+					</div>
+				   <input type="text" name="surname" maxlength="64" value="" />
+				   				</fieldset>
+				<fieldset>
+					<div>
+						<label for="note">Add a note (optional)</label>
+						<br /><span id="warning-side"></span>
+					</div>
+				   <textarea name="note" cols="25" rows="5" onkeyup="formCheckerSide(this,250)"></textarea>
+				</fieldset>
+				<div class="inputrow">
+					<input type="submit" value="Send" />
+				</div>
+				<p class="ip_logged">Your IP address will be logged</p>
+			</form>
+		</div>
+	</div>
+</div>
+	    
+
+
+<div class="toolbox-popup" id="send-share-box">
+    <div class="send-inner">
+    <div class="share-top">
+            <h3>Share</h3>
+            <span><a class="close-toolbox" href="#send-share-box">Close</a></span>
+    </div>
+    	
+			<div class="shortlink">
+			Short link for this page: 
+			<a rel="shortlink nofollow" href="http://gu.com/p/2mvem">
+				 http://gu.com/p/2mvem
+			</a>
+		</div>
+			   <ul>
+        <li><a class="digg" href="http://digg.com/submit?phase=2&amp;url=http%3A%2F%2Fwww.guardian.co.uk%2Fmedia%2F2010%2Fdec%2F17%2Fjulian-assange-sweden&amp;title=10+days+in+Sweden%3A+the+full+allegations+against+Julian+Assange" name="lid={share}{Digg}">Digg</a></li>
+      <li>
+        <a class="reddit" href="http://reddit.com/submit?url=http%3A%2F%2Fwww.guardian.co.uk%2Fmedia%2F2010%2Fdec%2F17%2Fjulian-assange-sweden&amp;title=10+days+in+Sweden%3A+the+full+allegations+against+Julian+Assange" name="lid={share}{reddit}">reddit</a>
+      </li>
+       <li>
+        <a class="google" href="http://www.google.com/bookmarks/mark?op=edit&amp;bkmk=http%3A%2F%2Fwww.guardian.co.uk%2Fmedia%2F2010%2Fdec%2F17%2Fjulian-assange-sweden&amp;title=10+days+in+Sweden%3A+the+full+allegations+against+Julian+Assange" name="lid={share}{Google Bookmarks}">Google Bookmarks</a>
+      </li>
+        <li>
+            <a class="twitter" href="http://twitter.com/home?status=http%3A%2F%2Fgu.com%2Fp%2F2mvem%2Ftw" name="lid={share}{Twitter}">Twitter</a>
+        </li>
+      <li>
+        <a class="delicious" href="http://del.icio.us/post?url=http%3A%2F%2Fwww.guardian.co.uk%2Fmedia%2F2010%2Fdec%2F17%2Fjulian-assange-sweden&amp;title=10+days+in+Sweden%3A+the+full+allegations+against+Julian+Assange" name="lid={share}{del.icio.us}">del.icio.us</a>
+      </li>
+      <li>
+        <a class="stumbleupon" href="http://www.stumbleupon.com/submit?url=http%3A%2F%2Fwww.guardian.co.uk%2Fmedia%2F2010%2Fdec%2F17%2Fjulian-assange-sweden&amp;title=10+days+in+Sweden%3A+the+full+allegations+against+Julian+Assange" >StumbleUpon</a>
+      </li>
+      <li>
+        <a class="newsvine" href="http://www.newsvine.com/_tools/seed&amp;save?popoff=0&amp;u=http%3A%2F%2Fwww.guardian.co.uk%2Fmedia%2F2010%2Fdec%2F17%2Fjulian-assange-sweden&amp;h=10+days+in+Sweden%3A+the+full+allegations+against+Julian+Assange" >Newsvine</a>
+      </li>
+      <li>
+        <a class="livejournal" href="http://www.livejournal.com/update.bml?subject=http%3A%2F%2Fwww.guardian.co.uk%2Fmedia%2F2010%2Fdec%2F17%2Fjulian-assange-sweden" name="lid={share}{livejournal}">livejournal</a>
+      </li>
+      <li>
+        <a class="facebook" href="http://www.facebook.com/share.php?u=http%3A%2F%2Fwww.guardian.co.uk%2Fmedia%2F2010%2Fdec%2F17%2Fjulian-assange-sweden" name="lid={share}{Facebook}">Facebook</a>
+      </li>
+        <li>
+            <a class="mixx" href="http://www.mixx.com/submit?page_url=http%3A%2F%2Fwww.guardian.co.uk%2Fmedia%2F2010%2Fdec%2F17%2Fjulian-assange-sweden" name="lid={share}{Mixx}">Mixx it!</a>
+        </li>
+   </ul>
+   <div class="clear"></div>
+   </div>
+</div>
+	    
+
+<div class="toolbox-popup" id="contact-link-box">
+	<div class="send-inner">
+		<div class="share-top">
+			<h3>Contact us</h3>
+            <span><a class="close-toolbox" href="#contact">Close</a></span>
+		</div>
+		
+		<div class="col first">
+						<ul>
+															<li>
+														
+		
+	        Contact the Media editor<br><a href="mailto:editor@mediaguardian.co.uk">editor@mediaguardian.co.uk</a>
+    													</li>
+													<li>
+					                        Report errors or inaccuracies: <a href="mailto:reader@guardian.co.uk">reader@guardian.co.uk</a>
+                    				</li>
+				<li>
+											Letters for publication should be sent to: <a href="mailto:letters@guardian.co.uk">letters@guardian.co.uk</a>
+									</li>
+			</ul>
+		</div>
+		<div class="col">
+			<ul>
+				<li>
+					If you need help using the site: <a href="mailto:userhelp@guardian.co.uk">userhelp@guardian.co.uk</a>
+				</li>
+				<li>
+					Call the main Guardian and Observer switchboard: <br /><span>+44 (0)20 3353 2000</span>
+				</li>
+				<li>
+					<ul>
+						<li>
+							<a href="http://adinfo-guardian.co.uk/">Advertising guide</a>
+						</li>
+						<li>
+							<a href="http://www.guardian.co.uk/syndication/">License/buy our content</a>
+						</li>
+					</ul>
+				</li>
+			</ul>
+		</div>
+	</div>
+</div>
+	    <div class="toolbox-popup" id="history-link-box" style="width: 460px">
+	<div class="send-inner">
+		<div class="share-top">
+			<h3>About this article</h3>
+            <span><a class="close-toolbox" href="#history-link-box">Close</a></span>
+		</div>
+		        	        			
+						  			  		   		   	   	   
+									
+						
+																	
+ 			<div class="section">
+				<h1>10 days in Sweden: the full allegations against Julian Assange</h1>
+		   		    			    										This article was published on
+							<a href='http://www.guardian.co.uk/'>guardian.co.uk</a>
+							at <time datetime="2010-12-18T00:00GMT" pubdate>21.30 GMT on Friday 17 December 2010</time>. 
+					   	A version appeared  on p4 of the <a href=http://www.guardian.co.uk/theguardian/2010/dec/18/mainsection  >Main section</a> section of 					   	<a href="http://www.guardian.co.uk/theguardian"  >the Guardian</a>
+					   	on <time datetime="2010-12-18" pubdate><a href="http://www.guardian.co.uk/theguardian/2010/dec/18">Saturday 18 December 2010</a></time>. 
+					   	It was last modified at <time datetime="2010-12-18T00:28GMT">00.28 GMT on Saturday 18 December 2010</time>.
+						  				   								</div>
+			</div>
+</div>
+
+
+
+
+  	    	    
+
+
+
+
+
+		
+										
+
+        		
+		
+												
+										
+						
+											                    
+    
+	
+		
+											
+
+	<div id="advertiser-container">
+							
+	
+	
+			<script type="text/javascript">
+
+google_ad_client = 'ca-guardian_js';
+google_ad_channel = 'media';
+</script>
+
+    	    
+
+
+
+
+
+		
+										
+
+        
+
+
+<script>
+
+google_max_num_ads = '3';
+
+</script>
+			    				<div id="google-ads-container" class="eight-col edge component advertiser-links" style="display: none;"></div>
+		<script type="text/javascript">
+		//<![CDATA[
+			if (true) {
+					  writeScript("http://pagead2.googlesyndication.com/pagead/show_ads.js", false, function(){});
+			}
+		// ]]>
+		</script>
+		
+	
+			</div>
+
+									
+							        
+
+
+	
+</div>
+
+	<div id="promo">
+				<!-- this is the third column -->
+	    	    
+
+
+
+
+
+		
+										
+
+        		
+		
+												
+										
+											
+											    
+<div class="promo-component four-col edge jobs-box">
+	<div class="hd">
+		<a href="http://jobs.guardian.co.uk?INTCMP=JB2_MEDIA">
+			<img src="http://resource.guim.co.uk/global/jobsbox/public/images/guardianjobs.gif" alt="guardian jobs">
+		</a>
+			</div>
+	
+	
+	<div class="bd">
+			<!--Country code: UK-->
+
+						
+							<!-- UK Jobs box version: 2-->
+				
+					
+									<p class="jobs-categories-overview b2">Find the latest jobs in your sector:</p>
+
+<ul class="column first">
+	<li class="b3"><a href="http://jobs.guardian.co.uk/arts/?INTCMP=JB2_MEDIA">Arts & heritage</a></li>
+	<li class="b3"><a href="http://jobs.guardian.co.uk/charity/?INTCMP=JB2_MEDIA">Charities</a></li>
+	<li class="b3"><a href="http://jobs.guardian.co.uk/education/?INTCMP=JB2_MEDIA">Education</a></li>
+	<li class="b3"><a href="http://jobs.guardian.co.uk/environment/?INTCMP=JB2_MEDIA">Environment</a></li>
+	<li class="b3"><a href="http://jobs.guardian.co.uk/government/?INTCMP=JB2_MEDIA">Government</a></li>
+	<li class="b3"><a href="http://jobs.guardian.co.uk/graduate/?INTCMP=JB2_MEDIA">Graduate</a></li>
+</ul>
+<ul class="column ">
+	<li class="b3"><a href="http://jobs.guardian.co.uk/jobs/health/?INTCMP=JB2_MEDIA">Health</a></li>
+	<li class="b3"><a href="http://jobs.guardian.co.uk/marketing/?INTCMP=JB2_MEDIA">Marketing & PR</a></li>
+	<li class="b3"><a href="http://jobs.guardian.co.uk/media/?INTCMP=JB2_MEDIA">Media</a></li>
+	<li class="b3"><a href="http://jobs.guardian.co.uk/jobs/sales">Sales</a></li>
+	<li class="b3"><a href="http://jobs.guardian.co.uk/jobs/senior-executive/?INTCMP=JB2_MEDIA">Senior executive</a></li>
+	<li class="b3"><a href="http://jobs.guardian.co.uk/social-care/?INTCMP=JB2_MEDIA">Social care</a></li>
+</ul>
+<p class="browse-all-jobs b3">
+	<a href="http://jobs.guardian.co.uk?INTCMP=JB2_MEDIA">Browse all jobs</a>
+</p>
+
+<form id="search-jobs-form" class="b2" action="http://jobs.guardian.co.uk/searchjobs/?INTCMP=JB2_MEDIA">
+	<fieldset>
+		<input type="text" onfocus="this.value='';" value="media" name="keyword" id="freetext-searchalljobs" class="text plain-search"/>
+		<input type="hidden" value="JB2_MEDIA" name="INTCMP"/>
+		<input type="submit" value="Search" name="go" class="submit"/>
+	</fieldset>
+</form>
+					
+                				<div class="featured-job">
+					<a href="http://jobs.guardian.co.uk/job/1051088/senior-business-development-manager/?INTCMP=ILCJOBTXT1055" class="featured-image">
+						<img src="http://resource.guim.co.uk/global/jobsbox/thumbnail/19002?u=441269397" alt=""/>
+					</a>
+					<div>
+						<h4><a href="http://jobs.guardian.co.uk/job/1051088/senior-business-development-manager/?INTCMP=ILCJOBTXT1055">Senior Business Development Manager</a></h4>
+						<p>Brighton | Salary dependent on experience</p>
+						<p><a href="http://jobs.guardian.co.uk/employer/madgex-ltd-1?profile=1">MADGEX LTD</a></p>
+					</div>
+				</div>
+                						
+	</div>
+</div>
+
+									
+							        		
+		
+												
+										
+											
+											                    
+    
+	
+		
+											
+    
+		
+		<div id="Right1" class=" hide-on-popup">
+
+		
+            
+                        <script type="text/javascript">
+                //<![CDATA[
+
+                                                            OAS_AD('Right1');
+                                    //]]>
+            </script>
+                    
+        </div>
+
+
+									
+							        		
+		
+												
+										
+											
+											    <style>
+  .m-zeitgeist .bd { float: left } /* for the IE6 lols */
+  .m-zeitgeist .hd { padding-bottom: 0px; margin-bottom: -12px}
+  .m-zeitgeist .hd h2 { padding-bottom: 12px; }
+  .m-zeitgeist #att-panes { background-color: #fff; float: left; }
+	.m-zeitgeist .att-toggle-pane { min-width:280px; }
+  .m-zeitgeist ol { padding: 0 5px; }
+  .m-zeitgeist #most-zeitgeist ol { padding-left: 0; }
+  .m-zeitgeist .zg-date { color: #D61D00; padding-left:5px; padding-top: 5px; }
+  .m-zeitgeist ol li { clear: both; padding-left: 15px; }
+  .m-zeitgeist div#att-most-viewed ol li.l1,
+  .m-zeitgeist div#att-latest ol li.l1 { padding-bottom: 9px !important; }
+  .m-zeitgeist ol li.footer { clear: both; padding-left: 0px !important; padding-top: 5px !important; }
+  .m-zeitgeist .rank { float: left; margin-left: -15px; }
+  .m-zeitgeist .kicker { font-weight: bold; }
+  .m-zeitgeist ol li.thumb { padding-left: 0; }
+  .m-zeitgeist ol li.thumb .rank { margin-left: 0; }
+  .m-zeitgeist ol li img { float: left; margin: 0 10px 3px 0; }
+  
+  .m-zeitgeist #most-zeitgeist ol li { border-top: none; padding: 0; border-top: none; }  
+  .m-zeitgeist #most-zeitgeist ol li .zeit-link {background-color: #fff; padding: 5px 0 9px 5px; border-top: 1px dotted #999; margin-bottom: 0px;  }  
+  .m-zeitgeist #most-zeitgeist ol li.footer { border-top:1px dotted #999; padding: 5px 0 9px 10px; margin-left: 5px }  
+  .m-zeitgeist #most-zeitgeist .m-zeigeist ol { padding-left: 0}
+  
+  /* zeit-up */
+  .m-zeitgeist #most-zeitgeist .what-is { float: none; padding: 0 3px; vertical-align: middle; cursor: pointer; }
+  .about-zeit { position: relative; }
+  .zeit-popup { position: absolute; display: none; background-color: #dbedf3; color: #333; padding: 6px; width: 200px; }    
+
+.fade-1 { border-left: 5px solid #801100 !important;}
+.fade-2 { border-left: 5px solid #933426 !important;}
+.fade-3 { border-left: 5px solid #a6594d !important;}
+.fade-4 { border-left: 5px solid #b97c73 !important;}
+.fade-5 { border-left: 5px solid #cca099 !important;}
+
+.m-zeitgeist div.hd { padding-bottom: 0; }
+.m-zeitgeist.most-viewed div.hd { padding-bottom: 7px; }
+
+
+</style>
+
+<script type="text/javascript">
+jQ(function($){$('.about-zeit').each(function(){var distance=-10;var time=250;var hideDelay=500;var hideDelayTimer=null;var beingShown=false;var shown=false;var trigger=$('.what-is',this);var info=$('.zeit-popup',this).css('opacity',0);$([trigger.get(0),info.get(0)]).mouseover(function(){if(hideDelayTimer)clearTimeout(hideDelayTimer);if(beingShown||shown){return;}else{beingShown=true;info.css({top:-97,right:0,display:'block'}).animate({top:'-='+distance+'px',opacity:1},time,'swing',function(){beingShown=false;shown=true;});}return false;}).mouseout(function(){if(hideDelayTimer)clearTimeout(hideDelayTimer);hideDelayTimer=setTimeout(function(){hideDelayTimer=null;info.animate({top:'-='+distance+'px',opacity:0},time,'swing',function(){shown=false;info.css('display','none');});},hideDelay);return false;});});});
+</script>
+
+  <!------ widget old rhs: media : 2010-12-26 22:34:58.133246 ------>
+  <div class="m-zeitgeist promo-component four-col attention-data">
+
+    <div class="hd">
+    	<h3>On Media</h3>
+    </div>
+	
+  	<div class="bd">
+  		<div id="att-toggle">
+  			<ul class="tabs">
+          <li>
+            <a class="active" href="#att-most-viewed">Most viewed</a>
+          </li>
+          <li>
+            <a class="inactive" href="#most-zeitgeist">Zeitgeist</a>
+          </li>
+          
+          <li>
+            <a class="inactive" href="#att-latest">Latest</a>
+          </li>
+          
+        </ul>
+			 
+        <div id="att-panes">
+          <div class="att-tabs att-toggle-pane" id="att-most-viewed">
+            <p class="b2 zg-date">Last 24 hours</p>
+            <ol>
+              
+              <li class="l1">
+                
+                  
+                
+                <span class="rank">1.&nbsp;</span>
+                
+								<a href="http://www.guardian.co.uk/media/2010/dec/23/guardian-reader-complaints-car-hire">Guardian investigates readers' complaints over car hire firm</a>
+              </li>
+              
+              <li class="l1">
+                
+                <span class="rank">2. </span>
+                
+								<a href="http://www.guardian.co.uk/media/2010/dec/26/julian-assange-book-deals">Julian Assange to use £1m book deals for legal fight</a>
+              </li>
+              
+              <li class="l1">
+                
+                <span class="rank">3. </span>
+                
+								<a href="http://www.guardian.co.uk/media/2010/dec/26/vince-cable-stitch-up-telegraph-bskyb">Vince Cable stitch-up leaves Telegraph Group in a tangle over BSkyB deal</a>
+              </li>
+              
+              <li class="l1">
+                
+                <span class="rank">4. </span>
+                
+								<a href="http://www.guardian.co.uk/media/2010/dec/23/julian-assange-fate-david-cameron">Julian Assange: my fate will rest in Cameron's hands if US charges me</a>
+              </li>
+              
+              <li class="l1">
+                
+                <span class="rank">5. </span>
+                
+								<a href="http://www.guardian.co.uk/media/2010/dec/17/julian-assange-sweden">10 days in Sweden: the full allegations against Julian Assange</a>
+              </li>
+              
+              <li class="more-most-viewed l1 footer">
+                <a href="http://www.guardian.co.uk/most-viewed/media">More most viewed</a>
+              </li>
+            </ol>
+          </div>
+        
+          <div class="att-tabs att-toggle-pane initially-off" id="most-zeitgeist">
+            <p class="b2 zg-date">Last 24 hours</p>
+            <ol>
+              
+              <li class="l1 media fade-1">
+                <div class="zeit-link"><a href="http://www.guardian.co.uk/media/2010/dec/26/julian-assange-book-deals">Julian Assange to use £1m book deals for legal fight</a></div>
+              </li>
+              
+              <li class="l1 media fade-2">
+                <div class="zeit-link"><a href="http://www.guardian.co.uk/media/table/2010/dec/21/top-tv-shows-2010">Top TV shows of 2010</a></div>
+              </li>
+              
+              <li class="l1 media fade-3">
+                <div class="zeit-link"><a href="http://www.guardian.co.uk/media/2010/dec/23/guardian-reader-complaints-car-hire">Guardian investigates readers' complaints over car hire firm</a></div>
+              </li>
+              
+              <li class="l1 media fade-4">
+                <div class="zeit-link"><a href="http://www.guardian.co.uk/media/2010/dec/26/vince-cable-stitch-up-telegraph-bskyb">Vince Cable stitch-up leaves Telegraph Group in a tangle over BSkyB deal</a></div>
+              </li>
+              
+              <li class="l1 media fade-5">
+                <div class="zeit-link"><a href="http://www.guardian.co.uk/media/2010/dec/21/julian-assange-defends-decision-sweden">Julian Assange defends decision not to face questioning in Sweden</a></div>
+              </li>
+              
+              <li class="l1 footer about-zeit">
+                <a href="http://www.guardian.co.uk/zeitgeist">More zeitgeist</a>
+                <img class="what-is" alt="What is Zeigeist?"  title="" src="http://static.guim.co.uk/microapps/zeitgeist/about-zeitgeist.gif" />
+                <div id="zeit-popup" class="zeit-popup">
+                 <strong>What is Zeitgeist?</strong>
+                  <p>Zeitgeist is an experiment in showing trending news, topics and articles from the Guardian. Find out more in <a href="http://www.guardian.co.uk/help/insideguardian/2010/feb/03/zeitgeist">our blog post</a>.</p>
+                </div>
+              </li>
+            </ol>
+          </div>
+        
+          
+          <div class="att-tabs att-toggle-pane initially-off" id="att-latest">
+            <p class="b2 zg-date">Last 24 hours</p>
+            <ol>
+              
+              <li class="l1 thumb">
+                
+                  
+                    <img src="http://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2010/12/26/1293385130129/WikiLeaks-founder-Julian--001.jpg" />
+                  
+                
+                <span class="rank">1.&nbsp;</span>
+                <a href="http://www.guardian.co.uk/media/2010/dec/26/julian-assange-book-deals">Julian Assange to use £1m book deals for legal fight</a>
+              </li>
+              
+              <li class="l1">
+                
+                <span class="rank">2. </span>
+                <a href="http://www.guardian.co.uk/media/2010/dec/26/julian-barnes-tribute-anthony-howard">'Under the briskness, he was a softie'</a>
+              </li>
+              
+              <li class="l1">
+                
+                <span class="rank">3. </span>
+                <a href="http://www.guardian.co.uk/media/2010/dec/26/roy-hattersley-tribute-anthony-howard">'A genuine radical who loved the business of politics'</a>
+              </li>
+              
+              <li class="l1">
+                
+                <span class="rank">4. </span>
+                <a href="http://www.guardian.co.uk/media/2010/dec/26/vince-cable-stitch-up-telegraph-bskyb">Vince Cable stitch-up leaves Telegraph Group in a tangle over BSkyB deal</a>
+              </li>
+              
+              <li class="l1">
+                
+                <span class="rank">5. </span>
+                <a href="http://www.guardian.co.uk/media/2010/dec/26/vince-cable-telegraph-public-interest-question">Telegraph's tactics with Vince Cable stretch public interest defence too far</a>
+              </li>
+              
+              <li class="more-latest l1 footer">
+                <a href="http://www.guardian.co.uk/media/all">All today's stories</a>
+              </li>
+            </ol>
+          </div>
+          
+  
+        </div>
+      </div>
+    </div>
+  </div>
+  
+									
+							        		
+		
+												
+										
+											
+											    
+	
+
+
+	
+
+ 
+
+
+<div id="foreigncorrespondents" class="promo-component twitter-container" data-fetch-url="http://resource.guim.co.uk/twitter/jsonlist/foreigncorrespondents.jsonp" data-latest-tweet="19160344807079936">
+	<div class="hd">
+    	<h3>Our correspondents on Twitter</h3>
+    </div>
+    
+<div class="bd">
+
+	<p class="l2">Follow all the top stories of the day on Twitter with the Guardian's world news team</p>
+
+
+    
+	<div class="l1 auto-refresh">Auto update every minute <a class="toggle" href="#">On</a> | <strong>Off</strong></div>
+	<div class="l1 new-tweets"><a href="#"></a></div>
+
+
+	<ul>
+		
+			
+		        <li class="l1 tweet">
+					<a href="http://twitter.com/justinmccurry"><img src="http://a3.twimg.com/profile_images/1199039015/4155_99273183898_653038898_2580795_7197449_n_normal.jpg" alt="justinmccurry"  height="40" width="40" /></a>
+					<p><a href="http://twitter.com/justinmccurry"><strong>justinmccurry:</strong></a> Getting ready to head back to Tokyo. Some serious work and house cleaning to do :(</p>
+					<span><a href="http://twitter.com/justinmccurry/statuses/19160344807079936">about 9 minutes ago</a></span>
+		        </li>
+			
+		        <li class="l1 tweet">
+					<a href="http://twitter.com/paulxharris"><img src="http://a1.twimg.com/profile_images/1158245193/polar-bear-tongue_normal.jpg" alt="paulxharris"  height="40" width="40" /></a>
+					<p><a href="http://twitter.com/paulxharris"><strong>paulxharris:</strong></a> Download Movies - <a href='http://bit.ly/fz9iEM' target='_new'>http://bit.ly/fz9iEM</a></p>
+					<span><a href="http://twitter.com/paulxharris/statuses/19158028276211712">about 19 minutes ago</a></span>
+		        </li>
+			
+		        <li class="l1 tweet">
+					<a href="http://twitter.com/garyyounge"><img src="http://a1.twimg.com/profile_images/939207630/Garycz_normal.gif" alt="garyyounge"  height="40" width="40" /></a>
+					<p><a href="http://twitter.com/garyyounge"><strong>garyyounge:</strong></a> Out for a walk in the blizzard with a toddler. When it comes to setting an example getting fresh air, apparently, trumps frost bite.</p>
+					<span><a href="http://twitter.com/garyyounge/statuses/19098272102612992">about 4 hours, 16 minutes ago</a></span>
+		        </li>
+			
+		
+	</ul>
+</div>
+
+<div class="ft">• <a href="http://www.guardian.co.uk/twitter/list/foreigncorrespondents">Read more tweets from our foreign news team</a><br>
+• <a href="http://twitter.com/#!/guardian_world/guardian-foreign-correspondents">Follow all our correspondents on a Twitter list</a></div>
+
+</div>
+
+	
+
+
+
+	
+
+
+									
+							        		
+		
+												
+										
+											
+											                    
+    
+	
+		
+											
+
+	
+	
+		<div class="reader-offers promo-component">
+					<div class="hd">
+													<h3>Bestsellers from the Guardian shop</h3>
+							</div>
+			
+			<div class="bd">
+				<ul>				
+											<li class="inline-pic"><a href="http://www.guardianoffers.co.uk/mall/productpage.cfm/GuardianOffers/153034/237339" class="link-image">
+							<img src="http://www.guardianoffers.co.uk/mall/GOTimscris/customerimages/products/t_153034.jpg" alt="Five piece Le Creuset cast iron and stoneware " />
+						</a></li>
+										
+											<li><p class="t6"><a href="http://www.guardianoffers.co.uk/mall/productpage.cfm/GuardianOffers/153034/237339">Five piece Le Creuset cast iron and stoneware </a></p></li>
+						
+											<li><p>Includes 20cm casserole plus dishes and ramekins. Save £43 off RRP.</p></li>
+						
+											<li><p class="price">From: &pound;99.99</p></li>
+						
+				</ul>
+	
+			</div>
+			<div class="ft">
+									<ul>
+																					<li><a href="http://www.guardianoffers.co.uk/">Visit the Guardian reader offers shop</a></li>
+													
+																					<li><a href="http://www.guardianecostore.co.uk/">Green &amp; ethical shopping at Guardian ecostore</a></li>
+																		</ul>
+							</div>
+				</div>
+	
+									
+							        		
+		
+												
+										
+											
+											                    
+    
+	
+		
+											
+
+			
+			<div class="promo-component gu-now">
+			<div class="hd">
+				<h3>Latest news on guardian.co.uk</h3>
+			</div>
+			<div class="bd">
+			<p id="gu-now-last-updated">
+				    
+	                         Last updated one minute ago 
+            
+			</p>
+			<ul class="l1d">
+									<li>
+						<h4><a href="http://www.guardian.co.uk/">News</a></h4>
+						<p><a href="http://www.guardian.co.uk/politics/2010/dec/26/nhs-cuts-shortfall-report">NHS faces more cuts to avoid £10bn shortfall</a></p>					</li>
+							</ul>
+		</div>
+	</div>
+
+									
+							        		
+		
+												
+										
+											
+											    <style>
+	.m-guardianbookshop .rank { float: left; margin-left: -15px; }
+	.m-guardianbookshop .thumb .rank { margin-left: 0; }
+	.m-guardianbookshop h4 { border-top: none !important; font-weight: bold; margin-left: 5px !important; padding: 5px 0 8px 0 !important; }
+	.m-guardianbookshop .bestsellers { background-color: #fff; padding-bottom: 17px;}
+	.m-guardianbookshop ol { padding: 0 5px; }
+	.m-guardianbookshop .l1 { clear: both; padding-left: 15px; }
+	.m-guardianbookshop .thumb { padding-left: 0; }
+	.m-guardianbookshop .thumb img { float: left; margin: 2px 10px 9px 0;}
+	.m-guardianbookshop .price { display: inline; }
+	.m-guardianbookshop .thumb .price { display: block; }
+	.m-guardianbookshop .rank, .m-guardianbookshop .book-title { font-weight: bold; }
+	.m-guardianbookshop input { border: 1px solid #999; width: 75%; min-height: 16px; margin-top: 8px; padding: 3px 2px;}
+</style>
+
+<div class="m-guardianbookshop promo-component">
+    <div class="hd">
+	    <h3>
+			<a href="http://www.guardianbookshop.co.uk"><img src="http://resource.guim.co.uk/global/static/proxy?url=http%3A%2F%2Fgu-books.appspot.com%2Fimg%2Flogo-guardian-bookshop.png" alt="Guardian Bookshop" title="" /></a>
+		</h3>
+    </div>
+    <div class="bd">
+	    <div class="bestsellers">
+	        <h4>This week's bestsellers</h4>
+	        <ol>
+	            
+	            <li class="l1 thumb">
+	                
+                        
+						<img src="http://resource.guim.co.uk/books/gubookshop/thumbnail/images.bertrams.com/ProductImages/services/GetImage?Source=BERT&amp;Quality=WEB&amp;EAN13=9780852652183&amp;Component=FRONTCOVER" title="Bedside Guardian 2010" />
+                        
+					
+					<span class="rank">1.&nbsp;</span>
+					<a href="http://www.guardianbookshop.co.uk/BerteShopWeb/viewProduct.do?ISBN=9780852652183" class="book-title">Bedside Guardian 2010</a>
+	                <p>
+                        
+	                        by Christopher Elliott
+                        
+                        
+                        <span class="price">£10.00</span>
+                        
+	                </p>
+	            </li>
+	            
+	            <li class="l1">
+	                
+					<span class="rank">2.&nbsp;</span>
+					<a href="http://www.guardianbookshop.co.uk/BerteShopWeb/viewProduct.do?ISBN=9781846143472" class="book-title">Parlour Games for Modern Families</a>
+	                <p>
+                        
+	                        by Myfanwy Jones
+                        
+                        
+                        <span class="price">£7.99</span>
+                        
+	                </p>
+	            </li>
+	            
+	            <li class="l1">
+	                
+					<span class="rank">3.&nbsp;</span>
+					<a href="http://www.guardianbookshop.co.uk/BerteShopWeb/viewProduct.do?ISBN=5038495026408" class="book-title">Buy Guardian Style Guide & How To Write</a>
+	                <p>
+                        
+                        
+                        <span class="price">£20.00</span>
+                        
+	                </p>
+	            </li>
+	            
+	            <li class="l1">
+	                
+					<span class="rank">4.&nbsp;</span>
+					<a href="http://www.guardianbookshop.co.uk/BerteShopWeb/viewProduct.do?ISBN=9780852652220" class="book-title">Guardian Style</a>
+	                <p>
+                        
+	                        by David R Marsh & Amelia Hodsdon
+                        
+                        
+                        <span class="price">£15.00</span>
+                        
+	                </p>
+	            </li>
+	            
+	            <li class="l1">
+	                
+					<span class="rank">5.&nbsp;</span>
+					<a href="http://www.guardianbookshop.co.uk/BerteShopWeb/viewProduct.do?ISBN=9780852652244" class="book-title">Women of the Revolution</a>
+	                <p>
+                        
+	                        by Kira Cochrane
+                        
+                        
+                        <span class="price">£14.99</span>
+                        
+	                </p>
+	            </li>
+	            
+	        </ol>
+		</div>
+	    <div class="search">
+	        <p>
+	            Search the Guardian bookshop
+	        </p>
+	        <form method="POST" action="http://www.guardianbookshop.co.uk/BerteShopWeb/search.do" name="QuickSearchForm">
+	            <input type="text" class="searchBox" value="" name="keyword">
+	            <button class="searchBtn" type="submit">
+	                <span class="searchText">Search</span>
+	            </button>
+	            <input type="hidden" value="" name="author">
+	        </form>
+	    </div>
+    </div>
+</div>
+
+									
+							        		
+		
+												
+										
+											
+											                    
+    
+	
+		
+											
+			
+	
+	
+	
+		
+					
+				<div class="promo-component json-features four-col" style="display: none;">
+		<div class="hd">
+			<h3>Sponsored features</h3>
+		</div>
+		<div class="bd">
+			<ul>
+				<li class="two-col">
+					<a href=""><img src="" width="130" height="78" alt="" /></a>
+					<a href="" class="ad-link"></a>
+					<p></p>
+												        
+    
+		
+		<div id="x31" class=" hide-on-popup">
+
+		
+            
+                        <script type="text/javascript">
+                //<![CDATA[
+
+                                                            OAS_AD('x31');
+                                    //]]>
+            </script>
+                    
+        </div>
+
+    					<script>
+						if (window.sponJSON) {
+							if(typeof(sponJSON) === 'object') {
+								ad1 = sponJSON;
+								jQ(document).ready(function() {
+									convertJSONtoAd(jQ('.json-features li:first-child'), ad1);
+								});
+							}
+						}
+					</script>
+				</li>
+
+				<li class="two-col edge">
+					<a href=""><img src="" width="130" height="78" alt="" /></a>
+					<a href="" class="ad-link"></a>
+					<p></p>
+												        
+    
+		
+		<div id="x32" class=" hide-on-popup">
+
+		
+            
+                        <script type="text/javascript">
+                //<![CDATA[
+
+                                                            OAS_AD('x32');
+                                    //]]>
+            </script>
+                    
+        </div>
+
+    					<script>
+						if (window.sponJSON) {
+							if(typeof(sponJSON) === 'object') {
+								ad2 = sponJSON;
+								jQ(document).ready(function() {
+									convertJSONtoAd(jQ('.json-features li:last-child'), ad2);
+								});
+							}
+						}
+					</script>
+				</li>
+			</ul>
+
+		</div>
+	</div>
+
+									
+							        
+
+    	    
+
+
+
+
+
+		
+										
+
+        		
+		
+												
+										
+											
+											                    
+    
+	
+		
+												    	    
+
+
+
+
+
+		
+										
+
+        
+
+
+									
+							        
+
+
+	    	    
+
+
+
+
+
+		
+										
+
+        		
+		
+												
+										
+											
+											                    
+    
+	
+		
+											
+	
+	
+		
+			
+	
+
+									
+							        
+
+
+	</div>
+
+			    
+	    
+
+		
+
+
+
+	    	    
+
+
+
+
+
+		
+										
+
+        		
+		
+												
+										
+						
+											    <div class="related-content eight-col component">
+    
+    <div class="hd">
+        <h3>Related information</h3>
+    </div>
+    <div class="bd">
+        <div class="two-col">
+
+            <div class="related-keywords">
+                <h4 class="t6 b4"><a href="http://www.guardian.co.uk/media">Media</a></h4>
+                <ul>
+                    <li><a href="http://www.guardian.co.uk/media/julian-assange">Julian Assange</a></li>
+                </ul>
+                
+            </div><div class="related-keywords">
+                <h4 class="t6 b3"><a href="http://www.guardian.co.uk/world">World news</a></h4>
+                <ul>
+                    <li><a href="http://www.guardian.co.uk/world/the-us-embassy-cables">The US embassy cables</a> &middot; </li><li><a href="http://www.guardian.co.uk/world/sweden">Sweden</a></li>
+                </ul>
+                
+            </div><div class="related-keywords">
+                <h4 class="t6 b3"><a href="http://www.guardian.co.uk/uk">UK news</a></h4>
+                <ul>
+                    
+                </ul>
+                
+            </div>
+            
+        </div>
+
+
+        <div class="two-col">
+            <a href="http://www.guardian.co.uk/world/2010/dec/18/bank-of-america-refuses-to-handle-wikileaks-payments" class="related-content-image">
+                <img alt="Julian Assange" src="http://static.guim.co.uk/sys-images/Observer/Columnist/Columnists/2010/12/18/1292690725594/Julian-Assange-003.jpg" />
+            </a>
+
+            <p class="t6">
+                
+                <a class="related-content-headline" href="http://www.guardian.co.uk/world/2010/dec/18/bank-of-america-refuses-to-handle-wikileaks-payments">WikiLeaks cables: Julian Assange says his life is 'under threat'</a>
+            </p>
+
+            <p class="t6 related-content-publication-date">18 Dec 2010</p>
+
+            <p class="related-content-trail-text">WikiLeaks founder Julian Assange says Swedish rape case against him is 'a travesty'</p>
+
+            
+        </div>
+
+         <div class="two-col">
+            <ul class="l1d">
+                <li>
+                    <p class="t6 related-content-publication-date">31 Aug 2010</p>
+                    <p class="t7">
+                        <a class="related-content-headline" href="http://www.guardian.co.uk/media/2010/aug/31/wikileaks-julian-assange-questioned">WikiLeaks founder Julian Assange questioned by police</a>
+                    </p>
+                </li><li>
+                    <p class="t6 related-content-publication-date">7 Dec 2010</p>
+                    <p class="t7">
+                        <a class="related-content-headline" href="http://www.guardian.co.uk/media/2010/dec/07/julian-assange-wikileaks-founder">Pressure mounts on WikiLeaks as net tightens around founder Julian Assange</a>
+                    </p>
+                </li><li>
+                    <p class="t6 related-content-publication-date">2 Dec 2010</p>
+                    <p class="t7">
+                        <a class="related-content-headline" href="http://www.guardian.co.uk/media/2010/dec/02/julian-assange-faces-arrest-wikileaks">Julian Assange: Sweden issues fresh arrest warrant for WikiLeaks founder</a>
+                    </p>
+                </li><li>
+                    <p class="t6 related-content-publication-date">6 Dec 2010</p>
+                    <p class="t7">
+                        <a class="related-content-headline" href="http://www.guardian.co.uk/media/blog/2010/dec/06/julian-assange-wikileaks-latest">Julian Assange WikiLeaks – latest</a>
+                    </p>
+                </li>
+            </ul>
+        </div>
+
+        <div class="two-col edge">
+            <a href="http://www.guardian.co.uk/media/2010/dec/03/julian-assange-fresh-arrest-warrant" class="related-content-image">
+                <img alt="Julian Assange, founder of WikiLeaks" src="http://static.guim.co.uk/sys-images/Guardian/Pix/pixies/2010/12/3/1291405526020/Julian-Assange-founder-of-002.jpg" />
+            </a>
+
+            <p class="t6">
+                
+                <a class="related-content-headline" href="http://www.guardian.co.uk/media/2010/dec/03/julian-assange-fresh-arrest-warrant">Julian Assange faces renewed arrest attempt over sex offence allegations</a>
+            </p>
+
+            <p class="t6 related-content-publication-date">3 Dec 2010</p>
+
+            <p class="related-content-trail-text">Swedish prosecutors issue fresh request to British police to extradite the WikiLeaks founder over sex offence allegations</p>
+
+            
+        </div>
+
+
+    </div>
+</div>  
+  
+									
+							        
+
+
+
+		
+
+
+			    
+    	    
+
+
+
+
+
+		
+										
+
+        
+
+
+	    
+	
+	                    
+
+<div class="crumb-wrapper global">
+
+    
+    
+                    <ul class="crumb-nav">
+                <li id="crumb1">			<span>
+		
+	        Hot topics
+    </span>
+	</li>
+            </ul>
+            
+        <ul class="local-nav">
+            		   							<li           
+            
+            class='first'
+>
+																		<a href="http://www.guardian.co.uk/media/television" >Television industry</a>
+					</li>
+				            		   							<li       
+            
+        
+>
+																		<a href="http://www.guardian.co.uk/media/pressandpublishing" >Newspapers &amp; magazines</a>
+					</li>
+				            		   							<li       
+            
+        
+>
+																		<a href="http://www.guardian.co.uk/media/digital-media" >Digital media</a>
+					</li>
+				            		   							<li           
+            
+            class=' last'
+>
+																		<a href="http://www.guardian.co.uk/gnm-archive" >Guardian archive</a>
+					</li>
+				                    </ul>
+    
+</div>
+
+
+<div id="footer" class="news footer b4">
+			
+	<ul id="footer-links">
+					<li><a href="http://syndication.guardian.co.uk/" >License/buy our content</a> | </li>
+			<li><a href="/Users/help/article/0,,933905,00.html">Privacy policy</a> | </li>
+			<li><a href="/Users/help/article/0,,933909,00.html">Terms &amp; conditions</a> | </li>
+			<li><a href="http://adinfo-guardian.co.uk/">Advertising guide</a> | </li>
+			<li><a href="http://www.guardian.co.uk/help/accessibility">Accessibility</a> | </li>
+			<li><a href="http://www.guardian.co.uk/index/subjects/a">A-Z index</a> | </li>
+			<li><a href="http://www.guardian.co.uk/help/insideguardian">Inside guardian.co.uk blog</a> | </li>
+			<li><a href="/Guardian/information/0,,711853,00.html">About guardian.co.uk</a> | </li>
+			<li><a href="http://dating.guardian.co.uk/s/">Join our dating site today</a></li>
+			</ul>
+        
+    <ul id="copyright-links">
+    				<li>guardian.co.uk &copy; Guardian News and Media Limited 2010</li>
+					    </ul>
+</div>
+
+    	    
+
+
+
+
+
+		
+										
+
+        
+
+
+
+</div>
+	    
+
+
+    	    		<script id="omnitureGeneratorScript" type="text/javascript">
+	//<![CDATA[
+	if(true) {
+		var s_account="guardiangu-media,guardiangu-network";
+		writeScript('http://static.guim.co.uk/static/97848/common/scripts/omniture-H.22.2.js', false, function(){});
+	}
+	//]]>
+	</script>
+
+	<script id="omnitureScript" type="text/javascript">
+
+
+	//<![CDATA[
+	if(true) {
+		if (false) {
+		    s.pageName = document.title;
+		} else {
+			s.pageName="10 days in Sweden: the full allegations against Julian Assange:Article:1496308";
+		}
+		s.channel = "Media";
+		s.pageType="";
+		s.server='10';
+		s.prop2='GUID:(none)';
+
+					s['prop3']="Guardian";
+					s['prop4']="Julian Assange (Media),US embassy cables,World news,Media,Sweden,UK news";
+					s['prop5']="Unclassified,Not commercially useful,Media Weekly,Unclassifed Contributors";
+					s['prop6']="Nick Davies";
+					s['prop7']="10-Dec-18";
+					s['prop8']="1496308";
+					s['prop9']="Article";
+					s['prop10']="News";
+					s['prop11']="Media";
+					s['prop13']="";
+					s['prop25']="";
+					s['prop30']="content";
+		
+		s.hier2="GU/Media/Julian Assange";
+		s.events="";
+		s.eVar23="";
+
+		try {
+			if (guardian.r2.OmnitureTrackingOverride) {
+				new guardian.r2.OmnitureTrackingOverride(s);
+			}
+		}
+		catch(err) {
+		}
+
+        if(jQ.cookie("GU_OMNITURE") !== null) {
+            s.events = jQ.cookie("GU_OMNITURE");
+            jQ.cookie("GU_OMNITURE", null, { path: '/', domain: '.guardian.co.uk'});
+        }
+
+        var s_code=s.t();if(s_code)document.write(s_code);
+	}
+	//]]>
+	</script>
+	<noscript id="omnitureNoScript">
+		<div><img alt="" src='http://hits.guardian.co.uk/b/ss/guardiangu-media,guardiangu-network/1/H.22.2/16326?ns=guardian&pageName=10+days+in+Sweden%3A+the+full+allegations+against+Julian+Assange%3AArticle%3A1496308&ch=Media&c3=Guardian&c4=Julian+Assange+%28Media%29%2CUS+embassy+cables%2CWorld+news%2CMedia%2CSweden%2CUK+news&c5=Unclassified%2CNot+commercially+useful%2CMedia+Weekly%2CUnclassifed+Contributors&c6=Nick+Davies&c7=10-Dec-18&c8=1496308&c9=Article&c10=News&c11=Media&c13=&c25=&c30=content&h2=GU%2FMedia%2FJulian+Assange&c2=GUID:(none)' width="1" height="1" /></div>
+	</noscript>
+
+
+
+		
+
+
+<script type="text/javascript" language="javascript">
+	var commentRecommendingClosed =  false </script>
+
+
+<script type="text/javascript" language="javascript">
+//	<![CDATA[
+if (true) {
+	serverUrl = "http://sitelife.guardian.co.uk/ver1.0/Direct/Process";
+
+    writeScript('http://static.guim.co.uk/static/97858/common/scripts/serversidepluck.js', false, function(){});
+}
+// ]]>
+</script>
+<script type="text/javascript" language="javascript">
+//	<![CDATA[
+if(true) {
+	ensurePackage("guardian.r2.serverSidePluck");
+
+	contextInstance = function () {
+		var profilePageUser = {
+			id : "",
+			name : "",
+			pageUrl : "http://www.guardian.co.uk/users/"
+		};
+		
+  		var loggedOnUser = {
+   			id : "",
+   			name : ""
+  		};
+
+		var articleInfo = {
+			articleId : "369873870", 
+			pageUrl : "http://www.guardian.co.uk/media/2010/dec/17/julian-assange-sweden", 
+			pageTitle : "10 days in Sweden: the full allegations against Julian Assange", 
+			sectionKeyWordId : "8845",
+			sectionName : "Media",
+			commentingClosed :  true , 
+			commentRecommendingClosed:  false ,
+			premoderation :  false ,
+			isChalkboard : false
+		};
+		
+		var chalkboardInfo = {
+			articleId : "", 
+			pageUrl : "http://www.guardian.co.uk/media/2010/dec/17/julian-assange-sweden", 
+			pageTitle : "Chalkboard", 
+			sectionKeyWordId : "8845",
+			sectionName : "Media",
+			commentingClosed : false, 
+			commentRecommendingClosed: false,
+			premoderation : false,
+			isChalkboard : true
+		};
+		
+		var filmInfo = {
+			filmKey : 'Film:'
+		};
+
+		
+
+					
+		var env = {
+			pageId : "1496308",
+			commentsSignUpUrl : 'http://users.guardian.co.uk/signup/tr/1,,-720,00.html',
+			cookieDomain : '.guardian.co.uk',
+			staticRoot : 'http://static.guim.co.uk/static/97858/common/',
+			userProfileUrlPrefix : "http://www.guardian.co.uk/users",
+			addClippingsUrl : "http://www.guardian.co.uk/users/clippings/add",
+			commentDataUrl : "http://www.guardian.co.uk/external/commentdata/keywords",			
+			topKeywordsUrl : "http://www.guardian.co.uk/external/users/topkeywords",
+            commentCountsServiceUrl : "http://www.guardian.co.uk/users/pluck/getCommentCounts.js",
+            discussionCommentCountsServiceUrl : "http://resource.guim.co.uk/discussion/api/getCommentCounts.json",
+            userProfileServiceUrl : "http://www.guardian.co.uk/users/pluck/getUserProfile.js"
+		};	
+		
+		var parameters = {
+			commentPage :  1 ,
+			scrollToComments :   false ,
+			showAllComments :  null ,
+			commentId :  null ,
+			goToLastComment :  false ,
+			showCommentBox :  false ,
+			isEditProfilePage : ( false ),
+			searchString : ( null )
+		};
+		
+				if(document.location.hash === '#allcomments') {
+			parameters.showAllComments = true;
+		} 
+		
+		var serverData = {
+			articleInfo : articleInfo,
+			chalkboardInfo : chalkboardInfo,
+			filmInfo : filmInfo,
+			env : env,
+			profilePageUser : profilePageUser,
+			parameters : parameters,
+			loggedOnUser : loggedOnUser 
+		};
+		
+		var ctx = new guardian.r2.serverSidePluck.PluckApplicationContext(serverData);
+
+		return function(){
+			return ctx;
+		};
+	}();
+	
+	guardian.r2.serverSidePluck.PluckApplicationContext.getInstance = contextInstance;
+}
+// ]]>
+</script>
+	
+			<script type="text/javascript" language="javascript">
+		//	<![CDATA[
+			 if(true) {
+			 	var ctxProvider = guardian.r2.serverSidePluck.PluckApplicationContext;
+				ctxProvider.getInstance().buildControllers("PluckCommentCountController")
+		    }
+		// ]]>
+		</script>		
+	<script id="componentTrackingScript" type="text/javascript">
+if (true) {
+    jQ(document).ready(function () {
+        jQ('a[data-cpt]').each(
+            function () {
+            jQ(this).click(
+                function () {
+                var cpId = jQ(this).attr('data-cpt').split("-")[1];
+                var currentLink = jQ(this).attr('href');
+
+                if (currentLink.indexOf('intcmp=') == -1) {
+                    if(currentLink.indexOf('?') == -1) {
+                        var separator = '?'
+                    } else {
+                        var separator = '&'
+                    }
+
+                    jQ(this).attr('href', currentLink + separator + "intcmp=" + cpId);
+                }
+            });
+        });
+    });
+}
+</script>
+	    
+	<script type="text/javascript">
+	//<![CDATA[
+
+	if(true) {
+		ensurePackage("guardian.r2.revsci");
+
+		guardian.r2.revsci.cookieDomain = '.guardian.co.uk';
+		guardian.r2.revsci.gu_geo_country = '(none)';
+		guardian.r2.revsci.siteName = 'Media';
+					guardian.r2.revsci.commercialFolder = 'Global+%28temp+commercial%29'
+				
+		addEvent(null, 'load', function () {
+			writeScript('http://js.revsci.net/gateway/gw.js?csid=E05516', true, function() {
+				writeScript('http://static.guim.co.uk/static/97858/common/scripts/revsci.js', true, function() {
+					rs_initTracking();
+				})
+			})
+		});
+	}
+
+	// ]]>
+	</script>
+
+	<noscript>
+		<div><img src="http://pix01.revsci.net/E05516/a3/0/0/0/0/0/0/0/0/0/noscript.gif" alt="" /></div>
+	</noscript>
+
+
+
+
+
+<span id="Panel_Content" class="initially-off"></span>
+<script type="text/javascript">
+	//	<![CDATA[
+	if(true) {
+        var OAS_taxonomy='&Paneled_Site=guardian.co.uk&Paneled_Section=media';
+		jQ(document).ready(function(){
+			jQ.getScript('http://static.guim.co.uk/static/97858/common/scripts/kantarmedia.js');
+		});
+	}
+	// ]]>
+</script>
+		
+
+
+</body>
+</html>

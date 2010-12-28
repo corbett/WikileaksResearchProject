@@ -1,0 +1,1437 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+        <meta http-equiv="Content-Style-Type" content="text/css" />
+        <meta http-equiv="Content-Script-Type" content="text/javascript" />
+		<meta name="google-site-verification" content="Q6-HYgph0PP5v8F5bD1wZ1Z8Pcg2QQd47eiwnlJ07NU" />
+        <meta name="DCSext.vnu_magazine" content="theinquirer.net"/>
+        <meta name="DCSext.vnu_article_source" content="theinquirer.net"/>
+        
+<meta name="WT.cg_n" content="News" />
+
+
+
+        
+        <meta name='keywords' content='Wikileaks,journalism,free,speech'/>
+        <meta name='description' content='Now there's a thing...'/>
+        
+        <meta name="verify-v1" content="DLe+K8hnLRFKH8lCXanPBpSzSw7fuzfbBJVBcxIu0Gs="/>
+        <meta name="DCSext.incisive_section" content='news'/>
+        <meta name="DCSext.incisive_pagetype" content="article" />
+
+        
+
+        <title>
+            Judge reverses wikileaks injunction- The Inquirer 
+        </title>
+        <link href="/stylesheets/inquirer.css?1288242722" media="all" rel="stylesheet" type="text/css" />
+        
+        <!--GRAPESHOT DYNAMIC ADVERT HEADER-->
+        <script type="text/javascript">
+//<![CDATA[
+        var GS_CATEGORY = "DEFAULT";
+//]]>
+</script>        <script type="text/javascript" src="http://ad-incisive.grapeshot.co.uk/IM_DynamicAds/CAT/cat.fcgi">
+        </script>
+        <!--GRAPESHOT END-->
+        
+        <script type="text/javascript">
+//<![CDATA[
+        var dartNum = Math.round(Math.random() * 10000000000); 
+        function printAdvert(dartUrl){  
+        var dartRef = document.referrer; 
+        var dartSpl = dartRef.substring(dartRef.indexOf(':') + 3).split("/");  
+        var dartArt = dartSpl[dartSpl.length - 1]; 
+        if (!(isNaN(parseInt(dartArt)))) 
+        dartUrl += (";ref=" + dartArt);
+        dartUrl += (";ord=" + dartNum + "?");
+        document.write("<SCRIPT language=\"JavaScript\" src=\"" + dartUrl + "\"><\/SCRIPT>");
+		}
+        
+//]]>
+</script>
+        <script type="text/javascript">
+            //<![CDATA[
+            document.write('<meta name="DCSext.gs_cat" content="' + GS_CATEGORY + '"/>')
+            //]]>
+        </script>
+    </head>
+    <body>
+        
+        <div id="wrapper">
+    <div class="inner_wrapper_block">
+        <img alt="The Inquirer-Home" class="show_for_print" src="/images/inq_logo.jpg" title="The Inquirer-Home" /><div id="header">
+    <a href="http://www.theinquirer.net/"><img alt="The Inquirer-Home" class="logo" height="84" src="/images/logo.jpg?1284357397" title="The Inquirer-Home" width="410" /></a>
+    <div class="search aop_header_fix">
+    	<a  href="http://www.ukaop.org.uk/news/2010aopawardwinners2131.html"><img alt="The Inquirer-Home" class="aop_header_logo" src="/images/aop_inquirer_logo.jpg" title="The Inquirer-Home" /></a>    	
+        <label for="header_search" class="search_label">
+            SEARCH :
+        </label>
+        <form action="/search" id="search" method="post">
+        <table border="0" cellpadding="0" cellspacing="0">
+            <tr>
+                <td>
+                    <input class="search_box_bg" id="header_search" name="query" size="20" title="Keyword" type="text" value="" />
+                </td>
+                <td>
+                    <div class="search-magnify-icon">
+                    </div>
+                    <input type='hidden' value='365' name='from_date'/>
+                </td>
+                <td>
+                    <input class="search_button_bg" type="submit" value="Search" />
+                </td>
+            </tr>
+        </table>
+        </form>
+        <div class="below_top_search">
+            
+            
+<ul>
+    <li>
+        <a  href="http://twitter.com/INQ" target="_blank"><img alt="Follow the INQ on Twitter" class="twitter" src="/images/twitter-icon.png?1275297116" title="Follow the INQ on Twitter" /></a>
+    </li>
+    <li>
+        <a  href="http://www.linkedin.com/groups?gid=1080097" target="_blank"><img alt="Join the INQuisitors, the INQ's LinkedIn group" class="linkedin" src="/images/linkedin-icon.png?1275297116" title="Join the INQuisitors, the INQ's LinkedIn group" /></a>
+    </li>
+    <li>
+        <a  href="http://www.youtube.com/theinquirer" target="_blank"><img alt="Browse INQ videos on YouTube" class="youtube" src="/images/youtube-icon.png?1275297117" title="Browse INQ videos on YouTube" /></a>
+    </li>
+    <li>
+        <a  href="http://www.facebook.com/pages/The-Inquirer/30395818327" target="_blank"><img alt="Join the INQ on Facebook" class="face_book" src="/images/facebook-icon.png?1275297116" title="Join the INQ on Facebook" /></a>
+    </li>
+	<li>
+        <a  href="http://mippin.com/theinquirer" target="_blank"><img alt="The Inquirer for mobiles" class="face_book" src="/images/mobile-icon.png?1275297116" title="The Inquirer for mobiles" /></a>
+    </li>
+	<li>
+        <a  href="http://signup.incisivemedia.com/newswires/inquirer/" target="_blank"><img alt="Email newsletters" class="face_book" src="/images/newsletter-icon.png?1275297116" title="Email newsletters" /></a>
+    </li>
+	<li>
+        <a  href="/about-rss"><img alt="RSS feeds" class="face_book" src="/images/rss-icon.png?1275297116" title="RSS feeds" /></a>
+    </li>
+</ul>
+
+        </div>
+    </div>
+    <!--header_search-->
+    <div class="editor">
+        
+        <p>
+            Careful, now. - Father Dougal McGuire
+        </p>
+    </div>
+    <!--editor-->
+    
+<!-- Top menus -->
+
+<!-- Sub menus-->
+
+
+    <div class="navcontainer topmenu" id="mainmenu">
+        <ul>
+            
+
+
+<li><a href="/">Home</a></li>
+
+
+
+<li><a href="/type/news" class="active">News</a></li>
+
+
+
+<li><a href="/type/review">Reviews</a></li>
+
+
+
+<li><a href="/video">Video</a></li>
+
+
+
+<li><a href="/analysis">INQdepth</a></li>
+
+
+
+<li><a href="/blogs">Blogs</a></li>
+
+
+
+<li><a href="http://www.inqjobs.co.uk/" target="_blank" title="Jobs">Jobs</a></li>
+
+
+
+<li><a href="http://store.theinquirer.net/" target="_blank" title="Downloads store">Downloads store</a></li>
+
+
+
+        </ul>
+    </div>
+    <div class="navcontainer submenu active">
+        
+
+<ul title='Home' class="">
+    
+    
+    <li><a href="/category/chips" title="Chips">Chips</a></li>
+    
+    <li><a href="/category/hardware" title="Hardware">Hardware</a></li>
+    
+    <li><a href="/category/software" title="Software">Software</a></li>
+    
+    <li><a href="/category/communications" title="Communications">Communications</a></li>
+    
+    
+</ul>
+
+<ul title='News' class="active">
+    
+    
+    <li><a href="/week-to-date" title="Week to date">Week to date</a></li>
+    
+    <li><a href="/type/news/category/chips" title="Chips">Chips</a></li>
+    
+    <li><a href="/type/news/category/hardware" title="Hardware">Hardware</a></li>
+    
+    <li><a href="/type/news/category/software" title="Software">Software</a></li>
+    
+    <li><a href="/type/news/category/communications" title="Communications">Communications</a></li>
+    
+    
+</ul>
+
+<ul title='Reviews' class="">
+    
+    
+    <li><a href="/type/review/category/hardware" title="Hardware">Hardware</a></li>
+    
+    <li><a href="/type/review/category/software" title="Software">Software</a></li>
+    
+    
+</ul>
+
+<ul title='Video' class="">
+    
+    <li>
+    </li>
+    
+</ul>
+
+<ul title='INQdepth' class="">
+    
+    
+    <li><a href="/type/feature" title="Features">Features</a></li>
+    
+    <li><a href="/type/opinion" title="Opinion">Opinion</a></li>
+    
+    <li><a href="/polls" title="Polls">Polls</a></li>
+    
+    <li><a  href="http://www.ithound.com/theinquirer/" target="_blank" title="White papers">White papers</a></li>
+    
+    
+</ul>
+
+<ul title='Blogs' class="">
+    
+    
+    <li><a href="/blog/boffin-watch-blog" title="Boffin Watch">Boffin Watch</a></li>
+    
+    <li><a href="/blog/numb-thumbs-blog" title="Numb Thumbs">Numb Thumbs</a></li>
+    
+    <li><a href="/blog/friction-blog" title="Friction">Friction</a></li>
+    
+    
+</ul>
+
+<ul title='Jobs' class="">
+    
+    <li>
+    </li>
+    
+</ul>
+
+<ul title='Downloads store' class="">
+    
+    <li>
+    </li>
+    
+</ul>
+
+
+    </div>
+    <!--submenu one-->
+    <div class="header_advertisment">
+        
+
+
+
+
+		
+<table cellspacing="0" cellpadding="0">
+    <tbody>
+        <tr>
+            <td class="leader_board_big">
+                
+                <script language="JavaScript" type="text/javascript">
+                    printAdvert("http://ad.uk.doubleclick.net/adj/ti2.uk/news;page=article;artid=1039527;dcopt=ist;tile=1;sz=728x90;gs_cat=" + GS_CATEGORY + "");
+                </script>
+                <noscript>
+                    <a target="_blank" href="http://ad-incisive.grapeshot.co.uk/IM_DynamicAds/JMP/jmp.cgi?target=http://ad.uk.doubleclick.net/jump/ti2.uk/news;page=article;artid=1039527;tile=1;sz=728x90;gs_cat=GS_CATEGORY;ord=123456789?">
+                    	<img border="0" alt="advertisement" src="http://ad-incisive.grapeshot.co.uk/IM_DynamicAds/JMP/jmp.cgi?target=http://ad.uk.doubleclick.net/ad/ti2.uk/news;page=article;artid=1039527;tile=1;sz=728x90;gs_cat=GS_CATEGORY;ord=123456789?"/></a>
+                </noscript>
+				
+            </td>
+            <td class="leader_board_baby">
+                
+                <script language="JavaScript" type="text/javascript">
+                    printAdvert("http://ad.uk.doubleclick.net/adj/ti2.uk/news;page=article;artid=1039527;tile=2;sz=200x90;gs_cat=" + GS_CATEGORY + "");
+                </script>
+                <noscript>
+                    <a target="_blank" href="http://ad-incisive.grapeshot.co.uk/IM_DynamicAds/JMP/jmp.cgi?target=http://ad.uk.doubleclick.net/jump/ti2.uk/news;page=article;artid=1039527;tile=2;sz=200x90;gs_cat=GS_CATEGORY;ord=123456789?">
+                    <img border="0" alt="advertisement" src="http://ad-incisive.grapeshot.co.uk/IM_DynamicAds/JMP/jmp.cgi?target=http://ad.uk.doubleclick.net/ad/ti2.uk/news;page=article;artid=1039527;tile=2;sz=200x90;gs_cat=GS_CATEGORY;ord=123456789?"/></a>
+                </noscript>
+            </td>
+        </tr>
+    </tbody>
+</table>
+    </div>
+</div>
+
+        <div id="container">
+            <div id="content-left">
+                
+
+<div class="navigation_menu">
+    
+
+<!--   Where am I? <img alt="Arrow" src="/images/arrow_1.jpg" /> News-->
+
+
+</div>
+<div class="contentparent">
+    <div class="article_description">
+        <div class="article_view">
+            <h1>Judge reverses Wikileaks injunction</h1>
+            <div class="article_summary_left">
+                <div class="article_summary">
+                    <span class="red_highlighted_text">
+                    </span>
+                    Now there's a thing...
+                </div>
+                <div class="article_author_name">
+                    By <a href="http://www.theinquirer.net/inquirer/flame_author/1039527/judge-rethinks-wikileaks">Egan Orion</a>
+                </div>
+                <div style="float: left;" class="article_posted_date">
+                    Sun Mar 02 2008, 08:40
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="contenttop">
+        <div class="contenttop_text">
+        	<div class="KonaBody">
+            
+            
+
+<p><strong>US DISTRICT COURT</strong> Judge Jeffrey White did a U-turn on his
+own earlier order in San Francisco on Friday, reversing suppression of the
+whistleblower website Wikileaks.</p>            
+
+<p>Swiss bank Julius Baer had obtained the injunction on February 15 by alleging
+that Wikileaks was publishing confidential documents that violated its client's
+right to privacy. The controversial papers tended to suggest that the bank and
+its client might have been involved in some tax evasion and money laundering.
+</p>
+
+<p>Wikileaks' US ISP Dynadot complied with Judge White's order and removed its
+DNS entries, but the website was still accessible via its numeric IP address. In
+addition, online activists immediately mirrored Wikileaks at dozens of alternate
+websites worldwide. The ensuing publicity made headlines almost everywhere.</p>
+
+<p>The American Civil Liberties Union and the Electronic Frontier Foundation
+filed a motion protesting the censorship of Wikileaks, and The Reporters
+Committee for Freedom of the Press (RCFP) assembled a media coalition that filed
+a friend of the court brief on Wikileaks' behalf.</p>
+
+<p>The media coalition comprised almost all of the major US newspaper publishers
+and press organisations, including -- in addition to the RCFP -- the American
+Society of Newspaper Editors, The Associated Press, the Citizen Media Law
+Project, The E.W. Scripps Company, the Gannett Company, The Hearst Corporation,
+the Los Angeles Times, the National Newspaper Association, the Newspaper
+Association of America, The Radio-Television News Directors Association, and The
+Society of Professional Journalists.</p>
+
+<p>On the grounds that Wikileaks had not appeared in court to defend itself and
+no First Amendment issues had yet been raised before the court, the press
+coalition requested to be heard as a friend of the court to call attention to
+relevant points of law that the court had apparently overlooked.</p>
+
+<p>In a twenty-three page brief, with one voice most of the US fourth estate
+argued:</p>
+
+<p>"<em>First</em>, Wikileaks provides a forum for dissidents and whistleblowers
+across the globe to post documents, but the Dynadot injunction imposes a prior
+restraint that drastically curtails access to Wikileaks from the Internet based
+on a limited number of postings challenged by Plaintiffs. The Dynadot injunction
+therefore violates the bedrock principle that an injunction cannot enjoin
+<em>all communication</em> by a publisher or other speaker.</p>
+
+<p>"<em>Second</em>, the [Temporary Restraining Order] against Wikileaks
+violates the First Amendment because judicial orders enjoining reporting on or
+dissemination of documents constitute prior restraints. Under <em>Pentagon
+Papers</em>, the First Amendment prohibits prior restraints in nearly every
+circumstance, even where national security may be at risk and the press's source
+is alleged to have obtained the documents unlawfully. The privacy and
+commercial interests Plaintiffs cite are simply not on the same order of
+magnitude required to justify a prior restraint, and the grab bag of federal,
+state and foreign laws they cite do not authorize prior restraints.</p>
+
+<p>"<em>Third</em>, both the [Temporary Restraining Order] and Dynadot
+injunction lack the rigorous findings required for a prior restraint and are far
+broader than constitutionally permissable, as the [Temporary Restraining Order]
+purports to reach anyone with "notice," not just parties, and is not narrowly
+tailored.</p>
+
+<p>"<em>Finally</em>, the [Temporary Restraining Order] and Dynadot injunction
+are precluded by Section 230 of the Communications Decency Act, which prohibits
+injunctive relief against websites and services such as Wikileaks and Dynadot
+for publishing information provided by third parties." (All citations omitted.)
+</p>
+
+<p>Faced with such concerted and well founded opposition from the press, Judge
+White not only dissolved the injunction requiring Dynadot to suppress
+Wikileaks' DNS entries but also denied the plaintiff's request for an order
+prohibiting the website's publication.</p>
+
+<p>In a press release, RCFP Executive Director Lucy Dalglish said, "It's not
+very often a federal judge does a 180 degree turn in a case and dissolves an
+order. But we're very pleased the judge recognized the constitutional
+implications in this prior restraint."</p>
+
+<p>The press coalition's brief is
+<a href='http://www.rcfp.org/news/documents/20080229-amicusbrie.pdf' target='_blank'>here</a>
+(pdf). µ</p>
+
+<p><font color='red'><strong>L'Inq</strong></font><br/>
+<a href='http://www.rcfp.org/news/releases/20080229-judgerethi.html' target='_blank'>Reporters
+Committee for Freedom of the Press</a></p>
+
+<p><font color='red'><strong>See Also</strong></font><br/>
+<a href='http://www.theinquirer.net/gb/inquirer/news/2008/02/28/wikileaks-case-gets-stickier'>Wikileaks
+case gets stickier</a><br/>
+<a href='http://www.theinquirer.net/gb/inquirer/news/2008/02/19/wikileaks-org-switched'>Wikileaks.org
+switched off</a></p>
+
+</p>			</div>
+            
+            
+        </div>
+    </div>
+    <div class="article_page_ads_bottom">
+    </div>
+    <div class="contentNavi">
+        
+
+        
+<ul>
+    <li class="comment">
+        <a href="/inquirer/comment/1039527/judge-rethinks-wikileaks" title="Post comments">Comment on this article</a>
+    </li>
+    <li class="flame">
+        <a href="http://www.theinquirer.net/inquirer/flame_author/1039527/judge-rethinks-wikileaks" title="Post questions">Flame Author</a>
+    </li>
+    <li class="print">
+        <a  href="#" onclick="printPreview();return(0)" title="Print this page">Print</a>
+    </li>
+</ul>
+
+    </div>
+    <!-- tag blcok -->
+    <!-- end of tag block -->
+    <div class="contentNavi_onemore">
+        <h2>Share this:</h2>
+        
+<ul>
+    <li>
+        <img alt="Delicious" src="/images/delicious.gif?1275297116" />
+        <a onclick="window.open('http://del.icio.us/post?url=http://www.theinquirer.net/inquirer/news/1039527/judge-rethinks-wikileaks',null, 'height=600,width=800,status=yes,toolbar=no,menubar=no,location=no,resizable=yes,scrollbars=yes'); return false;" title="Post this to Delicious" href="http://www.theinquirer.net/inquirer/news/1039527/judge-rethinks-wikileaks">del.icio.us</a>
+    </li>
+    <li>
+        <img alt="Digg" src="/images/digg.gif?1275297116" />
+        <a onclick="window.open('http://digg.com/submit?url=http://www.theinquirer.net/inquirer/news/1039527/judge-rethinks-wikileaks',null, 'height=600,width=800,status=yes,toolbar=no,menubar=no,location=no,resizable=yes,scrollbars=yes'); return false;" title="Post this to Digg" href="http://www.theinquirer.net/inquirer/news/1039527/judge-rethinks-wikileaks">Digg</a>
+    </li>
+    <li>
+        <img alt="Facebook" src="/images/facebook.gif?1275297116" />
+        <a onclick="window.open('http://www.facebook.com/sharer.php?u=http://www.theinquirer.net/inquirer/news/1039527/judge-rethinks-wikileaks',null, 'height=600,width=800,status=yes,toolbar=no,menubar=no,location=no,resizable=yes,scrollbars=yes'); return false;" title="Post this to Facebook" href="http://www.theinquirer.net/inquirer/news/1039527/judge-rethinks-wikileaks">Facebook</a>
+    </li>
+    <li>
+        <img alt="Linkedin" src="/images/linkedIn.gif?1275297116" />
+        <a onclick="window.open('http://www.linkedin.com/shareArticle?mini=true&amp;amp;url=http://www.theinquirer.net/inquirer/news/1039527/judge-rethinks-wikileaks',null, 'height=600,width=800,status=yes,toolbar=no,menubar=no,location=no,resizable=yes,scrollbars=yes'); return false;" title="Post this to LinkedIn" href="http://www.theinquirer.net/inquirer/news/1039527/judge-rethinks-wikileaks">Linkedin</a>
+    </li>
+    <li>
+        <img alt="Reddit" src="/images/reddit.gif?1275297116" />
+        <a onclick="window.open('http://reddit.com/submit?url=http://www.theinquirer.net/inquirer/news/1039527/judge-rethinks-wikileaks',null, 'height=600,width=800,status=yes,toolbar=no,menubar=no,location=no,resizable=yes,scrollbars=yes'); return false;" title="Post this to reddit" href="http://www.theinquirer.net/inquirer/news/1039527/judge-rethinks-wikileaks">reddit!</a>
+    </li>
+    <li>
+        <img alt="Stumbleupon" src="/images/stumbleupon.gif?1275297116" />
+        <a onclick="window.open('http://www.stumbleupon.com/submit?url=http://www.theinquirer.net/inquirer/news/1039527/judge-rethinks-wikileaks',null, 'height=600,width=800,status=yes,toolbar=no,menubar=no,location=no,resizable=yes,scrollbars=yes'); return false;" title="Post this to StumbleUpon" href="http://www.theinquirer.net/inquirer/news/1039527/judge-rethinks-wikileaks">StumbleUpon</a>
+    </li>
+    <li>
+        <img alt="Twitter" src="/images/twitter.gif?1277378166" />
+        <a onclick="window.open('http://twitter.com/home?status=http://www.theinquirer.net/inquirer/news/1039527/judge-rethinks-wikileaks',null, 'height=600,width=800,status=yes,toolbar=no,menubar=no,location=no,resizable=yes,scrollbars=yes'); return false;" title="Post this to Twitter" href="http://www.theinquirer.net/inquirer/news/1039527/judge-rethinks-wikileaks">Twitter</a>
+    </li>
+    <li>
+        <script type="text/javascript">
+            var addthis_pub = "incisivemedia";
+            var addthis_brand = "Theinquirer";
+            var addthis_options = 'linkedin, facebook, twitter, email, favorites, more';
+        </script>
+        <a href="http://www.addthis.com/bookmark.php?v=20" onmouseover="return addthis_open(this, '', '', '')" onmouseout="addthis_close()" onclick="return addthis_sendto()"><img src="http://s7.addthis.com/static/btn/sm-plus.gif" width="16" height="16" alt="Bookmark and Share" style="border:0"/>Share</a>
+        <script type="text/javascript" src="http://s7.addthis.com/js/200/addthis_widget.js">
+        </script>
+        <noscript>
+        </noscript>
+    </li>
+</ul>
+
+    </div>
+    <div id="related_articles">
+        
+        
+        
+        
+<div class="related_articles_heading">
+    Related articles
+</div>
+<table class='related_articles_table'>
+    <tr>
+        <td>
+    
+    <div class="related_articles_content">
+        <div class="related_article_heading">
+            <a href="http://www.theinquirer.net/inquirer/news/1866295/creative-launches-inch-inch-tablets" title="Creative launches 7-inch and 10-inch tablets ">Creative launches 7-inch and 10-inch tablets </a>
+        </div>
+        <div class="related_article_summary">
+            Starting at £199
+        </div>
+        
+        <div>
+            Tuesday&#44;  2 November 2010&#44; 14&#58;40 PM
+        </div>
+        <div>
+            <a href="http://www.theinquirer.net/inquirer/news/1866295/creative-launches-inch-inch-tablets" class="readmore" title="Creative launches 7-inch and 10-inch tablets ">Read more</a>
+        </div>
+    </div>
+    
+</td>
+<td>
+    
+    <div class="related_articles_content">
+        <div class="related_article_heading">
+            <a href="http://www.theinquirer.net/inquirer/news/1814230/viewsonic-challenges-galaxy-tab-ipad" title="Viewsonic challenges Galaxy tab and Ipad">Viewsonic challenges Galaxy tab and Ipad</a>
+        </div>
+        <div class="related_article_summary">
+            Its the prices to beat
+        </div>
+        
+        <div>
+            Thursday&#44; 28 October 2010&#44; 17&#58;59 PM
+        </div>
+        <div>
+            <a href="http://www.theinquirer.net/inquirer/news/1814230/viewsonic-challenges-galaxy-tab-ipad" class="readmore" title="Viewsonic challenges Galaxy tab and Ipad">Read more</a>
+        </div>
+    </div>
+    
+</td>
+
+    </tr>
+    <tr>
+        <td>
+    
+    <div class="related_articles_content">
+        <div class="related_article_heading">
+            <a href="http://www.theinquirer.net/inquirer/news/1818591/viewsonic-viewpad-video-demo" title="Viewsonic Viewpad 10 video demo">Viewsonic Viewpad 10 video demo</a>
+        </div>
+        <div class="related_article_summary">
+            It was 100, now a 10
+        </div>
+        
+        <div>
+            Thursday&#44; 28 October 2010&#44; 16&#58;40 PM
+        </div>
+        <div>
+            <a href="http://www.theinquirer.net/inquirer/news/1818591/viewsonic-viewpad-video-demo" class="readmore" title="Viewsonic Viewpad 10 video demo">Read more</a>
+        </div>
+    </div>
+    
+</td>
+<td>
+    
+    <div class="related_articles_content">
+        <div class="related_article_heading">
+            <a href="http://www.theinquirer.net/inquirer/feature/1731658/ipad-killers-forms" title="Ipad killers will come in many forms">Ipad killers will come in many forms</a>
+        </div>
+        <div class="related_article_summary">
+            The tablet war might already be over for Apple
+        </div>
+        
+        <div>
+            Tuesday&#44;  7 September 2010&#44; 13&#58;47 PM
+        </div>
+        <div>
+            <a href="http://www.theinquirer.net/inquirer/feature/1731658/ipad-killers-forms" class="readmore" title="Ipad killers will come in many forms">Read more</a>
+        </div>
+    </div>
+    
+</td>
+
+    </tr>
+    <tr>
+        <td>
+    
+    <div class="related_articles_content">
+        <div class="related_article_heading">
+            <a href="http://www.theinquirer.net/inquirer/news/1728951/nand-flash-fall-usd1-megabyte" title="NAND flash will fall to $1 a gigabyte this year ">NAND flash will fall to $1 a gigabyte this year </a>
+        </div>
+        <div class="related_article_summary">
+            Too late to save SSDs
+
+        </div>
+        
+        <div>
+            Friday&#44; 20 August 2010&#44; 11&#58;03 AM
+        </div>
+        <div>
+            <a href="http://www.theinquirer.net/inquirer/news/1728951/nand-flash-fall-usd1-megabyte" class="readmore" title="NAND flash will fall to $1 a gigabyte this year ">Read more</a>
+        </div>
+    </div>
+    
+</td>
+<td>
+    
+    <div class="related_articles_content">
+        <div class="related_article_heading">
+            <a href="http://www.theinquirer.net/inquirer/feature/1653402/peppermint-web-centric-linux" title="Peppermint, a web-centric Linux OS">Peppermint, a web-centric Linux OS</a>
+        </div>
+        <div class="related_article_summary">
+            Lead developers talk brewing for the cloud 
+        </div>
+        
+        <div>
+            Monday&#44; 28 June 2010&#44; 13&#58;00 PM
+        </div>
+        <div>
+            <a href="http://www.theinquirer.net/inquirer/feature/1653402/peppermint-web-centric-linux" class="readmore" title="Peppermint, a web-centric Linux OS">Read more</a>
+        </div>
+    </div>
+    
+</td>
+
+    </tr>
+</table>
+
+
+    </div>
+    <!--related_articles-->
+</div>
+
+
+<div id="comments">
+    
+<div class="comment_heading">
+    Comments
+</div>
+
+
+<div class="articles_comment" id="comment_new_29052here">
+    <div class="articles_comment_header">
+        Swiss bank can't make up their mind
+    </div>
+    <p>What I find really amusing is how they say the sight needs to be taken down because they're posting confidential documents. Then they say that the documents are fake and they're not doing tax evasion or money laundry. How can a document be confidential and/or proprietary if it's fake?</p>
+    <div class="articles_comment_posted_by complaint_about">
+        <span class="align_left_posted_date">posted by : Aurien,&nbsp;02 March 2008</span>
+        <span id='remove_29052' class="align_right"><a href="javascript:void(0);" onclick="javascript:complain_abt_comment('comment_29052','comment_new_29052','29052');">Complain about this comment</a></span>
+    </div>
+   <form action="/home/save_complain/29052" id="form_29052" method="post" onsubmit="save_complaint(this,29052); return false;">
+    <div id="complaint_comment_29052">
+    </div>
+    </form>
+</div>
+
+<div class="articles_comment" id="comment_new_29053here">
+    <div class="articles_comment_header">
+        Fire the Judge
+    </div>
+    <p>The judge didn't know enough about the law to realize the request was wrong.  This judge, like so many other judges, needs to be removed from office.   Any judge who doesn't know the law he's ruling on needs to be shown the door.    -Mike</p>
+    <div class="articles_comment_posted_by complaint_about">
+        <span class="align_left_posted_date">posted by : spikeymike,&nbsp;04 March 2008</span>
+        <span id='remove_29053' class="align_right"><a href="javascript:void(0);" onclick="javascript:complain_abt_comment('comment_29053','comment_new_29053','29053');">Complain about this comment</a></span>
+    </div>
+   <form action="/home/save_complain/29053" id="form_29053" method="post" onsubmit="save_complaint(this,29053); return false;">
+    <div id="complaint_comment_29053">
+    </div>
+    </form>
+</div>
+
+
+<!--Comments-->
+
+</div>
+
+                <div class="bottom_ad_block">
+    <div class="ad_begin">
+        <script type="text/javascript">
+            <!--
+            google_ad_client = "ca-pub-0824305450139362";
+            /* Inquirer Bottom Hardcoded Adsense */
+            google_ad_slot = "3250531816";
+            google_ad_width = 468;
+            google_ad_height = 60;
+            //-->
+        </script>
+        <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+        </script>
+    </div>
+  
+    <div class="ad_end">
+       <a href="/static/aboutus"><img alt="aboutus" src="/images/bottom-advert-2.jpg?1275297116" /></a>
+    </div>
+</div>
+
+            </div>
+            <div id="content-right">
+    <div class="right_tab_block">
+        <div class="inq_tab_content">
+            <div class="tab">
+                <ul class="tab_list" id="tab_1">
+                    <li>
+                        <a href="#most_read" class="active" title="Top Content">Most read</a>
+                    </li>
+                    <li>
+                        <a href="#most_commented" title="Rated Content" class="">Most commented</a>
+                    </li>
+                    <li>
+                        <a href="#most_watched" title="Popular Topics" class="">Most watched</a>
+                    </li>
+                </ul>
+                <div class="tab_strip" id="most_read" style="">
+                    <div id='most_read' class='tab_strip' style='display:block;'>
+
+    
+<ul title="Top Content" class="navlistsright">
+    
+    <li><a href="http://www.theinquirer.net/inquirer/news/1934394/microsoft-wakes-arm-chips">Microsoft wakes up to ARM chips</a></li>
+    
+    <li><a href="http://www.theinquirer.net/inquirer/news/1934381/megaload-dares-riaa-sue">Megaupload dares the RIAA to sue it</a></li>
+    
+    <li><a href="http://www.theinquirer.net/inquirer/news/1934384/norwegian-newspaper-wikileaks-cables">Norwegian newspaper has all the Wikileaks cables </a></li>
+    
+    <li><a href="http://www.theinquirer.net/inquirer/feature/1934127/inquirers-ceo-fiascos-2010">The INQUIRER'S top 10 CEO fiascos of 2010</a></li>
+    
+    <li><a href="http://www.theinquirer.net/inquirer/news/1934388/ddos-attacks-hurt-human-rights">DDoS attacks hurt human rights groups </a></li>
+    
+</ul>
+
+
+</div>
+
+                </div>
+                <div class="tab_strip" id="most_commented" style="display: none;">
+                    <div id='most_commented' class='tab_strip' style='display:block;'>
+
+    
+<ul title="Top Content" class="navlistsright">
+    
+    <li><a href="http://www.theinquirer.net/inquirer/news/1933924/hard-apples-iphone">Were we too hard on Apple's Iphone 4?</a></li>
+    
+    <li><a href="http://www.theinquirer.net/inquirer/news/1934238/skype-comes-leaves-line-excuse">Skype comes up with 'leaves on the line' excuse </a></li>
+    
+    <li><a href="http://www.theinquirer.net/inquirer/news/1933952/india-western-software-technology-bugged">India thinks Western software technology is 'bugged'</a></li>
+    
+    <li><a href="http://www.theinquirer.net/inquirer/news/1934314/fresh-bug-discovered">Fresh IE bug discovered</a></li>
+    
+    <li><a href="http://www.theinquirer.net/inquirer/news/1934124/hacker-threatened-vice-president">Hacker threatened the US Vice President </a></li>
+    
+</ul>
+
+
+</div>
+
+                </div>
+                <div class="tab_strip" id="most_watched" style="display: none;">
+                    <div id='most_watched' class='tab_strip' style='display:block;'>
+
+    
+<div class="common_tab_content">
+    
+    <a href="http://www.theinquirer.net/inquirer/news/1933703/google-nexus-video-demo"><img alt="nexus-s-std-def-20" class="align_left" src="/IMG/506/144506/nexus-s-std-def-202723-60x60.jpg?1292863213" /></a>
+    
+    <h3><a href="http://www.theinquirer.net/inquirer/news/1933703/google-nexus-video-demo"><img alt="video icon" src="/images/video-icon.gif?1275297116" /></a>
+        <a href="http://www.theinquirer.net/inquirer/news/1933703/google-nexus-video-demo">Google Nexus S video demo</a></h3>
+    <p>
+        <span class="red"></span>
+        See it here before it's available Wednesday
+    </p>
+</div>
+
+<div class="common_tab_content">
+    
+    <a href="http://www.theinquirer.net/inquirer/news/1932577/view-quest-bookbox-video-demo"><img alt="bookbox-std-def-48" class="align_left" src="/IMG/056/144056/bookbox-std-def-485845-60x60.jpg?1292419897" /></a>
+    
+    <h3><a href="http://www.theinquirer.net/inquirer/news/1932577/view-quest-bookbox-video-demo"><img alt="video icon" src="/images/video-icon.gif?1275297116" /></a>
+        <a href="http://www.theinquirer.net/inquirer/news/1932577/view-quest-bookbox-video-demo">View Quest Bookbox video demo</a></h3>
+    <p>
+        <span class="red"></span>
+        It's an ereader and a multimedia player
+    </p>
+</div>
+
+
+</div>
+
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="advertisment">
+        <div class="advertisment_heading">
+            Advertisement
+        </div>
+        <div class="align_img_center">
+            
+
+<script language="JavaScript" type="text/javascript">
+    printAdvert("http://ad.uk.doubleclick.net/adj/ti2.uk/news;page=article;artid=1039527;tile=3;sz=336x280;gs_cat=" + GS_CATEGORY + "");
+</script>
+<noscript>
+    <a target="_blank" href="http://ad-incisive.grapeshot.co.uk/IM_DynamicAds/JMP/jmp.cgi?target=http://ad.uk.doubleclick.net/jump/ti2.uk/news;page=article;artid=1039527;tile=3;sz=336x280;gs_cat=GS_CATEGORY;ord=123456789?">
+    <img border="0" alt="advertisement" src="http://ad-incisive.grapeshot.co.uk/IM_DynamicAds/JMP/jmp.cgi?target=http://ad.uk.doubleclick.net/ad/ti2.uk/news;page=article;artid=1039527;tile=3;sz=336x280;gs_cat=GS_CATEGORY;ord=123456789?"/></a>
+</noscript>
+
+        </div>
+    </div>
+    <div id="subscribe" class="right_common_block iefix">
+        <div id="click" class="right_common_block_heading">
+    Subscribe to INQ newsletters
+</div>
+<div class="right_common_block_content iefix">
+    <form action="http://newswires.theinquirer.net/f/" method="post" name="extn">
+    <input type="hidden" value="75" name="_form_id"/><input type="hidden" value="421" name="_account_id"/><input type="hidden" value="2" name="brand_id"/>
+    <div class="subscribe_news">
+        <div class="subscribe_option">
+            <input type="checkbox" value="True" name="3.inq_daily" />
+        </div>
+        <div class="subscribe_option_label">
+            <label for="3.inq_daily">
+                INQ Daily
+            </label>
+            <p>
+            The most important breaking news each day
+            </p>
+        </div>
+    </div>
+    <div class="subscribe_news">
+        <div class="subscribe_option">
+            <input type="checkbox" value="True" name="3.inqbot_weekly_newsletter"/>
+        </div>
+        <div class="subscribe_option_label">
+            <label for="3.inqbot_weekly_newsletter">
+                InqBOT Weekly
+            </label>
+            <p>
+                A roundup of the best from the INQ, every Monday
+            </p>
+        </div>
+    </div>
+    <div class="subscribe_news">
+        <div class="subscribe_option">
+            <input type="checkbox" value="True" name="3.inqpressions_fortnightly" />
+        </div>
+        <div class="subscribe_option_label">
+            <label for="3.inqpressions_fortnightly">
+                INQpressions Reviews Fortnightly
+            </label>
+            <p>
+                Software and hardware reviews, every other Friday
+            </p>
+        </div>
+    </div>
+    <div class="singup_existinguser">
+        <a onclick="javascript:document.extn.submit();return(0)" href="#signup" class="link_bg">Click here to sign up</a>
+        <a  class="readmore" href="#subscribe" id="user" onclick="javascript:void(0)">Existing user</a>
+    </div>
+    </form>
+</div>
+
+    </div>
+    <div style="display: none;" id="signin" class="right_common_block iefix">
+        <div class="right_common_block_heading ">
+    Existing User
+</div>
+<a name="signup"></a>
+<div class="right_common_block_content iefix">
+    <span>Please fill in the field below to receive your profile link.</span>
+    <label class="search_label" for="email_lookup">
+        Email :
+    </label>
+    <form action="http://newswires.theinquirer.net/q/loginsend" id="nwires" method="post">
+    <input class="hidden_style" id="account_id" name="_account_id" type="hidden" value="421" />
+    <input class="hidden_style" id="table_id" name="_table_id" type="hidden" value="1" />
+    <input class="hidden_style" id="campaign_id" name="_campaign_id" type="hidden" value="37" />
+    <input class="hidden_style" id="launch_id" name="_launch_id" type="hidden" value="36" />
+    <input class="hidden_style" id="r_p" name="_rp" type="hidden" value="http://newswires.theinquirer.net/incisive_newswires_ps/business_technology/inquirer/static_email_sent.html" />
+    <input class="hidden_style" id="e_p" name="_ep" type="hidden" value="http://newswires.theinquirer.net/incisive_newswires_ps/business_technology/inquirer/static_email_not_found.html" />
+	<input class="signin" id="email_lookup" name="email_lookup" size="30" title="Enter email here" type="text" value="Enter email here" />
+    <input class="search_button_bg footer" name="commit" type="submit" value="Send" />
+    </form>
+    <span>Sign-up for the INQBot weekly newsletter</span>
+    <form action="http://newswires.theinquirer.net/f/" method="post" name="signin">
+    <input class="hidden_style" id="__95_classcheckBoxvalueTruecheckedcheckedname3.inqbot_weekly_newsletter" name="&#95;[classcheckBoxvalueTruecheckedcheckedname3.inqbot_weekly_newsletter]" type="hidden" />
+    <input class="hidden_style" id="__95_form_id" name="_form_id" type="hidden" value="5" />
+    <input class="hidden_style" id="__95_account_id" name="_account_id" type="hidden" value="421" />
+    <input class="hidden_style" id="__95_brand_id" name="brand_id" type="hidden" value="2" />
+    <a  class="link_bg" href="#signup" onclick="javascript:document.signin.submit();return(0)">Click here</a>
+    </form>
+</div>
+
+
+
+
+    </div>
+    <div class="right_common_block iefix">
+        <div class="right_common_block_heading">
+            <a href="http://www.ithound.com/theinquirer/">INQ White papers</a>
+        </div>
+        <div class="right_common_block_content article_list iefix">
+            
+<h3>
+	<a href="http://www.ithound.com/theinquirer/browse_documents/162/it-systems-management/database-solutions" target="_blank">Databases</a></h3>
+<h3>
+	<a href="http://www.ithound.com/theinquirer/browse_documents/213/it-systems-management/networks-communications" target="_blank">Network management</a></h3>
+<h3>
+	<a href="http://www.ithound.com/theinquirer/browse_documents/256/it-systems-management/security-solutions" target="_blank">Security</a></h3>
+<h3>
+	<a href="http://www.ithound.com/theinquirer/browse_documents/183/it-systems-management/enterprise-application-integration-eai/service-oriented-architecture-soa" target="_blank">Service oriented architecture</a></h3>
+<h3>
+	<a href="http://www.ithound.com/theinquirer/browse_documents/314/it-systems-management/storage-data-centre-solutions" target="_blank">Storage</a></h3>
+        </div>
+        <div class="right_common_block_content whitepaper_search iefix">
+            <label class="search_label" for="right_search">
+                Search
+            </label>
+            <form target="_blank" method="get" action="http://ithound.theinquirer.net/search">
+                <table cellspacing="0" cellpadding="0" border="0">
+                    <tbody>
+                        <tr>
+                            <td>
+                                <input type="text" value="Keyword" title="Keyword" size="20" name="query_text" id="right_search" class="search_box_bg"/>
+                            </td>
+                            <td>
+                                <div class="search-magnify-icon">
+                                </div>
+                            </td>
+                            <td>
+                                <input type="submit" value="Search" class="search_button_bg footer"/>
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+            </form>
+        </div>
+    </div>
+    <div class="advertisment">
+        <div class="advertisment_heading">
+            Advertisement
+        </div>
+        <div class="align_img_center">
+            
+
+<script language="JavaScript" type="text/javascript">
+    printAdvert("http://ad.uk.doubleclick.net/adj/ti2.uk/news;page=article;artid=1039527;tile=4;sz=336x280;gs_cat=" + GS_CATEGORY + "");
+</script>
+<noscript>
+    <a target="_blank" href="http://ad-incisive.grapeshot.co.uk/IM_DynamicAds/JMP/jmp.cgi?target=http://ad.uk.doubleclick.net/jump/ti2.uk/news;page=article;artid=1039527;tile=4;sz=336x280;gs_cat=GS_CATEGORY;ord=123456789?">
+    	<img border="0" alt="advertisement" src="http://ad-incisive.grapeshot.co.uk/IM_DynamicAds/JMP/jmp.cgi?target=http://ad.uk.doubleclick.net/ad/ti2.uk/news;page=article;artid=1039527;tile=4;sz=336x280;gs_cat=GS_CATEGORY;ord=123456789?"/></a>
+</noscript>
+        </div>
+    </div>
+    <div class="right_common_block">
+        <div class="right_common_block_heading">
+            INQ Jobs
+        </div>
+        <div class="job_description_list">
+            
+<div>
+    <h2><a href="http://www.inqjobs.co.uk/clickout?job_id=MjM3NzA3Njg=&amp;uri=aHR0cDovL3d3dy5leGVjMmV4ZWMuY29tL2pvYi80MjE2MS1wZXJtYW5lbnQtY2F0ZWdvcnktbWFuYWdlci1idWNraW5naGFtc2hpcmUv" target="_blank" title="Category manager">Category manager</a></h2>
+    <h4><a href="http://www.inqjobs.co.uk/clickout?job_id=MjM3NzA3Njg=&amp;uri=aHR0cDovL3d3dy5leGVjMmV4ZWMuY29tL2pvYi80MjE2MS1wZXJtYW5lbnQtY2F0ZWdvcnktbWFuYWdlci1idWNraW5naGFtc2hpcmUv" target="_blank">Our client a market leader ...</a></h4>
+    <h6><a href="http://www.inqjobs.co.uk/clickout?job_id=MjM3NzA3Njg=&amp;uri=aHR0cDovL3d3dy5leGVjMmV4ZWMuY29tL2pvYi80MjE2MS1wZXJtYW5lbnQtY2F0ZWdvcnktbWFuYWdlci1idWNraW5naGFtc2hpcmUv" class="readmore" target="_blank" title="Category manager">Read more</a></h6>
+</div>
+
+        </div>
+        <div class="right_common_block_content whitepaper_search iefix">
+            <label class="search_label" for="right_search1">
+                Search
+            </label>
+            <form target="_blank" method="get" action="http://www.inqjobs.co.uk/results">
+                <table cellspacing="0" cellpadding="0" border="0">
+                    <tbody>
+                        <tr>
+                            <td>
+                                <input type="text" value="Keyword" title="Keyword" size="30" name="keywords" id="right_search1" class="search_box_bg"/>
+                            </td>
+                            <td>
+                                <div class="search-magnify-icon">
+                                </div>
+                            </td>
+                            <td>
+                                <input type="submit" value="Search" class="search_button_bg footer"/>
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+            </form>
+        </div>
+        <div class="powered_by">
+			<a href="http://www.inqjobs.co.uk/" target="_blank"><img alt="INQJOBS logo and link to the site" src="/images/inq-jobs.jpg?1275297116" title="INQJOBS logo and link to the site" /></a>
+        </div>
+    </div>
+    
+    
+    <div class="right_common_block">
+        <div class="right_common_block_heading">
+    INQ Poll
+</div>
+<form action="/home/vote/1100?article_title=2011-the-year-before-the-mayan-s-final-year-2012&amp;source=inquirer" method="post" name="vote">
+<input class="hidden_style" id="poll_hidden_id" name="poll_id" type="hidden" value="1100" />
+    <div class="right_common_block_content">
+        <p class="poll_heading">
+            2011: the year before the Mayan's final year 2012
+        </p>
+        <p class="poll_question">
+            What outlandish things could possibly happen in 2011?
+        </p>
+		
+        <div class="poll_answer">
+            <div class="poll_option">
+				<input checked="checked" class="radio_style" id="poll_options_id_3968" name="poll_options_id" type="radio" value="3968" />
+            </div>
+            <div class="poll_option_label">
+                <label for="poll_options_id_3968">
+                Steve Jobs declares himself the second coming
+            </label>
+            </div>
+        </div>
+        
+        <div class="poll_answer">
+            <div class="poll_option">
+				<input checked="checked" class="radio_style" id="poll_options_id_3969" name="poll_options_id" type="radio" value="3969" />
+            </div>
+            <div class="poll_option_label">
+                <label for="poll_options_id_3969">
+                Steve Ballmer 'retires' from Microsoft
+            </label>
+            </div>
+        </div>
+        
+        <div class="poll_answer">
+            <div class="poll_option">
+				<input checked="checked" class="radio_style" id="poll_options_id_3970" name="poll_options_id" type="radio" value="3970" />
+            </div>
+            <div class="poll_option_label">
+                <label for="poll_options_id_3970">
+                Intel finally gets a chip in a mobile phone
+            </label>
+            </div>
+        </div>
+        
+        <div class="poll_answer">
+            <div class="poll_option">
+				<input checked="checked" class="radio_style" id="poll_options_id_3971" name="poll_options_id" type="radio" value="3971" />
+            </div>
+            <div class="poll_option_label">
+                <label for="poll_options_id_3971">
+                Tablet buying craze crashes, everyone burnt
+            </label>
+            </div>
+        </div>
+        
+        <div class="poll_answer">
+            <div class="poll_option">
+				<input checked="checked" class="radio_style" id="poll_options_id_3972" name="poll_options_id" type="radio" value="3972" />
+            </div>
+            <div class="poll_option_label">
+                <label for="poll_options_id_3972">
+                Humanity saved by extra-terrestrial invasion
+            </label>
+            </div>
+        </div>
+        
+    </div>
+    <div class="poll_submit">
+        <div class="poll_other_polls">
+			<a href="/polls" class="readmore">View other polls</a>
+        </div>
+        <div class="poll_vote">
+			<input alt="Vote" class="search_button_bg" name="commit" style="flat:right;" type="submit" value="Vote" />
+        </div>
+    </div>
+</form>
+    </div>
+    
+</div>
+
+        </div>
+        <div id="footer">
+    <div class="navcontainer footer_menu">
+        <ul>
+            
+<!-- Top menus -->
+
+<!-- Sub menus-->
+
+
+            
+
+
+<li><a href="/">Home</a></li>
+
+
+
+<li><a href="/type/news" class="active">News</a></li>
+
+
+
+<li><a href="/type/review">Reviews</a></li>
+
+
+
+<li><a href="/video">Video</a></li>
+
+
+
+<li><a href="/analysis">INQdepth</a></li>
+
+
+
+<li><a href="/blogs">Blogs</a></li>
+
+
+
+<li><a href="http://www.inqjobs.co.uk/" target="_blank" title="Jobs">Jobs</a></li>
+
+
+
+<li><a href="http://store.theinquirer.net/" target="_blank" title="Downloads store">Downloads store</a></li>
+
+
+
+        </ul>
+    </div>
+    <!--footer_top_menu-->
+    <div class="footer_background">
+        <img alt="Incisive Media" src="/images/bottom_logo.jpg?1275297116" title="Incisive Media" />
+        <div class="footer_content">
+            <p class='footer_content_text'>
+                &copy; Incisive Media Investments Limited 2010, Published by Incisive Financial Publishing Limited, Haymarket House, 28-29 Haymarket, London SW1Y 4RX, are companies registered in England and Wales with company registration numbers 04252091 &amp; 04252093
+            </p>
+        </div>
+        <!--footer_middle-->
+        <div class="search search_footer">
+            <label for="footer_search" class="search_label">
+                SEARCH :
+            </label>
+            <form action="/search" id="search_footer" method="post">
+            <table border="0" cellpadding="0" cellspacing="0">
+                <tr>
+                    <td>
+                        <input class="search_box_bg" id="footer_search" name="query" size="20" title="Keyword" type="text" value="" />
+                    </td>
+                    <td>
+                        <div class="search-magnify-icon">
+                        </div>
+                        <input type='hidden' value='365' name='from_date'/>
+                    </td>
+                    <td>
+                        <input class="search_button_bg" type="submit" value="Search" />
+                    </td>
+                </tr>
+            </table>
+            </form>
+            <div class="below_top_search">
+                
+                
+<ul>
+    <li>
+        <a  href="http://twitter.com/INQ" target="_blank"><img alt="Follow the INQ on Twitter" class="twitter" src="/images/twitter-icon.png?1275297116" title="Follow the INQ on Twitter" /></a>
+    </li>
+    <li>
+        <a  href="http://www.linkedin.com/groups?gid=1080097" target="_blank"><img alt="Join the INQuisitors, the INQ's LinkedIn group" class="linkedin" src="/images/linkedin-icon.png?1275297116" title="Join the INQuisitors, the INQ's LinkedIn group" /></a>
+    </li>
+    <li>
+        <a  href="http://www.youtube.com/theinquirer" target="_blank"><img alt="Browse INQ videos on YouTube" class="youtube" src="/images/youtube-icon.png?1275297117" title="Browse INQ videos on YouTube" /></a>
+    </li>
+    <li>
+        <a  href="http://www.facebook.com/pages/The-Inquirer/30395818327" target="_blank"><img alt="Join the INQ on Facebook" class="face_book" src="/images/facebook-icon.png?1275297116" title="Join the INQ on Facebook" /></a>
+    </li>
+	<li>
+        <a  href="http://mippin.com/theinquirer" target="_blank"><img alt="The Inquirer for mobiles" class="face_book" src="/images/mobile-icon.png?1275297116" title="The Inquirer for mobiles" /></a>
+    </li>
+	<li>
+        <a  href="http://signup.incisivemedia.com/newswires/inquirer/" target="_blank"><img alt="Email newsletters" class="face_book" src="/images/newsletter-icon.png?1275297116" title="Email newsletters" /></a>
+    </li>
+	<li>
+        <a  href="/about-rss"><img alt="RSS feeds" class="face_book" src="/images/rss-icon.png?1275297116" title="RSS feeds" /></a>
+    </li>
+</ul>
+
+            </div>
+            <!-- below_top_search -->
+        </div>
+        <!--footer_search-->
+    </div>
+    <!--footer_background-->
+</div>
+<div class="footer_down">
+    <div class="footer_bottom" id="top">
+        <div class="footer_bottom_links_header">
+            Site Credentials:
+        </div>
+        
+<!-- Top menus -->
+
+<!-- Sub menus-->
+
+
+        <ul class="footer_bottom_links">
+            
+
+
+
+<li><a href="/static/aboutus">About us</a></li>
+
+
+
+<li><a href="http://www.incisivemedia.com/corporate/terms_conditions" target="_blank" title="Terms &amp; Conditions">Terms & Conditions</a></li>
+
+
+
+<li><a href="/static/privacy-policy">Privacy policy</a></li>
+
+
+
+<li><a href="http://www.incisivemedia.com" target="_blank" title="About Incisive Media">About Incisive Media</a></li>
+
+
+
+<li><a href="/static/sitemap">Sitemap</a></li>
+
+
+
+        </ul>
+    </div>
+    <!--footer_bottom_links-->
+    <div class="footer_bottom">
+        <div class='footer_bottom_links_header'>
+            Follow us:
+        </div>
+        <ul class='footer_bottom_links'>
+            <li><a href="http://www.youtube.com/theinquirer" target="_blank" title="Youtube">Youtube</a></li>
+            <li><a href="http://www.twitter.com/INQ" target="_blank" title="Twitter">Twitter</a></li>
+            <li><a href="http://www.facebook.com/pages/The-Inquirer/30395818327" target="_blank" title="Facebook">Facebook</a></li>
+            <li><a href="http://www.linkedin.com/e/gis/1080097" target="_blank" title="Linkedin">Linkedin</a></li>
+        </ul>
+    </div>
+    <div class="footer_bottom">
+        <div class="footer_bottom_links_header">
+            Business &amp; Technology websites:
+        </div>
+        <ul class="footer_bottom_links">
+            <li><a href="http://www.V3.co.uk" target="_blank" title="Technology">Technology</a></li>
+            <li><a href="http://www.channelweb.co.uk/" target="_blank" title="Reseller Channel">Reseller Channel</a></li>
+            <li><a href="http://www.computing.co.uk" target="_blank" title="IT News">IT News</a></li>
+            <li><a href="http://www.iwr.co.uk" target="_blank" title="Information Science">Information Science</a></li>
+            <li><a href="http://searchenginewatch.com" target="_blank" title="Search Engines">Search Engines</a></li>
+            <li><a href="http://www.clickz.com" target="_blank" title="Online Marketing">Online Marketing</a></li>
+            <li><a href="http://www.watersonline.com/" target="_blank" title="Trading Technology">Trading Technology</a></li>
+            <li><a href="http://www.dealingwithtechnology.com/" target="_blank" title="Technology for the Sell Side">Technology for the Sell Side</a></li>
+            <li><a href="http://www.buysidetechnology.net/" target="_blank" title="Buy Side Technology">Buy Side Technology</a></li>
+            <li><a href="http://www.findmeanaccountant.com" target="_blank" title="Find Chartered Accountants">Find Chartered Accountants</a></li>
+        </ul>
+    </div>
+    <div class="footer_bottom">
+        <div class="footer_bottom_links_header">
+            Business research resources:
+        </div>
+        <ul class="footer_bottom_links">
+            <li><a href="http://www.computing.co.uk/events/ " target="_blank" title="B2B Web Seminars">B2B Web Seminars</a></li>
+            <li><a href="http://www.V3.co.uk/audio-video/" target="_blank" title="Business Technology Video">Business Technology Video</a></li>
+            <li><a href="http://ithound.theinquirer.net/ithound/home/?ith_ref=NavLink" target="_blank" title="Whitepapers">Whitepapers</a></li>
+        </ul>
+    </div>
+    <div class="footer_bottom">
+        <div class="footer_bottom_links_header">
+            Products:
+        </div>
+        <ul class="footer_bottom_links">
+            <li><a href="/type/review/category/software" title="Software Reviews">Software Reviews</a></li>
+            <li><a href="/type/review/category/hardware/" title="Hardware Reviews">Hardware Reviews</a></li>
+            <li><a href="http://www.V3.co.uk/downloads" target="_blank" title="Download Reviews">Download Reviews</a></li>
+        </ul>
+    </div>
+    <div class="footer_bottom">
+        <div class="footer_bottom_links_header">
+            Investment Market IT websites: 
+        </div>
+        <ul class="footer_bottom_links">
+            <li>
+                <a target="_blank" href="http://www.buysidetechnology.net/" title="Investment Technology">Investment Technology</a>
+            </li>
+            <li>
+                <a target='_blank' href="http://www.dealingwithtechnology.com/" title="Trader IT">Trader IT</a>
+            </li>
+            <li>
+                <a target="_blank" href="http://www.watersonline.com/" title="Financial IT Intelligence" style="border: medium none ;">Financial IT Intelligence</a>
+            </li>
+        </ul>
+    </div>
+    <div class="footer_bottom">
+        <div class='footer_bottom_links_header'>
+            Find out what you are worth:
+        </div>
+        <ul class='footer_bottom_links'>
+            <li><a href="http://www.computing.co.uk/it-salary-checker/" target="_blank" title="IT Salary Calculator">IT Salary Calculator</a></li>
+            <li><a href="http://www.salarytrack.co.uk/" target="_blank" title="Salary calculator">Salary Calculator</a></li>
+        </ul>
+    </div>
+    <div class="footer_bottom">
+        <div class="footer_bottom_links_header">
+            Search for a job:
+        </div>
+        <div class='footer_bottom_right'>
+            <ul class="footer_bottom_links">
+                <li><a href="http://www.computingcareers.co.uk" target="_blank" title="IT Jobs">IT Jobs</a></li>
+                <li><a href="http://www.inqjobs.co.uk" target="_blank" title="IT Job Search Engine">IT Job Search Engine</a></li>
+                <li><a href="http://www.inqjobs.co.uk/results?keywords=computer+hardware" target="_blank" title="Computer Hardware Jobs">Computer Hardware Jobs</a></li>
+                <li><a href="http://www.workhound.co.uk" target="_blank" title="Job Search Engine">Job Search Engine</a></li>
+            </ul>
+            <div class="footer_bottom_links a-z-directory">
+                <a href="http://computingcareers.co.uk/employers/all/" target="_blank" title="All">Recruitment Agency A-Z Directory: All</a>
+                | <a href="http://www.computingcareers.co.uk/employers/a" target="_blank" title="A">A</a><a href="http://www.computingcareers.co.uk/employers/b" target="_blank" title="B">B</a><a href="http://www.computingcareers.co.uk/employers/c" target="_blank" title="C">C</a><a href="http://www.computingcareers.co.uk/employers/d" target="_blank" title="D">D</a><a href="http://www.computingcareers.co.uk/employers/e" target="_blank" title="E">E</a><a href="http://www.computingcareers.co.uk/employers/f" target="_blank" title="F">F</a><a href="http://www.computingcareers.co.uk/employers/g" target="_blank" title="G">G</a><a href="http://www.computingcareers.co.uk/employers/h" target="_blank" title="H">H</a><a href="http://www.computingcareers.co.uk/employers/i" target="_blank" title="I">I</a><a href="http://www.computingcareers.co.uk/employers/j" target="_blank" title="J">J</a><a href="http://www.computingcareers.co.uk/employers/k" target="_blank" title="K">K</a><a href="http://www.computingcareers.co.uk/employers/l" target="_blank" title="L">L</a><a href="http://www.computingcareers.co.uk/employers/m" target="_blank" title="M">M</a><a href="http://www.computingcareers.co.uk/employers/n" target="_blank" title="N">N</a><a href="http://www.computingcareers.co.uk/employers/o" target="_blank" title="O">O</a><a href="http://www.computingcareers.co.uk/employers/p" target="_blank" title="P">P</a><a href="http://www.computingcareers.co.uk/employers/q" target="_blank" title="Q">Q</a><a href="http://www.computingcareers.co.uk/employers/r" target="_blank" title="R">R</a><a href="http://www.computingcareers.co.uk/employers/s" target="_blank" title="S">S</a><a href="http://www.computingcareers.co.uk/employers/t" target="_blank" title="T">T</a><a href="http://www.computingcareers.co.uk/employers/u" target="_blank" title="U">U</a><a href="http://www.computingcareers.co.uk/employers/v" target="_blank" title="V">V</a><a href="http://www.computingcareers.co.uk/employers/w" target="_blank" title="W">W</a><a href="http://www.computingcareers.co.uk/employers/x" target="_blank" title="X">X</a><a href="http://www.computingcareers.co.uk/employers/y" target="_blank" title="Y">Y</a><a href="http://www.computingcareers.co.uk/employers/z" target="_blank" title="Z">Z</a>
+            </div>
+        </div>
+    </div>
+    <div class="footer_bottom">
+        <div class="footer_bottom_links_header">
+            Accreditations:
+        </div>
+		<div class='footer_bottom_right'>
+	        <ul class="footer_bottom_links">
+	            <li class="aop_footer_logo">
+	                <a href="http://www.ukaop.org.uk/news/2010aopawardwinners2131.html" target="_blank" title="Digital Publisher of the Year 2010">Digital Publisher of the Year 2010</a>
+	            </li>
+	        </ul>
+		</div>
+    </div>
+</div>
+<!--footer_bottom_links-->
+
+
+    </div>
+</div>
+<script src="/javascripts/prototype.js?1284357335" type="text/javascript"></script>
+<script src="/javascripts/inquirer.js?1286177309" type="text/javascript"></script>
+<script src="/javascripts/livepipe.js?1284357327" type="text/javascript"></script>
+<script src="/javascripts/tabs.js?1284357337" type="text/javascript"></script>
+<script src="/javascripts/complaint.js?1275297115" type="text/javascript"></script>
+<script src="/javascripts/webtrends.js?1285219487" type="text/javascript"></script>
+<noscript>
+</noscript>
+<script type="text/javascript">
+    var opts = {};
+    var tabs = new Control.Tabs('tab_1', opts);
+</script>
+<noscript>
+</noscript>
+<script type="text/javascript">
+var _tag = new WebTrends();
+_tag.dcsid = "dcs82vkom00000oacbdststk6_8v8r";
+_tag.fpcdom = ".theinquirer.net";
+_tag.dcsGetId();
+</script>
+<noscript>
+</noscript>
+<script type="text/javascript">
+_tag.dcsCollect();
+</script>
+<noscript>
+    <div>
+        <img alt="DCSIMG" id="DCSIMG" width="1" height="1" src="http://statse.webtrendslive.com/dcs82vkom00000oacbdststk6_8v8r/njs.gif?dcsuri=/nojavascript&amp;WT.js=No&amp;WT.tv=8.5.0"/>
+    </div>
+</noscript><!-- Google Analytics -->
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<noscript>
+</noscript>
+<script type="text/javascript">
+    //<![CDATA[
+    
+    _uacct = 'UA-2448662-4';
+    urchinTracker();
+    //]]>
+</script>
+<noscript>
+</noscript>
+
+
+<script type="text/javascript" src="http://track.netshelter.net/js/sites/theinquirer.net.js">
+</script>
+<noscript>
+</noscript>
+
+
+        
+		
+		
+				
+		<script type="text/javascript" src="http://s.skimresources.com/js/3305X620930.skimlinks.js"></script>
+		 <noscript>
+        </noscript>
+		<!-- Kontera ContentLink(TM);-->
+		<script type='text/javascript'>
+		var dc_AdLinkColor = 'blue' ;
+		var dc_PublisherID = 153977 ;
+		</script>
+		<script type='text/javascript' src='http://kona.kontera.com/javascript/lib/KonaLibInline.js'>
+		</script>
+		<!-- Kontera ContentLink(TM) -->		
+		<noscript>
+        </noscript>		
+		
+		
+    </body>
+	<script type="text/javascript">tyntVariables = {"el":"The Inquirer - Computer hardware news and downloads. <a style=\"color: #003399;\" href=\"http://store.theinquirer.net\" target=\"_blank\">Visit the download store today.</a>"};</script> <script type="text/javascript" src="http://tcr.tynt.com/javascripts/Tracer.js?user=aKPc4ONLCr362iadbi-bnq"></script>
+ <noscript>
+        </noscript>
+<script type="text/javascript">
+    if (document.location.protocol == 'http:') {
+        var Tynt = Tynt || [];
+        Tynt.push('s!g');
+                Tynt.s = Tynt.s || {l:"http://asc.tynt.com/inquirer_140x29.gif", lh:29, lw:140, dd:3};
+        (function() {
+            var s = document.createElement('script'); s.async = "async"; s.type = "text/javascript";
+            s.src = 'http://asd.tynt.com/ts.js';
+            var h = document.getElementsByTagName('script')[0]; h.parentNode.insertBefore(s, h);
+        })();
+    }
+</script>
+ <noscript>
+        </noscript>
+    <!-- Default Insight Tag -->
+    <script type="text/javascript">
+        var _bizo_data_partner_id = "472";
+    </script>
+    <script type="text/javascript">
+        var _bizo_p = (("https:" == document.location.protocol) ? "https://sjs." : "http://js.");
+        document.write(unescape("%3Cscript src='" + _bizo_p + "bizographics.com/convert_data.js?partner_id=" + _bizo_data_partner_id + "' type='text/javascript'%3E%3C/script%3E"));
+    </script>	
+</html>

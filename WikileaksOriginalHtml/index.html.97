@@ -1,0 +1,370 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Wikileaks judge gets Pirate Bay treatment • The Register</title>
+<script type="text/javascript">
+var RegArticle = { id:75200, pf:0, af:0, bms:0, ec:'', rating:{count:34,avg:9}, kw:[['identity theft','Identity Theft'],['phishing','Phishing'],['metasploit','Metasploit'],['hackers','Hackers'],['rootkits','Rootkits'],['vulnerability research','Vulnerability Research'],['spyware and adware','Spyware And Adware'],['pirate bay','Pirate Bay'],['xss','Xss'],['public key cryptography','Public Key Cryptography'],['privacy','Privacy'],['botnets','Botnets'],['information security','Information Security'],['data theft','Data Theft'],['wikileaks','Wikileaks'],['exploit code','Exploit Code'],['webattacker','Webattacker'],['pen testing','Pen Testing'],['spam and phishing','Spam And Phishing'],['viruses and worms','Viruses And Worms'],['cyber espionage','Cyber Espionage'],['cross site scripting error','Cross Site Scripting Error'],['prq','Prq']], short_url:'http://reg.cx/18kW'};
+</script>
+<meta name="keywords" content='"identity theft", "phishing", "metasploit", "hackers", "rootkits", "vulnerability research", "spyware and adware", "pirate bay", "xss", "public key cryptography", "privacy", "botnets", "information security", "data theft", "wikileaks", "exploit code", "webattacker", "pen testing", "spam and phishing", "viruses and worms", "cyber espionage", "cross site scripting error", "prq"'>
+<link rel="image_src" href="http://www.theregister.co.uk/Design/graphics/icons/vulture_black_60_trans.png">
+<link rel="alternate" media="print" title="Printer-Friendly version" href="print.html" type="text/html">
+<link rel="up" title="Public Sector: Law section" href="/public_sector/law/">
+<link rel="next" title="Page 2" href="page2.html">
+<link rel=stylesheet type="text/css" href="/style_picker/design?a">
+<style type="text/css" media="screen, projection">
+#sec-public-sector a { font-weight: bold }
+#sub-sec-law a { font-weight: bold }
+</style>
+<link rel=alternate type="application/atom+xml" href="/headlines.atom" title="The Register: whole site">
+<link rel=alternate type="application/atom+xml" href="/public_sector/headlines.atom" title="The Register: Public Sector section">
+<link rel=alternate type="application/atom+xml" href="/public_sector/law/headlines.atom" title="The Register: Public Sector » Law subsection">
+
+<script type="text/javascript" src="/Design/javascript/_.js?a"></script>
+<script type="text/javascript">document.write(RegNIR('pub.law'))</script>
+<script type="text/javascript" src="/public_sector/law/data.js"></script>
+<link rel="SHORTCUT ICON" type="image/x-icon" href="/favicon.ico">
+<link rel=top title="Site homepage" href="/">
+<link rel=search href="http://search.theregister.co.uk/">
+<link rel=search type="application/opensearchdescription+xml" title="El Reg Search" href="/Design/page/search.osd">
+<link rel=apple-touch-icon href="/Design/graphics/icons/vulture_black_60_trans.png">
+<link rel=microsummary href="/microsummary.txt" type="text/plain; charset=utf-8">
+
+
+
+<script type="text/javascript">
+google_ad_client="pub-6455808816405956";
+google_targeting="content";
+google_ad_channel='2140906281';
+google_ad_output='js';
+google_max_num_ads='6';
+google_ad_type='text';
+google_language='en';
+google_encoding='utf8';
+google_safe='high';
+google_feedback='on';
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script>
+
+
+</head>
+<body>
+<div id=page>
+<p id=contentlink><a href="#main-content">Skip to content</a></p>
+<div id="am">
+  <p class=login></p>
+  <ul>
+    <li><a href="http://whitepapers.theregister.co.uk/">Whitepapers</a></li>
+    
+    <li>| <a href="http://www.reghardware.com/">Reg Hardware</a></li>
+    <li>| <a href="http://www.channelregister.co.uk/">Channel Reg</a></li>
+  </ul>
+</div>
+<div id=masthead>
+<h1>
+<a href="/"><img src="/Design/graphics/std/logo_414_80.png" width=414 height=80 alt="The Register® — Biting the hand that feeds IT"></a>
+</h1>
+
+</div>
+<div id=top-nav>
+<ul>
+<li id=sec-hardware><a href="/hardware/" title="Hardware: PCs &amp; Chips, Servers, Storage, Data Networking, Virtualization">Hardware</a></li>
+<li id=sec-software><a href="/software/" title="Software: Operating Systems, Applications, Developer, Microbite">Software</a></li>
+<li id=sec-music-media><a href="/music_media/" title="Music and media">Music &amp; Media</a></li>
+<li id=sec-networks><a href="/networks/" title="Networks: VoIP, Wireless, Mobile, Telecoms">Networks</a></li>
+<li id=sec-security><a href="/security/" title="Security: Crime, Enterprise Security, Anti-Virus, Spam, Identity, Spyware">Security</a></li>
+<li id=sec-public-sector><a href="/public_sector/" title="Public Sector: Government, Law, Policing">Public Sector</a></li>
+<li id=sec-business><a href="/business/" title="Business: Financial News, Small Biz, IT Director, Tech Panel">Business</a></li>
+<li id=sec-science><a href="/science/" title="Science: Environment, Biology, Physics, Space, Rise of the Machines™">Science</a></li>
+<li id=sec-odds><a href="/odds/" title="Odds &amp; Sods: BOFH, Verity Stob, Bootnotes, Entertainment, Letters">Odds &amp; Sods</a></li>
+</ul>
+
+<form action="http://search.theregister.co.uk/" method=GET>
+<input type=text name=q id=q>
+<noscript>
+<input type=submit value="Search »">
+</noscript>
+</form>
+
+<a href="/Design/page/feeds.html"><img src="/Design/graphics/std/feed-icon-28x28.png" width=18 height=18 alt=Feeds></a>
+
+</div>
+<div id=sub-nav>
+<ul id=subsections>
+<li id=sub-sec-government><a href="/public_sector/government/" title="Government news, analysis and opinion">Government</a></li>
+<li id=sub-sec-law><a href="/public_sector/law/" title="Law news, analysis and opinion">Law</a></li>
+<li id=sub-sec-policing><a href="/public_sector/policing/" title="Policing news, analysis and opinion">Policing</a></li>
+</ul>
+
+<img src="/Design/graphics/std/strap.png" width=225 height=24 alt="Biting the hand that feeds IT" class=strap>
+
+</div>
+
+
+<div id=lb>
+<div class=ad-now id=ad-lb-spot>
+<div id=ad-lb><script type="text/javascript">RegAd('lb', 'reg.public_sector.4159/law', 'pos=top;dcopt=ist;sz=728x90', VCs);</script></div>
+<noscript>
+<a href="http://ad.uk.doubleclick.net/jump/reg.public_sector.4159/law;tile=1;pos=top;dcove=d;sz=728x90;ord=TRgJk8CoAT4AABkIQcgAAAMc?" target="_blank"><img src="http://ad.uk.doubleclick.net/ad/reg.public_sector.4159/law;tile=1;pos=top;dcove=d;sz=728x90;ord=TRgJk8CoAT4AABkIQcgAAAMc?" alt=""></a>
+</noscript>
+</div>
+</div>
+
+<div id=main-content>
+
+
+<div id=main-col>
+
+<div id="article">
+<h2>Wikileaks judge gets Pirate Bay treatment</h2>
+<div class="article-nav" id="article-top-nav"><ul>
+<li id="track-this-topic"><a href="alert.html" title="Get email or RSS alerts for articles like this one">Alert <img src="/Design/graphics/std/track.png" width="17" height="17" alt=""></a></li>
+<li><a href="print.html" title="View a printer-friendly version of this article"><img src="/Design/graphics/std/print.png" width="17" height="17" alt=""> Print</a></li>
+<li><a title="Tweet this to Twitter" href="http://twitter.com/home/?status=Wikileaks%20judge%20gets%20Pirate%20Bay%20treatment+http://reg.cx/18kW"><img src="/Design/graphics/icons/twitter.png" width="17" height="17" alt="">Retweet</a></li>
+<li><a title="Share on Facebook" href="http://www.facebook.com/share.php?u=http://reg.cx/18kW"><img src="/Design/graphics/icons/facebook-grey.png" width="17" height="17" alt="">Facebook</a></li>
+</ul></div>
+<p class="standfirst">We're bulletproof, Your Honor</p>
+<p class="byline">By <a href="http://forms.theregister.co.uk/mail_author/?story_url=/2008/02/21/wikileaks_bulletproof_hosting/" title="Send email to the author">Dan Goodin in San Francisco</a> • <a href="http://search.theregister.co.uk/?author=Dan%20Goodin" class="more-by-author" title="More stories on this site by Dan Goodin">Get more from this author</a></p>
+<p class="dateline">Posted in <a href="/public_sector/law/">Law</a>, <a href="/2008/02/21/" title="More stories published on this date">21st February 2008 00:52 GMT</a></p>
+<p class="wptl top"><a href="http://go.theregister.com/tl/385/-1472/an-enterprise-virtualization-primer.pdf?td=wptl385">Free whitepaper – The Register Guide to Enterprise Virtualization</a></p>
+<div id="body">
+<p><strong class="trailer">Analysis</strong> Every now and again, an event comes along and takes our breath away by reminding us just how far out of step the legal system can be with today's changing world. The latest example is last week's attempt by a federal judge in California to shutter Wikileaks, a website devoted to disclosing confidential information that exposes unethical behavior.</p>
+
+<p>Almost a week after US District Judge Jeffrey White unequivocally ordered the disabling of the guerrilla outfit, it remains up, and its foot soldiers are as defiant as ever. More to the point, it continues to host internal documents purporting to prove that a bank located in the Cayman Islands engaged in money laundering and tax evasion - the same documents that landed it in hot water in the first place.</p>
+
+<div id="article-mpu-container">
+<div class=ad-now id=ad-mpu1-spot>
+<div id=ad-mpu1><script type="text/javascript">RegAd('mpu1', 'reg.public_sector.4159/law', 'pos=top;sz=336x280', VCs);</script></div>
+<noscript>
+<a href="http://ad.uk.doubleclick.net/jump/reg.public_sector.4159/law;tile=2;pos=top;dcove=d;sz=336x280;ord=TRgJk8CoAT4AABkIQcgAAAMc?" target="_blank"><img src="http://ad.uk.doubleclick.net/ad/reg.public_sector.4159/law;tile=2;pos=top;dcove=d;sz=336x280;ord=TRgJk8CoAT4AABkIQcgAAAMc?" alt=""></a>
+</noscript>
+</div>
+
+<p>It remains doubtful that Wikileaks will ever be shut down. That's because the site, <a href="http://bits.blogs.nytimes.com/2008/02/20/wikileaks-site-has-a-friend-in-sweden" target="_blank">as reported earlier</a> by the <i>The New York Times</i> Bits blog, is hosted by <a href="http://prq.se/" target="_blank">PRQ</a>, a Sweden-based outfit that provides highly secure, no-questions-asked hosting services to its customers. It has almost no information about its clientele and maintains few if any of its own logs.</p>
+</div>
+
+<p>Oh yeah, PRQ is also run by Gottfrid Svartholm and Fredrik Neij, two of the founders of The Pirate Bay, the BitTorrent tracker site that, as a frequent target of the Hollywood elite, has amassed considerable expertise in withstanding legal attacks from powerful corporate interests.</p>
+
+<p>Not that attorneys from the Julius Baer Bank and Trust, the bank accused of the misdeeds, haven't demanded PRQ disconnect the site.</p>
+
+<p>"We have the usual small army of stupid lawyers that think we will piss our pants because they send us a scary letter," Svartholm said in a telephone interview. "We do employ our own legal staff. We are used to this sort of situation."</p>
+
+<p>Also making a take-down difficult, Wikileaks maintains its own servers at undisclosed locations, keeps no logs and uses military-grade encryption to protect sources and other confidential information, according to an unidentified individual who answered a press inquiry sent to Wikileaks.</p>
+
+<p>"Wikileaks certainly trusts no hosting provider," the person wrote.</p>
+
+<p>There's a name for arrangements such as these. It's called "bulletproof hosting," and it's historically been used to insulate online criminal gangs against take-down efforts by law enforcers or private parties. As Wikileaks has demonstrated, the measure can also be used by those engaging in civil disobedience. Wikileaks uses a different term: "an uncensorable system for untraceable mass document leaking."</p>
+<p id="nextpage">Next page: <a href="page2.html">Farewell Smokestacks</a></p>
+</div>
+<div id="page-nav">
+<h3>Page:</h3>
+<ul>
+<li class="current">1</li>
+<li><a href="page2.html">2</a></li>
+<li><a href="page2.html">Next →</a></li>
+</ul>
+</div>
+<p class="wptl btm"><a href="http://go.theregister.com/tl/385/-1472/an-enterprise-virtualization-primer.pdf?td=wptl385">Free whitepaper – The Register Guide to Enterprise Virtualization</a></p>
+<div class="article-nav" id="article-bottom-nav"><ul><li><a href="http://forums.theregister.co.uk/forum/1/2008/02/21/wikileaks_bulletproof_hosting/" title="View comments on this article"><img src="/Design/graphics/std/comment.png" width="17" height="17" alt=""><span class="number">60</span> comments</a></li></ul></div>
+<div id="related-stories">
+<h3>Related stories</h3>
+<ul class="headline-list">
+<li>
+<a href="/2010/07/19/blogetery_closure/" title="Move shrouded in secrecy">Blog service shut down by order of US law enforcement</a> <small>(19 July 2010)</small>
+</li>
+<li>
+<a href="/2010/04/06/wikileaks_gunfire_video/" title="The pics the Pentagon didn't want you to see">Wikileaks video shows US gunfire on Reuters staff</a> <small>(6 April 2010)</small>
+</li>
+<li>
+<a href="/2010/03/17/bulletproof_hosting_exposed/" title="Zeus botnets' tangled web">Cybercrime's bulletproof hosting exposed</a> <small>(17 March 2010)</small>
+</li>
+<li>
+<a href="/2009/02/20/wikileaks_donor_leak/" title="Hoist by its own leaky petard">Wikileaks publishes secret donor list</a> <small>(20 February 2009)</small>
+</li>
+<li>
+<a href="/2009/01/21/kentucky_land_grab_reversed/" title="Fried chicken state self-corrects">Kentucky reverses 141-site net casino land grab</a> <small>(21 January 2009)</small>
+</li>
+<li>
+<a href="/2008/04/18/pirate_bay_probing_cop_joins_warner_brothers/" title="'Talk about a conflict of interests'">Pirate Bay-probing cop on Warner Brothers payroll</a> <small>(18 April 2008)</small>
+</li>
+<li>
+<a href="/2008/04/17/piratebay_offers_blogs/" title="Vows to protect 'uncomfortable thoughts'">Pirate Bay offers uncensored, ad-backed blog hole</a> <small>(17 April 2008)</small>
+</li>
+<li>
+<a href="/2008/04/08/church_of_scientology_contacts_wikileaks/" title="You say 'Bible.' We say 'Advanced Technology'">Scientology threatens Wikileaks with injunction</a> <small>(8 April 2008)</small>
+</li>
+<li>
+<a href="/2008/04/01/ifpi_wants_damages_from_pirate_bay/" title="'Numbers are pure fantasy'">IFPI demands $2.5m in damages from The Pirate Bay</a> <small>(1 April 2008)</small>
+</li>
+<li>
+<a href="/2008/03/12/wikileaks_scientology_documents/" title="A billion-year commitment">Wikileaks exposes Scientology's zeal to 'clean up rotten spots of society'</a> <small>(12 March 2008)</small>
+</li>
+<li>
+<a href="/2008/03/07/mobitv_threatens_howardforums/" title="A change of heart"><strong class="trailer">Updated</strong> MobiTV backs away from threats to website that posted links to free videos</a> <small>(7 March 2008)</small>
+</li>
+<li>
+<a href="/2008/03/01/wikileaks_judge_reverses/" title="Constitutional concerns">Wikileaks judge reverses takedown order</a> <small>(1 March 2008)</small>
+</li>
+<li>
+<a href="/2008/02/27/microsoft_ip_curriculum_look/" title="Conflict of counterfeit interest"><strong class="trailer">Analysis</strong> Can Microsoft teach tots digital-age virtue?</a> <small>(27 February 2008)</small>
+</li>
+<li>
+<a href="/2008/02/22/servers_q4_07/" title="HP saves the clan">Server vendors fight off doom and gloom in Q4</a> <small>(22 February 2008)</small>
+</li>
+<li>
+<a href="/2008/02/19/wikileaks_shut_down_in_us/" title="Many-headed whistleblower site still standing">US judge arranges summary execution of Wikileaks.org</a> <small>(19 February 2008)</small>
+</li>
+<li>
+<a href="/2008/02/18/finnish_policy_censor_activist/" title="Calls it child porn">Finland censors anti-censorship site</a> <small>(18 February 2008)</small>
+</li>
+<li>
+<a href="/2008/01/29/skype_trojan/" title="We have ways of hearing you talk">Skype Trojan wiretap plan leaks onto the net</a> <small>(29 January 2008)</small>
+</li>
+<li>
+<a href="/2007/11/16/gitmo_manual_leak/" title="Unclassified but embarrassing">US downplays Gitmo manual leak</a> <small>(16 November 2007)</small>
+</li>
+<li>
+<a href="/2007/11/13/rbn_quits_china/" title="Nexus of evil may be broken up">Infamous RBN quits China</a> <small>(13 November 2007)</small>
+</li>
+<li>
+<a href="/2007/11/08/rbn_offline/" title="'Bulletproof' host struck down. For now">Controversial Russian Business Network drops offline</a> <small>(8 November 2007)</small>
+</li>
+<li>
+<a href="/2007/09/12/french_cyberattacks/" title="Chinese whispers"><strong class="trailer">Updated</strong> France blames China for hack attacks</a> <small>(12 September 2007)</small>
+</li>
+</ul>
+</div>
+</div>
+<div id=whitepapers><h3><a href="http://whitepapers.theregister.co.uk/">Whitepapers</a></h3><div class="paper first-row row-start">
+<h4><a href="http://whitepapers.theregister.co.uk/paper/view/1830/paper?td=related"><img src="http://regmedia.co.uk/2010/12/13/1830.png" alt="" width="60" height="60">Google Apps: Motorola Case Study</a></h4>
+<p class="standfirst"><a href="http://whitepapers.theregister.co.uk/paper/view/1830/paper?td=related">Motorola's handset division recently switched from Microsoft Exchange to Google Apps. Watch this video to lean why they switched and the benefits that they have realized.</a></p>
+</div><div class="paper first-row">
+<h4><a href="http://whitepapers.theregister.co.uk/paper/view/1721/raw14223usen?td=related"><img src="http://regmedia.co.uk/2010/10/14/1721.gif" alt="" width="60" height="60">Delivering systems innovation with agility, quality and speed</a></h4>
+<p class="standfirst"><a href="http://whitepapers.theregister.co.uk/paper/view/1721/raw14223usen?td=related">Read this whitepaper from IBM which shows how to deliver systems innovation with agility, quality and speed</a></p>
+</div><div class="paper row-start">
+<h4><a href="http://whitepapers.theregister.co.uk/paper/view/1827/google-apps-datasheet?td=related"><img src="http://regmedia.co.uk/2010/12/13/1827.png" alt="" width="60" height="60">Google Apps for Business : Secure, reliable business applications in the cloud</a></h4>
+<p class="standfirst"><a href="http://whitepapers.theregister.co.uk/paper/view/1827/google-apps-datasheet?td=related">Google Apps is a suite of messaging and collaboration applications that can replace your existing on-premise technology to reduce costs and improve productivity.</a></p>
+</div><div class="paper">
+<h4><a href="http://whitepapers.theregister.co.uk/paper/view/1820/wp-114?td=related"><img src="http://regmedia.co.uk/2010/12/13/1820.png" alt="" width="60" height="60">Implementing Energy Efficient Data Centers</a></h4>
+<p class="standfirst"><a href="http://whitepapers.theregister.co.uk/paper/view/1820/wp-114?td=related">This paper explains how to quantify the electricity savings possible in your data center and provides examples of methods to greatly reduce consumption.</a></p>
+</div><div class="paper row-start last">
+<h4><a href="http://whitepapers.theregister.co.uk/paper/view/1720/raw14223usen?td=related"><img src="http://regmedia.co.uk/2010/10/14/1720.gif" alt="" width="60" height="60">Value-driven quality management for complex systems</a></h4>
+<p class="standfirst"><a href="http://whitepapers.theregister.co.uk/paper/view/1720/raw14223usen?td=related">Read this whitepaper from IBM which outlines six management strategies for reducing cost and risk</a></p>
+</div><div class="search-more"><a href="http://whitepapers.theregister.co.uk">Search more Resources</a></div>
+
+</div>
+</div>
+<div id=right-col>
+
+<script type="text/javascript">if (RegArticle.bms){
+document.write('<div class=ad-now id=ad-mpu1-spot><div id=ad-mpu1>');
+RegAd('mpu1', 'reg.public_sector.4159/law', 'pos=top;sz=336x280', VCs);
+document.write('<\/div><\/div>');
+}</script>
+
+<div id="hot" class="box">
+<h3>Most read</h3>
+<ol class="headline-list">
+<li><a href="/2010/12/10/righthaven_sues_drudge/" title="It's ba-ack">Copyright troll sues for ownership of Drudge Report domain</a></li>
+<li><a href="/2010/12/21/baa_follows_travel_ban_with_news_blackout/" title="Airports not working? We hadn't noticed...">BAA accused of banning passengers from filming travel chaos</a></li>
+<li><a href="/2010/12/16/google_algorithms_are_google_opinions/" title="Mountain View in shock 'opinions drive algorithms' claim">Google drops nuke on 'objective' search engine utopia</a></li>
+<li><a href="/2010/12/10/assange_indictment_soon/" title="'Serious, active' criminal investigation">WikiLeaks' Assange to be indicted for spying 'soon'</a></li>
+<li><a href="/2010/12/14/assange_bail_appeal/" title="Court leaks WikiLeaker">ASSANGE GRANTED BAIL</a></li>
+</ol>
+</div>
+
+
+
+
+<div><script type="text/javascript" src="http://ad.uk.doubleclick.net/adj/reg.misc.4159/textlink;dcove=d;tlid=222964969;sz=1x1;ord=TRgJk8CoAT4AABkIQcgAAAMc?"></script>
+<noscript><a href="http://ad.uk.doubleclick.net/jump/reg.misc.4159/textlink;dcove=d;tlid=222964969;sz=1x1;ord=TRgJk8CoAT4AABkIQcgAAAMc?" target="_blank"><img src="http://ad.uk.doubleclick.net/ad/reg.misc.4159/textlink;dcove=d;tlid=222964969;sz=1x1;ord=TRgJk8CoAT4AABkIQcgAAAMc?" width=336 height=90 alt=""></a></noscript>
+</div>
+
+
+<div class="report promo white translucent">
+<h3><a href="/2010/12/23/lemv_cargo_potential/">US spy airship could haul big cargoes</a></h3>
+<div>
+<a href="/2010/12/23/lemv_cargo_potential/"><img alt="" src="http://regmedia.co.uk/2010/06/22/lemv_sidey.jpg" width=336 height=196></a><p><a href="/2010/12/23/lemv_cargo_potential/">Dirigible dream to come true in 2011?</a></p>
+</div>
+</div>
+
+
+
+<div class="report promo white translucent">
+<h3><a href="/2010/12/22/ice_cube_complete/">Building a 1km ice-cube machine at the south pole stilt-base</a></h3>
+<div>
+<a href="/2010/12/22/ice_cube_complete/"><img alt="" src="http://regmedia.co.uk/2010/12/22/ski_plane_sidey.jpg" width=336 height=223></a><p><a href="/2010/12/22/ice_cube_complete/">Extreme boffinry in the Antarctic</a></p>
+</div>
+</div>
+
+<div class=ad-now id=ad-mpu2-spot>
+<div id=ad-mpu2><script type="text/javascript">RegAd('mpu2', 'reg.public_sector.4159/law', 'pos=btm;sz=336x280,160x600', VCs);</script></div>
+<noscript>
+<a href="http://ad.uk.doubleclick.net/jump/reg.public_sector.4159/law;tile=3;pos=btm;dcove=d;sz=336x280;ord=TRgJk8CoAT4AABkIQcgAAAMc?" target="_blank"><img src="http://ad.uk.doubleclick.net/ad/reg.public_sector.4159/law;tile=3;pos=btm;dcove=d;sz=336x280;ord=TRgJk8CoAT4AABkIQcgAAAMc?" alt=""></a>
+</noscript>
+</div>
+
+
+<div id=sponlinks>
+<h3>Sponsored links</h3>
+<ul>
+<li><a href="http://ad.doubleclick.net/clk;231375033;13533154;r?http://ad-emea.doubleclick.net/clk;231438387;55369037;q">Switch your SSL Certificate to GeoTrust for FREE</a></li>
+<li><a target=_blank href="http://ad.doubleclick.net/clk;232400459;13533154;t?http://www.appro.com/promotion/SC_2010_booth_Invitation_intel.htm">Visit Appro &amp; Intel at SC10 for Supercomputer Technology Demos</a></li>
+</ul>
+
+
+</div>
+
+</div>
+<div id=boot>
+
+<div id=editorial-navigation>
+<h2 class=major>Don’t Miss</h2>
+<ul>
+<li class=first><a href="/odds/about/contact/">Send us News Tips</a></li>
+<li><a href="/week.html">Week’s Headlines</a></li>
+<li><a href="/archive.html">Reg Archive</a></li>
+<li><a href="/popular.html">Top 20 Stories</a></li>
+
+</ul>
+</div>
+
+<script type="text/javascript">RegTopRotInit();RegHotInit()</script>
+
+<div id=trailer>
+<div class=ad-now id=ad-trailerboard-spot>
+<div id=ad-trailerboard><script type="text/javascript">RegAd('trailerboard', 'reg.public_sector.4159/law', 'pos=btm;sz=728x90', VCs);</script></div>
+<noscript>
+<a href="http://ad.uk.doubleclick.net/jump/reg.public_sector.4159/law;tile=4;pos=btm;dcove=d;sz=728x90;ord=TRgJk8CoAT4AABkIQcgAAAMc?" target="_blank"><img src="http://ad.uk.doubleclick.net/ad/reg.public_sector.4159/law;tile=4;pos=btm;dcove=d;sz=728x90;ord=TRgJk8CoAT4AABkIQcgAAAMc?" alt=""></a>
+</noscript>
+</div>
+</div>
+
+
+
+</div>
+</div>
+<ul id=btm-nav>
+<li><a href="http://www.channelregister.co.uk/">Channel Register</a></li>
+<li class=last><a href="http://www.reghardware.com/">Register Hardware</a></li>
+</ul>
+<div id=footer>
+<div>
+<a href="/"> </a>
+<ul>
+<li><a href="/about/company/privacy/">Privacy</a></li>
+<li><a href="http://media.theregister.co.uk/">Advertise with Us</a></li>
+<li class=last><a href="/about/company/">Company Info</a></li>
+</ul>
+<p>© Copyright 1998–2010</p>
+
+</div>
+</div>
+
+
+</div>
+
+
+
+</body>
+</html>

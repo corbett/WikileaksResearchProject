@@ -1,0 +1,1812 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="description" content="Here&amp;#8217;s a list of the big-league damage &amp;#8212; from original Operation Payback and first Anonymous campaigns to the current pro-Wikileaks DDoS a" />
+<meta name="keywords" content="Violet Blue, Tech Broiler, Hour,Downtime,Gawker Media,Scientology,Attack,Anonymous,#Gnosis,Wikileaks,Violet Blue" />
+<meta name="robots" content="index, follow, noodp" />
+<title>The Global Cyber War Hacks and Attacks Scorecard | ZDNet </title>
+<link rel="stylesheet" type="text/css" media="screen" href="http://i.zdnet.com/css/v3/base.css" />
+<link rel="stylesheet" type="text/css" media="screen" href="http://i.zdnet.com/css/v3/talkback.css" />
+<link rel="stylesheet" type="text/css" media="print" href="http://i.zdnet.com/css/v3/print.css" />
+<!--[if IE]><link rel="stylesheet" type="text/css" media="screen" href="http://i.zdnet.com/css/v3/ie.css" /><![endif]-->
+<!--[if lte IE 6]><link rel="stylesheet" type="text/css" media="screen" href="http://i.zdnet.com/css/v3/ie6.css" /><![endif]-->
+
+<link rel="canonical" href="http://www.zdnet.com/blog/perlow/the-global-cyber-war-hacks-and-attacks-scorecard/15192" />
+<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.zdnet.com/blog/perlow/rss" />
+<link rel="image_src" href="http://i.zdnet.com/gallery/480287-130-92.jpg" />
+
+<script type="text/javascript" src="http://dw.com.com/js/dw.js"></script>
+<script type="text/javascript">
+DW.pageParams = {
+    siteid: '2',
+    onid: '17924',
+    ptid: '2100',
+    cid: '194317',
+    asid: '194317',
+    astid: '26',
+    edid: '2',
+    usrAction: '43',
+    ctype: 'zdnet;blog;author;post',
+    cval: 'perlow;Violet+Blue;15192',
+    pguid: 'Ck0N3goPOUcAACTp@OgAAAAQ'
+};
+DW.regSilo = 3;
+</script>
+<script type="text/javascript" src="http://i.zdnet.com/js/mootools-core-more.js"></script>
+<script type="text/javascript" src="http://i.zdnet.com/js/v2/cnb-utils-2.0-min.js"></script>
+<script type="text/javascript" src="http://i.zdnet.com/js/v2/cnb-reg-2.0-min.js"></script>
+<script type="text/javascript" src="http://i.zdnet.com/js/v2/zdnet-features-min.js"></script>
+<script type="text/javascript" src="http://i.zdnet.com/js/v2/talkback-min.js"></script>
+<script type="text/javascript" src="http://i.zdnet.com/js/v2/cnb-toolbar-3.0-min.js"></script>
+<script type="text/javascript">
+CNB.User.extend({
+    isLoggedIn: false,
+    userName: '',
+    regId: ''
+});
+</script>
+<script type="text/javascript">
+CNB.Reg = new CNB.Registration({
+    appId: '187',
+    urlPrefix: '/members/'
+});
+</script>
+    
+         
+<!-- php client madison [r20100514-1345-c13VipDvarTagSvn]: 10.15.4.104 GET /html/BRAND=2/CELT=html/CID=194317/CLIENT:ID=CHEETAH/CNET%2dONTOLOGY%2dNODE%2dID=17924/CNET%2dPAGE%2dGUID=Ck0N3goPOUcAACTp%40OgAAAAQ/DVAR_TAG=Hour%3BDowntime%3BGawker+Media%3BScientology%3BAttack/DVAR_FIRSTPAGE=1/HTTP_HOST=www.zdnet.com/HUB=cn/NCAT=6037%3A17924%3A/POS=100/PTYPE=2100/REMOTE_ADDR=89.206.68.19/SITE=2/SP=80/UA=Wget%2F1.12+%28darwin10.3.1%29 HTTP/1.0 --><!--NO AD TEXT:--><!-- default ad --><img src="http://adlog.com.com/adlog/i/r=7005&amp;sg=1815&amp;o=6037%253A17924%253A&amp;h=cn&amp;p=&amp;b=2&amp;l=&amp;site=2&amp;pt=2100&amp;nd=17924&amp;pid=&amp;cid=194317&amp;pp=100&amp;e=&amp;rqid=00c17-ad-e3:4D17856D427698&amp;orh=&amp;ort=&amp;oepartner=&amp;epartner=&amp;ppartner=&amp;pdom=&amp;cpnmodule=&amp;count=&amp;ra=89.206.68.19&amp;dvar=dvar_tag%253DHour%253BDowntime%253BGawker%2BMedia%253BScientology%253BAttack%2523dvar_firstpage%253D1&amp;ucat_rsi=%2526&amp;pg=Ck0N3goPOUcAACTp@OgAAAAQ&amp;t=2010.12.26.22.50.04/http://i.i.com.com/cnwk.1d/Ads/common/dotclear.gif" HEIGHT="0" WIDTH="0" alt="" style="position:absolute; top:0px; left:0px" /><script type='text/javascript'>document.cookie='MAD_FIRSTPAGE=1;path=/;domain=zdnet.com';</script><!-- Cheetah T 0.3.3.5 -->      
+
+</head>
+<body>
+<div id="header">
+    <div id="header-pri" class="contain-24 clear">
+       
+ 		<div class="area-4">
+            <a href="/" class="site-logo">ZDNet</a>
+        </div><!-- /area-4 -->
+
+        <div class="area-20 area-last">
+            <div class="lvl-search clear">
+            
+<div class="site-search" id="site-search-upper">
+    <form action="/search">
+        <div class="int clear">
+            <input type="text" value="" class="query" name="q" placeholder="Search" />
+            <button type="submit" class="btn btn-search">Search</button>
+        </div><!-- /clear -->
+    </form>
+    <div class="overlay-search">
+        <ul class="options list-3 fancy">
+            <li><a class="on" section="all">All of ZDNet</a></li>
+            <li><a section="reviews">Reviews</a></li>
+            <li><a section="whitepapers">Whitepapers</a></li>
+            <li><a section="downloads">Downloads</a></li>
+        </ul>
+    </div>
+</div><!-- /site-search -->
+
+<script type="text/javascript">
+(function() {
+    var search = new CNB.SearchSection('site-search-upper').load();
+})();
+</script>
+ 
+            </div><!-- /lvl-search -->
+            
+            <div class="lvl-nav clear">
+            	<ul class="nav-pri clear">
+                    <li><a class="home" href="/">Home</a></li>
+                    <li class="on"><a href="/news">News &amp; Blogs</a></li>
+                    <li><a href="/reviews">Reviews</a></li>
+                    <li><a href="http://downloads.zdnet.com">Downloads</a></li>
+                    <li><a href="http://whitepapers.zdnet.com">White Papers </a></li>
+                </ul>
+
+                <div class="site-utils fancy s-10 clear">
+    <span class="reg-is-logged-in hide">
+        <a href="/members/logout" rel="nofollow" onclick="CNB.Reg.logout({},event)">Log Out</a> |
+        <a href="/members/manage" rel="nofollow" onclick="CNB.Reg.manage({},event)">Manage</a> |
+    </span><!-- /reg-logged-in -->
+
+    <span class="reg-is-logged-out">
+        <a href="/members/login" rel="nofollow" onclick="CNB.Reg.login({regSrc:'zd-header'},event)">Log In</a> |
+        <a href="/members/join" rel="nofollow" onclick="CNB.Reg.join({regSrc:'zd-header'},event)">Join</a> |
+    </span><!-- /reg-logged-out -->
+    <a href="http://zdnet.custhelp.com/" rel="nofollow">Site Assistance</a> |
+    <span class="follow">
+        Follow via
+        <a href="http://twitter.com/zdnet" class="icon-cont twitter" rel="nofollow" title="Twitter">Twitter</a>
+        <a href="http://www.facebook.com/pages/ZDNet/5953112932" class="icon-cont facebook" rel="nofollow" title="Facebook">Facebook</a>
+        <a href='http://nl.zdnet.com/acct_mgmt.sc?brand=zdnet' class="icon-cont alert" rel="nofollow" title="Email">Email</a>
+    </span><!-- /follow -->
+</div><!-- /site-utils -->
+
+
+
+            </div><!-- /lvl-nav -->
+        </div><!-- /area-10 -->
+    </div><!-- /header-pri -->
+
+    <div id="header-sec" class="contain-24 clear">
+        <div class="area-4">
+            <div class="geo-loc clear">
+                <div class="int">US Edition</div>
+            </div><!-- /geo-loc -->
+
+            <div class="overlay-global">
+                <div class="int">
+                    <h6 class="h s-8">ZDNet is available in the following editions:</h6>
+                    <ul class="options s-8">
+                        <li><a href="http://www.zdnet.com.au/" rel="nofollow">Australia</a></li>
+                        <li><a href="http://www.zdnetasia.com" rel="nofollow">Asia</a></li>
+                        <li><a href="http://www.zdnet.com.cn" rel="nofollow">China</a></li>
+                        <li><a href="http://www.zdnet.fr" rel="nofollow">France</a></li>
+                        <li><a href="http://www.zdnet.de" rel="nofollow">Germany</a></li>
+                        <li><a href="http://japan.zdnet.com/" rel="nofollow">Japan</a></li>
+                        <li><a href="http://www.zdnet.co.uk" rel="nofollow">United Kingdom</a></li>
+                    </ul>
+                </div>
+            </div><!-- /overlay-global -->
+
+        </div><!-- /area-4 -->
+
+        <div class="area-20 area-last">
+    <ul class="nav-sec clear">
+                    <li><a>Companies</a></li>
+                <li><a>Hardware</a></li>
+                <li><a>Software</a></li>
+                <li><a>Mobile</a></li>
+                <li><a>Security</a></li>
+                <li><a>Research</a></li>
+                        <li><a>Special Coverage</a></li>
+        </ul>
+
+<div class="overlay-pop contain-overlay-8 glass-2">
+    <div class="overlay-int clear">
+                            <div class="area-4">
+            <ul class="list-2 list-bdr">
+                                                                                                        <li><a href="http://www.zdnet.com/topics/amazon.com+inc.">Amazon</a></li>
+                                                                                                            <li><a href="http://www.zdnet.com/topics/apple+inc.">Apple</a></li>
+                                                                                                            <li><a href="http://www.zdnet.com/topics/at%26t+corp.">AT&T</a></li>
+                                                                                                            <li><a href="http://www.zdnet.com/topics/cisco+systems+inc.">Cisco</a></li>
+                                                                                                            <li><a href="http://www.zdnet.com/topics/dell+computer+corp.">Dell</a></li>
+                                                                                                            <li><a href="http://www.zdnet.com/topics/emc+corp.">EMC</a></li>
+                                                                                                            <li><a href="http://www.zdnet.com/topics/google+inc.">Google</a></li>
+                                                                                                            <li><a href="http://www.zdnet.com/topics/hewlett-packard+co.">Hewlett-Packard</a></li>
+                                    </ul>
+        </div><!-- /area -->
+        <div class="area-4 area-last">
+            <ul class="list-2 list-bdr">
+                                                                                            <li><a href="http://www.zdnet.com/topics/ibm+corp.">IBM</a></li>
+                                                                                                            <li><a href="http://www.zdnet.com/topics/intel+corp.">Intel</a></li>
+                                                                                                            <li><a href="http://www.zdnet.com/topics/microsoft+corp.">Microsoft</a></li>
+                                                                                                            <li><a href="http://www.zdnet.com/topics/oracle+corp.">Oracle</a></li>
+                                                                                                            <li><a href="http://www.zdnet.com/topics/rim+blackberry">Research in Motion</a></li>
+                                                                                                            <li><a href="http://www.zdnet.com/topics/salesforce.com+inc.">salesforce.com</a></li>
+                                                                                                            <li><a href="http://www.zdnet.com/topics/sap+ag">SAP</a></li>
+                                                                                                            <li><a href="http://www.zdnet.com/topics/verizon+communications+inc.">Verizon</a></li>
+                                        </ul><!-- /list-2 -->
+        </div><!-- /area-4 -->
+        </div><!-- /int -->
+</div><!-- /overlay -->
+<div class="overlay-pop contain-overlay-8 glass-2">
+    <div class="overlay-int clear">
+                            <div class="area-4">
+            <ul class="list-2 list-bdr">
+                                                                                                                        <li><a href="http://www.zdnet.com/topics/data+center">Data center</a></li>
+                                                                                                                            <li><a href="http://www.zdnet.com/topics/green+technology">Green Tech</a></li>
+                                                                                                                            <li><a href="http://www.zdnet.com/topics/ipad">iPad</a></li>
+                                                                                                                            <li><a href="http://www.zdnet.com/topics/laptop+computer">Laptops</a></li>
+                                                                                                                            <li><a href="http://www.zdnet.com/topics/networking">Networking</a></li>
+                                    </ul>
+        </div><!-- /area -->
+        <div class="area-4 area-last">
+            <ul class="list-2 list-bdr">
+                                                                                                            <li><a href="http://www.zdnet.com/topics/printers">Printers</a></li>
+                                                                                                                            <li><a href="http://www.zdnet.com/topics/processors">Processors</a></li>
+                                                                                                                            <li><a href="http://www.zdnet.com/topics/servers">Servers</a></li>
+                                                                                                                            <li><a href="http://www.zdnet.com/topics/storage">Storage</a></li>
+                                        </ul><!-- /list-2 -->
+        </div><!-- /area-4 -->
+        </div><!-- /int -->
+</div><!-- /overlay -->
+<div class="overlay-pop contain-overlay-8 glass-2">
+    <div class="overlay-int clear">
+                            <div class="area-4">
+            <ul class="list-2 list-bdr">
+                                                                                                                        <li><a href="http://www.zdnet.com/topics/cloud+computing">Cloud computing</a></li>
+                                                                                                                            <li><a href="http://www.zdnet.com/topics/collaboration">Collaboration</a></li>
+                                                                                                                            <li><a href="http://www.zdnet.com/topics/databases">Databases</a></li>
+                                                                                                                            <li><a href="http://www.zdnet.com/topics/enterprise+2.0">Enterprise 2.0</a></li>
+                                                                                                                            <li><a href="http://www.zdnet.com/topics/enterprise+software">Enterprise software</a></li>
+                                                                                                                            <li><a href="http://www.zdnet.com/topics/linux">Linux</a></li>
+                                    </ul>
+        </div><!-- /area -->
+        <div class="area-4 area-last">
+            <ul class="list-2 list-bdr">
+                                                                                                            <li><a href="http://www.zdnet.com/topics/microsoft+office">Microsoft Office</a></li>
+                                                                                                                            <li><a href="http://www.zdnet.com/topics/open+source">Open source</a></li>
+                                                                                                                            <li><a href="http://www.zdnet.com/topics/software+as+a+service+%28saas%29">Software as a Service</a></li>
+                                                                                                                            <li><a href="http://www.zdnet.com/topics/virtualization">Virtualization</a></li>
+                                                                                                                            <li><a href="http://www.zdnet.com/topics/web+browsers">Web browsers</a></li>
+                                                                                                                            <li><a href="http://www.zdnet.com/topics/microsoft+windows+7">Microsoft Windows 7</a></li>
+                                        </ul><!-- /list-2 -->
+        </div><!-- /area-4 -->
+        </div><!-- /int -->
+</div><!-- /overlay -->
+<div class="overlay-pop contain-overlay-8 glass-2">
+    <div class="overlay-int clear">
+                            <div class="area-4">
+            <ul class="list-2 list-bdr">
+                                                                                                                        <li><a href="http://www.zdnet.com/topics/4g">4G</a></li>
+                                                                                                                            <li><a href="http://www.zdnet.com/topics/apple+iphone">iPhone</a></li>
+                                                                                                                            <li><a href="http://www.zdnet.com/topics/android">Android</a></li>
+                                    </ul>
+        </div><!-- /area -->
+        <div class="area-4 area-last">
+            <ul class="list-2 list-bdr">
+                                                                                            <li><a href="http://www.zdnet.com/topics/rim+blackberry?tag=related-topics">BlackBerry</a></li>
+                                                                                                                            <li><a href="http://www.zdnet.com/topics/smart+phones">Smart phones</a></li>
+                                                                                                            <li><a href="http://www.zdnet.com/topics/microsoft+windows+phone+7">Windows Phone 7</a></li>
+                                        </ul><!-- /list-2 -->
+        </div><!-- /area-4 -->
+        </div><!-- /int -->
+</div><!-- /overlay -->
+<div class="overlay-pop contain-overlay-8 glass-2">
+    <div class="overlay-int clear">
+                            <div class="area-4">
+            <ul class="list-2 list-bdr">
+                                                                                                                        <li><a href="http://www.zdnet.com/topics/malware">Malware</a></li>
+                                                                                                            <li><a href="http://www.zdnet.com/search?q=patches">Patches</a></li>
+                                                                                                                            <li><a href="http://www.zdnet.com/topics/vulnerability">Vulnerabilities</a></li>
+                                    </ul>
+        </div><!-- /area -->
+        <div class="area-4 area-last">
+            <ul class="list-2 list-bdr">
+                                                                                            <li><a href="http://www.zdnet.com/topics/mcafee+inc.">McAfee</a></li>
+                                                                                                            <li><a href="http://www.zdnet.com/search?q=symantec">Symantec</a></li>
+                                                                                                            <li><a href="http://www.zdnet.com/blog/security?tag=mantle_skin;content">Zero Day Blog</a></li>
+                                        </ul><!-- /list-2 -->
+        </div><!-- /area-4 -->
+        </div><!-- /int -->
+</div><!-- /overlay -->
+<div class="overlay-pop contain-overlay-8 glass-2">
+    <div class="overlay-int clear">
+                            <div class="area-4">
+            <ul class="list-2 list-bdr">
+                                                                                                        <li><a href="http://www.zdnet.com/blog/forrester">Forrester</a></li>
+                                                                                                            <li><a href="http://www.zdnet.com/photos">Galleries</a></li>
+                                                                                                            <li><a href="http://www.zdnet.com/blog/projectfailures">IT Failures</a></li>
+                                                                                                            <li><a href="http://techrepublic.com.com/">TechRepublic Pro</a></li>
+                                                                                                            <li><a href="http://review.zdnet.com/">Reviews</a></li>
+                                    </ul>
+        </div><!-- /area -->
+        <div class="area-4 area-last">
+            <ul class="list-2 list-bdr">
+                                                                                            <li><a href="http://whitepapers.zdnet.com/">White Papers</a></li>
+                                                                                                            <li><a href="http://www.zdnet.com/videos"><b>Videos</b></a></li>
+                                                                                                            <li><a href="http://www.zdnet.com/podcasts">Podcasts</a></li>
+                                                                                                                                                                                                </ul><!-- /list-2 -->
+        </div><!-- /area-4 -->
+        </div><!-- /int -->
+</div><!-- /overlay -->
+
+<div class="overlay-pop contain-overlay-12 glass-2">
+    <div class="overlay-int clear">
+        <div class="area-8">
+            <h3 class="h s-7 c-1 fancy">Special Reports</h3>
+            <ul class="river-2 river-bdr">
+                                                    <li class="pad-2">
+                    <h6 class="h s-5"><a href="http://www.zdnet.com/technology-year-in-review">The Year in Review</a></h6>
+                    <p>2010 started with a bang, as Apple introduced its "iPod touch on steroids" -- the iPad.</p>
+                    <div class="thumb thumb-2"><a href="http://www.zdnet.com/technology-year-in-review"><span class="mask mask-7x5-60"><img src="http://i.zdnet.com/gallery/490149-84-42.jpg" width="84" height="42" alt="The Year in Review" /></span></a></div>
+                </li>
+                                                    <li class="pad-2">
+                    <h6 class="h s-5"><a href="http://www.zdnet.com/ces">Consumer Electronics Show 2011</a></h6>
+                    <p>The 2011 International Consumer Electronics Show, the world's largest consumer technology...</p>
+                    <div class="thumb thumb-2"><a href="http://www.zdnet.com/ces"><span class="mask mask-7x5-60"><img src="http://i.zdnet.com/gallery/488802-84-42.jpg" width="84" height="42" alt="Consumer Electronics Show 2011" /></span></a></div>
+                </li>
+                                                    <li class="pad-2">
+                    <h6 class="h s-5"><a href="http://www.zdnet.com/holiday-gift-guide">Holiday Tech Gift Guide</a></h6>
+                    <p>Gadget gift ideas and picks by the ZDNet Reviews experts you trust. Includes laptops, desktops,...</p>
+                    <div class="thumb thumb-2"><a href="http://www.zdnet.com/holiday-gift-guide"><span class="mask mask-7x5-60"><img src="http://i.zdnet.com/gallery/475259-61-42.jpg" width="61" height="42" alt="Holiday Tech Gift Guide" /></span></a></div>
+                </li>
+                                                    <li class="pad-2">
+                    <h6 class="h s-5"><a href="http://www.zdnet.com/topics/microsoft+windows+7">Microsoft Windows 7</a></h6>
+                    <p>Microsoft's Windows 7 arrived in late 2009 and kicked off a PC upgrade cycle that's expected to...</p>
+                    <div class="thumb thumb-2"><a href="http://www.zdnet.com/topics/microsoft+windows+7"><span class="mask mask-7x5-60"><img src="http://i.zdnet.com/gallery/413274-104-42.jpg" width="104" height="42" alt="Microsoft Windows 7" /></span></a></div>
+                </li>
+                        </ul>
+        </div><!-- /area-8 -->
+
+                <div class="area-4 area-last">
+            <h3 class="h s-7 c-1 fancy">Hot Topics</h3>
+            <ul class="list-2 list-bdr">
+                            <li><a href="http://www.zdnet.com/topics/microsoft+windows+phone+7">Microsoft Windows Phone 7</a></li>
+                            <li><a href="http://www.zdnet.com/topics/net+neutrality">Net Neutrality</a></li>
+                            <li><a href="http://www.zdnet.com/topics/rim+blackberry">RIM BlackBerry</a></li>
+                            <li><a href="http://www.zdnet.com/topics/apple+ipad">Apple iPad</a></li>
+                            <li><a href="http://www.zdnet.com/topics/apple+iphone">Apple iPhone</a></li>
+                            <li><a href="http://www.zdnet.com/topics/enterprise+2.0">Enterprise 2.0</a></li>
+                            <li><a href="http://www.zdnet.com/topics/microsoft+office">Microsoft Office</a></li>
+                            <li><a href="http://www.zdnet.com/topics/green+tech">Green tech</a></li>
+                        </ul>
+        </div>
+            </div><!-- /int -->
+</div><!-- /overlay -->
+
+</div><!-- /area-20 -->
+        
+    </div><!-- /header-sec -->    
+</div><!-- /header -->
+
+<script type="text/javascript">
+    CNB.initNavOverlay();
+</script>
+
+
+<div id="trunk">
+<div id="mantle_skin">
+    
+<!-- php client madison [r20100514-1345-c13VipDvarTagSvn]: 10.15.4.104 GET /html/BRAND=2/CELT=html/CID=194317/CLIENT:ID=CHEETAH/CNET%2dONTOLOGY%2dNODE%2dID=17924/CNET%2dPAGE%2dGUID=Ck0N3goPOUcAACTp%40OgAAAAQ/DVAR_TAG=Hour%3BDowntime%3BGawker+Media%3BScientology%3BAttack/DVAR_FIRSTPAGE=1/HTTP_HOST=www.zdnet.com/HUB=cn/NCAT=6037%3A17924%3A/POS=100/PTYPE=2100/REMOTE_ADDR=89.206.68.19/SITE=2/SP=190/UA=Wget%2F1.12+%28darwin10.3.1%29 HTTP/1.0 --><!--NO AD TEXT:COULD NOT MAP ( _MAPPINGS=&#39;ZDNET&#39; BRAND=&#39;2&#39; SITE=&#39;2&#39; SP=&#39;190&#39; CNET-PTYPE=&#39;00&#39; POS=&#39;100&#39; NCAT=&#39;6037:17924:&#39; CNET-PARTNER-ID=&#39;&#39; ) TO _RGROUP--><!-- Cheetah T 0.4.5.5 -->    
+<!-- php client madison [r20100514-1345-c13VipDvarTagSvn]: 10.15.4.104 GET /html/BRAND=2/CELT=html/CID=194317/CLIENT:ID=CHEETAH/CNET%2dONTOLOGY%2dNODE%2dID=17924/CNET%2dPAGE%2dGUID=Ck0N3goPOUcAACTp%40OgAAAAQ/DVAR_TAG=Hour%3BDowntime%3BGawker+Media%3BScientology%3BAttack/DVAR_FIRSTPAGE=1/HTTP_HOST=www.zdnet.com/HUB=cn/NCAT=6037%3A17924%3A/POS=100/PTYPE=2100/REMOTE_ADDR=89.206.68.19/SITE=2/SP=15/UA=Wget%2F1.12+%28darwin10.3.1%29 HTTP/1.0 --><!--NO AD TEXT:--><!-- default ad --><img src="http://adlog.com.com/adlog/i/r=8071&amp;sg=1815&amp;o=6037%253A17924%253A&amp;h=cn&amp;p=&amp;b=2&amp;l=&amp;site=2&amp;pt=2100&amp;nd=17924&amp;pid=&amp;cid=194317&amp;pp=100&amp;e=&amp;rqid=00c13-ad-e3:4D1741EA815174&amp;orh=&amp;ort=&amp;oepartner=&amp;epartner=&amp;ppartner=&amp;pdom=&amp;cpnmodule=&amp;count=&amp;ra=89.206.68.19&amp;dvar=dvar_tag%253DHour%253BDowntime%253BGawker%2BMedia%253BScientology%253BAttack%2523dvar_firstpage%253D1&amp;ucat_rsi=%2526&amp;pg=Ck0N3goPOUcAACTp@OgAAAAQ&amp;t=2010.12.26.22.50.04/http://i.i.com.com/cnwk.1d/Ads/common/dotclear.gif" HEIGHT="0" WIDTH="0" alt="" style="position:absolute; top:0px; left:0px" /><!-- Cheetah T 0.4.5.6 -->    
+<!-- php client madison [r20100514-1345-c13VipDvarTagSvn]: 10.15.4.104 GET /html/BRAND=2/CELT=html/CID=194317/CLIENT:ID=CHEETAH/CNET%2dONTOLOGY%2dNODE%2dID=17924/CNET%2dPAGE%2dGUID=Ck0N3goPOUcAACTp%40OgAAAAQ/DVAR_TAG=Hour%3BDowntime%3BGawker+Media%3BScientology%3BAttack/DVAR_FIRSTPAGE=1/HTTP_HOST=www.zdnet.com/HUB=cn/NCAT=6037%3A17924%3A/POS=100/PTYPE=2100/REMOTE_ADDR=89.206.68.19/SITE=2/SP=205/UA=Wget%2F1.12+%28darwin10.3.1%29 HTTP/1.0 --><!--NO AD TEXT:COULD NOT MAP ( _MAPPINGS=&#39;ZDNET&#39; BRAND=&#39;2&#39; SITE=&#39;2&#39; SP=&#39;205&#39; CNET-PTYPE=&#39;00&#39; POS=&#39;100&#39; NCAT=&#39;6037:17924:&#39; CNET-PARTNER-ID=&#39;&#39; ) TO _RGROUP--><!-- Cheetah T 0.4.5.5 -->
+<div id="content" class="contain contain-24 clear ">
+
+
+
+<div class="area-16">
+    <div class="pull-2 raise-2">
+        
+<div class="post-header">
+    <div class="int clear" style="background-image:url(http://i.zdnet.com/gallery/480288-180-100.png);">
+        <div class="area-9">
+            <div class="hed hed-2">
+                                <h2 class="h c-4 s-2"><a href="/blog/perlow">Tech Broiler</a></h2>
+                                                <span class="sub-hed fancy c-4">Jason Perlow, Scott Raymond & Violet Blue</span>
+                            </div><!-- /hed-2 -->
+        </div><!-- /area-4 -->
+
+        <div class="area-3 area-last">
+            <ul class="utils list-3 s-10">
+                <li><a class="icon-2-a i-mobile-2" href="http://m.zdnet.com/blog/perlow">Mobile</a></li>
+                <li><a class="icon-2-a i-rss-2" href="http://www.zdnet.com/blog/perlow/rss" rel="nofollow">RSS</a></li>
+                <li><a class="icon-2-a i-mail-2" href="http://whitepapers.zdnet.com/alertform.aspx?url=http%3A%2F%2Fwww.zdnet.com%2Fblog%2Fperlow%2Frss&title=Tech+Broiler+on+ZDNet&source=http%3A%2F%2Fwww.zdnet.com%2Fblog%2Fperlow%2Fthe-global-cyber-war-hacks-and-attacks-scorecard%2F15192&frequency=weekly" rel="nofollow">Email Alerts</a></li>
+            </ul><!-- /list-3 -->
+        </div><!-- /area-2 -->
+    </div><!-- /int -->
+</div><!-- /post-header -->
+
+        <div id="toolbar-194317" class="view-5 toolbar-1">
+    <div class="int">
+        <ul class="options clear">
+            <li class="t-comments"><a href="#comments">
+                <span class="count t-comment-count"></span>
+                <span class="suffix">Comments</span>
+            </a></li>
+            <li class="t-share"><a>Share</a></li>
+                                          <li class="t-print"><a toolaction="print">Print</a></li>
+                                <li class="t-facebook"><a shareaction="facebook">Facebook</a></li>
+                                <li class="t-twitter"><a shareaction="twitter">Twitter</a></li>
+                      <li class="t-vote">
+                                <span class="t-vote-options">
+                    <a class="t-vote-plus" voteaction="vote-plus">Recommend</a>
+                                </span><!-- /t-vote-options -->
+                <span class="t-vote-score">
+                    <span class="count t-vote-count"></span>
+                    <span class="suffix t-vote-suffix"></span>
+                </span>
+            </li>
+        </ul>
+    </div><!-- /int -->
+
+    <div class="t-share-overlay overlay-pop contain-overlay-4">
+        <div class="overlay-int clear">
+            <ul class="share-options list-bdr">
+                <li class="t-buzz"><a shareaction="buzz">Yahoo Buzz</a></li>
+                <li class="t-digg"><a shareaction="digg">Digg</a></li>
+                <li class="t-email"><a shareaction="email">Email</a></li>
+                <li class="t-facebook"><a shareaction="facebook">Facebook</a></li>
+                <li class="t-twitter"><a shareaction="twitter">Twitter</a></li>
+                <li class="t-stumbleupon"><a shareaction="stumbleupon">StumbleUpon</a></li>
+                <li class="t-reddit"><a shareaction="reddit">Reddit</a></li>
+            </ul>
+        </div>
+    </div><!-- /overlay -->
+</div><!-- /toolbar -->
+
+<script type="text/javascript">
+(function() {
+    var toolbar = new CNB.Toolbar('toolbar-194317', {
+        'cid': '194317',
+        'serviceCid': 'perlow_15192',
+        'title': 'The Global Cyber War Hacks and Attacks Scorecard',
+        'summary': 'Here&rsquo;s a list of the big-league damage &mdash; from original Operation Payback and first Anonymous campaigns to the current pro-Wikileaks DDoS attacks.',
+        'url': 'http://www.zdnet.com/blog/perlow/the-global-cyber-war-hacks-and-attacks-scorecard/15192',
+        'contentType': 'Blog posts',
+        'serviceUrl': '/toolbar-service',
+        'hasVoted': false
+    }).load();
+})();
+</script>
+
+    </div><!-- /pull -->
+
+    <div class="breadcrumb">
+  <a href="/">Home</a> /
+              <a href="/news">News &amp; Blogs</a> /                  <a href="/blog/perlow">Tech Broiler</a>      </div><!-- /breadcrumb -->
+
+    <h1 class="h s-1">The Global Cyber War Hacks and Attacks Scorecard</h1>
+    <p class="meta s-10">By Violet Blue | December 13, 2010, 6:28am PST</p>
+    <div class="clear">         
+        <div class="area-4">
+            <div class="space-2">
+                <div class="hed hed-1">
+                    <h4 class="h s-4 c-1"><span class="int">Summary</span></h4>
+                </div><!-- /hed-1 -->
+            
+                <div class="content fancy c-2">
+                <p>Here&#8217;s a list of the big-league damage &#8212; from original Operation Payback and first Anonymous campaigns to the current pro-Wikileaks DDoS attacks.</p>                </div><!-- /content -->
+            </div><!-- /space-2 -->
+        
+            <div class="space-2">
+                <div class="hed hed-1">
+                    <h4 class="h s-6"><span class="int">Topics</span></h4>
+                </div><!-- /hed-1 -->
+            
+                <div class="content s-10" id="post-tags">
+                <div class="cnb-tags " visible="5">
+    <a href="/topics/hour">Hour</a>,    <a href="/topics/downtime">Downtime</a>,    <a href="/topics/gawker+media">Gawker Media</a>,    <a href="/topics/scientology">Scientology</a>,    <a href="/topics/attack">Attack</a>,    <a href="/topics/anonymous">Anonymous</a>,    <a href="/topics/%23gnosis">#Gnosis</a>,    <a href="/topics/wikileaks">Wikileaks</a>,    <a href="/topics/violet+blue">Violet Blue</a></div><!-- /tags -->
+                </div><!-- /content -->
+
+                <script type="text/javascript">
+                (function() {
+                    var tags = new CNB.TagsMore($$('#post-tags .cnb-tags'),{'visibleCount': 10});
+                })();
+                </script>
+            </div><!-- /space-2 -->
+
+            <div class="space-2" id="blog-author-info">
+    <div class="hed hed-1">
+        <h4 class="h s-6"><span class="int">Blogger Info</span></h4>
+    </div><!-- /hed -->
+
+                        
+        <div class="space-1 content-2">
+        <h6 class="h s-8">Jason Perlow</h6>
+        <ul class="list-4 s-10 clear">
+                        <li><a class="icon-2-a i-bio-2" onclick="CNB.Overlay.load({contentId:'bio-perlow'})">Bio</a></li>
+                                    <li><a class="icon-2-a i-mail-2" onclick="CNB.Overlay.loadEmail({url: '/email-form?lookupKey=blogAuthor&lookupValue=Jason+Perlow&title=Jason+Perlow'})">Contact</a></li>
+                    </ul>
+                <div class="hide" id="bio-perlow">
+            <div class="hed hed-1 space-1">
+                <h3 class="h s-5 c-1"><span class="int">Biography</span></h3>
+            </div><!-- /hed -->
+
+            <h4 class="h s-4">Jason Perlow</h4>
+            <div class="content-1 clear">
+                                <div class="thumb-2 left"><img src="http://i.zdnet.com/gallery/413189-60-42.jpg" width="60" height="44" alt="Jason Perlow" /></div>
+                                Jason Perlow is a technologist with over two decades of experience with integrating large heterogeneous multi-vendor computing environments in Fortune 500 companies. A long-time computer enthusiast starting the age of 13 with his first Apple ][ personal computer, he began his freelance writing career starting at ZD Sm@rt Reseller in 1996 and has since authored numerous guest columns for ZDNet Enterprise and Ziff-Davis Internet.  Jason was previously Senior Technology Editor for Linux Magazine, where he wrote about Open Source issues from 1999 to 2008. </p>
+<p>
+In his spare time, Jason is an avid amateur chef and food writer, where his work reviewing New Jersey restaurants has appeared in The New York Times. He is also the founder of the popular food web site eGullet and blogs about restaurants and cooking at OffTheBroiler.com.</p>            </div>
+        </div><!-- /hide -->
+            </div><!-- /space-1 -->
+                            
+        <div class="space-1 content-2">
+        <h6 class="h s-8">Scott Raymond</h6>
+        <ul class="list-4 s-10 clear">
+                        <li><a class="icon-2-a i-bio-2" onclick="CNB.Overlay.load({contentId:'bio-raymond'})">Bio</a></li>
+                                    <li><a class="icon-2-a i-mail-2" onclick="CNB.Overlay.loadEmail({url: '/email-form?lookupKey=blogAuthor&lookupValue=Scott+Raymond&title=Scott+Raymond'})">Contact</a></li>
+                    </ul>
+                <div class="hide" id="bio-raymond">
+            <div class="hed hed-1 space-1">
+                <h3 class="h s-5 c-1"><span class="int">Biography</span></h3>
+            </div><!-- /hed -->
+
+            <h4 class="h s-4">Scott Raymond</h4>
+            <div class="content-1 clear">
+                                <div class="thumb-2 left"><img src="http://i.zdnet.com/gallery/440342-60-42.jpg" width="60" height="44" alt="Scott Raymond" /></div>
+                                Scott Raymond has been a technologist and system administrator for over 20 years. Starting as a hobbyist in his teens, Scott quickly learned that he could translate his passion and knowledge into a full-time career. He currently works as the lead systems administrator for a neuroscience marketing company. He has written technology articles for various publications in the past and began contributing to ZDnet as a guest blogger on Jason Perlow’s Tech Broiler. Scott and Jason met in New York in the 1990s where they co-managed the New York City Palm Pilot Users’ Group with Scott’s wife Rachel.</p>
+<p>
+ 
+In his spare time, Scott is a trained chef and avid bicycling enthusiast, as well as a voracious reader of historical, science and horror fiction. He is a huge fan of pop culture, with a wide range of interest in TV shows, movies and games.            </div>
+        </div><!-- /hide -->
+            </div><!-- /space-1 -->
+                            
+        <div class="space-1 content-2">
+        <h6 class="h s-8">Violet Blue</h6>
+        <ul class="list-4 s-10 clear">
+                        <li><a class="icon-2-a i-bio-2" onclick="CNB.Overlay.load({contentId:'bio-blue'})">Bio</a></li>
+                                    <li><a class="icon-2-a i-mail-2" onclick="CNB.Overlay.loadEmail({url: '/email-form?lookupKey=blogAuthor&lookupValue=Violet+Blue&title=Violet+Blue'})">Contact</a></li>
+                    </ul>
+                <div class="hide" id="bio-blue">
+            <div class="hed hed-1 space-1">
+                <h3 class="h s-5 c-1"><span class="int">Biography</span></h3>
+            </div><!-- /hed -->
+
+            <h4 class="h s-4">Violet Blue</h4>
+            <div class="content-1 clear">
+                                <div class="thumb-2 left"><img src="http://i.zdnet.com/gallery/480284-60-42.jpg" width="60" height="44" alt="Violet Blue" /></div>
+                                Violet Blue (tinynibbles.com, @violetblue) is a Forbes Web Celeb, SF Appeal contributor, a high-profile tech personality and one of Wired's Faces of Innovation. She is regarded as the foremost expert in the field of sex and technology, a sex-positive pundit in mainstream media (MacLife, Forbes.com, The Oprah Winfrey Show, others) and is regularly interviewed, quoted and featured prominently by major media outlets (from ABC News to the Wall Street Journal). A published feature writer and columnist, Violet also has many award-winning, best-selling books; her books are featured on Oprah's website. She was the notorious sex columnist for the San Francisco Chronicle. She headlines at conferences ranging from ETech, LeWeb and SXSW: Interactive, to Google Tech Talks at Google, Inc. The London Times named Blue one of the 40 bloggers who really count.            </div>
+        </div><!-- /hide -->
+            </div><!-- /space-1 -->
+        </div><!-- /space -->
+
+			
+			
+<!-- php client madison [r20100514-1345-c13VipDvarTagSvn]: 10.15.4.104 GET /html/BRAND=2/CELT=html/CID=194317/CLIENT:ID=CHEETAH/CNET%2dONTOLOGY%2dNODE%2dID=17924/CNET%2dPAGE%2dGUID=Ck0N3goPOUcAACTp%40OgAAAAQ/DVAR_TAG=Hour%3BDowntime%3BGawker+Media%3BScientology%3BAttack/DVAR_FIRSTPAGE=1/HTTP_HOST=www.zdnet.com/HUB=cn/NCAT=6037%3A17924%3A/PAGESTATE=1%7C1799%7C%3B%3B%3B%7C/POS=100/PTYPE=2100/REMOTE_ADDR=89.206.68.19/SITE=2/SP=136/UA=Wget%2F1.12+%28darwin10.3.1%29 HTTP/1.0 --><div class="hotspot space-2">
+		<!-- START AD CALL -->
+		<div class="hotspot">
+			<div class="hed">
+				<h5 class="h"><span class="int">Vendor HotSpot</span></h5>
+			</div>
+			<div class="content">
+				<h6 class="h"><a href="http://adlog.com.com/adlog/e/r=9105&amp;sg=479776&amp;o=6037%253A17924%253A&amp;h=cn&amp;p=&amp;b=2&amp;l=&amp;site=2&amp;pt=2100&amp;nd=17924&amp;pid=&amp;cid=194317&amp;pp=100&amp;e=&amp;rqid=01c13-ad-e2:4D17A0BB274822&amp;orh=&amp;oepartner=&amp;epartner=&amp;ppartner=&amp;pdom=&amp;cpnmodule=&amp;count=&amp;ra=89.206.68.19&amp;pg=Ck0N3goPOUcAACTp@OgAAAAQ&amp;t=2010.12.26.22.50.04&event=7/http://www.zdnet.com/blog/doc" target="_blank">Here to help you with your Document Management Needs</a></h6>
+				<div class="thumb">
+					<a href="http://adlog.com.com/adlog/e/r=9105&amp;sg=479776&amp;o=6037%253A17924%253A&amp;h=cn&amp;p=&amp;b=2&amp;l=&amp;site=2&amp;pt=2100&amp;nd=17924&amp;pid=&amp;cid=194317&amp;pp=100&amp;e=&amp;rqid=01c13-ad-e2:4D17A0BB274822&amp;orh=&amp;oepartner=&amp;epartner=&amp;ppartner=&amp;pdom=&amp;cpnmodule=&amp;count=&amp;ra=89.206.68.19&amp;pg=Ck0N3goPOUcAACTp@OgAAAAQ&amp;t=2010.12.26.22.50.04&event=10/http://www.zdnet.com/blog/doc" target="_blank"><img src="http://i.i.com.com/cnwk.1d/Ads/9114/12/Ricoh_120x90_20100421.jpg" width="120" height="90" border="0" altText="" /></a>
+				</div>
+				<p><a href="http://adlog.com.com/adlog/e/r=9105&amp;sg=479776&amp;o=6037%253A17924%253A&amp;h=cn&amp;p=&amp;b=2&amp;l=&amp;site=2&amp;pt=2100&amp;nd=17924&amp;pid=&amp;cid=194317&amp;pp=100&amp;e=&amp;rqid=01c13-ad-e2:4D17A0BB274822&amp;orh=&amp;oepartner=&amp;epartner=&amp;ppartner=&amp;pdom=&amp;cpnmodule=&amp;count=&amp;ra=89.206.68.19&amp;pg=Ck0N3goPOUcAACTp@OgAAAAQ&amp;t=2010.12.26.22.50.04&event=8/http://www.zdnet.com/blog/doc" target="_blank">Read the DocuMentor blog now</a></p>
+				<span class="more"><a href="http://adlog.com.com/adlog/e/r=9105&amp;sg=479776&amp;o=6037%253A17924%253A&amp;h=cn&amp;p=&amp;b=2&amp;l=&amp;site=2&amp;pt=2100&amp;nd=17924&amp;pid=&amp;cid=194317&amp;pp=100&amp;e=&amp;rqid=01c13-ad-e2:4D17A0BB274822&amp;orh=&amp;oepartner=&amp;epartner=&amp;ppartner=&amp;pdom=&amp;cpnmodule=&amp;count=&amp;ra=89.206.68.19&amp;pg=Ck0N3goPOUcAACTp@OgAAAAQ&amp;t=2010.12.26.22.50.04&event=9/http://www.zdnet.com/blog/doc" target="_blank">Learn More &raquo</a></span>
+			</div>
+		</div>
+	<img src="http://adlog.com.com/adlog/i/r=9105&amp;sg=479776&amp;o=6037%253A17924%253A&amp;h=cn&amp;p=&amp;b=2&amp;l=&amp;site=2&amp;pt=2100&amp;nd=17924&amp;pid=&amp;cid=194317&amp;pp=100&amp;e=&amp;rqid=01c13-ad-e2:4D17A0BB274822&amp;orh=&amp;ort=&amp;oepartner=&amp;epartner=&amp;ppartner=&amp;pdom=&amp;cpnmodule=&amp;count=&amp;ra=89.206.68.19&amp;dvar=dvar_tag%253DHour%253BDowntime%253BGawker%2BMedia%253BScientology%253BAttack%2523dvar_firstpage%253D1&amp;ucat_rsi=%2526&amp;pg=Ck0N3goPOUcAACTp@OgAAAAQ&amp;t=2010.12.26.22.50.04/http://i.i.com.com/cnwk.1d/Ads/common/dotclear.gif" HEIGHT="0" WIDTH="0" alt="" style="position:absolute; top:0px; left:0px" /></div><!-- Cheetah T 0.6.6.12 -->
+        </div><!-- /area -->
+    
+        <div class="area-12 area-last">
+            <div class="content-1 entry space-1 clear">	
+            
+            <p class="MsoNormal" style="text-align: center;"><a href="http://i.zdnet.com/blogs/v_for_vendetta.jpg"><img class="size-full wp-image-15194 aligncenter" title="Anonymous" src="http://i.zdnet.com/blogs/v_for_vendetta.jpg" alt="" width="428" height="332" /></a></p>
+<p class="MsoNormal">
+<p class="MsoNormal"><strong>The global cyber war is on.</strong></p>
+<p class="MsoNormal">Visa, MasterCard, YouTube, the Church of Scientology, the MPAA, PayPal, the RIAA, Gawker Media, Warner Brothers, PostFinance&#8230; the list is overwhelming to look at.</p>
+<p class="MsoNormal">You might immediately think of Anonymous, of Operation Payback - but there are others, such as <strong><a href="http://www.mediaite.com/online/exclusive-gawker-hacker-gnosis-explains-method-and-reasoning-behind-his-actions/">#Gnosis</a></strong><span>, of this past weekend&#8217;s </span><strong><a href="http://thenextweb.com/media/2010/12/13/gawker-hackers-release-file-with-ftp-author-reader-usernamespasswords/">massive hacking</a></strong><span> of Gawker Media.</span></p>
+<p class="MsoNormal">Contrary to current conventional thought that this is all one &#8220;group&#8221; associated with Wikileaks, even <strong><a href="http://pandalabs.pandasecurity.com/tis-the-season-of-ddos-wikileaks-editio/">Wikileaks was taken out for over a day</a></strong><span>, right before Amazon kicked them out of the cloud, and the </span><strong><a href="http://pandalabs.pandasecurity.com/tis-the-season-of-ddos-wikileaks-editio/">Anonymous site had a heavy DDoS attack resulting in 2 hours offline</a></strong><span>.</span></p>
+<p class="MsoNormal">Since September of this year, major attacks have taken out (hacked, exposed, exploited or service-disrupted and largely taken offline) a lineup of companies and entities that many previously thought of as untouchable.</p>
+<p class="MsoNormal">A significant number of those attacked openly mocked online community &#8220;hacktivists,&#8221; resting on an assumed &#8220;untouchable&#8221; status. In fact, that assumption is kind of what they all have in common.</p>
+<p class="MsoNormal">Well, that and a certain arrogance - at least that is what was cited in the Gawker attack, which was (is) an example of serious attack that is not actual downtime. #Gnosis stormed Gawker&#8217;s shores and pillaged their villages, publishing commenter passwords, obtaining emails and BaseCamp access, and promising a full database dump. <strong><a href="http://www.mediaite.com/online/exclusive-gawker-hacker-gnosis-explains-method-and-reasoning-behind-his-actions/">The damage is severe</a></strong><span>.</span></p>
+<p class="MsoNormal">#Gnosis is new, and they are not 4Chan, or Anonymous.</p>
+<p class="MsoNormal">For me, Anonymous is associated with the individuals wearing <strong><em><a href="http://en.wikipedia.org/wiki/V_for_Vendetta">V for Vendatta<span> Guy Fawkes masks</span></a></em></strong><span> who went up against the Church of Scientology back in 2008. This meme started when Tom Cruise went all creepy-crazy about Scientology in a video that the church then had removed from YouTube in a censorious flex of muscle.</span></p>
+<p class="MsoNormal">Attacks began on the Scientology church, and a video was made by &#8220;Anonymous&#8221; wearing the iconic masks. Anonymous/Project Chanolgy launched DDoS attacks on the church along with various pranks such as black faxes sent to Scientology centers.</p>
+<p class="MsoNormal">Most remarkable were the <strong><a href="http://sfist.com/2008/05/12/anonymous_scien.php?gallery0Pic=11">physical protests</a></strong><span> staged by people in cities and at Scientology centers all over the world. They all showed up wearing the Fawkes mask, ostensibly to protect identities from the Church of Scientology.</span></p>
+<p class="MsoNormal">In close association is Operation Payback, who reminds us of their origins with their logo of a black pirate ship with its mainsail emblazoned with a cassette tape and crossbones. Avast ye scurvy copyright dogs; they&#8217;ll reduce you to analog.</p>
+<p class="MsoNormal">The ship is a nod to Pirate Bay&#8217;s logo: the ship. The tape, likely a freely exchanged mixtape of music from a variety of RIAA artists, is important. Operation Payback (&#8221;…is a bitch&#8221;) went after entities that used strong-arm tactics to try and stop file sharing.</p>
+<p class="MsoNormal">The first documented shot with Payback, if you will, was actually not from OP hackers. It was fired from &#8220;music industry good guys&#8221; - when a company hired <strong>Aipex Software</strong><span> to launch a DDoS attack on the servers of torrent sites - namely Pirate Bay - that were not responding to the industry&#8217;s takedown notices.</span></p>
+<p class="MsoNormal"><strong><a href="http://i.zdnet.com/blogs/derp.jpg"><img class="size-full wp-image-15195 alignright" title="derp" src="http://i.zdnet.com/blogs/derp.jpg" alt="" width="150" height="149" /></a>Operation Confuse The Media</strong></p>
+<p class="MsoNormal">Not all of the big-league hits have been from Operation Payback, but that hasn&#8217;t stopped media outlets from crediting them for many of the recent attacks. In fact, most major media outlets are in a state of utter confusion about what is happening, how it is happening, and why it is happening.</p>
+<p class="MsoNormal">It&#8217;s important to note that Operation Payback and Anonymous are not the same thing, and they are also not the same as 4chan, nor do they act as Wikileaks or Pirate Bay. This confuses mainstream media, who is used to simple, take-me-to-your-leader answers - but <em>distributed</em><span> and </span><em>decentralized</em><span> are not simple concepts.</span></p>
+<p class="MsoNormal">For instance, many articles slingshot off the Wikipedia page for Wikileaks, not bothering to notice that <strong><a href="http://cosmicrays.wordpress.com/2010/12/11/wikileaks-research-project-midpoint-report/">Wikipedia&#8217;s own citations for Wikileaks are not primary references, and in many cases are unsatisfactory and even misleading</a></strong><span>.</span></p>
+<p class="MsoNormal">It is not unlike watching your peepaw unsuccessfully try to distinguish his emails from his &#8220;FacePage.&#8221;</p>
+<p class="MsoNormal">Well, the rest is poorly documented history. But we do know that the scorecard is riveting. Whether it&#8217;s Operation Payback, Anonymous, or any number of other activists - the targets comprise a list with names so big it almost looks like a farcical Hollywood creation.</p>
+<p class="MsoNormal"><strong>The Cyber War Hacks and Attacks Scorecard</strong></p>
+<p class="MsoNormal">I wanted to see the big-league damage - from original Operation Payback and first Anonymous campaigns to current pro-Wikileaks DDoS attacks.</p>
+<p class="MsoNormal"><a href="http://i.zdnet.com/blogs/anonymous.jpg"><img class="size-full wp-image-15196 alignright" title="anonymous" src="http://i.zdnet.com/blogs/anonymous.jpg" alt="" width="158" height="170" /></a>This is not a complete list, just highlights:</p>
+<blockquote>
+<p class="MsoNormal"><strong>ACS: Law</strong><span> (represents Warner, MGM, Universal and Sony) Big data breach; downtime: </span><strong><a href="http://www.gamepolitics.com/2010/10/11/pandalabs-report-039operation-payback039-caused-550-hours-downtime">179 hours</a></strong></p>
+<p class="MsoNormal"><strong>AFACT</strong><span> (<a href="http://www.securecomputing.net.au/News/233573,operation-payback-directs-ddos-attack-at-afact.aspx">Australian copyright enforcement</a>) Downtime: </span><strong><a href="http://www.gamepolitics.com/2010/10/11/pandalabs-report-039operation-payback039-caused-550-hours-downtime">21 hours</a></strong></p>
+<p class="MsoNormal"><strong>Aiplex Software</strong><span> (DDoS attack on Pirate Bay) Downtime: </span><strong><a href="http://knowyourmeme.com/memes/operation-payback">Over 123 hours</a></strong></p>
+<p class="MsoNormal"><strong>Australian Federation Against Copyright Theft</strong><span> Downtime: </span><strong><a href="http://cyberinsecure.com/anonymous-ddos-attack-against-afact-affected-almost-8000-unrelated-websites/">over 4 hours</a></strong></p>
+<p class="MsoNormal"><strong>British Phonographic Industry</strong><span> Downtime: </span><strong><a href="http://www.gamepolitics.com/2010/10/11/pandalabs-report-039operation-payback039-caused-550-hours-downtime">.06 hours</a></strong></p>
+<p class="MsoNormal"><strong>The Church of Scientology </strong><span>Downtime: </span><strong><a href="http://www.nj.com/news/index.ssf/2009/11/verona_man_admits_hacking_chur.html">over 24 hours, 12 days of attacks</a></strong></p>
+<p class="MsoNormal"><strong>Davenport Lyons</strong><span> (known for mass &#8220;pay up&#8221; notices to individuals) Downtime: </span><strong><a href="http://www.gamepolitics.com/2010/10/11/pandalabs-report-039operation-payback039-caused-550-hours-downtime">8 hours</a></strong></p>
+<p class="MsoNormal"><strong>EveryDNS </strong><span>(dropped Wikileaks site) Downtime: </span><strong><a href="http://thenextweb.com/media/2010/12/03/wikileaks-is-reportedly-down-worldwide-as-dns-services-pulled/">unknown</a></strong></p>
+<p class="MsoNormal"><strong>Gawker Media </strong><span>(see above, #Gnosis, damge undetermined)</span></p>
+<p class="MsoNormal"><strong>Gene Simmons</strong><span> (advocated suing filesharing individuals into poverty) Downtime: </span><strong><a href="http://pandalabs.pandasecurity.com/4chan-users-organize-ddos-against-mpaa/">1 day, 14 hours</a></strong></p>
+<p class="MsoNormal"><strong>Hustler</strong><span> (suing <a href="http://www.zdnet.com/blog/perlow/every-inch-counts-porn-filesharing-lawsuits-crest-30k-defendants/14509">unprecedented amounts of individuals</a>, threat to name individuals) Downtime: </span><strong><a href="http://pandalabs.pandasecurity.com/4chan-users-organize-ddos-against-mpaa/">2 hours</a></strong></p>
+<p class="MsoNormal"><strong>International Federation of the Phonographic Industry</strong><span> (response to Pirate Bay verdict) </span><strong><a href="http://knowyourmeme.com/memes/operation-payback">Downtime 14 hours</a></strong></p>
+<p class="MsoNormal"><strong>Joseph Lieberman</strong><span> (told Amazon to drop Wikileaks) Downtime: </span><strong><a href="http://www.thejournal.ie/supporters-launch-web-attacks-as-corporate-world-puts-squeeze-on-wikileaks-2010-12/">12 minutes</a></strong></p>
+<p class="MsoNormal"><strong>MasterCard</strong><span> (pulled plug on Wikileaks payments) Downtime: </span><strong><a href="http://pandalabs.pandasecurity.com/">1 day, 13 hours</a></strong></p>
+<p class="MsoNormal"><strong>Ministerio de Cultura</strong><span> Downtime: </span><strong><a href="http://www.gamepolitics.com/2010/10/11/pandalabs-report-039operation-payback039-caused-550-hours-downtime">over 20 hours</a></strong></p>
+<p class="MsoNormal"><strong>Ministry of Sound</strong><span> (demanded identities of file sharers to force payment) Downtime: </span><strong><a href="http://pandalabs.pandasecurity.com/page/3/">3 hours</a></strong></p>
+<p class="MsoNormal"><strong>Motion Picture Association of America</strong><span> (pro-DRM, pro- &#8220;pay up&#8221; filesharing schemes) Downtime: </span><strong><a href="http://knowyourmeme.com/memes/operation-payback">23 hours</a></strong></p>
+<p class="MsoNormal"><strong>PayPal</strong><span> (closed Wikileaks account) Downtime: </span><strong><a href="http://pandalabs.pandasecurity.com/tis-the-season-of-ddos-wikileaks-editio/">8 hours, 15 minutes</a></strong></p>
+<p class="MsoNormal"><strong>PostFinance </strong><span>(closed Wikileaks&#8217; Assange&#8217;s bank account) Downtime: </span><strong><a href="http://www.eweek.com/c/a/Security/PayPal-PostFinance-Hit-by-DoS-Attacks-CounterAttack-in-Progress-860335/">over 10 hours</a></strong></p>
+<p class="MsoNormal"><strong>RIAA</strong><span> (pro-DRM, pro- &#8220;pay up&#8221; filesharing schemes) Offline: </span><strong><a href="http://pandalabs.pandasecurity.com/two-month-recap-on-operationpayback/">Over 7 days</a></strong></p>
+<p class="MsoNormal"><strong>Sociedad General de Autores y Editores</strong><span> (<a href="http://press.pandasecurity.com/news/the-anonymous-cyber-activist-group-responsible-for-the-attack-on-spain%E2%80%99s-sgae-and-other-copyright-societies-launches-further-attacks-in-defense-of-wikileaks-founder/">Spain copyright group</a>) Downtime: </span><strong><a href="http://www.gamepolitics.com/2010/10/11/pandalabs-report-039operation-payback039-caused-550-hours-downtime">over 41 hours</a></strong></p>
+<p class="MsoNormal"><strong>United Kingdom Intellectual Property Office</strong><span> Downtime: </span><strong><a href="http://www.nag.co.za/forums/showthread.php?15499-Anonymous-Takes-Out-UK-Intellectual-Property-Office-Website">est. 24 hours</a></strong></p>
+<p class="MsoNormal"><strong>United States Copyright Office</strong><span> Downtime: </span><strong><a href="http://pandalabs.pandasecurity.com/4chan-users-organize-ddos-against-mpaa/">31 minutes</a></strong></p>
+<p class="MsoNormal"><strong>Visa</strong><span> (pulled plug on Wikileaks payments) Downtime: </span><strong><a href="http://pandalabs.pandasecurity.com/tis-the-season-of-ddos-wikileaks-editio/">14 hours</a></strong></p>
+<p class="MsoNormal"><strong>Warner Bros</strong><span>. </span><strong>Industry</strong><span> (response to Pirate Bay verdict) Downtime: </span><strong><a href="http://pandalabs.pandasecurity.com/4chan-users-organize-ddos-against-mpaa/">over 2 hours</a></strong></p>
+</blockquote>
+<p class="MsoNormal">At this writing <strong>Amazon Europe</strong><span> is stated as <strong><a href="http://www.reuters.com/article/idUSTRE6BB1TH20101213">hardware failure</a></strong> (despite <strong><a title="Fox News Wikileaks" href="http://www.foxnews.com/scitech/2010/12/12/report-amazons-european-sites-targeted-wikileaks-linked-cyber-attack/">Fox News reports</a></strong>) - </span><strong><a href="http://thenextweb.com/uk/2010/12/12/amazon-co-uk-and-de-are-down-is-anonymous-to-blame/">December 12, 2010,</a></strong><span> see <a href="http://ukwebshops.public-website-status.com/1312/24177/Amazon.co.uk">below</a>:</span></p>
+<p class="MsoNormal">
+<p class="MsoNormal" style="text-align: center;"><a href="http://i.zdnet.com/blogs/picture-3.png"><img class="size-full wp-image-15197 aligncenter" title="Amazon Europe Downtime" src="http://i.zdnet.com/blogs/picture-3.png" alt="" width="380" height="290" /></a></p>
+<p class="MsoNormal"><strong>What&#8217;s The Score?</strong></p>
+<p class="MsoNormal">It would be ideal to have financials - I&#8217;d like to see how much, if any, these entities lost. The pain and suffering award goes to Gawker (#Gnosis) - truly the most humiliating of the lot. The RIAA, with 7 days down, is quite astonishing - followed by ACS: Law (both Operation Payback).</p>
+<p class="MsoNormal">Yet who ever thought Visa, MasterCard, and PayPal (Anonymous) could be publicly smacked around - all in a day?</p>
+<p class="MsoNormal">Or, just another day online.</p>
+<p class="MsoNormal"><strong>What do you think: whose side are you on - if any?</strong> We&#8217;re watching for your comments.</p>
+<p class="MsoNormal"><em>Main image <a title="LAist Anonymous" href="http://laist.com/2008/02/10/photo_essay_ano.php">via LAist</a></em>.</p>
+<p><!--EndFragment--></p>            </div><!-- /content-1 -->  
+			
+							<!-- NL Signup -->
+				<div class="space-2">
+					<p>Kick off your day with ZDNet's <a onClick="DW.redir({tag:'ZDNet.nls.perlow'})" href="http://nl.zdnet.com/acct_mgmt.sc?brand=zdnet">daily e-mail newsletter</a>. It's the freshest tech news and opinion, served hot. <a onClick="DW.redir({tag:'ZDNet.nls.perlow'})" href="http://nl.zdnet.com/acct_mgmt.sc?brand=zdnet">Get it.</a>
+				</div>
+
+				<!-- FB Activity -->
+				
+<iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.zdnet.com%2Fblog%2Fperlow%2Fthe-global-cyber-war-hacks-and-attacks-scorecard%2F15192&amp;layout=standard&amp;show_faces=false&amp;width=450&amp;action=like&amp;colorscheme=light&amp;height=40" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:450px; height:40px;" allowTransparency="true"></iframe>			
+            
+            
+<div class="view-1 clear content-3 space-2">
+        <div class="thumb thumb-3 left"><img src="http://i.zdnet.com/gallery/480284-60-42.jpg" alt="" width="60" height="44" /></div>
+            <p>Violet Blue is a Forbes Web Celeb, SF Appeal contributor, a high-profile tech personality and one of Wired's Faces of Innovation.</p>
+        <ul class="list-4 s-10 clear">
+                <li><a class="icon-2-a i-bio-2" onclick="CNB.Overlay.load({contentId: 'author-short-bio-blue'})">Full Bio</a></li>
+                        <li><a onclick="CNB.Overlay.load({contentId:'author-short-disclosure-blue'})">Disclosure</a></li>
+                        <li><a class="icon-2-a i-mail-2" onclick="CNB.Overlay.loadEmail({url: '/email-form?lookupKey=blogAuthor&lookupValue=Violet+Blue&title=Violet+Blue'})">Contact</a></li>
+                        <li><a class="icon-2-a i-twitter-2" href="http://twitter.com/violetblue">Follow on Twitter</a></li>
+            </ul><!-- /list-4 -->
+</div><!-- /space -->
+
+        <div class="hide" id="author-short-disclosure-blue">
+        <div class="hed hed-1 space-1">
+            <h3 class="h s-5 c-1"><span class="int">Disclosure</span></h3>
+        </div><!-- /hed -->
+
+        <h4 class="h s-4">Violet Blue</h4>
+        <div class="content-1 clear">
+        I am currently freelancing part-time (only) for ReadWriteWeb for their general news blog and their Start (startup tools) channel; this was made in agreement that I would not write about anything that might conflict subjects in my blog (no sex content). I'm under contract to publisher Cleis Press for editing three more books (only) with the topics of women's/couples' erotica. I have been writing and editing books for Cleis Press for ten years on the subjects of erotica and human sexuality (guidebooks). I'm not under exclusive contract anywhere/to anyone/to anything, I have no investments.        </div>
+    </div><!-- /hide -->
+    
+        <div class="hide" id="author-short-bio-blue">
+        <div class="hed hed-1 space-1">
+            <h3 class="h s-5 c-1"><span class="int">Biography</span></h3>
+        </div><!-- /hed -->
+
+        <h4 class="h s-4">Violet Blue</h4>
+        <div class="content-1 clear">
+        Violet Blue (tinynibbles.com, @violetblue) is a Forbes Web Celeb, SF Appeal contributor, a high-profile tech personality and one of Wired's Faces of Innovation. She is regarded as the foremost expert in the field of sex and technology, a sex-positive pundit in mainstream media (MacLife, Forbes.com, The Oprah Winfrey Show, others) and is regularly interviewed, quoted and featured prominently by major media outlets (from ABC News to the Wall Street Journal). A published feature writer and columnist, Violet also has many award-winning, best-selling books; her books are featured on Oprah's website. She was the notorious sex columnist for the San Francisco Chronicle. She headlines at conferences ranging from ETech, LeWeb and SXSW: Interactive, to Google Tech Talks at Google, Inc. The London Times named Blue one of the 40 bloggers who really count.        </div>
+    </div><!-- /hide -->
+    
+ 
+            <div class="space-3">
+                <div class="hed hed-1">
+                    <h4 class="h s-7"><span class="int">More from &ldquo;Tech Broiler&rdquo;</span></h4>
+                </div><!-- /hed-1 -->
+
+                <div class="clear post-paging fancy space-0">
+                    <div class="area-6 prev">
+                                            <a class="h s-6" href="/blog/perlow/angry-birds-invade-new-york-city/15185">Angry Birds Invade New York City</a>
+                                        </div><!-- /area -->
+
+                    <div class="area-6 area-last next">
+                                            <a class="h s-6" href="/blog/perlow/the-pc-industrys-forgotten-market-grandpa/15207">The PC Industry's Forgotten Market: Grandpa</a>
+                                        </div><!-- /area -->
+                </div><!-- /post-paging -->
+            </div><!-- /space -->
+
+                         
+<script type="text/javascript" src="http://service.zdnet.com/wi?spot=related-js&format=text&count=5&null=true&ct=blogs.zdnet.com&id=ZDNB.BL.26.194317&referer=http%3A%2F%2Fwww.zdnet.com%2Fblog%2Fperlow%2Fthe-global-cyber-war-hacks-and-attacks-scorecard%2F15192"></script>
+
+<div id="load-related-content"></div>
+<script type="text/javascript">CNB.getRelatedContent('load-related-content');</script>
+ 
+
+        </div><!-- /area -->
+
+
+    </div><!-- /clear -->
+
+   <a id="comments"></a>
+<div class="talkback clear space-2">
+	<div class="hed hed-1">
+		<h2 class="h s-5 c-1">
+			<span class="int">Talkback</span>
+			<span class="aside fancy c-2 s-12">Most Recent of <span class="count c-1 s-6">36</span> Talkback(s)</span>
+		</h2><!-- /h -->
+	</div><!-- /hed -->
+
+        
+	<div class="clear s-10 fancy">
+        <ul class="list-4 left cmnt-viewtype clear">
+            <li><a class="icon-2-a i-collapsed-2" href="/tb/1-91116?viewtype=c">View All Collapsed</a></li>
+            <li><a class="icon-2-a i-expanded-2" href="/tb/1-91116">View All Expanded</a></li>
+        </ul><!-- /cmnt-options -->
+        
+        <dl class="list-4 right follow-options clear">
+            <dt>Follow via:</dt>
+            <dd><a href="http://www.zdnet.com/tb/1-91116/rss" rel="nofollow" class="icon-2-a i-rss-2">RSS</a></dd>
+            <dd><a href="http://whitepapers.zdnet.com/alertform.aspx?url=http%3A%2F%2Fwww.zdnet.com%2Ftb%2F1-91116%2Frss&title=The+Global+Cyber+War+Hacks+and+Attacks+Scorecard+on+ZDNet&source=http%3A%2F%2Fwww.zdnet.com%2Fblog%2Fperlow%2Fthe-global-cyber-war-hacks-and-attacks-scorecard%2F15192&frequency=weekly" rel="nofollow" class="icon-2-a i-mail-2">Email Alert</a></dd>
+        </dl><!-- /follow-options -->
+    </div><!-- /clear -->
+
+	<div class="view-6 space-_5">
+		<ul class="river-talkback space-2" id="talkback-river"> 
+		
+			<li id="1_91116_1733957" class="cmnt depth-1">
+				<div class="content">
+                                        <!-- User post -->
+                                                        
+                    
+					<h6 class="h s-5"><a href="/tb/1-91116-1733957">Just another day online</a></h6>
+
+					                    <div class="entry">
+                                            Many of these companies have been hacked and breeched long before wikileaks was an idea in somebody's head.<br><br>Nothing really new here.                    </div><!-- /entry -->
+                    				</div><!-- /content -->
+                              
+				<div class="cmnt-utils clear">
+					<div class="cmnt-user s-11 clear">
+                    												<div class="thumb thumb-2"><img alt="ZDNet Gravatar" src="http://www.gravatar.com/avatar.php?gravatar_id=f02b8c0f3a1eeda72f007a08e95f6434&default=http%3A%2F%2Fi.zdnet.com%2Fimages%2F201004%2FdefaultAvatar.gif&size=30" width="30" height="30" /></div>
+						<div class="name">John Zern</div>
+						<div class="date c-2">
+                                                12/13/2010 07:48 AM                                                </div>
+                    					</div><!-- /cmnt-user -->
+
+                                        <ul class="list-4 cmnt-options s-10 fancy clear">
+
+                        
+                           
+
+                                                <li><a id="reply_1_91116_1733957" href="/tb/1-91116-1733957/reply" class="reply icon-2-a i-reply-2">Reply to</a></li>
+                                                
+                                                <li class="reg-is-logged-in hide"><a rel="nofollow" href="/tb/1-91116-1733957/spam" class="spam icon-2-a i-spam-2">Flag</a></li>
+                                                                    
+                    </ul><!-- /cmnt-options -->
+                                    </div><!-- /cmnt-utils -->
+                                <div class="cmnt-pointer"></div>
+                			</li>
+			
+		
+			<li id="1_91116_1733990" class="cmnt depth-2">
+				<div class="content">
+                                        <!-- User post -->
+                                                        
+                    
+					<h6 class="h s-5"><a href="/tb/1-91116-1733990">Mr Zern i doubt that there a direct link to wikileak</a></h6>
+
+					                    <div class="entry">
+                                            @John Zern <br>But This article express a movement toward making pay  those who are less ethical or for any reason what so ever  displease a group or namy group by there action .<br><br>It represent that  some people will get back at those ( wrong-doer ) and will make them pay at every corner .<br><br>THAT SAID  i dont condone nor support such action but as observer  this will end up badly for sure                    </div><!-- /entry -->
+                    				</div><!-- /content -->
+                              
+				<div class="cmnt-utils clear">
+					<div class="cmnt-user s-11 clear">
+                    												<div class="thumb thumb-2"><img alt="ZDNet Gravatar" src="http://www.gravatar.com/avatar.php?gravatar_id=693bf231392513626f68cb4403bf290d&default=http%3A%2F%2Fi.zdnet.com%2Fimages%2F201004%2FdefaultAvatar.gif&size=30" width="30" height="30" /></div>
+						<div class="name">Quebec-french</div>
+						<div class="date c-2">
+                                                12/13/2010 08:19 AM                                                </div>
+                    					</div><!-- /cmnt-user -->
+
+                                        <ul class="list-4 cmnt-options s-10 fancy clear">
+
+                        
+                           
+
+                                                <li><a id="reply_1_91116_1733990" href="/tb/1-91116-1733990/reply" class="reply icon-2-a i-reply-2">Reply to</a></li>
+                                                
+                                                <li class="reg-is-logged-in hide"><a rel="nofollow" href="/tb/1-91116-1733990/spam" class="spam icon-2-a i-spam-2">Flag</a></li>
+                                                                    
+                    </ul><!-- /cmnt-options -->
+                                    </div><!-- /cmnt-utils -->
+                			</li>
+			
+		
+			<li id="1_91116_1734003" class="cmnt depth-3">
+				<div class="content">
+                                        <!-- User post -->
+                                                        
+                    
+					<h6 class="h s-5"><a href="/tb/1-91116-1734003">Less ethical? Who are you to determine "ethics"?</a></h6>
+
+					                    <div class="entry">
+                                            @Quebec-french, who are you (or me) to determine what's ethical?<br>Should I feel that unmarried people having sex is unethical, I should consider those that do as "wrong-doers", and to get back at them?<br><br>from Visa or Amazon's standpoint, they acted ethically, not wanting to deal with a group they feel is unethical themselves?<br><br>So are there really any wrong-doers beyond those doing the hacking?                    </div><!-- /entry -->
+                    				</div><!-- /content -->
+                              
+				<div class="cmnt-utils clear">
+					<div class="cmnt-user s-11 clear">
+                    												<div class="thumb thumb-2"><img alt="ZDNet Gravatar" src="http://www.gravatar.com/avatar.php?gravatar_id=f02b8c0f3a1eeda72f007a08e95f6434&default=http%3A%2F%2Fi.zdnet.com%2Fimages%2F201004%2FdefaultAvatar.gif&size=30" width="30" height="30" /></div>
+						<div class="name">John Zern</div>
+						<div class="date c-2">
+                                                12/13/2010 09:14 AM                                                </div>
+                    					</div><!-- /cmnt-user -->
+
+                                        <ul class="list-4 cmnt-options s-10 fancy clear">
+
+                        
+                           
+
+                                                
+                                                <li class="reg-is-logged-in hide"><a rel="nofollow" href="/tb/1-91116-1734003/spam" class="spam icon-2-a i-spam-2">Flag</a></li>
+                                                                    
+                    </ul><!-- /cmnt-options -->
+                                    </div><!-- /cmnt-utils -->
+                			</li>
+			
+		
+			<li id="1_91116_1734026" class="cmnt depth-3">
+				<div class="content">
+                                        <!-- User post -->
+                                                        
+                    
+					<h6 class="h s-5"><a href="/tb/1-91116-1734026">you are right neither of can make the call</a></h6>
+
+					                    <div class="entry">
+                                            John Zern<br>But some one is doing  it because there are attack on there site .<br>On ethic is can make a lots of call   base on human right ,base on equitable trade ,base on protection of consumer,base on the responsibility of business and such.<br>Im a staunch believer that is something ugly happen in busines its your fault  .                    </div><!-- /entry -->
+                    				</div><!-- /content -->
+                              
+				<div class="cmnt-utils clear">
+					<div class="cmnt-user s-11 clear">
+                    												<div class="thumb thumb-2"><img alt="ZDNet Gravatar" src="http://www.gravatar.com/avatar.php?gravatar_id=693bf231392513626f68cb4403bf290d&default=http%3A%2F%2Fi.zdnet.com%2Fimages%2F201004%2FdefaultAvatar.gif&size=30" width="30" height="30" /></div>
+						<div class="name">Quebec-french</div>
+						<div class="date c-2">
+                                                12/13/2010 09:31 AM                                                </div>
+                    					</div><!-- /cmnt-user -->
+
+                                        <ul class="list-4 cmnt-options s-10 fancy clear">
+
+                        
+                           
+
+                                                
+                                                <li class="reg-is-logged-in hide"><a rel="nofollow" href="/tb/1-91116-1734026/spam" class="spam icon-2-a i-spam-2">Flag</a></li>
+                                                                    
+                    </ul><!-- /cmnt-options -->
+                                    </div><!-- /cmnt-utils -->
+                			</li>
+			
+		
+			<li id="1_91116_1733984" class="cmnt depth-2">
+				<div class="content">
+                                        <!-- User post -->
+                                                        
+                    
+					<h6 class="h s-5"><a href="/tb/1-91116-1733984">RE: The Global Cyber War Hacks and Attacks Scorecard</a></h6>
+
+					                    <div class="entry">
+                                            @John Zern <br>What's new is the extent and the timing.  Many of these were simultaneous attacks, while the previous ones occurred individually.<br><br>These are interesting times, indeed.                    </div><!-- /entry -->
+                    				</div><!-- /content -->
+                              
+				<div class="cmnt-utils clear">
+					<div class="cmnt-user s-11 clear">
+                    												<div class="thumb thumb-2"><img alt="ZDNet Gravatar" src="http://www.gravatar.com/avatar.php?gravatar_id=ddf7943556733b78502df17d1c9b5832&default=http%3A%2F%2Fi.zdnet.com%2Fimages%2F201004%2FdefaultAvatar.gif&size=30" width="30" height="30" /></div>
+						<div class="name">clfitz</div>
+						<div class="date c-2">
+                                                12/13/2010 08:29 AM                                                </div>
+                    					</div><!-- /cmnt-user -->
+
+                                        <ul class="list-4 cmnt-options s-10 fancy clear">
+
+                        
+                           
+
+                                                <li><a id="reply_1_91116_1733984" href="/tb/1-91116-1733984/reply" class="reply icon-2-a i-reply-2">Reply to</a></li>
+                                                
+                                                <li class="reg-is-logged-in hide"><a rel="nofollow" href="/tb/1-91116-1733984/spam" class="spam icon-2-a i-spam-2">Flag</a></li>
+                                                                    
+                    </ul><!-- /cmnt-options -->
+                                    </div><!-- /cmnt-utils -->
+                			</li>
+			
+		
+			<li id="1_91116_1733942" class="cmnt depth-1">
+				<div class="content">
+                                        <!-- User post -->
+                                                        
+                    
+					<h6 class="h s-5"><a href="/tb/1-91116-1733942">Actual down time, zero!</a></h6>
+
+					                    <div class="entry">
+                                            Mastercard != Mastercard.com<br>visa is not visa.com<br><br>One is a credit card clearing house, the other a WEBSITE PROMOTING the said credit card clearing house.<br><br>So basically they defaced a poster advertising a service they didn't like, and they did it with chalk that washes off in the rain even.                    </div><!-- /entry -->
+                    				</div><!-- /content -->
+                              
+				<div class="cmnt-utils clear">
+					<div class="cmnt-user s-11 clear">
+                    												<div class="thumb thumb-2"><img alt="ZDNet Gravatar" src="http://www.gravatar.com/avatar.php?gravatar_id=b8e25eb6b4d10bfbbb657068e24766b9&default=http%3A%2F%2Fi.zdnet.com%2Fimages%2F201004%2FdefaultAvatar.gif&size=30" width="30" height="30" /></div>
+						<div class="name">guihombre</div>
+						<div class="date c-2">
+                                                12/13/2010 07:57 AM                                                </div>
+                    					</div><!-- /cmnt-user -->
+
+                                        <ul class="list-4 cmnt-options s-10 fancy clear">
+
+                        
+                           
+
+                                                <li><a id="reply_1_91116_1733942" href="/tb/1-91116-1733942/reply" class="reply icon-2-a i-reply-2">Reply to</a></li>
+                                                
+                                                <li class="reg-is-logged-in hide"><a rel="nofollow" href="/tb/1-91116-1733942/spam" class="spam icon-2-a i-spam-2">Flag</a></li>
+                                                                    
+                    </ul><!-- /cmnt-options -->
+                                    </div><!-- /cmnt-utils -->
+                                <div class="cmnt-pointer"></div>
+                			</li>
+			
+		
+			<li id="1_91116_1733992" class="cmnt depth-1">
+				<div class="content">
+                                        <!-- User post -->
+                                                        
+                    
+					<h6 class="h s-5"><a href="/tb/1-91116-1733992">RE: The Global Cyber War Hacks and Attacks Scorecard</a></h6>
+
+					                    <div class="entry">
+                                            Not the porn sites, we need to keep that online. The rest of them...no real feelings for.                    </div><!-- /entry -->
+                    				</div><!-- /content -->
+                              
+				<div class="cmnt-utils clear">
+					<div class="cmnt-user s-11 clear">
+                    												<div class="thumb thumb-2"><img alt="ZDNet Gravatar" src="http://www.gravatar.com/avatar.php?gravatar_id=7202d853ea2bd7af9f1d30e80332af5e&default=http%3A%2F%2Fi.zdnet.com%2Fimages%2F201004%2FdefaultAvatar.gif&size=30" width="30" height="30" /></div>
+						<div class="name">Loverock Davidson</div>
+						<div class="date c-2">
+                                                12/13/2010 08:23 AM                                                </div>
+                    					</div><!-- /cmnt-user -->
+
+                                        <ul class="list-4 cmnt-options s-10 fancy clear">
+
+                        
+                           
+
+                                                <li><a id="reply_1_91116_1733992" href="/tb/1-91116-1733992/reply" class="reply icon-2-a i-reply-2">Reply to</a></li>
+                                                
+                                                <li class="reg-is-logged-in hide">Flagged</li>
+                                                                    
+                    </ul><!-- /cmnt-options -->
+                                    </div><!-- /cmnt-utils -->
+                                <div class="cmnt-pointer"></div>
+                			</li>
+			
+		
+			<li id="1_91116_1734509" class="cmnt depth-2">
+				<div class="content">
+                                        <!-- User post -->
+                                                        
+                    
+					<h6 class="h s-5"><a href="/tb/1-91116-1734509">RE: The Global Cyber War Hacks and Attacks Scorecard</a></h6>
+
+					                    <div class="entry">
+                                            NOOOOOOOOOOOOOOOOOOOOOOO!!!!!<br><br>Not the porn sites!!!!  Won't someone please think of the porn sites!!!!!                    </div><!-- /entry -->
+                    				</div><!-- /content -->
+                              
+				<div class="cmnt-utils clear">
+					<div class="cmnt-user s-11 clear">
+                    												<div class="thumb thumb-2"><img alt="ZDNet Gravatar" src="http://www.gravatar.com/avatar.php?gravatar_id=dfb8863cbac089eabf352d960e44ed69&default=http%3A%2F%2Fi.zdnet.com%2Fimages%2F201004%2FdefaultAvatar.gif&size=30" width="30" height="30" /></div>
+						<div class="name">Hallowed are the Ori</div>
+						<div class="date c-2">
+                                                12/13/2010 04:11 PM                                                </div>
+                    					</div><!-- /cmnt-user -->
+
+                                        <ul class="list-4 cmnt-options s-10 fancy clear">
+
+                        
+                           
+
+                                                <li><a id="reply_1_91116_1734509" href="/tb/1-91116-1734509/reply" class="reply icon-2-a i-reply-2">Reply to</a></li>
+                                                
+                                                <li class="reg-is-logged-in hide">Flagged</li>
+                                                                    
+                    </ul><!-- /cmnt-options -->
+                                    </div><!-- /cmnt-utils -->
+                			</li>
+			
+		
+			<li id="1_91116_1733994" class="cmnt depth-1">
+				<div class="content">
+                                        <!-- User post -->
+                                                        
+                    
+					<h6 class="h s-5"><a href="/tb/1-91116-1733994">RE: The Global Cyber War Hacks and Attacks Scorecard</a></h6>
+
+					                    <div class="entry">
+                                            I'm just your average middle aged white guy, but I love seeing the masses rise up against tyranny. Even the US, supposedly the standard-bearer of free speech in the world, has shown itself unwilling to stand for principle in the face of embarrassment from Wikileaks. PayPal, MasterCard and every department of government or the corporations that pull their strings?. Crush these tyrants, crush them all!!                    </div><!-- /entry -->
+                    				</div><!-- /content -->
+                              
+				<div class="cmnt-utils clear">
+					<div class="cmnt-user s-11 clear">
+                    												<div class="thumb thumb-2"><img alt="ZDNet Gravatar" src="http://www.gravatar.com/avatar.php?gravatar_id=b33b98a3ba59871545cb3c50443c1813&default=http%3A%2F%2Fi.zdnet.com%2Fimages%2F201004%2FdefaultAvatar.gif&size=30" width="30" height="30" /></div>
+						<div class="name">Bert1000</div>
+						<div class="date c-2">
+                                                12/13/2010 08:26 AM                                                </div>
+                    					</div><!-- /cmnt-user -->
+
+                                        <ul class="list-4 cmnt-options s-10 fancy clear">
+
+                        
+                           
+
+                                                <li><a id="reply_1_91116_1733994" href="/tb/1-91116-1733994/reply" class="reply icon-2-a i-reply-2">Reply to</a></li>
+                                                
+                                                <li class="reg-is-logged-in hide"><a rel="nofollow" href="/tb/1-91116-1733994/spam" class="spam icon-2-a i-spam-2">Flag</a></li>
+                                                                    
+                    </ul><!-- /cmnt-options -->
+                                    </div><!-- /cmnt-utils -->
+                                <div class="cmnt-pointer"></div>
+                			</li>
+			
+		
+			<li id="1_91116_1734188" class="cmnt depth-2">
+				<div class="content">
+                                        <!-- User post -->
+                                                        
+                    
+					<h6 class="h s-5"><a href="/tb/1-91116-1734188">RE: The Global Cyber War Hacks and Attacks Scorecard</a></h6>
+
+					                    <div class="entry">
+                                            @Bert1000 <br><br>I believe in fairness and Free Speech but to bluntly paint everything you take, do, or smear as free speech as just wrong. People need to have common sense as to how to handle the information they are given ethically or not. How would you like it if I got all your personal information good and bad(does not really matter how) and your family and blasted it out to the general public as Free Speech? Let me ask you this, When will all the stupidity end?                    </div><!-- /entry -->
+                    				</div><!-- /content -->
+                              
+				<div class="cmnt-utils clear">
+					<div class="cmnt-user s-11 clear">
+                    												<div class="thumb thumb-2"><img alt="ZDNet Gravatar" src="http://www.gravatar.com/avatar.php?gravatar_id=79a47cb5dc889f3e74e423715d9b8036&default=http%3A%2F%2Fi.zdnet.com%2Fimages%2F201004%2FdefaultAvatar.gif&size=30" width="30" height="30" /></div>
+						<div class="name">lenohere</div>
+						<div class="date c-2">
+                                                12/13/2010 11:42 AM                                                </div>
+                    					</div><!-- /cmnt-user -->
+
+                                        <ul class="list-4 cmnt-options s-10 fancy clear">
+
+                        
+                           
+
+                                                <li><a id="reply_1_91116_1734188" href="/tb/1-91116-1734188/reply" class="reply icon-2-a i-reply-2">Reply to</a></li>
+                                                
+                                                <li class="reg-is-logged-in hide"><a rel="nofollow" href="/tb/1-91116-1734188/spam" class="spam icon-2-a i-spam-2">Flag</a></li>
+                                                                    
+                    </ul><!-- /cmnt-options -->
+                                    </div><!-- /cmnt-utils -->
+                			</li>
+			
+		
+			<li id="1_91116_1742275" class="cmnt depth-3">
+				<div class="content">
+                                        <!-- User post -->
+                                                        
+                    
+					<h6 class="h s-5"><a href="/tb/1-91116-1742275">RE: The Global Cyber War Hacks and Attacks Scorecard</a></h6>
+
+					                    <div class="entry">
+                                            @lenohere <br>Free Speech is free speech.  Can individuals get hurt by free speech?  Absolutely.  But the chances that individuals will be adversely affected is the cost we pay to have a the right to speak out against tyranny and oppression. Will bad decisions be made about how to handle information?  Yes.  But the benefits society gains from Free Speech in its least restricted model far out-weigh its costs.                    </div><!-- /entry -->
+                    				</div><!-- /content -->
+                              
+				<div class="cmnt-utils clear">
+					<div class="cmnt-user s-11 clear">
+                    												<div class="thumb thumb-2"><img alt="ZDNet Gravatar" src="http://www.gravatar.com/avatar.php?gravatar_id=77311971aeb89a6b6d59d86def05a444&default=http%3A%2F%2Fi.zdnet.com%2Fimages%2F201004%2FdefaultAvatar.gif&size=30" width="30" height="30" /></div>
+						<div class="name">Little Tart</div>
+						<div class="date c-2">
+                                                12/23/2010 08:03 AM                                                </div>
+                    					</div><!-- /cmnt-user -->
+
+                                        <ul class="list-4 cmnt-options s-10 fancy clear">
+
+                        
+                           
+
+                                                
+                                                <li class="reg-is-logged-in hide"><a rel="nofollow" href="/tb/1-91116-1742275/spam" class="spam icon-2-a i-spam-2">Flag</a></li>
+                                                                    
+                    </ul><!-- /cmnt-options -->
+                                    </div><!-- /cmnt-utils -->
+                			</li>
+			
+		
+			<li id="1_91116_1734577" class="cmnt depth-2">
+				<div class="content">
+                                        <!-- User post -->
+                                                        
+                    
+					<h6 class="h s-5"><a href="/tb/1-91116-1734577">1984</a></h6>
+
+					                    <div class="entry">
+                                            @Bert1000 What has happened to wikileaks and its Aussie leader is censorship by US government pressure. What is appalling is I recall Obama lecturing University students in a Shanghai 'Town Hall' meeting that the internet must be open to all and is the true expression of freedom. What a joke the US has made of the concept of freedom. Sad day for our friends in the US...more to come you way no doubt  (BTW, take another read of Orwell's 1984...you might be amazed, again)                    </div><!-- /entry -->
+                    				</div><!-- /content -->
+                              
+				<div class="cmnt-utils clear">
+					<div class="cmnt-user s-11 clear">
+                    												<div class="thumb thumb-2"><img alt="ZDNet Gravatar" src="http://www.gravatar.com/avatar.php?gravatar_id=975609cfc844254b568da9da755a2352&default=http%3A%2F%2Fi.zdnet.com%2Fimages%2F201004%2FdefaultAvatar.gif&size=30" width="30" height="30" /></div>
+						<div class="name">Bradish@...</div>
+						<div class="date c-2">
+                                                (Edited: 12/13/2010 05:03 PM)                                                </div>
+                    					</div><!-- /cmnt-user -->
+
+                                        <ul class="list-4 cmnt-options s-10 fancy clear">
+
+                        
+                           
+
+                                                <li><a id="reply_1_91116_1734577" href="/tb/1-91116-1734577/reply" class="reply icon-2-a i-reply-2">Reply to</a></li>
+                                                
+                                                <li class="reg-is-logged-in hide"><a rel="nofollow" href="/tb/1-91116-1734577/spam" class="spam icon-2-a i-spam-2">Flag</a></li>
+                                                                    
+                    </ul><!-- /cmnt-options -->
+                                    </div><!-- /cmnt-utils -->
+                			</li>
+			
+		
+			<li id="1_91116_1734906" class="cmnt depth-3">
+				<div class="content">
+                                        <!-- User post -->
+                                                        
+                    
+					<h6 class="h s-5"><a href="/tb/1-91116-1734906">RE: The Global Cyber War Hacks and Attacks Scorecard</a></h6>
+
+					                    <div class="entry">
+                                            @Bradish@... So if a maid who cleans your house steals a bunch of your personal information (finical records, love letters, personal e-mails, personal photos, ect...) and posts them on the web that is just freedom of the Internet?  You have free speech and you have theft, in this situation the two over lap each other and the US is just attempting to correct the actions of a thief. Everyone has secrets they don't want spilled in public and protecting those secrets is normal behavior. Freedom of the Internet is the ability to say and publish what you want but when you start dealing in information which was stolen you are crossing a legal line. It's fun to play the underdog against the big bad US who is far from perfect but in this case Wikileaks crossed a morel line and is now paying the price.                    </div><!-- /entry -->
+                    				</div><!-- /content -->
+                              
+				<div class="cmnt-utils clear">
+					<div class="cmnt-user s-11 clear">
+                    												<div class="thumb thumb-2"><img alt="ZDNet Gravatar" src="http://www.gravatar.com/avatar.php?gravatar_id=fc807962f898deb900e128a1bbb46058&default=http%3A%2F%2Fi.zdnet.com%2Fimages%2F201004%2FdefaultAvatar.gif&size=30" width="30" height="30" /></div>
+						<div class="name">Kabcock</div>
+						<div class="date c-2">
+                                                12/14/2010 07:12 AM                                                </div>
+                    					</div><!-- /cmnt-user -->
+
+                                        <ul class="list-4 cmnt-options s-10 fancy clear">
+
+                        
+                           
+
+                                                
+                                                <li class="reg-is-logged-in hide"><a rel="nofollow" href="/tb/1-91116-1734906/spam" class="spam icon-2-a i-spam-2">Flag</a></li>
+                                                                    
+                    </ul><!-- /cmnt-options -->
+                                    </div><!-- /cmnt-utils -->
+                			</li>
+			
+		
+			<li id="1_91116_1735011" class="cmnt depth-3">
+				<div class="content">
+                                        <!-- User post -->
+                                                        
+                    
+					<h6 class="h s-5"><a href="/tb/1-91116-1735011">RE: The Global Cyber War Hacks and Attacks Scorecard</a></h6>
+
+					                    <div class="entry">
+                                            @Bradish@... <br><br>Based on your summation, It is ok for me to have someone give me your STOLEN personal data and information, and publish it in the internet for everyone to see? And it is ok for me to do because I am covered by freedom of speech? If you are ok with that, You have a serious bigger issue than with just the government my friend.                    </div><!-- /entry -->
+                    				</div><!-- /content -->
+                              
+				<div class="cmnt-utils clear">
+					<div class="cmnt-user s-11 clear">
+                    												<div class="thumb thumb-2"><img alt="ZDNet Gravatar" src="http://www.gravatar.com/avatar.php?gravatar_id=79a47cb5dc889f3e74e423715d9b8036&default=http%3A%2F%2Fi.zdnet.com%2Fimages%2F201004%2FdefaultAvatar.gif&size=30" width="30" height="30" /></div>
+						<div class="name">lenohere</div>
+						<div class="date c-2">
+                                                12/14/2010 08:26 AM                                                </div>
+                    					</div><!-- /cmnt-user -->
+
+                                        <ul class="list-4 cmnt-options s-10 fancy clear">
+
+                        
+                           
+
+                                                
+                                                <li class="reg-is-logged-in hide"><a rel="nofollow" href="/tb/1-91116-1735011/spam" class="spam icon-2-a i-spam-2">Flag</a></li>
+                                                                    
+                    </ul><!-- /cmnt-options -->
+                                    </div><!-- /cmnt-utils -->
+                			</li>
+			
+		
+			<li id="1_91116_1734013" class="cmnt depth-1">
+				<div class="content">
+                                        <!-- User post -->
+                                                        
+                    
+					<h6 class="h s-5"><a href="/tb/1-91116-1734013">The DDoS was not hacking, it was protest</a></h6>
+
+					                    <div class="entry">
+                                            It would be the same as having a large crowd surround their office buildings. The purpose was protest, not destruction, and that's what it achieved.<br>We should be happy and thankful that these protesters reminded the companies that their reputations depend not only on what the state department thinks of them, but what the public and their customers think of them as well.<br>I'm on the side of truth acting as a deterrent to wrongdoing.                    </div><!-- /entry -->
+                    				</div><!-- /content -->
+                              
+				<div class="cmnt-utils clear">
+					<div class="cmnt-user s-11 clear">
+                    												<div class="thumb thumb-2"><img alt="ZDNet Gravatar" src="http://www.gravatar.com/avatar.php?gravatar_id=39c1d13a876503812dc815cac8b7e8a7&default=http%3A%2F%2Fi.zdnet.com%2Fimages%2F201004%2FdefaultAvatar.gif&size=30" width="30" height="30" /></div>
+						<div class="name">HollywoodDog</div>
+						<div class="date c-2">
+                                                12/13/2010 08:52 AM                                                </div>
+                    					</div><!-- /cmnt-user -->
+
+                                        <ul class="list-4 cmnt-options s-10 fancy clear">
+
+                        
+                           
+
+                                                <li><a id="reply_1_91116_1734013" href="/tb/1-91116-1734013/reply" class="reply icon-2-a i-reply-2">Reply to</a></li>
+                                                
+                                                <li class="reg-is-logged-in hide"><a rel="nofollow" href="/tb/1-91116-1734013/spam" class="spam icon-2-a i-spam-2">Flag</a></li>
+                                                                    
+                    </ul><!-- /cmnt-options -->
+                                    </div><!-- /cmnt-utils -->
+                                <div class="cmnt-pointer"></div>
+                			</li>
+			
+				</ul><!-- /river-talkback -->
+
+        <script type="text/javascript">
+        (function() {
+		    var reply = new CNB.Talkback('talkback-river',{
+			    url: '/tb/async/reply',
+                            regSrc: 'zdtb-blogs'
+		    });
+
+		    var edit = new CNB.Edit('talkback-river',{
+			    url: '/tb/async/edit'
+		    });
+
+            var spam = new CNB.reportSpam('talkback-river');
+        })();
+            </script>
+
+                		<div class="btn-1 view-more"><a class="int s-6" id="talkback-more-btn">View More Comments</a></div>
+        <script type="text/javascript">
+        (function() {
+            var loadMore = new CNB.Talkback.LoadMore('talkback-river', 'talkback-more-btn', {
+                url: '/tb/async',
+                total: 36,
+                data: {
+                    max: 15,
+                    start: 15,
+                    asset:'perlow_15192'
+                }  
+            });
+        })();
+
+		</script>
+		         
+	</div><!-- /view-6 -->
+
+    <ul class="list-4 fancy s-10 space-2 cmnt-viewtype clear">
+        <li><a class="icon-2-a i-collapsed-2" href="/tb/1-91116?viewtype=c">View All Collapsed</a></li>
+        <li><a class="icon-2-a i-expanded-2" href="/tb/1-91116">View All Expanded</a></li>
+    </ul><!-- /cmnt-options -->
+
+
+	<div class="hed hed-1">
+		<h2 class="h s-5">
+			<span class="int"><span class="c-1">Talkback</span> - Tell Us What You Think</span>
+		</h2><!-- /h -->
+	</div><!-- /hed -->
+
+	<div class="view-6 cmnt-submit">
+				<form id="talkback-cmnt-form" class="prepend-2" action="/tb/post" method="post">
+			<div class="area-10 area-last lvl clear">
+				<label for="cmnt-submit-subj" class="label-1">Subject (max length: 75):</label>
+				<input type="text" value="" class="area-10 area-last placeholder required" placeholder="RE: The Global Cyber War Hacks and Attacks Scorecard" id="cmnt-submit-subj" name="subject" maxlength="75" />
+			</div><!-- /lvl -->
+			
+			<div class="area-11 area-last lvl clear">
+				<label for="cmnt-body" class="label-1">Reply:</label>
+								<textarea class="area-11 area-last required" name="body" id="cmnt-body"></textarea>
+							</div><!-- /lvl -->
+						<input type="hidden" name="forumID" value="1" />
+			<input type="hidden" name="threadID" value="91116" />
+						<input type="hidden" name="reply" value="true" />
+						<input type="hidden" name="siteID" value="2" />
+			<input type="hidden" name="nodeID" value="17924" />
+			<input type="hidden" name="assetID" value="perlow_15192" />
+			<input type="hidden" name="assetURL" value="http%3A%2F%2Fwww.zdnet.com%2Fblog%2Fperlow%2Fthe-global-cyber-war-hacks-and-attacks-scorecard%2F15192" />
+			<input type="hidden" name="title" value="The+Global+Cyber+War+Hacks+and+Attacks+Scorecard" />
+			<input type="hidden" name="authorID" value="Violet+Blue" />
+			<input type="hidden" name="assetType" value="bl" />
+			<div class="lvl-btn clear">
+							<button id="cmnt-reply-btn" class="btn-1" type="submit" name="doPost">Add Your Opinion</button>
+						</div><!-- /lvl-btn -->
+		</form>
+        <script type="text/javascript">
+            CNB.initTalkbackPostForm('talkback-cmnt-form', 'zdtb-blogs');
+        </script>
+	</div><!-- /view-6 -->
+        </div> <!-- //Talkback -->
+
+</div><!-- /area -->
+
+
+<div class="area-8 area-last">
+    <!-- Half Page Ad -->
+    
+<!-- php client madison [r20100514-1345-c13VipDvarTagSvn]: 10.15.4.104 GET /html/BRAND=2/CELT=html/CID=194317/CLIENT:ID=CHEETAH/CNET%2dONTOLOGY%2dNODE%2dID=17924/CNET%2dPAGE%2dGUID=Ck0N3goPOUcAACTp%40OgAAAAQ/DVAR_TAG=Hour%3BDowntime%3BGawker+Media%3BScientology%3BAttack/DVAR_FIRSTPAGE=1/HTTP_HOST=www.zdnet.com/HUB=cn/NCAT=6037%3A17924%3A/PAGESTATE=1%7C1799%7C%3B%3B%3B%7C/POS=100/PTYPE=2100/REMOTE_ADDR=89.206.68.19/SITE=2/SP=122/UA=Wget%2F1.12+%28darwin10.3.1%29 HTTP/1.0 --><!--NO AD TEXT:COULD NOT MAP ( _MAPPINGS=&#39;ZDNET&#39; BRAND=&#39;2&#39; SITE=&#39;2&#39; SP=&#39;122&#39; CNET-PTYPE=&#39;00&#39; POS=&#39;100&#39; NCAT=&#39;6037:17924:&#39; CNET-PARTNER-ID=&#39;&#39; ) TO _RGROUP--><!-- Cheetah T 0.15.16.16 -->      
+    
+<!-- php client madison [r20100514-1345-c13VipDvarTagSvn]: 10.15.4.104 GET /html/BRAND=2/CELT=html/CID=194317/CLIENT:ID=CHEETAH/CNET%2dONTOLOGY%2dNODE%2dID=17924/CNET%2dPAGE%2dGUID=Ck0N3goPOUcAACTp%40OgAAAAQ/DVAR_TAG=Hour%3BDowntime%3BGawker+Media%3BScientology%3BAttack/DVAR_FIRSTPAGE=1/HTTP_HOST=www.zdnet.com/HUB=cn/NCAT=6037%3A17924%3A/PAGESTATE=1%7C1799%7C%3B%3B%3B%7C/POS=100/PTYPE=2100/REMOTE_ADDR=89.206.68.19/SITE=2/SP=110/UA=Wget%2F1.12+%28darwin10.3.1%29 HTTP/1.0 --><!--NO AD TEXT:COULD NOT MAP ( _MAPPINGS=&#39;ZDNET&#39; BRAND=&#39;2&#39; SITE=&#39;2&#39; SP=&#39;110&#39; CNET-PTYPE=&#39;00&#39; POS=&#39;100&#39; NCAT=&#39;6037:17924:&#39; CNET-PARTNER-ID=&#39;&#39; ) TO _RGROUP--><!-- Cheetah T 0.3.3.3 -->    
+<!-- php client madison [r20100514-1345-c13VipDvarTagSvn]: 10.15.4.104 GET /html/BRAND=2/CELT=html/CID=194317/CLIENT:ID=CHEETAH/CNET%2dONTOLOGY%2dNODE%2dID=17924/CNET%2dPAGE%2dGUID=Ck0N3goPOUcAACTp%40OgAAAAQ/DVAR_TAG=Hour%3BDowntime%3BGawker+Media%3BScientology%3BAttack/DVAR_FIRSTPAGE=1/HTTP_HOST=www.zdnet.com/HUB=cn/NCAT=6037%3A17924%3A/PAGESTATE=1%7C1799%7C%3B%3B%3B%7C/POS=100/PTYPE=2100/REMOTE_ADDR=89.206.68.19/SITE=2/SP=173/UA=Wget%2F1.12+%28darwin10.3.1%29 HTTP/1.0 --><!--NO AD TEXT:COULD NOT MAP ( _MAPPINGS=&#39;ZDNET&#39; BRAND=&#39;2&#39; SITE=&#39;2&#39; SP=&#39;173&#39; CNET-PTYPE=&#39;00&#39; POS=&#39;100&#39; NCAT=&#39;6037:17924:&#39; CNET-PARTNER-ID=&#39;&#39; ) TO _RGROUP--><!-- Cheetah T 0.5.5.5 -->
+    
+<!-- php client madison [r20100514-1345-c13VipDvarTagSvn]: 10.15.4.104 GET /html/BRAND=2/CELT=html/CID=194317/CLIENT:ID=CHEETAH/CNET%2dONTOLOGY%2dNODE%2dID=17924/CNET%2dPAGE%2dGUID=Ck0N3goPOUcAACTp%40OgAAAAQ/DVAR_TAG=Hour%3BDowntime%3BGawker+Media%3BScientology%3BAttack/DVAR_FIRSTPAGE=1/HTTP_HOST=www.zdnet.com/HUB=cn/NCAT=6037%3A17924%3A/POS=100/PTYPE=2100/REMOTE_ADDR=89.206.68.19/SITE=2/SP=16/UA=Wget%2F1.12+%28darwin10.3.1%29 HTTP/1.0 --><div class="mpu mpu-upper"><div id="madison_ad_16_100"><div style="text-align:center;"><a href="http://www.cbsinteractive.com/adfeedback/?REDIRECT=TRUE&RGROUP=8042&amp;SEGMENTID=469652&amp;LINEID=384739&amp;SP=16&amp;ADVERTISERID=8404" target="new"><img src="http://i.i.com.com/cnwk.1d/Ads/common/adinfo_top.gif" width="50" height="10" border="0" alt="advertisement" /></a></div><div style="text-align:center;"><center><IFRAME SRC="http://ad.doubleclick.net/adi/N4478.cnet.comOX2308/B4959243.6;sz=300x250;pc=cbs469652;click0=http://adlog.com.com/adlog/e/r=8042&amp;sg=469652&amp;o=6037%253A17924%253A&amp;h=cn&amp;p=&amp;b=2&amp;l=&amp;site=2&amp;pt=2100&amp;nd=17924&amp;pid=&amp;cid=194317&amp;pp=100&amp;e=&amp;rqid=00c13-ad-e7:4D17322A8E0C71&amp;orh=&amp;oepartner=&amp;epartner=&amp;ppartner=&amp;pdom=&amp;cpnmodule=&amp;count=&amp;ra=89.206.68.19&amp;pg=Ck0N3goPOUcAACTp@OgAAAAQ&amp;t=2010.12.26.22.50.04&event=58/;ord=2010.12.26.22.50.04?" width="300" height="250" MARGINWIDTH=0 MARGINHEIGHT=0 HSPACE=0 VSPACE=0 FRAMEBORDER=0 SCROLLING=no BORDERCOLOR='#000000'>
+<SCRIPT language='JavaScript1.1' SRC="http://ad.doubleclick.net/adj/N4478.cnet.comOX2308/B4959243.6;abr=!ie;sz=300x250;pc=cbs469652;click0=http://adlog.com.com/adlog/e/r=8042&amp;sg=469652&amp;o=6037%253A17924%253A&amp;h=cn&amp;p=&amp;b=2&amp;l=&amp;site=2&amp;pt=2100&amp;nd=17924&amp;pid=&amp;cid=194317&amp;pp=100&amp;e=&amp;rqid=00c13-ad-e7:4D17322A8E0C71&amp;orh=&amp;oepartner=&amp;epartner=&amp;ppartner=&amp;pdom=&amp;cpnmodule=&amp;count=&amp;ra=89.206.68.19&amp;pg=Ck0N3goPOUcAACTp@OgAAAAQ&amp;t=2010.12.26.22.50.04&event=58/;ord=2010.12.26.22.50.04?">
+</SCRIPT>
+<NOSCRIPT>
+<A href="http://adlog.com.com/adlog/e/r=8042&amp;sg=469652&amp;o=6037%253A17924%253A&amp;h=cn&amp;p=&amp;b=2&amp;l=&amp;site=2&amp;pt=2100&amp;nd=17924&amp;pid=&amp;cid=194317&amp;pp=100&amp;e=&amp;rqid=00c13-ad-e7:4D17322A8E0C71&amp;orh=&amp;oepartner=&amp;epartner=&amp;ppartner=&amp;pdom=&amp;cpnmodule=&amp;count=&amp;ra=89.206.68.19&amp;pg=Ck0N3goPOUcAACTp@OgAAAAQ&amp;t=2010.12.26.22.50.04&event=58/http://ad.doubleclick.net/jump/N4478.cnet.comOX2308/B4959243.6;abr=!ie4;abr=!ie5;sz=300x250;pc=cbs469652;ord=2010.12.26.22.50.04?">
+<IMG SRC="http://ad.doubleclick.net/ad/N4478.cnet.comOX2308/B4959243.6;abr=!ie4;abr=!ie5;sz=300x250;pc=cbs469652;ord=2010.12.26.22.50.04?" BORDER=0 WIDTH=300 HEIGHT=250 ALT="Click Here"></A>
+</NOSCRIPT>
+</IFRAME><img src="http://adlog.com.com/adlog/i/r=8042&amp;sg=469652&amp;o=6037%253A17924%253A&amp;h=cn&amp;p=&amp;b=2&amp;l=&amp;site=2&amp;pt=2100&amp;nd=17924&amp;pid=&amp;cid=194317&amp;pp=100&amp;e=&amp;rqid=00c13-ad-e7:4D17322A8E0C71&amp;orh=&amp;ort=&amp;oepartner=&amp;epartner=&amp;ppartner=&amp;pdom=&amp;cpnmodule=&amp;count=&amp;ra=89.206.68.19&amp;dvar=dvar_tag%253DHour%253BDowntime%253BGawker%2BMedia%253BScientology%253BAttack%2523dvar_firstpage%253D1&amp;ucat_rsi=%2526&amp;pg=Ck0N3goPOUcAACTp@OgAAAAQ&amp;t=2010.12.26.22.50.04/http://i.i.com.com/cnwk.1d/Ads/common/dotclear.gif" HEIGHT="0" WIDTH="0" alt="" style="position:absolute; top:0px; left:0px" /></center></div></div></div><!-- Cheetah T 0.5.5.10 -->		
+    
+<div class="space-2">
+    <div class="hed hed-1">
+        <h3 class="h s-6 c-1"><span class="int">The best of ZDNet, delivered</span></h3>
+    </div><!-- /hed -->
+
+    <div class="space-_5 reg-is-logged-out">
+        <a href="/members/join-ebook?regSrc=ebook.promo.delivered"><img src="http://i.zdnet.com/images/201008/promo-ebook-delivered.png" width="300" height="51" alt="" /></a> 
+    </div>
+
+    <div class="view-1 space-0">
+        <div class="int">
+            <div class="hed hed-2">
+                <h4 class="h s-6 c-4"><a href="http://nl.zdnet.com/acct_mgmt.sc?brand=zdnet&urs_auth=1">ZDNet Newsletters</a></h4>
+                <p class="sub-hed fancy c-4">Get the best of ZDNet delivered straight to your inbox</p>
+            </div>
+
+            <div class="reg-is-logged-in hide">
+                <form class="space-2 promo-subscribe validate-group" action="/members/manage" id="promo-subscribe-logged-in">
+                    <div class="lvl checkbox s-10 clear">
+                        <input type="checkbox" name="newsletters" checked="checked" value="e530:INTERNAL_NEWSLETTER" id="promo-subscribe-nl-e530" class="one-required" />
+                        <label for="promo-subscribe-nl-e530"><b>ZDNet Downloads Newsletter:</b> ZDNet delivers great free downloads and trial software that will make you more productive</label>
+                    </div><!-- /lvl -->
+
+                    <div class="lvl checkbox s-10 clear">
+                        <input type="checkbox" name="newsletters" checked="checked" value="e540:INTERNAL_NEWSLETTER" id="promo-subscribe-nl-e540" />
+                        <label for="promo-subscribe-nl-e540"><b>ZDNet Week in Review:</b> Stay updated on the most important news, trends and products</label>
+                    </div><!-- /lvl -->
+
+                    <div class="lvl-btn clear">
+                        <button type="submit" class="btn-1">Subscribe Today</button>
+                    </div>
+                </form>
+            </div><!-- /reg-logged-in -->
+
+            <div class="reg-is-logged-out">
+                <form class="space-2 promo-subscribe" action="/members/join" id="promo-subscribe-logged-out">
+                    <div class="lvl clear">
+                        <input type="text" class="area-7 area-last required validate-email" name="email" value="" id="promo-subscribe-email" placeholder="Your Email">
+                    </div><!-- /lvl -->
+
+                    <div class="lvl checkbox s-10 clear">
+                        <input type="checkbox" name="newsletters" checked="checked" value="e590:INTERNAL_NEWSLETTER" id="promo-subscribe-nl-e590" />
+                        <label for="promo-subscribe-nl-e590"><b>ZDNet&#8217;s White Paper Membership Newsletter:</b> Stay current with site news and updates from White Papers</label>
+                    </div><!-- /lvl -->
+
+                    <div class="lvl checkbox s-10 clear">
+                        <input type="checkbox" name="newsletters" checked="checked" value="e589:INTERNAL_NEWSLETTER" id="promo-subscribe-nl-e589" />
+                        <label for="promo-subscribe-nl-e589"><b>ZDNet&#8217;s Must-Read News Alerts:</b> Breaking IT news as it happens</label>
+                    </div><!-- /lvl -->
+
+                    <div class="lvl-hidden">
+                        <input type="hidden" name="regSrc" value="zd-delivered" />
+                    </div>
+
+                    <div class="lvl-btn clear">
+                        <button type="submit" class="btn-1">Subscribe Today</button>
+                    </div>
+                </form>
+            </div><!-- /reg-logged-out -->
+
+            <ul class="list-3 list-dbl-bdr fancy s-7 promo-social">
+                <li class="facebook"><a href="http://www.facebook.com/pages/ZDNet/5953112932" rel="nofollow" onclick="DW.redir({tag:'Facebook_on_site_promo'})">Be a fan on <b>Facebook</b></a></li>
+                <li class="twitter"><a href="http://twitter.com/zdnet" rel="nofollow" onclick="DW.redir({tag:'Twitter_on_site_promo'})">Follow us on <b>Twitter</b></a></li>
+                <li class="youtube"><a href="http://www.youtube.com/user/zdnetvideo" rel="nofollow" onclick="DW.redir({tag:'Youtube_on_site_promo'})">Watch us on <b>YouTube</b></a></li>
+            </ul>
+        </div><!-- /int -->
+    </div><!-- /view-1 -->
+
+    <script type="text/javascript">
+    (function() {
+        var signupPromo = new CNB.SubscribePromo('promo-subscribe-logged-in', 'promo-subscribe-logged-out');
+    })();
+    </script>
+</div><!-- space -->
+
+    <!-- BIDWAR -->
+    <iframe class="space-2 bidwar" width="100%" scrolling="no" height="180" frameborder="0" align="top" target="_top" marginwidth="0" marginheight="0" src="http://bwp.zdnet.com/search?dw-siteid=2&dw-ptid=2100&dw-edid=2&dw-ontid=17924"></iframe>
+    <!-- /BIDWAR -->
+    
+    <!-- BLOG2BIZ -->
+    
+<!-- php client madison [r20100514-1345-c13VipDvarTagSvn]: 10.15.4.104 GET /html/BRAND=2/CELT=html/CID=194317/CLIENT:ID=CHEETAH/CNET%2dONTOLOGY%2dNODE%2dID=17924/CNET%2dPAGE%2dGUID=Ck0N3goPOUcAACTp%40OgAAAAQ/DVAR_TAG=Hour%3BDowntime%3BGawker+Media%3BScientology%3BAttack/DVAR_FIRSTPAGE=1/HTTP_HOST=www.zdnet.com/HUB=cn/NCAT=6037%3A17924%3A/PAGESTATE=1%7C1799%7C%3B%3B%3B%7C/POS=100/PTYPE=2100/REMOTE_ADDR=89.206.68.19/SITE=2/SP=128/UA=Wget%2F1.12+%28darwin10.3.1%29 HTTP/1.0 --><div class="ad-blog2biz space-2">
+<!-- BEGIN AD CALL -->
+<!-- TARGET=CONTAINER Blog - ZDNET SEATS1=6 SEATS2=3 lpSize1=4 lpSize2=1 -->
+<style type="text/css" media="screen">@import url(http://ads.com.com/Ads/common/ContainerBlog/styles.css);</style>
+<script language="JavaScript" type="text/javascript" src="http://adimg.zdnet.com/Ads/common/popwin.js"></script>
+
+<div id="blog_spbg">
+<h2><span>Blogs From Our Sponsors</span></h2>
+<div class="blog_spmid">
+
+<ul>
+<!-- LINK 1 START -->
+<li><a href="http://adlog.com.com/adlog/c/t=2010.12.26.22.50.04&amp;x-fid=4&amp;r=8466&amp;sg=479774&amp;o=6037%253A17924%253A&amp;h=cn&amp;p=&amp;b=2&amp;l=&amp;site=2&amp;pt=2100&amp;nd=17924&amp;pid=&amp;cid=194317&amp;pp=100&amp;e=&amp;rqid=01c13-ad-e5:4D17C58ED166&amp;orh=&amp;oepartner=&amp;epartner=&amp;ppartner=&amp;pdom=&amp;cpnmodule=&amp;count=&amp;ra=89.206.68.19&amp;pg=Ck0N3goPOUcAACTp@OgAAAAQ/http://www.zdnet.com/blog/doc/in-defense-of-print/1690?tag=mantle_skin;content">In Defense of Print <b>></b></a><IMG SRC="http://adlog.com.com/adlog/i/t=2010.12.26.22.50.04&amp;x-fid=4&amp;r=8466&amp;sg=479774&amp;o=6037%253A17924%253A&amp;h=cn&amp;p=&amp;b=2&amp;l=&amp;site=2&amp;pt=2100&amp;nd=17924&amp;pid=&amp;cid=194317&amp;pp=100&amp;e=&amp;rqid=01c13-ad-e5:4D17C58ED166&amp;orh=&amp;ort=&amp;oepartner=&amp;epartner=&amp;ppartner=&amp;pdom=&amp;cpnmodule=&amp;count=&amp;ra=89.206.68.19&amp;dvar=dvar_tag%253DHour%253BDowntime%253BGawker%2BMedia%253BScientology%253BAttack%2523dvar_firstpage%253D1&amp;ucat_rsi=%2526&amp;pg=Ck0N3goPOUcAACTp@OgAAAAQ/http://i.i.com.com/cnwk.1d/Ads/common/dotclear.gif" HEIGHT="0" WIDTH="0" alt="" style="position:absolute; top:0px; left:0px"/></li>
+<!-- LINK 1 END -->
+			
+<!-- LINK 2 START -->
+<li><a href="http://adlog.com.com/adlog/c/t=2010.12.26.22.50.04&amp;x-fid=4&amp;r=8466&amp;sg=479775&amp;o=6037%253A17924%253A&amp;h=cn&amp;p=&amp;b=2&amp;l=&amp;site=2&amp;pt=2100&amp;nd=17924&amp;pid=&amp;cid=194317&amp;pp=100&amp;e=&amp;rqid=01c13-ad-e5:4D17C58ED166&amp;orh=&amp;oepartner=&amp;epartner=&amp;ppartner=&amp;pdom=&amp;cpnmodule=&amp;count=&amp;ra=89.206.68.19&amp;pg=Ck0N3goPOUcAACTp@OgAAAAQ/http://www.zdnet.com/blog/doc/no-more-irs-forms-in-the-mail/1693">No More IRS Forms in the Mail <b>></b></a><IMG SRC="http://adlog.com.com/adlog/i/t=2010.12.26.22.50.04&amp;x-fid=4&amp;r=8466&amp;sg=479775&amp;o=6037%253A17924%253A&amp;h=cn&amp;p=&amp;b=2&amp;l=&amp;site=2&amp;pt=2100&amp;nd=17924&amp;pid=&amp;cid=194317&amp;pp=100&amp;e=&amp;rqid=01c13-ad-e5:4D17C58ED166&amp;orh=&amp;ort=&amp;oepartner=&amp;epartner=&amp;ppartner=&amp;pdom=&amp;cpnmodule=&amp;count=&amp;ra=89.206.68.19&amp;dvar=dvar_tag%253DHour%253BDowntime%253BGawker%2BMedia%253BScientology%253BAttack%2523dvar_firstpage%253D1&amp;ucat_rsi=%2526&amp;pg=Ck0N3goPOUcAACTp@OgAAAAQ/http://i.i.com.com/cnwk.1d/Ads/common/dotclear.gif" HEIGHT="0" WIDTH="0" alt="" style="position:absolute; top:0px; left:0px"/></li>
+<!-- LINK 2 END -->
+			
+<!-- LINK 3 START -->
+<li><a href="http://adlog.com.com/adlog/c/t=2010.12.26.22.50.04&amp;x-fid=4&amp;r=8466&amp;sg=479772&amp;o=6037%253A17924%253A&amp;h=cn&amp;p=&amp;b=2&amp;l=&amp;site=2&amp;pt=2100&amp;nd=17924&amp;pid=&amp;cid=194317&amp;pp=100&amp;e=&amp;rqid=01c13-ad-e5:4D17C58ED166&amp;orh=&amp;oepartner=&amp;epartner=&amp;ppartner=&amp;pdom=&amp;cpnmodule=&amp;count=&amp;ra=89.206.68.19&amp;pg=Ck0N3goPOUcAACTp@OgAAAAQ/http://www.zdnet.com/blog/doc/still-debating-saturday-mail-delivery/1616">Still Debating Saturday Mail Delivery <b>></b></a><IMG SRC="http://adlog.com.com/adlog/i/t=2010.12.26.22.50.04&amp;x-fid=4&amp;r=8466&amp;sg=479772&amp;o=6037%253A17924%253A&amp;h=cn&amp;p=&amp;b=2&amp;l=&amp;site=2&amp;pt=2100&amp;nd=17924&amp;pid=&amp;cid=194317&amp;pp=100&amp;e=&amp;rqid=01c13-ad-e5:4D17C58ED166&amp;orh=&amp;ort=&amp;oepartner=&amp;epartner=&amp;ppartner=&amp;pdom=&amp;cpnmodule=&amp;count=&amp;ra=89.206.68.19&amp;dvar=dvar_tag%253DHour%253BDowntime%253BGawker%2BMedia%253BScientology%253BAttack%2523dvar_firstpage%253D1&amp;ucat_rsi=%2526&amp;pg=Ck0N3goPOUcAACTp@OgAAAAQ/http://i.i.com.com/cnwk.1d/Ads/common/dotclear.gif" HEIGHT="0" WIDTH="0" alt="" style="position:absolute; top:0px; left:0px"/></li>
+<!-- LINK 3 END -->
+			
+<!-- LINK 4 START -->
+<li><a href="http://adlog.com.com/adlog/c/t=2010.12.26.22.50.04&amp;x-fid=4&amp;r=8466&amp;sg=479773&amp;o=6037%253A17924%253A&amp;h=cn&amp;p=&amp;b=2&amp;l=&amp;site=2&amp;pt=2100&amp;nd=17924&amp;pid=&amp;cid=194317&amp;pp=100&amp;e=&amp;rqid=01c13-ad-e5:4D17C58ED166&amp;orh=&amp;oepartner=&amp;epartner=&amp;ppartner=&amp;pdom=&amp;cpnmodule=&amp;count=&amp;ra=89.206.68.19&amp;pg=Ck0N3goPOUcAACTp@OgAAAAQ/http://www.zdnet.com/blog/doc/easy-printing-from-mobile-devices/1687">Easy Printing from Mobile Devices <b>></b></a><IMG SRC="http://adlog.com.com/adlog/i/t=2010.12.26.22.50.04&amp;x-fid=4&amp;r=8466&amp;sg=479773&amp;o=6037%253A17924%253A&amp;h=cn&amp;p=&amp;b=2&amp;l=&amp;site=2&amp;pt=2100&amp;nd=17924&amp;pid=&amp;cid=194317&amp;pp=100&amp;e=&amp;rqid=01c13-ad-e5:4D17C58ED166&amp;orh=&amp;ort=&amp;oepartner=&amp;epartner=&amp;ppartner=&amp;pdom=&amp;cpnmodule=&amp;count=&amp;ra=89.206.68.19&amp;dvar=dvar_tag%253DHour%253BDowntime%253BGawker%2BMedia%253BScientology%253BAttack%2523dvar_firstpage%253D1&amp;ucat_rsi=%2526&amp;pg=Ck0N3goPOUcAACTp@OgAAAAQ/http://i.i.com.com/cnwk.1d/Ads/common/dotclear.gif" HEIGHT="0" WIDTH="0" alt="" style="position:absolute; top:0px; left:0px"/></li>
+<!-- LINK 4 END -->
+			</ul><IMG SRC="http://adlog.com.com/adlog/i/t=2010.12.26.22.50.04&amp;x-fid=4&amp;r=8465&amp;sg=127215&amp;o=6037%253A17924%253A&amp;h=cn&amp;p=&amp;b=2&amp;l=&amp;site=2&amp;pt=2100&amp;nd=17924&amp;pid=&amp;cid=194317&amp;pp=100&amp;e=&amp;rqid=01c13-ad-e5:4D17C58ED166&amp;orh=&amp;ort=&amp;oepartner=&amp;epartner=&amp;ppartner=&amp;pdom=&amp;cpnmodule=&amp;count=&amp;ra=89.206.68.19&amp;dvar=dvar_tag%253DHour%253BDowntime%253BGawker%2BMedia%253BScientology%253BAttack%2523dvar_firstpage%253D1&amp;ucat_rsi=%2526&amp;pg=Ck0N3goPOUcAACTp@OgAAAAQ/http://i.i.com.com/cnwk.1d/Ads/common/dotclear.gif" HEIGHT="0" WIDTH="0" alt="" style="position:absolute; top:0px; left:0px"/><ul class="blog_sponsLogo1">
+<!-- LINK 1 START -->
+<li class="blog_logo1"><a href="http://adlog.com.com/adlog/c/t=2010.12.26.22.50.04&amp;x-fid=4&amp;r=8467&amp;sg=479766&amp;o=6037%253A17924%253A&amp;h=cn&amp;p=&amp;b=2&amp;l=&amp;site=2&amp;pt=2100&amp;nd=17924&amp;pid=&amp;cid=194317&amp;pp=100&amp;e=&amp;rqid=01c13-ad-e5:4D17C58ED166&amp;orh=&amp;oepartner=&amp;epartner=&amp;ppartner=&amp;pdom=&amp;cpnmodule=&amp;count=&amp;ra=89.206.68.19&amp;pg=Ck0N3goPOUcAACTp@OgAAAAQ/http://www.ricoh-usa.com/" target="_blank"><img src="http://adlog.com.com/adlog/i/t=2010.12.26.22.50.04&amp;x-fid=4&amp;r=8467&amp;sg=479766&amp;o=6037%253A17924%253A&amp;h=cn&amp;p=&amp;b=2&amp;l=&amp;site=2&amp;pt=2100&amp;nd=17924&amp;pid=&amp;cid=194317&amp;pp=100&amp;e=&amp;rqid=01c13-ad-e5:4D17C58ED166&amp;orh=&amp;ort=&amp;oepartner=&amp;epartner=&amp;ppartner=&amp;pdom=&amp;cpnmodule=&amp;count=&amp;ra=89.206.68.19&amp;dvar=dvar_tag%253DHour%253BDowntime%253BGawker%2BMedia%253BScientology%253BAttack%2523dvar_firstpage%253D1&amp;ucat_rsi=%2526&amp;pg=Ck0N3goPOUcAACTp@OgAAAAQ/http://i.i.com.com/cnwk.1d/Ads/9114/10/ricoh_88x31.gif" height="31" width="88" alt="Click Here" border="0" /></a></li>
+<!-- LINK 1 END -->
+			
+</ul>
+</div></div></div><!-- Cheetah T 0.7.7.22 -->
+    <!-- Vendor Showcase -->
+    
+<!-- php client madison [r20100514-1345-c13VipDvarTagSvn]: 10.15.4.104 GET /html/BRAND=2/CELT=html/CID=194317/CLIENT:ID=CHEETAH/CNET%2dONTOLOGY%2dNODE%2dID=17924/CNET%2dPAGE%2dGUID=Ck0N3goPOUcAACTp%40OgAAAAQ/DVAR_TAG=Hour%3BDowntime%3BGawker+Media%3BScientology%3BAttack/DVAR_FIRSTPAGE=1/HTTP_HOST=www.zdnet.com/HUB=cn/NCAT=6037%3A17924%3A/PAGESTATE=1%7C1799%7C%3B%3B%3B%7C/POS=300/PTYPE=2100/REMOTE_ADDR=89.206.68.19/SITE=2/SP=102/UA=Wget%2F1.12+%28darwin10.3.1%29 HTTP/1.0 --><div class="shared-resource-center space-2">
+<!-- BEGIN AD CALL -->
+<!-- SEATS=10 TARGET=21482 -->
+<!--<script language="JavaScript" type="text/javascript" src="http://adimg.zdnet.com/Ads/common/popwin.js"></script>-->
+ <div id="powerPlayShell" class="relatedShell"> <h3><span>Vendor Showcase</span></h3>
+  
+  <div id="powerPlay">
+
+   <div id="pplayLinks">
+    <ul>
+		
+<!-- LINK 1 START -->
+<li><!-- SRC --><a href="http://adlog.com.com/adlog/e/t=2010.12.26.22.50.04&amp;x-fid=4&amp;r=17964&amp;sg=429963&amp;o=6037%253A17924%253A&amp;h=cn&amp;p=&amp;b=2&amp;l=&amp;site=2&amp;pt=2100&amp;nd=17924&amp;pid=&amp;cid=194317&amp;pp=300&amp;e=&amp;rqid=01c13-ad-e3:4D172810964FBB&amp;orh=&amp;oepartner=&amp;epartner=&amp;ppartner=&amp;pdom=&amp;cpnmodule=&amp;count=&amp;ra=89.206.68.19&amp;pg=Ck0N3goPOUcAACTp@OgAAAAQ&event=7/http://www.zdnet.com/powercenter/oracle/enterprise.html" >Lowering The Cost Of Managing Applications <span class="credit">Sponsored by Oracle</span></a><!-- /SRC --><IMG SRC="http://adlog.com.com/adlog/i/t=2010.12.26.22.50.04&amp;x-fid=4&amp;r=17964&amp;sg=429963&amp;o=6037%253A17924%253A&amp;h=cn&amp;p=&amp;b=2&amp;l=&amp;site=2&amp;pt=2100&amp;nd=17924&amp;pid=&amp;cid=194317&amp;pp=300&amp;e=&amp;rqid=01c13-ad-e3:4D172810964FBB&amp;orh=&amp;ort=&amp;oepartner=&amp;epartner=&amp;ppartner=&amp;pdom=&amp;cpnmodule=&amp;count=&amp;ra=89.206.68.19&amp;dvar=dvar_tag%253DHour%253BDowntime%253BGawker%2BMedia%253BScientology%253BAttack%2523dvar_firstpage%253D1&amp;ucat_rsi=%2526&amp;pg=Ck0N3goPOUcAACTp@OgAAAAQ/http://i.i.com.com/cnwk.1d/Ads/common/dotclear.gif" HEIGHT="0" WIDTH="0" alt="" style="position:absolute; top:0px; left:0px"/></li>
+<!-- LINK 1 END -->
+			
+<!-- LINK 2 START -->
+<li><!-- SRC --><a href="http://adlog.com.com/adlog/e/t=2010.12.26.22.50.04&amp;x-fid=4&amp;r=17964&amp;sg=481563&amp;o=6037%253A17924%253A&amp;h=cn&amp;p=&amp;b=2&amp;l=&amp;site=2&amp;pt=2100&amp;nd=17924&amp;pid=&amp;cid=194317&amp;pp=300&amp;e=&amp;rqid=01c13-ad-e3:4D172810964FBB&amp;orh=&amp;oepartner=&amp;epartner=&amp;ppartner=&amp;pdom=&amp;cpnmodule=&amp;count=&amp;ra=89.206.68.19&amp;pg=Ck0N3goPOUcAACTp@OgAAAAQ&event=7/http://www.zdnet.com/powercenter/dell" >Visit the Dell Virtualization Resource Center</a><!-- /SRC --><IMG SRC="http://adlog.com.com/adlog/i/t=2010.12.26.22.50.04&amp;x-fid=4&amp;r=17964&amp;sg=481563&amp;o=6037%253A17924%253A&amp;h=cn&amp;p=&amp;b=2&amp;l=&amp;site=2&amp;pt=2100&amp;nd=17924&amp;pid=&amp;cid=194317&amp;pp=300&amp;e=&amp;rqid=01c13-ad-e3:4D172810964FBB&amp;orh=&amp;ort=&amp;oepartner=&amp;epartner=&amp;ppartner=&amp;pdom=&amp;cpnmodule=&amp;count=&amp;ra=89.206.68.19&amp;dvar=dvar_tag%253DHour%253BDowntime%253BGawker%2BMedia%253BScientology%253BAttack%2523dvar_firstpage%253D1&amp;ucat_rsi=%2526&amp;pg=Ck0N3goPOUcAACTp@OgAAAAQ/http://i.i.com.com/cnwk.1d/Ads/common/dotclear.gif" HEIGHT="0" WIDTH="0" alt="" style="position:absolute; top:0px; left:0px"/></li>
+<!-- LINK 2 END -->
+			
+<!-- LINK 3 START -->
+<li><!-- SRC --><a href="http://adlog.com.com/adlog/e/t=2010.12.26.22.50.04&amp;x-fid=4&amp;r=17964&amp;sg=470514&amp;o=6037%253A17924%253A&amp;h=cn&amp;p=&amp;b=2&amp;l=&amp;site=2&amp;pt=2100&amp;nd=17924&amp;pid=&amp;cid=194317&amp;pp=300&amp;e=&amp;rqid=01c13-ad-e3:4D172810964FBB&amp;orh=&amp;oepartner=&amp;epartner=&amp;ppartner=&amp;pdom=&amp;cpnmodule=&amp;count=&amp;ra=89.206.68.19&amp;pg=Ck0N3goPOUcAACTp@OgAAAAQ&event=7/http://reviews.cnet.com/intel/" >Learn how the Intel Core Family can power your business</a><!-- /SRC --><IMG SRC="http://adlog.com.com/adlog/i/t=2010.12.26.22.50.04&amp;x-fid=4&amp;r=17964&amp;sg=470514&amp;o=6037%253A17924%253A&amp;h=cn&amp;p=&amp;b=2&amp;l=&amp;site=2&amp;pt=2100&amp;nd=17924&amp;pid=&amp;cid=194317&amp;pp=300&amp;e=&amp;rqid=01c13-ad-e3:4D172810964FBB&amp;orh=&amp;ort=&amp;oepartner=&amp;epartner=&amp;ppartner=&amp;pdom=&amp;cpnmodule=&amp;count=&amp;ra=89.206.68.19&amp;dvar=dvar_tag%253DHour%253BDowntime%253BGawker%2BMedia%253BScientology%253BAttack%2523dvar_firstpage%253D1&amp;ucat_rsi=%2526&amp;pg=Ck0N3goPOUcAACTp@OgAAAAQ/http://i.i.com.com/cnwk.1d/Ads/common/dotclear.gif" HEIGHT="0" WIDTH="0" alt="" style="position:absolute; top:0px; left:0px"/></li>
+<!-- LINK 3 END -->
+			
+    </ul>
+   </div><!-- id="pplayLinks" -->
+
+  <div class="clear"></div>
+
+  </div><!-- id="powerPlay" class="exclusive" -->
+
+ </div><!-- id="powerPlayShell"-->
+<!-- /END AD CALL -->
+		<IMG SRC="http://adlog.com.com/adlog/i/t=2010.12.26.22.50.04&amp;x-fid=4&amp;r=17965&amp;sg=428157&amp;o=6037%253A17924%253A&amp;h=cn&amp;p=&amp;b=2&amp;l=&amp;site=2&amp;pt=2100&amp;nd=17924&amp;pid=&amp;cid=194317&amp;pp=300&amp;e=&amp;rqid=01c13-ad-e3:4D172810964FBB&amp;orh=&amp;ort=&amp;oepartner=&amp;epartner=&amp;ppartner=&amp;pdom=&amp;cpnmodule=&amp;count=&amp;ra=89.206.68.19&amp;dvar=dvar_tag%253DHour%253BDowntime%253BGawker%2BMedia%253BScientology%253BAttack%2523dvar_firstpage%253D1&amp;ucat_rsi=%2526&amp;pg=Ck0N3goPOUcAACTp@OgAAAAQ/http://i.i.com.com/cnwk.1d/Ads/common/dotclear.gif" HEIGHT="0" WIDTH="0" alt="" style="position:absolute; top:0px; left:0px"/></div><!-- Cheetah T 0.7.7.16 -->
+    <!-- FB Activity -->
+	<div class="space-2">
+	<div class="hed hed-1">
+		<h2 class="h s-5 c-1"><span class="int">Facebook Activity</span></h2><!-- /h -->
+	</div>
+	<iframe src="http://www.facebook.com/plugins/activity.php?site=zdnet.com&amp;width=300&amp;height=350&amp;header=false&amp;colorscheme=light&amp;recommendations=false" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:300px; height:350px;" allowTransparency="true"></iframe>
+</div>
+
+    
+<div class="space-2">
+    <div class="hed hed-1">
+        <h2 class="h s-6 c-1"><span class="int">Blog Roll</span></h2>
+    </div><!-- /hed -->
+
+    <div class="clear">
+        <div class="area-4">
+            <ul class="list-1 space-0">
+                        <li><a href="/blog/microsoft">All About Microsoft</a></li>
+                            <li><a href="/blog/apple">The Apple Core</a></li>
+                            <li><a href="/blog/btl">Between the Lines</a></li>
+                            <li><a href="/blog/gardner">BriefingsDirect</a></li>
+                            <li><a href="/blog/collaboration">Collaboration 2.0</a></li>
+                            <li><a href="/blog/burnette">Dev Connection</a></li>
+                            <li><a href="/blog/carroll">A Developer's View</a></li>
+                            <li><a href="/blog/digitalcameras">Digital Cameras & Camcorders</a></li>
+                            <li><a href="/blog/bott">Ed Bott's Microsoft Report</a></li>
+                            <li><a href="/blog/emergingtech">Emerging Tech</a></li>
+                            <li><a href="/blog/hinchcliffe">Enterprise Web 2.0</a></li>
+                            <li><a href="/blog/datacenter">Five Nines: The Next Gen Datacenter</a></li>
+                            <li><a href="/blog/forrester">Forrester Research</a></li>
+                            <li><a href="/blog/gamification">Gamification</a></li>
+                            <li><a href="/blog/google">Googling Google</a></li>
+                            <li><a href="/blog/green">GreenTech Pastures</a></li>
+                            <li><a href="/blog/hardware">Hardware 2.0</a></li>
+                            <li><a href="/blog/home-theater">Home Theater</a></li>
+                            <li><a href="/blog/igeneration">iGeneration</a></li>
+                            <li><a href="/blog/india">India IT</a></li>
+                            <li><a href="/blog/howlett">Irregular Enterprise</a></li>
+                            <li><a href="/blog/projectfailures">IT Project Failures</a></li>
+                            <li><a href="/blog/computers">Laptops & Desktops</a></li>
+                            <li><a href="/blog/howell">Lawgarithms</a></li>
+                            <li><a href="/blog/open-source">Linux and Open Source</a></li>
+                    </ul>
+        </div><!-- /area -->
+        <div class="area-4 area-last">
+            <ul class="list-1 space-0">
+                            <li><a href="/blog/murphy">Managing L'unix</a></li>
+                            <li><a href="/blog/mobile-gadgeteer">The Mobile Gadgeteer</a></li>
+                            <li><a href="/blog/networking">Networking</a></li>
+                            <li><a href="/blog/sustainability">On Sustainability</a></li>
+                            <li><a href="/blog/semantic-web">The Semantic Web</a></li>
+                            <li><a href="/blog/seo">SEO Whistleblower</a></li>
+                            <li><a href="/blog/service-oriented">Service Oriented</a></li>
+                            <li><a href="/blog/cell-phones">Smartphones and Cell Phones</a></li>
+                            <li><a href="/blog/feeds">Social Business</a></li>
+                            <li><a href="/blog/crm">Social CRM: The Conversation</a></li>
+                            <li><a href="/blog/sommer">Software & Services Safari</a></li>
+                            <li><a href="/blog/saas">Software as Services</a></li>
+                            <li><a href="/blog/storage">Storage Bits</a></li>
+                            <li><a href="/blog/perlow">Tech Broiler</a></li>
+                            <li><a href="/blog/foremski">Tom Foremski: IMHO</a></li>
+                            <li><a href="/blog/gadgetreviews">The ToyBox</a></li>
+                            <li><a href="/blog/virtualization">Virtually Speaking</a></li>
+                            <li><a href="/blog/weblife">The Web Life</a></li>
+                            <li><a href="/blog/education">ZDNet Education</a></li>
+                            <li><a href="/blog/government">ZDNet Government</a></li>
+                            <li><a href="/blog/security">Zero Day</a></li>
+                        </ul>
+        </div><!-- /area -->
+    </div><!-- /clear -->
+</div><!-- space -->
+
+    
+<div class="space-2">
+    <div class="hed hed-1">
+        <h2 class="h s-6 c-1"><span class="int">Blog Archive</span></h2>
+    </div><!-- /hed -->
+
+    <div class="clear">
+        <div class="area-4">
+            <ul class="list-1 space-0">
+                        <li><a href="/blog/perlow/201012">December 2010</a></li>
+                            <li><a href="/blog/perlow/201011">November 2010</a></li>
+                            <li><a href="/blog/perlow/201010">October 2010</a></li>
+                            <li><a href="/blog/perlow/201009">September 2010</a></li>
+                            <li><a href="/blog/perlow/201008">August 2010</a></li>
+                            <li><a href="/blog/perlow/201007">July 2010</a></li>
+                            <li><a href="/blog/perlow/201006">June 2010</a></li>
+                            <li><a href="/blog/perlow/201005">May 2010</a></li>
+                    </ul>
+        </div><!-- /area -->
+        <div class="area-4 area-last">
+            <ul class="list-1 space-0">
+                            <li><a href="/blog/perlow/201004">April 2010</a></li>
+                            <li><a href="/blog/perlow/201003">March 2010</a></li>
+                            <li><a href="/blog/perlow/201002">February 2010</a></li>
+                            <li><a href="/blog/perlow/201001">January 2010</a></li>
+                            <li><a href="/blog/perlow/200912">December 2009</a></li>
+                            <li><a href="/blog/perlow/200911">November 2009</a></li>
+                            <li><a href="/blog/perlow/200910">October 2009</a></li>
+                        </ul>
+        </div><!-- /area -->
+    </div><!-- /clear -->
+</div><!-- space -->
+    
+    <!-- MEDUSA -->
+<div class="view-medusa space-2">
+    <div class="hed hed-1">
+        <h5 class="h s-7"><span class="int">White Papers, Webcasts, &amp; Resources</span></h5>
+    </div><!-- /hed -->
+    <ul>
+      <li class="icn wp">
+    <a target="_top" href="http://dw.com.com/rubicsclk?ver=2&amp;ts=2010.12.26.14.50.04.PST&amp;edId=&amp;onId=&amp;ptId=&amp;sId=-1&amp;appId=4&amp;offId=5160&amp;unitId=6&amp;poolId=2&amp;f1=-1&amp;f2=-0&amp;f3=-0&amp;alg=1&amp;&amp;opt=1&amp;linkPos=0&amp;destUrl=http%3A%2F%2Fwhitepapers.zdnet.com%2Fabstract.aspx%3Fdocid%3D1932235%26promo%3D100503">Tensions Emerge between Sales and Finance</a>Increasingly, incentive compensation has become a shared responsibility ... <cite>(Varicent)</cite><b><i><a href="http://dw.com.com/rubicsclk?ver=2&amp;ts=2010.12.26.14.50.04.PST&amp;edId=&amp;onId=&amp;ptId=&amp;sId=-1&amp;appId=4&amp;offId=5160&amp;unitId=6&amp;poolId=2&amp;f1=-1&amp;f2=-0&amp;f3=-0&amp;alg=1&amp;&amp;opt=1&amp;linkPos=0&amp;destUrl=http%3A%2F%2Fwhitepapers.zdnet.com%2Fabstract.aspx%3Fdocid%3D1932235%26promo%3D100503">Download Now</a></i></b>
+  </li>
+      <li class="icn wp">
+    <a target="_top" href="http://dw.com.com/rubicsclk?ver=2&amp;ts=2010.12.26.14.50.04.PST&amp;edId=&amp;onId=&amp;ptId=&amp;sId=-1&amp;appId=4&amp;offId=5810&amp;unitId=6&amp;poolId=2&amp;f1=-1&amp;f2=-0&amp;f3=-0&amp;alg=1&amp;&amp;opt=1&amp;linkPos=1&amp;destUrl=http%3A%2F%2Fwhitepapers.zdnet.com%2Fabstract.aspx%3Fdocid%3D2335357%26promo%3D100503">Cost-Effective Remote Office/Branch Office (ROBO) Virtualization with HP StorageWorks P4000 Virtual SAN Appliance (VSA)</a>Every HP StorageWorks P4000 Virtual SAN
+Appliance (VSA) ... <cite>(Hewlett-Packard (HP))</cite><b><i><a href="http://dw.com.com/rubicsclk?ver=2&amp;ts=2010.12.26.14.50.04.PST&amp;edId=&amp;onId=&amp;ptId=&amp;sId=-1&amp;appId=4&amp;offId=5810&amp;unitId=6&amp;poolId=2&amp;f1=-1&amp;f2=-0&amp;f3=-0&amp;alg=1&amp;&amp;opt=1&amp;linkPos=1&amp;destUrl=http%3A%2F%2Fwhitepapers.zdnet.com%2Fabstract.aspx%3Fdocid%3D2335357%26promo%3D100503">Download Now</a></i></b>
+  </li>
+      <li class="icn wp">
+    <a target="_top" href="http://dw.com.com/rubicsclk?ver=2&amp;ts=2010.12.26.14.50.04.PST&amp;edId=&amp;onId=&amp;ptId=&amp;sId=-1&amp;appId=4&amp;offId=5869&amp;unitId=6&amp;poolId=2&amp;f1=-1&amp;f2=-0&amp;f3=-0&amp;alg=1&amp;&amp;opt=1&amp;linkPos=2&amp;destUrl=http%3A%2F%2Fwhitepapers.zdnet.com%2Fabstract.aspx%3Fdocid%3D2361343%26promo%3D100503">A Powerful Platform for Virtualization</a>So many IT managers are trying to lower power and cooler costs, simplify ... <cite>(Hewlett-Packard (HP))</cite><b><i><a href="http://dw.com.com/rubicsclk?ver=2&amp;ts=2010.12.26.14.50.04.PST&amp;edId=&amp;onId=&amp;ptId=&amp;sId=-1&amp;appId=4&amp;offId=5869&amp;unitId=6&amp;poolId=2&amp;f1=-1&amp;f2=-0&amp;f3=-0&amp;alg=1&amp;&amp;opt=1&amp;linkPos=2&amp;destUrl=http%3A%2F%2Fwhitepapers.zdnet.com%2Fabstract.aspx%3Fdocid%3D2361343%26promo%3D100503">Download Now</a></i></b>
+  </li>
+    </ul>
+    <div><img src='http://dw.com.com/rubicsimp/c.gif?ver=2&amp;ts=2010.12.26.14.50.04.PST&amp;edId=&amp;onId=&amp;ptId=&amp;sId=-1&amp;appId=4&amp;unitId=6&amp;poolId=2&amp;f1=-1&amp;f2=-0&amp;f3=-0&amp;alg=1&amp;opt=1&amp;off=5160,-1;5810,-1;5869,-1;4977,-1;5813,-1;5172,-1' height='1' width='1' alt=''/></div></div>
+<!-- /MEDUSA -->
+
+
+    
+<!-- php client madison [r20100514-1345-c13VipDvarTagSvn]: 10.15.4.104 GET /html/BRAND=2/CELT=html/CID=194317/CLIENT:ID=CHEETAH/CNET%2dONTOLOGY%2dNODE%2dID=17924/CNET%2dPAGE%2dGUID=Ck0N3goPOUcAACTp%40OgAAAAQ/DVAR_TAG=Hour%3BDowntime%3BGawker+Media%3BScientology%3BAttack/DVAR_FIRSTPAGE=1/HTTP_HOST=www.zdnet.com/HUB=cn/NCAT=6037%3A17924%3A/POS=200/PTYPE=2100/REMOTE_ADDR=89.206.68.19/SITE=2/SP=16/UA=Wget%2F1.12+%28darwin10.3.1%29 HTTP/1.0 --><div class="mpu mpu-lower"><div id="madison_ad_16_200"><div style="text-align:center;"><a href="http://www.cbsinteractive.com/adfeedback/?REDIRECT=TRUE&RGROUP=8054&amp;SEGMENTID=479961&amp;LINEID=391442&amp;SP=16&amp;ADVERTISERID=1799" target="new"><img src="http://i.i.com.com/cnwk.1d/Ads/common/adinfo_top.gif" width="50" height="10" border="0" alt="advertisement" /></a></div><div style="text-align:center;"><center><!-- Iframe Only -->
+<iframe src="http://adfarm.mediaplex.com/ad/fm/10384-105022-24688-0?mpt=2010.12.26.22.50.04&mpvc=" width="300" height="250" marginwidth=0 marginheight=0 hspace=0 vspace=0 frameborder=0 scrolling=no bordercolor="#000000">
+<a href="http://adfarm.mediaplex.com/ad/ck/10384-105022-24688-0?mpt=2010.12.26.22.50.04">
+<img src="http://adfarm.mediaplex.com/ad/!bn/10384-105022-24688-0?mpt=2010.12.26.22.50.04"
+ alt="Click Here" border="0"></a>
+</iframe><img src="http://adlog.com.com/adlog/i/r=8054&amp;sg=479961&amp;o=6037%253A17924%253A&amp;h=cn&amp;p=&amp;b=2&amp;l=&amp;site=2&amp;pt=2100&amp;nd=17924&amp;pid=&amp;cid=194317&amp;pp=200&amp;e=&amp;rqid=00c17-ad-e3:4D17856D4276A8&amp;orh=&amp;ort=&amp;oepartner=&amp;epartner=&amp;ppartner=&amp;pdom=&amp;cpnmodule=&amp;count=&amp;ra=89.206.68.19&amp;dvar=dvar_tag%253DHour%253BDowntime%253BGawker%2BMedia%253BScientology%253BAttack%2523dvar_firstpage%253D1&amp;ucat_rsi=%2526&amp;pg=Ck0N3goPOUcAACTp@OgAAAAQ&amp;t=2010.12.26.22.50.04/http://i.i.com.com/cnwk.1d/Ads/common/dotclear.gif" HEIGHT="0" WIDTH="0" alt="" style="position:absolute; top:0px; left:0px" /></center></div></div></div><!-- Cheetah T 0.4.4.6 -->
+</div><!-- /area -->
+</div><!-- /content -->
+</div><!-- /skin -->
+</div><!-- /trunk -->
+<div id="footer">
+	<div class="contain contain-24 clear">
+        <div class="area-4">
+            <a class="site-logo">ZDNet</a>
+        </div><!-- /area-4 -->
+ 
+        <div class="area-20 area-last">
+            <div class="clear">	
+                <div class="area-12">        
+                <div class="site-utils fancy s-10 clear">
+    <span class="reg-is-logged-in hide">
+        <a href="/members/logout" rel="nofollow" onclick="CNB.Reg.logout({},event)">Log Out</a> |
+        <a href="/members/manage" rel="nofollow" onclick="CNB.Reg.manage({},event)">Manage</a> |
+    </span><!-- /reg-logged-in -->
+
+    <span class="reg-is-logged-out">
+        <a href="/members/login" rel="nofollow" onclick="CNB.Reg.login({regSrc:'zd-header'},event)">Log In</a> |
+        <a href="/members/join" rel="nofollow" onclick="CNB.Reg.join({regSrc:'zd-header'},event)">Join</a> |
+    </span><!-- /reg-logged-out -->
+    <a href="http://zdnet.custhelp.com/" rel="nofollow">Site Assistance</a> |
+    <span class="follow">
+        Follow via
+        <a href="http://twitter.com/zdnet" class="icon-cont twitter" rel="nofollow" title="Twitter">Twitter</a>
+        <a href="http://www.facebook.com/pages/ZDNet/5953112932" class="icon-cont facebook" rel="nofollow" title="Facebook">Facebook</a>
+        <a href='http://nl.zdnet.com/acct_mgmt.sc?brand=zdnet' class="icon-cont alert" rel="nofollow" title="Email">Email</a>
+    </span><!-- /follow -->
+</div><!-- /site-utils -->
+
+
+
+                </div><!-- /area-12 -->
+
+                <div class="area-8 area-last">
+                
+<div class="site-search" id="site-search-lower">
+    <form action="/search">
+        <div class="int clear">
+            <input type="text" value="" class="query" name="q" placeholder="Search" />
+            <button type="submit" class="btn btn-search">Search</button>
+        </div><!-- /clear -->
+    </form>
+    <div class="overlay-search">
+        <ul class="options list-3 fancy">
+            <li><a class="on" section="all">All of ZDNet</a></li>
+            <li><a section="reviews">Reviews</a></li>
+            <li><a section="whitepapers">Whitepapers</a></li>
+            <li><a section="downloads">Downloads</a></li>
+        </ul>
+    </div>
+</div><!-- /site-search -->
+
+<script type="text/javascript">
+(function() {
+    var search = new CNB.SearchSection('site-search-lower').load();
+})();
+</script>
+                </div><!-- /area-8 -->
+			</div><!-- /clear -->
+
+            <div class="clear space-2">
+                <div class="area-16">
+                <h5 class="h s-7 fancy">Featured Articles</h5>
+        	<div class="area-4">
+        <div class="thumb thumb-4 space-1"><a href="http://www.zdnet.com/blog/bott/how-long-will-microsoft-support-xp-vista-and-windows-7/2304"><span class="mask mask-16x9-130"><img src="http://i.zdnet.com/gallery/452867-130-94.jpg" width="130" height="94" alt="How long will Microsoft support XP, Vista, and Windows 7?" /></span></a></div>
+  		<h6 class="h s-7"><a href="http://www.zdnet.com/blog/bott/how-long-will-microsoft-support-xp-vista-and-windows-7/2304">How long will Microsoft support XP, Vista, and Windows 7?</a></h6>
+		<p class="s-10">Maybe longer than you think. One current version, in fact, will still be supported in 2020. And no, it’s not Windows XP.</p>
+  	</div>
+            	<div class="area-4">
+        <div class="thumb thumb-4 space-1"><a href="http://www.zdnet.com/holiday-gift-guide"><span class="mask mask-16x9-130"><img src="http://i.zdnet.com/gallery/475259-130-88.jpg" width="130" height="88" alt="ZDNet Holiday Tech Gift Guide 2010" /></span></a></div>
+  		<h6 class="h s-7"><a href="http://www.zdnet.com/holiday-gift-guide">ZDNet Holiday Tech Gift Guide 2010</a></h6>
+		<p class="s-10">Gadget gift ideas and picks by the ZDNet Reviews experts you trust.</p>
+  	</div>
+            	<div class="area-4">
+        <div class="thumb thumb-4 space-1"><a href="http://www.zdnet.com/photos/photos-20-ipad-competitors-to-watch/476715"><span class="mask mask-16x9-130"><img src="http://i.zdnet.com/gallery/480014-130-88.jpg" width="130" height="88" alt="20 iPad killers to watch" /></span></a></div>
+  		<h6 class="h s-7"><a href="http://www.zdnet.com/photos/photos-20-ipad-competitors-to-watch/476715">20 iPad killers to watch</a></h6>
+		<p class="s-10">The Apple iPad has re-energized the market for tablet computers but it has gone nearly all of 2010 without a serious challenger. That will soon change.</p>
+  	</div>
+            	<div class="area-4 area-last">
+        <div class="thumb thumb-4 space-1"><a href="http://www.zdnet.com/blog/networking/herding-firesheep/293"><span class="mask mask-16x9-130"><img src="http://i.zdnet.com/gallery/480336-181-73.jpg" width="181" height="73" alt="Herding Firesheep" /></span></a></div>
+  		<h6 class="h s-7"><a href="http://www.zdnet.com/blog/networking/herding-firesheep/293">Herding Firesheep</a></h6>
+		<p class="s-10">The only real answer for Firesheep is for all Web 2.0 sites to start using security. That won't be easy.</p>
+  	</div>
+                        
+                </div><!-- /area-16 -->
+
+                <div class="area-4 area-last">
+                <h6 class="h s-7 fancy">Services</h6>
+<ul class="list-2 fancy">
+    <li><a href="http://www.zdnet.com/about">About Us</a></li>
+    <li><a href="http://www.zdnet.com/members/login" rel="nofollow">Membership</a></li>
+    <li><a href="http://nl.zdnet.com/acct_mgmt.sc?brand=zdnet&urs_auth=1">Newsletters</a></li>
+    <li><a href="http://www.zdnet.com/rssfeeds">RSS Feeds</a></li>
+    <li><a href="http://www.zdnet.com/sitemap">Site Map</a></li>
+    <li><a href="http://www.zdnet.com/glossary">ZDNet Technology Topics Glossary</a></li>
+    <li><a href="http://www.zdnet.com/advertise">Advertise</a></li>
+    <li><a href="http://www.cbsinteractive.com/careers.php">Jobs</a></li>
+	<li><a href="http://www.zdnet.com/reprints">Reprint Policy</a></li>
+</ul>
+                </div><!-- /area-4 -->
+            </div><!-- /clear -->
+        <div class="cbs">
+    	<div class="lvl popular s-10 fancy">
+		<span class="label">Popular on CBS sites:</span>
+		<span class="value">
+					<a href="http://www.cbssports.com/tennis">US Open</a> | 					<a href="http://www.cbssports.com/golf">PGA Championship</a> | 					<a href="http://www.cnet.com/apple-ipad">iPad</a> | 					<a href="http://www.metacritic.com/games/">Video Game Reviews</a> | 					<a href="http://reviews.cnet.com/cell-phones">Cell Phones</a>				</span>
+	</div><!-- /cbs-popular -->
+    
+    	<div class="lvl legal s-10 fancy">          
+				&copy; 2010 CBS Interactive. All rights reserved.				<a href="http://legalterms.cbsinteractive.com/privacy" rel="nofollow">Privacy Policy</a> | 
+				<a href="http://legalterms.cbsinteractive.com/terms-of-use" rel="nofollow">Terms of Use</a>
+		</div> 
+      
+    	<div class="lvl sites">
+		<span class="label fancy">Around the network</span>
+		<form action="">
+		  <select id="cbsi_footer_menu">
+	        	            <option value="http://www.bnet.com">BNET</option>
+	        	            <option value="http://www.cbscares.com">CBS Cares</option>
+	        	            <option value="http://www.cbsfilms.com">CBS Films</option>
+	        	            <option value="http://www.cbsradio.com/streaming/index.html">CBS Radio</option>
+	        	            <option value="http://www.cbs.com">CBS.com</option>
+	        	            <option value="http://www.cbsinteractive.com">CBSInteractive</option>
+	        	            <option value="http://www.cbsnews.com">CBSNews.com</option>
+	        	            <option value="http://www.cbssports.com">CBSSports.com</option>
+	        	            <option value="http://www.chow.com">CHOW</option>
+	        	            <option value="http://www.cnet.com">CNET</option>
+	        	            <option value="http://collegenetwork.cbssports.com">College Network</option>
+	        	            <option value="http://findarticles.com">Find Articles</option>
+	        	            <option value="http://www.gamespot.com">GameSpot</option>
+	        	            <option value="http://www.help.com">Help.com</option>
+	        	            <option value="http://www.last.fm">Last.fm</option>
+	        	            <option value="http://www.maxpreps.com">MaxPreps</option>
+	        	            <option value="http://www.metacritic.com">Metacritic.com</option>
+	        	            <option value="http://moneywatch.bnet.com">Moneywatch</option>
+	        	            <option value="http://www.mysimon.com">mySimon</option>
+	        	            <option value="http://www.radio.com">Radio.com</option>
+	        	            <option value="http://www.search.com">Search.com</option>
+	        	            <option value="http://www.shopper.com">Shopper.com</option>
+	        	            <option value="http://www.sho.com">Showtime</option>
+	        	            <option value="http://www.smartplanet.com">SmartPlanet</option>
+	        	            <option value="http://www.techrepublic.com">TechRepublic</option>
+	        	            <option value="http://www.theinsider.com">The Insider</option>
+	        	            <option value="http://www.tv.com">TV.com</option>
+	        	            <option value="http://www.urbanbaby.com">UrbanBaby.com</option>
+	        	            <option value="http://www.zdnet.com">ZDNet</option>
+	        	        </select>
+	        <input type="button" value="Go" onClick="window.location=document.getElementById('cbsi_footer_menu').options[document.getElementById('cbsi_footer_menu').selectedIndex].value;" />
+		</form>
+	</div><!-- /sites -->
+    </div><!-- /cbs -->
+ 
+        </div><!-- /area-20 -->
+    </div><!-- /contain -->
+</div><!-- /footer -->
+
+<!-- DW Tracking -->
+<script type="text/javascript">
+    DW.clear();
+    DW.trackClicks();
+</script>
+<!-- /DW Tracking -->
+
+
+
+
+<!-- BH Tracking -->
+<script type="text/javascript" src="http://i.i.com.com/cnwk.1d/Ads/common/manta/adFunctions-zdnet.js"></script>
+<script type="text/javascript">
+    var cbsiAdGlobal = {
+        'SITE' : '2',
+        'NCAT' : '6037:17924:',
+        'PTYPE' : '2100',
+        'CID' : '194317'
+    };
+    cbsiRegisterAdGlobals(cbsiAdGlobal);
+    cbsiAdBehavioralSetup();
+    cbsiAdBehavioral();          
+</script>
+<!-- /BH Tracking -->
+
+
+<!-- GA Tracking -->
+<script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-4559453-1']);
+    _gaq.push(['_setDomainName', '.zdnet.com']);
+    _gaq.push(['_trackPageview']);
+    _gaq.push(['b._setAccount', 'UA-5635019-36']);
+    _gaq.push(['b._setDomainName', '.zdnet.com']);
+    _gaq.push(['b._trackPageview']);
+    (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(ga);
+    })();
+</script>
+<!-- /GA Tracking -->
+
+<!-- START Nielsen//NetRatings SiteCensus V5.3 -->
+<!-- COPYRIGHT 2008 Nielsen//NetRatings -->
+<script type="text/javascript">
+        var _rsCI="cbsaustralia";
+        var _rsCG="zdnet";
+        var _rsDN="//secure-au.imrworldwide.com/";
+</script>
+<script type="text/javascript" src="http://secure-au.imrworldwide.com/v53.js"></script>
+<noscript>
+	<div>
+		<img src="http://secure-au.imrworldwide.com/cgi-bin/m?ci=cbsaustralia&amp;cg=zdnet&amp;cc=1" alt="" />
+	</div>
+</noscript>
+<!-- END Nielsen//NetRatings SiteCensus V5.3 -->
+
+
+<script type="text/javascript"
+src="http://offers-service.cbsinteractive.com/offers/script.sc?offerId=74"></script>
+</body>
+</html>

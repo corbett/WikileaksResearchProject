@@ -1,0 +1,966 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+  <meta http-equiv="X-UA-Compatible" content="IE=8">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  
+  <script type="text/javascript">
+//<![CDATA[
+(function(g){var a=location.href.split("#!")[1];if(a){window.location.hash = "";g.location.pathname = g.HBR = a.replace(/^([^/])/,"/$1");}})(window);
+//]]>
+</script>
+  <script type="text/javascript">
+//<![CDATA[
+if(!window.HBR){var matches,url,path,domain;url=document.location.toString();try{domain=url.match(/https?:\/\/[^\/]+/);if(matches=url.match(/(.+?)#(.+)/)){url=matches[1];path=matches[2];if(path){var arr=path.split(/\?/);path=arr[0];var params=arr[1];path=path.replace(/^\//,"");var redirect_url=[domain,path].join("/");if(params){redirect_url=[redirect_url,params].join("?")}document.location=redirect_url}}}catch(err){};}
+//]]>
+</script>
+  <script type="text/javascript">
+//<![CDATA[
+var page={};var onCondition=function(D,C,A,B){D=D;A=A?Math.min(A,5):5;B=B||100;if(D()){C()}else{if(A>1){setTimeout(function(){onCondition(D,C,A-1,B)},B)}}};
+//]]>
+</script>
+  <meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+<meta content="en-us" http-equiv="Content-Language" />
+<meta content="Twitter is without a doubt the best way to share and discover what is happening right now." name="description" />
+<meta content="no" http-equiv="imagetoolbar" />
+<meta content="width = 780" name="viewport" />
+<meta content="4FTTxY4uvo0RZTMQqIyhh18HsepyJOctQ+XTOu1zsfE=" name="verify-v1" />
+<meta content="1" name="page" />
+<meta content="NOODP" name="robots" />
+<meta content="n" name="session-loggedin" />
+  <title id="page_title">Twitter</title>
+  <link href="http://a1.twimg.com/a/1292975674/images/twitter_57.png" rel="apple-touch-icon" />
+<link href="/oexchange.xrd" rel="http://oexchange.org/spec/0.8/rel/related-target" type="application/xrd+xml" />
+<link href="http://a1.twimg.com/a/1292975674/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+  <link href="http://a3.twimg.com/a/1292975674/stylesheets/fronts.css?1293061170" media="screen" rel="stylesheet" type="text/css" />
+  
+  </head>
+
+<body class="timeline safari phoenix-skybar front" id="front">
+  <script type="text/javascript">
+//<![CDATA[
+if (window.top !== window.self) {document.write = "";window.top.location = window.self.location; setTimeout(function(){document.body.innerHTML='';},1);window.self.onload=function(evt){document.body.innerHTML='';};}
+//]]>
+</script>
+  
+  <div id="header">
+  <div class="background">
+    <div class="inner">
+      <div id="logo-search">
+        <a href="/" id="logo"><img alt="Twitter" height="55" src="http://a0.twimg.com/a/1292975674/images/fronts/logo_withbird_home.png" width="224" /></a>
+        <form action="/search" id="home_search" method="post"><div style="margin:0;padding:0"><input name="authenticity_token" type="hidden" value="cee3442d38795e1f73d8a17d3475e5713e3e1f44" /></div>
+          <p>
+            <input accesskey="/" class="round-left" id="searchform_q" name="q" size="30" tabindex="8" type="text" /><input class="submit round-right" id="searchform_submit" name="commit" tabindex="9" type="submit" value="Search" />
+          </p>
+        </form>
+        <p id="tag">
+          The best way to discover what&rsquo;s new in your world.
+        </p>
+      </div>
+      <div id="topnav">
+        <div id="signin-c">
+          <div id="signin_controls">
+  <span id="have_an_account">
+    Have an account?<a href="/login" class="signin" tabindex="3"><span>Sign in</span></a></span>
+  <div id="signin_menu" class="common-form standard-form offscreen">
+  
+    <form method="post" id="signin" action="https://twitter.com/sessions">
+  
+  <input id="authenticity_token" name="authenticity_token" type="hidden" value="cee3442d38795e1f73d8a17d3475e5713e3e1f44" />  <input id="return_to_ssl" name="return_to_ssl" type="hidden" value="false" />
+  <input id="redirect_after_login" name="redirect_after_login" type="hidden" value="/" />  <p class="textbox">
+    <label for="username">Username or email</label>
+    <input type="text" id="username" name="session[username_or_email]" value="" title="username" tabindex="4"/>
+  </p>
+
+  <p class="textbox">
+    <label for="password">Password</label>
+    <input type="password" id="password" name="session[password]" value="" title="password" tabindex="5"/>
+  </p>
+
+  <p class="remember">
+    <input type="submit" id="signin_submit" value="Sign in" tabindex="7"/>
+    <input type="checkbox" id="remember" name="remember_me" value="1" tabindex="6"/>
+    <label for="remember">Remember me</label>
+  </p>
+
+  <p class="forgot">
+    <a href="/account/resend_password" id="resend_password_link">Forgot password?</a>
+  </p>
+
+  <p class="forgot-username">
+    <a href="/account/resend_password" id="forgot_username_link" title="If you remember your password, try logging in with your email">Forgot username?</a>
+  </p>
+    <p class="complete">
+      <a href="/account/complete" id="account_complete_link">Already using Twitter on your phone?</a>
+    </p>
+  <input type="hidden" name="q" id="signin_q" value=""/>
+  </form>
+</div>
+
+</div>
+
+
+        </div>
+      </div>
+      <div class="overlay">
+  <div class="newuser">
+    <h2>New to Twitter?</h2>
+    <p>Easy, free, and instant updates. Get access to the information that interests you most.</p>
+    <p id="signup-btn"><a href="/signup" id="signup_submit" tabindex="10"><span>Sign Up &rsaquo;</span></a></p>
+    <h2>A #NewTwitter</h2>
+    <p><a href="/newtwitter">Catch a glimpse</a> of the new Twitter.com.</p>
+    <p><a href="/newtwitter?autoplay=true" id="video-thumb"><img alt="Video-sample-ss" height="140" src="http://a0.twimg.com/a/1292975674/images/whatsnew/video-sample-ss.png" width="200" /></a></p>
+  </div>
+</div>
+    </div>
+  </div>
+  
+    
+
+<div id="trends">
+  
+  <div class="inner">
+      <ul class="trendscontent">
+        
+          
+              <li class="trend-label">Trending topics</li>
+          
+          <li>
+            <a href="http://twitter.com/search?q=Teena+Marie" class="search_link" name="Teena Marie" rel="nofollow">Teena Marie</a>
+            
+            <em class="description"></em>
+          </li>
+        
+          
+          <li>
+            <a href="http://twitter.com/search?q=Rugrats" class="search_link" name="Rugrats" rel="nofollow">Rugrats</a>
+            
+            <em class="description"></em>
+          </li>
+        
+          
+          <li>
+            <a href="http://twitter.com/search?q=Square+Biz" class="search_link" name="Square Biz" rel="nofollow">Square Biz</a>
+            
+            <em class="description"></em>
+          </li>
+        
+          
+          <li>
+            <a href="http://twitter.com/search?q=Lil+Duval" class="search_link" name="Lil Duval" rel="nofollow">Lil Duval</a>
+            
+            <em class="description"></em>
+          </li>
+        
+          
+          <li>
+            <a href="http://twitter.com/search?q=Hefner" class="search_link" name="Hefner" rel="nofollow">Hefner</a>
+            
+            <em class="description"></em>
+          </li>
+        
+          
+          <li>
+            <a href="http://twitter.com/search?q=Fire+%26+Desire" class="search_link" name="Fire &amp; Desire" rel="nofollow">Fire &amp; Desire</a>
+            
+            <em class="description"></em>
+          </li>
+        
+          
+          <li>
+            <a href="http://twitter.com/search?q=Lovergirl" class="search_link" name="Lovergirl" rel="nofollow">Lovergirl</a>
+            
+            <em class="description"></em>
+          </li>
+        
+          
+              <li class="trend-label">Trending topics</li>
+          
+          <li>
+            <a href="http://twitter.com/search?q=FHC" class="search_link" name="FHC" rel="nofollow">FHC</a>
+            
+            <em class="description"></em>
+          </li>
+        
+          
+          <li>
+            <a href="http://twitter.com/search?q=Arag%C3%A3o" class="search_link" name="Aragão" rel="nofollow">Aragão</a>
+            
+            <em class="description"></em>
+          </li>
+        
+          
+          <li>
+            <a href="http://twitter.com/search?q=Crystal+Harris" class="search_link" name="Crystal Harris" rel="nofollow">Crystal Harris</a>
+            
+            <em class="description"></em>
+          </li>
+        
+          
+          <li>
+            <a href="http://twitter.com/search?q=Eli+Manning" class="search_link" name="Eli Manning" rel="nofollow">Eli Manning</a>
+            
+            <em class="description"></em>
+          </li>
+        
+          
+          <li>
+            <a href="http://twitter.com/search?q=AFC+West" class="search_link" name="AFC West" rel="nofollow">AFC West</a>
+            
+            <em class="description"></em>
+          </li>
+        
+          
+          <li>
+            <a href="http://twitter.com/search?q=Forrest+Gump" class="search_link" name="Forrest Gump" rel="nofollow">Forrest Gump</a>
+            
+            <em class="description"></em>
+          </li>
+        
+          
+          <li>
+            <a href="http://twitter.com/search?q=Clay+Matthews" class="search_link" name="Clay Matthews" rel="nofollow">Clay Matthews</a>
+            
+            <em class="description"></em>
+          </li>
+        
+          
+              <li class="trend-label">Trending topics</li>
+          
+          <li>
+            <a href="http://twitter.com/search?q=Kuhn" class="search_link" name="Kuhn" rel="nofollow">Kuhn</a>
+            
+            <em class="description"></em>
+          </li>
+        
+          
+          <li>
+            <a href="http://twitter.com/search?q=Tom+Coughlin" class="search_link" name="Tom Coughlin" rel="nofollow">Tom Coughlin</a>
+            
+            <em class="description"></em>
+          </li>
+        
+          
+          <li>
+            <a href="http://twitter.com/search?q=Norv" class="search_link" name="Norv" rel="nofollow">Norv</a>
+            
+            <em class="description"></em>
+          </li>
+        
+          
+          <li>
+            <a href="http://twitter.com/search?q=Tokyo+Dome" class="search_link" name="Tokyo Dome" rel="nofollow">Tokyo Dome</a>
+            
+            <em class="description"></em>
+          </li>
+        
+          
+          <li>
+            <a href="http://twitter.com/search?q=Andr%C3%A9s+P%C3%A9rez" class="search_link" name="Andrés Pérez" rel="nofollow">Andrés Pérez</a>
+            
+            <em class="description"></em>
+          </li>
+        
+          
+          <li>
+            <a href="http://twitter.com/search?q=Halid" class="search_link" name="Halid" rel="nofollow">Halid</a>
+            
+            <em class="description"></em>
+          </li>
+        
+          
+          <li>
+            <a href="http://twitter.com/search?q=Fockers" class="search_link" name="Fockers" rel="nofollow">Fockers</a>
+            
+            <em class="description"></em>
+          </li>
+        
+          
+          <li>
+            <a href="http://twitter.com/search?q=Support+Garuda" class="search_link" name="Support Garuda" rel="nofollow">Support Garuda</a>
+            
+            <em class="description"></em>
+          </li>
+        
+          
+          <li>
+            <a href="http://twitter.com/search?q=Kwanzaa" class="search_link" name="Kwanzaa" rel="nofollow">Kwanzaa</a>
+            
+            <em class="description"></em>
+          </li>
+        
+          
+          <li>
+            <a href="http://twitter.com/search?q=McGee" class="search_link" name="McGee" rel="nofollow">McGee</a>
+            
+            <em class="description"></em>
+          </li>
+        
+          
+          <li>
+            <a href="http://twitter.com/search?q=Monta+Ellis" class="search_link" name="Monta Ellis" rel="nofollow">Monta Ellis</a>
+            
+            <em class="description"></em>
+          </li>
+        
+      </ul>
+  </div>
+  <span class="fade fade-left">&nbsp;</span><span class="fade fade-right">&nbsp;</span>
+  
+</div>
+
+
+  
+</div>
+
+  <ul id="accessibility" class="offscreen">
+  <li><a href="#content" accesskey="0">Skip past navigation</a></li>
+  <li>On a mobile phone? Check out <a href="http://m.twitter.com/">m.twitter.com</a>!</li>
+  <li><a href="#footer" accesskey="2">Skip to navigation</a></li>
+    <li><a href="#signin">Skip to sign in form</a></li>
+</ul>
+
+
+  <div class="content-wrapper">
+    <div id="content" class="homepage">
+      
+
+<div class="section clearfix">
+  <div class="aside">
+    
+        <div class="trenddesc" style="display:none">
+    <span class="trending">Trending Now</span>
+
+    <div id="trend"></div>
+
+    <div id="trend_description"><p></p></div>
+
+    <div id="what_the_trend">Source: <span>What the Trend?</span></div>
+  </div>
+  <div class="current-trends" style="display:none">
+    <h3>Top Trending Topics</h3>
+    <ul>
+      
+        <li><a href="http://twitter.com/search?q=%23iprefer" class="search_link" name="#iprefer" rel="nofollow">#iprefer</a></li>
+      
+        <li><a href="http://twitter.com/search?q=Teena+Marie" class="search_link" name="Teena Marie" rel="nofollow">Teena Marie</a></li>
+      
+        <li><a href="http://twitter.com/search?q=%232010memories" class="search_link" name="#2010memories" rel="nofollow">#2010memories</a></li>
+      
+        <li><a href="http://twitter.com/search?q=Rugrats" class="search_link" name="Rugrats" rel="nofollow">Rugrats</a></li>
+      
+        <li><a href="http://twitter.com/search?q=%23gokings" class="search_link" name="#gokings" rel="nofollow">#gokings</a></li>
+      
+        <li><a href="http://twitter.com/search?q=Square+Biz" class="search_link" name="Square Biz" rel="nofollow">Square Biz</a></li>
+      
+        <li><a href="http://twitter.com/search?q=Lil+Duval" class="search_link" name="Lil Duval" rel="nofollow">Lil Duval</a></li>
+      
+        <li><a href="http://twitter.com/search?q=Hefner" class="search_link" name="Hefner" rel="nofollow">Hefner</a></li>
+      
+        <li><a href="http://twitter.com/search?q=Fire+%26+Desire" class="search_link" name="Fire &amp; Desire" rel="nofollow">Fire &amp; Desire</a></li>
+      
+        <li><a href="http://twitter.com/search?q=Lovergirl" class="search_link" name="Lovergirl" rel="nofollow">Lovergirl</a></li>
+      
+    </ul>
+  </div>
+
+    
+    <div class="search-tip" style="display:none">
+      <h3>Search tip</h3>
+      <div>Use <em>from:</em> immediately before a username to find tweets from that user. Example: <a href="/search?q=from%3Aalexiskold">from:alexiskold</a> will find tweets sent from the user "alexiskold".</div>
+    </div>
+    
+      
+        <div id="sources">
+          <div class="inside">
+            <h2>See who&rsquo;s here</h2>
+            <ul>
+              <li>
+  <a href="/AP_Fashion" class="avatar-sm" hreflang="en" id="icon_AP_Fashion" rel="AP_Fashion" target="_blank"><img alt="" border="0" height="48" src="http://a3.twimg.com/profile_images/396911953/ap_bigger_normal.png" style="vertical-align:middle" width="48" /></a>
+
+  <div class="hc" id="hc_AP_Fashion">
+    <div class="hc-profile">
+      <a href="/AP_Fashion" class="avatar" hreflang="en" target="_blank"><img alt="AP_Fashion" border="0" height="48" src="http://a3.twimg.com/profile_images/396911953/ap_bigger_normal.png" style="vertical-align:middle" width="48" /></a>
+      <div class="hc-name"><strong>AP Fashion</strong><span class="hc-verified">&nbsp;</span></div>
+      <span class="hc-username">@<a href="/AP_Fashion">AP_Fashion</a></span>
+      <span class="hc-location">New York | in Fashion</span>
+    </div>
+    
+      <div class="hc-tweet">
+        <div class="hc-label">Recently tweeted:</div>
+        <div class="hc-tweet-text">Too much hustle and bustle? Donna Karan says reach out and touch someone. http://bit.ly/gcodbP</div>
+        <div class="hc-meta">7:01 PM Dec 22nd</div>
+      </div>
+    
+    <div class="hc-pointer">&nbsp;</div>
+  </div>
+</li>
+<li>
+  <a href="/butchwalker" class="avatar-sm" hreflang="en" id="icon_butchwalker" rel="butchwalker" target="_blank"><img alt="" border="0" height="48" src="http://a3.twimg.com/profile_images/553797384/butchsample7small_normal.jpg" style="vertical-align:middle" width="48" /></a>
+
+  <div class="hc" id="hc_butchwalker">
+    <div class="hc-profile">
+      <a href="/butchwalker" class="avatar" hreflang="en" target="_blank"><img alt="butchwalker" border="0" height="48" src="http://a3.twimg.com/profile_images/553797384/butchsample7small_normal.jpg" style="vertical-align:middle" width="48" /></a>
+      <div class="hc-name"><strong>butchwalker</strong><span class="hc-verified">&nbsp;</span></div>
+      <span class="hc-username">@<a href="/butchwalker">butchwalker</a></span>
+      <span class="hc-location">ATLA | in Music</span>
+    </div>
+    
+      <div class="hc-tweet">
+        <div class="hc-label">Recently tweeted:</div>
+        <div class="hc-tweet-text">Die Hard Antwoord #failedrockbandmovies</div>
+        <div class="hc-meta">about 5 hours ago</div>
+      </div>
+    
+    <div class="hc-pointer">&nbsp;</div>
+  </div>
+</li>
+<li>
+  <a href="/Slate" class="avatar-sm" hreflang="en" id="icon_Slate" rel="Slate" target="_blank"><img alt="" border="0" height="48" src="http://a2.twimg.com/profile_images/783323910/s_bigger_normal.gif" style="vertical-align:middle" width="48" /></a>
+
+  <div class="hc" id="hc_Slate">
+    <div class="hc-profile">
+      <a href="/Slate" class="avatar" hreflang="en" target="_blank"><img alt="Slate" border="0" height="48" src="http://a2.twimg.com/profile_images/783323910/s_bigger_normal.gif" style="vertical-align:middle" width="48" /></a>
+      <div class="hc-name"><strong>Slate</strong><span class="hc-verified">&nbsp;</span></div>
+      <span class="hc-username">@<a href="/Slate">Slate</a></span>
+      <span class="hc-location">in News</span>
+    </div>
+    
+      <div class="hc-tweet">
+        <div class="hc-label">Recently tweeted:</div>
+        <div class="hc-tweet-text">Barcelona is the best soccer team in the world. Happy #BoxingDay soccer fans! http://slate.me/hRvGLQ</div>
+        <div class="hc-meta">about 7 hours ago</div>
+      </div>
+    
+    <div class="hc-pointer">&nbsp;</div>
+  </div>
+</li>
+<li>
+  <a href="/couponmom" class="avatar-sm" hreflang="en" id="icon_couponmom" rel="couponmom" target="_blank"><img alt="" border="0" height="48" src="http://a0.twimg.com/profile_images/95995720/couponmom_twitter_logo_normal.png" style="vertical-align:middle" width="48" /></a>
+
+  <div class="hc" id="hc_couponmom">
+    <div class="hc-profile">
+      <a href="/couponmom" class="avatar" hreflang="en" target="_blank"><img alt="couponmom" border="0" height="48" src="http://a0.twimg.com/profile_images/95995720/couponmom_twitter_logo_normal.png" style="vertical-align:middle" width="48" /></a>
+      <div class="hc-name"><strong>CouponMom</strong><span class="hc-verified">&nbsp;</span></div>
+      <span class="hc-username">@<a href="/couponmom">couponmom</a></span>
+      <span class="hc-location">Atlanta, GA | in Deals</span>
+    </div>
+    
+      <div class="hc-tweet">
+        <div class="hc-label">Recently tweeted:</div>
+        <div class="hc-tweet-text">New blog post: Preview 1/2 RedPlum Coupons Now! http://www.couponmom.com/blog/2010/12/preview-12-redplum-coupons-now/</div>
+        <div class="hc-meta">about 3 hours ago</div>
+      </div>
+    
+    <div class="hc-pointer">&nbsp;</div>
+  </div>
+</li>
+<li>
+  <a href="/drawn" class="avatar-sm" hreflang="en" id="icon_drawn" rel="drawn" target="_blank"><img alt="" border="0" height="48" src="http://a3.twimg.com/profile_images/1151680102/drawnd_normal.jpg" style="vertical-align:middle" width="48" /></a>
+
+  <div class="hc" id="hc_drawn">
+    <div class="hc-profile">
+      <a href="/drawn" class="avatar" hreflang="en" target="_blank"><img alt="drawn" border="0" height="48" src="http://a3.twimg.com/profile_images/1151680102/drawnd_normal.jpg" style="vertical-align:middle" width="48" /></a>
+      <div class="hc-name"><strong>Drawn</strong><span class="hc-verified">&nbsp;</span></div>
+      <span class="hc-username">@<a href="/drawn">drawn</a></span>
+      <span class="hc-location">Canada | in Art & Design</span>
+    </div>
+    
+      <div class="hc-tweet">
+        <div class="hc-label">Recently tweeted:</div>
+        <div class="hc-tweet-text">“@beatonna: Dmitry Izotov, I just want to draw like you, how can I draw like you http://tinyurl.com/2chov89”</div>
+        <div class="hc-meta">4:35 PM Dec 21st</div>
+      </div>
+    
+    <div class="hc-pointer">&nbsp;</div>
+  </div>
+</li>
+<li>
+  <a href="/MensHealthMag" class="avatar-sm" hreflang="en" id="icon_MensHealthMag" rel="MensHealthMag" target="_blank"><img alt="" border="0" height="48" src="http://a3.twimg.com/profile_images/1173242795/covershotwahlberg_normal.jpg" style="vertical-align:middle" width="48" /></a>
+
+  <div class="hc" id="hc_MensHealthMag">
+    <div class="hc-profile">
+      <a href="/MensHealthMag" class="avatar" hreflang="en" target="_blank"><img alt="MensHealthMag" border="0" height="48" src="http://a3.twimg.com/profile_images/1173242795/covershotwahlberg_normal.jpg" style="vertical-align:middle" width="48" /></a>
+      <div class="hc-name"><strong>Men's Health Mag</strong><span class="hc-verified">&nbsp;</span></div>
+      <span class="hc-username">@<a href="/MensHealthMag">MensHealthMag</a></span>
+      <span class="hc-location">Emmaus, PA | in Health</span>
+    </div>
+    
+      <div class="hc-tweet">
+        <div class="hc-label">Recently tweeted:</div>
+        <div class="hc-tweet-text">BOOST YOUR BENCH: http://ow.ly/3tVoF Simple steps to take you from basic to advanced exercises—building new muscle along the way</div>
+        <div class="hc-meta">40 minutes ago</div>
+      </div>
+    
+    <div class="hc-pointer">&nbsp;</div>
+  </div>
+</li>
+<li>
+  <a href="/StephenAtHome" class="avatar-sm" hreflang="en" id="icon_StephenAtHome" rel="StephenAtHome" target="_blank"><img alt="" border="0" height="48" src="http://a1.twimg.com/profile_images/568525297/Picture_normal.png" style="vertical-align:middle" width="48" /></a>
+
+  <div class="hc" id="hc_StephenAtHome">
+    <div class="hc-profile">
+      <a href="/StephenAtHome" class="avatar" hreflang="en" target="_blank"><img alt="StephenAtHome" border="0" height="48" src="http://a1.twimg.com/profile_images/568525297/Picture_normal.png" style="vertical-align:middle" width="48" /></a>
+      <div class="hc-name"><strong>Stephen Colbert</strong><span class="hc-verified">&nbsp;</span></div>
+      <span class="hc-username">@<a href="/StephenAtHome">StephenAtHome</a></span>
+      <span class="hc-location">in Funny</span>
+    </div>
+    
+      <div class="hc-tweet">
+        <div class="hc-label">Recently tweeted:</div>
+        <div class="hc-tweet-text">I got everything I wanted for Christmas! That's right: I asked for everything.</div>
+        <div class="hc-meta">about 9 hours ago</div>
+      </div>
+    
+    <div class="hc-pointer">&nbsp;</div>
+  </div>
+</li>
+<li>
+  <a href="/Oprah" class="avatar-sm" hreflang="en" id="icon_Oprah" rel="Oprah" target="_blank"><img alt="" border="0" height="48" src="http://a2.twimg.com/profile_images/627306537/OW_Twitter_photo_normal.jpg" style="vertical-align:middle" width="48" /></a>
+
+  <div class="hc" id="hc_Oprah">
+    <div class="hc-profile">
+      <a href="/Oprah" class="avatar" hreflang="en" target="_blank"><img alt="Oprah" border="0" height="48" src="http://a2.twimg.com/profile_images/627306537/OW_Twitter_photo_normal.jpg" style="vertical-align:middle" width="48" /></a>
+      <div class="hc-name"><strong>Oprah Winfrey</strong><span class="hc-verified">&nbsp;</span></div>
+      <span class="hc-username">@<a href="/Oprah">Oprah</a></span>
+      <span class="hc-location">Chicago, IL | in Charity</span>
+    </div>
+    
+      <div class="hc-tweet">
+        <div class="hc-label">Recently tweeted:</div>
+        <div class="hc-tweet-text">I don't get out much... but just left new restaurant, Chicago Cut... Phenom!! Food is Great!</div>
+        <div class="hc-meta">9:23 PM Nov 19th</div>
+      </div>
+    
+    <div class="hc-pointer">&nbsp;</div>
+  </div>
+</li>
+<li>
+  <a href="/danielbru" class="avatar-sm" hreflang="en" id="icon_danielbru" rel="danielbru" target="_blank"><img alt="" border="0" height="48" src="http://a1.twimg.com/profile_images/1125724797/4989016869_4da57c3b87_b_normal.jpg" style="vertical-align:middle" width="48" /></a>
+
+  <div class="hc" id="hc_danielbru">
+    <div class="hc-profile">
+      <a href="/danielbru" class="avatar" hreflang="en" target="_blank"><img alt="danielbru" border="0" height="48" src="http://a1.twimg.com/profile_images/1125724797/4989016869_4da57c3b87_b_normal.jpg" style="vertical-align:middle" width="48" /></a>
+      <div class="hc-name"><strong>Daniel Brusilovsky</strong><span class="hc-verified">&nbsp;</span></div>
+      <span class="hc-username">@<a href="/danielbru">danielbru</a></span>
+      <span class="hc-location">Silicon Valley, CA | in Technology</span>
+    </div>
+    
+      <div class="hc-tweet">
+        <div class="hc-label">Recently tweeted:</div>
+        <div class="hc-tweet-text">RT @JackD: Just wrote a post that I think every teen entrepreneur should read: Klassio: Lessons Learned -- http://jackd.me/23</div>
+        <div class="hc-meta">1:50 PM Dec 24th</div>
+      </div>
+    
+    <div class="hc-pointer">&nbsp;</div>
+  </div>
+</li>
+<li>
+  <a href="/spam" class="avatar-sm" hreflang="en" id="icon_spam" rel="spam" target="_blank"><img alt="" border="0" height="48" src="http://a0.twimg.com/profile_images/706137324/Picture_19_bigger_bigger_normal.png" style="vertical-align:middle" width="48" /></a>
+
+  <div class="hc" id="hc_spam">
+    <div class="hc-profile">
+      <a href="/spam" class="avatar" hreflang="en" target="_blank"><img alt="spam" border="0" height="48" src="http://a0.twimg.com/profile_images/706137324/Picture_19_bigger_bigger_normal.png" style="vertical-align:middle" width="48" /></a>
+      <div class="hc-name"><strong>Spam Watch</strong><span class="hc-verified">&nbsp;</span></div>
+      <span class="hc-username">@<a href="/spam">spam</a></span>
+      <span class="hc-location">Twitter HQ | in Twitter</span>
+    </div>
+    
+      <div class="hc-tweet">
+        <div class="hc-label">Recently tweeted:</div>
+        <div class="hc-tweet-text">RT @delbius: We reset passwords + deleted updates on accounts affected by acai spam; accounts were compromised in the Gawker properties  ...</div>
+        <div class="hc-meta">10:50 AM Dec 13th</div>
+      </div>
+    
+    <div class="hc-pointer">&nbsp;</div>
+  </div>
+</li>
+<li>
+  <a href="/Heritage" class="avatar-sm" hreflang="en" id="icon_Heritage" rel="Heritage" target="_blank"><img alt="" border="0" height="48" src="http://a1.twimg.com/profile_images/1170925485/c5a87e6f-38a2-4fc8-8cf6-aee7a5de47fb_normal.png" style="vertical-align:middle" width="48" /></a>
+
+  <div class="hc" id="hc_Heritage">
+    <div class="hc-profile">
+      <a href="/Heritage" class="avatar" hreflang="en" target="_blank"><img alt="Heritage" border="0" height="48" src="http://a1.twimg.com/profile_images/1170925485/c5a87e6f-38a2-4fc8-8cf6-aee7a5de47fb_normal.png" style="vertical-align:middle" width="48" /></a>
+      <div class="hc-name"><strong>Heritage Foundation</strong><span class="hc-verified">&nbsp;</span></div>
+      <span class="hc-username">@<a href="/Heritage">Heritage</a></span>
+      <span class="hc-location">Washington, DC | in Politics</span>
+    </div>
+    
+      <div class="hc-tweet">
+        <div class="hc-label">Recently tweeted:</div>
+        <div class="hc-tweet-text">Want to hear the story of Washington's crossing of the Delaware told by David McCullough? Tune in: http://herit.ag/p5w</div>
+        <div class="hc-meta">8:32 AM Dec 24th</div>
+      </div>
+    
+    <div class="hc-pointer">&nbsp;</div>
+  </div>
+</li>
+<li>
+  <a href="/HotelChatter" class="avatar-sm" hreflang="en" id="icon_HotelChatter" rel="HotelChatter" target="_blank"><img alt="" border="0" height="48" src="http://a2.twimg.com/profile_images/293556193/hc_twitter2_normal.png" style="vertical-align:middle" width="48" /></a>
+
+  <div class="hc" id="hc_HotelChatter">
+    <div class="hc-profile">
+      <a href="/HotelChatter" class="avatar" hreflang="en" target="_blank"><img alt="HotelChatter" border="0" height="48" src="http://a2.twimg.com/profile_images/293556193/hc_twitter2_normal.png" style="vertical-align:middle" width="48" /></a>
+      <div class="hc-name"><strong>HotelChatter</strong><span class="hc-verified">&nbsp;</span></div>
+      <span class="hc-username">@<a href="/HotelChatter">HotelChatter</a></span>
+      <span class="hc-location">in Travel</span>
+    </div>
+    
+      <div class="hc-tweet">
+        <div class="hc-label">Recently tweeted:</div>
+        <div class="hc-tweet-text">One more gingerbread house before we take off--The Claremont Hotel &amp; Spa in Berkeley, Calif.  http://yfrog.com/gzmbehej</div>
+        <div class="hc-meta">10:14 AM Dec 24th</div>
+      </div>
+    
+    <div class="hc-pointer">&nbsp;</div>
+  </div>
+</li>
+<li>
+  <a href="/donttrythis" class="avatar-sm" hreflang="en" id="icon_donttrythis" rel="donttrythis" target="_blank"><img alt="" border="0" height="48" src="http://a3.twimg.com/profile_images/347823051/Adam_Savage_Plushie_by_Elvira_kruspe_normal.jpg" style="vertical-align:middle" width="48" /></a>
+
+  <div class="hc" id="hc_donttrythis">
+    <div class="hc-profile">
+      <a href="/donttrythis" class="avatar" hreflang="en" target="_blank"><img alt="donttrythis" border="0" height="48" src="http://a3.twimg.com/profile_images/347823051/Adam_Savage_Plushie_by_Elvira_kruspe_normal.jpg" style="vertical-align:middle" width="48" /></a>
+      <div class="hc-name"><strong>Adam Savage</strong><span class="hc-verified">&nbsp;</span></div>
+      <span class="hc-username">@<a href="/donttrythis">donttrythis</a></span>
+      <span class="hc-location">San Francisco | in Staff Picks</span>
+    </div>
+    
+      <div class="hc-tweet">
+        <div class="hc-label">Recently tweeted:</div>
+        <div class="hc-tweet-text">I saw Tron. It's lovely. But the script is... well, I'm sure a whole bunch of people worked hard on it-- and that THAT was the problem.</div>
+        <div class="hc-meta">10:46 AM Dec 24th</div>
+      </div>
+    
+    <div class="hc-pointer">&nbsp;</div>
+  </div>
+</li>
+<li>
+  <a href="/Astro_Nicole" class="avatar-sm" hreflang="en" id="icon_Astro_Nicole" rel="Astro_Nicole" target="_blank"><img alt="" border="0" height="48" src="http://a0.twimg.com/profile_images/1152292421/twitterprofile_normal.jpg" style="vertical-align:middle" width="48" /></a>
+
+  <div class="hc" id="hc_Astro_Nicole">
+    <div class="hc-profile">
+      <a href="/Astro_Nicole" class="avatar" hreflang="en" target="_blank"><img alt="Astro_Nicole" border="0" height="48" src="http://a0.twimg.com/profile_images/1152292421/twitterprofile_normal.jpg" style="vertical-align:middle" width="48" /></a>
+      <div class="hc-name"><strong>Nicole Stott</strong><span class="hc-verified">&nbsp;</span></div>
+      <span class="hc-username">@<a href="/Astro_Nicole">Astro_Nicole</a></span>
+      <span class="hc-location">Houston, TX | in Science</span>
+    </div>
+    
+      <div class="hc-tweet">
+        <div class="hc-label">Recently tweeted:</div>
+        <div class="hc-tweet-text">Woo hoo! Cady, Paolo &amp; Dima on their way to ISS!  Beautiful launch!</div>
+        <div class="hc-meta">12:02 PM Dec 15th</div>
+      </div>
+    
+    <div class="hc-pointer">&nbsp;</div>
+  </div>
+</li>
+<li>
+  <a href="/alleyinsider" class="avatar-sm" hreflang="en" id="icon_alleyinsider" rel="alleyinsider" target="_blank"><img alt="" border="0" height="48" src="http://a0.twimg.com/profile_images/49808012/sai-140-3_normal.gif" style="vertical-align:middle" width="48" /></a>
+
+  <div class="hc" id="hc_alleyinsider">
+    <div class="hc-profile">
+      <a href="/alleyinsider" class="avatar" hreflang="en" target="_blank"><img alt="alleyinsider" border="0" height="48" src="http://a0.twimg.com/profile_images/49808012/sai-140-3_normal.gif" style="vertical-align:middle" width="48" /></a>
+      <div class="hc-name"><strong>SAI</strong><span class="hc-verified">&nbsp;</span></div>
+      <span class="hc-username">@<a href="/alleyinsider">alleyinsider</a></span>
+      <span class="hc-location">New York, NY | in Business</span>
+    </div>
+    
+      <div class="hc-tweet">
+        <div class="hc-label">Recently tweeted:</div>
+        <div class="hc-tweet-text">Expedia Buries American Airlines Listings $EXPE $OWW $AMR by @MattRosoff http://read.bi/i47XMH</div>
+        <div class="hc-meta">about 8 hours ago</div>
+      </div>
+    
+    <div class="hc-pointer">&nbsp;</div>
+  </div>
+</li>
+<li>
+  <a href="/randomhouse" class="avatar-sm" hreflang="en" id="icon_randomhouse" rel="randomhouse" target="_blank"><img alt="" border="0" height="48" src="http://a2.twimg.com/profile_images/115231744/RHlogo_normal.jpg" style="vertical-align:middle" width="48" /></a>
+
+  <div class="hc" id="hc_randomhouse">
+    <div class="hc-profile">
+      <a href="/randomhouse" class="avatar" hreflang="en" target="_blank"><img alt="randomhouse" border="0" height="48" src="http://a2.twimg.com/profile_images/115231744/RHlogo_normal.jpg" style="vertical-align:middle" width="48" /></a>
+      <div class="hc-name"><strong>randomhouse</strong><span class="hc-verified">&nbsp;</span></div>
+      <span class="hc-username">@<a href="/randomhouse">randomhouse</a></span>
+      <span class="hc-location">New York City | in Books</span>
+    </div>
+    
+      <div class="hc-tweet">
+        <div class="hc-label">Recently tweeted:</div>
+        <div class="hc-tweet-text">Clarification - Dan Brown has loved &amp; recommends everyone read http://cot.ag/fIrHMD in #2011</div>
+        <div class="hc-meta">40 minutes ago</div>
+      </div>
+    
+    <div class="hc-pointer">&nbsp;</div>
+  </div>
+</li>
+<li>
+  <a href="/thefoodsection" class="avatar-sm" hreflang="en" id="icon_thefoodsection" rel="thefoodsection" target="_blank"><img alt="" border="0" height="48" src="http://a3.twimg.com/profile_images/1158292539/tfstwitter8_normal.jpg" style="vertical-align:middle" width="48" /></a>
+
+  <div class="hc" id="hc_thefoodsection">
+    <div class="hc-profile">
+      <a href="/thefoodsection" class="avatar" hreflang="en" target="_blank"><img alt="thefoodsection" border="0" height="48" src="http://a3.twimg.com/profile_images/1158292539/tfstwitter8_normal.jpg" style="vertical-align:middle" width="48" /></a>
+      <div class="hc-name"><strong>The Food Section</strong><span class="hc-verified">&nbsp;</span></div>
+      <span class="hc-username">@<a href="/thefoodsection">thefoodsection</a></span>
+      <span class="hc-location">New York | in Food & Drink</span>
+    </div>
+    
+      <div class="hc-tweet">
+        <div class="hc-label">Recently tweeted:</div>
+        <div class="hc-tweet-text">Happy Holidays!: Best wishes for a happy holiday and New Year. We will return after January 1. http://bit.ly/gQrOxB</div>
+        <div class="hc-meta">8:13 AM Dec 24th</div>
+      </div>
+    
+    <div class="hc-pointer">&nbsp;</div>
+  </div>
+</li>
+<li>
+  <a href="/preschoolers" class="avatar-sm" hreflang="en" id="icon_preschoolers" rel="preschoolers" target="_blank"><img alt="" border="0" height="48" src="http://a3.twimg.com/profile_images/73581078/fish_numbers_normal.jpg" style="vertical-align:middle" width="48" /></a>
+
+  <div class="hc" id="hc_preschoolers">
+    <div class="hc-profile">
+      <a href="/preschoolers" class="avatar" hreflang="en" target="_blank"><img alt="preschoolers" border="0" height="48" src="http://a3.twimg.com/profile_images/73581078/fish_numbers_normal.jpg" style="vertical-align:middle" width="48" /></a>
+      <div class="hc-name"><strong>Education.com</strong><span class="hc-verified">&nbsp;</span></div>
+      <span class="hc-username">@<a href="/preschoolers">preschoolers</a></span>
+      <span class="hc-location">in Family</span>
+    </div>
+    
+      <div class="hc-tweet">
+        <div class="hc-label">Recently tweeted:</div>
+        <div class="hc-tweet-text">Merry Christmas to all our followers and friends, and thank you for helping @preschoolers grow and learn this year!</div>
+        <div class="hc-meta">8:20 AM Dec 25th</div>
+      </div>
+    
+    <div class="hc-pointer">&nbsp;</div>
+  </div>
+</li>
+<li>
+  <a href="/SarahKSilverman" class="avatar-sm" hreflang="en" id="icon_SarahKSilverman" rel="SarahKSilverman" target="_blank"><img alt="" border="0" height="48" src="http://a2.twimg.com/profile_images/1157497978/l07JD_normal.jpg" style="vertical-align:middle" width="48" /></a>
+
+  <div class="hc" id="hc_SarahKSilverman">
+    <div class="hc-profile">
+      <a href="/SarahKSilverman" class="avatar" hreflang="en" target="_blank"><img alt="SarahKSilverman" border="0" height="48" src="http://a2.twimg.com/profile_images/1157497978/l07JD_normal.jpg" style="vertical-align:middle" width="48" /></a>
+      <div class="hc-name"><strong>Sarah Silverman</strong><span class="hc-verified">&nbsp;</span></div>
+      <span class="hc-username">@<a href="/SarahKSilverman">SarahKSilverman</a></span>
+      <span class="hc-location">Tehran, Iran | in Entertainment</span>
+    </div>
+    
+      <div class="hc-tweet">
+        <div class="hc-label">Recently tweeted:</div>
+        <div class="hc-tweet-text">Wait-- why isn't POSTCARDS FROM THE EDGE considered to be one of the best movies of our time again?</div>
+        <div class="hc-meta">about 2 hours ago</div>
+      </div>
+    
+    <div class="hc-pointer">&nbsp;</div>
+  </div>
+</li>
+<li>
+  <a href="/SoccerByIves" class="avatar-sm" hreflang="en" id="icon_SoccerByIves" rel="SoccerByIves" target="_blank"><img alt="" border="0" height="48" src="http://a2.twimg.com/profile_images/85118801/SBI_Logo_normal.JPG" style="vertical-align:middle" width="48" /></a>
+
+  <div class="hc" id="hc_SoccerByIves">
+    <div class="hc-profile">
+      <a href="/SoccerByIves" class="avatar" hreflang="en" target="_blank"><img alt="SoccerByIves" border="0" height="48" src="http://a2.twimg.com/profile_images/85118801/SBI_Logo_normal.JPG" style="vertical-align:middle" width="48" /></a>
+      <div class="hc-name"><strong>Ives Galarcep</strong><span class="hc-verified">&nbsp;</span></div>
+      <span class="hc-username">@<a href="/SoccerByIves">SoccerByIves</a></span>
+      <span class="hc-location">Everywhere | in Sports</span>
+    </div>
+    
+      <div class="hc-tweet">
+        <div class="hc-label">Recently tweeted:</div>
+        <div class="hc-tweet-text">Americans Abroad: Weekend Rewind http://bit.ly/hWspKZ</div>
+        <div class="hc-meta">about 5 hours ago</div>
+      </div>
+    
+    <div class="hc-pointer">&nbsp;</div>
+  </div>
+</li>
+
+            </ul>
+            <div class="explained">Friends and industry peers you know. Celebrities you watch. Businesses you frequent. Find them all on Twitter.</div>
+          </div>
+        </div>
+      
+    
+  </div>
+  <div class="article">
+    <div id="tweets" data="{timeout:8000}">
+      <h2>Top Tweets <a id="view_all_top_tweets" href="toptweets/favorites" tabindex="11">View all</a></h2>
+      
+        <script src="http://a1.twimg.com/a/1292975674/javascripts/widgets/widget.js?1293061170" type="text/javascript"></script>
+<script type="text/javascript">
+  //height was 202 to match 5 lines of sources
+  new TWTR.Widget({
+    version: 2,
+    type: 'faves',
+    rpp: 40,
+    interval: 6000,
+    title: 'Noteworthy tweets',
+    subject: '',
+    width: 'auto',
+    height: '270',
+    theme: {
+      shell: {
+        background: '#ffffff',
+        color: '#333333'
+      },
+      tweets: {
+        background: '#ffffff',
+        color: '#333333',
+        links: '#2276bb'
+      }
+    },
+    features: {
+      scrollbar: false,
+      loop: true,
+      live: true,
+      hashtags: true,
+      timestamp: true,
+      avatars: true,
+      behavior: 'preloaded'
+    }
+  }).render().setUser("toptweets").start();
+</script>
+
+      
+    </div>
+    <div id="results" style="display: none">
+      <h2 id="timeline_heading">Realtime results for <span></span></h2>
+              <div data="&#123;&quot;search&quot;:&#123;&quot;delay&quot;:20,&quot;decay&quot;:1.25,&quot;max_delay&quot;:180&#125;,&quot;timeline&quot;:&#123;&quot;max_refresh_size&quot;:40,&quot;delay&quot;:30,&quot;decay&quot;:1.5,&quot;max_delay&quot;:300&#125;&#125;" id="new_results_notification"><a accesskey="n" class="minor-notification" id="results_update" style="display:none;"></a></div>
+      
+      <div class="no-results"></div>
+      <ol id="timeline" class="statuses"></ol>
+      <div id="pagination"></div>
+    </div>
+  </div>
+</div>
+
+
+    </div>
+  </div>
+
+  <div class="footer-wrapper">
+    
+  <div id="footer" class="round wide">
+      <h3 class="offscreen">Footer</h3>
+      
+      
+  <form action="/sessions/change_locale" id="lf" method="post" style="display:none;"><div style="margin:0;padding:0"><input name="authenticity_token" type="hidden" value="cee3442d38795e1f73d8a17d3475e5713e3e1f44" /></div>
+  <input type="hidden" name="lang"  id="lang" value="en"/>
+</form>
+<ul class="language-select"><li>Language:</li><li><a href="#" class="locale">English</a>&nbsp;<a href="#" class="arrow">&#9660;</a></li></ul>
+<ol class="language-menu round">
+  <li id="it">Italian - Italiano</li>
+  <li id="es">Spanish - Español</li>
+  <li id="en">English</li>
+  <li id="fr">French - français</li>
+  <li id="de">German - Deutsch</li>
+  <li id="ja">Japanese - 日本語</li>
+</ol>
+
+      <ul class="footer-nav">
+          <li class="first">&copy; 2010 Twitter</li>
+          <li><a href="/about">About Us</a></li>
+          <li><a href="/about/contact">Contact</a></li>
+          <li><a href="http://blog.twitter.com">Blog</a></li>
+          <li><a href="http://status.twitter.com">Status</a></li>
+                      <li><a href="/about/resources">Resources</a></li>
+                    <li><a href="http://dev.twitter.com/">API</a></li>
+                      <li><a href="http://twitter.com/business">Business</a></li>
+                    <li><a href="http://support.twitter.com">Help</a></li>
+          <li><a href="/jobs">Jobs</a></li>
+          <li><a href="/tos">Terms</a></li>
+          <li><a href="/privacy">Privacy</a></li>
+      </ul>
+  </div>
+
+
+  </div>
+  
+  <div class="trendtip">
+  <div class="trendtip-content">
+    <div>Trending right now:</div>
+    <a class="trendtip-trend"></a>
+    <div class="trendtip-why">
+      Why?
+      <span class="trendtip-desc"></span>
+      <span class="trendtip-source">Source: <span>What the Trend?</span></span>
+    </div>
+  </div>
+  <div class="trendtip-pointer">&nbsp;</div>
+</div>
+
+
+  
+  <div id="notifications"></div>
+  
+  
+
+
+  <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.0/jquery.min.js" type="text/javascript"></script>
+<script src="http://a2.twimg.com/a/1292975674/javascripts/fronts.js" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+  page.summizeSearchUrl = 'http://search.twitter.com/search';
+  page.query = '';
+  page.prettyQuery = '';
+  page.locale = 'en';
+  
+    page.showSS = true;
+  
+
+//]]>
+</script>
+<script type="text/javascript">
+//<![CDATA[
+
+      $( function () {
+        
+  setTimeout(function() { $(".twtr-widget").append($("<div></div>").attr("class", "twtr-fade")); }, 0);
+
+  var tabIndex = $("[tabindex]:last").attr("tabIndex");
+  var setTabIndex = function() {
+    $(this).attr("tabindex", ++tabIndex);
+  }
+  $(".footer-nav a").each(setTabIndex);
+  $(".language-select a").each(setTabIndex);
+  
+(function(){function b(){var c=location.href.split("#!")[1];if(c){window.location.hash = "";window.location.pathname = c.replace(/^([^/])/,"/$1");}else return true}var a="onhashchange"in window;if(!a&&window.setAttribute){window.setAttribute("onhashchange","return;");a=typeof window.onhashchange==="function"}if(a)$(window).bind("hashchange",b);else{var d=function(){b()&&setTimeout(d,250)};setTimeout(d,250)}}());
+  $('#signin_menu').isSigninMenu();
+
+      new FrontPage().init();
+    
+      $('#newbar .hashtag').isSearchLink(SEARCH_CALLBACKS.hashtagLink);
+    
+  
+      });
+    
+//]]>
+</script>
+      <!-- BEGIN google analytics -->
+
+  <script type="text/javascript">
+    var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+    document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+  </script>
+
+  <script type="text/javascript">
+
+    try {
+      var pageTracker = _gat._getTracker("UA-30775-6");
+      pageTracker._setDomainName("twitter.com");
+            pageTracker._setVar('Not Logged In');
+            pageTracker._setVar('lang: en');
+            pageTracker._initData();
+                    
+          pageTracker._trackPageview('/');
+                  } catch(err) { }
+
+  </script>
+
+  <!-- END google analytics -->
+
+
+
+</body>
+</html>

@@ -1,0 +1,1553 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+<head>
+  <link rel="icon" type="image/gif" href="/insights/search/resources/1268667077-icon-16.gif"/>
+  <title>Google Insights for Search</title>
+  <link href="/insights/search/resources/945318853-trends_de.css" media="screen" rel="Stylesheet" type="text/css" />
+  <script src="/insights/search/resources/3190615383-alljs-bin.js" type="text/javascript"></script>
+        <script type="text/javascript">
+  trends.Msg(
+  {
+    'COMMUNICATION_ERROR_HTML': '\74p\76Es ist ein Problem mit der Netzwerkverbindung aufgetreten.\74/p\76 \74ul\76 \74li\76Falls es zu langen Verzögerungen kommt, reduzieren Sie eventuell die Anzahl der Vergleichselemente.\74/li\76 \74li\76Stellen Sie sicher, dass Ihr Netzwerk ordnungsgemäß funktioniert und dass Sie Zugriff auf das Internet haben.\74/li\76 \74li\76Warten Sie einen Moment ab und betätigen Sie dann die Suchschaltfläche erneut.\74/li\76 \74li\76Klicken Sie auf die Schaltfläche \42Aktualisieren\42 Ihres Browsers.\74/li\76 \74/ul\76 \74p\76Vielen Dank für Ihre Geduld.\74/p\076',
+    'COMMUNICATION_ERROR_TITLE': 'Es ist ein Problem mit der Netzwerkverbindung aufgetreten.',
+    'ERROR_IN_VALIDATION_2': 'Fehler bei %1-Validierung: %2',
+    'ALL_SUBREGIONS': 'Alle Unterregionen',
+    'ALL_METROS': 'Alle Großräume',
+    'SEARCH_TEXT_TERMS_TOO_LONG': 'Der Text des Suchbegriffs ist zu lang. Maximale Länge: %1 Zeichen. Ihr Text hat %2 Zeichen.',
+    'SEARCH_TEXT_TOO_MANY_TERMS': 'Zu viele Wörter in Suchbegriffen. Stellen Sie sicher, dass in jeder Suchbegriffzeile höchstens %2 Wörter stehen.',
+    'UPDATE_PREVIEW_AND_REGENERATE_CODE': 'Vorschau aktualisieren und Code neu generieren',
+    'SET_ADVANCED_OPTIONS': 'Erweiterte Optionen festlegen:',
+    'MAP_CANNOT_BE_DISPLAYED': 'Die Karte kann leider nicht angezeigt werden.'
+  });
+</script>
+
+</head>
+
+<body>
+<div id="main">
+  <div class="localeSelectorWrap" id="lsis">
+  |&nbsp;<a href="#" onclick="return false;">Deutsch</a>&nbsp;<small>&#9660;</small></div>
+
+<div class="localeSelector" style="display:none" id="lsi">
+  <iframe frameborder="0" class="localeSelectorMask"></iframe>
+  <div class="localeSelectorInternal">
+    <a href="/insights/search?hl=bg"
+            class="localeSelectorLink">Bulgarisch &mdash; български</a>
+    <a href="/insights/search?hl=zh-HK"
+            class="localeSelectorLink">Chinesisch (Hongkong) &mdash; 中文 (香港)</a>
+    <a href="/insights/search?hl=zh-TW"
+            class="localeSelectorLink">Chinesisch (traditionell) &mdash; 中文 (繁體)</a>
+    <a href="/insights/search?hl=zh-CN"
+            class="localeSelectorLink">Chinesisch (vereinfacht) &mdash; 中文（简体）</a>
+    <a href="/insights/search?hl=da"
+            class="localeSelectorLink">Dänisch &mdash; Dansk</a>
+    <a href="/insights/search?hl=en-AU"
+            class="localeSelectorLink">Englisch (Australien) &mdash; English (Australia)</a>
+    <a href="/insights/search?hl=en-GB"
+            class="localeSelectorLink">Englisch (Großbritannien) &mdash; English (UK)</a>
+    <a href="/insights/search?hl=en-US"
+            class="localeSelectorLink">Englisch (USA) &mdash; English (US)</a>
+    <a href="/insights/search?hl=et"
+            class="localeSelectorLink">Estnisch &mdash; Eesti keel</a>
+    <a href="/insights/search?hl=fi"
+            class="localeSelectorLink">Finnisch &mdash; Suomi</a>
+    <a href="/insights/search?hl=fr"
+            class="localeSelectorLink">Französisch &mdash; Français</a>
+    <a href="/insights/search?hl=el"
+            class="localeSelectorLink">Griechisch &mdash; Ελληνικά</a>
+    <a href="/insights/search?hl=hi"
+            class="localeSelectorLink">Hindi &mdash; हिन्दी</a>
+    <a href="/insights/search?hl=in"
+            class="localeSelectorLink">Indonesisch &mdash; Indonesia</a>
+    <a href="/insights/search?hl=it"
+            class="localeSelectorLink">Italienisch &mdash; Italiano</a>
+    <a href="/insights/search?hl=ja"
+            class="localeSelectorLink">Japanisch &mdash; 日本語</a>
+    <a href="/insights/search?hl=ca"
+            class="localeSelectorLink">Katalanisch &mdash; Català</a>
+    <a href="/insights/search?hl=ko"
+            class="localeSelectorLink">Koreanisch &mdash; 한국어</a>
+    <a href="/insights/search?hl=hr"
+            class="localeSelectorLink">Kroatisch &mdash; Hrvatski</a>
+    <a href="/insights/search?hl=lv"
+            class="localeSelectorLink">Lettisch &mdash; Latviešu valoda</a>
+    <a href="/insights/search?hl=lt"
+            class="localeSelectorLink">Litauisch &mdash; Lietuvių</a>
+    <a href="/insights/search?hl=nl"
+            class="localeSelectorLink">Niederländisch &mdash; Nederlands</a>
+    <a href="/insights/search?hl=no"
+            class="localeSelectorLink">Norwegisch &mdash; Norsk</a>
+    <a href="/insights/search?hl=fil"
+            class="localeSelectorLink">Philippinisch &mdash; Filipino</a>
+    <a href="/insights/search?hl=pl"
+            class="localeSelectorLink">Polnisch &mdash; polski</a>
+    <a href="/insights/search?hl=pt-BR"
+            class="localeSelectorLink">Portugiesisch (Brasilien) &mdash; Português (Brasil)</a>
+    <a href="/insights/search?hl=pt-PT"
+            class="localeSelectorLink">Portugiesisch (Portugal) &mdash; Português (Portugal)</a>
+    <a href="/insights/search?hl=ro"
+            class="localeSelectorLink">Rumänisch &mdash; Română</a>
+    <a href="/insights/search?hl=ru"
+            class="localeSelectorLink">Russisch &mdash; Русский</a>
+    <a href="/insights/search?hl=sv"
+            class="localeSelectorLink">Schwedisch &mdash; Svenska</a>
+    <a href="/insights/search?hl=sk"
+            class="localeSelectorLink">Slowakisch &mdash; Slovenčina</a>
+    <a href="/insights/search?hl=sl"
+            class="localeSelectorLink">Slowenisch &mdash; Slovenščina</a>
+    <a href="/insights/search?hl=es"
+            class="localeSelectorLink">Spanisch &mdash; Español</a>
+    <a href="/insights/search?hl=th"
+            class="localeSelectorLink">Thailändisch &mdash; ไทย</a>
+    <a href="/insights/search?hl=cs"
+            class="localeSelectorLink">Tschechisch &mdash; Čeština</a>
+    <a href="/insights/search?hl=tr"
+            class="localeSelectorLink">Türkisch &mdash; Türkçe</a>
+    <a href="/insights/search?hl=uk"
+            class="localeSelectorLink">Ukrainisch &mdash; Українська</a>
+    <a href="/insights/search?hl=hu"
+            class="localeSelectorLink">Ungarisch &mdash; magyar</a>
+    <a href="/insights/search?hl=vi"
+            class="localeSelectorLink">Vietnamesisch &mdash; Tiếng Việt</a>
+    </div>
+</div>
+<div id="exportContainer" class="reportExportLink" style="display:none"
+  ><span style="float: left">|&nbsp;</span
+    ><a id="exportLink" href="https://www.google.com/accounts/serviceLogin?hl=de&nui=1&service=trendspro&continue=http://www.google.com/insights/search"
+        class="disabledAnchor"
+        onclick="return false;"
+        title="Anmeldung erforderlich"
+    ><div class="goog-inline-block fs04img SPRITE_csv"
+       style='vertical-align: middle; float: left'
+       ></div><span style="text-decoration: underline; color: white; float: left;">&nbsp;</span
+    >Als CSV-Datei herunterladen</a>&nbsp;</div><div id="global-info-no-underline">
+          <p>
+            <a href="http://www.google.com/support/insights/?hl=de" target="_blank">Hilfe</a
+                >&nbsp;|&nbsp;<a href="https://www.google.com/accounts/serviceLogin?hl=de&nui=1&service=trendspro&continue=http://www.google.com/insights/search/WEB-INF/jsps/landingPage.jsp"
+                                
+                                onclick="document.location = Utils.setParameterValue(this.href, 'continue', document.location); return false;"
+                                onfocus="this.href = Utils.setParameterValue(this.href, 'continue', document.location);"
+                              >Anmelden</a>
+          </p>
+        </div>
+      <script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<table style="float: left">
+   <tr>
+    <td>
+      <a href="/insights/search">
+         <div class="goog-inline-block fs04img SPRITE_insights_for_search_logo"
+       style=''
+       title="Google Insights for Search" ></div></a>
+      <!-- Insights for Search -->
+    </td>
+    </tr>
+  </table>
+  <div id="controlPanel">
+    <div id="searchControlPanel" style="display:none;">
+  <table cellspacing="0" cellpadding="0" class="fullPanelRow">
+    <tr>
+      <td>
+        <form id="controlPanelForm" action="/insights/search/overviewReport"
+              method="get"
+              onsubmit=" return controlPanel.onSubmit();">
+          <input type="hidden" name="cat"
+                   id="fFldcat" value=""/>
+          <input type="hidden" name="q"
+                   id="fFldq" value=""/>
+          <input type="hidden" name="geo"
+                   id="fFldgeo" value=""/>
+          <input type="hidden" name="date"
+                   id="fFlddate" value=""/>
+          <input type="hidden" name="gprop"
+                   id="fFldgprop" value=""/>
+          <input type="hidden"  id="fFldajax" value="0"/>
+          <table style="width:100%; border-spacing: 0;" cellpadding="0" cellspacing="0" id="advMod">
+            <tr id="ctrlPnlTitlesRow">
+              <th>Vergleichen mit</th>
+              <th>
+                <span id="mulColTq">Suchbegriffe</span>
+                <span id="mulColTgeo" style="display:none;">Standorte</span>
+                <span id="mulColTdate" style="display:none;">Zeiträume</span>
+              </th>
+              <th colspan="2">Filter</th>
+            </tr>
+            <tr>
+              <td class="majorCell" style="padding:0.5em 0 0 0; border-left: 0; width: 13%;">
+                <!-- These constants must be in sync with controlPanel.js -->
+<table class="cmpType" id="cmpTblq" cellpadding="0" cellspacing="0"><tr>
+  <td class="radioCell"><input type="radio" name="cmpt"
+         onclick="controlPanel.changeComparisonType('q')"
+         value="q"
+         id="radRowqR"/></td>
+  <td class="labelCell">
+    <label for="radRowqR"
+           id="cmpTblLblq">Suc&shy;h&shy;b&shy;e&shy;g&shy;r&shy;i&shy;ffe</label></td>
+</tr></table>
+<!-- These constants must be in sync with controlPanel.js -->
+<table class="cmpType" id="cmpTblgeo" cellpadding="0" cellspacing="0"><tr>
+  <td class="radioCell"><input type="radio" name="cmpt"
+         onclick="controlPanel.changeComparisonType('geo')"
+         value="geo"
+         id="radRowgeoR"/></td>
+  <td class="labelCell">
+    <label for="radRowgeoR"
+           id="cmpTblLblgeo">Sta&shy;n&shy;d&shy;o&shy;r&shy;ten</label></td>
+</tr></table>
+<!-- These constants must be in sync with controlPanel.js -->
+<table class="cmpType" id="cmpTbldate" cellpadding="0" cellspacing="0"><tr>
+  <td class="radioCell"><input type="radio" name="cmpt"
+         onclick="controlPanel.changeComparisonType('date')"
+         value="date"
+         id="radRowdateR"/></td>
+  <td class="labelCell">
+    <label for="radRowdateR"
+           id="cmpTblLbldate">Zei&shy;t&shy;r&shy;ä&shy;u&shy;men</label></td>
+</tr></table>
+</td>
+              <td class="majorCell" style="width: 40%; vertical-align: top; padding-top: 0.5em;" id="mulPicksWrapCell">
+                <table cellspacing="0" cellpadding="3" width="100%" id="mulPicksWrapTable">
+                  <tr class="comparisonPickerRow" id="cmpRowq">
+  <td class="bottomBorder pickerCell" colspan="2"
+      style="padding:0; padding-bottom:.3em;">
+    <div id="searchTermsTipsContainer" class="userTip">
+        <span style="display:none;">Tipp: Verwenden Sie das Pluszeichen für ODER (Tennis + Squash).</span>
+        <span style="display:none;">Tipp: Verwenden Sie ein Komma, um Vergleichselemente hinzuzufügen (Tennis, Squash).</span>
+        <span style="display:none;">Tipp: Verwenden Sie Anführungszeichen, um genaue Übereinstimmungen mit einer Wortgruppe zu finden ("Tennis lernen").</span>
+        <span style="">Tipp: Verwenden Sie das Minuszeichen zum Ausschließen von Begriffen (Wimbledon - Tennis).</span>
+      </div>
+    <table class="multiPickerTable"
+       cellpadding="0"
+       cellspacing="0"
+       border="0">
+  <tr id="cmpPckrqR0">
+      <td class="colorBulletCell" style="">
+        <div>
+          <span style="color:#4684ee;">&#149;&nbsp;</span>
+        </div>
+      </td>
+      <td class="pickerCell" nowrap="nowrap">
+        <input class="text"
+       type="text" 
+       id="cmpPckrqP0T"
+       label="Alle Suchbegriffe"
+       style="width:330px"/>
+</td>
+      <td id="cmpPckrqRP0" class="removeButtonCell" style="">
+        <a onclick="controlPanel.getMultiPicker('q').removePicker(0); return false;">
+          <div class="goog-inline-block fs04img SPRITE_remove"
+       style=''
+       height="15" width="15" border="0" ></div></a>
+      </td>
+    </tr>
+    <tr id="cmpPckrqR1">
+      <td class="colorBulletCell" style="">
+        <div>
+          <span style="color:#dc3912;">&#149;&nbsp;</span>
+        </div>
+      </td>
+      <td class="pickerCell" nowrap="nowrap">
+        <input class="text"
+       type="text" 
+       id="cmpPckrqP1T"
+       label="Alle Suchbegriffe"
+       style="width:330px"/>
+</td>
+      <td id="cmpPckrqRP1" class="removeButtonCell" style="">
+        <a onclick="controlPanel.getMultiPicker('q').removePicker(1); return false;">
+          <div class="goog-inline-block fs04img SPRITE_remove"
+       style=''
+       height="15" width="15" border="0" ></div></a>
+      </td>
+    </tr>
+    <tr id="cmpPckrqR2">
+      <td class="colorBulletCell" style="">
+        <div>
+          <span style="color:#ff9900;">&#149;&nbsp;</span>
+        </div>
+      </td>
+      <td class="pickerCell" nowrap="nowrap">
+        <input class="text"
+       type="text" 
+       id="cmpPckrqP2T"
+       label="Alle Suchbegriffe"
+       style="width:330px"/>
+</td>
+      <td id="cmpPckrqRP2" class="removeButtonCell" style="">
+        <a onclick="controlPanel.getMultiPicker('q').removePicker(2); return false;">
+          <div class="goog-inline-block fs04img SPRITE_remove"
+       style=''
+       height="15" width="15" border="0" ></div></a>
+      </td>
+    </tr>
+    <tr id="cmpPckrqR3">
+      <td class="colorBulletCell" style="">
+        <div>
+          <span style="color:#008000;">&#149;&nbsp;</span>
+        </div>
+      </td>
+      <td class="pickerCell" nowrap="nowrap">
+        <input class="text"
+       type="text" 
+       id="cmpPckrqP3T"
+       label="Alle Suchbegriffe"
+       style="width:330px"/>
+</td>
+      <td id="cmpPckrqRP3" class="removeButtonCell" style="">
+        <a onclick="controlPanel.getMultiPicker('q').removePicker(3); return false;">
+          <div class="goog-inline-block fs04img SPRITE_remove"
+       style=''
+       height="15" width="15" border="0" ></div></a>
+      </td>
+    </tr>
+    <tr id="cmpPckrqR4">
+      <td class="colorBulletCell" style="">
+        <div>
+          <span style="color:#4942cc;">&#149;&nbsp;</span>
+        </div>
+      </td>
+      <td class="pickerCell" nowrap="nowrap">
+        <input class="text"
+       type="text" 
+       id="cmpPckrqP4T"
+       label="Alle Suchbegriffe"
+       style="width:330px"/>
+</td>
+      <td id="cmpPckrqRP4" class="removeButtonCell" style="">
+        <a onclick="controlPanel.getMultiPicker('q').removePicker(4); return false;">
+          <div class="goog-inline-block fs04img SPRITE_remove"
+       style=''
+       height="15" width="15" border="0" ></div></a>
+      </td>
+    </tr>
+    <tr style="">
+    <td/>
+    <td colspan="2" class="addAnotherCell">
+      <span id="cmpPckrqAL">+&nbsp;
+        <a onclick="controlPanel.getMultiPicker('q').addPicker(true); return false;">
+          Suchbegriff hinzufügen</a></span>
+    </td>
+  </tr>
+</table>
+</td>
+</tr>
+<tr class="comparisonPickerRow" id="cmpRowgeo">
+  <td class="bottomBorder pickerCell" colspan="2"
+      style="padding:0; padding-bottom:.3em;">
+    <table class="multiPickerTable"
+       cellpadding="0"
+       cellspacing="0"
+       border="0">
+  <tr id="cmpPckrgeoR0">
+      <td class="colorBulletCell" style="">
+        <div>
+          <span style="color:#4684ee;">&#149;&nbsp;</span>
+        </div>
+      </td>
+      <td class="pickerCell" nowrap="nowrap">
+        <table cellpadding="0" cellspacing="0" border="0" style="width:330px">
+  <tr>
+    <td class="geoTagCountryBox">
+      <select id="cmpPckrgeoP0C"
+              class="geoTagCountryBox"
+              onchange="controlPanel.getMultiPicker('geo').getPicker(0).countryChanged(this.value)"/>
+    </td>
+    <td class="geoTagRegionBox">
+      <select id="cmpPckrgeoP0R"
+              class="geoTagRegionBox"
+              onchange="controlPanel.getMultiPicker('geo').getPicker(0).regionChanged(this.value)"/>
+    </td>
+    <td>
+      <select id="cmpPckrgeoP0D"
+              class="geoTagDmaBox"
+              onchange="controlPanel.getMultiPicker('geo').getPicker(0).dmaChanged(this.value)"/>
+    </td>
+  </tr>
+</table>
+<script type="text/javascript">
+  
+  trends.GeoNames.setWorldwide("Weltweit");
+  trends.GeoNames.setFavoriteCountries(["AU","BR","CN","DE","FR","GB","IN","IT","JP","CA","NL","AT","PL","RU","SE","CH","ES","US"]);
+  trends.GeoNames.setCountryToName([["AF","Afghanistan"],["EG","Ägypten"],["AL","Albanien"],["DZ","Algerien"],["AO","Angola"],["AR","Argentinien"],["AM","Armenien"],["AZ","Aserbaidschan"],["ET","Äthiopien"],["AU","Australien"],["BD","Bangladesch"],["BE","Belgien"],["BJ","Benin"],["BO","Bolivien"],["BA","Bosnien und Herzegowina"],["BW","Botsuana"],["BR","Brasilien"],["BG","Bulgarien"],["BF","Burkina Faso"],["BI","Burundi"],["CL","Chile"],["CN","China"],["CR","Costa Rica"],["DK","Dänemark"],["DE","Deutschland"],["DO","Dominikanische Republik"],["EC","Ecuador"],["SV","El Salvador"],["CI","Elfenbeinküste"],["ER","Eritrea"],["EE","Estland"],["FJ","Fidschi"],["FI","Finnland"],["FR","Frankreich"],["GA","Gabun"],["GM","Gambia"],["GE","Georgien"],["GH","Ghana"],["GR","Griechenland"],["GB","Großbritannien"],["GT","Guatemala"],["GN","Guinea"],["HT","Haiti"],["HN","Honduras"],["HK","Hongkong"],["IN","Indien"],["ID","Indonesien"],["IQ","Irak"],["IR","Iran"],["IE","Irland"],["IL","Israel"],["IT","Italien"],["JM","Jamaika"],["JP","Japan"],["YE","Jemen"],["JO","Jordanien"],["KH","Kambodscha"],["CM","Kamerun"],["CA","Kanada"],["KZ","Kasachstan"],["KE","Kenia"],["KG","Kirgistan"],["CO","Kolumbien"],["CG","Kongo"],["HR","Kroatien"],["CU","Kuba"],["KW","Kuwait"],["LA","Laos"],["LS","Lesotho"],["LV","Lettland"],["LB","Libanon"],["LY","Libyen"],["LT","Litauen"],["MG","Madagaskar"],["MW","Malawi"],["MY","Malaysien"],["ML","Mali"],["MA","Marokko"],["MR","Mauretanien"],["MU","Mauritius"],["MK","Mazedonien"],["MX","Mexiko"],["MN","Mongolei"],["MZ","Mosambik"],["MM","Myanmar"],["NA","Namibia"],["NP","Nepal"],["NZ","Neuseeland"],["NL","Niederlande"],["NE","Niger"],["NG","Nigeria"],["NI","Nikaragua"],["KP","Nordkorea"],["NO","Norwegen"],["OM","Oman"],["AT","Österreich"],["PK","Pakistan"],["PS","Palästinensische Gebiete"],["PA","Panama"],["PG","Papua-Neuguinea"],["PY","Paraguay"],["PE","Peru"],["PH","Philippinen"],["PL","Polen"],["PT","Portugal"],["PR","Puerto Rico"],["MD","Republik Moldau"],["RW","Ruanda"],["RO","Rumänien"],["RU","Russland"],["ZM","Sambia"],["SA","Saudi-Arabien"],["SE","Schweden"],["CH","Schweiz"],["SN","Senegal"],["SL","Sierra Leone"],["ZW","Simbabwe"],["SG","Singapur"],["SK","Slowakei"],["SI","Slowenien"],["SO","Somalia"],["ES","Spanien"],["LK","Sri Lanka"],["ZA","Südafrika"],["SD","Sudan"],["KR","Südkorea"],["SZ","Swasiland"],["SY","Syrien"],["TJ","Tadschikistan"],["TW","Taiwan"],["TZ","Tansania"],["TH","Thailand"],["TL","Timor-Leste"],["TG","Togo"],["TT","Trinidad und Tobago"],["TD","Tschad"],["CZ","Tschechien"],["TN","Tunesien"],["TR","Türkei"],["TM","Turkmenistan"],["UG","Uganda"],["UA","Ukraine"],["HU","Ungarn"],["UY","Uruguay"],["US","USA"],["UZ","Usbekistan"],["VE","Venezuela"],["AE","Vereinigte Arabische Emirate"],["VN","Vietnam"],["BY","Weißrussland"]]);
+  trends.GeoNames.setCountryToRegions({"VU":[],"VN":[],"EC":[["EC-A","Azuay"],["EC-O","El Oro"],["EC-G","Guayas"],["EC-L","Loja"],["EC-M","Manabi"],["EC-P","Pichincha"],["EC-T","Tungurahua"]],"VI":[],"DZ":[],"VG":[],"VE":[["VE-B","Anzoátegui"],["VE-C","Apure"],["VE-D","Aragua"],["VE-E","Barinas"],["VE-F","Bolívar"],["VE-G","Carabobo"],["VE-A","Distrito Federal"],["VE-I","Falcón"],["VE-J","Guârico"],["VE-K","Lara"],["VE-L","Mérida"],["VE-M","Miranda"],["VE-N","Monagas"],["VE-O","Nueva Esparta"],["VE-P","Portuguesa"],["VE-R","Sucre"],["VE-S","Tâchira"],["VE-T","Trujillo"],["VE-U","Yaracuy"],["VE-V","Zulia"]],"DM":[],"DO":[],"VC":[],"VA":[],"DE":[["DE-BW","Baden-Württemberg"],["DE-BY","Bayern"],["DE-BE","Berlin"],["DE-BR","Brandenburg"],["DE-HB","Bremen"],["DE-HH","Hamburg"],["DE-HE","Hessen"],["DE-MV","Mecklenburg-Vorpommern"],["DE-NI","Niedersachsen"],["DE-NW","Nordrhein-Westfalen"],["DE-RP","Rheinland-Pfalz"],["DE-SL","Saarland"],["DE-SN","Sachsen"],["DE-ST","Sachsen-Anhalt"],["DE-SH","Schleswig-Holstein"],["DE-TH","Thüringen"]],"UZ":[],"UY":[],"DK":[["DK-070","Århus"],["DK-040","Bornholm"],["DK-147","Frederiksberg"],["DK-020","Frederiksborg"],["DK-042","Fünen"],["DK-015","Kopenhagen"],["DK-080","Nordjütland"],["DK-055","Ribe"],["DK-065","Ringkoebing"],["DK-025","Roskilde"],["DK-050","Sønderjylland"],["DK-035","Storstroem"],["DK-060","Vejle"],["DK-030","Vestsjaelland"],["DK-076","Viborg"]],"DJ":[],"US":[["US-AL","Alabama"],["US-AK","Alaska"],["US-AZ","Arizona"],["US-AR","Arkansas"],["US-CO","Colorado"],["US-CT","Connecticut"],["US-DE","Delaware"],["US-DC","District of Columbia"],["US-FL","Florida"],["US-GA","Georgia"],["US-HI","Hawaii"],["US-ID","Idaho"],["US-IL","Illinois"],["US-IN","Indiana"],["US-IA","Iowa"],["US-CA","Kalifornien"],["US-KS","Kansas"],["US-KY","Kentucky"],["US-LA","Louisiana"],["US-ME","Maine"],["US-MD","Maryland"],["US-MA","Massachusetts"],["US-MI","Michigan"],["US-MN","Minnesota"],["US-MS","Mississippi"],["US-MO","Missouri"],["US-MT","Montana"],["US-NE","Nebraska"],["US-NV","Nevada"],["US-NH","New Hampshire"],["US-NJ","New Jersey"],["US-NM","New Mexico"],["US-NY","New York"],["US-NC","North Carolina"],["US-ND","North Dakota"],["US-OH","Ohio"],["US-OK","Oklahoma"],["US-OR","Oregon"],["US-PA","Pennsylvania"],["US-RI","Rhode Island"],["US-SC","South Carolina"],["US-SD","South Dakota"],["US-TN","Tennessee"],["US-TX","Texas"],["US-UT","Utah"],["US-VT","Vermont"],["US-VA","Virginia"],["US-WA","Washington"],["US-WV","West Virginia"],["US-WI","Wisconsin"],["US-WY","Wyoming"]],"UM":[],"UN":[],"EU":[],"UK":[],"UG":[],"UA":[["UA-43","Autonome Republik Krim"],["UA-30","Kiew"],["UA-63","Oblast Charkiw"],["UA-65","Oblast Cherson"],["UA-68","Oblast Chmelnyzkyj"],["UA-12","Oblast Dnipropetrowsk"],["UA-14","Oblast Donezk"],["UA-26","Oblast Iwano-Frankiwsk"],["UA-35","Oblast Kirowohrad"],["UA-09","Oblast Luhansk"],["UA-46","Oblast Lwiw"],["UA-51","Oblast Odessa"],["UA-53","Oblast Poltawa"],["UA-23","Oblast Saporischschja"],["UA-18","Oblast Schytomyr"],["UA-59","Oblast Sumy"],["UA-61","Oblast Ternopil"],["UA-21","Oblast Transkarpatien"],["UA-71","Oblast Tscherkassy"],["UA-74","Oblast Tschernihiw"],["UA-77","Oblast Tscherniwizi"],["UA-05","Oblast Winnyzja"],["UA-07","Oblast Wolhynien"]],"ET":[],"ES":[["ES-VI","Álava"],["ES-A","Alicante"],["ES-AL","Almeria"],["ES-AN","Andalusien"],["ES-AR","Aragón"],["ES-O","Asturien"],["ES-PM","Balearen"],["ES-IB","Balearische Inseln"],["ES-B","Barcelona"],["ES-BI","Bizkaia"],["ES-CA","Cadiz"],["ES-CE","Ceuta"],["ES-EX","Extremadura"],["ES-GA","Galizien"],["ES-SS","Guipuzcoa"],["ES-CN","Kanarische Inseln"],["ES-S","Kantabrien"],["ES-CM","Kastilien-La Mancha"],["ES-CL","Kastilien-León"],["ES-CT","Katalonien"],["ES-C","La Coruña"],["ES-LO","La Rioja"],["ES-M","Madrid"],["ES-ML","Melilla"],["ES-MU","Murcia"],["ES-NA","Navarra"],["ES-PV","País Vasco (Baskenland)"],["ES-PO","Pontevedra"],["ES-SA","Salamanca"],["ES-TF","Santa Cruz de Tenerife"],["ES-Z","Saragossa"],["ES-SG","Segovia"],["ES-T","Tarragona"],["ES-TO","Toledo"],["ES-V","Valencia"],["ES-VC","Valenciana, Comunidad"],["ES-VA","Valladolid"]],"ER":[["ER-AS","Asmara"]],"EH":[],"EG":[],"TZ":[],"EE":[],"TT":[],"TW":[["TW-CYI","Chiayi"],["TW-HSZ","Hsinchu"],["TW-HUA","Hualien"],["TW-ILA","Ilan"],["TW-KHH","Kaohsiung"],["TW-MIA","Miaoli"],["TW-PEN","Penghu"],["TW-TXG","Taichung"],["TW-TNN","Tainan"],["TW-TPE","Taipeh"],["TW-TTT","Taitung"],["TW-TAO","Taoyuan"]],"TV":[],"GD":[],"GE":[],"GF":[],"GA":[],"GB":[["GB-CHA","Channel Islands"],["GB-ENG","England"],["GB-IOM","Isle of Man"],["GB-NIR","Nordirland"],["GB-SCT","Schottland"],["GB-WLS","Wales"]],"FX":[],"FR":[["FR-B","Aquitaine"],["FR-C","Auvergne"],["FR-P","Basse-Normandie"],["FR-D","Bourgogne"],["FR-E","Bretagne"],["FR-G","Champagne-Ardenne"],["FR-A","Elsass"],["FR-I","Franche-Comté"],["FR-Q","Haute-Normandie"],["FR-J","Île-de-France"],["FR-H","Korsika"],["FR-K","Languedoc-Roussillon"],["FR-L","Limousin"],["FR-M","Lothringen"],["FR-N","Midi-Pyrenées"],["FR-O","Nord-Pas-de-Calais"],["FR-R","Pays de la Loire"],["FR-S","Picardie"],["FR-T","Poitou-Charentes"],["FR-U","Provence-Alpes-Côte d'Azur"],["FR-V","Rhône-Alpes"],["FR-F","Zentralfrankreich"]],"FO":[],"FK":[],"FJ":[],"FM":[],"FI":[["FI-AL","Provinz Åland"],["FI-LL","Provinz Lappland"],["FI-IS","Provinz Ostfinnland"],["FI-OL","Provinz Oulu"],["FI-ES","Provinz Südfinnland"],["FI-LS","Provinz Westfinnland"]],"WS":[],"GY":[],"GW":[],"GU":[],"GT":[],"GS":[],"GR":[["GR-13","Achaïa"],["GR-01","Aitolia-Akarnania"],["GR-11","Argolis"],["GR-12","Arkadia"],["GR-31","Arta"],["GR-A1","Attiki"],["GR-64","Chalkidiki"],["GR-94","Chania"],["GR-85","Chios"],["GR-81","Dodekanisos"],["GR-52","Drama"],["GR-71","Evros"],["GR-04","Evvoia"],["GR-63","Florina"],["GR-07","Fokis"],["GR-06","Fthiotis"],["GR-51","Grevena"],["GR-14","Ileia"],["GR-53","Imathia"],["GR-33","Ioannina"],["GR-91","Irakleion"],["GR-41","Karditsa"],["GR-56","Kastoria"],["GR-55","Kavalla"],["GR-23","Kefallinia"],["GR-57","Kilkis"],["GR-22","Korfu"],["GR-15","Korinthia"],["GR-58","Kozani"],["GR-82","Kykladen"],["GR-16","Lakonia"],["GR-42","Larisa"],["GR-92","Lasithion"],["GR-24","Lefkas"],["GR-83","Lesbos"],["GR-43","Magnisia"],["GR-17","Messinia"],["GR-59","Pella"],["GR-34","Preveza"],["GR-93","Rethymnon"],["GR-73","Rodopi"],["GR-84","Samos"],["GR-62","Serrai"],["GR-32","Thesprotia"],["GR-54","Thessaloniki"],["GR-44","Trikala"],["GR-72","Xanthi"],["GR-21","Zakynthos"]],"GQ":[],"WF":[],"GP":[],"GN":[],"GM":[],"GL":[],"GI":[],"GH":[],"RE":[],"RO":[["RO-AB","Alba"],["RO-AR","Arad"],["RO-AG","Argeş"],["RO-BC","Bacau"],["RO-BH","Bihor"],["RO-BN","Bistrita-Nasaud"],["RO-BT","Botoşani"],["RO-BR","Braila"],["RO-BV","Braşov"],["RO-B","Bucureşti"],["RO-BZ","Buzău"],["RO-CL","Calarasi"],["RO-CS","Caraş-Severin"],["RO-CJ","Cluj"],["RO-CT","Constanţa"],["RO-CV","Covasna"],["RO-DB","Dambovita"],["RO-DJ","Dolj"],["RO-GL","Galaţi"],["RO-GR","Giurgiu"],["RO-GJ","Gorj"],["RO-HR","Harghita"],["RO-HD","Hunedoara"],["RO-IL","Ialomita"],["RO-IS","Iasi"],["RO-MM","Maramures"],["RO-MH","Mehedinti"],["RO-MS","Mures"],["RO-NT","Neamt"],["RO-OT","Olt"],["RO-PH","Prahova"],["RO-SJ","Salaj"],["RO-SM","Satu Mare"],["RO-SB","Sibiu"],["RO-SV","Suceava"],["RO-TR","Teleorman"],["RO-TM","Timis"],["RO-TL","Tulcea"],["RO-VL","Vâlcea"],["RO-VS","Vaslui"],["RO-VN","Vrancea"]],"AT":[["AT-1","Burgenland"],["AT-2","Kärnten"],["AT-3","Niederösterreich"],["AT-4","Oberösterreich"],["AT-5","Salzburg"],["AT-6","Steiermark"],["AT-7","Tirol"],["AT-8","Vorarlberg"],["AT-9","Wien"]],"AS":[],"AR":[["AR-B","Buenos Aires"],["AR-C","Capital Federal"],["AR-K","Catamarca"],["AR-H","Chaco"],["AR-U","Chubut"],["AR-X","Córdoba"],["AR-W","Corrientes"],["AR-E","Entre Rios"],["AR-P","Formosa"],["AR-Y","Jujuy"],["AR-L","La Pampa"],["AR-F","La Rioja"],["AR-M","Mendoza"],["AR-N","Misiones"],["AR-Q","Neuquén"],["AR-R","Rió Negro"],["AR-A","Salta"],["AR-J","San Juan"],["AR-D","San Luis"],["AR-Z","Santa Cruz"],["AR-S","Santa Fe"],["AR-G","Santiago del Estero"],["AR-V","Tierra del Fuego"],["AR-T","Tucumán"]],"AQ":[],"AW":[],"QA":[],"AU":[["AU-ACT","Australian Capital Territory"],["AU-NSW","New South Wales"],["AU-NT","Northern Territory"],["AU-QLD","Queensland"],["AU-SA","Südaustralien"],["AU-TAS","Tasmanien"],["AU-VIC","Victoria"],["AU-WA","Western Australia"]],"AZ":[],"BA":[["BA-BIH","Föderation Bosnien und Herzegowina"],["BA-SRP","Serbische Republik"]],"PT":[["PT-01","Aveiro"],["PT-02","Beja"],["PT-03","Braga"],["PT-04","Bragança"],["PT-05","Castelo Branco"],["PT-06","Coimbra"],["PT-07","Évora"],["PT-08","Faro"],["PT-09","Guarda"],["PT-10","Leiria"],["PT-11","Lissabon"],["PT-12","Portalegre"],["PT-13","Porto"],["PT-30","Regiao Autonoma da Madeira"],["PT-20","Regiao Autonoma dos Açores"],["PT-14","Santarém"],["PT-15","Setúbal"],["PT-16","Viana do Castelo"],["PT-18","Viseu"]],"AD":[],"PW":[],"AG":[],"AE":[],"PR":[],"AF":[],"PS":[],"AL":[],"AI":[],"AO":[],"PY":[],"AM":[],"AN":[],"TG":[],"BW":[],"TF":[],"BV":[],"BY":[],"TD":[],"TK":[],"BS":[["BS-FP","Freeport"],["BS-NP","New Providence"]],"TJ":[],"BR":[["BR-AC","Acre"],["BR-AL","Alagoas"],["BR-AP","Amapá"],["BR-AM","Amazonas"],["BR-BA","Bahia"],["BR-DF","Bundesdistrikt"],["BR-CE","Ceará"],["BR-ES","Espirito Santo"],["BR-GO","Goiás"],["BR-MA","Maranhão"],["BR-MT","Mato Grosso"],["BR-MS","Mato Grosso do Sul"],["BR-MG","Minas Gerais"],["BR-PA","Para"],["BR-PB","Paraiba"],["BR-PR","Paraná"],["BR-PE","Pernambuco"],["BR-PI","Piaui"],["BR-RJ","Rio de Janeiro"],["BR-RN","Rio Grande do Norte"],["BR-RS","Rio Grande do Sul"],["BR-RO","Rondônia"],["BR-RR","Roraima"],["BR-SC","Santa Catarina"],["BR-SP","São Paulo"],["BR-SE","Sergipe"],["BR-TO","Tocantins"]],"TH":[["TH-24","Chachoengsao"],["TH-50","Chiang Mai"],["TH-57","Chiang Rai"],["TH-20","Chon Buri"],["TH-40","Khon Kaen"],["TH-10","Krung Thep Maha Nakhon Bangkok"],["TH-52","Lampang"],["TH-30","Nakhon Ratchasima"],["TH-80","Nakhon Si Thammarat"],["TH-12","Nonthaburi"],["TH-13","Pathum Thani"],["TH-94","Pattani"],["TH-65","Phitsanulok"],["TH-14","Phra Nakhon Si Ayutthaya"],["TH-54","Phrae"],["TH-83","Phuket"],["TH-85","Ranong"],["TH-19","Saraburi"],["TH-90","Songkhla"],["TH-92","Trang"],["TH-34","Ubon Ratchathani"],["TH-95","Yala"],["TH-35","Yasothon"]],"BT":[],"TO":[],"TN":[],"TM":[],"TL":[],"CA":[["CA-AB","Alberta"],["CA-BC","British Columbia"],["CA-MB","Manitoba"],["CA-NF","Neufundland"],["CA-NB","New Brunswick"],["CA-NT","Northwest Territories"],["CA-NS","Nova Scotia"],["CA-NU","Nunavut"],["CA-ON","Ontario"],["CA-PE","Prinz-Edward-Insel"],["CA-QC","Quebec"],["CA-SK","Saskatchewan"],["CA-YT","Yukon Territory"]],"TR":[["TR-01","Adana"],["TR-02","Adıyaman"],["TR-03","Afyon"],["TR-04","Ağrı"],["TR-68","Aksaray"],["TR-05","Amasya"],["TR-06","Ankara"],["TR-07","Antalya"],["TR-75","Ardahan"],["TR-08","Artvin"],["TR-09","Aydın"],["TR-10","Balıkesir"],["TR-74","Bartın"],["TR-72","Batman"],["TR-69","Bayburt"],["TR-11","Bilecik"],["TR-12","Bingöl"],["TR-13","Bitlis"],["TR-14","Bolu"],["TR-15","Burdur"],["TR-16","Bursa"],["TR-17","Çanakkale"],["TR-18","Çankırı"],["TR-19","Çorum"],["TR-20","Denizli"],["TR-21","Diyarbakır"],["TR-22","Edirne"],["TR-23","Elazığ"],["TR-24","Erzincan"],["TR-25","Erzurum"],["TR-26","Eskişehir"],["TR-27","Gaziantep"],["TR-28","Giresun"],["TR-29","Gümüşhane"],["TR-30","Hakkarı"],["TR-31","Hatay"],["TR-33","Içel"],["TR-76","İğdır"],["TR-32","İsparta"],["TR-34","Istanbul"],["TR-35","İzmir"],["TR-46","Kahramanmaraş"],["TR-70","Karaman"],["TR-36","Kars"],["TR-37","Kastamonu"],["TR-38","Kayseri"],["TR-71","Kırıkkale"],["TR-39","Kırklareli"],["TR-40","Kırşehir"],["TR-41","Kocaeli"],["TR-42","Konya"],["TR-43","Kütahya"],["TR-44","Malatya"],["TR-45","Manisa"],["TR-47","Mardin"],["TR-48","Muğla"],["TR-49","Muş"],["TR-50","Nevşehir"],["TR-51","Niğde"],["TR-52","Ordu"],["TR-80","Osmaniye"],["TR-53","Rize"],["TR-54","Sakarya"],["TR-55","Samsun"],["TR-63","Şanlıurfa"],["TR-56","Şiirt"],["TR-57","Sinop"],["TR-58","Sivas"],["TR-73","Şırnak"],["TR-59","Tekirdağ"],["TR-60","Tokat"],["TR-61","Trabzon"],["TR-62","Tunceli"],["TR-64","Uşak"],["TR-65","Van"],["TR-77","Yalova"],["TR-66","Yozgat"],["TR-67","Zonguldak"]],"BZ":[],"BF":[],"SV":[],"BG":[["BG-02","Burgas"],["BG-09","Haskovo"],["BG-04","Lovec"],["BG-05","Montana"],["BG-06","Plovdiv"],["BG-07","Ruse"],["BG-08","Sofia"],["BG-01","Sofia Stadt"],["BG-03","Varna"]],"BH":[],"BI":[],"ST":[],"SY":[],"BB":[],"SZ":[],"BD":[],"BE":[["BE-VAN","Antwerpen"],["BE-BRX","Brüssel"],["BE-VBR","Flämisch Brabant"],["BE-WHT","Hainaut"],["BE-VLI","Limburg"],["BE-WLG","Lüttich"],["BE-WLX","Luxemburg"],["BE-WNA","Namur"],["BE-VOV","Ostflandern"],["BE-WBR","Wallonisch Brabant"],["BE-VWV","Westflandern"]],"BN":[],"BO":[["BO-C","Cochabamba"],["BO-L","La Paz"],["BO-S","Santa Cruz"]],"BJ":[],"TC":[],"BM":[],"SD":[],"CZ":[["CZ-CST","Mittelböhmische Region"],["CZ-CSC","Nordböhmische Region"],["CZ-CSM","Nordmährische Region"],["CZ-CVC","Ostböhmische Region"],["CZ-CJC","Südböhmische Region"],["CZ-CJM","Südmährische Region"],["CZ-CZC","Westböhmische Region"]],"CY":[["CY-04","Famagusta/Mağusa"],["CY-03","Larnaka"],["CY-02","Lemesos"],["CY-05","Pafos"]],"SC":[],"CX":[],"SE":[["SE-K","Blekinge län"],["SE-W","Dalarnas län"],["SE-X","Gävleborgs län"],["SE-I","Gotlands län"],["SE-N","Hallands län"],["SE-Z","Jämtlands län"],["SE-F","Jönköpings län"],["SE-H","Kalmar län"],["SE-G","Kronobergs län"],["SE-BD","Norrbottens län"],["SE-T","Örebro län"],["SE-E","Östergötlands län"],["SE-M","Skåne län"],["SE-D","Södermanlands län"],["SE-AB","Stockholms län"],["SE-C","Uppsala län"],["SE-S","Värmlands län"],["SE-AC","Västerbottens län"],["SE-Y","Västernorrlands län"],["SE-U","Västmanlands län"],["SE-O","Västra Götalands län"]],"SH":[],"CV":[],"CU":[],"SG":[],"SJ":[],"SI":[],"SL":[],"SK":[],"SN":[],"SM":[],"SO":[],"SR":[],"CI":[],"CG":[],"CH":[["CH-AG","Aargau"],["CH-AR","Appenzell Ausserrhoden"],["CH-AI","Appenzell Innerrhoden"],["CH-BL","Basel-Land"],["CH-BS","Basel-Stadt"],["CH-BE","Bern"],["CH-FR","Freiburg"],["CH-GE","Genf"],["CH-GL","Glarus"],["CH-GR","Graubünden"],["CH-JU","Jura"],["CH-LU","Luzern"],["CH-NE","Neuchatel"],["CH-NW","Nidwalden"],["CH-OW","Obwalden"],["CH-SH","Schaffhausen"],["CH-SZ","Schwyz"],["CH-SO","Solothurn"],["CH-SG","St. Gallen"],["CH-TI","Tessin"],["CH-TG","Thurgau"],["CH-UR","Uri"],["CH-VD","Waadt"],["CH-VS","Wallis"],["CH-ZG","Zug"],["CH-ZH","Zürich"]],"RU":[["RU-AGB","Autonomer Kreis der Aginer Burjaten"],["RU-KHM","Autonomer Kreis der Chanten und Mansen"],["RU-EVE","Autonomer Kreis der Evenken"],["RU-YAN","Autonomer Kreis der Jamal-Nenzen"],["RU-KOR","Autonomer Kreis der Korjaken"],["RU-NEN","Autonomer Kreis der Nenzen"],["RU-CHU","Autonomer Kreis der Tschuktschen"],["RU-UOB","Autonomer Kreis der Ust-Ordynsker Burjaten"],["RU-TAY","Autonomer Kreis Taymyr (Dolganen-Nenzen)"],["RU-YEV","Jüdisches Autonomes Gebiet"],["RU-MOW","Moskau"],["RU-AMU","Oblast Amur"],["RU-ARK","Oblast Archangelsk"],["RU-AST","Oblast Astrachan"],["RU-BEL","Oblast Belgorod"],["RU-BRY","Oblast Brjansk"],["RU-CHI","Oblast Chitinsk"],["RU-IRK","Oblast Irkutsk"],["RU-IVA","Oblast Iwanowo"],["RU-YAR","Oblast Jaroslawl"],["RU-KGD","Oblast Kaliningrad"],["RU-KLU","Oblast Kaluga"],["RU-KEM","Oblast Kemerowo"],["RU-KIR","Oblast Kirow"],["RU-KOS","Oblast Kostroma"],["RU-KGN","Oblast Kurgan"],["RU-KRS","Oblast Kursk"],["RU-LEN","Oblast Leningrad"],["RU-LIP","Oblast Lipezk"],["RU-MAG","Oblast Magadan"],["RU-MOS","Oblast Moskau"],["RU-MUR","Oblast Murmansk"],["RU-NIZ","Oblast Nischni Nowgorod"],["RU-NGR","Oblast Nowgorod"],["RU-NVS","Oblast Nowosibirsk"],["RU-OMS","Oblast Omsk"],["RU-ORE","Oblast Orenburg"],["RU-ORL","Oblast Orjol"],["RU-PNZ","Oblast Pensa"],["RU-PSK","Oblast Pskow"],["RU-RYA","Oblast Rjasan"],["RU-ROS","Oblast Rostow"],["RU-SAK","Oblast Sachalin"],["RU-SAM","Oblast Samara"],["RU-SAR","Oblast Saratow"],["RU-SMO","Oblast Smolensk"],["RU-SVE","Oblast Swerdlowsk"],["RU-TAM","Oblast Tambow"],["RU-TYU","Oblast Tjumen"],["RU-TOM","Oblast Tomsk"],["RU-CHE","Oblast Tscheljabinsk"],["RU-TUL","Oblast Tula"],["RU-TVE","Oblast Twer"],["RU-ULY","Oblast Uljanowsk"],["RU-VLA","Oblast Wladimir"],["RU-VGG","Oblast Wolgograd"],["RU-VLG","Oblast Wologda"],["RU-VOR","Oblast Woronesch"],["RU-ALT","Region Altai"],["RU-KHA","Region Chabarowsk"],["RU-KAM","Region Kamtschatka"],["RU-KDA","Region Krasnodar"],["RU-KYA","Region Krasnojarsk"],["RU-PER","Region Perm"],["RU-PRI","Region Primorje"],["RU-STA","Region Stawropol"],["RU-AD","Republik Adygeja"],["RU-AL","Republik Altai"],["RU-BA","Republik Baschkortostan"],["RU-BU","Republik Burjatien"],["RU-KK","Republik Chakassien"],["RU-DA","Republik Dagestan"],["RU-IN","Republik Inguschetien"],["RU-SA","Republik Jakutien"],["RU-KB","Republik Kabardino-Balkarien"],["RU-KL","Republik Kalmückien"],["RU-KC","Republik Karatschai-Tscherkessien"],["RU-KR","Republik Karelien"],["RU-KO","Republik Komi"],["RU-ME","Republik Mari El"],["RU-MO","Republik Mordwinien"],["RU-SE","Republik Nordossetien"],["RU-TA","Republik Tatarstan"],["RU-CE","Republik Tschetschenien"],["RU-CU","Republik Tschuwaschien"],["RU-TY","Republik Tuwa"],["RU-UD","Republik Udmurtien"],["RU-SPE","Sankt Petersburg"]],"CF":[],"RW":[],"CC":[],"CD":[],"CR":[],"CO":[["CO-ANT","Antioquia"],["CO-ATL","Atlántico"],["CO-BOL","Bolívar"],["CO-CAL","Caldea"],["CO-CUN","Cundinamarca"],["CO-DC","Distrito Capital de Santa Fé de Bogotá"],["CO-HUI","Huila"],["CO-MAG","Magdalena"],["CO-MET","Meta"],["CO-NAR","Nariño"],["CO-PUT","Putumayo"],["CO-RIS","Risaralda"],["CO-SAN","Santander"],["CO-TOL","Tolima"],["CO-VAC","Valle del Cauca"]],"CM":[],"CN":[["CN-34","Anhui"],["CN-50","Chongqing"],["CN-35","Fujian"],["CN-62","Gansu"],["CN-44","Guangdong"],["CN-45","Guangxi"],["CN-52","Guizhou"],["CN-46","Hainan"],["CN-13","Hebei"],["CN-23","Heilongjiang"],["CN-41","Henan"],["CN-42","Hubei"],["CN-43","Hunan"],["CN-32","Jiangsu"],["CN-36","Jiangxi"],["CN-22","Jilin"],["CN-21","Liaoning"],["CN-15","Nei Mongol"],["CN-64","Ningxia"],["CN-11","Peking"],["CN-63","Qinghai"],["CN-61","Shaanxi"],["CN-37","Shandong"],["CN-31","Shanghai"],["CN-14","Shanxi"],["CN-51","Sichuan"],["CN-12","Tianjin"],["CN-65","Xinjiang"],["CN-54","Xizang"],["CN-53","Yunnan"],["CN-33","Zhejiang"]],"CK":[],"SA":[["SA-04","asch-Scharqiyya"],["SA-02","Mekka"],["SA-01","Riad"]],"SB":[],"CL":[["CL-AN","Antofagasta"],["CL-AR","Araucanía"],["CL-BI","Bío-Bío"],["CL-CO","Coquimbo"],["CL-LI","Libertador General Bernardo O'Higgins"],["CL-LL","Los Lagos"],["CL-MA","Magallanes"],["CL-ML","Maule"],["CL-RM","Region Metropolitana de Santiago"],["CL-TA","Tarapacá"],["CL-VS","Valparaíso"]],"LV":[],"LU":[],"LT":[],"LY":[],"LS":[],"LR":[],"MG":[],"MH":[],"MK":[],"ML":[],"MC":[],"MD":[],"MA":[],"MV":[],"MU":[],"MX":[["MX-AGU","Aguascalientes"],["MX-BCN","Baja California"],["MX-BCS","Baja California Sur"],["MX-CAM","Campeche"],["MX-CHP","Chiapas"],["MX-CHH","Chihuahua"],["MX-COA","Coahuila"],["MX-COL","Colima"],["MX-DF","Distrito Federal"],["MX-DUR","Durango"],["MX-GUA","Guanajuato"],["MX-GRO","Guerrero"],["MX-HID","Hidalgo"],["MX-JAL","Jalisco"],["MX-MEX","México"],["MX-MIC","Michoacán"],["MX-MOR","Morelos"],["MX-NAY","Nayarit"],["MX-NLE","Nuevo León"],["MX-OAX","Oaxaca"],["MX-PUE","Puebla"],["MX-QUE","Querétaro"],["MX-ROO","Quintana Roo"],["MX-SLP","San Luis Potosí"],["MX-SIN","Sinalóa"],["MX-SON","Sonora"],["MX-TAB","Tabasco"],["MX-TAM","Tamaulipas"],["MX-TLA","Tlaxcala"],["MX-VER","Veracruz"],["MX-YUC","Yucatán"],["MX-ZAC","Zacatecas"]],"MW":[],"MZ":[],"MY":[["MY-J","Johor"],["MY-K","Kedah"],["MY-D","Kelantan"],["MY-M","Malakka"],["MY-N","Negeri Sembilan"],["MY-C","Pahang"],["MY-A","Perak"],["MY-R","Perlis"],["MY-P","Pulau Pinang"],["MY-SA","Sabah"],["MY-SK","Sarawak"],["MY-B","Selangor"],["MY-T","Terengganu"],["MY-W","Wilayah Persekutuan Kuala Lumpur"],["MY-L","Wilayah Persekutuan Labuan"]],"MN":[],"MM":[],"MP":[],"MO":[],"MR":[],"MQ":[],"MT":[],"MS":[],"NF":[],"NG":[],"NI":[],"NL":[["NL-DR","Drenthe"],["NL-FL","Flevopolder"],["NL-FR","Friesland"],["NL-GE","Gelderland"],["NL-GR","Groningen"],["NL-LI","Limburg"],["NL-NB","Noord-Brabant"],["NL-NH","Noord-Holland"],["NL-OV","Overijssel"],["NL-UT","Utrecht"],["NL-ZE","Zeeland"],["NL-ZH","Zuid-Holland"]],"NA":[],"NC":[],"NE":[],"NZ":[["NZ-AUK","Auckland"],["NZ-BOP","Bay of Plenty"],["NZ-CAN","Canterbury"],["NZ-GIS","Gisborne"],["NZ-HKB","Hawke's Bay"],["NZ-MWT","Manawatu-Wanganui"],["NZ-MBH","Marlborough"],["NZ-NSN","Nelson"],["NZ-NTL","Northland"],["NZ-OTA","Otago"],["NZ-STL","Southland"],["NZ-TKI","Taranaki"],["NZ-TAS","Tasman"],["NZ-WKO","Waikato"],["NZ-WGN","Wellington"],["NZ-WTC","West Coast"]],"NU":[],"NR":[],"NP":[],"NO":[["NO-02","Akershus"],["NO-09","Aust-Agder"],["NO-06","Buskerud"],["NO-20","Finnmark"],["NO-04","Hedmark"],["NO-12","Hordaland"],["NO-15","Møere og Romsdal"],["NO-17","Nord-Trøndelag"],["NO-18","Nordland"],["NO-01","Oestfold"],["NO-05","Oppland"],["NO-03","Oslo"],["NO-11","Rogaland"],["NO-14","Sogn og Fjordane"],["NO-16","Sør-Trøndelag"],["NO-08","Telemark"],["NO-19","Troms"],["NO-10","Vest-Agder"],["NO-07","Vestfold"]],"OM":[],"PL":[["PL-DS","Dolnoslaskie"],["PL-KP","Kujawsko-Pomorskie"],["PL-LD","Lodzkie"],["PL-LU","Lubelskie"],["PL-LB","Lubuskie"],["PL-MA","Malopolskie"],["PL-MZ","Mazowieckie"],["PL-OP","Opolskie"],["PL-PK","Podkarpackie"],["PL-PD","Podlaskie"],["PL-PM","Pomorskie"],["PL-SL","Slaskie"],["PL-SK","Swietokrzyskie"],["PL-WN","Warminsko-Mazurskie"],["PL-WP","Wielkopolskie"],["PL-ZP","Zachodnio-Pomorskie"]],"PM":[],"PN":[],"PH":[["PH-AGN","Agusan del Norte"],["PH-ALB","Albay"],["PH-BTN","Batanes"],["PH-BTG","Batangas"],["PH-BEN","Benguet"],["PH-BUL","Bulacan"],["PH-CAG","Cagayan"],["PH-CAS","Camarines Sur"],["PH-CAT","Catanduanes"],["PH-CAV","Cavite"],["PH-CEB","Cebu"],["PH-DAV","Davao"],["PH-DAS","Davao del Sur"],["PH-ILN","Ilocos Norte"],["PH-ILI","Iloilo"],["PH-LAG","Laguna"],["PH-LAN","Lanao del Norte"],["PH-LEY","Leyte"],["PH-MAG","Maguindanao"],["PH-MAN","Manila"],["PH-MDC","Mindoro Occidental"],["PH-MSR","Misamis Oriental"],["PH-NER","Negros Oriental"],["PH-NUV","Nueva Vizcaya"],["PH-PAM","Pampanga"],["PH-PAN","Pangasinan"],["PH-QUE","Quezon"],["PH-RIZ","Rizal"],["PH-ZMB","Zambales"]],"PK":[],"PE":[["PE-ANC","Ancash"],["PE-ARE","Arequipa"],["PE-AYA","Ayacucho"],["PE-CAJ","Cajamarca"],["PE-CUS","Cuzco"],["PE-CAL","El Callao"],["PE-HUV","Huancavelica"],["PE-HUC","Huánuco"],["PE-ICA","Ica"],["PE-JUN","Junín"],["PE-LAL","La Libertad"],["PE-LAM","Lambayeque"],["PE-LIM","Lima"],["PE-LOR","Loreto"],["PE-MOQ","Moquegua"],["PE-PAS","Pasco"],["PE-PIU","Piura"],["PE-PUN","Puno"],["PE-SAM","San Martín"],["PE-TAC","Tacna"],["PE-UCA","Ucayali"]],"PF":[],"PG":[],"PA":[],"HK":[],"ZA":[["ZA-EC","Eastern Cape"],["ZA-FS","Free State"],["ZA-GT","Gauteng"],["ZA-NL","Kwazulu-Natal"],["ZA-MP","Mpumalanga"],["ZA-NW","North-West"],["ZA-NC","Northern Cape"],["ZA-NP","Northern Province"],["ZA-WC","Western Cape"]],"HN":[],"HM":[],"HR":[["HR-19","Gespanschaft Dubrovnik-Neretva"],["HR-06","Gespanschaft Koprivnica-Križevci"],["HR-14","Gespanschaft Osijek-Baranja"],["HR-08","Gespanschaft Primorje-Gorski kotar"],["HR-17","Gespanschaft Split-Dalmatien"],["HR-16","Gespanschaft Vukovar-Srijem"],["HR-01","Gespanschaft Zagreb"],["HR-13","Zadaraka"]],"HT":[],"HU":[["HU-BK","Bács-Kiskun"],["HU-BA","Baranya"],["HU-BE","Békés"],["HU-BZ","Borsod-Abaúj-Zemplén"],["HU-BU","Budapest"],["HU-CS","Csongrád"],["HU-FE","Fejér"],["HU-GY","Györ"],["HU-GS","Györ-Moson-Sopron"],["HU-HB","Hajdû-Bihar"],["HU-HE","Heves"],["HU-JN","Jász-Nagykun-Szolnok"],["HU-KE","Komárom-Esztergom"],["HU-NO","Nógrád"],["HU-PE","Pest"],["HU-SO","Somogy"],["HU-SZ","Szabolcs-Szatmár-Bereg"],["HU-TO","Tolna"],["HU-VA","Vas"],["HU-VE","Veszprém"],["HU-ZA","Zala"]],"ZM":[],"ZW":[],"ID":[["ID-AC","Aceh, Sumatra"],["ID-BA","Bali"],["ID-JK","Jakarta Raya"],["ID-JA","Jambi"],["ID-JB","Jawa Barat"],["ID-JT","Jawa Tengah"],["ID-JI","Jawa Timur"],["ID-KS","Kalimantan Selatan"],["ID-KI","Kalimantan Timur"],["ID-LA","Lampung"],["ID-NB","Nusa Tenggara Barat"],["ID-RI","Riau"],["ID-SN","Sulawesi Selatan"],["ID-SA","Sulawesi Utara"],["ID-SS","Sumatera Selatan"],["ID-SU","Sumatera Utara"],["ID-YO","Yogyakarta, Java"]],"IE":[["IE-CW","Carlow"],["IE-CN","Cavan"],["IE-CE","Clare"],["IE-C","Cork"],["IE-DL","Donegal"],["IE-D","Dublin"],["IE-G","Galway"],["IE-KY","Kerry"],["IE-KE","Kildare"],["IE-KK","Kilkenny"],["IE-LS","Laois"],["IE-LM","Leitrim"],["IE-LK","Limerick"],["IE-LD","Longford"],["IE-LH","Louth"],["IE-MO","Mayo"],["IE-MH","Meath"],["IE-MN","Monaghan"],["IE-OY","Offaly"],["IE-RN","Roscommon"],["IE-SO","Sligo"],["IE-TA","Tipperary"],["IE-WD","Waterford"],["IE-WH","Westmeath"],["IE-WX","Wexford"],["IE-WW","Wicklow"]],"IL":[["IL-HA","Haifa"],["IL-JM","Jerusalem"],["IL-Z","Nordbezirk"],["IL-D","Südbezirk"],["IL-TA","Tel Aviv"],["IL-M","Zentralbezirk"]],"IN":[["IN-AN","Andamanen und Nikobaren"],["IN-AP","Andhra Pradesh"],["IN-AR","Arunachal Pradesh"],["IN-AS","Assam"],["IN-BR","Bihar"],["IN-CH","Chandigarh"],["IN-CT","Chhattisgarh"],["IN-DN","Dadar and Nagar Haveli"],["IN-DD","Daman und Diu"],["IN-DL","Delhi"],["IN-GA","Goa"],["IN-GJ","Gujarat"],["IN-HR","Haryana"],["IN-HP","Himachal Pradesh"],["IN-JK","Jammu und Kashmir"],["IN-JH","Jharkhand"],["IN-KA","Karnataka"],["IN-KL","Kerala"],["IN-LD","Lakkadiven"],["IN-MP","Madhya Pradesh"],["IN-MH","Maharashtra"],["IN-MN","Manipur"],["IN-ML","Meghalaya"],["IN-MZ","Mizoram"],["IN-NL","Nagaland"],["IN-OR","Orissa"],["IN-PY","Pondicherry"],["IN-PB","Punjab"],["IN-RJ","Rajasthan"],["IN-SK","Sikkim"],["IN-TN","Tamil Nadu"],["IN-TR","Tripura"],["IN-UP","Uttar Pradesh"],["IN-UL","Uttaranchal"],["IN-WB","West-Bengalen"]],"IO":[],"IQ":[],"IR":[["IR-02","Azarbayjan-e Gharbî"],["IR-01","Azarbayjan-e Sharqî"],["IR-06","Bushehr"],["IR-08","Chahar Mahall va Bakhtiari"],["IR-09","Chorasan"],["IR-14","Fars"],["IR-19","Gilan"],["IR-24","Hamadan"],["IR-23","Hormozgan"],["IR-05","Ilam"],["IR-04","Isfahan"],["IR-15","Kerman"],["IR-17","Kermanshahan"],["IR-10","Khuzestan"],["IR-16","Kordeatan"],["IR-20","Lorestan"],["IR-22","Markazî"],["IR-21","Mazandaran"],["IR-12","Semnan"],["IR-13","Sistan va Balûchestan"],["IR-07","Teheran"],["IR-25","Yazd"],["IR-11","Zanjan"]],"YE":[],"IS":[],"IT":[["IT-AG","Agrigento"],["IT-AL","Alessandria"],["IT-AN","Ancona"],["IT-AO","Aosta"],["IT-AR","Arezzo"],["IT-AP","Ascoli Piceno"],["IT-AT","Asti"],["IT-AV","Avellino"],["IT-BA","Bari"],["IT-BL","Belluno"],["IT-BN","Benevento"],["IT-BG","Bergamo"],["IT-BI","Biella"],["IT-BO","Bologna"],["IT-BZ","Bozen"],["IT-BS","Brescia"],["IT-BR","Brindisi"],["IT-CA","Cagliari"],["IT-CL","Caltanissetta"],["IT-CB","Campobasso"],["IT-CE","Caserta"],["IT-CT","Catania"],["IT-CZ","Catanzaro"],["IT-CH","Chieti"],["IT-CO","Como"],["IT-CS","Cosenza"],["IT-CR","Cremona"],["IT-KR","Crotone"],["IT-CN","Cuneo"],["IT-EN","Enna"],["IT-FE","Ferrara"],["IT-FI","Florenz"],["IT-FG","Foggia"],["IT-FO","Forlì-Cesena"],["IT-FR","Frosinone"],["IT-GE","Genua"],["IT-GO","Gorizia"],["IT-GR","Grosseto"],["IT-IM","Imperia"],["IT-IS","Isernia"],["IT-AQ","L'Aquila"],["IT-SP","La Spezia"],["IT-LT","Latina"],["IT-LE","Lecce"],["IT-LC","Lecco"],["IT-LI","Livorno"],["IT-LO","Lodi"],["IT-LU","Lucca"],["IT-MC","Macerata"],["IT-MI","Mailand"],["IT-MN","Mantua"],["IT-MS","Massa"],["IT-MT","Matera"],["IT-ME","Messina"],["IT-MO","Modena"],["IT-NA","Neapel"],["IT-NO","Novara"],["IT-NU","Nuoro"],["IT-OR","Oristano"],["IT-PD","Padua"],["IT-PA","Palermo"],["IT-PR","Parma"],["IT-PV","Pavia"],["IT-PG","Perugia"],["IT-PS","Pesaro"],["IT-PE","Pescara"],["IT-PC","Piacenza"],["IT-PI","Pisa"],["IT-PT","Pistoia"],["IT-PN","Pordenone"],["IT-PZ","Potenza"],["IT-PO","Prato"],["IT-RG","Ragusa"],["IT-RA","Ravenna"],["IT-RC","Reggio Calabria"],["IT-RE","Reggio Emilia"],["IT-RI","Rieti"],["IT-RN","Rimini"],["IT-RM","Rom"],["IT-RO","Rovigo"],["IT-SA","Salerno"],["IT-SS","Sassari"],["IT-SV","Savona"],["IT-SI","Siena"],["IT-SR","Siracusa"],["IT-SO","Sondrio"],["IT-TA","Tarent"],["IT-TE","Teramo"],["IT-TR","Terni"],["IT-TP","Trapani"],["IT-TV","Treviso"],["IT-TN","Trient"],["IT-TS","Triest"],["IT-TO","Turin"],["IT-UD","Udine"],["IT-VA","Varese"],["IT-VE","Venedig"],["IT-VB","Verbano-Cusio-Ossola"],["IT-VC","Vercelli"],["IT-VR","Verona"],["IT-VV","Vibo Valentia"],["IT-VI","Vicenza"],["IT-VT","Viterbo"]],"YU":[],"YT":[],"JP":[["JP-23","Aichi"],["JP-05","Akita"],["JP-02","Aomori"],["JP-12","Chiba"],["JP-38","Ehime"],["JP-18","Fukui"],["JP-40","Fukuoka"],["JP-07","Fukushima"],["JP-21","Gifu"],["JP-10","Gunma"],["JP-34","Hiroshima"],["JP-01","Hokkaido"],["JP-28","Hyogo"],["JP-08","Ibaraki"],["JP-17","Ishikawa"],["JP-03","Iwate"],["JP-37","Kagawa"],["JP-46","Kagoshima"],["JP-14","Kanagawa"],["JP-39","Kochi"],["JP-43","Kumamoto"],["JP-26","Kyoto"],["JP-24","Mie"],["JP-04","Miyagi"],["JP-45","Miyazaki"],["JP-20","Nagano"],["JP-42","Nagasaki"],["JP-29","Nara"],["JP-15","Niigata"],["JP-44","Oita"],["JP-33","Okayama"],["JP-47","Okinawa"],["JP-27","Osaka"],["JP-41","Saga"],["JP-11","Saitama"],["JP-25","Shiga"],["JP-32","Shimane"],["JP-22","Shizuoka"],["JP-09","Tochigi"],["JP-13","Tokio"],["JP-36","Tokushima"],["JP-31","Tottori"],["JP-16","Toyama"],["JP-30","Wakayama"],["JP-06","Yamagata"],["JP-35","Yamaguchi"],["JP-19","Yamanashi"]],"JO":[],"JM":[],"KI":[],"KH":[],"KG":[],"KE":[],"KP":[],"KR":[["KR-26","Busan"],["KR-43","Chungcheongbuk-do"],["KR-44","Chungcheongnam-do"],["KR-27","Daegu"],["KR-30","Daejeon"],["KR-42","Gangwon-do"],["KR-29","Gwangju"],["KR-41","Gyeonggi-do"],["KR-47","Gyeongsangbuk-do"],["KR-48","Gyeongsangnam-do"],["KR-28","Incheon"],["KR-49","Jeju-do"],["KR-45","Jeollabuk-do"],["KR-46","Jeollanam-do"],["KR-11","Seoul"],["KR-31","Ulsan"]],"KM":[["KM-G","Grande Comore Ngazidja"]],"KN":[],"KW":[],"KY":[],"KZ":[],"LA":[],"LC":[],"LB":[],"LI":[],"LK":[]});
+  trends.GeoNames.setCountryToDmas({"US":[["662","Abilene-Sweetwater","US-TX"],["525","Albany","US-GA"],["532","Albany-Schenectady-Troy","US-NY"],["790","Albuquerque","US-NM"],["644","Alexandria","US-LA"],["583","Alpena","US-MI"],["634","Amarillo","US-TX"],["743","Anchorage","US-AK"],["524","Atlanta","US-GA"],["520","Augusta","US-GA"],["635","Austin","US-TX"],["800","Bakersfield","US-CA"],["512","Baltimore","US-MD"],["537","Bangor","US-ME"],["716","Baton Rouge","US-LA"],["692","Beaumont-Port Author","US-TX"],["821","Bend","US-OR"],["756","Billings","US-MT"],["746","Biloxi-Gulfport","US-MS"],["502","Binghamton","US-NY"],["630","Birmingham","US-AL"],["559","Bluefield-Beckley-Oak Hill","US-WV"],["757","Boise","US-ID"],["506","Boston","US-MA"],["736","Bowling Green","US-KY"],["514","Buffalo","US-NY"],["523","Burlington","US-VT"],["754","Butte-Bozeman","US-MT"],["767","Casper-Riverton","US-WY"],["637","Cedar Rapids-Waterloo","US-IA"],["648","Champaign-Springfield-Decatur","US-IL"],["519","Charleston","US-SC"],["564","Charleston-Huntington","US-WV"],["517","Charlotte","US-NC"],["584","Charlottesville","US-VA"],["575","Chattanooga","US-TN"],["759","Cheyenne","US-WY"],["602","Chicago","US-IL"],["868","Chico-Redding","US-CA"],["515","Cincinnati","US-OH"],["598","Clarksburg-Weston","US-WV"],["510","Cleveland","US-OH"],["752","Colorado Springs","US-CO"],["546","Columbia","US-SC"],["604","Columbia-Jefferson City","US-MO"],["535","Columbus","US-OH"],["522","Columbus","US-GA"],["673","Columbus-Tupelo-West Point","US-MS"],["600","Corpus Christi","US-TX"],["623","Dallas-Fort Worth","US-TX"],["682","Davenport-Rock Island-Moline","US-IA"],["542","Dayton","US-OH"],["751","Denver","US-CO"],["679","Des Moines","US-IA"],["505","Detroit","US-MI"],["606","Dothan","US-AL"],["676","Duluth","US-MN"],["765","El Paso","US-TX"],["565","Elmira","US-NY"],["516","Erie","US-PA"],["801","Eugene","US-OR"],["802","Eureka","US-CA"],["649","Evansville","US-IN"],["745","Fairbanks","US-AK"],["724","Fargo-Valley City","US-ND"],["513","Flint","US-MI"],["570","Florence-Myrtle Beach","US-SC"],["866","Fresno","US-CA"],["571","Ft Myers","US-FL"],["670","Ft Smith-Fay-Springfield","US-AR"],["509","Ft Wayne","US-IN"],["592","Gainesville","US-FL"],["798","Glendive","US-MT"],["773","Grand Junction","US-CO"],["563","Grand Rapids","US-MI"],["755","Great Falls","US-MT"],["658","Green Bay-Appleton","US-WI"],["518","Greensboro","US-NC"],["545","Greenville-New Bern-Washington","US-NC"],["567","Greenville-Spartenburg","US-SC"],["647","Greenwood-Greenville","US-MS"],["636","Harlingen","US-TX"],["566","Harrisburg-Lancaster-Lebanon-York","US-PA"],["569","Harrisonburg","US-VA"],["533","Hartford","US-CT"],["710","Hattiesburg-Laurel","US-MS"],["766","Helena","US-MT"],["744","Honolulu","US-HI"],["618","Houston","US-TX"],["691","Huntsville","US-AL"],["758","Idaho Falls-Pocatello","US-ID"],["527","Indianapolis","US-IN"],["718","Jackson","US-MS"],["639","Jackson","US-TN"],["561","Jacksonville","US-FL"],["574","Johnstown-Altoona","US-PA"],["734","Jonesboro","US-AR"],["603","Joplin-Pittsburg","US-MO"],["747","Juneau","US-AK"],["616","Kansas City","US-MO"],["557","Knoxville","US-TN"],["702","La Crosse-Eau Claire","US-WI"],["582","Lafayette","US-IN"],["642","Lafayette","US-LA"],["643","Lake Charles","US-LA"],["551","Lansing","US-MI"],["749","Laredo","US-TX"],["839","Las Vegas","US-NV"],["541","Lexington","US-KY"],["558","Lima","US-OH"],["722","Lincoln-Hastings","US-NE"],["693","Little Rock-Pine Bluff","US-AR"],["803","Los Angeles","US-CA"],["529","Louisville","US-KY"],["651","Lubbock","US-TX"],["503","Macon","US-GA"],["669","Madison","US-WI"],["737","Mankato","US-MN"],["553","Marquette","US-MI"],["813","Medford-Klamath Falls","US-OR"],["640","Memphis","US-TN"],["711","Meridian","US-MS"],["528","Miami","US-FL"],["617","Milwaukee","US-WI"],["613","Minneapolis-St Paul","US-MN"],["687","Minot-Bismarck-Dickinson","US-ND"],["762","Missoula","US-MT"],["686","Mobile","US-FL"],["628","Monroe","US-LA"],["828","Monterey-Salinas","US-CA"],["698","Montgomery","US-AL"],["659","Nashville","US-TN"],["622","New Orleans","US-LA"],["501","New York","US-NY"],["544","Norfolk-Portsmouth","US-VA"],["740","North Platte","US-NE"],["633","Odessa-Midland","US-TX"],["650","Oklahoma City","US-OK"],["652","Omaha","US-NE"],["534","Orlando","US-FL"],["631","Ottumwa-Kirksville","US-IA"],["632","Paducah","US-KY"],["804","Palm Springs","US-CA"],["656","Panama City","US-FL"],["597","Parkersburg","US-WV"],["675","Peoria-Bloomington","US-IL"],["504","Philadelphia","US-PA"],["753","Phoenix","US-AZ"],["508","Pittsburgh","US-PA"],["820","Portland","US-OR"],["500","Portland-Auburn","US-ME"],["552","Presque Isle","US-ME"],["521","Providence","US-RI"],["717","Quincy","US-IL"],["560","Raleigh-Durham","US-NC"],["764","Rapid City","US-SD"],["811","Reno","US-NV"],["556","Richmond-Petersburg","US-VA"],["573","Roanoke-Lynchburg","US-VA"],["538","Rochester","US-NY"],["611","Rochester-Mason City-Austin","US-MN"],["610","Rockford","US-IL"],["862","Sacramento","US-CA"],["576","Salisbury","US-MD"],["770","Salt Lake City","US-UT"],["661","San Angelo","US-TX"],["641","San Antonio","US-TX"],["825","San Diego","US-CA"],["807","San Francisco","US-CA"],["855","Santa Barbara","US-CA"],["507","Savannah","US-GA"],["819","Seattle-Tacoma","US-WA"],["657","Sherman","US-TX"],["612","Shreveport","US-LA"],["624","Sioux City","US-IA"],["725","Sioux Falls","US-SD"],["588","South Bend","US-IN"],["881","Spokane","US-WA"],["619","Springfield","US-MO"],["543","Springfield-Holyoke","US-MA"],["638","St Joseph","US-MO"],["609","St Louis","US-MO"],["555","Syracuse","US-NY"],["530","Tallahassee","US-FL"],["539","Tampa","US-FL"],["581","Terre Haute","US-IN"],["547","Toledo","US-OH"],["605","Topeka","US-KS"],["540","Traverse City-Cadillac","US-MI"],["531","Tri-Cities","US-TN"],["789","Tucson","US-AZ"],["671","Tulsa","US-OK"],["760","Twin Falls","US-ID"],["709","Tyler-Longview","US-TX"],["526","Utica-Rome","US-NY"],["626","Victoria","US-TX"],["625","Waco-Temple-Bryan","US-TX"],["511","Washington","US-DC"],["549","Watertown","US-NY"],["705","Wausau-Rhinelander","US-WI"],["548","West Palm Beach","US-FL"],["554","Wheeling","US-OH"],["678","Wichita","US-KS"],["627","Wichita Falls","US-TX"],["577","Wilkes Barre-Scranton","US-PA"],["550","Wilmington","US-NC"],["810","Yakima-Pasco","US-WA"],["536","Youngstown-Warren","US-OH"],["771","Yuma","US-AZ"],["596","Zanesville","US-OH"]]});
+  trends.GeoNames.setRegionToDmas({"US-DE":["504","576"],"US-LA":["644","716","642","643","628","622","612"],"US-HI":["744"],"US-WY":["756","559","767","759","751","758","764"],"US-PA":["514","565","516","566","574","501","504","508","511","577","536"],"US-CT":["533","501"],"US-WV":["564","598","569","597","508","573","511","554"],"US-AK":["743","745","747"],"US-AL":["524","630","575","522","673","606","691","711","686","698"],"US-WI":["676","658","702","669","553","617","613","705"],"US-DC":["511"],"US-WA":["820","819","881","810"],"US-MA":["532","506","521","543"],"US-MD":["512","508","576","511"],"US-ME":["537","500","552"],"US-IL":["648","602","682","649","632","675","717","610","609","581"],"US-MI":["583","505","676","513","563","658","551","553","588","547","540"],"US-IN":["602","515","542","649","509","527","582","529","588","581"],"US-MO":["604","679","603","616","640","652","631","632","619","638","609"],"US-MN":["676","724","702","737","613","611","725"],"US-ID":["757","758","770","881","760"],"US-MS":["716","746","673","647","710","718","640","711","686","622"],"US-VT":["532","506","523","500"],"US-MT":["756","754","751","798","755","766","687","762","764","881"],"US-IA":["637","682","679","737","652","631","717","611","624","725"],"US-FL":["571","592","561","528","686","534","656","530","539","548"],"US-NE":["759","751","722","740","652","624","725","678"],"US-NC":["524","517","575","570","518","545","567","544","560","550"],"US-ND":["724","687"],"US-CA":["800","868","802","866","803","813","828","804","753","811","862","825","807","855","771"],"US-VA":["559","584","518","569","544","560","556","573","531","511"],"US-NM":["790","634","765","633"],"US-RI":["521"],"US-NJ":["501","504"],"US-NH":["506","523","500"],"US-NV":["751","839","811","770"],"US-UT":["770"],"US-SC":["520","519","517","546","570","567","507"],"US-CO":["790","752","751","773","770"],"US-NY":["532","502","514","523","565","501","538","555","526","549"],"US-KY":["736","564","515","649","557","541","529","659","632","531"],"US-AZ":["790","753","789","771"],"US-KS":["634","603","616","722","638","605","671","678"],"US-AR":["670","647","734","693","640","628","612","619"],"US-OH":["515","510","535","542","509","558","597","547","554","536","596"],"US-SD":["751","687","764","624","725"],"US-TX":["662","634","635","692","600","623","765","636","618","749","651","633","661","641","657","612","709","626","625","627"],"US-OK":["670","603","650","657","612","671","678","627"],"US-TN":["575","691","639","557","640","659","632","531"],"US-OR":["821","757","801","813","820","881","810"],"US-GA":["525","524","520","575","522","606","567","561","503","507","530"]});
+</script>
+</td>
+      <td id="cmpPckrgeoRP0" class="removeButtonCell" style="">
+        <a onclick="controlPanel.getMultiPicker('geo').removePicker(0); return false;">
+          <div class="goog-inline-block fs04img SPRITE_remove"
+       style=''
+       height="15" width="15" border="0" ></div></a>
+      </td>
+    </tr>
+    <tr id="cmpPckrgeoR1">
+      <td class="colorBulletCell" style="">
+        <div>
+          <span style="color:#dc3912;">&#149;&nbsp;</span>
+        </div>
+      </td>
+      <td class="pickerCell" nowrap="nowrap">
+        <table cellpadding="0" cellspacing="0" border="0" style="width:330px">
+  <tr>
+    <td class="geoTagCountryBox">
+      <select id="cmpPckrgeoP1C"
+              class="geoTagCountryBox"
+              onchange="controlPanel.getMultiPicker('geo').getPicker(1).countryChanged(this.value)"/>
+    </td>
+    <td class="geoTagRegionBox">
+      <select id="cmpPckrgeoP1R"
+              class="geoTagRegionBox"
+              onchange="controlPanel.getMultiPicker('geo').getPicker(1).regionChanged(this.value)"/>
+    </td>
+    <td>
+      <select id="cmpPckrgeoP1D"
+              class="geoTagDmaBox"
+              onchange="controlPanel.getMultiPicker('geo').getPicker(1).dmaChanged(this.value)"/>
+    </td>
+  </tr>
+</table>
+</td>
+      <td id="cmpPckrgeoRP1" class="removeButtonCell" style="">
+        <a onclick="controlPanel.getMultiPicker('geo').removePicker(1); return false;">
+          <div class="goog-inline-block fs04img SPRITE_remove"
+       style=''
+       height="15" width="15" border="0" ></div></a>
+      </td>
+    </tr>
+    <tr id="cmpPckrgeoR2">
+      <td class="colorBulletCell" style="">
+        <div>
+          <span style="color:#ff9900;">&#149;&nbsp;</span>
+        </div>
+      </td>
+      <td class="pickerCell" nowrap="nowrap">
+        <table cellpadding="0" cellspacing="0" border="0" style="width:330px">
+  <tr>
+    <td class="geoTagCountryBox">
+      <select id="cmpPckrgeoP2C"
+              class="geoTagCountryBox"
+              onchange="controlPanel.getMultiPicker('geo').getPicker(2).countryChanged(this.value)"/>
+    </td>
+    <td class="geoTagRegionBox">
+      <select id="cmpPckrgeoP2R"
+              class="geoTagRegionBox"
+              onchange="controlPanel.getMultiPicker('geo').getPicker(2).regionChanged(this.value)"/>
+    </td>
+    <td>
+      <select id="cmpPckrgeoP2D"
+              class="geoTagDmaBox"
+              onchange="controlPanel.getMultiPicker('geo').getPicker(2).dmaChanged(this.value)"/>
+    </td>
+  </tr>
+</table>
+</td>
+      <td id="cmpPckrgeoRP2" class="removeButtonCell" style="">
+        <a onclick="controlPanel.getMultiPicker('geo').removePicker(2); return false;">
+          <div class="goog-inline-block fs04img SPRITE_remove"
+       style=''
+       height="15" width="15" border="0" ></div></a>
+      </td>
+    </tr>
+    <tr id="cmpPckrgeoR3">
+      <td class="colorBulletCell" style="">
+        <div>
+          <span style="color:#008000;">&#149;&nbsp;</span>
+        </div>
+      </td>
+      <td class="pickerCell" nowrap="nowrap">
+        <table cellpadding="0" cellspacing="0" border="0" style="width:330px">
+  <tr>
+    <td class="geoTagCountryBox">
+      <select id="cmpPckrgeoP3C"
+              class="geoTagCountryBox"
+              onchange="controlPanel.getMultiPicker('geo').getPicker(3).countryChanged(this.value)"/>
+    </td>
+    <td class="geoTagRegionBox">
+      <select id="cmpPckrgeoP3R"
+              class="geoTagRegionBox"
+              onchange="controlPanel.getMultiPicker('geo').getPicker(3).regionChanged(this.value)"/>
+    </td>
+    <td>
+      <select id="cmpPckrgeoP3D"
+              class="geoTagDmaBox"
+              onchange="controlPanel.getMultiPicker('geo').getPicker(3).dmaChanged(this.value)"/>
+    </td>
+  </tr>
+</table>
+</td>
+      <td id="cmpPckrgeoRP3" class="removeButtonCell" style="">
+        <a onclick="controlPanel.getMultiPicker('geo').removePicker(3); return false;">
+          <div class="goog-inline-block fs04img SPRITE_remove"
+       style=''
+       height="15" width="15" border="0" ></div></a>
+      </td>
+    </tr>
+    <tr id="cmpPckrgeoR4">
+      <td class="colorBulletCell" style="">
+        <div>
+          <span style="color:#4942cc;">&#149;&nbsp;</span>
+        </div>
+      </td>
+      <td class="pickerCell" nowrap="nowrap">
+        <table cellpadding="0" cellspacing="0" border="0" style="width:330px">
+  <tr>
+    <td class="geoTagCountryBox">
+      <select id="cmpPckrgeoP4C"
+              class="geoTagCountryBox"
+              onchange="controlPanel.getMultiPicker('geo').getPicker(4).countryChanged(this.value)"/>
+    </td>
+    <td class="geoTagRegionBox">
+      <select id="cmpPckrgeoP4R"
+              class="geoTagRegionBox"
+              onchange="controlPanel.getMultiPicker('geo').getPicker(4).regionChanged(this.value)"/>
+    </td>
+    <td>
+      <select id="cmpPckrgeoP4D"
+              class="geoTagDmaBox"
+              onchange="controlPanel.getMultiPicker('geo').getPicker(4).dmaChanged(this.value)"/>
+    </td>
+  </tr>
+</table>
+</td>
+      <td id="cmpPckrgeoRP4" class="removeButtonCell" style="">
+        <a onclick="controlPanel.getMultiPicker('geo').removePicker(4); return false;">
+          <div class="goog-inline-block fs04img SPRITE_remove"
+       style=''
+       height="15" width="15" border="0" ></div></a>
+      </td>
+    </tr>
+    <tr style="">
+    <td/>
+    <td colspan="2" class="addAnotherCell">
+      <span id="cmpPckrgeoAL">+&nbsp;
+        <a onclick="controlPanel.getMultiPicker('geo').addPicker(true); return false;">
+          Standort hinzufügen</a></span>
+    </td>
+  </tr>
+</table>
+</td>
+</tr>
+<tr class="comparisonPickerRow" id="cmpRowdate">
+  <td class="bottomBorder pickerCell" colspan="2"
+      style="padding:0; padding-bottom:.3em;">
+    <table class="multiPickerTable"
+       cellpadding="0"
+       cellspacing="0"
+       border="0">
+  <tr id="cmpPckrdateR0">
+      <td class="colorBulletCell" style="">
+        <div>
+          <span style="color:#4684ee;">&#149;&nbsp;</span>
+        </div>
+      </td>
+      <td class="pickerCell" nowrap="nowrap">
+        <select id="cmpPckrdateP0M"
+        class="timeTagMainSelectBox"
+        onchange="controlPanel.getMultiPicker('date').getPicker(0).onMainSelectBoxChange(this.value)">
+  <option value="">2004 - heute</option>
+<option value="today 7-d">Letzte 7 Tage</option>
+<option value="today 1-m">Letzte 30 Tage</option>
+<option value="today 3-m">Letzte 90 Tage</option>
+<option value="today 12-m">Letzte 12 Monate</option>
+<optgroup label="&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;" class="separator"> </optgroup><option value="1/2010 12m">2010</option>
+<option value="1/2009 12m">2009</option>
+<option value="1/2008 12m">2008</option>
+<option value="1/2007 12m">2007</option>
+<option value="1/2006 12m">2006</option>
+<option value="1/2005 12m">2005</option>
+<option value="1/2004 12m">2004</option>
+<optgroup label="&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;" class="separator"> </optgroup><option class="dropdownOptionLink"
+          value="more"
+      >Bestimmter Zeitraum</option>
+</select>
+
+
+<div id="cmpPckrdateP0A" style="display:none;" class="advancedTimeDiv">
+  <select id="cmpPckrdateP0FM" onchange="controlPanel.getMultiPicker('date').getPicker(0).onAdvancedModeChange(true)">
+  <option selected="selected" value="0">Jan</option>
+<option  value="1">Feb</option>
+<option  value="2">Mrz</option>
+<option  value="3">Apr</option>
+<option  value="4">Mai</option>
+<option  value="5">Jun</option>
+<option  value="6">Jul</option>
+<option  value="7">Aug</option>
+<option  value="8">Sep</option>
+<option  value="9">Okt</option>
+<option  value="10">Nov</option>
+<option  value="11">Dez</option>
+</select>
+
+<select id="cmpPckrdateP0FY" onchange="controlPanel.getMultiPicker('date').getPicker(0).onAdvancedModeChange(true)">
+  <option selected="selected" value="2010">2010</option>
+<option  value="2009">2009</option>
+<option  value="2008">2008</option>
+<option  value="2007">2007</option>
+<option  value="2006">2006</option>
+<option  value="2005">2005</option>
+<option  value="2004">2004</option>
+</select>
+
+<span class="fromAndToDivider"> - </span>
+  <select id="cmpPckrdateP0TM" onchange="controlPanel.getMultiPicker('date').getPicker(0).onAdvancedModeChange(false)">
+  <option selected="selected" value="0">Jan</option>
+<option  value="1">Feb</option>
+<option  value="2">Mrz</option>
+<option  value="3">Apr</option>
+<option  value="4">Mai</option>
+<option  value="5">Jun</option>
+<option  value="6">Jul</option>
+<option  value="7">Aug</option>
+<option  value="8">Sep</option>
+<option  value="9">Okt</option>
+<option  value="10">Nov</option>
+<option  value="11">Dez</option>
+</select>
+
+<select id="cmpPckrdateP0TY" onchange="controlPanel.getMultiPicker('date').getPicker(0).onAdvancedModeChange(false)">
+  <option selected="selected" value="2010">2010</option>
+<option  value="2009">2009</option>
+<option  value="2008">2008</option>
+<option  value="2007">2007</option>
+<option  value="2006">2006</option>
+<option  value="2005">2005</option>
+<option  value="2004">2004</option>
+</select>
+
+&nbsp;<a class="timeTagLessLink" onclick="controlPanel.getMultiPicker('date').getPicker(0).reset()"
+      >Zurücksetzen</a>
+</div>
+
+</td>
+      <td id="cmpPckrdateRP0" class="removeButtonCell" style="">
+        <a onclick="controlPanel.getMultiPicker('date').removePicker(0); return false;">
+          <div class="goog-inline-block fs04img SPRITE_remove"
+       style=''
+       height="15" width="15" border="0" ></div></a>
+      </td>
+    </tr>
+    <tr id="cmpPckrdateR1">
+      <td class="colorBulletCell" style="">
+        <div>
+          <span style="color:#dc3912;">&#149;&nbsp;</span>
+        </div>
+      </td>
+      <td class="pickerCell" nowrap="nowrap">
+        <select id="cmpPckrdateP1M"
+        class="timeTagMainSelectBox"
+        onchange="controlPanel.getMultiPicker('date').getPicker(1).onMainSelectBoxChange(this.value)">
+  <option value="">2004 - heute</option>
+<option value="today 7-d">Letzte 7 Tage</option>
+<option value="today 1-m">Letzte 30 Tage</option>
+<option value="today 3-m">Letzte 90 Tage</option>
+<option value="today 12-m">Letzte 12 Monate</option>
+<optgroup label="&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;" class="separator"> </optgroup><option value="1/2010 12m">2010</option>
+<option value="1/2009 12m">2009</option>
+<option value="1/2008 12m">2008</option>
+<option value="1/2007 12m">2007</option>
+<option value="1/2006 12m">2006</option>
+<option value="1/2005 12m">2005</option>
+<option value="1/2004 12m">2004</option>
+<optgroup label="&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;" class="separator"> </optgroup><option class="dropdownOptionLink"
+          value="more"
+      >Bestimmter Zeitraum</option>
+</select>
+
+
+<div id="cmpPckrdateP1A" style="display:none;" class="advancedTimeDiv">
+  <select id="cmpPckrdateP1FM" onchange="controlPanel.getMultiPicker('date').getPicker(1).onAdvancedModeChange(true)">
+  <option selected="selected" value="0">Jan</option>
+<option  value="1">Feb</option>
+<option  value="2">Mrz</option>
+<option  value="3">Apr</option>
+<option  value="4">Mai</option>
+<option  value="5">Jun</option>
+<option  value="6">Jul</option>
+<option  value="7">Aug</option>
+<option  value="8">Sep</option>
+<option  value="9">Okt</option>
+<option  value="10">Nov</option>
+<option  value="11">Dez</option>
+</select>
+
+<select id="cmpPckrdateP1FY" onchange="controlPanel.getMultiPicker('date').getPicker(1).onAdvancedModeChange(true)">
+  <option selected="selected" value="2010">2010</option>
+<option  value="2009">2009</option>
+<option  value="2008">2008</option>
+<option  value="2007">2007</option>
+<option  value="2006">2006</option>
+<option  value="2005">2005</option>
+<option  value="2004">2004</option>
+</select>
+
+<span class="fromAndToDivider"> - </span>
+  <select id="cmpPckrdateP1TM" onchange="controlPanel.getMultiPicker('date').getPicker(1).onAdvancedModeChange(false)">
+  <option selected="selected" value="0">Jan</option>
+<option  value="1">Feb</option>
+<option  value="2">Mrz</option>
+<option  value="3">Apr</option>
+<option  value="4">Mai</option>
+<option  value="5">Jun</option>
+<option  value="6">Jul</option>
+<option  value="7">Aug</option>
+<option  value="8">Sep</option>
+<option  value="9">Okt</option>
+<option  value="10">Nov</option>
+<option  value="11">Dez</option>
+</select>
+
+<select id="cmpPckrdateP1TY" onchange="controlPanel.getMultiPicker('date').getPicker(1).onAdvancedModeChange(false)">
+  <option selected="selected" value="2010">2010</option>
+<option  value="2009">2009</option>
+<option  value="2008">2008</option>
+<option  value="2007">2007</option>
+<option  value="2006">2006</option>
+<option  value="2005">2005</option>
+<option  value="2004">2004</option>
+</select>
+
+&nbsp;<a class="timeTagLessLink" onclick="controlPanel.getMultiPicker('date').getPicker(1).reset()"
+      >Zurücksetzen</a>
+</div>
+
+</td>
+      <td id="cmpPckrdateRP1" class="removeButtonCell" style="">
+        <a onclick="controlPanel.getMultiPicker('date').removePicker(1); return false;">
+          <div class="goog-inline-block fs04img SPRITE_remove"
+       style=''
+       height="15" width="15" border="0" ></div></a>
+      </td>
+    </tr>
+    <tr id="cmpPckrdateR2">
+      <td class="colorBulletCell" style="">
+        <div>
+          <span style="color:#ff9900;">&#149;&nbsp;</span>
+        </div>
+      </td>
+      <td class="pickerCell" nowrap="nowrap">
+        <select id="cmpPckrdateP2M"
+        class="timeTagMainSelectBox"
+        onchange="controlPanel.getMultiPicker('date').getPicker(2).onMainSelectBoxChange(this.value)">
+  <option value="">2004 - heute</option>
+<option value="today 7-d">Letzte 7 Tage</option>
+<option value="today 1-m">Letzte 30 Tage</option>
+<option value="today 3-m">Letzte 90 Tage</option>
+<option value="today 12-m">Letzte 12 Monate</option>
+<optgroup label="&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;" class="separator"> </optgroup><option value="1/2010 12m">2010</option>
+<option value="1/2009 12m">2009</option>
+<option value="1/2008 12m">2008</option>
+<option value="1/2007 12m">2007</option>
+<option value="1/2006 12m">2006</option>
+<option value="1/2005 12m">2005</option>
+<option value="1/2004 12m">2004</option>
+<optgroup label="&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;" class="separator"> </optgroup><option class="dropdownOptionLink"
+          value="more"
+      >Bestimmter Zeitraum</option>
+</select>
+
+
+<div id="cmpPckrdateP2A" style="display:none;" class="advancedTimeDiv">
+  <select id="cmpPckrdateP2FM" onchange="controlPanel.getMultiPicker('date').getPicker(2).onAdvancedModeChange(true)">
+  <option selected="selected" value="0">Jan</option>
+<option  value="1">Feb</option>
+<option  value="2">Mrz</option>
+<option  value="3">Apr</option>
+<option  value="4">Mai</option>
+<option  value="5">Jun</option>
+<option  value="6">Jul</option>
+<option  value="7">Aug</option>
+<option  value="8">Sep</option>
+<option  value="9">Okt</option>
+<option  value="10">Nov</option>
+<option  value="11">Dez</option>
+</select>
+
+<select id="cmpPckrdateP2FY" onchange="controlPanel.getMultiPicker('date').getPicker(2).onAdvancedModeChange(true)">
+  <option selected="selected" value="2010">2010</option>
+<option  value="2009">2009</option>
+<option  value="2008">2008</option>
+<option  value="2007">2007</option>
+<option  value="2006">2006</option>
+<option  value="2005">2005</option>
+<option  value="2004">2004</option>
+</select>
+
+<span class="fromAndToDivider"> - </span>
+  <select id="cmpPckrdateP2TM" onchange="controlPanel.getMultiPicker('date').getPicker(2).onAdvancedModeChange(false)">
+  <option selected="selected" value="0">Jan</option>
+<option  value="1">Feb</option>
+<option  value="2">Mrz</option>
+<option  value="3">Apr</option>
+<option  value="4">Mai</option>
+<option  value="5">Jun</option>
+<option  value="6">Jul</option>
+<option  value="7">Aug</option>
+<option  value="8">Sep</option>
+<option  value="9">Okt</option>
+<option  value="10">Nov</option>
+<option  value="11">Dez</option>
+</select>
+
+<select id="cmpPckrdateP2TY" onchange="controlPanel.getMultiPicker('date').getPicker(2).onAdvancedModeChange(false)">
+  <option selected="selected" value="2010">2010</option>
+<option  value="2009">2009</option>
+<option  value="2008">2008</option>
+<option  value="2007">2007</option>
+<option  value="2006">2006</option>
+<option  value="2005">2005</option>
+<option  value="2004">2004</option>
+</select>
+
+&nbsp;<a class="timeTagLessLink" onclick="controlPanel.getMultiPicker('date').getPicker(2).reset()"
+      >Zurücksetzen</a>
+</div>
+
+</td>
+      <td id="cmpPckrdateRP2" class="removeButtonCell" style="">
+        <a onclick="controlPanel.getMultiPicker('date').removePicker(2); return false;">
+          <div class="goog-inline-block fs04img SPRITE_remove"
+       style=''
+       height="15" width="15" border="0" ></div></a>
+      </td>
+    </tr>
+    <tr id="cmpPckrdateR3">
+      <td class="colorBulletCell" style="">
+        <div>
+          <span style="color:#008000;">&#149;&nbsp;</span>
+        </div>
+      </td>
+      <td class="pickerCell" nowrap="nowrap">
+        <select id="cmpPckrdateP3M"
+        class="timeTagMainSelectBox"
+        onchange="controlPanel.getMultiPicker('date').getPicker(3).onMainSelectBoxChange(this.value)">
+  <option value="">2004 - heute</option>
+<option value="today 7-d">Letzte 7 Tage</option>
+<option value="today 1-m">Letzte 30 Tage</option>
+<option value="today 3-m">Letzte 90 Tage</option>
+<option value="today 12-m">Letzte 12 Monate</option>
+<optgroup label="&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;" class="separator"> </optgroup><option value="1/2010 12m">2010</option>
+<option value="1/2009 12m">2009</option>
+<option value="1/2008 12m">2008</option>
+<option value="1/2007 12m">2007</option>
+<option value="1/2006 12m">2006</option>
+<option value="1/2005 12m">2005</option>
+<option value="1/2004 12m">2004</option>
+<optgroup label="&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;" class="separator"> </optgroup><option class="dropdownOptionLink"
+          value="more"
+      >Bestimmter Zeitraum</option>
+</select>
+
+
+<div id="cmpPckrdateP3A" style="display:none;" class="advancedTimeDiv">
+  <select id="cmpPckrdateP3FM" onchange="controlPanel.getMultiPicker('date').getPicker(3).onAdvancedModeChange(true)">
+  <option selected="selected" value="0">Jan</option>
+<option  value="1">Feb</option>
+<option  value="2">Mrz</option>
+<option  value="3">Apr</option>
+<option  value="4">Mai</option>
+<option  value="5">Jun</option>
+<option  value="6">Jul</option>
+<option  value="7">Aug</option>
+<option  value="8">Sep</option>
+<option  value="9">Okt</option>
+<option  value="10">Nov</option>
+<option  value="11">Dez</option>
+</select>
+
+<select id="cmpPckrdateP3FY" onchange="controlPanel.getMultiPicker('date').getPicker(3).onAdvancedModeChange(true)">
+  <option selected="selected" value="2010">2010</option>
+<option  value="2009">2009</option>
+<option  value="2008">2008</option>
+<option  value="2007">2007</option>
+<option  value="2006">2006</option>
+<option  value="2005">2005</option>
+<option  value="2004">2004</option>
+</select>
+
+<span class="fromAndToDivider"> - </span>
+  <select id="cmpPckrdateP3TM" onchange="controlPanel.getMultiPicker('date').getPicker(3).onAdvancedModeChange(false)">
+  <option selected="selected" value="0">Jan</option>
+<option  value="1">Feb</option>
+<option  value="2">Mrz</option>
+<option  value="3">Apr</option>
+<option  value="4">Mai</option>
+<option  value="5">Jun</option>
+<option  value="6">Jul</option>
+<option  value="7">Aug</option>
+<option  value="8">Sep</option>
+<option  value="9">Okt</option>
+<option  value="10">Nov</option>
+<option  value="11">Dez</option>
+</select>
+
+<select id="cmpPckrdateP3TY" onchange="controlPanel.getMultiPicker('date').getPicker(3).onAdvancedModeChange(false)">
+  <option selected="selected" value="2010">2010</option>
+<option  value="2009">2009</option>
+<option  value="2008">2008</option>
+<option  value="2007">2007</option>
+<option  value="2006">2006</option>
+<option  value="2005">2005</option>
+<option  value="2004">2004</option>
+</select>
+
+&nbsp;<a class="timeTagLessLink" onclick="controlPanel.getMultiPicker('date').getPicker(3).reset()"
+      >Zurücksetzen</a>
+</div>
+
+</td>
+      <td id="cmpPckrdateRP3" class="removeButtonCell" style="">
+        <a onclick="controlPanel.getMultiPicker('date').removePicker(3); return false;">
+          <div class="goog-inline-block fs04img SPRITE_remove"
+       style=''
+       height="15" width="15" border="0" ></div></a>
+      </td>
+    </tr>
+    <tr id="cmpPckrdateR4">
+      <td class="colorBulletCell" style="">
+        <div>
+          <span style="color:#4942cc;">&#149;&nbsp;</span>
+        </div>
+      </td>
+      <td class="pickerCell" nowrap="nowrap">
+        <select id="cmpPckrdateP4M"
+        class="timeTagMainSelectBox"
+        onchange="controlPanel.getMultiPicker('date').getPicker(4).onMainSelectBoxChange(this.value)">
+  <option value="">2004 - heute</option>
+<option value="today 7-d">Letzte 7 Tage</option>
+<option value="today 1-m">Letzte 30 Tage</option>
+<option value="today 3-m">Letzte 90 Tage</option>
+<option value="today 12-m">Letzte 12 Monate</option>
+<optgroup label="&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;" class="separator"> </optgroup><option value="1/2010 12m">2010</option>
+<option value="1/2009 12m">2009</option>
+<option value="1/2008 12m">2008</option>
+<option value="1/2007 12m">2007</option>
+<option value="1/2006 12m">2006</option>
+<option value="1/2005 12m">2005</option>
+<option value="1/2004 12m">2004</option>
+<optgroup label="&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;" class="separator"> </optgroup><option class="dropdownOptionLink"
+          value="more"
+      >Bestimmter Zeitraum</option>
+</select>
+
+
+<div id="cmpPckrdateP4A" style="display:none;" class="advancedTimeDiv">
+  <select id="cmpPckrdateP4FM" onchange="controlPanel.getMultiPicker('date').getPicker(4).onAdvancedModeChange(true)">
+  <option selected="selected" value="0">Jan</option>
+<option  value="1">Feb</option>
+<option  value="2">Mrz</option>
+<option  value="3">Apr</option>
+<option  value="4">Mai</option>
+<option  value="5">Jun</option>
+<option  value="6">Jul</option>
+<option  value="7">Aug</option>
+<option  value="8">Sep</option>
+<option  value="9">Okt</option>
+<option  value="10">Nov</option>
+<option  value="11">Dez</option>
+</select>
+
+<select id="cmpPckrdateP4FY" onchange="controlPanel.getMultiPicker('date').getPicker(4).onAdvancedModeChange(true)">
+  <option selected="selected" value="2010">2010</option>
+<option  value="2009">2009</option>
+<option  value="2008">2008</option>
+<option  value="2007">2007</option>
+<option  value="2006">2006</option>
+<option  value="2005">2005</option>
+<option  value="2004">2004</option>
+</select>
+
+<span class="fromAndToDivider"> - </span>
+  <select id="cmpPckrdateP4TM" onchange="controlPanel.getMultiPicker('date').getPicker(4).onAdvancedModeChange(false)">
+  <option selected="selected" value="0">Jan</option>
+<option  value="1">Feb</option>
+<option  value="2">Mrz</option>
+<option  value="3">Apr</option>
+<option  value="4">Mai</option>
+<option  value="5">Jun</option>
+<option  value="6">Jul</option>
+<option  value="7">Aug</option>
+<option  value="8">Sep</option>
+<option  value="9">Okt</option>
+<option  value="10">Nov</option>
+<option  value="11">Dez</option>
+</select>
+
+<select id="cmpPckrdateP4TY" onchange="controlPanel.getMultiPicker('date').getPicker(4).onAdvancedModeChange(false)">
+  <option selected="selected" value="2010">2010</option>
+<option  value="2009">2009</option>
+<option  value="2008">2008</option>
+<option  value="2007">2007</option>
+<option  value="2006">2006</option>
+<option  value="2005">2005</option>
+<option  value="2004">2004</option>
+</select>
+
+&nbsp;<a class="timeTagLessLink" onclick="controlPanel.getMultiPicker('date').getPicker(4).reset()"
+      >Zurücksetzen</a>
+</div>
+
+</td>
+      <td id="cmpPckrdateRP4" class="removeButtonCell" style="">
+        <a onclick="controlPanel.getMultiPicker('date').removePicker(4); return false;">
+          <div class="goog-inline-block fs04img SPRITE_remove"
+       style=''
+       height="15" width="15" border="0" ></div></a>
+      </td>
+    </tr>
+    <tr style="">
+    <td/>
+    <td colspan="2" class="addAnotherCell">
+      <span id="cmpPckrdateAL">+&nbsp;
+        <a onclick="controlPanel.getMultiPicker('date').addPicker(true); return false;">
+          Zeitraum hinzufügen</a></span>
+    </td>
+  </tr>
+</table>
+</td>
+</tr>
+</table>
+              </td>
+              <td class="majorCell" style="width: 36%; padding-left: 0.3em;">
+                <table border="0" style="border-spacing:0" width="100%">
+                  <tr class="restrictionPickerRow" id="resRowgprop">
+  <td class="bottomBorder pickerCell" colspan="2"
+      style="padding:0; padding-bottom:.3em;">
+    <table class="multiPickerTable"
+       cellpadding="0"
+       cellspacing="0"
+       border="0">
+  <tr >
+      <td class="colorBulletCell" style="display:none;">
+        <div>
+          <span style="color:#4684ee;">&#149;&nbsp;</span>
+        </div>
+      </td>
+      <td class="pickerCell" nowrap="nowrap">
+        <select id="resPckrgpropS"
+        class="propertyBox">
+  <option value="google">
+         Web-Suche</option>
+      <option value="images">
+         Bilder-Suche</option>
+      <option value="news">
+         News-Suche</option>
+      <option value="froogle">
+         Produkt-Suche</option>
+      </select></td>
+      <td id="resPckrgpropRPS0" class="removeButtonCell" style="display:none;">
+        <a onclick="controlPanel.getPicker('gprop').removePicker(0); return false;">
+          <div class="goog-inline-block fs04img SPRITE_remove"
+       style=''
+       height="15" width="15" border="0" ></div></a>
+      </td>
+    </tr>
+    <tr style="display:none;">
+    <td/>
+    <td colspan="2" class="addAnotherCell">
+      <span >+&nbsp;
+        <a onclick="controlPanel.getPicker('gprop').addPicker(true); return false;">
+          Suchbegriff hinzufügen</a></span>
+    </td>
+  </tr>
+</table>
+</td>
+</tr>
+<tr class="restrictionPickerRow" id="resRowq">
+  <td class="bottomBorder pickerCell" colspan="2"
+      style="padding:0; padding-bottom:.3em;">
+    <table class="multiPickerTable"
+       cellpadding="0"
+       cellspacing="0"
+       border="0">
+  <tr >
+      <td class="colorBulletCell" style="display:none;">
+        <div>
+          <span style="color:#4684ee;">&#149;&nbsp;</span>
+        </div>
+      </td>
+      <td class="pickerCell" nowrap="nowrap">
+        <input class="text"
+       type="text" 
+       id="resPckrqT"
+       label="Alle Suchbegriffe"
+       style="width:330px"/>
+</td>
+      <td id="resPckrqRPS0" class="removeButtonCell" style="display:none;">
+        <a onclick="controlPanel.getPicker('q').removePicker(0); return false;">
+          <div class="goog-inline-block fs04img SPRITE_remove"
+       style=''
+       height="15" width="15" border="0" ></div></a>
+      </td>
+    </tr>
+    <tr style="display:none;">
+    <td/>
+    <td colspan="2" class="addAnotherCell">
+      <span >+&nbsp;
+        <a onclick="controlPanel.getPicker('q').addPicker(true); return false;">
+          Suchbegriff hinzufügen</a></span>
+    </td>
+  </tr>
+</table>
+</td>
+</tr>
+<tr class="restrictionPickerRow" id="resRowgeo">
+  <td class="bottomBorder pickerCell" colspan="2"
+      style="padding:0; padding-bottom:.3em;">
+    <table class="multiPickerTable"
+       cellpadding="0"
+       cellspacing="0"
+       border="0">
+  <tr >
+      <td class="colorBulletCell" style="display:none;">
+        <div>
+          <span style="color:#4684ee;">&#149;&nbsp;</span>
+        </div>
+      </td>
+      <td class="pickerCell" nowrap="nowrap">
+        <table cellpadding="0" cellspacing="0" border="0" style="width:330px">
+  <tr>
+    <td class="geoTagCountryBox">
+      <select id="resPckrgeoC"
+              class="geoTagCountryBox"
+              onchange="controlPanel.getPicker('geo').countryChanged(this.value)"/>
+    </td>
+    <td class="geoTagRegionBox">
+      <select id="resPckrgeoR"
+              class="geoTagRegionBox"
+              onchange="controlPanel.getPicker('geo').regionChanged(this.value)"/>
+    </td>
+    <td>
+      <select id="resPckrgeoD"
+              class="geoTagDmaBox"
+              onchange="controlPanel.getPicker('geo').dmaChanged(this.value)"/>
+    </td>
+  </tr>
+</table>
+</td>
+      <td id="resPckrgeoRPS0" class="removeButtonCell" style="display:none;">
+        <a onclick="controlPanel.getPicker('geo').removePicker(0); return false;">
+          <div class="goog-inline-block fs04img SPRITE_remove"
+       style=''
+       height="15" width="15" border="0" ></div></a>
+      </td>
+    </tr>
+    <tr style="display:none;">
+    <td/>
+    <td colspan="2" class="addAnotherCell">
+      <span >+&nbsp;
+        <a onclick="controlPanel.getPicker('geo').addPicker(true); return false;">
+          Standort hinzufügen</a></span>
+    </td>
+  </tr>
+</table>
+</td>
+</tr>
+<tr class="restrictionPickerRow" id="resRowdate">
+  <td class="bottomBorder pickerCell" colspan="2"
+      style="padding:0; padding-bottom:.3em;">
+    <table class="multiPickerTable"
+       cellpadding="0"
+       cellspacing="0"
+       border="0">
+  <tr >
+      <td class="colorBulletCell" style="display:none;">
+        <div>
+          <span style="color:#4684ee;">&#149;&nbsp;</span>
+        </div>
+      </td>
+      <td class="pickerCell" nowrap="nowrap">
+        <select id="resPckrdateM"
+        class="timeTagMainSelectBox"
+        onchange="controlPanel.getPicker('date').onMainSelectBoxChange(this.value)">
+  <option value="">2004 - heute</option>
+<option value="today 7-d">Letzte 7 Tage</option>
+<option value="today 1-m">Letzte 30 Tage</option>
+<option value="today 3-m">Letzte 90 Tage</option>
+<option value="today 12-m">Letzte 12 Monate</option>
+<optgroup label="&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;" class="separator"> </optgroup><option value="1/2010 12m">2010</option>
+<option value="1/2009 12m">2009</option>
+<option value="1/2008 12m">2008</option>
+<option value="1/2007 12m">2007</option>
+<option value="1/2006 12m">2006</option>
+<option value="1/2005 12m">2005</option>
+<option value="1/2004 12m">2004</option>
+<optgroup label="&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;" class="separator"> </optgroup><option class="dropdownOptionLink"
+          value="more"
+      >Bestimmter Zeitraum</option>
+</select>
+
+
+<div id="resPckrdateA" style="display:none;" class="advancedTimeDiv">
+  <select id="resPckrdateFM" onchange="controlPanel.getPicker('date').onAdvancedModeChange(true)">
+  <option selected="selected" value="0">Jan</option>
+<option  value="1">Feb</option>
+<option  value="2">Mrz</option>
+<option  value="3">Apr</option>
+<option  value="4">Mai</option>
+<option  value="5">Jun</option>
+<option  value="6">Jul</option>
+<option  value="7">Aug</option>
+<option  value="8">Sep</option>
+<option  value="9">Okt</option>
+<option  value="10">Nov</option>
+<option  value="11">Dez</option>
+</select>
+
+<select id="resPckrdateFY" onchange="controlPanel.getPicker('date').onAdvancedModeChange(true)">
+  <option selected="selected" value="2010">2010</option>
+<option  value="2009">2009</option>
+<option  value="2008">2008</option>
+<option  value="2007">2007</option>
+<option  value="2006">2006</option>
+<option  value="2005">2005</option>
+<option  value="2004">2004</option>
+</select>
+
+<span class="fromAndToDivider"> - </span>
+  <select id="resPckrdateTM" onchange="controlPanel.getPicker('date').onAdvancedModeChange(false)">
+  <option selected="selected" value="0">Jan</option>
+<option  value="1">Feb</option>
+<option  value="2">Mrz</option>
+<option  value="3">Apr</option>
+<option  value="4">Mai</option>
+<option  value="5">Jun</option>
+<option  value="6">Jul</option>
+<option  value="7">Aug</option>
+<option  value="8">Sep</option>
+<option  value="9">Okt</option>
+<option  value="10">Nov</option>
+<option  value="11">Dez</option>
+</select>
+
+<select id="resPckrdateTY" onchange="controlPanel.getPicker('date').onAdvancedModeChange(false)">
+  <option selected="selected" value="2010">2010</option>
+<option  value="2009">2009</option>
+<option  value="2008">2008</option>
+<option  value="2007">2007</option>
+<option  value="2006">2006</option>
+<option  value="2005">2005</option>
+<option  value="2004">2004</option>
+</select>
+
+&nbsp;<a class="timeTagLessLink" onclick="controlPanel.getPicker('date').reset()"
+      >Zurücksetzen</a>
+</div>
+
+</td>
+      <td id="resPckrdateRPS0" class="removeButtonCell" style="display:none;">
+        <a onclick="controlPanel.getPicker('date').removePicker(0); return false;">
+          <div class="goog-inline-block fs04img SPRITE_remove"
+       style=''
+       height="15" width="15" border="0" ></div></a>
+      </td>
+    </tr>
+    <tr style="display:none;">
+    <td/>
+    <td colspan="2" class="addAnotherCell">
+      <span >+&nbsp;
+        <a onclick="controlPanel.getPicker('date').addPicker(true); return false;">
+          Zeitraum hinzufügen</a></span>
+    </td>
+  </tr>
+</table>
+</td>
+</tr>
+<tr class="restrictionPickerRow" id="resRowcat">
+  <td class="bottomBorder pickerCell" colspan="2"
+      style="padding:0; padding-bottom:.3em;">
+    <table class="multiPickerTable"
+       cellpadding="0"
+       cellspacing="0"
+       border="0">
+  <tr >
+      <td class="colorBulletCell" style="display:none;">
+        <div>
+          <span style="color:#4684ee;">&#149;&nbsp;</span>
+        </div>
+      </td>
+      <td class="pickerCell" nowrap="nowrap">
+        <input type="hidden" id="resPckrcat_Hidden"/>
+<input class="text"
+       style= "vertical-align: middle"
+       type="text"
+       id="resPckrcat"
+       readonly="readonly"
+       maxlength="120"
+    /><button id="resPckrcat_TreeButton" class="treeButton" type="button" onclick="controlPanel.getPicker('cat').toggleTree();"
+    ><img  src="/insights/search/resources/392497673-1x1.gif" class='goog-tree-icon goog-tree-expand-icon goog-tree-expand-icon-minus'/></button>
+<div id='resPckrcat_Tree' class="treePopup" style="display: none;">
+  <iframe id="resPckrcat_TreeMask" frameborder="0" class="treePopupMask"></iframe>
+  <div id="resPckrcat_TreeContent" style="text-align: left" class="treePopupContent">Wird geladen...</div>
+</div>
+
+<script type="text/javascript">
+    trends.Category.setCleardotImage('/insights/search/resources/392497673-1x1.gif');
+    trends.Category.setTreeData({"name":"Alle Kategorien","id":0,"children":[{"name":"Autos","id":47,"children":[{"name":"Auto-Hifi","id":230},{"name":"Autoausstellungen","id":803},{"name":"Autoersatzteile","id":89,"children":[{"name":"Fahrzeugreifen","id":438}]},{"name":"Autofinanzierung","id":468},{"name":"Autotuning","id":806},{"name":"Autoversicherungen","id":467},{"name":"Fahrzeugkauf","id":473},{"name":"Fahrzeugmarken","id":815,"children":[{"name":"Acura","id":820},{"name":"Audi","id":821},{"name":"BMW","id":822},{"name":"Cadillac","id":823},{"name":"Chevrolet","id":826},{"name":"Chrysler","id":833},{"name":"Citroen","id":834},{"name":"Dodge","id":836},{"name":"Fiat","id":838},{"name":"Ford","id":840},{"name":"GMC","id":842},{"name":"Honda","id":843},{"name":"Hyundai","id":845},{"name":"Jeep","id":846},{"name":"Kia","id":848},{"name":"Lexus","id":849},{"name":"Lincoln","id":850},{"name":"Mazda","id":851},{"name":"Mercedes Benz","id":852},{"name":"Mercury","id":853},{"name":"Mitsubishi","id":854},{"name":"Nissan","id":855},{"name":"Peugeot","id":856},{"name":"Pontiac","id":857},{"name":"Porsche","id":858},{"name":"Renault","id":859},{"name":"Saturn","id":860},{"name":"Subaru","id":861},{"name":"Toyota","id":863},{"name":"Volkswagen","id":865},{"name":"Volvo","id":867}]},{"name":"Fahrzeugzulassung und -registrierung","id":170},{"name":"Geländewagen und Wohnmobile","id":148},{"name":"Hybridfahrzeuge und alternative Antriebstechnologien","id":810},{"name":"Kfz-Werkstätten","id":138},{"name":"LKWs und Geländefahrzeuge","id":610},{"name":"Motorräder","id":273}]},{"name":"Computer und Elektronik","id":5,"children":[{"name":"Computersicherheit","id":314,"children":[{"name":"Antivirenprogramme und Schutz vor Malware","id":315},{"name":"Netzwerksicherheit","id":344}]},{"name":"Elektronik und Elektrik","id":434,"children":[{"name":"Elektromechanische Geräte","id":743},{"name":"Elektronische Komponenten","id":742},{"name":"Optoelektronik und Glasfasertechnik","id":744},{"name":"Stromversorgung","id":745},{"name":"Test- und Messgeräte","id":746}]},{"name":"Hardware","id":30,"children":[{"name":"Datenspeicherung","id":496},{"name":"Desktops","id":309},{"name":"Hardware-Tuning","id":739},{"name":"Hardwarekomponenten","id":717},{"name":"Laptops","id":310},{"name":"Peripheriegeräte","id":312},{"name":"Server","id":728}]},{"name":"Netzwerke","id":311,"children":[{"name":"Datenformate und -protokolle","id":488},{"name":"Netzwerkausstattung","id":346},{"name":"Netzwerküberwachung und -verwaltung","id":347}]},{"name":"Programmieren","id":31,"children":[{"name":"C und C++","id":731},{"name":"Java","id":732},{"name":"Jobs für Entwickler","id":802},{"name":"Skriptsprachen","id":733},{"name":"Software Entwicklungs-Tools","id":730},{"name":"Windows und .NET","id":734}]},{"name":"Software","id":32,"children":[{"name":"Audio und Multimedia","id":497},{"name":"Betriebssysteme","id":303},{"name":"Gerätetreiber","id":225},{"name":"Grafik und Verlagswesen","id":486},{"name":"Internetsoftware","id":807},{"name":"Lernsoftware","id":804},{"name":"Open-Source","id":313},{"name":"Softwareprogramme","id":224},{"name":"Unternehmen und Produktivität","id":498}]},{"name":"Technischer Support","id":567},{"name":"Unterhaltungselektronik","id":78,"children":[{"name":"Audiogeräte","id":361},{"name":"Computerelektronik","id":362},{"name":"Heimvideo","id":229}]},{"name":"Unternehmenstechnologie","id":77,"children":[{"name":"CRM","id":341},{"name":"Datenverwaltung","id":343},{"name":"Unternehmensressourcenplanung (ERP)","id":342}]}]},{"name":"Essen und Trinken","id":71,"children":[{"name":"Alkoholfreie Getränke","id":560},{"name":"Alkoholische Getränke","id":277,"children":[{"name":"Bier","id":404},{"name":"Spirituosen","id":406},{"name":"Wein","id":405}]},{"name":"Kochen und Rezepte","id":122},{"name":"Kochgeschirr","id":120},{"name":"Kochkurse","id":297},{"name":"Lebensmitteleinzelhandel","id":121},{"name":"Restaurants","id":276,"children":[{"name":"Gastronomiebedarf","id":816}]}]},{"name":"Finanzen und Versicherungen","id":7,"children":[{"name":"Banken und Finanzierung","id":37},{"name":"Buchführung und Steuerwesen","id":278},{"name":"Investitionen","id":107},{"name":"Kredite","id":279,"children":[{"name":"Kreditkarten","id":811},{"name":"Schuldenmanagement","id":812},{"name":"Studiendarlehen","id":813}]},{"name":"Rente und Pension","id":619},{"name":"Versicherungen","id":38,"children":[{"name":"Risikomanagement","id":620}]},{"name":"Währungen und Devisenkurse","id":814}]},{"name":"Foto und Video","id":439,"children":[{"name":"Foto- und Video-Sharing","id":275},{"name":"Foto- und Videoausstattung","id":573,"children":[{"name":"Kameras und Camcorder","id":306}]},{"name":"Foto- und Videosoftware","id":577},{"name":"Professionelle Foto- und Videoaufnahmen","id":576},{"name":"Webcams und virtuelle Touren","id":575}]},{"name":"Freizeit","id":285,"children":[{"name":"Aktiv","id":541},{"name":"Bootfahren","id":459},{"name":"Hobbys","id":65,"children":[{"name":"Funkfernsteuerungen und Modellbau","id":787},{"name":"Handwerk","id":284},{"name":"Paintball","id":786}]},{"name":"Outdoor","id":688,"children":[{"name":"Angeln","id":462},{"name":"Jagen und Schießen","id":461},{"name":"Wandern und Camping","id":542}]},{"name":"Radfahren","id":458},{"name":"Reitsport","id":568},{"name":"Surfen und Schwimmen","id":689}]},{"name":"Gesellschaft","id":19,"children":[{"name":"Arbeit und Gewerkschaften","id":703},{"name":"Bildung","id":74,"children":[{"name":"Berufsschulen und Weiterbildung","id":369},{"name":"Fernunterricht","id":367},{"name":"Heimunterricht","id":791},{"name":"Hochschulen und Universitäten","id":372},{"name":"K-12","id":371},{"name":"Lehrpläne und Unterrichtsmaterialien","id":700},{"name":"Prüfungsvorbereitung","id":373}]},{"name":"Militär","id":366,"children":[{"name":"Veteranen","id":793}]},{"name":"Öffentliche Sicherheit","id":166,"children":[{"name":"Kriminalität und Recht","id":704},{"name":"Notfalldienste","id":168},{"name":"Sicherheitsprodukte und -dienstleistungen","id":705},{"name":"Strafverfolgung","id":535}]},{"name":"Rechtswesen","id":75,"children":[{"name":"Arbeitsrecht","id":701},{"name":"Familienrecht","id":522},{"name":"Geistiges Eigentum","id":426},{"name":"Juristische Hochschulen und Ausbildungsstätten","id":792},{"name":"Konkurs","id":423},{"name":"Strafrecht","id":424},{"name":"Unfall- und Personenschadensrecht","id":427}]},{"name":"Regierungs- und Aufsichtsbehörden","id":76,"children":[{"name":"Adel","id":702},{"name":"Visa und Einwanderung","id":555}]},{"name":"Soziale Dienste","id":508,"children":[{"name":"Beratungseinrichtungen","id":511},{"name":"Sozialhilfe und Arbeitslosigkeit","id":706}]},{"name":"Sozialwissenschaften","id":509,"children":[{"name":"Demografische Merkmale","id":510},{"name":"Internationale Beziehungen","id":521},{"name":"Psychologie","id":543},{"name":"Wirtschaft","id":520}]}]},{"name":"Gesundheit","id":45,"children":[{"name":"Altern und Geriatrie","id":623,"children":[{"name":"Alzheimer-Krankheit","id":624}]},{"name":"Alternativmedizin und Naturheilkunde","id":499},{"name":"Apotheke","id":248,"children":[{"name":"Medikamente und Arzneimittel","id":646}]},{"name":"Augenheilkunde und Augenoptik","id":246},{"name":"Drogenmissbrauch","id":257},{"name":"Ernährung","id":456,"children":[{"name":"Spezielle und eingeschränkte Ernährung","id":457},{"name":"Vitamine und Nahrungsergänzungsmittel","id":237}]},{"name":"Gesundheit (Frauen)","id":648},{"name":"Gesundheit (Männer)","id":636},{"name":"Gesundheit und Sicherheit am Arbeitsplatz","id":644},{"name":"Gesundheitseinrichtungen und medizinische Forschung","id":252},{"name":"Gesundheitsvorsorge und medizinische Weiterbildung","id":254},{"name":"Kinderheilkunde","id":645},{"name":"Körperliches Wohlbefinden","id":419,"children":[{"name":"AIDS und HIV","id":625},{"name":"Allergien","id":626},{"name":"Arthritis","id":628},{"name":"Atemwegserkrankungen","id":824},{"name":"Diabetes","id":630},{"name":"Erkältung und Grippe","id":629},{"name":"Essstörungen","id":571},{"name":"Fettleibigkeit","id":818},{"name":"Hautkrankheiten","id":420},{"name":"Herz und Bluthochdruck","id":559},{"name":"Infektionskrankheiten","id":632},{"name":"Krebs","id":429},{"name":"Schlafstörungen","id":633},{"name":"Schmerztherapie","id":819},{"name":"Verdauungsbeschwerden","id":638},{"name":"Verletzungen","id":817}]},{"name":"Krankenpflege","id":418,"children":[{"name":"Betreutes Wohnen und Langzeitpflege","id":649}]},{"name":"Krankenversicherung","id":249},{"name":"Medizinische Einrichtungen und Dienstleistungen","id":256,"children":[{"name":"Arztpraxen","id":634},{"name":"Krankenhäuser und Behandlungszentren","id":250},{"name":"Medizinische Behandlung","id":635},{"name":"Physiotherapie","id":500}]},{"name":"Medizinische Geräte und Ausstattung","id":251},{"name":"Medizinische Literatur und Ressourcen","id":253},{"name":"Psychisches Wohlbefinden","id":437,"children":[{"name":"Angst und Stress","id":639},{"name":"Depressionen","id":640},{"name":"Lern- und Entwicklungsstörungen","id":641}]},{"name":"Reproduktionsmedizin","id":195,"children":[{"name":"Empfängnisverhütung","id":198},{"name":"Erektionsstörungen","id":202},{"name":"Geburtshilfe und Gynäkologie","id":558},{"name":"Geschlechtskrankheiten","id":421},{"name":"Sexualität","id":536},{"name":"Unfruchtbarkeit","id":647}]},{"name":"Zahnpflege","id":245}]},{"name":"Haus und Garten","id":11,"children":[{"name":"Gartenarbeiten","id":269},{"name":"Haushalt und Inneneinrichtung","id":137},{"name":"Haushaltsdienstleistungen","id":472},{"name":"Haushaltsgeräte","id":271},{"name":"Heimwerken","id":158},{"name":"Schädlingsbekämpfung","id":471},{"name":"Wohnmöbel","id":270,"children":[{"name":"Beleuchtung","id":272}]}]},{"name":"Immobilien","id":29,"children":[{"name":"Gebäudeüberprüfungen und -gutachten","id":463},{"name":"Hausfinanzierung","id":466},{"name":"Hausverwaltung","id":425},{"name":"Immobilienmakler","id":96},{"name":"Vermietungsangebote und Empfehlungen","id":378},{"name":"Wohngebäudeversicherung","id":465}]},{"name":"Industrie","id":12,"children":[{"name":"Bau- und Wartungsunternehmen","id":48,"children":[{"name":"Baumaterial","id":650},{"name":"Bauunternehmen","id":652},{"name":"Grundstückserschließung","id":687},{"name":"Hoch- und Tiefbau","id":651},{"name":"Stadt- und Regionalplanung","id":686}]},{"name":"Chemikalien","id":288,"children":[{"name":"Chemikalien für den Einsatz in der Landwirtschaft","id":670},{"name":"Farben und Pigmente","id":673},{"name":"Lacke, Farben und Klebstoffe","id":672},{"name":"Plastik und Polymere","id":674},{"name":"Reinigungsmittel","id":671}]},{"name":"Design","id":653,"children":[{"name":"Architektur","id":477},{"name":"Grafikdesign und Verlagswesen","id":654},{"name":"Industrie- und Produktdesign","id":655},{"name":"Innenausstattung","id":656}]},{"name":"Einzelhandel","id":841,"children":[{"name":"Ladeneinrichtung und Geräteausstattung für den Einzelhandel","id":844}]},{"name":"Energie- und Versorgungsunternehmen","id":233,"children":[{"name":"Abfallentsorgung","id":660},{"name":"Alternative Energien","id":657},{"name":"Öl und Gas","id":659},{"name":"Strom","id":658}]},{"name":"Industriematerialien und -geräte","id":287,"children":[{"name":"Armaturen, Schläuche und Beschläge","id":839},{"name":"Generatoren","id":835},{"name":"Großmaschinen","id":837}]},{"name":"Ingenieurwissenschaften","id":231},{"name":"Land- und Forstwirtschaft","id":46,"children":[{"name":"Aquakultur","id":747},{"name":"Forstwirtschaft","id":750},{"name":"Gartenbau","id":751},{"name":"Landwirtschaftliche Geräte","id":748},{"name":"Nahrungsmittelindustrie","id":621},{"name":"Pflanzen und Samen","id":749},{"name":"Vieh","id":752}]},{"name":"Luft- und Raumfahrt sowie Verteidigung","id":356,"children":[{"name":"Raumfahrttechnik","id":668},{"name":"Verteidigungsindustrie","id":669}]},{"name":"Metallindustrie und Bergbau","id":606},{"name":"Pharmazie und Biotechnologie","id":255},{"name":"Stoff und Papier","id":566},{"name":"Transportwesen und Logistik","id":50,"children":[{"name":"Bahnunternehmen","id":666},{"name":"Fracht- und Güterkraftverkehr","id":289},{"name":"Import und Export","id":354},{"name":"Kurierdienste","id":663},{"name":"Luftfahrt","id":662},{"name":"Öffentlicher Nahverkehr","id":667},{"name":"Schifffahrt","id":665},{"name":"Umzugsunternehmen","id":291},{"name":"Verpackung","id":290},{"name":"Vertrieb und Logistik","id":664}]}]},{"name":"Internet","id":13,"children":[{"name":"Extras fürs Internet","id":43,"children":[{"name":"MySpace-Codes und -Grafiken","id":847},{"name":"Skins, Themes und Bildschirmschoner","id":578}]},{"name":"File-Sharing und -Hosting","id":321},{"name":"Suchmaschinenoptimierung und -marketing","id":84},{"name":"Web-Design und -Entwicklung","id":422},{"name":"Webdienste","id":302,"children":[{"name":"Affiliate-Programme","id":326},{"name":"E-Mail und Nachrichtenübertragung","id":394},{"name":"Suchmaschinen","id":485},{"name":"Website-Statistiken und -Analyse","id":675}]},{"name":"Webhosting und Domain-Registrierung","id":53},{"name":"Webportale","id":301}]},{"name":"Kunst und Geisteswissenschaften","id":570,"children":[{"name":"Bildende Künste","id":24},{"name":"Bücher und Literatur","id":22,"children":[{"name":"Buchhändler","id":355},{"name":"E-Books","id":608},{"name":"Fan-Fiction","id":540},{"name":"Gedichte","id":565}]},{"name":"Geisteswissenschaften","id":474,"children":[{"name":"Geschichte","id":433},{"name":"Mythen und Folklore","id":609}]},{"name":"Theater und darstellende Künste","id":23}]},{"name":"Lifestyle","id":14,"children":[{"name":"Behinderungen und Reha-Bedarf","id":677},{"name":"Erziehung und Familie","id":58,"children":[{"name":"Ahnenforschung","id":400},{"name":"Babypflege","id":115},{"name":"Jugendferienlager","id":402},{"name":"Kinderbetreuung","id":403},{"name":"Schwangerschaft und Mutterschaft","id":401}]},{"name":"Ethnische und soziokulturelle Gruppen","id":56,"children":[{"name":"Afrikaner","id":579},{"name":"Afroamerikaner","id":547},{"name":"Arabisch und Naher Osten","id":556},{"name":"Homo-, Bi- \u0026 Transsexuelle","id":113},{"name":"Jüdische Kultur","id":550},{"name":"Latinos und Lateinamerikaner","id":548},{"name":"Ostasiaten und asiatische Amerikaner","id":549},{"name":"Ostinder \u0026 Südasiaten","id":528},{"name":"Russen und Osteuropäer","id":682},{"name":"Südostasiaten und Bewohner von Pazifikinseln","id":580},{"name":"Ureinwohner","id":681},{"name":"Westeuropäer","id":683}]},{"name":"Feiertage und besondere Anlässe","id":678},{"name":"Hochzeiten","id":293},{"name":"Initiativen und soziale Themen","id":54,"children":[{"name":"Umweltthemen","id":82}]},{"name":"Kinder und Teenager","id":154,"children":[{"name":"Kinder","id":679},{"name":"Spielzeug","id":432},{"name":"Teenager","id":680}]},{"name":"Religion und Spiritualität","id":59,"children":[{"name":"Astrologie und Prophezeiung","id":448},{"name":"Religion","id":363},{"name":"Spiritualität","id":101}]},{"name":"Selbsthilfe und Motivation","id":870},{"name":"Senioren und Ruhestand","id":298},{"name":"Subkulturen und spezielle Interessen","id":502,"children":[{"name":"Gothic-Community","id":503},{"name":"Science Fiction und Fantasy","id":676}]},{"name":"Vereine und Organisationen","id":189},{"name":"Wohltätige und gemeinnützige Organisationen","id":57}]},{"name":"Lokal","id":15,"children":[{"name":"Jobs","id":60},{"name":"Kleinanzeigen","id":61},{"name":"Regionale Kultur und Touristeninformation","id":62,"children":[{"name":"Afrika","id":583},{"name":"Karibik","id":595},{"name":"Mexiko und Mittelamerika","id":600},{"name":"Mittel- und Osteuropa","id":598},{"name":"Naher Osten","id":601},{"name":"Ostasien","id":597},{"name":"Ozeanien","id":602},{"name":"Polarregionen","id":763},{"name":"Russland und Kaukasus","id":684},{"name":"Südamerika","id":603},{"name":"Südostasien","id":604},{"name":"USA und Kanada","id":605},{"name":"Westeuropa","id":599},{"name":"Zentral- und Südasien","id":596}]},{"name":"Verkehr und öffentlicher Transport","id":685},{"name":"Wetter","id":63}]},{"name":"Nachrichten und aktuelle Ereignisse","id":16,"children":[{"name":"Meldungen aus dem Bereich der Technologie","id":785},{"name":"Zeitschriften","id":412},{"name":"Zeitungen","id":408}]},{"name":"Naturwissenschaften","id":174,"children":[{"name":"Astronomie","id":435},{"name":"Biologie","id":440,"children":[{"name":"Anatomie","id":788}]},{"name":"Chemie","id":505},{"name":"Geologie","id":443},{"name":"Mathematik","id":436},{"name":"Ökologie","id":442},{"name":"Physik","id":444},{"name":"Wissenschaftliche Ausstattung","id":445},{"name":"Wissenschaftliche Einrichtungen","id":446}]},{"name":"Referenzen","id":533,"children":[{"name":"Bibliotheken und Museen","id":375},{"name":"Biografien und Zitate","id":690},{"name":"Landkarten und Geographie","id":268},{"name":"Onlineverzeichnisse","id":527},{"name":"Rechner und Referenz-Tools","id":691},{"name":"Sprachunterricht und Übersetzungen","id":108},{"name":"Uhrzeit und Kalender","id":695},{"name":"Unternehmens- und Personenverzeichnisse","id":377},{"name":"Wörterbücher und Enzyklopädien","id":692}]},{"name":"Reisen","id":67,"children":[{"name":"Abenteuerreisen","id":707},{"name":"Autovermietungen und Taxiunternehmen","id":205},{"name":"Busse und Bahnen","id":708},{"name":"Flugreisen","id":203},{"name":"Hotels und andere Unterkünfte","id":179},{"name":"Kreuzfahrten, Fährunternehmen und Yacht-Charter","id":206},{"name":"Sehenswürdigkeiten und Veranstaltungen","id":207},{"name":"Urlaubsziele","id":208,"children":[{"name":"Australien","id":709},{"name":"Hawaii","id":711},{"name":"Hongkong","id":712},{"name":"Karibische Inseln","id":710},{"name":"Las Vegas","id":713},{"name":"Mexiko","id":714},{"name":"New York City","id":715},{"name":"Orlando","id":716}]}]},{"name":"Schönheit und Körperpflege","id":44,"children":[{"name":"Fitness","id":94,"children":[{"name":"Bodybuilding","id":241},{"name":"Yoga und Pilates","id":611}]},{"name":"Gesichts- und Körperpflege","id":143,"children":[{"name":"Haarentfernung","id":144},{"name":"Haut- und Nagelpflege","id":93},{"name":"Hygieneartikel","id":244},{"name":"Kosmetik","id":234},{"name":"Parfums und Düfte","id":242}]},{"name":"Gewichtsabnahme","id":236},{"name":"Haarpflege und Haarpflegeprodukte","id":146,"children":[{"name":"Haarausfall","id":235}]},{"name":"Körperschmuck und -Kunst","id":239},{"name":"Kosmetik- und Schönheitsexperten","id":147},{"name":"Schönheitschirurgie","id":238},{"name":"Schönheitsmagazine","id":240},{"name":"Wellness und Schönheitsbehandlungen","id":145,"children":[{"name":"Massagetherapie","id":557}]}]},{"name":"Shopping","id":18,"children":[{"name":"Antiquitäten \u0026 Sammlerstücke","id":64},{"name":"Auktionen","id":292},{"name":"Bekleidung","id":68,"children":[{"name":"Bekleidungseinzelhandel","id":753},{"name":"Dessous und Unterwäsche","id":530},{"name":"Modelabels und Designer","id":98},{"name":"Schuhe","id":697},{"name":"T-Shirts","id":428},{"name":"Uhren und Accessoires","id":124}]},{"name":"Blumen, Geschenkartikel und Grußkarten","id":70,"children":[{"name":"Blumen","id":323},{"name":"Geschenkartikel","id":99},{"name":"Karten und Grüße","id":100},{"name":"Partys und Events","id":324}]},{"name":"Einkaufsportale und Suchmaschinen","id":531},{"name":"Großhändler und Kaufhäuser","id":73},{"name":"Gutscheine und Rabatte","id":365},{"name":"Kartenverkauf","id":614},{"name":"Kundendienste","id":450,"children":[{"name":"Gewährleistungen und Serviceverträge","id":451}]},{"name":"Luxusartikel","id":696,"children":[{"name":"Edelsteine und Schmuck","id":350}]},{"name":"Tabakprodukte","id":123},{"name":"Verbraucherschutz und Produktbeurteilungen","id":69,"children":[{"name":"Preisvergleiche","id":352},{"name":"Produktbeurteilungen","id":353},{"name":"Verbraucherschutz","id":97}]}]},{"name":"Soziale Netzwerke und Online-Communitys","id":299,"children":[{"name":"Anbieter von Foren und Chats","id":191},{"name":"Blogging-Ressourcen und -Dienste","id":504},{"name":"Kontakte und Beziehungen","id":55,"children":[{"name":"Heiratsvermittlungen","id":546},{"name":"Persönliches","id":102},{"name":"Websites zur Fotobewertung","id":320}]},{"name":"Online-Journale und persönliche Websites","id":582},{"name":"Soziale Netzwerke","id":529}]},{"name":"Spiele","id":8,"children":[{"name":"Glücksspiele und Spielkasinos","id":39,"children":[]},{"name":"Lotto und Gewinnspiele","id":364},{"name":"Rollenspiele","id":622},{"name":"Videospiele","id":41,"children":[{"name":"Cheats und Spieletipps","id":381},{"name":"Online-Spiele","id":105}]}]},{"name":"Sport","id":20,"children":[{"name":"American Football","id":258},{"name":"Baseball","id":259},{"name":"Basketball","id":264},{"name":"Cheerleading","id":534},{"name":"Extremsportarten","id":554},{"name":"Fußball","id":294},{"name":"Golf","id":261},{"name":"Gymnastik","id":519},{"name":"Hockey","id":260},{"name":"Kampfsport","id":514,"children":[{"name":"Boxen","id":515},{"name":"Kampfkunst","id":516},{"name":"Wrestling","id":512}]},{"name":"Kricket","id":296},{"name":"Leichtathletik","id":518},{"name":"Motorsport","id":180},{"name":"Olympische Spiele und internationale Wettkämpfe","id":513},{"name":"Pferde- und Hunderennen","id":698},{"name":"Rugby","id":517},{"name":"Schlägersportarten","id":262},{"name":"Sportartikel","id":263},{"name":"Sportzeitschriften","id":266},{"name":"Volleyball","id":699},{"name":"Wassersport","id":118},{"name":"Wintersport","id":265}]},{"name":"Telekommunikation","id":52,"children":[{"name":"Dienstanbieter","id":383,"children":[{"name":"ISPs","id":104},{"name":"Kabel- und Satellitenanbieter","id":501},{"name":"Telekommunikationsunternehmen","id":384}]},{"name":"Kommunikationsgeräte","id":385},{"name":"Mobil und drahtlos","id":382,"children":[{"name":"Einzelhandel für mobile und drahtlose Geräte","id":387},{"name":"Handys","id":390},{"name":"Klingeltöne und Extras für Handys","id":532}]},{"name":"Standortbestimmung und Navigation (GIS/GPS)","id":794},{"name":"Telekonferenzen","id":392},{"name":"VoIP- und Internet-Telefonie","id":386}]},{"name":"Unterhaltung","id":3,"children":[{"name":"Bars und Nachtleben","id":188},{"name":"Berühmtheiten","id":184},{"name":"Comics und Zeichentrick","id":316,"children":[{"name":"Anime und Manga","id":317},{"name":"Cartoons","id":319},{"name":"Comics","id":318}]},{"name":"Filme","id":34,"children":[{"name":"Bollywood und Lollywood","id":360},{"name":"Film-Sammlerstücke","id":213},{"name":"Filmverleih und -verkauf","id":210},{"name":"Horrorfilme","id":615},{"name":"Science Fiction- und Fantasy-Filme","id":616}]},{"name":"Humor und Skurriles","id":33,"children":[{"name":"Humor","id":182},{"name":"Paranormales","id":449},{"name":"Skurriles","id":538}]},{"name":"Mode und Models","id":185},{"name":"Multimedia-Content","id":613,"children":[{"name":"Flash-Content","id":447},{"name":"Podcasting","id":809},{"name":"Videos und Film-Downloads","id":211}]},{"name":"Musik","id":35,"children":[{"name":"Christlich","id":585},{"name":"Country und Folk","id":587},{"name":"Dance und elektronische Musik","id":588},{"name":"Gesang (Musicals, Oldies)","id":618},{"name":"Independent, Punk und Metal","id":584},{"name":"Jazz und R\u0026B","id":589},{"name":"Klassik","id":586},{"name":"Latein","id":591},{"name":"Liedtexte und Noten","id":617},{"name":"Musik-Streams und Musik-Downloads","id":220},{"name":"Musikalische Kunst und Erinnerungsstücke","id":218},{"name":"Musikgeschäft","id":217},{"name":"Musikinstrumente","id":216},{"name":"Rock und Pop","id":590},{"name":"Urban und Hip-Hop","id":592},{"name":"World Music","id":593}]},{"name":"Radio","id":215},{"name":"Spaß und Quiz","id":539},{"name":"Tanz","id":581},{"name":"TV","id":36,"children":[{"name":"Fernsehprogramme","id":358},{"name":"Fernsehsender","id":359}]},{"name":"Unterhaltungsindustrie","id":612}]},{"name":"Unternehmen","id":4,"children":[{"name":"Büro- und Druckdienstleistungen","id":28,"children":[{"name":"Büro- und Gebäudemanagement","id":337},{"name":"Büromaterial","id":95},{"name":"Büromöbel","id":333},{"name":"Druckdienstleistungen","id":332},{"name":"Schreib- und Korrekturdienstleistungen","id":725}]},{"name":"Corporate Events","id":334,"children":[{"name":"Messen und Tagungen","id":335}]},{"name":"Geschäftspläne und -präsentationen","id":336},{"name":"Kleinunternehmen","id":551,"children":[{"name":"Arbeit von Zuhause","id":727},{"name":"MLM und Geschäftsgelegenheiten","id":552}]},{"name":"Personalwesen","id":157,"children":[{"name":"Lohn- und Gehaltsbuchhaltung","id":724},{"name":"Mitarbeiterschulung","id":331},{"name":"Personalvermittlung und Zeitarbeitsunternehmen","id":330},{"name":"Vergütung und Sozialleistungen","id":723}]},{"name":"Unternehmensdienstleistungen und -beratung","id":329,"children":[{"name":"Feuerschutz und Sicherheitsdienstleistungen","id":726},{"name":"Verwaltung von Sachanlagen","id":719}]},{"name":"Werbung und Marketing","id":25,"children":[{"name":"Marketingdienstleistungen","id":83},{"name":"Öffentlichkeitsarbeit","id":327},{"name":"Telemarketing","id":328}]},{"name":"Wirtschaftswissenschaftliche Hochschulen und Ausbildungsstätten","id":799}]}]});
+  </script>
+</td>
+      <td id="resPckrcatRPS0" class="removeButtonCell" style="display:none;">
+        <a onclick="controlPanel.getPicker('cat').removePicker(0); return false;">
+          <div class="goog-inline-block fs04img SPRITE_remove"
+       style=''
+       height="15" width="15" border="0" ></div></a>
+      </td>
+    </tr>
+    <tr style="display:none;">
+    <td/>
+    <td colspan="2" class="addAnotherCell">
+      <span >+&nbsp;
+        <a onclick="controlPanel.getPicker('cat').addPicker(true); return false;">
+          Suchbegriff hinzufügen</a></span>
+    </td>
+  </tr>
+</table>
+</td>
+</tr>
+</table>
+              </td>
+              <td class="rightmostCell" style="width: 10%;">
+                <span id="loadingImage" style="visibility: hidden;"><img  src="/insights/search/resources/1964626681-loading.gif" style='vertical-align: middle;'/>&nbsp;</span>
+                <input type="submit" class="submit" value="Suchen"/>
+              </td>
+            </tr>
+          </table>
+        </form>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<script type="text/javascript">
+  
+  var paramsMap = {};
+  
+    paramsMap['cat'] = '';
+  
+    paramsMap['q'] = '';
+  
+    paramsMap['geo'] = '';
+  
+    paramsMap['date'] = '';
+  
+    paramsMap['gprop'] = '';
+  
+  paramsMap['cmpt'] = 'q';
+  paramsMap['q'] = '';
+  paramsMap['ajax'] = '1';
+  paramsMap['p2wlcc'] =
+      '{"froogle":["US","GB","DE"],"youtube":["US","AU","CA","IN","IE","NZ","GB","BR","CZ","DE","ES","FR","HK","IL","IT","JP","KR","MX","NL","PL","RU","SE","TW","ZA"]}';
+  // An array with the default first date for non-web properties in position 0 and the default
+  // first date for web-serach property in position 1. Date fomat is MM/YYYY.
+  paramsMap['prsd'] =
+      ['1/2008',
+       '1/2004'];
+  // A custom map from property name to start date. This overrides the default configuration. 
+  paramsMap['cp2rsd'] =
+      '{"twitter":"1/2010","buzz":"2/2010"}';
+
+
+  
+  
+  var controlPanel = new trends.ControlPanel(paramsMap);
+  
+
+  document.getElementById('searchControlPanel').style.display = '';
+
+  
+    var exportLinkHandler = new trends.ExportLinkHandler('exportContainer', 'exportLink', controlPanel);
+    
+    var searchTermsTips = new trends.ContentChanger('searchTermsTipsContainer', controlPanel, ControlPanelEvent.Types.RESPONSE, 'span');
+    
+    controlPanel.addOnResponseCallback(function(e){document.getElementById('slogan').style.display=(e.isLandingPage?'':'none')});
+    
+      new trends.LocaleSelector(controlPanel);
+    </script>
+</div>
+  <div id="slogan" style="display:block" nowrap>
+      Sehen, wonach die Welt sucht</div>
+  <div id="reportContent">
+    <div id="report">
+  <div id="reportMain">
+    <div id="landingPageWrapper" style='visibility: hidden'>
+  <table>
+    <tr>
+      <td width="70%" valign="top">
+        Mit Google Insights for Search können Sie Suchvolumenmuster über bestimmte Regionen, Kategorien, Zeiträume und Webdienste hinweg vergleichen.&nbsp;<a href="http://www.google.com/support/insights//bin/answer.py?hl=de&answer=96693">Beispiele</a> für die Verwendung von Google Insights for Search<table>
+
+          <tr><td>
+            <table>
+               <tr>
+                 <td valign="top"><div class="goog-inline-block fs04img SPRITE_more-32"
+       style='vertical-align: middle;'
+       ></div></td>
+                 <td><b>Kategorien</b><br/>
+                        Grenzen Sie die Daten auf spezielle Kategorien ein, zum Beispiel Finanzen, Gesundheit oder Sport.<br/>
+                        Beispiele:&nbsp;<a href="#cat=47&geo=DE&q=abwrackpr%C3%A4mie,neuwagen&date=today+12-m&cmpt=q">Abwrackprämie vs. Neuwagen in Deutschland (Automotive, last 12 months)</a>
+    
+      |
+     <a href="#cat=529&geo=DE&q=studivz,facebook&cmpt=q">studivz vs. facebook seit 2004 (in Kategorie Social networks)</a>
+    </td></tr>
+             </table>
+          </td></tr>
+
+          <tr><td>
+            <table>
+              <tr>
+                <td valign="top"><div class="goog-inline-block fs04img SPRITE_chart-32"
+       style='vertical-align: middle;'
+       ></div></td>
+                <td><b>Saisonabhängigkeit</b><br/>
+                       Prognostizieren Sie die Nachfrage für Ihr Geschäft, um entsprechend budgetieren und planen zu können.<br/>
+                       Beispiele:&nbsp;<a href="#geo=DE&q=oktoberfest&cmpt=q">Oktoberfest seit 2004</a>
+    
+      |
+     <a href="#geo=DE&q=kfz+versicherung&date=1/2004+12m,1/2005+12m,1/2006+12m,1/2007+12m,1/2008+12m&cmpt=date">kfz versicherung seit 2004</a>
+    </td></tr>
+            </table>
+          </td></tr>
+
+          <tr><td>
+            <table>
+              <tr>
+                <td valign="top"><div class="goog-inline-block fs04img SPRITE_maps-32a"
+       style='vertical-align: middle;'
+       ></div></td>
+                <td><b>Geografische Verteilung</b><br/>
+                       Wissen, wo die Kunden sind! Sehen Sie, wie sich das Suchvolumen über Regionen und Städte verteilt.<br/>
+                       Beispiele:&nbsp;<a href="#geo=DE,US&q=Lederhosen&date=today+12-m&cmpt=geo">Lederhosen in Deutschland und den USA</a>
+    
+      |
+     <a href="#geo=DE-NI,DE-BY&q=lederhose&cmpt=geo">Lederhose in Bayern vs. Lederhose in Niedersachsen</a>
+    </td></tr>
+            </table>
+          </td></tr>
+        <tr><td>
+            <table>
+              <tr>
+                <td valign="top"><div class="goog-inline-block fs04img SPRITE_sitemap-32"
+       style='vertical-align: middle;'
+       ></div></td>
+                <td><b>Webdienste</b><br/>
+                       Betrachten Sie Suchmuster bei anderen Google-Webdiensten.<br/>
+                       Beispiele:&nbsp;<a href="#geo=FR&gprop=images&date=today+1-m&cmpt=q">Zunehmende Bildsuchanfragen in Frankreich, letzte 30 Tage</a>
+    
+      |
+     <a href="#cat=34&gprop=news&date=today+7-d&cmpt=q">Nachrichtenschlagzeilen der letzten 7 Tage</a>
+    </td></tr>
+            </table>
+          </td></tr>
+        </table>
+
+        <br/>
+      </td>
+      <td width="28%" valign="top" style="padding-left:2%;">
+        <div class="landingPageMoreExamples" >
+         <b>Weitere Beispiele</b></div>
+        <br/>
+         <table class="landingExamplesTable">
+<tr>
+  <td >
+    <a href="#q=flu">Grippe</a>
+  </td>
+  </tr>
+  <tr>
+  <td >
+    <a href="#q=earthquake">Erdbeben</a>
+  </td>
+  </tr>
+  <tr>
+  <td >
+    <a href="#q=chocolate+ice+cream,vanilla+ice+cream">Schokoladeneis/Vanilleeis</a>
+  </td>
+  </tr>
+  <tr>
+  <td >
+    <a href="#geo=DE&q=ostfriesentee&cmpt=q">Ostfriesentee (auf der Karte sieht man die geographische Verteilung)</a>
+  </td>
+  </tr>
+  <tr>
+  <td >
+    <a href="#geo=DE&q=handy+ohne+vertrag&cmpt=q">Handy ohne Vertrag seit 2004</a>
+  </td>
+  </tr>
+  <tr>
+  <td >
+    <a href="#q=facebook,orkut,myspace,hi5">Facebook/orkut/Myspace/hi5</a>
+  </td>
+  </tr>
+  <tr>
+  <td >
+    <a href="#geo=DE&q=landtagswahl&cmpt=q">Landtagswahl</a>
+  </td>
+  </tr>
+  <tr>
+  <td >
+    <a href="#q=hurricane+katrina,gas+prices">Hurrikan Katrina/Benzinpreise</a>
+  </td>
+  </tr>
+  <tr>
+  <td >
+    <a href="#q=perl,python,ruby,php">perl/python/ruby/php</a>
+  </td>
+  </tr>
+  <tr>
+  <td >
+    <a href="#cat=67&geo=DE&q=urlaub+ungarn,urlaub+mallorca&cmpt=q">Ost- vs West-DE: Urlaub in Ungarn vs Mallorca</a>
+  </td>
+  </tr>
+  <tr>
+  <td >
+    <a href="#geo=DE&q=ferienwohnung+d%C3%A4nemark&cmpt=q">Ferienwohnung Dänemark</a>
+  </td>
+  </tr>
+  <tr>
+  <td >
+    <a href="#geo=DE&q=schweinegrippe,vogelgrippe&cmpt=q">Schweinegrippe vs. Vogelgrippe</a>
+  </td>
+  </tr>
+  <tr>
+  </tr>
+  </table>
+</td>
+    </tr>
+  </table>
+  <!--
+  The default promo message is set here.
+  If the landingPagePromoSignedIn/landingPagePromo flags are not empty we will use the message from the relevant flag.
+-->
+
+  </div>
+  </div>
+
+<script type="text/javascript">
+  trends.PageTracker.init(_gat._getTracker('UA-4401283-1'),
+      '/insights/search/');
+
+   
+  trends.PageTracker.trackLoggedIn(false);
+
+  
+  trends.PageTracker.trackPageView();
+</script>
+</div>
+</div>
+<div id="footer" class="ca">
+  <p class="disclaimer">
+    Ziel von Google Insights for Search ist es, Erkenntnisse über verbreitete Suchmuster zu liefern. Die Berechnung der Ergebnisse basiert auf verschiedenen Schätzungen.<br/>
+    Die Insights for Search-Karte ist für allgemeine Volumenanalysen vorgesehen. Bei den Grenzen handelt es sich um Annäherungen, sodass diese möglicherweise ungenau sind.</p>
+  <p>
+    &copy;2010&nbsp;Google -&nbsp;<a href="/intl/de/insights/terms.html"
+       target="_blank"
+        >Nutzungsbedingungen</a>&nbsp;-&nbsp;<a href="/intl/de/privacy.html"
+       target="_blank"
+        >Datenschutzbestimmungen</a>&nbsp;-&nbsp;<a href="http://www.google.com/support/insights/?hl=de"
+       target="_blank">Insights for Search-Hilfe</a>
+    </p>
+</div>
+
+</body>
+</html>
+</div>

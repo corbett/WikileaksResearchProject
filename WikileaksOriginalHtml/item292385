@@ -1,0 +1,242 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" lang="is" xml:lang="is" dir="ltr">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>Ríkisútvarpið vefur</title>
+  <script type="text/javascript"> </script>
+  <link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/ruv/style.css" />
+  <link rel="shortcut icon" href="/other_files/ruv/img/fav.ico" type="image/x-icon"/>
+</head>
+<body>
+
+<div id="wrapper">
+
+  <div id="header">
+    <h1><a href="/">ruv.is</a></h1>
+    <div class="no-disp"><a href="http://www.ruv.is/mobile/">Lófatölvur</a></div>
+    <div class="no-disp"><p>Beint í <a href="#main-navigation">leiðarkerfi</a>.</p></div>
+  </div>
+	
+
+	<div id="block_1">
+	</div>
+	<div id="masthead">
+		
+  <div class="efstalina">
+    <div id="qnav">
+      <h2 class="no-disp">Flýtileiðir</h2>
+      <ul class="top_nav">
+        <li class="top_farsimar"><a href="/mobile">Farsímar</a></li>
+        <li class="top_rss"><a href="/rss">RSS</a></li>
+        <li class="top_hladvarp"><a href="/podcast">Hlaðvarp</a></li>  
+        <li class="top_textavarp"><a href="http://textavarp.is/" target="blank">Textavarp</a></li>
+        <li class="top_english"><a href="/english">English</a></li>
+        <li class="top_verslun"><a href="http://verslun.ruv.is/">Vefverslun</a></li>
+      </ul>
+    </div>
+  
+    <hr class="no-disp" />
+    
+    <div id="qsearch">
+      <h2 class="no-disp">Leit</h2>
+<!-- Google CSE Search Box Begins 
+      <form class="portlet-form" action="/leit" id="searchbox_014396846756185753426:0tthdtgop50">
+        <input type="hidden" value="014396846756185753426:0tthdtgop50" name="cx"/>
+        <input type="hidden" value="FORID:11" name="cof"/>
+        <input type="hidden" value="utf-8" name="ie"/>
+        <input type="text" onblur="inputText(this)" onfocus="inputText(this)" value="Leita á ruv.is" class="search-input" size="30" name="q" id="q_leitainput"/>
+        <input type="submit" class="button" value="Leita" name="sa"/>
+      </form>
+ Google CSE Search Box Ends -->
+
+      <form action="http://www.google.is/search" method="get">
+        <input type="hidden" name="sitesearch" value="ruv.is" />
+        <input type="text" name="q" onblur="inputText(this)" onfocus="inputText(this)" value="Leita á ruv.is" class="search-input" size="30"  id="q_leitainput"/>
+        <input type="submit" class="button" value="Leita" />
+      </form>
+    </div>
+  </div>
+
+<div id="banner" class="banner"> 
+	<script type="text/javascript" src="/other_files/upload/swfobject.js"></script>
+	<script type="text/javascript">
+		//swfobject.embedSWF("/other_files/annad/ruv-web_banner_5.swf", "banner", "950", "115", "10.0.42.34", "/other_files/upload/expressInstall.swf");
+		swfobject.embedSWF("/other_files/annad/ruv-web_banner_5.swf", "banner", "950", "115", "6");
+	</script>
+</div>
+
+<div class="midlina">
+  <a class="logo" href="/" name="leidarkerfi"><img src="http://www.ruv.is/other_files/ruv/jakob/ruv_logo.png" alt="www.ruv.is" /></a>
+  <h2 class="date">26. desember 2010</h2>
+
+  <div id="stream-navigation">
+    <h2 class="no-disp">Streymiþjónusta</h2>
+    <ul>
+      <li class="first tv"><a href="http://dagskra.ruv.is/sjonvarpid/">SJÓNVARPIÐ</a></li>
+      <li class="ch1"><a href="http://dagskra.ruv.is/ras1/">RÁS 1</a></li>
+      <li style="margin-right:0;" class="ch2"><a href="http://dagskra.ruv.is/ras2/">RÁS 2</a></li>
+    </ul>
+  </div>
+</div>
+
+<ul class="menu"><li class="expanded first"><a href="/forsida" title="">Fréttir</a><ul class="menu"><li class="leaf first"><a href="/flokkar/innlendar-frettir" title="">Innlendar fréttir</a></li>
+<li class="leaf"><a href="/flokkar/erlendar-frettir" title="">Erlendar fréttir</a></li>
+<li class="leaf"><a href="http://dagskra.ruv.is/frutvarp/" title="">Fréttir útvarps</a></li>
+<li class="leaf"><a href="http://dagskra.ruv.is/frsjonvarp/" title="">Fréttir sjónvarps</a></li>
+<li class="leaf"><a href="/frettaskyringar">Fréttaskýringar</a></li>
+<li class="leaf"><a href="/pistlar" title="Pistlar">Pistlahöfundar</a></li>
+<li class="leaf last"><a href="/search" title="">Frettaleit</a></li>
+</ul></li>
+<li class="collapsed"><a href="/svaedi" title="Svæði">Svæði</a></li>
+<li class="collapsed"><a href="/flokkar/ithrottir" title="">Íþróttir</a></li>
+<li class="leaf"><a href="/flokkar/menning" title="">Menning</a></li>
+<li class="leaf"><a href="/flokkar/stjornmal" title="">Stjórnmál</a></li>
+<li class="leaf"><a href="/flokkar/vidskipti" title="">Viðskipti</a></li>
+<li class="leaf"><a href="http://www.ruv.is/neytendur/" title="">Neytendur</a></li>
+<li class="leaf"><a href="/barnavefir" title="Barnavefir">Barnavefir</a></li>
+<li class="leaf last"><a href="/um-ruv" title="Um RÚV">Um RÚV</a></li>
+</ul>
+	</div>
+
+
+
+  <div id="footer">
+    
+<div class="footer-menu"> 
+  <h2>Efnisyfirlit</h2> 
+  <dl> 
+    <dt><a href="/um/" title="Um RÚV">Um RÚV</a></dt> 
+    <dd><a href="/um-ruv/starfsmenn" title="Starfsmenn">Starfsmenn</a></dd> 
+    <dd><a href="/um-ruv/afnotadeild/" title="Afnotadeild">Afnotadeild</a></dd> 
+    <dd><a href="http://www.auglysendur.is" target="_blank" title="Auglýsingadeild">Auglýsingadeild</a></dd> 
+    <dd><a href="/um-ruv/dreifikerfi/" title="Dreifikerfi RÚV">Dreifikerfi RÚV</a></dd> 
+    <dd><a href="/um-ruv/innkaupastefna/" title="Innkaupastefna">Innkaupastefna</a></dd> 
+    <dd><a href="/um-ruv/storf/" title="Störf í boði">Störf í boði</a></dd> 
+    <dd><a href="/svaedi" title="Svæðisútvarp">Svæðisútvarp</a></dd> 
+    <dd><a href="http://verslun.ruv.is/" title="Vefverslun">Vefverslun</a></dd> 
+  </dl> 
+  <dl> 
+    <dt><a href="/" title="Fréttir">Fréttir</a></dt> 
+    <dd><a href="/innlendar-frettir/" title="Innlendar">Innlendar</a></dd> 
+    <dd><a href="/erlendar-frettir" title="Erlendar">Erlendar</a></dd> 
+    <dd><a href="/menning" title="Menning">Menning</a></dd> 
+    <dd><a href="/stjornmal" title="Stjórnmál">Stjórnmál</a></dd> 
+    <dd><a href="/vidskipti" title="Viðskipti">Viðskipti</a></dd> 
+    <dd><a href="/flokkar/doms-og-logreglumal" title="Dóms- og lögreglumál">Dóms- og lögreglumál</a></dd> 
+    <dd><a href="/neytendur" title="Neytendamál">Neytendamál</a></dd> 
+    <dd><a href="/svaedi" title="Svæðisfréttir">Svæðisfréttir</a></dd>     
+    <dd><a href="http://dagskra.ruv.is/frutvarp/" title="Fréttaupptökur útvarps">Útvarpsfréttir</a></dd> 
+    <dd><a href="http://dagskra.ruv.is/frsjonvarp/" title="Fréttaupptökur sjónvarps">Sjónvarpsfréttir</a></dd> 
+  </dl> 
+  <dl> 
+    <dt><a href="/ithrottir" title="Íþróttir">Íþróttir</a></dt>
+	<dd><a href="/flokkar/ithrottir/fotbolti" title="Fótbolti">Fótbolti</a></dd>
+	<dd><a href="/flokkar/ithrottir/handbolti" title="Handbolti">Handbolti</a></dd>
+	<dd><a href="/flokkar/ithrottir/korfubolti" title="Körfubolti">Körfubolti</a></dd> 
+	<dd><a href="/flokkar/ithrottir/golf" title="Golf">Golf</a></dd> 
+	<dd><a href="/flokkar/ithrottir/skak" title="Skák">Skák</a></dd> 
+	<dd><a href="/ithrottir/urslitasida" title="Úrslitaþjónusta">Úrslitaþjónusta</a></dd> 
+  </dl> 
+  <dl>
+    <dt><a href="http://dagskra.ruv.is/" title="Dagskrá">Dagskrá</a></dt>
+	<dd><a href="http://dagskra.ruv.is/sjonvarpid/" title="Sjónvarpið">Sjónvarpið</a></dd> 
+	<dd><a href="http://dagskra.ruv.is/ras1/" title="Rás 1">Rás 1</a></dd> 
+	<dd><a href="http://dagskra.ruv.is/ras2/" title="Rás 2">Rás 2</a></dd> 
+	<!--<dd><a href="http://dagskra.ruv.is/rondo/" title="Rondó">Rondó</a></dd>--> 
+	<dd><a href="http://muninn.ruv.is/files/" title="Dagskrárskjöl">Dagskrárskjöl</a></dd> 
+  </dl> 
+  <dl>
+    <dt><a href="http://dagskra.ruv.is/streaming/" title="Upptökur">Upptökur</a></dt>
+	<dd><a href="http://dagskra.ruv.is/streaming/rondo/" title="Rondó í beinni">Rondó í beinni</a></dd> 
+	<dd><a href="http://www.ruv.is/podcast" title="Podcast">Podcast</a></dd> 
+	<dd><a href="/upptokur" title="Áhugaverðar upptökur">Valdar upptökur</a></dd> 
+	<br/> 
+	<dt><a href="#">Vefmyndavélar</a></dt> 
+	<dd><a title="Vöktun Kötlu" href="http://www.ruv.is/katla/">Vöktun Kötlu</a></dd> 
+	<dd><a title="Vöktun Heklu" href="http://www.ruv.is/hekla/">Vöktun Heklu</a></dd> 
+	<dd><a title="Vefmyndavél í hljóðstofu 2" href="http://dagskra.ruv.is/sdu/studio2/">Hljóðstofa 2</a></dd> 
+  </dl>
+  <dl> 
+    <dt><a href="#" title="Sérvefir">Sérvefir</a></dt> 
+	<dd><a href="http://servefir.ruv.is/passiusalmar/" title="Passíusálmavefurinn">Passíusálmavefurinn</a></dd> 
+	<dd><a href="http://servefir.ruv.is/gaman/" title="Fögnuður">Fögnuður</a></dd> 
+	<dd><a href="http://servefir.ruv.is/her/" title="Hernámsvefurinn">Hernámsvefurinn</a></dd> 
+	<dd><a href="http://servefir.ruv.is/vesturfarar/" title="Íslandssöguvefurinn">Íslandssöguvefurinn</a></dd> 
+	<dd><a href="http://servefir.ruv.is/jonleifs/" title="Jón Leifs">Jón Leifs</a></dd> 
+	<dd><a href="http://servefir.ruv.is/1944/" title="Lýðveldisvefurinn">Lýðveldisvefurinn</a></dd> 
+	<dd><a href="http://servefir.ruv.is/laxness/" title="Nóbelsverðlaunin">Nóbelsverðlaunin</a></dd> 
+	<dd><a href="http://servefir.ruv.is/tyrkjaranid/" title="Tyrkjaránið">Tyrkjaránið</a></dd> 
+  </dl> 
+  <dl> 
+    <dt><a href="/barnavefir/" title="Barnavefir">Barnavefir</a></dt> 
+	<dd><a href="http://www.ruv.is/stundinokkar/" title="Stundin okkar">Stundin okkar</a></dd> 
+	<dd><a href="http://www.ruv.is/leynifelagid" title="Leynifélagið">Leynifélagið</a></dd> 
+	<dd><a href="http://servefir.ruv.is/blueplanet/" title="Hafið bláa">Hafið bláa</a></dd> 
+	<dd><a href="http://servefir.ruv.is/hvalir/" title="Hvalavefurinn">Hvalavefurinn</a></dd> 
+	<dd><a href="http://servefir.ruv.is/dyr/index2.html" title="Gæludýravefurinn">Gæludýravefurinn</a></dd> 
+  </dl> 
+</div> 
+
+    <div class="vcard">
+      <div class="content">
+        <span class="org">RÚV</span> - 
+	     <span class="adr">
+
+	       <span class="street-address">Efstaleiti 1</span>, 
+		   <span class="postal-code">150</span>
+		   <span class="locality">Reykjavík</span>, 
+		   <span class="country-name">Ísland</span> -
+	     </span> 
+	     <span class="tel">Sími: 515 3000</span> 
+	     Fax: 515 3010 - <a class="email" href="mailto:webmaster@ruv.is">webmaster@ruv.is</a> - &copy; RÚV 2009
+      </div>
+
+    </div>
+  </div>
+
+</div>
+
+  
+<div class="talning">
+	<!-- Virk vefmaeling byrjar. Vefur: http://www.ruv.is -->
+
+	<script language="javascript" type="text/javascript"><!--
+			var p_run_js=0;
+	//--></script>
+
+	<script language="javascript1.1" type="text/javascript"><!--
+			var p_run_js=1;
+	//--></script>
+	<script language="javascript" type="text/javascript"><!--
+	//<![CDATA[
+			var service_id = "25";
+		var portion = "1";
+			var page = document.title;
+			if(!p_run_js) {
+					document.write('<img width="1" height="1" src="http://ruv.teljari.is/potency/potency.php?o='+service_id+';i='+portion+';p='+page+';j=1.0" alt="" border="0" />');
+			}
+	//]]>
+	//--></script>
+	<script language="javascript1.1" type="text/javascript" src="http://ruv.teljari.is/potency/js/potency.js"></script>
+	<noscript>
+	<img width="1" height="1" src="http://ruv.teljari.is/potency/potency.php?o=25;i=1;p=ekki_js" alt="" border="0" />
+	</noscript>
+	<!-- Virk vefmaeling endar -->
+
+	<script type="text/javascript">
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+	</script>
+
+	<script type="text/javascript">
+	try {
+	var pageTracker = _gat._getTracker("UA-6449406-1");
+	pageTracker._trackPageview();
+	} catch(err) {}
+	</script>
+</div>
+  <script type="text/javascript" src="/other_files/ruv.js"></script>
+</body>
+</html>
+<!-- Page cached by Boost @ 2010-12-26 23:05:32, expires @ 2010-12-26 23:35:32 -->

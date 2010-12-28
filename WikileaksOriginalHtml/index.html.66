@@ -1,0 +1,703 @@
+<!DOCTYPE html>
+<!--[if IE 6]>
+<html id="ie6" dir="ltr" lang="de">
+<![endif]-->
+<!--[if (gt IE 6) | (!IE)]><!-->
+<html dir="ltr" lang="de">
+<!--<![endif]-->
+<!--
+	generated in 0.765 seconds
+	66132 bytes batcached for 300 seconds
+-->
+<head>
+<meta charset="UTF-8" />
+<title>Leak-o-nomy: The Economy of Wikileaks (Interview with Julian Assange) | Medien-Ökonomie-Blog</title>
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+<link rel="stylesheet" type="text/css" media="all" href="http://s1.wp.com/wp-content/themes/pub/coraline/style.css?m=1293032830g" />
+<link rel="pingback" href="http://stefanmey.wordpress.com/xmlrpc.php" />
+<link rel="alternate" type="application/rss+xml" title="Medien-Ökonomie-Blog &raquo; Feed" href="http://stefanmey.wordpress.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Medien-Ökonomie-Blog &raquo; Kommentar Feed" href="http://stefanmey.wordpress.com/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Medien-Ökonomie-Blog &raquo; Leak-o-nomy: The Economy of Wikileaks (Interview with Julian&nbsp;Assange) Kommentar Feed" href="http://stefanmey.wordpress.com/2010/01/04/leak-o-nomy-the-economy-of-wikileaks/feed/" />
+<script type="text/javascript">
+/* <![CDATA[ */
+function addLoadEvent(func){var oldonload=window.onload;if(typeof window.onload!='function'){window.onload=func;}else{window.onload=function(){oldonload();func();}}}
+/* ]]> */
+</script>
+<link rel="stylesheet" href="http://s0.wp.com/wp-content/themes/h4/global.css?m=1292292198g" type="text/css" />
+<script type='text/javascript' src='http://s2.wp.com/wp-includes/js/l10n.js?m=1292292167g&amp;ver=20101110'></script>
+<script type='text/javascript' src='http://s1.wp.com/wp-includes/js/jquery/jquery.js?m=1292292163g&amp;ver=1.4.4'></script>
+<script type='text/javascript' src='http://s0.wp.com/wp-includes/js/comment-reply.js?m=1292292167g&amp;ver=20090102'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://stefanmey.wordpress.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://stefanmey.wordpress.com/wp-includes/wlwmanifest.xml" /> 
+<link rel='index' title='Medien-Ökonomie-Blog' href='http://stefanmey.wordpress.com/' />
+<link rel='prev' title='Leak-o-nomy: Die Ökonomie hinter WikiLeaks (Interview mit Julian&nbsp;Assange)' href='http://stefanmey.wordpress.com/2010/01/01/leak-o-nomy-die-okonomie-hinter-wikileaks/' />
+<link rel='next' title='Leak-o-nomy: La economía de&nbsp;Wikileaks' href='http://stefanmey.wordpress.com/2010/02/10/wikileaks-la-economia-de-wikileaks/' />
+<meta name="generator" content="WordPress.com" />
+<link rel='canonical' href='http://stefanmey.wordpress.com/2010/01/04/leak-o-nomy-the-economy-of-wikileaks/' />
+<link rel='shortlink' href='http://wp.me/p7WjP-8b' />
+<link rel="shortcut icon" type="image/x-icon" href="http://s1.wp.com/i/favicon-stacked.ico?m=1292292162g" sizes="16x16 24x24 32x32 48x48" />
+<link rel="icon" type="image/x-icon" href="http://s1.wp.com/i/favicon-stacked.ico?m=1292292162g" sizes="16x16 24x24 32x32 48x48" />
+<link rel="apple-touch-icon" href="http://s0.wp.com/wp-content/themes/h4/i/webclip.png?m=1292292197g" />
+	<style type="text/css">
+	/* <![CDATA[ */
+				div#likes { margin-top: 15px; }
+		.like-button { border: 1px solid #eee; padding: 2px 6px; font-size: 13px; font-family: arial, tahoma, sans-serif; }
+		#wpl-likebox { clear: left; font-size: 11px; font-family: arial, tahoma, verdana, sans-serif !important; min-height: 30px; margin: 10px 0 !important; padding: 5px 0 10px 0 !important; }
+		#wpl-button { float: left; background: url( /i/buttonbg.png ) top left repeat-x; margin-right: 7px; border: 1px solid #d4d4d4; -moz-border-radius: 3px; -webkit-border-radius: 3px; border-radius: 3px; }
+		#wpl-button a { color: #666 !important; line-height: 130% !important; text-decoration: none !important; outline: none; float: left; padding: 3px 6px 2px 24px !important; font-size: 11px !important; background: url( /i/likestar.png ) 6px 49.8% no-repeat; }
+		#wpl-button.liked { background: #feffce; border: 1px solid #f3e389; }
+		#wpl-button.liked a { color: #ba871b !important; }
+		#wpl-likebox #wpl-count { min-height: 25px; line-height: 130% !important; float: left; padding-top: 4px; }
+		#wpl-likebox #wpl-avatars { clear: left; max-height: 98px; overflow: hidden; margin-top: 15px; line-height: 130% !important; }
+		#wpl-likebox #wpl-avatars img { border: none !important; }
+		#wpl-likebox #wpl-mustlogin { line-height: 14px !important; font-size: 11px; clear: left; margin-top: 5px; background: #f0f0f0; padding: 10px; width: 65%; -moz-border-radius: 3px; -webkit-border-radius: 3px; border-radius: 3px; }
+		#wpl-likebox #wpl-mustlogin a { color: #888; text-decoration: underline; }
+		#wpl-likebox #wpl-mustlogin p { margin: 5px 0; padding: 0 }
+		#wpl-likebox #wpl-mustlogin input.input { padding: 2px; background: #fff; font-size: 11px; font-family: inherit; border: 1px solid #ccc; -moz-box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.1) inset; -webkit-box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.1) inset; line-height: 12px; }
+		#wpl-likebox #wpl-mustlogin input#wp-submit { border: 1px solid #ccc; font-size: 11px; background: #fafafa; repeat-x; -moz-border-radius: 3px; -webkit-border-radius: 3px; border-radius: 3px; padding: 2px 4px !important; line-height: 12px; }
+		#wpl-likebox #wpl-mustlogin label { position: relative; cursor: text; }
+		#wpl-likebox #wpl-mustlogin label span { position: absolute; top: 0px; left: 5px; padding: 0 !important; }
+		#wpl-likebox #wpl-mustlogin label span { top /*\**/: -10px\9; }
+	/* ]]> */
+	</style>
+	<link rel='openid.server' href='http://stefanmey.wordpress.com/?openidserver=1' />
+<link rel='openid.delegate' href='http://stefanmey.wordpress.com/' />
+<link rel="search" type="application/opensearchdescription+xml" href="http://stefanmey.wordpress.com/osd.xml" title="Medien-Ökonomie-Blog" />
+<link rel="search" type="application/opensearchdescription+xml" href="http://wordpress.com/opensearch.xml" title="WordPress.com" />
+<meta name="application-name" content="Medien-Ökonomie-Blog" /><meta name="msapplication-window" content="width=device-width;height=device-height" /><meta name="msapplication-tooltip" content="Media, money and beyond" /><meta name="msapplication-task" content="name=Abonnieren;action-uri=http://stefanmey.wordpress.com/feed/;icon-uri=http://s1.wp.com/i/favicon-stacked.ico" /><meta name="msapplication-task" content="name=Sign up for a free blog;action-uri=http://wordpress.com/signup/;icon-uri=http://s2.wp.com/i/favicon.ico" /><meta name="msapplication-task" content="name=Wordpress.com Support;action-uri=http://support.wordpress.com/;icon-uri=http://s2.wp.com/i/favicon.ico" /><meta name="msapplication-task" content="name=WordPress.com-Foren;action-uri=http://forums.wordpress.com/;icon-uri=http://s2.wp.com/i/favicon.ico" /></head>
+
+<body class="single single-post postid-507 single-format-standard two-column content-sidebar">
+<div id="container" class="hfeed">
+	<div id="header">
+		<div id="masthead" role="banner">
+						<div id="site-title">
+				<span>
+					<a href="http://stefanmey.wordpress.com/" title="Medien-Ökonomie-Blog" rel="home">Medien-Ökonomie-Blog</a>
+				</span>
+			</div>
+			<div id="site-description">Media, money and beyond</div>
+		</div><!-- #masthead -->
+
+		<div id="access" role="navigation">
+		  			<div class="skip-link screen-reader-text"><a href="#content" title="Zum Inhalt springen">Zum Inhalt springen</a></div>
+						<div class="menu"><ul><li ><a href="http://stefanmey.wordpress.com/" title="Home">Home</a></li></ul></div>
+		</div><!-- #access -->
+
+		<div id="branding">
+						<a href="http://stefanmey.wordpress.com/">
+									<img src="http://s1.wp.com/wp-content/themes/pub/coraline/images/headers/water-drops.jpg?m=1292292253g" width="990" height="180" alt="" />
+							</a>
+					</div><!-- #branding -->
+	</div><!-- #header -->
+
+	<div id="content-box">
+
+		<div id="content-container">
+			<div id="content" role="main">
+
+			
+				<div id="nav-above" class="navigation">
+					<div class="nav-previous"><a href="http://stefanmey.wordpress.com/2010/01/01/leak-o-nomy-die-okonomie-hinter-wikileaks/" rel="prev"><span class="meta-nav">&larr;</span> Leak-o-nomy: Die Ökonomie hinter WikiLeaks (Interview mit Julian&nbsp;Assange)</a></div>
+					<div class="nav-next"><a href="http://stefanmey.wordpress.com/2010/02/10/wikileaks-la-economia-de-wikileaks/" rel="next">Leak-o-nomy: La economía de&nbsp;Wikileaks <span class="meta-nav">&rarr;</span></a></div>
+				</div><!-- #nav-above -->
+
+				<div id="post-507" class="post-507 post type-post status-publish format-standard hentry category-interviews tag-counterpublics tag-julian-assange tag-whistleblowing tag-wikileaks">
+					<h1 class="entry-title">Leak-o-nomy: The Economy of Wikileaks (Interview with Julian&nbsp;Assange)</h1>
+
+					<div class="entry-meta">
+						<span class="meta-prep meta-prep-author">Veröffentlicht am</span> <a href="http://stefanmey.wordpress.com/2010/01/04/leak-o-nomy-the-economy-of-wikileaks/" title="13:18" rel="bookmark"><span class="entry-date">Januar 4, 2010</span></a> <span class="byline"><span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="http://stefanmey.wordpress.com/author/stefanmey/" title="Alle Einträge von Stefan Mey">Stefan Mey</a></span></span><span class="comments-link"><span class="meta-sep">|</span> <a href="http://stefanmey.wordpress.com/2010/01/04/leak-o-nomy-the-economy-of-wikileaks/#comments" title="Kommentiere Leak-o-nomy: The Economy of Wikileaks (Interview with Julian&nbsp;Assange)">61 Kommentare</a></span>
+											</div><!-- .entry-meta -->
+
+					<div class="entry-content">
+						<p><em><a href="http://stefanmey.files.wordpress.com/2010/01/screenshot-wikileaks-30-12-2009.png"><img class="alignnone size-full wp-image-580" title="Screenshot Wikileaks 30.12.2009" src="http://stefanmey.files.wordpress.com/2010/01/screenshot-wikileaks-30-12-2009.png?w=500&#038;h=230" alt="" width="500" height="230" /></a></em></p>
+<p><em><a href="http://wikileaks.org/">Wikileaks</a> is a global platform for Whistleblowers, in which internal documents can be published. The idea is that arcane knowledge becomes common knowledge and the world<em><em><a href="http://www.flickr.com/photos/newmediadaysdk/4130304983"><img class="alignright" title="Assange (Foto: New Media Days auf Flickr, by-sa 2.0)" src="http://stefanmey.files.wordpress.com/2010/01/julian-assange_flickr_cropped24.jpg?w=152&#038;h=181" alt="" width="152" height="181" /></a></em></em> a better place. The project could play in the same league as success stories like Wikipedia or <span id="more-507"></span></em><em>Indymedia. After a highly acclaimed <a href="http://events.ccc.de/congress/2009/Fahrplan/events/3567.en.html">lecture</a> at the 26th <a href="http://events.ccc.de/congress/2009/wiki/Main_Page">Congress</a> of the Chaos Computer Club in Berlin, I had the opportunity to interview Julian Assange, the most prominent Wikileaks-character on how to finance such a website. The question seems to be pressing.</em></p>
+<p><em><strong><a href="https://flattr.com/thing/25668/Leak-o-nomy-The-Economy-of-Wikileaks-Interview-with-Julian-Assange"><img class="alignright size-full wp-image-2085" title="Flattr-Button" src="http://stefanmey.files.wordpress.com/2010/11/flattr-button2.jpg?w=114&#038;h=26" alt="" width="114" height="26" /></a></strong>(by <strong><a href="http://stefanmey.wordpress.com/2009/08/02/uber-mich/">Stefan Mey</a></strong>: Ex-Student (Journalism/ Sociology), Blogger and Founder of the <a href="http://www.loverty.de/blog/">Onlinedating Startup Loverty</a>)</em></p>
+<p><strong>At the moment [1/<a href="http://stefanmey.files.wordpress.com/2010/01/screenshot-wikileaks-30-12-2009.png">01</a>/10] Wikileaks.org has an unusual appearance. The website is locked down in order to generate money. How did you decide in favor of this tough step?</strong></p>
+<p>In part, this is a desire for us to to enforce self-discipline. It is for us a way to ensure that everyone who is involved stops normal work and actually spends time raising revenue. That’s hard for us, because we promise our sources that we will do something about their situation.</p>
+<p><strong>So, you strike? </strong></p>
+<p>Yes, it’s similar to what unions do  when they go on strike. They remind people that their labour has value by withdrawing supply entirely. We give free and important information to the world every day. But when the supply is infinite in the sense that everyone is able to download what we publish, the perceived value starts to reduce down to zero. So by withdrawing supply and making our supply to zero, people start to once again perceive the value of what we are doing.</p>
+<p><strong>Do you urgently need money?</strong></p>
+<p>We have lots of very significant upcoming releases, significant in terms of bandwidth, but even more significant in terms of amount of labour they will require to process and in terms of legal attacks we will get. So we need to be in a stronger position before we can publish the material.</p>
+<p><strong>In mainstream media as well as in non-commercial media there are two important questions. What does it cost? And how is it financed? Would you please first describe the cost side …</strong></p>
+<p>By far the biggest cost is people. That’s also a cost that scales with operations. The more material we go through, the more the management and labour costs are. People need to write summaries of the material and see whether it’s true or not. In the moment everyone is paying himself, but that can’t last forever.</p>
+<p><strong>How big is the core team of WikiLeaks?</strong></p>
+<p>There are probably five people that do it 24 hours a day. And then there are 800 people who do it occasionally throughout the year. And in between there is a spectrum.</p>
+<p><strong>How do you and the other four guys who work full time without salaries finance living costs? </strong></p>
+<p>I have made money in the Internet. So I have enough money to do that, but also not forever. And the other four guys, in the moment they are also able to self-finance.</p>
+<p><strong>Was Wikileaks your idea as many <a href="http://www.theaustralian.com.au/news/rudd-government-blacklist-hacker-monitors-police/story-e6frg8yx-1225718288350">assumed</a>?</strong></p>
+<p>I don’t call myself a founder.</p>
+<p><strong>Nobody really knows about the founders, says Wikipedia …</strong></p>
+<p>Yes. This is simply because some of the people in the initial founding group are refugees, refugees from China and other places. And they still have family back in their home countries.</p>
+<p><strong>So at the moment the labour costs are still hypothetical, but the big costs that you really have to pay bills for are servers, office, etc.?</strong></p>
+<p>On the bandwidth side, the backing is costly as well when we get big spikes. Then there are registrations, bureaucracy, dealing with bank accounts and this sort of stuff. Because we are not in one location, it doesn’t make sense for us to have headquarters. People have their own offices across the world.</p>
+<p><strong>What about cost for lawsuits?</strong></p>
+<p>We don’t have to pay for our lawyer’s time. Hundred of thousands or millions dollars’  worth of lawyer time are being donated. But we still have to pay things like photocopying and court filing. And so far we have never lost a case, there were no penalties or compensations to pay.</p>
+<p><strong>So all in all, can you give figures about how much money Wikileaks needs in one year?</strong></p>
+<p>Propably 200 000, that’s with everyone paying themselves. But there are people who can’t afford to continue being involved fulltime unless they are paid. For that I would say maybe it’s 600 000 a year.</p>
+<p><a href="http://stefanmey.files.wordpress.com/2010/01/julian-assange_wikileaks8.png"><img class="alignleft size-full wp-image-600" title="Julian Assange_Wikileaks" src="http://stefanmey.files.wordpress.com/2010/01/julian-assange_wikileaks8.png?w=182&#038;h=445" alt="Julian Assange is an activist and Internet entrepreneur and was a prominent teenage hacker. He is a member of the Wikileaks Advisory Board and their spokesperson. Together with Daniel Schmitt of Wikileaks Germany he presented the work of the website at the 26th Chaos Communication Congress in Berlin. The Australian with the charisma of a Steve Jobs received standing ovation. " width="182" height="445" /></a></p>
+<p><strong>Now let’s talk about revenues, your only visible revenue stream is donations …</strong></p>
+<p>Private donations. We refuse government and corporate donations. In the moment most of the money comes from the journalists, the lawyers or the technologists who are personally involved. Only about ten percent are from online donations. But that might increase.</p>
+<p><strong>At the bottom of the site is a list of your “steadfast supporters”, media organisations and companies like AP, Los Angeles Times or The National Newspaper Association. What do they do for you?</strong></p>
+<p>They give their lawyers, not cash.</p>
+<p><strong>Why do the they help you? Probably not out of selflessness.</strong></p>
+<p>Two things: They see us as an organisation that makes it easier for them to do what they do. But they also see us as the thin end of the wedge. We tackle the hardest publishing cases. And if we are defeated, maybe they will be next in line. In other words: If Wikileaks.org goes down as a result of a legal action, the same precedence can be used to take down nytimes.com the next day or the German Spiegelonline.</p>
+<blockquote><p>If you can bring these costs per word down you can get more words of investigative journalism and publish even in a company that wants to maximize profit.</p></blockquote>
+<p><strong>My explanation was that maybe they do it because they know that what you do is actually their job, but they don’t have the money to do it.</strong></p>
+<p>Maybe. The cost per word in investigative journalism is high. We make it a little bit cheaper for them. If you can bring these costs per word down you can get more words of investigative journalism and publish even in a company that wants to maximize profit, because we do some of the expensive sourcing. And there is another really big cost, namely the threat of legal action. We take the most legally difficult part, which is not the story, but usually the backing documents. As a result there is less chance of legal action against the publisher. So we help them to bring their costs per word in investigative journalism down.</p>
+<p><strong>You need to motivate two groups of people, in order to make the site run, the whistleblowers and the journalists. What are the motivations for whistleblowers?</strong></p>
+<p>Usually they are incenced morally by something. Very rarely actually they want revenge or just to embarrass some organisation. So that’s their incentive, to satisfy this feeling. Actually we would have no problem giving sources cash. We don’t do that, but for me there is no reason why only the lawyers and the journalists should be compensated for their effort. Somebody is taking the risk to do something and this will end up benefiting the public.</p>
+<p><strong>But then the legal problem would become much bigger.</strong></p>
+<p>Yes, but we’re not concerned about that. We could do these transfer payments to a jurisdiction like Belgium which says, that the authorities are not to use any means to determine the connection between the journalist and their source. And this would include the banking system.</p>
+<p><strong>On the other hand, you experiment with incentives for journalists. This sounds weird at first. Why do you have to give them additional incentives so they use material you offer them for free?</strong></p>
+<p>It’s not that easy. Information has value, generally in proportion to the supply of this information being restricted. Once everyone has the information, another copy of the information has no value.</p>
+<blockquote><p>Okay, they want to spend their time on 200 pages&#8230; the more evidence there is of some scandal and the more inmportant the scandal, the less likely it is that the press will write about it. <span style="text-decoration:underline;">(listen in to the interview)</span> <span style='text-align:left;display:block;'><p><object type='application/x-shockwave-flash' data='http://s2.wp.com/wp-content/plugins/audio-player/player.swf?m=1292292185g' width='290' height='24' id='audioplayer1'><param name='movie' value='http://s2.wp.com/wp-content/plugins/audio-player/player.swf?m=1292292185g' /><param name='FlashVars' value='&amp;bg=0xf8f8f8&amp;leftbg=0xeeeeee&amp;lefticon=0x666666&amp;rightbg=0xcccccc&amp;rightbghover=0x999999&amp;righticon=0x666666&amp;righticonhover=0xffffff&amp;text=0x666666&amp;slider=0x666666&amp;track=0xFFFFFF&amp;border=0x666666&amp;loader=0x9FFFB8&amp;soundFile=http%3A%2F%2Fstefanmey.wordpress.com%2Ffiles%2F2010%2F01%2Fjulian-assange-zitat-13.mp3' /><param name='quality' value='high' /><param name='menu' value='false' /><param name='bgcolor' value='#FFFFFF' /><param name='wmode' value='opaque' /></object></p></span></p></blockquote>
+<p><strong>But nearly every journalist in the U.S. has daily access to the material of a news agency like AP.</strong></p>
+<p>The material of AP is ready to go straight into the newspaper. Our material requires additional investment. So when we release an important leak, it requires an important, intelligent journalist who is politically well connected. Those journalists have significant opportunity costs. Okay, they want to spend their time on 200 pages. In order for that to be profitable they need to make sure that they will come out with an exclusive at the end. But if it is perceived to be something of interest, it is probable that also other people will be working on it at that moment. And when they publish is unpredictable. That produces the counter-intuitive outcome that the more evidence there is of some scandal and the more important the scandal, the less likely it is that the press will write about it. If there is no exclusivity.</p>
+<p><strong>In Germany you made an exclusivity deal with two media companies, with Stern and Heise. Are you satisfied with these kind of deals?</strong></p>
+<p>We have done this in other countries before. Generally we have been satisfied. The problem is that it takes too much time to manage. To make a contract, and to determine who should have the exclusivity. Someone can say, oh, we will do a good story. We are going to maximize the political impact. And then they won’t do it. How do we measure this?</p>
+<p><strong>You want to make sure that if you give them the exclusivity that they really do what they promise to do …</strong></p>
+<p>Yes. One thing that can’t be faked is how much money they pay. If you have an auction and a media organisation pays the most, then they are predicting, that they will benefit the most from publishing the story. That is, they will have the maximum number of readers. So this is a very good way to measure who should have the exclusivity. We tried to do it as an experiment in Venezuela .</p>
+<p><strong>Why Venezuela?</strong></p>
+<p>Because of the character of the document. We had 7 000 e-mails from Freddy Balzan, he was Hugo Chavez’s former speech writer and also the former ambassador to Argentinia. We knew that this document would have this problem, that it was big and political important, therefore probably no one would write anything about it for the reason I just said.</p>
+<p><strong>What happened?</strong></p>
+<p>This auction proved to be a logistical nightmare. Media organisations wanted access to the material before they went to auction. Consequently we would get them to sign non-disclosure agreements, chop up the material and release just every second page or every second sentence.That proved to distracting to all the normal work we were doing, so that we said, forget it, we can’t do that. We just released the material as normal. And that’s precisely what happened: no one wrote anything at all about those 7 000 Emails. Even though 15 stories had appeared about the fact that we were holding the auction.</p>
+<p><strong>The experiment failed.</strong></p>
+<p>The experiment didn’t fail; the experiment taught us about what the burdens were. We would actually need a team of five or six people whose job was just to arrange these auctions.</p>
+<p><strong>You plan to continue the auction idea in the future …</strong></p>
+<p>We plan to continue it, but we know it will take more resources. But if we pursue that we will not do that for single documents. We will instead offer a subscription. This would be much simpler. We would only have the overhead of doing the auction stuff every three months or six months, and not for every document.</p>
+<p><strong>So the exclusivity of the story will run out after three months?</strong></p>
+<p>No, there will be exclusivity in terms of different time windows in access to the material. As an example: there will be an auction for North America. And you will be ranked in the auction. The media organisation which bids most in the auction would get access to it first, the one who bids second will get access to it second and so on. Media organisations would have a subscription to Wikileaks.</p>
+<p><strong>They would have timely privileged access to all Wikileaks documents that are relevant for North America …</strong></p>
+<p>Yes. Let’s imagine there are only two companies in the auction. And one pays double what the other one pays. And let’s say the source says they want the document to be published in one month’s time. So there is a one month window where the journalists have time to investigate and write about the material. The organisation that pays the most for it gets it immediately, so therefore they would be able to do a more comprehensive story. Then the organisation that pays half as much gets it half the time later, they get the documents two weeks later. And then after one month they both publish.</p>
+<p><strong>That sounds promising. Wouldn’t then the financial problem be solved?</strong></p>
+<p>It depends on how many resources the auction itself takes. And media themselves don’t have so much money at all. But all in all I think we only would have to have a few bid cases per year, that would be enough to finance it.</p>
+<p><a href="http://stefanmey.files.wordpress.com/2010/01/wordcloud-wikileaks-interview-wordle-net.png"><img class="alignnone size-full wp-image-510" title="Wordcloud Wikileaks-Interview (Wordle.net)" src="http://stefanmey.files.wordpress.com/2010/01/wordcloud-wikileaks-interview-wordle-net.png?w=500&#038;h=251" alt="" width="500" height="251" /></a></p>
+<p><strong>Update</strong>: Did you like the interview? You can nominate the German version as &#8222;Best Blogtext&#8220; until next Sat, <strong>Dez, 04</strong>. In the following days you can vote for it. Thanks. Where? At the <strong><a href="http://www.mywebwork.de/fiene.tv/blogger2010/">Blogger 2010-Award</a></strong>.</p>
+<p><strong>Links</strong>: This interview in <a href="http://stefanmey.wordpress.com/2010/01/01/leak-o-nomy-die-okonomie-hinter-wikileaks/">German</a>./ Cross-posted at <a href="http://onlinejournalismblog.com/2010/01/17/leak-o-nomy-the-economy-of-wikileaks/">Onlinejournalismblog</a>/ The interview as (trashy) <a href="http://www.xtranormal.com/watch/5966145/">Xtranormal</a>-Video/ Julian Assange&#8217;s hacking novel (1997) about the Internatioal Computer Underground (<a href="http://www.xs4all.nl/~suelette/underground/Underground.pdf">PDF</a>)</p>
+<p>You want to <strong>translate </strong>this interview for your website or for your magazine? Write me an <a href="http://stefanmey.wordpress.com/2009/08/02/uber-mich/">Email</a>.</p>
+											</div><!-- .entry-content -->
+
+					<div class="entry-info">
+						Dieser Artikel wurde veröffentlicht in <a href="http://de.wordpress.com/tag/interviews/" title="Alle Artikel in Interviews ansehen" rel="category tag">Interviews</a> und mit <a href="http://de.wordpress.com/tag/counterpublics/" rel="tag">Counterpublics</a>, <a href="http://de.wordpress.com/tag/julian-assange/" rel="tag">Julian Assange</a>, <a href="http://de.wordpress.com/tag/whistleblowing/" rel="tag">Whistleblowing</a>, <a href="http://de.wordpress.com/tag/wikileaks/" rel="tag">Wikileaks</a> getaggt. Füge den <a href="http://stefanmey.wordpress.com/2010/01/04/leak-o-nomy-the-economy-of-wikileaks/" title="Permalink zu Leak-o-nomy: The Economy of Wikileaks (Interview with Julian&nbsp;Assange)" rel="bookmark">Permalink</a> zu Deinen Favoriten hinzu.											</div><!-- .entry-info -->
+				</div><!-- #post-## -->
+
+				<div id="nav-below" class="navigation">
+					<div class="nav-previous"><a href="http://stefanmey.wordpress.com/2010/01/01/leak-o-nomy-die-okonomie-hinter-wikileaks/" rel="prev"><span class="meta-nav">&larr;</span> Leak-o-nomy: Die Ökonomie hinter WikiLeaks (Interview mit Julian&nbsp;Assange)</a></div>
+					<div class="nav-next"><a href="http://stefanmey.wordpress.com/2010/02/10/wikileaks-la-economia-de-wikileaks/" rel="next">Leak-o-nomy: La economía de&nbsp;Wikileaks <span class="meta-nav">&rarr;</span></a></div>
+				</div><!-- #nav-below -->
+
+				<div id="wpl-likebox"><div id="wpl-button"><a href='http://stefanmey.wordpress.com/2010/01/04/leak-o-nomy-the-economy-of-wikileaks/?like=1&amp;_wpnonce=200a906d67' title='I like this post' class='like needs-login'><span>Like</span></a></div><div id="wpl-count">Be the first to like this post.</div></div>
+<div id="comments">
+	
+	
+			<h3 id="comments-title"> 61 Antworten zu <span>Leak-o-nomy: The Economy of Wikileaks (Interview with Julian&nbsp;Assange)</span> </h3>
+
+		
+		<ol class="commentlist">
+				<li class="post pingback">
+		<p>Pingback: <a href='http://ytcyan.xsrv.jp/bloga/?p=32' rel='external nofollow' class='url'>WikiLeaksのまとめサイトネットでお金儲け　簡単無料情報 | ネットでお金儲け　簡単無料情報</a></p>
+	</li>
+	<li class="post pingback">
+		<p>Pingback: <a href='http://www.onzestem.eu/2010/12/oorlog-op-internet-het-financiele-netwerk-achter-wikileaks/' rel='external nofollow' class='url'>Oorlog op internet: het financiële netwerk achter WikiLeaks</a></p>
+	</li>
+	<li class="post pingback">
+		<p>Pingback: <a href='http://zito.biz/fuckyou/2010/12/364/' rel='external nofollow' class='url'>Julian Assange Named Times Man of the Year!! | Fuck You!</a></p>
+	</li>
+	<li class="post pingback">
+		<p>Pingback: <a href='http://zunguzungu.wordpress.com/2010/12/03/wikileaks-now/' rel='external nofollow' class='url'>Wikileaks, Now &laquo; zunguzungu</a></p>
+	</li>
+	<li class="post pingback">
+		<p>Pingback: <a href='http://cogitoergosum.co.cc/2010/12/02/sos-save-wkikleaks-founder-julian-assange/' rel='external nofollow' class='url'>SOS: Save Wikileaks Founder Julian Assange &laquo; News, Views and Reviews: Sid Harth</a></p>
+	</li>
+	<li class="post pingback">
+		<p>Pingback: <a href='http://stoptheinvasionoforegon.wordpress.com/2010/12/02/julian-paul-assange-wikileaks-obama-clinton-hypocrisy/' rel='external nofollow' class='url'>Julian Paul Assange, WikiLeaks &amp; Obama- Clinton Hypocrisy &laquo; Stoptheinvasionoforegon&#8217;s Blog</a></p>
+	</li>
+	<li class="post pingback">
+		<p>Pingback: <a href='http://girtabaix.wordpress.com/2010/12/02/just-a-copy-to-the-article-julian-assange-hacking-on-the-electronic-frontier/' rel='external nofollow' class='url'>just a copy to the article :Julian Assange: hacking on the electronic frontier | Espace perso de jean louis</a></p>
+	</li>
+	<li class="post pingback">
+		<p>Pingback: <a href='http://ramkshrestha.wordpress.com/2010/11/30/what-is-wikileaks-in-fact/' rel='external nofollow' class='url'>What is WikiLeaks in fact? &laquo; Nepal &#8211; the country of the Mt. Everest and the Buddha</a></p>
+	</li>
+	<li class="post pingback">
+		<p>Pingback: <a href='http://www.uspoliticsonline.com/war-peace/63457-wikileaks-23.html#post1803670' rel='external nofollow' class='url'>Wikileaks... - Page 23 - U.S. Politics Online: A Political Discussion Forum</a></p>
+	</li>
+	<li class="post pingback">
+		<p>Pingback: <a href='http://clbritis.info/uncategorized/wikileaks-wikipedia-the-free-encyclopedia.html' rel='external nofollow' class='url'>WikiLeaks – Wikipedia, the free encyclopedia | Clbritis.info</a></p>
+	</li>
+	<li class="post pingback">
+		<p>Pingback: <a href='http://inword.info/wikileaks-wikipedia-the-free-encyclopedia.htm' rel='external nofollow' class='url'>WikiLeaks – Wikipedia, the free encyclopedia @ Inword.info</a></p>
+	</li>
+	<li class="post pingback">
+		<p>Pingback: <a href='http://ojb.journallocal.co.uk/2010/01/17/leak-o-nomy-the-economy-of-wikileaks/' rel='external nofollow' class='url'>Leak-o-nomy: The Economy of Wikileaks | Online Journalism Blog</a></p>
+	</li>
+	<li class="post pingback">
+		<p>Pingback: <a href='http://www.solomonscandals.com/?p=7423' rel='external nofollow' class='url'>WikiLeaker accused of sex crimes: How will the media handle his case compared to Al Gore&rsquo;s? Will respectability quotients count? | The Solomon Scandals</a></p>
+	</li>
+	<li class="post pingback">
+		<p>Pingback: <a href='http://www.campcampaign.com/wikileaks-gives-new-meaning-to-the-term-expose/' rel='external nofollow' class='url'>WikiLeaks Gives New Meaning to the Term &#8220;Exposé&#8221; | CampCampaign - Politics From All Sides</a></p>
+	</li>
+	<li class="comment even thread-even depth-1" id="li-comment-370">
+		<div id="comment-370">
+		<div class="comment-author vcard">
+			<img alt='' src='http://0.gravatar.com/avatar/6373eeb951a768b2186ec04d1ad5d8c2?s=48&amp;d=identicon&amp;r=G' class='avatar avatar-48' height='48' width='48' />
+			<cite class="fn">exxamute</cite>
+
+			<span class="comment-meta commentmetadata">
+				|
+				<a href="http://stefanmey.wordpress.com/2010/01/04/leak-o-nomy-the-economy-of-wikileaks/#comment-370">
+				Juli 30, 2010 um 12:54</a>
+					|
+					<a class='comment-reply-link' href='/2010/01/04/leak-o-nomy-the-economy-of-wikileaks/?replytocom=370#respond' onclick='return addComment.moveForm("comment-370", "370", "respond", "507")'>Antworten</a>								</span><!-- .comment-meta .commentmetadata -->
+		</div><!-- .comment-author .vcard -->
+		
+		<div class="comment-body"><p>good.</p>
+</div>
+
+	</div><!-- #comment-##  -->
+
+	</li>
+	<li class="post pingback">
+		<p>Pingback: <a href='http://newsfeed.time.com/2010/07/26/fast-facts-wikileaks/' rel='external nofollow' class='url'>Fast Facts: Wikileaks - TIME NewsFeed</a></p>
+	</li>
+	<li class="post pingback">
+		<p>Pingback: <a href='http://kultura20.blog.polityka.pl/?p=848' rel='external nofollow' class='url'>Kultura 2.0 &raquo; Archiwum bloga &raquo; Hakując wszystko / warto działać ostrożnie</a></p>
+	</li>
+	<li class="post pingback">
+		<p>Pingback: <a href='http://www.gmoomaw.com/2010/05/12/whistleblowing-2-0-journalism-lessons-from-wikileaks/' rel='external nofollow' class='url'>Whistleblowing 2.0: Journalism Lessons from WikiLeaks | Graham Moomaw</a></p>
+	</li>
+	<li class="post pingback">
+		<p>Pingback: <a href='http://kathlynclore.com/?p=656' rel='external nofollow' class='url'>Kathlyn Clore &raquo; Blog Archive &raquo; What is Wikileaks?</a></p>
+	</li>
+	<li class="post pingback">
+		<p>Pingback: <a href='http://www.cookingideas.es/wikileaks-que-donde-y-por-que-20100407.html' rel='external nofollow' class='url'>Wikileaks: Qué, dónde y por qué | Cooking Ideas</a></p>
+	</li>
+	<li class="post pingback">
+		<p>Pingback: <a href='http://www.elpuercoespin.com.ar/?p=702' rel='external nofollow' class='url'>Si Salander viviera&#8230;</a></p>
+	</li>
+	<li class="post pingback">
+		<p>Pingback: <a href='http://www.mediacyclone.eu/portal/?p=390' rel='external nofollow' class='url'>| Mediacyclone | Leak-o-nomy: The Economy of Wikileaks |</a></p>
+	</li>
+	<li class="post pingback">
+		<p>Pingback: <a href='http://richardbrenneman.wordpress.com/2010/02/25/iceland-the-banksters-and-libel-tourism/' rel='external nofollow' class='url'>Iceland, the banksters, and &#8216;libel tourism&#8217; &laquo; eats shoots &#39;n leaves</a></p>
+	</li>
+	<li class="post pingback">
+		<p>Pingback: <a href='http://alper.nl/dingen/2010/02/een-drakenschip-voor-informatievrijheid/' rel='external nofollow' class='url'>Een drakenschip voor informatievrijheid at Alper.nl</a></p>
+	</li>
+	<li class="post pingback">
+		<p>Pingback: <a href='http://www.arthurmag.com/2010/02/05/leakier-than-thou/' rel='external nofollow' class='url'>LEAKIER THAN THOU - ARTHUR MAGAZINE</a></p>
+	</li>
+	<li class="post pingback">
+		<p>Pingback: <a href='http://www.theitchronicle.com/2010/02/02/wikileaks-shuts-down-temporarily/' rel='external nofollow' class='url'>Wikileaks Shuts Down Temporarily (?) | The IT Chronicle</a></p>
+	</li>
+	<li class="post pingback">
+		<p>Pingback: <a href='http://www.idea.leeds.ac.uk/penblog/2010/02/02/wikileaks-unplugged/' rel='external nofollow' class='url'>WikiLeaks unplugged &laquo; Added values: professional and business ethics</a></p>
+	</li>
+	<li class="post pingback">
+		<p>Pingback: <a href='http://photomaniacal.com/tech/in-need-of-funding-wikileaks-suspends-service' rel='external nofollow' class='url'>photomaniacal.com &raquo; Blog Archive &raquo; In Need of Funding, Wikileaks Suspends Service</a></p>
+	</li>
+	<li class="post pingback">
+		<p>Pingback: <a href='http://www.r4p.info/?p=124' rel='external nofollow' class='url'>Latest Tech News | Techology Exlpored &raquo; In Need of Funding, Wikileaks Suspends Service</a></p>
+	</li>
+	<li class="post pingback">
+		<p>Pingback: <a href='http://www.re-visto.de/?p=937' rel='external nofollow' class='url'>Wikileaks: &#8220;Hacemos el periodismo de investigación más barato&#8221; - re-visto</a></p>
+	</li>
+	<li class="post pingback">
+		<p>Pingback: <a href='http://blog.indexoncensorship.org/2010/01/29/dig-deep-for-wikileaks/' rel='external nofollow' class='url'>Dig deep for Wikileaks « Free Speech Blog</a></p>
+	</li>
+	<li class="post pingback">
+		<p>Pingback: <a href='http://www.guardian.co.uk/commentisfree/libertycentral/2010/jan/29/wikileaks-shut-down' rel='external nofollow' class='url'>Dig deep for Wikileaks « guardian.co.uk/commentisfree/libertycentral</a></p>
+	</li>
+	<li class="post pingback">
+		<p>Pingback: <a href='http://chengjun.wordpress.com/2010/01/25/paypal%E5%86%BB%E7%BB%93wikileaks%E5%B8%90%E6%88%B7/' rel='external nofollow' class='url'>PayPal冻结Wikileaks帐户 « Chengjun's Blog</a></p>
+	</li>
+	<li class="post pingback">
+		<p>Pingback: <a href='http://www.andreashetland.com/blog/2010/01/24/biweekly-links-for-24-january-2010/' rel='external nofollow' class='url'>Biweekly Links for 24 January 2010 « Andreas Hetland’s Blog</a></p>
+	</li>
+	<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-85">
+		<div id="comment-85">
+		<div class="comment-author vcard">
+			<img alt='' src='http://0.gravatar.com/avatar/4a2a84d34ecb9d048744b6f22c49da2a?s=48&amp;d=identicon&amp;r=G' class='avatar avatar-48' height='48' width='48' />
+			<cite class="fn"><a href='http://samamuze.blogspot.com' rel='external nofollow' class='url'>Sam A Muze</a></cite>
+
+			<span class="comment-meta commentmetadata">
+				|
+				<a href="http://stefanmey.wordpress.com/2010/01/04/leak-o-nomy-the-economy-of-wikileaks/#comment-85">
+				Januar 23, 2010 um 18:10</a>
+					|
+					<a class='comment-reply-link' href='/2010/01/04/leak-o-nomy-the-economy-of-wikileaks/?replytocom=85#respond' onclick='return addComment.moveForm("comment-85", "85", "respond", "507")'>Antworten</a>								</span><!-- .comment-meta .commentmetadata -->
+		</div><!-- .comment-author .vcard -->
+		
+		<div class="comment-body"><p>This whole thing about data havens and geo-politics through file sharing has got me soo excited; <a href="http://samamuze.blogspot.com/2010/01/data-heaven.html" rel="nofollow">http://samamuze.blogspot.com/2010/01/data-heaven.html</a></p>
+</div>
+
+	</div><!-- #comment-##  -->
+
+	</li>
+	<li class="post pingback">
+		<p>Pingback: <a href='http://blogs.cisco.com/security/comments/wikileaks_and_the_economics_of_information_disclosure/' rel='external nofollow' class='url'>Wikileaks and the Economics of Information Disclosure « blogs.cisco.com/security</a></p>
+	</li>
+	<li class="post pingback">
+		<p>Pingback: <a href='http://www.bo-ko.com/2010-01-13/donate-to-wikileaks-today' rel='external nofollow' class='url'>Donate to Wikileaks today « Bo-Ko</a></p>
+	</li>
+	<li class="post pingback">
+		<p>Pingback: <a href='http://rationalitate.blogspot.com/2010/01/wikileaks-tragedy-of-commons.html' rel='external nofollow' class='url'>The Wikileaks tragedy of the commons? « Rationalitate</a></p>
+	</li>
+	<li class="post pingback">
+		<p>Pingback: <a href='http://theseditionist.wordpress.com/2010/01/15/does-it-get-better-than-this/' rel='external nofollow' class='url'>Does it Get Better than this? &laquo; Out Of My Mind</a></p>
+	</li>
+	<li class="post pingback">
+		<p>Pingback: <a href='http://blog.k1789.org/?p=727' rel='external nofollow' class='url'>על בני אדם וחיות אחרות &raquo; עוד מחדשות ה- slashdot</a></p>
+	</li>
+	<li class="post pingback">
+		<p>Pingback: <a href='http://d.hatena.ne.jp/yomoyomo/20100114/wikileaks' rel='external nofollow' class='url'>リーク経済？ Wikileaks創始者（？）インタビュー « YAMDAS現更新履歴</a></p>
+	</li>
+	<li class="post pingback">
+		<p>Pingback: <a href='http://stefanmey.wordpress.com/2009/08/12/was-ist-medienokonomie/' rel='external nofollow' class='url'>A proposal from wikileaks to create a switzerland of bits« Brimdeforest</a></p>
+	</li>
+	<li class="post pingback">
+		<p>Pingback: <a href='http://www.lemagit.fr/article/france-cloud-computing-semantique-wiki-amazon-culture-infrastructure/5301/1/semantique-entreprise-business-wikileaks-mitterrand-sur-tessier-surchauffe-chez-amazon-infrast' rel='external nofollow' class='url'>Le business de Wikileaks « LeMagIT</a></p>
+	</li>
+	<li class="post pingback">
+		<p>Pingback: <a href='http://www.perday.tv/news/archives/99565' rel='external nofollow' class='url'>Wikileaks 经济学 « 每日IT新闻，最新IT资讯，聚合多站点消息，保证你与世界同步</a></p>
+	</li>
+	<li class="post pingback">
+		<p>Pingback: <a href='http://boycottnovell.com/2010/01/13/simplymepis-8-0-15/' rel='external nofollow' class='url'>Links 13/1/2010 | Boycott Novell</a></p>
+	</li>
+	<li class="post pingback">
+		<p>Pingback: <a href='http://www.sgi.nu/diary/2010/01/13/the-failed-wikileaks-auction-of-venezuelan-diplomatic-email-messages/' rel='external nofollow' class='url'>The Failed Wikileaks Auction of Venezuelan Diplomatic Email Messages | Thoughtlets</a></p>
+	</li>
+	<li class="comment even thread-even depth-1" id="li-comment-60">
+		<div id="comment-60">
+		<div class="comment-author vcard">
+			<img alt='' src='http://1.gravatar.com/avatar/d62efd1adb64025065e4817b2e167ad4?s=48&amp;d=identicon&amp;r=G' class='avatar avatar-48' height='48' width='48' />
+			<cite class="fn">Hickson Hacie</cite>
+
+			<span class="comment-meta commentmetadata">
+				|
+				<a href="http://stefanmey.wordpress.com/2010/01/04/leak-o-nomy-the-economy-of-wikileaks/#comment-60">
+				Januar 13, 2010 um 03:59</a>
+					|
+					<a class='comment-reply-link' href='/2010/01/04/leak-o-nomy-the-economy-of-wikileaks/?replytocom=60#respond' onclick='return addComment.moveForm("comment-60", "60", "respond", "507")'>Antworten</a>								</span><!-- .comment-meta .commentmetadata -->
+		</div><!-- .comment-author .vcard -->
+		
+		<div class="comment-body"><p>Yes, release documents and emails from someone from the US administration and you could find yourself labeled an enemy combatant and become a non-person.</p>
+<p>I always thought Wikileaks was interesting without really caring but the more i find out the more I see its a lot like the self serving politically motivated manipulators like Reporter Sans Frontieres and Menard and Amnesty Inc and Oxfam&#8230;. except Wikileaks probably doenst have amazing office space like the 3 others.</p>
+</div>
+
+	</div><!-- #comment-##  -->
+
+	</li>
+	<li class="post pingback">
+		<p>Pingback: <a href='http://jetlib.com/news/2010/01/12/the-economy-of-wikileaks/' rel='external nofollow' class='url'>The Economy of Wikileaks | JetLib News</a></p>
+	</li>
+	<li class="post pingback">
+		<p>Pingback: <a href='http://besidestheobvious.posterous.com/tuesday-reads-0' rel='external nofollow' class='url'>Tuesday reads « besides the obvious</a></p>
+	</li>
+	<li class="post pingback">
+		<p>Pingback: <a href='http://linkscircle.blogspot.com/2010/01/leak-o-nomy.html' rel='external nofollow' class='url'>Leak-o-nomy « links.circle</a></p>
+	</li>
+	<li class="post pingback">
+		<p>Pingback: <a href='http://gorrie.posterous.com/the-wikileaks-international-whistleblower-sub' rel='external nofollow' class='url'>The Wikileaks international whistleblower subscription and auction supply model « Bad Penosterous</a></p>
+	</li>
+	<li class="post pingback">
+		<p>Pingback: <a href='http://www.gutierrez-rubi.es/2009/12/11/zw-195-wikileaks/' rel='external nofollow' class='url'>Antoni Gutiérrez-Rubí » ZW 195. Wikileaks</a></p>
+	</li>
+	<li class="post pingback">
+		<p>Pingback: <a href='http://techpresident.com/blog-entry/strike-wikileaks-says-freed-information-isnt-free' rel='external nofollow' class='url'>Strike! Wikileaks Says Freed Information Isn't Free « Personal Democracy Forum</a></p>
+	</li>
+	<li class="post pingback">
+		<p>Pingback: <a href='http://mediawatch.afp.com/?post/2010/01/11/Liens-vagabonds-11-janv' rel='external nofollow' class='url'>Liens vagabonds (11 janv) « AFP MediaWatch</a></p>
+	</li>
+	<li class="post pingback">
+		<p>Pingback: <a href='http://alfredo.octavio.net/index.php?id=1210#cmt' rel='external nofollow' class='url'>Wikileaks and the 7000 emails from the Venezuelan Government « Tyromaniac</a></p>
+	</li>
+	<li class="post pingback">
+		<p>Pingback: <a href='http://hourback.posterous.com/leak-o-nomy-the-economy-of-wikileaks-medien-O-1' rel='external nofollow' class='url'>Leak-o-nomy « hourback’s posterous</a></p>
+	</li>
+	<li class="post pingback">
+		<p>Pingback: <a href='http://twitter.com/lessig/statuses/7558734725' rel='external nofollow' class='url'>Lawrence Lessig « Twitter</a></p>
+	</li>
+	<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-50">
+		<div id="comment-50">
+		<div class="comment-author vcard">
+			<img alt='' src='http://0.gravatar.com/avatar/ad43902156e2a008d6966efbf269aa69?s=48&amp;d=identicon&amp;r=G' class='avatar avatar-48' height='48' width='48' />
+			<cite class="fn"><a href='https://p10.secure.hostingprod.com/@spyblog.org.uk/ssl/wikileak/2010/01/leak-o-nomy-the-economy-of-wikileaks---julian-assange-interviewed-by-stefan-mey.html' rel='external nofollow' class='url'>Julian Assange interviewed by Stefan Mey wikileak « WikiLeak.org discussion blog</a></cite>
+
+			<span class="comment-meta commentmetadata">
+				|
+				<a href="http://stefanmey.wordpress.com/2010/01/04/leak-o-nomy-the-economy-of-wikileaks/#comment-50">
+				Januar 9, 2010 um 05:53</a>
+					|
+					<a class='comment-reply-link' href='/2010/01/04/leak-o-nomy-the-economy-of-wikileaks/?replytocom=50#respond' onclick='return addComment.moveForm("comment-50", "50", "respond", "507")'>Antworten</a>								</span><!-- .comment-meta .commentmetadata -->
+		</div><!-- .comment-author .vcard -->
+		
+		<div class="comment-body"><p>A few observations on this interesting interview:</p>
+<p>The US and EU governments seem to be able to legally snoop on the Society for Worldwide Interbank Financial Telecommunication (SWIFT) international banking money transfer system, which is  legally based in Belgium,</p>
+<p>So  does Belgian law actually provide any whistleblower source protection, once there is a financial audit trail, and the authorities invoke magic words like &#8222;national security&#8220; or &#8222;terrorism&#8220; or &#8222;serious organised crime&#8220; or &#8222;money laundering&#8220;  investigations etc. ?</p>
+<p>Are mainstream media organisations really in a legal position to be able to sign exclusivity subscription deals with WikiLeakS.org ?</p>
+</div>
+
+	</div><!-- #comment-##  -->
+
+	</li>
+	<li class="post pingback">
+		<p>Pingback: <a href='http://www.journalismhope.com/journalism-topics/paying-for-journalism/the-economy-of-wikileaks/' rel='external nofollow' class='url'>The Economy of Wikileaks | Journalism Hope</a></p>
+	</li>
+	<li class="post pingback">
+		<p>Pingback: <a href='http://www.facebook.com/?ref=logo#/group.php?gid=235609372404&amp;ref=search&amp;sid=1705554702.1292888367..1' rel='external nofollow' class='url'>Money 4 Wikileaks « Facebook</a></p>
+	</li>
+	<li class="post pingback">
+		<p>Pingback: <a href='http://www.ubervu.com/conversations/stefanmey.wordpress.com/2010/01/04/leak-o-nomy-the-economy-of-wikileaks/' rel='external nofollow' class='url'>uberVU - social comments</a></p>
+	</li>
+		</ol>
+
+		
+	
+									<div id="respond">
+				<h3 id="reply-title">Einen Kommentar hinterlassen <small><a rel="nofollow" id="cancel-comment-reply-link" href="/2010/01/04/leak-o-nomy-the-economy-of-wikileaks/#respond" style="display:none;">Antwort abbrechen</a></small></h3>
+									<form action="http://stefanmey.wordpress.com/wp-comments-post.php" method="post" id="commentform">
+																			<p class="comment-notes">Deine Email-Adresse wird nicht veröffentlicht.</p>							<p class="comment-form-author"><label for="author">Name</label> <input id="author" name="author" type="text" value="" size="30" /></p>
+<p class="comment-form-email"><label for="email">E-Mail</label> <input id="email" name="email" type="text" value="" size="30" /></p>
+<p class="comment-form-url"><label for="url">Webseite</label><input id="url" name="url" type="text" value="" size="30" /></p>
+												<p class="comment-form-comment"><label for="comment">Kommentar</label><textarea id="comment" name="comment" cols="45" rows="8" aria-required="true"></textarea></p>						<p class="form-allowed-tags">Die kannst folgende <abbr title="HyperText Markup Language">HTML</abbr> Tags und Attribute verwenden:  <code>&lt;a href=&quot;&quot; title=&quot;&quot;&gt; &lt;abbr title=&quot;&quot;&gt; &lt;acronym title=&quot;&quot;&gt; &lt;b&gt; &lt;blockquote cite=&quot;&quot;&gt; &lt;cite&gt; &lt;code&gt; &lt;pre&gt; &lt;del datetime=&quot;&quot;&gt; &lt;em&gt; &lt;i&gt; &lt;q cite=&quot;&quot;&gt; &lt;strike&gt; &lt;strong&gt; </code></p>						<p class="form-submit">
+							<input name="submit" type="submit" id="submit" value="Kommentar absenden" />
+							<input type='hidden' name='comment_post_ID' value='507' id='comment_post_ID' />
+<input type='hidden' name='comment_parent' id='comment_parent' value='0' />
+						</p>
+						
+<input type="hidden" name="genseq" value="1293405669" />
+<p><input type="checkbox" name="subscribe" id="subscribe" value="subscribe" style="width: auto;" tabindex="6"/> <label class="subscribe-label" id="subscribe-label" for="subscribe">Benachrichtigung bei weiteren Kommentaren per E-Mail senden.</label></p><p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="4b93d35b0e" /></p>					</form>
+							</div><!-- #respond -->
+						
+</div><!-- #comments -->
+			
+			</div><!-- #content -->
+		</div><!-- #content-container -->
+
+
+		
+		<div id="primary" class="widget-area" role="complementary">
+			<ul class="xoxo">
+
+			<li id="blog_subscription-4" class="widget-container widget_blog_subscription"><h3 class="widget-title"><label for="subscribe-field"></label></h3>
+<form action="http://subscribe.wordpress.com" method="post" accept-charset="utf-8" id="subscribe-blog">
+					<p><input type="text" name="email" style="width: 95%; padding: 1px 2px" value="" id="subscribe-field"/></p>
+	
+	<input type="hidden" name="action" value="subscribe"/>
+	<input type="hidden" name="blog_id" value="1892477"/>
+	<input type="hidden" name="source" value="http://stefanmey.wordpress.com/2010/01/04/leak-o-nomy-the-economy-of-wikileaks/"/>
+	<input type="hidden" name="sub-type" value="widget"/>
+
+	<input type="hidden" id="_wpnonce" name="_wpnonce" value="972b40551e" /><input type="hidden" name="_wp_http_referer" value="/2010/01/04/leak-o-nomy-the-economy-of-wikileaks/" />
+	<p><input type="submit" value="Email-Abo des Blogs" /></p>
+</form>
+
+</li><li id="categories-3" class="widget-container widget_categories"><h3 class="widget-title">Kategorien</h3>		<ul>
+			<li class="cat-item cat-item-6763363"><a href="http://stefanmey.wordpress.com/category/uber-den-autor/" title="Alle unter Über den Autor abgelegten Artikel ansehen">Über den Autor</a>
+</li>
+	<li class="cat-item cat-item-45667080"><a href="http://stefanmey.wordpress.com/category/die-okonomie-von-blogs/" title="Alle unter Die Ökonomie von Blogs abgelegten Artikel ansehen">Die Ökonomie von Blogs</a>
+</li>
+	<li class="cat-item cat-item-18333"><a href="http://stefanmey.wordpress.com/category/dies-und-das/" title="Alle unter Dies und das abgelegten Artikel ansehen">Dies und das</a>
+</li>
+	<li class="cat-item cat-item-26545770"><a href="http://stefanmey.wordpress.com/category/grundlegendes-zu-medienokonomie/" title="Alle unter Grundlegendes zu Medienökonomie abgelegten Artikel ansehen">Grundlegendes zu Medienökonomie</a>
+</li>
+	<li class="cat-item cat-item-831"><a href="http://stefanmey.wordpress.com/category/interviews/" title="Alle unter Interviews abgelegten Artikel ansehen">Interviews</a>
+</li>
+	<li class="cat-item cat-item-31623265"><a href="http://stefanmey.wordpress.com/category/dies-und-das/katzers-kolumne/" title="Alle unter Katzers Kolumne abgelegten Artikel ansehen">Katzers Kolumne</a>
+</li>
+	<li class="cat-item cat-item-289005"><a href="http://stefanmey.wordpress.com/category/lesbares/" title="Alle unter Lesbares abgelegten Artikel ansehen">Lesbares</a>
+</li>
+	<li class="cat-item cat-item-28726068"><a href="http://stefanmey.wordpress.com/category/medien-geschaftsmodelle/" title="Alle unter Medien-Geschäftsmodelle abgelegten Artikel ansehen">Medien-Geschäftsmodelle</a>
+</li>
+	<li class="cat-item cat-item-20429"><a href="http://stefanmey.wordpress.com/category/startups/" title="Alle unter Startups abgelegten Artikel ansehen">Startups</a>
+</li>
+	<li class="cat-item cat-item-23528185"><a href="http://stefanmey.wordpress.com/category/uni-arbeiten/" title="Alle unter Uni-Arbeiten abgelegten Artikel ansehen">Uni-Arbeiten</a>
+</li>
+		</ul>
+</li>		<li id="recent-posts-3" class="widget-container widget_recent_entries">		<h3 class="widget-title">Letzte Artikel</h3>		<ul>
+				<li><a href="http://stefanmey.wordpress.com/2010/12/21/der-angriff-der-bucher-heuschrecken/" title="Der Angriff der&nbsp;Bücher-Heuschrecken">Der Angriff der&nbsp;Bücher-Heuschrecken</a></li>
+				<li><a href="http://stefanmey.wordpress.com/2010/11/16/rivva-frank-westphal-interviewuber-links-twitter/" title="&#8222;Facebook ist noch nicht spannend genug.&#8220; &#8211; Frank Westphal über Blog- und&nbsp;Twitter-Links">&#8222;Facebook ist noch nicht spannend genug.&#8220; &#8211; Frank Westphal über Blog- und&nbsp;Twitter-Links</a></li>
+				<li><a href="http://stefanmey.wordpress.com/2010/11/16/rivva-frank-westphal-intervie/" title="&#8222;Der Long Tail von Blogs ist schon vorhanden.&#8220; &#8211; Frank Westphal über&nbsp;Rivva">&#8222;Der Long Tail von Blogs ist schon vorhanden.&#8220; &#8211; Frank Westphal über&nbsp;Rivva</a></li>
+				<li><a href="http://stefanmey.wordpress.com/2010/11/08/interview-blogcharts-jens-schroeder_links/" title="&#8222;Ich will mich nicht zu sehr einmischen.&#8220; &#8211; Jens Schröder über&nbsp;Links">&#8222;Ich will mich nicht zu sehr einmischen.&#8220; &#8211; Jens Schröder über&nbsp;Links</a></li>
+				<li><a href="http://stefanmey.wordpress.com/2010/11/08/deutsche-blogcharts-interview-jens-schroeder/" title="&#8222;Eben nicht die kleinen Tagebuchblogs &#8230;&#8220; &#8211; Jens Schröder über die Deutschen&nbsp;Blogcharts">&#8222;Eben nicht die kleinen Tagebuchblogs &#8230;&#8220; &#8211; Jens Schröder über die Deutschen&nbsp;Blogcharts</a></li>
+				</ul>
+		</li><li id="archives-4" class="widget-container widget_archive"><h3 class="widget-title">Archiv</h3>		<ul>
+			<li><a href='http://stefanmey.wordpress.com/2010/12/' title='Dezember 2010'>Dezember 2010</a>&nbsp;(1)</li>
+	<li><a href='http://stefanmey.wordpress.com/2010/11/' title='November 2010'>November 2010</a>&nbsp;(4)</li>
+	<li><a href='http://stefanmey.wordpress.com/2010/10/' title='Oktober 2010'>Oktober 2010</a>&nbsp;(1)</li>
+	<li><a href='http://stefanmey.wordpress.com/2010/09/' title='September 2010'>September 2010</a>&nbsp;(3)</li>
+	<li><a href='http://stefanmey.wordpress.com/2010/06/' title='Juni 2010'>Juni 2010</a>&nbsp;(1)</li>
+	<li><a href='http://stefanmey.wordpress.com/2010/05/' title='Mai 2010'>Mai 2010</a>&nbsp;(6)</li>
+	<li><a href='http://stefanmey.wordpress.com/2010/04/' title='April 2010'>April 2010</a>&nbsp;(7)</li>
+	<li><a href='http://stefanmey.wordpress.com/2010/03/' title='März 2010'>März 2010</a>&nbsp;(4)</li>
+	<li><a href='http://stefanmey.wordpress.com/2010/02/' title='Februar 2010'>Februar 2010</a>&nbsp;(7)</li>
+	<li><a href='http://stefanmey.wordpress.com/2010/01/' title='Januar 2010'>Januar 2010</a>&nbsp;(2)</li>
+	<li><a href='http://stefanmey.wordpress.com/2009/12/' title='Dezember 2009'>Dezember 2009</a>&nbsp;(1)</li>
+	<li><a href='http://stefanmey.wordpress.com/2009/11/' title='November 2009'>November 2009</a>&nbsp;(1)</li>
+	<li><a href='http://stefanmey.wordpress.com/2009/10/' title='Oktober 2009'>Oktober 2009</a>&nbsp;(2)</li>
+	<li><a href='http://stefanmey.wordpress.com/2009/09/' title='September 2009'>September 2009</a>&nbsp;(4)</li>
+	<li><a href='http://stefanmey.wordpress.com/2009/08/' title='August 2009'>August 2009</a>&nbsp;(6)</li>
+		</ul>
+</li>		<li id="blog-stats" class="widget-container widget_statscounter">			<h3 class="widget-title">Blogstatistik</h3>			<ul>
+			<li>50,750 hits</li>
+			</ul>
+		</li><li id="image-4" class="widget-container widget_image"><h3 class="widget-title">Das Ökosystem des Online-Datings</h3><div style="overflow:hidden;"><a href="http://www.loverty.de/blog/2010/11/das-oekosystem-des-online-datings/"><img src="http://stefanmey.files.wordpress.com/2010/10/screenshot-loverty-blog-2.jpg?w=220&amp;h=92" class="aligncenter" width="220" height="92" /></a></div>
+</li><li id="image-3" class="widget-container widget_image"><h3 class="widget-title">Interview mit Julian Assange (WikiLeaks)</h3><div style="overflow:hidden;"><a href="http://stefanmey.wordpress.com/2010/01/01/leak-o-nomy-die-okonomie-hinter-wikileaks/"><img src="http://stefanmey.files.wordpress.com/2010/01/julian-assange_flickr_cropped.jpg?w=166&amp;h=166" class="aligncenter" width="166" height="166" /></a></div>
+</li><li id="rss_links-4" class="widget-container widget_rss_links"><ul><li><a href="http://stefanmey.wordpress.com/feed/" title="Subscribe to Posts">RSS - Posts</a></li></ul>
+</li>			</ul>
+		</div><!-- #primary .widget-area -->
+
+		
+			</div><!-- #content-box -->
+
+	<div id="footer" role="contentinfo">
+		
+
+		<div id="colophon">
+			Theme: <a href="http://theme.wordpress.com/themes/coraline/">Coraline</a> by <a href="http://automattic.com/">Automattic</a> <span class="generator-link"><a href="http://de.wordpress.com/?ref=footer" rel="generator">Bloggen Sie auf WordPress.com</a>.</span>
+		</div><!-- #colophon -->
+	</div><!-- #footer -->
+
+</div><!-- #container -->
+
+<script type="text/javascript">
+// <![CDATA[
+(function() {
+try{
+  if ( window.external &&'msIsSiteMode' in window.external) {
+    if (window.external.msIsSiteMode()) {
+      var jl = document.createElement('script');
+      jl.type='text/javascript';
+      jl.async=true;
+      jl.src='/wp-content/plugins/ie-sitemode/custom-jumplist.php';
+      var s = document.getElementsByTagName('script')[0];
+      s.parentNode.insertBefore(jl, s);
+    }
+  }
+}catch(e){}
+})();
+// ]]>
+</script>	<script type="text/javascript">
+	/* <![CDATA[ */
+		jQuery( function() {
+			
+			jQuery('#wpl-button > a.like').click( function(e) {
+				e.preventDefault();
+				
+				jQuery('#wpl-mustlogin').remove();
+
+				jQuery.post( 'http://stefanmey.wordpress.com/wp-admin/admin-ajax.php', { 
+					'action': 'wpl_record_stat',
+					'stat_name': 'loggedout_like_click'
+				} );
+
+				var tenMins = new Date();
+				tenMins.setTime( tenMins.getTime() + 600000 );
+				document.cookie = 'wpl_rand=a1872799d6; expires=' + tenMins.toGMTString() + '; domain=wordpress.com; path=/;';
+				
+				jQuery('#wpl-count').after( '\
+					<div id="wpl-mustlogin"> \
+						<form action="http://stefanmey.wordpress.com/wp-login.php" method="post"> \
+							<p>Just one more step to like this post:</p> \
+							<label><span>Benutzername</span> <input type="text" name="log" id="user_login" class="input" value="" size="20" tabindex="80" /></label> \
+							<label><span>Passwort</span> <input type="password" name="pwd" id="user_pass" class="input" value="" size="20" tabindex="81" /></label> \
+							<input type="submit" name="wp-submit" id="wp-submit" class="button-primary" value="Einloggen" tabindex="82" /> \
+							<input type="hidden" name="redirect_to" value="http://stefanmey.wordpress.com/2010/01/04/leak-o-nomy-the-economy-of-wikileaks/?like=1" /> \
+							<input type="hidden" name="wpl_rand" value="a1872799d6" /> \
+							<p>Not a member yet? <a href="http://wordpress.com/signup/?ref=likebox" id="wpl-signup-link">Sign up with WordPress.com</a></p> \
+						</form> \
+					</div> \
+				');
+				
+				jQuery('#wpl-mustlogin').hide().slideDown('fast');
+			} );
+			
+			jQuery('#wpl-mustlogin input.input').live( 'focus', function() {
+				jQuery(this).prev().hide();
+			}).live( 'blur', function() {
+				if ( jQuery(this).val() == '' )
+					jQuery(this).prev().show();
+			});
+			
+			jQuery('#wpl-mustlogin input#wp-submit').live( 'click', function(e) {
+				e.preventDefault();
+				
+				jQuery.post( 'http://stefanmey.wordpress.com/wp-admin/admin-ajax.php', { 
+					'action': 'wpl_record_stat',
+					'stat_name': 'loggedout_login_submit'
+				}, function() {
+					jQuery('#wpl-mustlogin form').submit();
+				} );
+			});			
+			
+			jQuery('#wpl-mustlogin a#wpl-signup-link').live( 'click', function(e) {
+				e.preventDefault();
+				
+				var link = jQuery(this).attr('href');
+				
+				jQuery.post( 'http://stefanmey.wordpress.com/wp-admin/admin-ajax.php', { 
+					'action': 'wpl_record_stat',
+					'stat_name': 'loggedout_signup_click'
+				}, function() {
+					location.href = link;
+				} );
+			});					
+			
+		});
+	/* ]]> */
+	</script>
+<script type="text/javascript">_qoptions={qacct:'p-18-mFEk4J448M',labels:'language.de,type.wpcom,posttag.counterpublics,posttag.julian-assange,posttag.whistleblowing,posttag.wikileaks'};</script>
+<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
+<noscript><p><img class="robots-nocontent" src="http://pixel.quantserve.com/pixel/p-18-mFEk4J448M.gif?labels=language.de%2Ctype.wpcom%2Cposttag.counterpublics%2Cposttag.julian-assange%2Cposttag.whistleblowing%2Cposttag.wikileaks" style="display:none" height="1" width="1" alt="" /></p></noscript>
+<script type='text/javascript' src='http://s.gravatar.com/js/gprofiles.js?n&#038;ver=MU'></script>
+	<script type="text/javascript">	
+	// <![CDATA[
+	WPGroHo = {
+		data: {},
+		renderers: {},
+		syncProfileData: function( hash, id ) {
+			if ( !WPGroHo.data[hash] ) {
+				WPGroHo.data[hash] = {};
+				a = jQuery( 'div.grofile-hash-map-' + hash + ' span' ).each( function() {
+					WPGroHo.data[hash][this.className] = jQuery( this ).text();
+				} );
+			}
+
+			WPGroHo.appendProfileData( WPGroHo.data[hash], hash, id );
+		},
+		appendProfileData: function( data, hash, id ) {
+			for ( var key in data ) {
+				if ( jQuery.isFunction( WPGroHo.renderers[key] ) ) {
+					return WPGroHo.renderers[key]( data[key], hash, id, key );
+				}
+
+				jQuery( '#' + id ).find( 'h4' ).after( jQuery( '<p class="grav-extra ' + key + '" />' ).html( data[key] ) );
+			}
+		}
+	};
+	jQuery(document).ready(function($){
+		Gravatar.profile_cb = function( h, d ) {
+			WPGroHo.syncProfileData( h, d );
+		};
+		Gravatar.attach_profiles();
+	});
+	// ]]>
+	</script>
+	<div style="display:none">
+	<div class="grofile-hash-map-6373eeb951a768b2186ec04d1ad5d8c2">
+	</div>
+	<div class="grofile-hash-map-4a2a84d34ecb9d048744b6f22c49da2a">
+	</div>
+	<div class="grofile-hash-map-d62efd1adb64025065e4817b2e167ad4">
+	</div>
+	<div class="grofile-hash-map-a58be08b6a90c016bdde39c2f5cc9bcd">
+	</div>
+	</div>
+<script type="text/javascript" src="http://b.scorecardresearch.com/beacon.js"></script><script type="text/javascript">try{COMSCORE.beacon({c1:2,c2:7518284});}catch(e){}</script><noscript><p class="robots-nocontent"><img src="http://b.scorecardresearch.com/p?cj=1c1=2&#038;c2=7518284" alt="" style="display:none" width="1" height="1" /></p></noscript><script src="http://s.stats.wordpress.com/w.js?19" type="text/javascript"></script>
+<script type="text/javascript">
+st_go({'blog':'1892477','v':'wpcom','user_id':'0','post':'507','subd':'stefanmey'});
+ex_go({'crypt':'RDZ8LFkxbXFDLktoNzN4ZXpzQTY0K0d8aUI3JnhSYVlsLU9qXz9mdEF5QlduQndhSi03N0Z2K2xFP0ssaj1tdXFXUzVVZ3kldWVWVEkscWk3MU9XSW1KeURJN1ZfeERpbj9rVzJhM1Q0ZDMubXVzaVIxa2wuSjA1ZzZiWzJvMm9sfmc2LFtaLlVhRXBUNSxIRH41bkhbLWFaNUJUVS9tN0huSXV4M35wdTA4RWlofEZEUmdiWzd1biZIaG5mdXoleGNJMFhxTkFoNCwuTGdmVlh8WjVNJnJaU2t8Rk1IJXBrTXdNLnhPc2g='});
+addLoadEvent(function(){linktracker_init('1892477',507);});
+	</script>
+</body>
+</html>
