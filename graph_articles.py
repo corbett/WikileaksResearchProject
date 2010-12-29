@@ -30,8 +30,8 @@ from BeautifulSoup import *
 from pygraph.classes.graph import graph
 from pygraph.readwrite.dot import write
 import nltk.data
+from nltk import word_tokenize
 from collections import defaultdict
-tokenizer = nltk.data.load('tokenizers/punkt/english.pickle')
 
 class Parser:
     def __init__(self):
@@ -53,26 +53,42 @@ class Parser:
             return contents 
         else:
             return elem
-
 links=defaultdict(list)
+# Parser and tokenizer used to split docs into sentences
 parser=Parser()
-# We'll represent docs by numbers instead of names to keep things clear
+tokenizer = nltk.data.load('tokenizers/punkt/english.pickle')
 doc_map=codecs.open('../wl_article_connections.dict','w','utf-8')
+interest_map=defaultdict(lambda:defaultdict(lambda: 0))
+interests=['assange','Assange','Schmitt','schmitt','Clinton','clinton','Obama','obama','Rape','rape','Wikileaks','wikileaks']
+
 # Graph creation, linking any documents which contain the same sentences
 gr = graph()
 # Mapping sentences to docs which contain them 
 for i,name in enumerate(os.listdir('.')):
+    # We'll represent docs by numbers instead of names to keep things clear
     doc_map.write(u'%d\t%s\n' % (i,name))
     doc=codecs.open(name).read()
     try:
         title,doc=parser.parse(doc)
         sentences = tokenizer.tokenize(doc.strip())
         for sent in sentences:
+            #TODO: figure out utf-8 eqv. of map(str.lower,words) or use nltk normalizer
+            words=dict.fromkeys(word_tokenize(sent))
+            for thing in interests:
+                if words.has_key(thing):
+                    interest_map[doc][thing]=1
             links[sent]+=[i]
     except Exception,e:
         continue
 
-# I have this list of banned characters as the parser (above) isn't all that talented at getting rid of javascript/html at all times. I assume if a sentence has these characters it is one of the affor
+#we are ready to print out thing of interest stats 
+# TODO: write to a file I am in a hurry
+print 'Out of',i,len(interest_map.keys())
+for thing in interests:
+    print thing
+    print sum(map(lambda d:d[thing],interest_map.values()))
+
+# I have this list of banned characters as the parser (above) isn't all that talented at getting rid of javascript/html at all times. I assume if a sentence has these characters it is one of the afforementioned
 banned_chars=['<','>','\.js','=','+','{','}','&','_','(',')','#','`','http'] #TODO change this to a regexp
 matching_sents={}
 connection_count=defaultdict(lambda: 0)
